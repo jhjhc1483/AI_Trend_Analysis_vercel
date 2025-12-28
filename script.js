@@ -2,7 +2,7 @@
 // 1. 설정 및 공통 함수 (토큰 관련 코드 제거됨)
 // -----------------------------------------------------
 const OWNER = "jhjhc1483";
-const REPO = "AI_Trend_Analysis";
+const REPO = "AI_Trend_Analysis_vercel";
 const BRANCH = "main";
 
 // ★ 핵심: GitHub API 대신 Vercel Serverless Function을 호출하는 함수
