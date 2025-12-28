@@ -1,43 +1,70 @@
 // -----------------------------------------------------
-// 1. 설정 및 초기화 (토큰/OWNER 변수 삭제됨)
+// 1. 설정 및 공통 함수 (토큰 관련 코드 제거됨)
 // -----------------------------------------------------
-// Vercel 서버가 환경변수를 관리하므로 클라이언트에는 토큰이 필요 없습니다.
+const OWNER = "jhjhc1483";
+const REPO = "AI_Trend_Analysis";
+const BRANCH = "main";
 
+// ★ 핵심: GitHub API 대신 Vercel Serverless Function을 호출하는 함수
+async function callProxyAPI(endpoint, method = 'GET', body = null) {
+    try {
+        const res = await fetch('/api/github', {
+            method: 'POST', // 프록시에는 항상 POST로 데이터 전달
+            headers: {
+                'Content-Type': 'application/json',
+            },
+            body: JSON.stringify({
+                endpoint: endpoint, // 예: repos/owner/repo/...
+                method: method,     // 실제 GitHub에 보낼 method (GET, POST, PUT 등)
+                body: body          // 실제 GitHub에 보낼 데이터
+            })
+        });
+
+        if (!res.ok) {
+            const errData = await res.json().catch(() => ({}));
+            throw new Error(errData.message || `HTTP Error ${res.status}`);
+        }
+        
+        // 204 No Content 처리
+        if (res.status === 204) return null;
+        
+        return await res.json();
+    } catch (error) {
+        throw error;
+    }
+}
+
+// -----------------------------------------------------
+// 2. 기사 업데이트 실행 (runActionBtn)
+// -----------------------------------------------------
 document.getElementById('runActionBtn').addEventListener('click', async function() {
     const message = "⚠️기사 업데이트를 진행하시겠습니까?⚠️\n\n" +
-                "✅기사는 지정된 시간에 맞춰 자동으로 업데이트 됩니다.\n" +
-                "✅수동으로 기사 업데이트 시 최소 5분 이상의 시간이 소요 됩니다.";
+                    "✅기사는 지정된 시간에 맞춰 자동으로 업데이트 됩니다.\n" +
+                    "✅수동으로 기사 업데이트 시 최소 5분 이상의 시간이 소요 됩니다.";
 
     if (!confirm(message)) return;
 
-    try {
-        // [변경됨] 내 Vercel API 호출
-        const res = await fetch('/api/action', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ workflowId: "main.yml" })
-        });
+    const WORKFLOW_ID = "main.yml";
+    const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
-        if (res.ok) {
-            alert("✅ 실행 성공! 최소 5분의 시간이 소요 됩니다.\n페이지를 새로고침 하세요.");
-        } else {
-            const err = await res.json();
-            alert(`❌ 실패: ${err.message || '오류 발생'}`);
-        }
+    try {
+        await callProxyAPI(endpoint, 'POST', { ref: "main" });
+        alert("✅ 실행 성공! 최소 5분의 시간이 소요 됩니다.\n페이지를 새로고침 하세요.");
     } catch (error) {
         console.error('Error:', error);
-        alert("네트워크 오류가 발생했습니다.");
+        alert(`❌ 실패: ${error.message}`);
     }
 });
 
-// data.txt 팝업 띄우기
+// -----------------------------------------------------
+// 3. 파일 불러오기 (loadFileBtn)
+// -----------------------------------------------------
 const popup = document.getElementById('popup');
 const overlay = document.getElementById('overlay');
 const contentDiv = document.getElementById('popupContent');
-
 const PATH = "codes/data.txt";
+
 function base64ToUtf8(base64) {
-    // 줄바꿈 제거 후 디코딩
     const binary = atob(base64.replace(/\n/g, ""));
     const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
     return new TextDecoder("utf-8").decode(bytes);
@@ -45,59 +72,52 @@ function base64ToUtf8(base64) {
 
 document.getElementById('loadFileBtn').addEventListener('click', async () => {
     try {
-        // [변경됨] 내 Vercel API 호출 (GET)
-        const res = await fetch(`/api/file?path=${PATH}`);
-        if (!res.ok) throw new Error(`HTTP error! status: ${res.status}`);
+        const endpoint = `repos/${OWNER}/${REPO}/contents/${PATH}?ref=${BRANCH}`;
+        const data = await callProxyAPI(endpoint, 'GET');
         
-        const data = await res.json();
-        const text = base64ToUtf8(data.content);            
+        const text = base64ToUtf8(data.content);
         contentDiv.textContent = text;
         popup.style.display = 'block';
         overlay.style.display = 'block';
+        console.log(text);
     } catch (error) {
         console.error(error);
         alert("파일을 불러오는 중 오류 발생: " + error.message);
     }
 });
 
+// 닫기 및 복사 버튼
 document.getElementById('closeBtn').addEventListener('click', () => {
     popup.style.display = 'none';
     overlay.style.display = 'none';
 });
-
 document.getElementById('copyBtn2').addEventListener('click', () => {
     navigator.clipboard.writeText(contentDiv.textContent)
         .then(() => alert("복사 완료!"))
         .catch(err => alert("복사 실패: " + err));
 });
 
-// 텍스트 추출 액션 실행
+// -----------------------------------------------------
+// 4. 텍스트 추출 실행 (runActionBtn2)
+// -----------------------------------------------------
 document.getElementById('runActionBtn2').addEventListener('click', async function() {
+    const WORKFLOW_ID = "json_to_txt.yml";
+    const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
+
     try {
-        // [변경됨] 내 Vercel API 호출
-        const res = await fetch('/api/action', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ workflowId: "json_to_txt.yml" })
-        });
-        
-        if (res.ok) {
-            alert("✅ 즐겨찾기에 있는 목록을 일일 동향을 텍스트로 만듭니다.\n\n약 30초 후 페이지를 새로고침 하고 대시보드에서 \n'텍스트추출'을 누르세요.");
-        } else {
-            const err = await res.json();
-            alert(`❌ 실패: ${err.message || '오류 발생'}`);
-        }
+        await callProxyAPI(endpoint, 'POST', { ref: "main" });
+        alert("✅ 즐겨찾기에 있는 목록을 일일 동향을 텍스트로 만듭니다.\n\n약 30초 후 페이지를 새로고침 하고 대시보드에서 \n'텍스트추출'을 누르세요.");
     } catch (error) {
         console.error('Error:', error);
-        alert("네트워크 오류가 발생했습니다.");
+        alert(`❌ 실패: ${error.message}`);
     }
 });
 
 // -----------------------------------------------------
-// 데이터 로드 로직 (기존 유지하되 fetch 경로 확인)
+// 5. 전역 변수 및 데이터 로드 (기존 로직 유지)
 // -----------------------------------------------------
 let articleData = [];
-let publicationData = []; 
+let publicationData = [];
 let allDataLoaded;
 let debounceTimeout;
 let currentView = 'HOME';
@@ -123,8 +143,6 @@ const FILES_TO_LOAD = [
     { url: 'codes/tta.json' + cacheBuster, site: 'TTA', isArticle: false, displayName: 'TTA' }
 ];
 
-// loadData 함수는 기존에 json 파일을 직접 fetch하므로 수정 불필요 
-// (단, codes 폴더가 public에 있어야 함. Vercel 배포시 루트에 있으면 접근 가능)
 function loadData() {
     const favArticlesStr = localStorage.getItem('favoriteArticles');
     const favPublicationsStr = localStorage.getItem('favoritePublications');
@@ -137,6 +155,7 @@ function loadData() {
             favoriteArticles = new Map(parsed.map(link => [link, '기타']));
         }
     }
+
     if (favPublicationsStr) {
         const parsed = JSON.parse(favPublicationsStr);
         if (Array.isArray(parsed) && parsed.length > 0 && Array.isArray(parsed[0])) {
@@ -144,12 +163,13 @@ function loadData() {
         } else if (Array.isArray(parsed)) {
             favoritePublications = new Map(parsed.map(link => [link, '기타']));
         }
-    }           
+    }            
 
     const promises = FILES_TO_LOAD.map(file => {
+        // 데이터 파일은 public 접근 가능하므로 기존 fetch 유지
         return fetch(file.url)
             .then(response => {
-                if (!response.ok) throw new Error(`Failed to load`);
+                if (!response.ok) throw new Error(`Failed to load ${file.url}`);
                 return response.json();
             })
             .then(data => {
@@ -178,19 +198,24 @@ function loadData() {
                 }
             });
             allDataLoaded = true;
-            console.log(`데이터 로드 완료: 기사 ${articleData.length}, 간행물 ${publicationData.length}`);
+            console.log(`Loaded ${articleData.length} articles, ${publicationData.length} publications.`);
             showTab('HOME');
         })
-        .catch(error => console.error("Critical error:", error));
+        .catch(error => {
+            console.error("Critical error:", error);
+            document.getElementById('no-data').textContent = "데이터 로드 중 치명적인 오류 발생.";
+        });
 }
 
+// -----------------------------------------------------
+// 6. UI/UX 렌더링 및 헬퍼 함수들 (기존 로직 유지)
+// -----------------------------------------------------
 function sortData(data, sortBy) {
     const sortedData = [...data];
     sortedData.sort((a, b) => {
         const getDateString = (item) => `${item.년 || '0000'}${item.월 || '00'}${item.일 || '00'}${item.시 || '00'}${item.분 || '00'}`;
         const dateA = getDateString(a);
         const dateB = getDateString(b);
-        
         switch (sortBy) {
             case 'date_asc': return dateA.localeCompare(dateB);
             case 'date_desc': return dateB.localeCompare(dateA);
@@ -263,7 +288,7 @@ function renderList(sourceName) {
         if (isFav) data = articleData.filter(a => favoriteArticles.has(a.link));
         else if (isAll) data = articleData;
         else data = articleData.filter(a => a.site === sourceName);
-    } else { 
+    } else {
         sortBy = document.getElementById('sort-by-publication').value;
         searchTerm = document.getElementById('search-term-publication').value.toLowerCase();
         dataLabel = '간행물';
@@ -273,17 +298,16 @@ function renderList(sourceName) {
     }
 
     if (searchTerm) data = data.filter(item => item.title.toLowerCase().includes(searchTerm));
-    
-    const filtered = sortData(data, sortBy);
+    const filteredAndSortedData = sortData(data, sortBy);
     const listContainer = document.getElementById('data-list-container');
     const noDataMsg = document.getElementById('no-data');
 
-    if (filtered.length === 0) {
+    if (filteredAndSortedData.length === 0) {
         listContainer.innerHTML = '';
         noDataMsg.style.display = 'block';
         noDataMsg.textContent = searchTerm ? `검색어 "${searchTerm}" 결과 없음` : `데이터가 없습니다.`;
     } else {
-        listContainer.innerHTML = filtered.map(item => createListItem(item)).join('');
+        listContainer.innerHTML = filteredAndSortedData.map(item => createListItem(item)).join('');
         noDataMsg.style.display = 'none';
     }
 }
@@ -293,32 +317,28 @@ function createListItem(item) {
     const fullDate = `${item.년}.${item.월}.${item.일} ${timeInfo}`;
     let isFavorite = item.isArticle ? favoriteArticles.has(item.link) : favoritePublications.has(item.link);
     let categoryBadge = '';
+    let colorClass = 'cat-default';
 
     if (isFavorite) {
         const savedCat = item.isArticle ? favoriteArticles.get(item.link) : favoritePublications.get(item.link);
-        let colorClass = 'cat-default';
         if (item.isArticle) {
             if (savedCat === '국방') colorClass = 'cat-defense';
             else if (savedCat === '육군') colorClass = 'cat-army';
             else if (savedCat === '민간') colorClass = 'cat-civil';
-            else if (savedCat === '기타') colorClass = 'cat-etc';
+            else colorClass = 'cat-etc';
         } else {
             colorClass = 'cat-pub';
         }
         categoryBadge = `<span class="category-badge ${colorClass}">${savedCat}</span>`;
     }
 
-    const favIcon = isFavorite ? '★' : '☆';
-    const favClass = isFavorite ? 'is-favorite' : '';
-    
     return `
         <li class="article-item">
-            <button class="favorite-btn ${favClass}" onclick="toggleFavorite(event, '${item.link}', ${item.isArticle})">${favIcon}</button>
+            <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${item.link}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
             <div class="article-title-group">
-                <a href="#" class="article-title" onclick="openPopup('${item.link}', '${item.title}'); return false;">
-                    ${item.title}
-                </a>
-                ${categoryBadge} <div class="article-meta">
+                <a href="#" class="article-title" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
+                ${categoryBadge}
+                <div class="article-meta">
                     <span>출처: ${item.displayName}</span>
                     <span>분류: ${item.category || '-'}</span>
                 </div>
@@ -330,26 +350,27 @@ function createListItem(item) {
 
 function toggleFavorite(event, link, isArticle) {
     event.stopPropagation();
-    let isFav;
     if (isArticle) {
-        isFav = favoriteArticles.has(link);
-        if (isFav) favoriteArticles.delete(link);
+        if (favoriteArticles.has(link)) favoriteArticles.delete(link);
         else {
-            let cat = prompt("카테고리 입력 (국방, 육군, 민간, 기관, 기타)", "") || "기타";
+            let cat = prompt("카테고리 (국방, 육군, 민간, 기관, 기타)", "");
+            if (cat === null) return;
             favoriteArticles.set(link, cat.trim() || "기타");
         }
         localStorage.setItem('favoriteArticles', JSON.stringify(Array.from(favoriteArticles.entries())));
     } else {
-        isFav = favoritePublications.has(link);
-        if (isFav) favoritePublications.delete(link);
+        if (favoritePublications.has(link)) favoritePublications.delete(link);
         else favoritePublications.set(link, "간행물");
         localStorage.setItem('favoritePublications', JSON.stringify(Array.from(favoritePublications.entries())));
     }
     renderCurrentView();
+    if (currentView === 'HOME') {
+        document.getElementById(isArticle ? 'stat-fav-articles' : 'stat-fav-publications').textContent = isArticle ? favoriteArticles.size : favoritePublications.size;
+    }
 }
 
 function clearFavorites(type) {
-    if (!confirm('즐겨찾기를 모두 삭제하시겠습니까?')) return;
+    if (!confirm("정말 모두 삭제하시겠습니까?")) return;
     if (type === 'ARTICLE') {
         favoriteArticles.clear();
         localStorage.setItem('favoriteArticles', JSON.stringify([]));
@@ -358,19 +379,19 @@ function clearFavorites(type) {
         localStorage.setItem('favoritePublications', JSON.stringify([]));
     }
     renderCurrentView();
-}   
+}
 
 function openPopup(link, title) {
     if (link && link !== '#') window.open(link, '_blank');
-    else alert(`"${title}"의 링크 정보가 없습니다.`);
+    else alert(`"${title}" 링크가 없습니다.`);
 }
 
-function debounce(func, delay) {
+const debounce = (func, delay) => {
     return function(...args) {
         clearTimeout(debounceTimeout);
         debounceTimeout = setTimeout(() => func.apply(this, args), delay);
     };
-}
+};
 const debounceSearchArticles = debounce(renderCurrentView, 300);
 const debounceSearchPublications = debounce(renderCurrentView, 300);
 
@@ -384,115 +405,102 @@ document.addEventListener('DOMContentLoaded', () => {
     loadData();
 });
 
-// ----------------------------------------------------------------------
-// [중요 변경] 즐겨찾기 저장 로직 (Vercel API 사용)
-// ----------------------------------------------------------------------
+// -----------------------------------------------------
+// 7. 즐겨찾기 JSON 업로드 (uploadFavoritesBtn)
+// -----------------------------------------------------
 document.getElementById('uploadFavoritesBtn').addEventListener('click', async function() {
     const files = [
         {
             type: "ARTICLE",
             path: "codes/favorites/favorite_articles.json",
-            data: articleData.filter(item => favoriteArticles.has(item.link))
-                      .map(item => ({ title: item.title, link: item.link, category: favoriteArticles.get(item.link) }))
+            data: articleData.filter(item => favoriteArticles.has(item.link)).map(item => ({
+                title: item.title, link: item.link, category: favoriteArticles.get(item.link)
+            }))
         },
         {
             type: "PUBLICATION",
             path: "codes/favorites/favorite_publications.json",
-            data: publicationData.filter(item => favoritePublications.has(item.link))
-                      .map(item => ({ title: item.title, link: item.link, category: favoritePublications.get(item.link) }))
+            data: publicationData.filter(item => favoritePublications.has(item.link)).map(item => ({
+                title: item.title, link: item.link, category: favoritePublications.get(item.link)
+            }))
         }
     ];
 
     for (const file of files) {
         if (file.data.length === 0) continue;
-
         const jsonString = JSON.stringify(file.data, null, 2);
         const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
 
         try {
-            // 1. 기존 파일의 SHA 값을 가져오기 위해 GET 요청
-            const checkRes = await fetch(`/api/file?path=${file.path}`);
+            // 1. SHA 조회
             let sha = null;
-            if (checkRes.ok) {
-                const checkData = await checkRes.json();
-                sha = checkData.sha;
-            }
+            const getEndpoint = `repos/${OWNER}/${REPO}/contents/${file.path}`;
+            const getResData = await callProxyAPI(getEndpoint, 'GET').catch(() => null);
+            if (getResData && getResData.sha) sha = getResData.sha;
 
-            // 2. PUT 요청으로 파일 업로드
-            const putRes = await fetch('/api/file', {
-                method: 'PUT',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    path: file.path,
-                    message: `update ${file.path}`,
-                    content: encodedContent,
-                    sha: sha // 기존 파일이 있으면 sha 포함
-                })
-            });
-
-            if (putRes.ok) console.log(`✅ ${file.type} 저장 완료`);
-            else {
-                const err = await putRes.json();
-                console.error(`❌ 업로드 실패: ${err.message}`);
-            }
-        } catch (e) {
-            console.error("업로드 중 에러", e);
+            // 2. 파일 업로드 (PUT)
+            const putBody = {
+                message: `update ${file.path}`,
+                content: encodedContent,
+                branch: BRANCH,
+                ...(sha && { sha })
+            };
+            
+            await callProxyAPI(getEndpoint, 'PUT', putBody);
+            console.log(`✅ ${file.type} 저장 완료`);
+        } catch (err) {
+            console.error(`❌ ${file.type} 실패: ${err.message}`);
+            alert(`${file.type} 저장 실패`);
         }
     }
-    alert("✅ 데이터 업로드 로직 수행 완료");
+    alert("✅ 모든 데이터 업로드 완료");
 });
 
 // 사이드바 토글
-const sidebarToggle = document.getElementById('sidebarToggle');
-const container = document.querySelector('.container');
-sidebarToggle.addEventListener('click', () => {
+document.getElementById('sidebarToggle').addEventListener('click', () => {
+    const container = document.querySelector('.container');
     if (window.innerWidth <= 768) container.classList.toggle('sidebar-open');
     else container.classList.toggle('sidebar-collapsed');
 });
 
-// ----------------------------------------------------------------------
-// [중요 변경] 데이터 삭제 로직 (Vercel API 사용)
-// ----------------------------------------------------------------------
+// -----------------------------------------------------
+// 8. 데이터 전체 삭제 (deleteCodesBtn)
+// -----------------------------------------------------
 document.getElementById('deleteCodesBtn').addEventListener('click', async function () {
-    const confirmMsg = "⚠️ 경고: 모든 데이터를 삭제합니다. 이 작업은 되돌릴 수 없습니다.";
+    const confirmMsg = "⚠️ 경고 ⚠️\n모든 데이터를 삭제합니다.\n이 작업은 되돌릴 수 없습니다.\n정말 삭제하시겠습니까?";
     if (!confirm(confirmMsg)) return;
 
-    const folderPath = "codes"; 
-
     try {
-        // 1. codes 폴더 목록 가져오기 (GET)
-        const res = await fetch(`/api/file?path=${folderPath}`);
-        if (!res.ok) {
-            alert("❌ codes 폴더를 불러오지 못했습니다.");
-            return;
+        const listEndpoint = `repos/${OWNER}/${REPO}/contents/codes`;
+        const files = await callProxyAPI(listEndpoint, 'GET');
+
+        if (!Array.isArray(files)) {
+            throw new Error("파일 목록을 불러오지 못했습니다.");
         }
-        const files = await res.json();
-        const targetFiles = files.filter(file => file.type === "file" && (file.name.endsWith(".json") || file.name.endsWith(".txt")));
+
+        const targetFiles = files.filter(file => 
+            file.type === "file" && (file.name.endsWith(".json") || file.name.endsWith(".txt"))
+        );
 
         if (targetFiles.length === 0) {
             alert("삭제할 데이터가 없습니다.");
             return;
         }
 
-        // 2. 파일 개별 삭제 (DELETE)
         for (const file of targetFiles) {
-            const deleteRes = await fetch('/api/file', {
-                method: 'DELETE',
-                headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({
-                    path: file.path,
-                    sha: file.sha,
-                    message: `delete ${file.path}`
-                })
-            });
-
-            if (deleteRes.ok) console.log(`🗑 삭제 완료: ${file.name}`);
-            else console.error(`❌ 삭제 실패: ${file.name}`);
+            const deleteBody = {
+                message: `delete ${file.path}`,
+                sha: file.sha,
+                branch: BRANCH
+            };
+            const endpoint = `repos/${OWNER}/${REPO}/contents/${file.path}`;
+            await callProxyAPI(endpoint, 'DELETE', deleteBody);
+            console.log(`🗑 삭제 완료: ${file.name}`);
         }
 
         alert(`✅ 데이터 초기화 완료\n잠시후 페이지를 새로고침하세요.`);
     } catch (error) {
         console.error(error);
-        alert("❌ 삭제 중 오류 발생");
+        alert("❌ 삭제 중 오류 발생: " + error.message);
     }
 });
