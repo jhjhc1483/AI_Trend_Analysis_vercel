@@ -1,5 +1,6 @@
 {
-  "name": "my-ai-trend",
+  "name": "ai-trend-analysis",
   "version": "1.0.0",
+  "type": "module", 
   "dependencies": {}
 }
