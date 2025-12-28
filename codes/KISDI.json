@@ -1,0 +1,666 @@
+[
+    {
+        "제목": "중국 유통 플랫폼의 글로벌 확장과 대응방안",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1830836",
+        "년": "2025",
+        "월": "02",
+        "일": "28"
+    },
+    {
+        "제목": "통신시장의 경쟁활성화를 위한 공동지배력 평가 방법론 연구",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1831676",
+        "년": "2025",
+        "월": "02",
+        "일": "28"
+    },
+    {
+        "제목": "디지털 환경 변화를 반영한 데이터 트래픽 예측 연구",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1831696",
+        "년": "2025",
+        "월": "02",
+        "일": "28"
+    },
+    {
+        "제목": "디지털 심화에 따른 몰입형 서비스 생태계 연구",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1832656",
+        "년": "2025",
+        "월": "02",
+        "일": "28"
+    },
+    {
+        "제목": "기술진보에 따른 산업별 업무 변화 연구",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1823836",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "온라인 광고 시장의 경매 경쟁에 대한 연구",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1825856",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "5G 요금제 특성이 이용자 편익에 미치는 영향: 단말기와 요금제의 결속을 중심으로",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1825876",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "방송 프로그램 장르 구분의 타당성 검토: 방송법과 방송사업자 및 수용자의 장르 분류 기준 차이를 중심으로",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1825896",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "생성형 AI가 미디어 분야에 미칠 영향에 대한 탐색적 연구",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1826196",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "디지털 경제 활성화를 위한 실물자산토큰(Real World Asset)시장의 탈중앙화 금융 알고리즘 적용 가능성 연구",
+        "분류": "기본연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934560&arrMasterId=3934560&artId=1826716",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2024 지능정보사회 이용자 패널조사",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1833198",
+        "년": "2025",
+        "월": "05",
+        "일": "29"
+    },
+    {
+        "제목": "2024년 북한 방송통신 이용실태 조사 사업결과보고서",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1818076",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI 윤리･신뢰성 확보를 위한 실천 방안 및 정책연구",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1820916",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI의 윤리적 개발･사용을 위한 개발자 대상 윤리교육 실천방안 연구･개발",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1820936",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2024 AI 윤리･신뢰성 포럼 운영 결과",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1820956",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "통신시장 경쟁상황 평가(2024년도)",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1829176",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "ICT 산업 중장기 전망(2025~2029) 및 대응전략",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1831716",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "ICT 산업 고용분석체계 구축",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1831736",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "ICT 규제개혁 기반연구",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1832676",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "ICT기반 사회현안 해결방안 연구",
+        "분류": "정책연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934580&arrMasterId=3934580&artId=1834076",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2024년 방송산업 실태조사 보고서",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1812716",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2024 방송 프로그램 외주제작 거래 실태 보고서",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1813376",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2024년도 KI시청자평가지수 조사",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1823816",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2024년 산업별 생산성 계정 구축 및 성장기여 분석 (1981-2023)",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1827856",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "국제 산업구조 변화에 따른 경제적 효과 분석 및 혁신성장 지표 연구",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1827876",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2024 ICT 기술정책협력",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1829736",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2024 ICT ODA 관리체계 구축",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1829756",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "미래지향적 플랫폼 정책 수립 방향: 생성형 AI와 경쟁 이슈",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1862481",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "미래지향적 플랫폼 정책 수립 방향: 디지털 경제의 부상과 플랫폼 산업정책 과제",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1862496",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "미래지향적 플랫폼 정책 수립 방향: 디지털 플랫폼과 글로벌 시장 확대 - 크로스보더 이커머스 플랫폼을 중심으로",
+        "분류": "정책자료",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934581&arrMasterId=3934581&artId=1862516",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "디지털 전환 시대의 디지털 산업 현황 분석",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=1800056",
+        "년": "2024",
+        "월": "08",
+        "일": "31"
+    },
+    {
+        "제목": "디지털 생태계 환경 변화를 고려한 통신서비스 이용패턴 분석",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=1777976",
+        "년": "2023",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "개도국 금융협동조합의 디지털 전환 효과성 분석 연구: 우간다 새마을금고 사례를 중심으로",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=1134616",
+        "년": "2022",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "CBDC 도입 동향 및 주요 고려 사항",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=656121",
+        "년": "2021",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "유럽연합 디지털시장법안 주요 내용 및 시사점",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=554331",
+        "년": "2020",
+        "월": "12",
+        "일": "23"
+    },
+    {
+        "제목": "재난대응 패러다임 변화에 따른 ICT의 역할 및 정책적 시사점",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=556056",
+        "년": "2020",
+        "월": "09",
+        "일": "30"
+    },
+    {
+        "제목": "ICT 분야를 둘러싼 미·중 갈등과 시사점 연구",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=552035",
+        "년": "2019",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "4차 산업혁명 시대의 스마트네이션 추진전략 연구",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=550635",
+        "년": "2019",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "기계학습 동향 파악을 위한 연구반 운영",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=521132",
+        "년": "2017",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "블록체인 동향 파악을 위한 연구반 운영",
+        "분류": "현안연구",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934586&arrMasterId=3934586&artId=521133",
+        "년": "2017",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "지역별 AI 준비도 (AI Readiness)를 중심으로 한 지역 균형 발전 전략 연구",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1885456",
+        "년": "2025",
+        "월": "11",
+        "일": "28"
+    },
+    {
+        "제목": "[특집 6호] 글로벌 AI 거버넌스 논의 동향과 한국의 AI 국제협력 전략",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1878756",
+        "년": "2025",
+        "월": "11",
+        "일": "10"
+    },
+    {
+        "제목": "[특집 5호] AI 대전환기 시청각미디어 산업 진흥을 위한 전략 및 정책과제",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1878716",
+        "년": "2025",
+        "월": "11",
+        "일": "07"
+    },
+    {
+        "제목": "[특집 4호] AI 이동통신 인프라 고도화의 주요 쟁점",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1878016",
+        "년": "2025",
+        "월": "11",
+        "일": "03"
+    },
+    {
+        "제목": "[특집 3호] 포용적 AI 기본사회 구현을 위한 정책 방향: 보편적 접근, 안전한 서비스, 책임 있는 활용",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1877476",
+        "년": "2025",
+        "월": "10",
+        "일": "28"
+    },
+    {
+        "제목": "[특집 1호] 글로벌 AI 경쟁전략 및 대응방안: 풀스택(Full-stack)의 관점에서",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1874116",
+        "년": "2025",
+        "월": "09",
+        "일": "30"
+    },
+    {
+        "제목": "[특집 2호] AI·디지털 생태계 공정경쟁 및 이용자 정책방향",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1874136",
+        "년": "2025",
+        "월": "09",
+        "일": "30"
+    },
+    {
+        "제목": "모두의 진짜 성장을 위한 AI 에이전트 경제 전략",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1875036",
+        "년": "2025",
+        "월": "09",
+        "일": "30"
+    },
+    {
+        "제목": "AI 시대의 이동통신 인프라 고도화를 위한 중립 호스트 모델 검토",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1871356",
+        "년": "2025",
+        "월": "09",
+        "일": "05"
+    },
+    {
+        "제목": "미‧중 AI 경쟁 양상과 시사점",
+        "분류": "KISDI Premium Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=3934550&arrMasterId=3934550&artId=1863296",
+        "년": "2025",
+        "월": "07",
+        "일": "24"
+    },
+    {
+        "제목": "[초점] 생성형 AI와 데이터시장",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1894816",
+        "년": "2025",
+        "월": "11",
+        "일": "25"
+    },
+    {
+        "제목": "[초점] 국내 기업의 인공지능(AI) 도입 및 특징: 사업보고서(2010년~2024년)를 활용한 분석",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1880176",
+        "년": "2025",
+        "월": "11",
+        "일": "05"
+    },
+    {
+        "제목": "[초점] AI 생성물 표시 의무제 도입에 따른 방송미디어산업의 주요 쟁점 및 시사점",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1878979",
+        "년": "2025",
+        "월": "11",
+        "일": "03"
+    },
+    {
+        "제목": "[초점] BERTopic을 활용한 주요 시기별 생성형AI 텍스트 트렌드 변화 분석",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1878096",
+        "년": "2025",
+        "월": "10",
+        "일": "27"
+    },
+    {
+        "제목": "[초점] 글로벌 미디어 기업의 탄소중립 이행 동향 및 국내 시사점",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1878076",
+        "년": "2025",
+        "월": "10",
+        "일": "22"
+    },
+    {
+        "제목": "[동향] 중국의 인공지능 플러스(AI+) 전략: 「‘인공지능 플러스(AI+)’ 행동 심화 실시에 관한 의견」 주요 내용",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1877456",
+        "년": "2025",
+        "월": "10",
+        "일": "20"
+    },
+    {
+        "제목": "[초점] 한국 AI 정책 현황 및 발전 방안 : OECD AI 원칙을 중심으로",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1875076",
+        "년": "2025",
+        "월": "09",
+        "일": "29"
+    },
+    {
+        "제목": "[동향] 중국의 AI 안전 거버넌스 프레임워크 2.0: 특징과 함의",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1873936",
+        "년": "2025",
+        "월": "09",
+        "일": "24"
+    },
+    {
+        "제목": "[동향] EU의 범용 AI 실천 강령: 시스템적 위험 평가를 중심으로",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1869856",
+        "년": "2025",
+        "월": "08",
+        "일": "18"
+    },
+    {
+        "제목": "[동향] 일본, “디지털 공간의 불법·유해정보에 대한 제도적 대응 방향”",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1866036",
+        "년": "2025",
+        "월": "07",
+        "일": "28"
+    },
+    {
+        "제목": "미디어 다이어리에 기반한 ‘매체-연결-행위’ 간 연계 분석",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1880260",
+        "년": "2025",
+        "월": "10",
+        "일": "30"
+    },
+    {
+        "제목": "연령별로 살펴본 산업별 일자리 이동과 특징",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1877436",
+        "년": "2025",
+        "월": "09",
+        "일": "30"
+    },
+    {
+        "제목": "OECD.AI를 통해 살펴본 글로벌 AI 동향 : 연구 성과, 투자, 생성형AI 모델을 중심으로",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1872156",
+        "년": "2025",
+        "월": "08",
+        "일": "30"
+    },
+    {
+        "제목": "연령별 생성형 인공지능 서비스 이용현황 분석",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1865976",
+        "년": "2025",
+        "월": "07",
+        "일": "30"
+    },
+    {
+        "제목": "고령층의 스마트기기 활용능력",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1856616",
+        "년": "2025",
+        "월": "06",
+        "일": "30"
+    },
+    {
+        "제목": "한국미디어패널조사를 통해 살펴본 실시간 방송 시청 분석",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1835819",
+        "년": "2025",
+        "월": "05",
+        "일": "30"
+    },
+    {
+        "제목": "뉴스데이터를 활용한 청년 고용 이슈 분석",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1832416",
+        "년": "2025",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "방송 프로그램 수출 현황분석",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1828396",
+        "년": "2025",
+        "월": "03",
+        "일": "30"
+    },
+    {
+        "제목": "한국인의 하루 미디어 이용패턴 분석",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1820356",
+        "년": "2025",
+        "월": "02",
+        "일": "28"
+    },
+    {
+        "제목": "2024년 한국미디어패널조사 주요 결과",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1817216",
+        "년": "2025",
+        "월": "01",
+        "일": "30"
+    },
+    {
+        "제목": "글로벌 AI 안전 거버넌스의 다극화와 한국의 전략적 대응 방향",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1873016",
+        "년": "2025",
+        "월": "09",
+        "일": "30"
+    },
+    {
+        "제목": "AI 중견국의 전략",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1873037",
+        "년": "2025",
+        "월": "09",
+        "일": "30"
+    },
+    {
+        "제목": "인공지능과 사이버보안: AI보안 거버넌스 체계 강화 방안을 중심으로",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1873056",
+        "년": "2025",
+        "월": "09",
+        "일": "30"
+    },
+    {
+        "제목": "인공지능 기술이 근로관계에 미치는 영향과 노동법적 대응 방안",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1839416",
+        "년": "2025",
+        "월": "06",
+        "일": "30"
+    },
+    {
+        "제목": "디지털 기술과 웰빙에 관한 소고",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1839456",
+        "년": "2025",
+        "월": "06",
+        "일": "30"
+    },
+    {
+        "제목": "Physical AI 시대에 대응한 On-device AI 반도체 경쟁력 강화 방향",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1839476",
+        "년": "2025",
+        "월": "06",
+        "일": "30"
+    },
+    {
+        "제목": "저작권법에서 본 데이터 윤리",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1818996",
+        "년": "2025",
+        "월": "03",
+        "일": "31"
+    },
+    {
+        "제목": "인간-휴머노이드 AI간의 언어 형상화와 사용자 경험",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1819016",
+        "년": "2025",
+        "월": "03",
+        "일": "31"
+    },
+    {
+        "제목": "AI 기반 소프트웨어 정의 공장을 활용한 제조 혁신",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1819036",
+        "년": "2025",
+        "월": "03",
+        "일": "31"
+    },
+    {
+        "제목": "글로벌 AI 패권 경쟁과 한국의 대응 전략",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1805176",
+        "년": "2024",
+        "월": "12",
+        "일": "30"
+    },
+    {
+        "제목": "[동향] ITU의 우주 지속가능성 관련 활동 개관 및 우주 지속가능성 포럼 논의 결과",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1904016",
+        "년": "2025",
+        "월": "12",
+        "일": "08"
+    },
+    {
+        "제목": "AI Index로 조망한 국가별 AI 준비도",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1904576",
+        "년": "2025",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "[초점] OECD 통합 GPAI와 한국의 AI 국제협력 전략",
+        "분류": "KISDI Perspectives",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4334696&arrMasterId=4334696&artId=1907276",
+        "년": "2025",
+        "월": "12",
+        "일": "15"
+    }
+]

@@ -1,0 +1,15 @@
+[2025-12-27 AI 일일 동향 보고]
+
+[기타]
+▲ 스탠포드·하버드, 에이전트의 실제 환경 적응 돕는 프레임워크 소개
+https://www.aitimes.com/news/articleView.html?idxno=205106
+
+[간행물]
+▲ AI 모델 3계층, 미국 수출통제, 중국 BCI [AI·ICT Brief 2025-42호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-251218-000001&cpage=1&rows=10&searchTarget=all
+
+▲ 2025년 빅데이터 플랫폼 기반 분석서비스 지원 사업 성과사례집
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=26537&bcIdx=28879&parentSeq=28879
+
+
+by. AI Development Department
