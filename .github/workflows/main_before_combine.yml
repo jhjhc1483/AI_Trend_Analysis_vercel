@@ -1,0 +1,189 @@
+# .github/workflows/main.yml
+
+name: Run Python Scripts Daily(brefore_combine)
+
+on:
+  # 1. 수동 실행 (Manual trigger) 설정
+  workflow_dispatch:
+
+  # 2. 스케줄 실행 (Scheduled trigger) 설정: 매일 한국 시간 오전 6시
+  # UTC 기준 시간으로 변환해야 합니다. 한국 시간 (KST)은 UTC+9 이므로,
+  # 한국 시간 오전 6시는 UTC 기준 오후 9시 (21시)입니다.
+  # schedule:
+    # '0 21 * * *' : 매일 21시 0분에 실행 (UTC 기준)
+    # - cron: '0 21 * * *'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # 작업 환경 설정
+    steps:
+      - name: Checkout repository
+        # 저장소 코드를 워크플로 러너로 가져옵니다.
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        # Python 3.10 버전을 설정합니다.
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.14'
+
+      - name: Install dependencies
+        # 3. 필요한 Python 라이브러리들을 설치합니다.
+        run: |
+          python -m pip install --upgrade pip
+          # Selenium, requests, beautifulsoup4, pandas, webdriver_manager 설치
+          pip install selenium requests beautifulsoup4 pandas webdriver-manager
+        
+      # Selenium WebDriver 설정 (Chrome)
+      # GitHub Actions 환경에서 Selenium을 사용하기 위한 추가 설정입니다.
+      - name: Set up Chrome for Selenium
+        run: |
+          # Chrome 설치 (ubuntu-latest 이미지에는 보통 기본적으로 설치되어 있지만, 명시적으로 실행)
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+          
+      # 4. codes/pycode/aitimes.py 실행 (Selenium 사용 - 헤드리스)
+      # aitimes.py는 Selenium을 사용하므로 먼저 실행하는 것이 좋습니다.
+      - name: Run aitimes.py (Headless Selenium)
+        run: |
+          python codes/pycode/aitimes.py
+
+      # 5. codes/pycode/NIA.py 실행
+      - name: Run NIA.py
+        run: |
+          python codes/pycode/NIA.py
+          
+      # 6. codes/pycode/etnews.py 실행
+      - name: Run etnews.py
+        run: |
+          python codes/pycode/etnews.py
+
+      # 7. codes/pycode/mnd.py 실행
+      - name: Run mnd.py
+        run: |
+          python codes/pycode/mnd.py      
+      
+      # 8. codes/pycode/STEPI.py 실행
+      - name: Run STEPI.py
+        run: |
+          python codes/pycode/STEPI.py               
+
+      # 9. codes/pycode/NIPA.py 실행
+      - name: Run NIPA.py
+        run: |
+          python codes/pycode/NIPA.py     
+
+      # 10. codes/pycode/KISDI.py 실행
+      - name: Run KISDI.py
+        run: |
+          python codes/pycode/KISDI.py                          
+
+      # 11. codes/pycode/dapa.py 실행
+      - name: Run dapa.py
+        run: |
+          python codes/pycode/dapa.py
+
+      # 12. codes/pycode/KISTI.py 실행
+      - name: Run KISTI.py
+        run: |
+          python codes/pycode/KISTI.py          
+
+      # 13. codes/pycode/iitp.py 실행
+      - name: Run iitp.py
+        run: |
+          python codes/pycode/iitp.py             
+
+      # 14. codes/pycode/AInews.py 실행
+      - name: Run AInews.py
+        run: |
+          python codes/pycode/AInews.py              
+
+          # 향후 추가될 다른 Python 스크립트 실행을 위한 주석 처리된 예시
+      # - name: Run another_script.py
+      #   run: |
+      #     python codes/pycode/another_script.py
+
+      # =============================================================
+      # 💡 추가된 핵심 단계: 생성된 파일(codes/aitimes.json)을 저장소에 커밋
+      # =============================================================
+                
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/aitimes.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/nia.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)          
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/etnews.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)          
+          
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/mnd.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)          
+      
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/STEPI.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)      
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/NIPA.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)                
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/KISDI.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)                
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/dapa.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)                
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/KISTI.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)     
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/iitp.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)     
+
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: 'codes/AInews.json'
+          commit_message: 'Automated NIA data update [skip ci]'
+          branch: main # 또는 master (사용하는 브랜치 이름으로 변경)     
+
+

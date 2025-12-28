@@ -1,0 +1,82 @@
+name: Run Python Scripts Daily
+
+on:
+  workflow_dispatch: # 수동 실행
+  schedule:
+    - cron: '0 20 * * 0-4'
+    - cron: '30 20 * * 0-4'  
+    - cron: '0 21 * * 0-4'
+    - cron: '30 21 * * 0-4'
+    - cron: '30 19 * * 0-4'
+    - cron: '0 9 * * *'
+    # # 매일 한국 시간 오전 10시반
+    # - cron: '30 1 * * *'    
+    # # 매일 한국 시간 오전 7시 (UTC 22시)
+    # - cron: '0 22 * * *'  
+    # # 매일 한국 시간 오전 6시반
+    # - cron: '30 21 * * *'  
+    # # 매일 한국 시간 오전 6시 (UTC 21시)
+    # - cron: '0 21 * * *'
+    # # 매일 한국 시간 오전 5시반
+    # - cron: '30 21 * * *'    
+    # # 매일 한국 시간 오전 5시 (UTC 20시)
+    # - cron: '0 20 * * *'    
+    # # 매일 한국 시간 오후 12시 (UTC 3시)
+    # - cron: '0 3 * * *'
+    # # 매일 한국 시간 오후 6시 (UTC 9시)
+    # - cron: '0 9 * * *'
+    # # 매주 월요일 오전 9시 (UTC 0시)
+    # #- cron: '0 0 * * 1'
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11' 
+
+      - name: Install dependencies
+        run: |
+          python -m pip install --upgrade pip
+          pip install selenium requests beautifulsoup4 pandas webdriver-manager numpy
+
+      - name: Set up Chrome for Selenium
+        run: |
+          sudo apt-get update
+          sudo apt-get install -y google-chrome-stable
+
+      - name: Run All Python Scripts
+        run: |
+          python codes/pycode/etnews.py  
+          python codes/pycode/mnd.py
+          python codes/pycode/aitimes.py
+          python codes/pycode/NIA.py
+          python codes/pycode/STEPI.py
+          python codes/pycode/NIPA.py
+          python codes/pycode/KISDI.py
+          python codes/pycode/dapa.py
+          python codes/pycode/KISTI.py
+          python codes/pycode/iitp.py
+          python codes/pycode/AInews.py
+          python codes/pycode/kookbang.py
+          python codes/pycode/msit.py
+          python codes/pycode/KISA.py
+          python codes/pycode/tta.py
+
+      # =============================================================
+      # 💡 최적화: 모든 JSON 파일을 한 번에 커밋 및 푸시
+      # =============================================================
+      - name: Commit and Push all changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          # codes/ 폴더 내의 모든 json 파일을 한 번에 커밋
+          file_pattern: 'codes/*.json'
+          commit_message: 'Automated data update: All sources [skip ci]'
+          branch: main
+ 

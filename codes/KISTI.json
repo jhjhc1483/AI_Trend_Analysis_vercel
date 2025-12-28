@@ -1,0 +1,3202 @@
+[
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=saa6s4CS3ztoq6YJMB5za4ZOM7v1Ok19uDyC8yZmgYYr7Pq1tSUqIowaXNVJEWMx.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "HPC+AI 시대의 자원배분 전략: 국가슈퍼컴퓨터 6호기 운영방안 수립을 위한 5호기 운영...",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6849",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터 경제의 핵심, 데이터 가치평가: 현황 진단과 미래 과제",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6848",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "사이버보안 위협 진화와 AI: 디지털 전환 시대 보안 전략",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6830",
+        "년": "2025",
+        "월": "11",
+        "일": "18"
+    },
+    {
+        "제목": "국방 MRO를 위한 데이터 기반 상태기반예측정비(CBM+)",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6807",
+        "년": "2025",
+        "월": "10",
+        "일": "28"
+    },
+    {
+        "제목": "디지털바이오 혁신을 이끄는 AI 기반 바이오 데이터분석 플랫폼",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6717",
+        "년": "2025",
+        "월": "07",
+        "일": "04"
+    },
+    {
+        "제목": "양자컴퓨팅 활용 현실화, SW를 중심으로",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6701",
+        "년": "2025",
+        "월": "05",
+        "일": "27"
+    },
+    {
+        "제목": "국가 초고성능컴퓨팅 서비스 선진화를 위한 분야별 전문센터 지정 및 공동활용체계 구축",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6675",
+        "년": "2025",
+        "월": "03",
+        "일": "25"
+    },
+    {
+        "제목": "미·중 기술패권과 트럼프 2기: 바이오 기술의 게임체인저 전략",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6651",
+        "년": "2025",
+        "월": "02",
+        "일": "25"
+    },
+    {
+        "제목": "메타버스 협업의 디지털 SOC, 개방형 XR 협업 플랫폼 XU:M",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6597",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "논문출판비용(APC)의 글로벌 비교분석과 시사점",
+        "분류": "이슈브리프",
+        "링크": "https://www.kisti.re.kr/post/issuebrief/6596",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제50호 : 글로벌 국가연구기관의 과학기술 수준과 협력 ...",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6838",
+        "년": "2025",
+        "월": "11",
+        "일": "28"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제49호 : 논문 데이터로 본 글로벌 과학기술 국제협력",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6731",
+        "년": "2025",
+        "월": "07",
+        "일": "16"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제48호 : 한국 소속 이력 연구자의 이동성 분석",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6730",
+        "년": "2025",
+        "월": "07",
+        "일": "16"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제47호 : 한국의 SDG분야 R&D 투자연계 성과 분석",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6716",
+        "년": "2025",
+        "월": "07",
+        "일": "02"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제46호 : 펀딩 유형에 따른 국가연구 개발사업 수준분석",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6715",
+        "년": "2025",
+        "월": "07",
+        "일": "02"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제45호 : 인공지능과 함께 예측한 미래 고성장 과학기술...",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6633",
+        "년": "2025",
+        "월": "01",
+        "일": "17"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제44호 : 미래기술 위크시그널 2025",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6632",
+        "년": "2025",
+        "월": "01",
+        "일": "17"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제43호 : 합성생물학의 데이터 기반 글로벌 연구동향과 ...",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6631",
+        "년": "2025",
+        "월": "01",
+        "일": "17"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제42호 : 중국 학술적 성과의 영향력 변화: 헤게모니와...",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6621",
+        "년": "2025",
+        "월": "01",
+        "일": "13"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제41호 : 사회문제해결형 과학기술의 8대 학술활동 유형...",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/6575",
+        "년": "2024",
+        "월": "11",
+        "일": "26"
+    },
+    {
+        "제목": "Market Insight 364 : 팜 메틸 에스테르  유도체",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673713",
+        "년": "2025",
+        "월": "11",
+        "일": "07"
+    },
+    {
+        "제목": "Market Insight 363 : 식물성 대체육",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673712",
+        "년": "2025",
+        "월": "11",
+        "일": "07"
+    },
+    {
+        "제목": "Market Insight 362 : 일회용 내시경",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673703",
+        "년": "2025",
+        "월": "10",
+        "일": "28"
+    },
+    {
+        "제목": "Market Insight 361 : DNA 데이터 저장 기술",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673702",
+        "년": "2025",
+        "월": "10",
+        "일": "28"
+    },
+    {
+        "제목": "Market Insight 360 : 임상시험 CRO",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673691",
+        "년": "2025",
+        "월": "09",
+        "일": "15"
+    },
+    {
+        "제목": "Market Insight 359 : 반려동물 당뇨병 치료제",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673690",
+        "년": "2025",
+        "월": "09",
+        "일": "15"
+    },
+    {
+        "제목": "Market Insight 358 : 디지털 병리 시스템",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673682",
+        "년": "2025",
+        "월": "09",
+        "일": "15"
+    },
+    {
+        "제목": "Market Insight 357 : 수면 무호흡증 진단 및 치료 기기",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673681",
+        "년": "2025",
+        "월": "09",
+        "일": "15"
+    },
+    {
+        "제목": "Market Insight 356 : 탄소중립 대응 녹색 철강 산업",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673680",
+        "년": "2025",
+        "월": "09",
+        "일": "15"
+    },
+    {
+        "제목": "Market Insight 355 : 리튬 이온 폐배터리",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/673679",
+        "년": "2025",
+        "월": "09",
+        "일": "15"
+    },
+    {
+        "제목": "KISTI R&I Report:  AI 융합 시대에 주목해야 할 10대 유망기술",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6690",
+        "년": "2025",
+        "월": "05",
+        "일": "14"
+    },
+    {
+        "제목": "KISTI R&I Report:  건물형태양광(BIPV) 과학·기술·산업 분석",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6662",
+        "년": "2025",
+        "월": "03",
+        "일": "11"
+    },
+    {
+        "제목": "KISTI R&I Report:  사이버보안 과학기술·산업 분석",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6661",
+        "년": "2025",
+        "월": "03",
+        "일": "11"
+    },
+    {
+        "제목": "KISTI R&I Report: 인공지능 기술·산업 분석",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6660",
+        "년": "2025",
+        "월": "03",
+        "일": "11"
+    },
+    {
+        "제목": "KISTI R&I Report: 메모리 반도체 기술·산업 분석",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6659",
+        "년": "2025",
+        "월": "03",
+        "일": "11"
+    },
+    {
+        "제목": "KISTI R&I Report: 시스템 반도체 기술·산업 분석",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6658",
+        "년": "2025",
+        "월": "03",
+        "일": "11"
+    },
+    {
+        "제목": "KISTI R&I Report: 주요기업 기반 국가전략기술(첨단바이오) 산업 분석",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6357",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "KISTI R&I Report: 양자기술의 과학·산업 분석을 통한 국가전략기술 분석플랫폼 ...",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6322",
+        "년": "2024",
+        "월": "03",
+        "일": "08"
+    },
+    {
+        "제목": "KISTI R&I Report: 디스플레이 패널 과학기술·산업분석",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6321",
+        "년": "2024",
+        "월": "03",
+        "일": "08"
+    },
+    {
+        "제목": "KISTI R&I Report: 디스플레이 소재·부품·장비 과학기술·산업분석",
+        "분류": "과학기술산업 인사이트",
+        "링크": "https://www.kisti.re.kr/post/analysis-report/6320",
+        "년": "2024",
+        "월": "03",
+        "일": "08"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=rnQKI3AOTCTVnnIrlVM1Vvh1AII3VucBu3rsm8NWmFaxn1satkPhcD8LY1YBtFrK.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=gteWKePHpw7RKTd1jAGSwDinF2xta9xTu86uBnF6h6HEmFsVtAwYpV9ZXBZBBtXa.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=7A5axYaMKDE1E3v1PWCSPfWOhA6ahTJguklF7CrlWxaGTnn8tDOza3wmYZhoCH7t.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=T1zODfEAebjgOoojWauEuScSLMVfa4zGufzkjwG8Am7jxKNDtaDspbX70ghhjBdl.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=mp1l4DUE2ZbbaRsx64qLs4BkaOhWpI4E1XAyy97IMEwonzZutpciWgW8IFhpqUlO.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=PsPd54NAd4tKC8DYJuOGLl9SUqisDbfs11I7F3Kc01rmp537tmy9EszdQ1GkXtAV.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=PsSoe0x1dvNyq7oawCRf61uLMYwBGzPl13DE3zJiNPCaU9hItPRgNPx4fwHagJX2.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=lr4J5XGx1rAUsgtqoVpV4s15FcrbZPIu16Mj8Op5iN1CFnvNtqqQtAgLF5FEYAHH.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=1yHfj91DN2MNvVL0fiqx3k1B1Axqqa0A1djs0einRp9tqEq5taLDkabBQXji18fl.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=oDUkn1vCqyVlPmOen3Jshp50b4ydCzVxNIUoABTRZQ9WYB7OtQXxxahFBgnc1Udu.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=mMeIoFzpEAbR3awF84dNSCh4jly6AkZKRfbd75d1eX07gaYDtceZLMMvjVKlLMEu.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=1ERDQbEvn2SAVC8nZv97OeCpJi4bBcFARs2qC7Ij8CkpgND5t8a0BOwr8JPfsacF.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=xM213WcKMPJJdQ7WHCcN4kWyg1jKhI7LRaMDSobt3aP5ldC9toG6bj6vtXNSbfJG.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=3WZBR0os5TPjqamSBR5LKZlVRp0msK3GRcgmzOSaq8OqAR18tmGLUYKuOFi4Hv72.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=bxFStdhI9h6VMdU1EZOJYWYQH1ciuu8DZGD2JCJCQQ8tGD3Btyaa5aefNG1sM601.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=ighJESl4NHGaNkggXxHC1ioKU3loReZKZlAFyzuk5qPuSDcitv2al9OretoXgYcV.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=43FjxwDd01gYh16F21uYKxpiM22uLk51ZjQAT6evS95a2gPVt9EDT1AfSJwOPtx9.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=1JeDMXFuOJXpSf1XyLfGcIZ4T5QvDBvvZ45lzDOkPEWf3DGHtpxrmaaBosBqdYpa.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=lZlmEcezM9ahbx3aV3KwFqz4JBDJrAfnZ6Vap4DbPuweI891tk6JSJeAxtmRO1ZZ.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=8gFsaEYKSCaJZoThuvqghytBFrW7jTZhrYCkuIhysqham7nZtjMa4GWgz06eR9ca.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=FkGVeaKldmy23dEcqGP6I42ruBakCA64r2FJrZ5nkM29E6bFtgPFHnjfLn7arNDa.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=5wE0VShe5tnFJpYJ7BByhvjgGAMAoAXxrtOr1hi3klWEBD8mtytFIJJYUJjx5PmU.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=pyfkZjo17KKBVFGMxJSptOJquNrmC8SRrr3vymCbu9Gp6XiLtazipXBZffmmcLw4.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=0l4oIgLapAkIxMJTCitWwZs8Zxxt0gqLryPNyRdwRSaGYaK2tFnBwdZ0D6T2EaMZ.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=EjblePBgPOnIJZ0vaBhD2duhNciWh8q1rEtM6JdZt9LUmEwVtyP5d51nyCrDFlkb.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=i2OyuqaxHHPKTXRn2lqk1y6jNlR9PjdNrmrq2Ymqaz4lCsQft36mb9pyRJTOMkDn.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=bQ4UY2X0gBvyCGTasOvbhOkqQtFbkyvaHEZ7NL6Hf6CpwIaUtvDuF7aU3kolgIga.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=n1iM8pbMEI1NrqDt9N2VmmEY611LMiaxH9TP0lN4FALOmBYFtwwieqEWqpnoaCXM.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=9szpBip2MTqDk5XMa44BHC5qa6wWJfbWeHrE8tXSnAB7sFYNtTP2jA3rXbpdcwfS.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=Ma4jwbjVA9xpp1siDiScwcJzpLprIyPGeHMyYGvyyFiipcyZtazVF1VWFlISTxQT.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=N74009AdnskltJlTku7av9H2lZRvK1IReXADi8zBFND80dwIt1ilH0KyAYYQx3WK.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=TA09sxhtzfqA1c7ft0tbgmVZ5CvZtcAlenUaWeAwjFkGMmsRt4hu9q0MzsIati1W.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=DrS1LjFdJA9MQPlZB0HTXiW8aIUoZ6nXeTgkY5IwiSwLkBMotFYofPsr9f5LvcBx.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=IzNqRatDL8bRVpPgV5OpibGtiAG6vMEZeixxecVRe5azbVDptOcI2ma65V6jNQw8.ar211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "피지컬 AI, 현실에서 실현되는 인공지능",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6850;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2025",
+        "월": "12",
+        "일": "17"
+    },
+    {
+        "제목": "데이터, 에너지 위기를 기회로 바꾸다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6767;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2025",
+        "월": "09",
+        "일": "25"
+    },
+    {
+        "제목": "양자기술, 다음 세대로 나아가다.",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6725;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2025",
+        "월": "07",
+        "일": "10"
+    },
+    {
+        "제목": "인구 데이터로 미래를 준비하다",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6599;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2024",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI · 데이터가 이끄는 미래 국방",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6531;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2024",
+        "월": "09",
+        "일": "27"
+    },
+    {
+        "제목": "기후 데이터가 선도하는 미래",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6464;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2024",
+        "월": "07",
+        "일": "01"
+    },
+    {
+        "제목": "산업 데이터 패권 경쟁",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6359;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2024",
+        "월": "03",
+        "일": "29"
+    },
+    {
+        "제목": "DATA MARKET",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6243;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2023",
+        "월": "11",
+        "일": "30"
+    },
+    {
+        "제목": "DATA WARS",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6109;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2023",
+        "월": "07",
+        "일": "31"
+    },
+    {
+        "제목": "ChatGPT",
+        "분류": "S&T DATA",
+        "링크": "https://www.kisti.re.kr/post/stdata/6043;jsessionid=qYCmQYu2QHzEqscBm2QDDUGvaV1pXC9ksffTHjvBqVvYfZPctbyIQ9Hg1towOPDg.al211_servlet_engine23",
+        "년": "2023",
+        "월": "04",
+        "일": "30"
+    }
+]

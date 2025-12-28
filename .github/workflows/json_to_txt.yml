@@ -1,0 +1,51 @@
+# .github/workflows/json_to_txt.yml
+
+name: Run Python Scripts Daily_jsontotxt
+
+on:
+  # 1. 수동 실행 (Manual trigger) 설정
+  workflow_dispatch:
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    # 작업 환경 설정
+    steps:
+      - name: Checkout repository
+        # 저장소 코드를 워크플로 러너로 가져옵니다.
+        uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.10'
+
+      - name: Install dependencies
+        # 3. 필요한 Python 라이브러리들을 설치합니다.
+        run: |
+          python -m pip install --upgrade pip
+          # Selenium, requests, beautifulsoup4, pandas, webdriver_manager 설치
+          # pip install json
+        
+      - name: Run json_to_txt.py
+        run: |
+          python codes/pycode/json_to_txt.py
+          ls -al
+          find . -name "data.txt"      
+
+      # 향후 추가될 다른 Python 스크립트 실행을 위한 주석 처리된 예시
+      # - name: Run another_script.py
+      #   run: |
+      #     python codes/pycode/another_script.py
+
+      # =============================================================
+      # 💡 추가된 핵심 단계: 생성된 파일(codes/aitimes.json)을 저장소에 커밋
+      # =============================================================
+                
+      - name: Commit and Push changes
+        uses: stefanzweifel/git-auto-commit-action@v5
+        with:
+          file_pattern: '**/*.txt'
+          commit_message: 'Automated txt data update [skip ci]'
+          branch: main 
