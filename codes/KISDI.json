@@ -662,5 +662,45 @@
         "년": "2025",
         "월": "12",
         "일": "15"
+    },
+    {
+        "제목": "스마트 기기 시대의 가정 내 미디어 규범: 청소년·어린이 이용 제한을 중심으로",
+        "분류": "KISDI STAT Report",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333447&arrMasterId=4333447&artId=1909656",
+        "년": "2025",
+        "월": "12",
+        "일": "30"
+    },
+    {
+        "제목": "국방 AI 국내외 동향과 국방정책 AI 개념",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1909378",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "인공지능 생성물 고지 및 표시 제도",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1909397",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "AI 진화와 패권형 소버린 AI 전략",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1909436",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "생성형 인공지능 도입과 디지털 정보 서비스 생태계의 재편",
+        "분류": "KISDI AI Outlook",
+        "링크": "https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1909437",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
     }
 ]
