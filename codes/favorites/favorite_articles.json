@@ -1,12 +1,82 @@
 [
   {
-    "title": "중국, ＇인간형＇ AI 서비스 규제 초안 발표...〃정신적·정치적 오용 방지〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205136",
-    "category": "기타"
+    "title": "국가대표 AI 선정에 ＇공통 벤치마크＇ 적용한다...”객관적 성능 비교 가능”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205191",
+    "category": "기관"
   },
   {
-    "title": "SKT, 국내 최대 5000억 매개변수 모델 ＇A.X K1＇ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205137",
+    "title": "“AI 주요 인사 집결에 관중 환호”...국가대표 AI 발표회 이모저모",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205193",
+    "category": "기관"
+  },
+  {
+    "title": "이스트소프트, 에이전틱 AI ‘앨런’·AI 휴먼 ‘페르소’ 시연...〃K-엑사원 확장 가속〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205201",
     "category": "민간"
+  },
+  {
+    "title": "＇오픈AI에서 구글로 무게 이동＇...2025년 가장 많이 본 기사는",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205138",
+    "category": "민간"
+  },
+  {
+    "title": "NC AI, 산업 특화 AI 파운데이션 모델 ‘배키’ 오픈 소스로 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205198",
+    "category": "민간"
+  },
+  {
+    "title": "2025년 국내 AI 모델 30종 넘게 출시...＇국대 모델＇ 프로젝트의 결과",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205216",
+    "category": "기관"
+  },
+  {
+    "title": "엔비디아, 이스라엘 AI21 4조에 인수 협상",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205209",
+    "category": "민간"
+  },
+  {
+    "title": "＇제미나이 3＇, IQ 130으로 최고 점수 기록...〃AI IQ, 2년 새 30이나 늘어〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205212",
+    "category": "민간"
+  },
+  {
+    "title": "국가AI전략위원회, 자문단 160명 ＇AI행동계획＇ 의견 청취",
+    "link": "https://www.etnews.com/20251230000443",
+    "category": "기관"
+  },
+  {
+    "title": "네이버-카카오, AI 에이전트 전면전 대비…인프라 투자 가속",
+    "link": "https://www.etnews.com/20251231000188",
+    "category": "민간"
+  },
+  {
+    "title": "“2026년은 AI 인프라 패권 전쟁의 해”…NIA, 12대 트렌드 전망",
+    "link": "https://www.etnews.com/20251231000179",
+    "category": "기관"
+  },
+  {
+    "title": "〃보고 즉시 판단하는‘뇌 닮은’차세대 AI 반도체〃...KAIST 전상훈 교수팀, 연산–메모리를 하나로 잇는 ‘AI 반도체 풀스택’구현",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=37945",
+    "category": "민간"
+  },
+  {
+    "title": "러시아, 차기 국가무장계획에 ＇AI 무기체계＇ 전면 도입… “핵·우주·무인전까지 확대”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=37943",
+    "category": "국방"
+  },
+  {
+    "title": "엘리스그룹, 국산 NPU 기반 교육 특화 AI 에이전트 대규모 실증...〃국산 NPU 교육 현장 적용 가능성 확인〃",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=37949",
+    "category": "민간"
+  },
+  {
+    "title": "AI 도입 전담 차관보 신설 ‘국방AX’ 집중",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47078&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
+  },
+  {
+    "title": "AI 혁신 견인을 위한 「AI기본법」 개정안 국회 본회의 통과",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186725&searchOpt=ALL&searchTxt=",
+    "category": "기관"
   }
 ]
