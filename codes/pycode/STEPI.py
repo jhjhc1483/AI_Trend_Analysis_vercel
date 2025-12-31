@@ -33,9 +33,9 @@ for i in range(0,2):
         month = date_temp_list[1]
         day = date_temp_list[2]
         link_temp = str(item.select_one(".title > a").attrs['href'])
-        pattern = r"reportView\((\d+),'([^']+)'\)"
+        pattern = r"reportView\d?\('?(\d+)'?,'([^']+)'\)"
         match = re.search(pattern, link_temp)
-        value1 = match.group(1) # 첫 번째 괄호로 묶인 그룹 (93)
+        value1 = match.group(1).strip("'") # 첫 번째 괄호로 묶인 그룹 (93)
         value2 = match.group(2) # 두 번째 괄호로 묶인 그룹 (A0204)
         link = f"https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx={value1}&cateCont={value2}&cbIdx=0&searchKey="
         data.append([name,category,link,years,month,day])
