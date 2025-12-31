@@ -78,5 +78,45 @@
         "년": "2025",
         "월": "12",
         "일": "29"
+    },
+    {
+        "제목": "[디지털서비스 이슈리포트2025-12] EU의 1억 8천만 유로 소버린 클라우드 인프라 구축",
+        "분류": "디지털서비스 동향",
+        "링크": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=28950&parentSeq=28950",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2025년 전자정부서비스 이용실태조사 결과",
+        "분류": "전자정부서비스 이용실태조사",
+        "링크": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=32639&bcIdx=28949&parentSeq=28949",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "[제32권 제4호] 플랫폼 알고리즘 자사 우대와 규제 조치: 유럽 및 한국 사례를 중심으로(Platform Algorithmic Self-Preferencing and Regulatory Measures: Focusing on European and Korean Cases)",
+        "분류": "정보화정책 저널",
+        "링크": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=28947&parentSeq=28947",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "[제32권 제4호] 가짜뉴스 생산자 유형별 대응 정책 연구: 기대효용 모델을 중심으로(Policy Responses to Fake News Production_An Expected Utility Model Approach)",
+        "분류": "정보화정책 저널",
+        "링크": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=28946&parentSeq=28946",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "[제32권 제4호] 디젤 중고차 시세 예측에 있어 온라인 뉴스의 감성 정보 활용 방안에 대한 연구",
+        "분류": "정보화정책 저널",
+        "링크": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=28945&parentSeq=28945",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
     }
 ]
