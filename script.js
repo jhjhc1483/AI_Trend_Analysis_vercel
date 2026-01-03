@@ -504,3 +504,40 @@ document.getElementById('deleteCodesBtn').addEventListener('click', async functi
         alert("❌ 삭제 중 오류 발생: " + error.message);
     }
 });
+// script.js 하단에 추가
+
+document.getElementById('createAudioBtn').addEventListener('click', async function() {
+    if (!token) {
+        alert("토큰이 입력되지 않았습니다.");
+        return;
+    }
+
+    // 사용자 확인
+    if (!confirm("🎙️ AI 뉴스 브리핑 오디오를 생성하시겠습니까?\n(약 1~2분 소요됩니다)")) {
+        return;
+    }
+
+    const WORKFLOW_ID = "audio_gen.yml"; // 위에서 만든 워크플로우 파일명
+    const url = `https://api.github.com/repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
+
+    try {
+        const res = await fetch(url, {
+            method: 'POST',
+            headers: {
+                "Authorization": `token ${token}`,
+                "Accept": "application/vnd.github.v3+json",
+            },
+            body: JSON.stringify({ ref: "main" })    
+        }); 
+
+        if (res.status === 204) {
+            alert("✅ 브리핑 생성 요청 성공!\nGemini가 대본을 쓰고 녹음 중입니다.\n약 1분 뒤 페이지를 새로고침하여 들어보세요.");
+        } else {
+            const errorData = await res.json();
+            alert(`❌ 실패: ${res.status}\n메시지: ${errorData.message}`);
+        }
+    } catch (error) {
+        console.error('Error:', error);
+        alert("네트워크 오류가 발생했습니다.");
+    }
+});

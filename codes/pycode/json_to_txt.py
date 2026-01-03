@@ -71,7 +71,8 @@ def generate_report_text(categorized):
             lines.append(f"▲ {item['title']}")
             lines.append(item["link"])
             lines.append("")
-
+    lines.append("")
+    lines.append("🎙️오디오 듣기 : https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/bf.html")
     lines.append("")
     lines.append("by. AI Development Department")
     return "\n".join(lines).strip()

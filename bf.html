@@ -1,0 +1,101 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>오늘의 AI 브리핑</title>
+    <style>
+        body {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+            margin: 0;
+            background-color: #f0f2f5;
+            font-family: Arial, sans-serif;
+        }
+        .player-card {
+            background: white;
+            padding: 40px;
+            border-radius: 20px;
+            box-shadow: 0 10px 25px rgba(0,0,0,0.1);
+            text-align: center;
+            width: 90%;
+            max-width: 400px;
+        }
+        .icon {
+            font-size: 80px;
+            margin-bottom: 20px;
+        }
+        h2 {
+            margin: 0 0 10px 0;
+            color: #333;
+        }
+        p {
+            color: #666;
+            margin-bottom: 30px;
+            font-size: 0.9em;
+        }
+        audio {
+            width: 100%;
+            margin-bottom: 20px;
+        }
+        .reload-btn {
+            background-color: #6c5ce7;
+            color: white;
+            border: none;
+            padding: 10px 20px;
+            border-radius: 50px;
+            cursor: pointer;
+            font-size: 14px;
+            text-decoration: none;
+            display: inline-block;
+        }
+        .date-badge {
+            background-color: #dfe6e9;
+            padding: 5px 10px;
+            border-radius: 5px;
+            font-size: 0.8em;
+            color: #2d3436;
+        }
+    </style>
+</head>
+<body>
+
+    <div class="player-card">
+        <div class="icon">🎙️</div>
+        <h2>오늘의 AI 브리핑</h2>
+        <p>매일 아침 업데이트되는 AI 동향 요약</p>
+        
+        <div style="margin-bottom: 20px;">
+            <span class="date-badge" id="todayDate">날짜 로딩 중...</span>
+        </div>
+
+        <audio id="audioPlayer" controls controlsList="nodownload">
+            Your browser does not support the audio element.
+        </audio>
+
+        <br>
+        <button onclick="location.reload()" class="reload-btn">🔄 새로고침</button>
+    </div>
+
+    <script>
+        // 1. 오늘 날짜 표시
+        const now = new Date();
+        const options = { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' };
+        document.getElementById('todayDate').textContent = now.toLocaleDateString('ko-KR', options);
+
+        // 2. 오디오 캐시 방지 (핵심 기능)
+        // 브라우저는 같은 주소면 예전 파일을 들려주는 습성이 있습니다.
+        // 뒤에 ?t=시간을 붙여서 매번 새로운 파일인 것처럼 속여야 최신 뉴스가 나옵니다.
+        const audioPath = "public/audio.mp3"; 
+        const timestamp = new Date().getTime();
+        const player = document.getElementById('audioPlayer');
+        
+        player.src = `${audioPath}?t=${timestamp}`;
+        
+        // 자동 재생 시도 (모바일 정책상 소리 끈 상태로 시작될 수 있음)
+        // player.play().catch(e => console.log("자동 재생은 사용자 인터랙션 필요"));
+    </script>
+</body>
+</html>

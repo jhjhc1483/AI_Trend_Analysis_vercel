@@ -1,0 +1,35 @@
+name: AI Audio Briefing Generator
+
+on:
+  workflow_dispatch: # 버튼 클릭으로 수동 실행
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+    - name: 저장소 체크아웃
+      uses: actions/checkout@v3
+
+    - name: Python 설정
+      uses: actions/setup-python@v4
+      with:
+        python-version: '3.10'
+
+    - name: 필요 라이브러리 설치
+      run: |
+        pip install google-generativeai edge-tts asyncio
+
+    - name: 오디오 생성 스크립트 실행
+      env:
+        GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+      run: |
+        python codes/pycode/gen_audio.py
+
+    - name: 결과물(mp3) 커밋 및 푸시
+      run: |
+        git config --global user.name "GitHub Action"
+        git config --global user.email "action@github.com"
+        git add public/audio.mp3
+        git commit -m "Update audio briefing mp3" || echo "No changes to commit"
+        git push
