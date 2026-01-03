@@ -73,6 +73,8 @@ def generate_report_text(categorized):
             lines.append("")
     lines.append("")
     lines.append("🎙️오디오 듣기 : https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html")
+    lines.append("(링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준)")
+    lines.append("")
     lines.append("")
     lines.append("by. AI Development Department")
     return "\n".join(lines).strip()
