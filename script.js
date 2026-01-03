@@ -453,7 +453,7 @@ document.getElementById('uploadFavoritesBtn').addEventListener('click', async fu
             alert(`${file.type} 저장 실패`);
         }
     }
-    alert("✅ 모든 데이터 업로드 완료");
+    alert("✅ 모든 데이터 업로드 완료\n대시보드에서 '텍스트 만들기'를 클릭하세요.");
 });
 
 // 사이드바 토글
