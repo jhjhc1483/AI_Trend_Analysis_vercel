@@ -14,7 +14,7 @@ jobs:
     - name: Python 설정
       uses: actions/setup-python@v4
       with:
-        python-version: '3.10'
+        python-version: '3.11'
 
     - name: 필요 라이브러리 설치
       run: |
