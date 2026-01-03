@@ -1,11 +1,24 @@
 [2026-01-04 AI 일일 동향 보고]
 
-[기타]
+[민간]
+▲ AI 도입으로 주 4일 근무 기업 증가...〃AI ＇해고＇에서 ＇복지＇로 전환〃
+https://www.aitimes.com/news/articleView.html?idxno=205250
+
 ▲ 알리바바, 차세대 모바일용 GUI 에이전트 ‘MAI-UI’ 오픈 소스 공개
 https://www.aitimes.com/news/articleView.html?idxno=205253
 
-▲ 르쿤 〃메타는 LLM에만 집중...퇴사는 정치적 이유 때문〃
-https://www.aitimes.com/news/articleView.html?idxno=205273
+▲ ＇국대 AI＇ 업스테이지, ＇중국 모델 복사＇ 의혹에 공개 검증회 열어 반박
+https://www.etnews.com/20260102000326
+
+[기타]
+▲ [AI의 역사] 99 AI, 게임의 법칙이 바뀌었다 – 딥시크의 등장과 AI 패러다임의 전환
+https://www.aitimes.com/news/articleView.html?idxno=205271
+
+▲ [K-AI 미래를 묻다] AI 3대 강국 진입하려면 ＇산업 AI＇로 가야 한다
+https://www.etnews.com/20260103000021
+
+▲ AI 학습 데이터 보상 논쟁 확산에… 창작자 권리 보호 위한 ‘러닝라이트’ 제안 부상
+https://www.aitimes.kr/news/articleView.html?idxno=37979
 
 [간행물]
 ▲ '중국제조 2025’의 성과와 후속 방향 外 [IITP 디지털 아웃룩 2025-12월호]
@@ -13,6 +26,9 @@ https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260102-0
 
 ▲ AI·XR 융합형 BCI의 부상과  공간컴퓨팅 패러다임의 전환 [ICT SPOT ISSUE(2025-14호)]
 https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260102-000002&cpage=1&rows=10&searchTarget=all
+
+▲ STEPI Outlook 2026
+https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=9&cateCont=A0512&cbIdx=0&searchKey=
 
 
 🎙️오디오 듣기 : https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
