@@ -106,7 +106,7 @@ document.getElementById('runActionBtn2').addEventListener('click', async functio
 
     try {
         await callProxyAPI(endpoint, 'POST', { ref: "main" });
-        alert("✅ 즐겨찾기에 있는 목록을 일일 동향을 텍스트로 만듭니다.\n\n약 30초 후 페이지를 새로고침 하고 대시보드에서 \n'텍스트추출'을 누르세요.");
+        alert("✅ 즐겨찾기에 있는 목록을 일일 동향 텍스트로 만듭니다.\n\n약 30초 후 대시보드에서 '텍스트추출'을 누르세요.");
     } catch (error) {
         console.error('Error:', error);
         alert(`❌ 실패: ${error.message}`);
