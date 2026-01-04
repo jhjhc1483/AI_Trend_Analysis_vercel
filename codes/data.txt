@@ -1,24 +1,35 @@
 [2026-01-04 AI 일일 동향 보고]
 
 [민간]
-▲ AI 도입으로 주 4일 근무 기업 증가...〃AI ＇해고＇에서 ＇복지＇로 전환〃
-https://www.aitimes.com/news/articleView.html?idxno=205250
+▲ 업스테이지 中 AI 표절 논란 일단락…“기술 원천 넘어 사용성 논의로 이어져야”
+https://www.etnews.com/20260104000088
 
-▲ 알리바바, 차세대 모바일용 GUI 에이전트 ‘MAI-UI’ 오픈 소스 공개
-https://www.aitimes.com/news/articleView.html?idxno=205253
+▲ [ET톡]CES에서 새 기회 찾기
+https://www.etnews.com/20260102000198
 
-▲ ＇국대 AI＇ 업스테이지, ＇중국 모델 복사＇ 의혹에 공개 검증회 열어 반박
-https://www.etnews.com/20260102000326
+▲ AI 미래차 얼라이언스, 출범…현대차·LG전자·네이버 등 뭉친다
+https://www.etnews.com/20260102000218
+
+▲ 이통 3사 2025년 매출 60조원 상회 전망…새해 해킹 극복·AI 수익화 과제
+https://www.etnews.com/20260104000061
+
+[기관]
+▲ 우체국 창구에 AI 도입 추진...무인 우체국 시동
+https://www.etnews.com/20260102000071
 
 [기타]
-▲ [AI의 역사] 99 AI, 게임의 법칙이 바뀌었다 – 딥시크의 등장과 AI 패러다임의 전환
-https://www.aitimes.com/news/articleView.html?idxno=205271
+▲ 이성엽 고려대 교수 ＇인공지능 대전환(AX)과 법＇ 출간
+https://www.etnews.com/20260104000089
 
-▲ [K-AI 미래를 묻다] AI 3대 강국 진입하려면 ＇산업 AI＇로 가야 한다
-https://www.etnews.com/20260103000021
+▲ [전상욱의 AX시대의 고객경험]〈6〉AI 콘텐츠 범람 시대, 브랜드의 선택
+https://www.etnews.com/20260102000124
 
-▲ AI 학습 데이터 보상 논쟁 확산에… 창작자 권리 보호 위한 ‘러닝라이트’ 제안 부상
-https://www.aitimes.kr/news/articleView.html?idxno=37979
+▲ 공학분야 AI 전문가, “LLM보다 제조 AI·AI 반도체 중요”
+https://www.etnews.com/20260102000241
+
+[정부]
+▲ ＇서울시 AI 윤리＇ 제정… 5대 원칙으로 제도화, AI 행정에 신뢰 기준 세웠다
+https://www.aitimes.kr/news/articleView.html?idxno=37984
 
 [간행물]
 ▲ '중국제조 2025’의 성과와 후속 방향 外 [IITP 디지털 아웃룩 2025-12월호]
@@ -26,9 +37,6 @@ https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260102-0
 
 ▲ AI·XR 융합형 BCI의 부상과  공간컴퓨팅 패러다임의 전환 [ICT SPOT ISSUE(2025-14호)]
 https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260102-000002&cpage=1&rows=10&searchTarget=all
-
-▲ STEPI Outlook 2026
-https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=9&cateCont=A0512&cbIdx=0&searchKey=
 
 
 🎙️오디오 듣기 : https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
