@@ -2,18 +2,14 @@
 import os
 import asyncio
 import google.generativeai as genai
-from openai import OpenAI # OpenAI 라이브러리 추가
+import edge_tts
 
-# 1. 환경 변수 설정
+# 1. 환경 변수 설정 (GitHub Secrets에서 가져옴)
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
-# 2. 클라이언트 설정
+# 2. Gemini 설정
 genai.configure(api_key=GEMINI_API_KEY)
-gemini_model = genai.GenerativeModel("gemini-2.5-flash")
-
-# OpenAI 클라이언트 초기화
-client = OpenAI(api_key=OPENAI_API_KEY)
+model = genai.GenerativeModel("gemini-2.5-flash") # 속도가 빠른 Flash 모델 사용
 
 async def main():
     try:
@@ -49,29 +45,21 @@ async def main():
         {raw_text}
         """
 
-        response = gemini_model.generate_content(prompt)
+        response = model.generate_content(prompt)
         script = response.text
         
-        # 기본 전처리
+        # 불필요한 마크다운 기호 제거 (TTS 오류 방지)
         script = script.replace("*", "").replace("#", "").replace("-", "")
-        print(f">>> 생성된 대본:\n{script[:100]}...")
+        print(f">>> 생성된 대본:\n{script[:100]}...") # 로그 확인용
 
-        # 5. OpenAI TTS 생성
-        # 모델: tts-1 (빠름, 일반용) / tts-1-hd (고음질)
-        # 목소리: alloy, echo, fable, onyx, nova, shimmer 중 택1
-        # nova: 차분한 여성 톤 (뉴스에 적합) / onyx: 신뢰감 있는 남성 톤
-        print(">>> OpenAI TTS로 오디오 생성 중...")
-        
+        # 5. TTS 변환 (Edge TTS - 무료, 고품질)
+        # 목소리 옵션: ko-KR-SunHiNeural (여성), ko-KR-InJoonNeural (남성)
+        VOICE = "ko-KR-SunHiNeural" 
         output_file = "public/audio.mp3"
         
-        response = client.audio.speech.create(
-            model="tts-1",
-            voice="nova", 
-            input=script
-        )
-
-        # 파일 저장
-        response.stream_to_file(output_file)
+        print(f">>> 오디오 변환 시작 (Voice: {VOICE})...")
+        communicate = edge_tts.Communicate(script, VOICE)
+        await communicate.save(output_file)
         print(">>> 오디오 파일 생성 완료!")
 
     except Exception as e:

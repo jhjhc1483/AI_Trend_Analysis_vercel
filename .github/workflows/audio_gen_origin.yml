@@ -1,7 +1,7 @@
-name: AI Audio Briefing Generator (OpenAI)
+name: AI Audio Briefing Generator_origin
 
 on:
-  workflow_dispatch:
+  workflow_dispatch: # 버튼 클릭으로 수동 실행
 
 jobs:
   build:
@@ -17,14 +17,12 @@ jobs:
         python-version: '3.11'
 
     - name: 필요 라이브러리 설치
-      # google-generativeai: 대본 작성용 / openai: 음성 생성용
       run: |
-        pip install google-generativeai openai
+        pip install google-generativeai edge-tts asyncio
 
     - name: 오디오 생성 스크립트 실행
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }} # Secret 추가 필요
       run: |
         python codes/pycode/gen_audio.py
 
@@ -33,5 +31,5 @@ jobs:
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add public/audio.mp3
-        git commit -m "Update audio briefing (OpenAI TTS)" || echo "No changes to commit"
+        git commit -m "Update audio briefing mp3" || echo "No changes to commit"
         git push
