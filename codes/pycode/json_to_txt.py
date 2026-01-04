@@ -40,15 +40,17 @@ def categorize_articles(articles):
 
 def generate_report_text(categorized):
     today = datetime.now(ZoneInfo("Asia/Seoul")).strftime("%Y-%m-%d")
-    lines = [f"[{today} AI 일일 동향 보고]\n"]
+    lines = [f"📢{today} AI 일일 동향 보고📢\n"]
+    lines.append("📰 오늘의 기사")
+#⌨️📰📚📖📒📔📃🗓️🔖💡📢🔊 ✨🎧🔎🌍⭐🌈🔥⚠️◾▪️◼️🔴
 
     # 1. 고정 카테고리
     for category in FIXED_CATEGORIES:
         if category in categorized:
             lines.append(f"[{category}]")
             for item in categorized[category]:
-                lines.append(f"▲ {item['title']}")
-                lines.append(item["link"])
+                lines.append(f"◾ {item['title']}")
+                lines.append(f"{item['link']}")
                 lines.append("")
 
     # 2. 그외 카테고리 (실제 카테고리명)
@@ -60,23 +62,23 @@ def generate_report_text(categorized):
     for category in extra_categories:
         lines.append(f"[{category}]")
         for item in categorized[category]:
-            lines.append(f"▲ {item['title']}")
-            lines.append(item["link"])
+            lines.append(f"◾ {item['title']}")
+            lines.append(f"{item['link']}")
             lines.append("")
 
     # 3. 간행물
     if LAST_CATEGORY in categorized:
-        lines.append(f"[{LAST_CATEGORY}]")
+        lines.append(f"📚 {LAST_CATEGORY}")
         for item in categorized[LAST_CATEGORY]:
-            lines.append(f"▲ {item['title']}")
+            lines.append(f"◾ {item['title']}")
             lines.append(item["link"])
             lines.append("")
     lines.append("")
-    lines.append("🎙️오디오 듣기 : https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html")
-    lines.append("(링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준)")
+    lines.append("🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html")
+    lines.append("(링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))")
     lines.append("")
     lines.append("")
-    lines.append("by. AI Development Department")
+    lines.append("🤖AI Development Department🧑‍🤝‍🧑")
     return "\n".join(lines).strip()
 
 
