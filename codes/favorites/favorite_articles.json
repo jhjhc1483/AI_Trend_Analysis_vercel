@@ -1,5 +1,20 @@
 [
   {
+    "title": "알리바바, 차세대 모바일용 GUI 에이전트 ‘MAI-UI’ 오픈 소스 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205253",
+    "category": "민간"
+  },
+  {
+    "title": "텐센트, 텍스트로 3D 인체 동작 생성하는 오픈 모델 ‘HY-모션 1.0’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205258",
+    "category": "민간"
+  },
+  {
+    "title": "6일 개막하는 CES 2026 하이라이트는 ＇AI·로봇＇",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205280",
+    "category": "민간"
+  },
+  {
     "title": "우체국 창구에 AI 도입 추진...무인 우체국 시동",
     "link": "https://www.etnews.com/20260102000071",
     "category": "기관"
@@ -15,9 +30,14 @@
     "category": "민간"
   },
   {
+    "title": "[人사이트] 황도연 오비고 대표 “글로벌 완성차와 AI 미래차 플랫폼 혁신 지속”",
+    "link": "https://www.etnews.com/20260102000110",
+    "category": "기타"
+  },
+  {
     "title": "[ET톡]CES에서 새 기회 찾기",
     "link": "https://www.etnews.com/20260102000198",
-    "category": "민간"
+    "category": "기타"
   },
   {
     "title": "AI 미래차 얼라이언스, 출범…현대차·LG전자·네이버 등 뭉친다",
@@ -30,18 +50,33 @@
     "category": "기타"
   },
   {
-    "title": "이통 3사 2025년 매출 60조원 상회 전망…새해 해킹 극복·AI 수익화 과제",
-    "link": "https://www.etnews.com/20260104000061",
-    "category": "민간"
-  },
-  {
     "title": "공학분야 AI 전문가, “LLM보다 제조 AI·AI 반도체 중요”",
     "link": "https://www.etnews.com/20260102000241",
     "category": "기타"
   },
   {
+    "title": "[신년기획]한국형AI 필승카드- ＇AI 로봇 생태계＇ 만들자",
+    "link": "https://www.etnews.com/20251224000361",
+    "category": "기타"
+  },
+  {
+    "title": "[CES 2026] ＇피지컬 AI＇ 본격화",
+    "link": "https://www.etnews.com/20260102000264",
+    "category": "기타"
+  },
+  {
+    "title": "조준희 KOSA 회장, “AI 원천 논쟁 넘어 ＇팔리는 기술＇로 승부해야”",
+    "link": "https://www.etnews.com/20260104000042",
+    "category": "기타"
+  },
+  {
+    "title": "[CES 2026]아침 식사부터 청소까지 ＇척척＇…가사일 책임지는 ＇LG 클로이드＇",
+    "link": "https://www.etnews.com/20260103000046",
+    "category": "민간"
+  },
+  {
     "title": "＇서울시 AI 윤리＇ 제정… 5대 원칙으로 제도화, AI 행정에 신뢰 기준 세웠다",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=37984",
-    "category": "정부"
+    "category": "기관"
   }
 ]
