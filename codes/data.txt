@@ -1,66 +1,67 @@
-[2026-01-05 AI 일일 동향 보고]
+📢2026-01-05 AI 일일 동향 보고📢
 
+📰 오늘의 기사
 [민간]
-▲ 알리바바, 차세대 모바일용 GUI 에이전트 ‘MAI-UI’ 오픈 소스 공개
+◾ 알리바바, 차세대 모바일용 GUI 에이전트 ‘MAI-UI’ 오픈 소스 공개
 https://www.aitimes.com/news/articleView.html?idxno=205253
 
-▲ 텐센트, 텍스트로 3D 인체 동작 생성하는 오픈 모델 ‘HY-모션 1.0’ 공개
+◾ 텐센트, 텍스트로 3D 인체 동작 생성하는 오픈 모델 ‘HY-모션 1.0’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=205258
 
-▲ 6일 개막하는 CES 2026 하이라이트는 ＇AI·로봇＇
+◾ 6일 개막하는 CES 2026 하이라이트는 ＇AI·로봇＇
 https://www.aitimes.com/news/articleView.html?idxno=205280
 
-▲ 업스테이지 中 AI 표절 논란 일단락…“기술 원천 넘어 사용성 논의로 이어져야”
+◾ 업스테이지 中 AI 표절 논란 일단락…“기술 원천 넘어 사용성 논의로 이어져야”
 https://www.etnews.com/20260104000088
 
-▲ AI 미래차 얼라이언스, 출범…현대차·LG전자·네이버 등 뭉친다
+◾ AI 미래차 얼라이언스, 출범…현대차·LG전자·네이버 등 뭉친다
 https://www.etnews.com/20260102000218
 
-▲ [CES 2026]아침 식사부터 청소까지 ＇척척＇…가사일 책임지는 ＇LG 클로이드＇
+◾ [CES 2026]아침 식사부터 청소까지 ＇척척＇…가사일 책임지는 ＇LG 클로이드＇
 https://www.etnews.com/20260103000046
 
 [기관]
-▲ 우체국 창구에 AI 도입 추진...무인 우체국 시동
+◾ 우체국 창구에 AI 도입 추진...무인 우체국 시동
 https://www.etnews.com/20260102000071
 
-▲ ＇서울시 AI 윤리＇ 제정… 5대 원칙으로 제도화, AI 행정에 신뢰 기준 세웠다
+◾ ＇서울시 AI 윤리＇ 제정… 5대 원칙으로 제도화, AI 행정에 신뢰 기준 세웠다
 https://www.aitimes.kr/news/articleView.html?idxno=37984
 
 [기타]
-▲ 이성엽 고려대 교수 ＇인공지능 대전환(AX)과 법＇ 출간
+◾ 이성엽 고려대 교수 ＇인공지능 대전환(AX)과 법＇ 출간
 https://www.etnews.com/20260104000089
 
-▲ [人사이트] 황도연 오비고 대표 “글로벌 완성차와 AI 미래차 플랫폼 혁신 지속”
+◾ [人사이트] 황도연 오비고 대표 “글로벌 완성차와 AI 미래차 플랫폼 혁신 지속”
 https://www.etnews.com/20260102000110
 
-▲ [ET톡]CES에서 새 기회 찾기
+◾ [ET톡]CES에서 새 기회 찾기
 https://www.etnews.com/20260102000198
 
-▲ [전상욱의 AX시대의 고객경험]〈6〉AI 콘텐츠 범람 시대, 브랜드의 선택
+◾ [전상욱의 AX시대의 고객경험]〈6〉AI 콘텐츠 범람 시대, 브랜드의 선택
 https://www.etnews.com/20260102000124
 
-▲ 공학분야 AI 전문가, “LLM보다 제조 AI·AI 반도체 중요”
+◾ 공학분야 AI 전문가, “LLM보다 제조 AI·AI 반도체 중요”
 https://www.etnews.com/20260102000241
 
-▲ [신년기획]한국형AI 필승카드- ＇AI 로봇 생태계＇ 만들자
+◾ [신년기획]한국형AI 필승카드- ＇AI 로봇 생태계＇ 만들자
 https://www.etnews.com/20251224000361
 
-▲ [CES 2026] ＇피지컬 AI＇ 본격화
+◾ [CES 2026] ＇피지컬 AI＇ 본격화
 https://www.etnews.com/20260102000264
 
-▲ 조준희 KOSA 회장, “AI 원천 논쟁 넘어 ＇팔리는 기술＇로 승부해야”
+◾ 조준희 KOSA 회장, “AI 원천 논쟁 넘어 ＇팔리는 기술＇로 승부해야”
 https://www.etnews.com/20260104000042
 
-[간행물]
-▲ '중국제조 2025’의 성과와 후속 방향 外 [IITP 디지털 아웃룩 2025-12월호]
+📚 간행물
+◾ '중국제조 2025’의 성과와 후속 방향 外 [IITP 디지털 아웃룩 2025-12월호]
 https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260102-000001&cpage=1&rows=10&searchTarget=all
 
-▲ AI·XR 융합형 BCI의 부상과  공간컴퓨팅 패러다임의 전환 [ICT SPOT ISSUE(2025-14호)]
+◾ AI·XR 융합형 BCI의 부상과  공간컴퓨팅 패러다임의 전환 [ICT SPOT ISSUE(2025-14호)]
 https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260102-000002&cpage=1&rows=10&searchTarget=all
 
 
-🎙️오디오 듣기 : https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
-(링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준)
+🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
+(링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
 
 
-by. AI Development Department
+🤖AI Development Department🧑‍🤝‍🧑
