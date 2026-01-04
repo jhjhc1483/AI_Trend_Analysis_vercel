@@ -325,9 +325,10 @@ function createListItem(item) {
             if (savedCat === '국방') colorClass = 'cat-defense';
             else if (savedCat === '육군') colorClass = 'cat-army';
             else if (savedCat === '민간') colorClass = 'cat-civil';
-            else colorClass = 'cat-etc';
+            else if (savedCat === '기관') colorClass = 'cat-pub';
+            else if (savedCat === '기타') colorClass = 'cat-etc';
         } else {
-            colorClass = 'cat-pub';
+            colorClass = 'cat-default';
         }
         categoryBadge = `<span class="category-badge ${colorClass}">${savedCat}</span>`;
     }
