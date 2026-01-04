@@ -1,4 +1,4 @@
-name: AI Audio Briefing Generator (OpenAI)
+name: AI Audio Briefing Generator (Google Cloud TTS)
 
 on:
   workflow_dispatch:
@@ -17,14 +17,22 @@ jobs:
         python-version: '3.11'
 
     - name: 필요 라이브러리 설치
-      # google-generativeai: 대본 작성용 / openai: 음성 생성용
+      # google-cloud-texttospeech: 구글 TTS 라이브러리
       run: |
-        pip install google-generativeai openai
+        pip install google-generativeai google-cloud-texttospeech
+
+    - name: 인증 키 파일 생성
+      env:
+        GCP_SA_KEY: ${{ secrets.GCP_SA_KEY }}
+      run: |
+        # GitHub Secret에 저장된 JSON 내용을 파일로 저장
+        echo "$GCP_SA_KEY" > service_account.json
 
     - name: 오디오 생성 스크립트 실행
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }} # Secret 추가 필요
+        # Python 코드 내부에서 이 파일을 참조함
+        GOOGLE_APPLICATION_CREDENTIALS: "./service_account.json"
       run: |
         python codes/pycode/gen_audio.py
 
@@ -33,5 +41,5 @@ jobs:
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add public/audio.mp3
-        git commit -m "Update audio briefing (OpenAI TTS)" || echo "No changes to commit"
+        git commit -m "Update audio (Google Cloud Neural2)" || echo "No changes to commit"
         git push
