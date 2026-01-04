@@ -2,18 +2,14 @@
 import os
 import asyncio
 import google.generativeai as genai
-from openai import OpenAI # OpenAI 라이브러리 추가
+from google.cloud import texttospeech # 구글 클라우드 TTS 라이브러리
 
 # 1. 환경 변수 설정
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
-OPENAI_API_KEY = os.environ.get("OPENAI_API_KEY")
 
-# 2. 클라이언트 설정
+# 2. Gemini 설정
 genai.configure(api_key=GEMINI_API_KEY)
-gemini_model = genai.GenerativeModel("gemini-2.5-flash")
-
-# OpenAI 클라이언트 초기화
-client = OpenAI(api_key=OPENAI_API_KEY)
+model = genai.GenerativeModel("gemini-2.5-flash")
 
 async def main():
     try:
@@ -32,7 +28,7 @@ async def main():
 
         print(">>> Gemini에게 브리핑 대본 작성을 요청합니다...")
         
-        # 4. Gemini 프롬프트 작성 (뉴스 캐스터 페르소나)
+        # 4. Gemini 프롬프트
         prompt = f"""
         너는 인공지능 동향을 매일 아침 전해주는 전문 뉴스 캐스터야.
         아래 [데이터]를 바탕으로 3분 내외의 라디오 뉴스 브리핑 대본을 작성해줘.
@@ -49,33 +45,56 @@ async def main():
         {raw_text}
         """
 
-        response = gemini_model.generate_content(prompt)
+        response = model.generate_content(prompt)
         script = response.text
         
-        # 기본 전처리
-        script = script.replace("*", "").replace("#", "").replace("-", "")
+        # 전처리
+        script = script.replace("*", "").replace("#", "").replace("-", "").replace('"', "")
         print(f">>> 생성된 대본:\n{script[:100]}...")
 
-        # 5. OpenAI TTS 생성
-        # 모델: tts-1 (빠름, 일반용) / tts-1-hd (고음질)
-        # 목소리: alloy, echo, fable, onyx, nova, shimmer 중 택1
-        # nova: 차분한 여성 톤 (뉴스에 적합) / onyx: 신뢰감 있는 남성 톤
-        print(">>> OpenAI TTS로 오디오 생성 중...")
+        # 5. Google Cloud TTS 생성
+        print(">>> Google Cloud TTS(Neural2)로 변환 시작...")
         
-        output_file = "public/audio.mp3"
-        
-        response = client.audio.speech.create(
-            model="tts-1",
-            voice="nova", 
-            input=script
+        # 클라이언트 인스턴스 (환경변수 GOOGLE_APPLICATION_CREDENTIALS 자동 참조)
+        client = texttospeech.TextToSpeechClient()
+
+        # 입력 텍스트 설정
+        synthesis_input = texttospeech.SynthesisInput(text=script)
+
+        # 목소리 설정 (가장 중요한 부분!)
+        # ko-KR-Neural2-A: 여성 (차분함, 추천)
+        # ko-KR-Neural2-C: 남성 (중후함)
+        # ko-KR-Neural2-B: 여성 (약간 높은 톤)
+        voice = texttospeech.VoiceSelectionParams(
+            language_code="ko-KR",
+            name="ko-KR-Neural2-A" # 원하는 목소리로 변경 가능
+        )
+
+        # 오디오 설정
+        audio_config = texttospeech.AudioConfig(
+            audio_encoding=texttospeech.AudioEncoding.MP3,
+            speaking_rate=1.0, # 속도 (1.0이 기본)
+            pitch=0.0          # 톤 높낮이
+        )
+
+        # API 요청
+        response = client.synthesize_speech(
+            input=synthesis_input, voice=voice, audio_config=audio_config
         )
 
         # 파일 저장
-        response.stream_to_file(output_file)
-        print(">>> 오디오 파일 생성 완료!")
+        output_file = "public/audio.mp3"
+        os.makedirs(os.path.dirname(output_file), exist_ok=True)
+
+        with open(output_file, "wb") as out:
+            out.write(response.audio_content)
+            print(">>> 오디오 파일 생성 완료!")
 
     except Exception as e:
         print(f"오류 발생: {e}")
+        # 구글 인증 오류일 경우 힌트 출력
+        if "DefaultCredentialsError" in str(e):
+            print("Tip: GCP_SA_KEY 시크릿이 올바른 JSON 형식이 맞는지 확인하세요.")
         exit(1)
 
 if __name__ == "__main__":
