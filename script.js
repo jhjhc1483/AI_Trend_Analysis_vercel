@@ -521,7 +521,15 @@ document.getElementById('createAudioBtn').addEventListener('click', async functi
         // 3. callProxyAPI를 통해 안전하게 요청 전송
         await callProxyAPI(endpoint, 'POST', { ref: "main" });
 
-        // 10. 최근업데이트 불러오기
+        alert("✅ 브리핑 생성 요청 성공!\nGemini가 대본을 쓰고 녹음 중입니다.\n약 1분 뒤 페이지를 새로고침하여 들어보세요.");
+    } catch (error) {
+        console.error('Error:', error);
+        alert(`❌ 실패: ${error.message}`);
+    }
+});
+
+
+// 10. 최근업데이트 불러오기
 
 async function loadCompletionTime() {
     try {
@@ -552,11 +560,4 @@ async function loadCompletionTime() {
 document.addEventListener('DOMContentLoaded', () => {
     loadCompletionTime();
     // ... 기존의 다른 초기화 함수들 ...
-});
-
-        alert("✅ 브리핑 생성 요청 성공!\nGemini가 대본을 쓰고 녹음 중입니다.\n약 1분 뒤 페이지를 새로고침하여 들어보세요.");
-    } catch (error) {
-        console.error('Error:', error);
-        alert(`❌ 실패: ${error.message}`);
-    }
 });
