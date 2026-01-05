@@ -69,27 +69,31 @@ jobs:
           python codes/pycode/KISA.py
           python codes/pycode/tta.py
 
-      - name: Generate Timestamp
+      # =============================================================
+      # 💡 [추가됨] 현재 시간(KST)을 저장
+      # =============================================================
+      - name: Generate Last Updated Time
         run: |
-          # 1. public 폴더가 없으면 생성
+          # public 폴더가 없으면 생성
           mkdir -p public
           
-          # 2. 한국 시간(KST)으로 현재 시간 구하기
+          # 한국 시간(KST) 설정
           export TZ="Asia/Seoul"
-          CURRENT_TIME=$(date +'%Y-%m-%d %H:%M:%S')
+          NOW=$(date +'%Y-%m-%d %H:%M:%S')
           
-          # 3. JSON 파일 생성 (completed_at 필드)
-          echo "{ \"completed_at\": \"$CURRENT_TIME\" }" > public/update_time.json
-
+          # meta.json 파일 생성 (이전 대화의 script.js와 호환됨)
+          echo "{ \"completed_at\": \"$NOW\" }" > public/update_time.json
+          
+          echo "Timestamp generated: $NOW"
 
       # =============================================================
-      # 💡 최적화: 모든 JSON 파일을 한 번에 커밋 및 푸시
+      # 💡 json 파일뿐만 아니라 meta.json도 같이 커밋하도록 변경
       # =============================================================
       - name: Commit and Push all changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # codes/ 폴더 내의 모든 json 파일을 한 번에 커밋
-          file_pattern: 'codes/*.json'
+          # codes 폴더의 json 파일들과 public 폴더의 meta.json을 모두 포함
+          file_pattern: 'codes/*.json public/update_time.json'
           commit_message: 'Automated data update: All sources [skip ci]'
           branch: main
- 
+
