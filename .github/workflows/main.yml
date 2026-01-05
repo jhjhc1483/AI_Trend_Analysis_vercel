@@ -87,12 +87,29 @@ jobs:
           echo "Timestamp generated: $NOW"
 
       # =============================================================
-      # 💡 json 파일뿐만 아니라 meta.json도 같이 커밋하도록 변경
+      # 💡 [추가됨] 현재 시간(KST)을 저장
+      # =============================================================
+      - name: Generate Last Updated Time
+        run: |
+          # public 폴더가 없으면 생성
+          mkdir -p public
+          
+          # 한국 시간(KST) 설정
+          export TZ="Asia/Seoul"
+          NOW=$(date +'%Y-%m-%d %H:%M:%S')
+          
+          # meta.json 파일 생성 (이전 대화의 script.js와 호환됨)
+          echo "{ \"completed_at\": \"$NOW\" }" > public/update_time.json
+          
+          echo "Timestamp generated: $NOW"
+
+      # =============================================================
+      # 💡 json 커밋
       # =============================================================
       - name: Commit and Push all changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # codes 폴더의 json 파일들과 public 폴더의 meta.json을 모두 포함
+          # codes 폴더의 json 파일들과 public 폴더의 json을 모두 포함
           file_pattern: 'codes/*.json public/update_time.json'
           commit_message: 'Automated data update: All sources [skip ci]'
           branch: main
