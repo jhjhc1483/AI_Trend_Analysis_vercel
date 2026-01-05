@@ -136,8 +136,11 @@ for i in range(0, 9):
             driver.quit()
 
 # --- 데이터 저장 로직 ---
-df11 = pd.DataFrame(data, columns=['제목', '분류', '링크', '년', '월', '일'])
-# print(df4.head())
+df11 = pd.DataFrame(data, columns=['제목', '분류', '링크', '년', '월', '일']
+df11['제목'] = df11['제목'].fillna('')
+df11['제목'] = df11['제목'].str.replace('\\', '', regex=False)
+df11['제목'] = df11['제목'].str.replace('\'', '＇', regex=False)
+df11['제목'] = df11['제목'].str.replace('\"', '〃', regex=False)
 
 full_path = 'codes/iitp.json'
 
