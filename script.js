@@ -521,6 +521,39 @@ document.getElementById('createAudioBtn').addEventListener('click', async functi
         // 3. callProxyAPI를 통해 안전하게 요청 전송
         await callProxyAPI(endpoint, 'POST', { ref: "main" });
 
+        // 10. 최근업데이트 불러오기
+
+async function loadCompletionTime() {
+    try {
+        // 캐시 문제 방지를 위해 현재 시간을 쿼리 파라미터로 추가 (?t=...)
+        const response = await fetch('public/update_time.json?t=' + new Date().getTime());
+        
+        if (!response.ok) {
+            throw new Error('시간 정보를 불러올 수 없습니다.');
+        }
+
+        const data = await response.json();
+        
+        // HTML 요소 업데이트
+        const timeElement = document.getElementById('workflow-completed-time');
+        if (timeElement) {
+            timeElement.innerText = data.completed_at;
+        }
+    } catch (error) {
+        console.error(error);
+        const timeElement = document.getElementById('workflow-completed-time');
+        if (timeElement) {
+            timeElement.innerText = "시간 정보 없음";
+        }
+    }
+}
+
+// 페이지 로드 시 실행되도록 설정
+document.addEventListener('DOMContentLoaded', () => {
+    loadCompletionTime();
+    // ... 기존의 다른 초기화 함수들 ...
+});
+
         alert("✅ 브리핑 생성 요청 성공!\nGemini가 대본을 쓰고 녹음 중입니다.\n약 1분 뒤 페이지를 새로고침하여 들어보세요.");
     } catch (error) {
         console.error('Error:', error);
