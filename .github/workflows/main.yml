@@ -69,6 +69,19 @@ jobs:
           python codes/pycode/KISA.py
           python codes/pycode/tta.py
 
+      - name: Generate Timestamp
+        run: |
+          # 1. public 폴더가 없으면 생성
+          mkdir -p public
+          
+          # 2. 한국 시간(KST)으로 현재 시간 구하기
+          export TZ="Asia/Seoul"
+          CURRENT_TIME=$(date +'%Y-%m-%d %H:%M:%S')
+          
+          # 3. JSON 파일 생성 (completed_at 필드)
+          echo "{ \"completed_at\": \"$CURRENT_TIME\" }" > public/update_time.json
+
+
       # =============================================================
       # 💡 최적화: 모든 JSON 파일을 한 번에 커밋 및 푸시
       # =============================================================
