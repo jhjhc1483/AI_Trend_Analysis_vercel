@@ -1,117 +1,92 @@
 [
   {
-    "title": "CES, 공식 개막 전부터 로봇·AI 장치 쏟아져",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205288",
+    "title": "업스테이지, ＇솔라 오픈＇ 오픈 소스 공개...〃딥시크-R1 넘은 프롬 스크래치 모델〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205314",
     "category": "민간"
   },
   {
-    "title": "〃구글 AI 요약, 잘못된 건강 정보로 이용자 위험에 빠뜨려〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205289",
+    "title": "중국 유비퀀트, 코딩 특화 LLM 공개...딥시크 이은 ＇양적 펀드＇ AI 가세",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205338",
     "category": "민간"
   },
   {
-    "title": "〃미국, AI 붐으로 다른 국가와 생산성 격차 더 벌릴 것〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205305",
-    "category": "기타"
-  },
-  {
-    "title": "네이버클라우드, 부산시에 생성 AI 행정 서비스 전면 적용",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205290",
+    "title": "딥브레인AI, 국내 최초 ＇비가시성 워터마크 솔루션＇ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205335",
     "category": "민간"
   },
   {
-    "title": "국가대표 AI 모델 5종, 글로벌 ＇주목할 만한 AI＇ 등재",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205284",
-    "category": "기타"
-  },
-  {
-    "title": "[CES 2026]대한상의, 참관단 파견…AI·모빌리티 기술 점검",
-    "link": "https://www.etnews.com/20260105000446",
+    "title": "“국내 최초 정부 공인 ＇AI 자격증＇ 나왔다...SK AX 인증 획득",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205329",
     "category": "민간"
   },
   {
-    "title": "[사설] CES서 기업성과 창출하자",
-    "link": "https://www.etnews.com/20260105000383",
-    "category": "기타"
+    "title": "엔비디아, 자율주행·로봇용 오픈소스 제품군 ＇알파마요(Alpamayo)＇ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205316",
+    "category": "민간"
   },
   {
-    "title": "[전파칼럼] AI 시대의 전파 기술 원천",
-    "link": "https://www.etnews.com/20260105000215",
-    "category": "기타"
+    "title": "아마존, AI 챗봇 ＇알렉사+＇ 웹사이트 출시...챗GPT처럼 접근성 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205333",
+    "category": "민간"
   },
   {
-    "title": "독자 AI 모델 1차 평가 시작…＇전문가·AI 전문 사용자＇ 이원화",
-    "link": "https://www.etnews.com/20260105000402",
+    "title": "네이버, ＇독자 AI＇ 中 큐원 논란에 “100% 자체 기술에 외부 인코더 채택”",
+    "link": "https://www.etnews.com/20260106000047",
+    "category": "민간"
+  },
+  {
+    "title": "국가데이터정책위, 지난해 회의 0건…데이터 정책 공백 우려",
+    "link": "https://www.etnews.com/20260106000133",
     "category": "기관"
   },
   {
-    "title": "네이버클라우드, 부산시정에 ＇하이퍼클로바X＇ 기반 생성형 AI 이식",
-    "link": "https://www.etnews.com/20260105000315",
-    "category": "민간"
-  },
-  {
-    "title": "신문협회 “AI의 뉴스저작물 ＇선 사용, 후 보상＇은 명백한 권리 침해”",
-    "link": "https://www.etnews.com/20260105000151",
-    "category": "기타"
-  },
-  {
-    "title": "기보, ＇인공지능 전환(AX) 전략＇ 수립…전사적 혁신 본격화",
-    "link": "https://www.etnews.com/20260105000150",
-    "category": "기타"
-  },
-  {
-    "title": "과기정통부 류제명 제2차관, CES 2026서 세계 인공지능 3대 강 달성 위한 정책 방안 모색",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38000",
+    "title": "국세청, AI 대전환 마스터플랜 사업 추진…IT서비스 대기업 ＇촉각＇",
+    "link": "https://www.etnews.com/20260106000327",
     "category": "기관"
   },
   {
-    "title": "삼성전자 노태문 대표, 〃모든 제품군∙서비스에 AI적용, AI경험 대중화 선도할 것〃",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=37997",
-    "category": "민간"
-  },
-  {
-    "title": "조달청, AI 기반 SW 조달 활성화∙기업 권익 보호∙구매 편의성 제고... 디지털서비스·상용SW 계약 규정 개정",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=37996",
+    "title": "[사설] 국가데이터정책委, 기구 낭비 아닌가",
+    "link": "https://www.etnews.com/20260106000347",
     "category": "기관"
   },
   {
-    "title": "정의선 회장, 〃AI는 거대한 패러다임 전환 기술... AI 역량 내재화하지 못한 기업, 생존 담보하기 어렵다”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=37995",
+    "title": "AI 기본법 시행 임박…“현장 경험 반영한 제도 설계 필요해”",
+    "link": "https://www.etnews.com/20260106000328",
     "category": "기타"
   },
   {
-    "title": "현대차 AI 기반 모빌리티 로봇 플랫폼 ＇모베드＇, ＇CES2026 최고혁신상＇ 최초 수상",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=37994",
-    "category": "민간"
-  },
-  {
-    "title": "퀄컴, ‘피지컬 AI’ 전면전 선언…가정용 로봇부터 휴머노이드까지 아우르는 로보틱스 풀스택 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38005",
-    "category": "민간"
-  },
-  {
-    "title": "〃스스로 생각하고 답변한다〃... 카카오, 한국형 하이브리드 멀티모달 언어모델 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38003",
-    "category": "민간"
-  },
-  {
-    "title": "서울시 기술교육원, AI 시대 경쟁력 있는 기술인재 양성... ’26년 상반기 훈련생 2,004명 모집",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38002",
+    "title": "정부, 의료영상 등 ＇AI·고가치 공공데이터＇ 100선 개방...AI 3대 강국 시동",
+    "link": "https://www.etnews.com/20260106000048",
     "category": "기관"
   },
   {
-    "title": "쓱쓱 볼 땐 좋은데 슬슬 뇌는 썩어가",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260106/1/ATCE_CTGR_0020020007/view.do;JSESSIONID_kookbnagWEB=kRqNm6-unxlwNjvWzilUez2Y1q1S3HqoikZ4HLIotl9QAGE4kkkR!608326864",
+    "title": "[CES 2026]노태문 사장 “올해 삼성 신제품 4억대에 AI 적용”",
+    "link": "https://www.etnews.com/20260106000354",
+    "category": "민간"
+  },
+  {
+    "title": "가트너, “중국 AI 경쟁력은 오픈소스 리더십에 피지컬 AI 선도”",
+    "link": "https://www.etnews.com/20260106000322",
+    "category": "민간"
+  },
+  {
+    "title": "[CES 2026]“AI 신뢰, 예측 가능성·로컬 보안·생태계 갖춰야”",
+    "link": "https://www.etnews.com/20260106000464",
     "category": "기타"
   },
   {
-    "title": "실패를 분석하고 다시 일어서는 힘, 그것이 전투력이다 - ‘2025 국방 AI 경진대회’ 우승 현장에서 배우다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260106/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=kRqNm6-unxlwNjvWzilUez2Y1q1S3HqoikZ4HLIotl9QAGE4kkkR!608326864",
-    "category": "국방"
+    "title": "[CES2026]주름 지우고 화면 늘리고…AI 디스플레이 각축전",
+    "link": "https://www.etnews.com/20260106000458",
+    "category": "민간"
   },
   {
-    "title": "2026 AX 원년, ‘국방 팬덤’의 성패는 초급간부에게 있다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260106/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=kRqNm6-unxlwNjvWzilUez2Y1q1S3HqoikZ4HLIotl9QAGE4kkkR!608326864",
-    "category": "국방"
+    "title": "[CES 2026]박형세 LG전자 사장 “中 TV 신기술, 유효성 검증해봐야”",
+    "link": "https://www.etnews.com/20260107000019",
+    "category": "민간"
+  },
+  {
+    "title": "＇진짜일까, 합성일까?＇...AI 허위정보 대응 나선 ＇헬시 아메리카스 재단＇… ‘Real or Synthetic 2.0’ 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38027",
+    "category": "민간"
   }
 ]
