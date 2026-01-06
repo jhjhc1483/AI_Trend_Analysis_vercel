@@ -561,3 +561,37 @@ document.addEventListener('DOMContentLoaded', () => {
     loadCompletionTime();
     // ... 기존의 다른 초기화 함수들 ...
 });
+
+
+
+
+// -----------------------------------------------------
+// 11. 맨 위로 가기 (Top) 버튼 및 모바일 사이드바 제어
+// -----------------------------------------------------
+const scrollTopBtn = document.getElementById("scrollTopBtn");
+
+// 스크롤 감지: 200px 이상 내려가면 버튼 보이기
+window.onscroll = function() {
+    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
+        scrollTopBtn.style.display = "block";
+    } else {
+        scrollTopBtn.style.display = "none";
+    }
+};
+
+// 버튼 클릭 시 맨 위로 이동
+if (scrollTopBtn) {
+    scrollTopBtn.addEventListener('click', function() {
+        window.scrollTo({ top: 0, behavior: 'smooth' });
+    });
+}
+
+// ★ 추가된 기능: 모바일에서 메뉴 클릭 시 사이드바 자동으로 닫기
+document.querySelectorAll('.tab-button').forEach(button => {
+    button.addEventListener('click', () => {
+        // 화면 너비가 768px 이하(모바일)일 때만 작동
+        if (window.innerWidth <= 768) {
+            document.querySelector('.container').classList.remove('sidebar-open');
+        }
+    });
+});
