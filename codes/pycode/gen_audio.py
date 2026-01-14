@@ -48,33 +48,28 @@ async def main():
         response = model.generate_content(prompt)
         script = response.text
         
-        # 전처리
         script = script.replace("*", "").replace("#", "").replace("-", "").replace('"', "")
         print(f">>> 생성된 대본:\n{script[:100]}...")
 
         # 5. Google Cloud TTS 생성
         print(">>> Google Cloud TTS(Neural2)로 변환 시작...")
-        
-        # 클라이언트 인스턴스 (환경변수 GOOGLE_APPLICATION_CREDENTIALS 자동 참조)
+
         client = texttospeech.TextToSpeechClient()
 
-        # 입력 텍스트 설정
         synthesis_input = texttospeech.SynthesisInput(text=script)
-
-        # 목소리 설정 (가장 중요한 부분!)
         # ko-KR-Neural2-A: 여성 (차분함, 추천)
         # ko-KR-Neural2-C: 남성 (중후함)
         # ko-KR-Neural2-B: 여성 (약간 높은 톤)
         voice = texttospeech.VoiceSelectionParams(
             language_code="ko-KR",
-            name="ko-KR-Neural2-A" # 원하는 목소리로 변경 가능
+            name="ko-KR-Neural2-A" 
         )
 
         # 오디오 설정
         audio_config = texttospeech.AudioConfig(
             audio_encoding=texttospeech.AudioEncoding.MP3,
-            speaking_rate=1.0, # 속도 (1.0이 기본)
-            pitch=0.0          # 톤 높낮이
+            speaking_rate=1.0,
+            pitch=0.0        
         )
 
         # API 요청
@@ -92,7 +87,6 @@ async def main():
 
     except Exception as e:
         print(f"오류 발생: {e}")
-        # 구글 인증 오류일 경우 힌트 출력
         if "DefaultCredentialsError" in str(e):
             print("Tip: GCP_SA_KEY 시크릿이 올바른 JSON 형식이 맞는지 확인하세요.")
         exit(1)

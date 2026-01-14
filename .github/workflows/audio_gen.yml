@@ -31,7 +31,7 @@ jobs:
     - name: 오디오 생성 스크립트 실행
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
-        # Python 코드 내부에서 이 파일을 참조함
+        # Python 코드 내부에서 이 파일을 참조
         GOOGLE_APPLICATION_CREDENTIALS: "./service_account.json"
       run: |
         python codes/pycode/gen_audio.py

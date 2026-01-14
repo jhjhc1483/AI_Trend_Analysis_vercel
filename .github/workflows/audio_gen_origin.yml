@@ -1,7 +1,7 @@
 name: AI Audio Briefing Generator_origin
 
 on:
-  workflow_dispatch: # 버튼 클릭으로 수동 실행
+  workflow_dispatch: 
 
 jobs:
   build:

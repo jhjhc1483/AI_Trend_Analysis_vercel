@@ -11,15 +11,14 @@ from urllib3.util.retry import Retry
 # 1. 세션 및 재시도(Retry) 설정
 session = requests.Session()
 retries = Retry(
-    total=5,               # 최대 5번까지 재시도
-    backoff_factor=1,      # 재시도 간격 (1초, 2초, 4초...)
-    status_forcelist=[403, 500, 502, 503, 504], # 해당 에러 발생 시 재시도
+    total=5,            
+    backoff_factor=1,   
+    status_forcelist=[403, 500, 502, 503, 504],
     raise_on_status=False
 )
 session.mount("https://", HTTPAdapter(max_retries=retries))
 session.mount("http://", HTTPAdapter(max_retries=retries))
 
-# 공통 헤더 (서버 차단 방지용)
 headers = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
 }
@@ -37,14 +36,12 @@ data = []
 for i in range(len(url)):
     print(f"--- {url[i]} 수집 중 ---")
     try:
-        # headers와 timeout을 추가하고 session.get 사용
         response = session.get(url[i], headers=headers, timeout=30)
         response.raise_for_status()
         
         html = response.text
         soup = BeautifulSoup(html, 'html.parser')
-        
-        # 카테고리 추출 시 예외 처리
+
         category_tag = soup.select_one(".tit_nav.tit_nav_bg04>h1")
         category = category_tag.text.strip() if category_tag else "알수없음"
 
@@ -56,15 +53,13 @@ for i in range(len(url)):
                 
                 code = anchor.attrs['href']
                 link = code if "https://" in code else f"https://www.kisti.re.kr{code}"
-                
-                # 정규식 대신 .text를 사용하는 것이 안전하고 빠릅니다
+
                 name = anchor.text.strip()
                 
                 date_tag = item.select_one(".date")
                 if date_tag:
                     date_text = date_tag.text.strip()
                     date_temp = date_text.split('.')
-                    # '2023.12.19.' 형태 대비 빈값 제거
                     date_temp = [d.strip() for d in date_temp if d.strip()]
                     
                     years = date_temp[0]
@@ -75,8 +70,7 @@ for i in range(len(url)):
             except Exception as e:
                 print(f"항목 파싱 중 오류: {e}")
                 continue
-        
-        # 페이지 간 짧은 휴식 (서버 부하 방지)
+
         time.sleep(0.5)
 
     except Exception as e:
@@ -87,7 +81,6 @@ for i in range(len(url)):
 df10 = pd.DataFrame(data, columns=['제목', '분류', '링크', '년', '월', '일'])
 full_path = 'codes/KISTI.json'
 
-# 폴더 자동 생성
 os.makedirs(os.path.dirname(full_path), exist_ok=True)
 
 new_data = df10.to_dict('records')

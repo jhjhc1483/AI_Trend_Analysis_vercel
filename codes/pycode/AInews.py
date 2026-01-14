@@ -39,11 +39,9 @@ df12['기사명'] = df12['기사명'].fillna('')
 df12['기사명'] = df12['기사명'].str.replace('\\', '', regex=False)
 df12['기사명'] = df12['기사명'].str.replace('\'', '＇', regex=False)
 df12['기사명'] = df12['기사명'].str.replace('\"', '〃', regex=False)
-new_data = df12.to_dict('records') # 새 DataFrame을 리스트 오브 딕셔너리 형태로 변환
+new_data = df12.to_dict('records')
 full_path = 'codes/AInews.json'
 
-
-# ----------------- JSON 이어 붙이기 및 중복 제거 로직 시작 -----------------
 
 existing_data = []
 
