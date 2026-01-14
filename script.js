@@ -1,11 +1,11 @@
 // -----------------------------------------------------
-// 1. 설정 및 공통 함수 (토큰 관련 코드 제거됨)
+// 1. 설정 및 공통 함수
 // -----------------------------------------------------
 const OWNER = "jhjhc1483";
 const REPO = "AI_Trend_Analysis_vercel";
 const BRANCH = "main";
 
-// ★ 핵심: GitHub API 대신 Vercel Serverless Function을 호출하는 함수
+//Vercel Serverless Function을 호출하는 함수
 async function callProxyAPI(endpoint, method = 'GET', body = null) {
     try {
         const res = await fetch('/api/github', {
@@ -86,7 +86,6 @@ document.getElementById('loadFileBtn').addEventListener('click', async () => {
     }
 });
 
-// 닫기 및 복사 버튼
 document.getElementById('closeBtn').addEventListener('click', () => {
     popup.style.display = 'none';
     overlay.style.display = 'none';
@@ -114,7 +113,7 @@ document.getElementById('runActionBtn2').addEventListener('click', async functio
 });
 
 // -----------------------------------------------------
-// 5. 전역 변수 및 데이터 로드 (기존 로직 유지)
+// 5. 전역 변수 및 데이터 로드
 // -----------------------------------------------------
 let articleData = [];
 let publicationData = [];
@@ -208,7 +207,7 @@ function loadData() {
 }
 
 // -----------------------------------------------------
-// 6. UI/UX 렌더링 및 헬퍼 함수들 (기존 로직 유지)
+// 6. UI/UX 렌더링 및 헬퍼 함수들
 // -----------------------------------------------------
 function sortData(data, sortBy) {
     const sortedData = [...data];
@@ -433,13 +432,11 @@ document.getElementById('uploadFavoritesBtn').addEventListener('click', async fu
         const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
 
         try {
-            // 1. SHA 조회
             let sha = null;
             const getEndpoint = `repos/${OWNER}/${REPO}/contents/${file.path}`;
             const getResData = await callProxyAPI(getEndpoint, 'GET').catch(() => null);
             if (getResData && getResData.sha) sha = getResData.sha;
-
-            // 2. 파일 업로드 (PUT)
+            
             const putBody = {
                 message: `update ${file.path}`,
                 content: encodedContent,
@@ -533,7 +530,6 @@ document.getElementById('createAudioBtn').addEventListener('click', async functi
 
 async function loadCompletionTime() {
     try {
-        // 캐시 문제 방지를 위해 현재 시간을 쿼리 파라미터로 추가 (?t=...)
         const response = await fetch('public/update_time.json?t=' + new Date().getTime());
         
         if (!response.ok) {
@@ -541,8 +537,6 @@ async function loadCompletionTime() {
         }
 
         const data = await response.json();
-        
-        // HTML 요소 업데이트
         const timeElement = document.getElementById('workflow-completed-time');
         if (timeElement) {
             timeElement.innerText = data.completed_at;
@@ -556,13 +550,9 @@ async function loadCompletionTime() {
     }
 }
 
-// 페이지 로드 시 실행되도록 설정
 document.addEventListener('DOMContentLoaded', () => {
     loadCompletionTime();
-    // ... 기존의 다른 초기화 함수들 ...
 });
-
-
 
 
 // -----------------------------------------------------
@@ -570,7 +560,6 @@ document.addEventListener('DOMContentLoaded', () => {
 // -----------------------------------------------------
 const scrollTopBtn = document.getElementById("scrollTopBtn");
 
-// 스크롤 감지: 200px 이상 내려가면 버튼 보이기
 window.onscroll = function() {
     if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
         scrollTopBtn.style.display = "block";
@@ -579,17 +568,15 @@ window.onscroll = function() {
     }
 };
 
-// 버튼 클릭 시 맨 위로 이동
+
 if (scrollTopBtn) {
     scrollTopBtn.addEventListener('click', function() {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 }
 
-// ★ 추가된 기능: 모바일에서 메뉴 클릭 시 사이드바 자동으로 닫기
 document.querySelectorAll('.tab-button').forEach(button => {
     button.addEventListener('click', () => {
-        // 화면 너비가 768px 이하(모바일)일 때만 작동
         if (window.innerWidth <= 768) {
             document.querySelector('.container').classList.remove('sidebar-open');
         }

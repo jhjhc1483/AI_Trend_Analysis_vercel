@@ -21,7 +21,6 @@ for i in range(0,8):
         name = item.select_one(".board_list > ul > li > a > strong").text
         link_temp = item.select_one(".board_list > ul > li > a").attrs['onclick']
         numbers = re.findall(r"'\d+'", link_temp)
-        # 작은따옴표를 제거하고 숫자만 리스트로 저장
         clean_numbers = [n.replace("'", "") for n in numbers]
         link = f"https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId={clean_numbers[0]}&arrMasterId={clean_numbers[0]}&artId={clean_numbers[1]}"
 
@@ -38,9 +37,7 @@ for i in range(0,8):
         
 df8 = pd.DataFrame(data, columns=['제목','분류','링크','년','월','일'])
 full_path = 'codes/KISDI.json'
-new_data = df8.to_dict('records') # 새 DataFrame을 리스트 오브 딕셔너리 형태로 변환
-
-# ----------------- JSON 이어 붙이기 및 중복 제거 로직 시작 -----------------
+new_data = df8.to_dict('records')
 
 existing_data = []
 
@@ -48,7 +45,6 @@ existing_data = []
 if os.path.exists(full_path):
     try:
         with open(full_path, 'r', encoding='utf-8') as f:
-            # 파일이 비어있지 않은지 확인 후 로드
             content = f.read()
             if content:
                 existing_data = json.loads(content)
@@ -62,14 +58,11 @@ if os.path.exists(full_path):
 combined_data = existing_data + new_data
 
 # 3. 중복 제거 (가장 중요한 단계)
-# '링크'를 기준으로 중복 제거를 위한 Set을 생성합니다.
 seen_links = set()
 final_data = []
 
 for item in combined_data:
-    link = item.get('링크') # '링크' 컬럼 값을 가져옵니다.
-    
-    # '링크'가 None이거나 비어있지 않고, 아직 처리하지 않은 링크인 경우에만 추가
+    link = item.get('링크') 
     if link and link not in seen_links:
         final_data.append(item)
         seen_links.add(link)
@@ -78,7 +71,6 @@ print(f"총 {len(existing_data)}개의 기존 데이터와 {len(new_data)}개의
 print(f"중복을 제거한 후 최종 데이터는 총 {len(final_data)}개입니다.")
 
 # 4. 최종 데이터를 JSON 파일로 저장 (덮어쓰기)
-# indent=4와 force_ascii=False 옵션을 유지하여 가독성 및 한글 보존
 with open(full_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, indent=4, ensure_ascii=False)
 

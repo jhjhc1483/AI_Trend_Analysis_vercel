@@ -4,8 +4,7 @@ from pathlib import Path
 from collections import defaultdict
 from zoneinfo import ZoneInfo  # Python 3.9 이상
 
-# 현재 파일: codes/pycode/report.py
-# 프로젝트 루트로 이동
+
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
 
 FILES = [
@@ -53,7 +52,7 @@ def generate_report_text(categorized):
                 lines.append(f"{item['link']}")
                 lines.append("")
 
-    # 2. 그외 카테고리 (실제 카테고리명)
+    # 2. 그외 카테고리
     extra_categories = sorted(
         c for c in categorized
         if c not in FIXED_CATEGORIES and c != LAST_CATEGORY

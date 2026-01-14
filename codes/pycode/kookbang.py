@@ -1,4 +1,3 @@
-
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
@@ -12,21 +11,16 @@ html = response.text
 soup = BeautifulSoup(html, 'html.parser')
 data = []
 
-# 모든 기사 li 기준으로 순회
 for li in soup.select("li"):
     title_tag = li.select_one(".eps1")
     date_tag = li.select_one("span")
     link_tag = li.select_one("a")
 
-    # 필수 요소가 없으면 건너뜀
     if not (title_tag and date_tag and link_tag):
         continue
-    # 제목
     name = title_tag.get_text(strip=True)
-    # 링크
     code = link_tag.get("href")
     link = str(f"https://kookbang.dema.mil.kr{code}")
-    # 날짜 (예: 2025. 12. 18. 17:42)
     date_text = date_tag.get_text(strip=True)
     date = date_text.split(". ")
     year = date[0]
@@ -40,7 +34,6 @@ for li in soup.select("li"):
 
 df13 = pd.DataFrame(data, columns=['제목','링크','년','월','일','시', '분'])
 full_path = 'codes/kookbang.json'
-# 폴더가 없으면 생성
 os.makedirs(os.path.dirname(full_path), exist_ok=True)
 
 existing_data = []
@@ -53,7 +46,6 @@ if os.path.exists(full_path):
     except Exception as e:
         print(f"기존 파일 로드 실패: {e}")
 
-# 새 데이터 합치기 및 중복 제거
 new_data = df13.to_dict('records')
 combined_data = existing_data + new_data
 
@@ -65,7 +57,6 @@ for item in combined_data:
         final_data.append(item)
         seen_titles.add(link)
 
-# 최종 저장
 with open(full_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, indent=4, ensure_ascii=False)
 

@@ -11,7 +11,6 @@ import os
 import json
 import numpy as np
 
-# iitp 파싱할 사이트 주소들을 2d array로 생성
 url_list = [
     'https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/list.do?cpage=1&rows=10&searchTarget=all',
     'https://www.iitp.kr/web/lay1/program/S1T14C61/itfind',
@@ -135,7 +134,7 @@ for i in range(0, 9):
         if driver:
             driver.quit()
 
-# --- 데이터 저장 로직 ---
+
 df11 = pd.DataFrame(data, columns=['제목', '분류', '링크', '년', '월', '일'])
 df11['제목'] = df11['제목'].fillna('').str.replace(r'\\', '', regex=True)
 df11['제목'] = df11['제목'].str.replace('\'', '＇', regex=False).str.replace('\"', '〃', regex=False)
@@ -143,7 +142,6 @@ df11['제목'] = df11['제목'].str.replace('\'', '＇', regex=False).str.replac
 
 full_path = 'codes/iitp.json'
 
-# 디렉토리가 없으면 생성
 os.makedirs(os.path.dirname(full_path), exist_ok=True)
 
 new_data = df11.to_dict('records') 

@@ -13,17 +13,15 @@ import json
 
 # 1. WebDriver 옵션 설정
 chrome_options = Options()
-# =============================================================
-# 💡 헤드리스 모드 활성화 (가장 중요한 변경)
-chrome_options.add_argument("--headless=new")
-# =============================================================
 
+# 💡 헤드리스 모드 활성화
+chrome_options.add_argument("--headless=new")
 # 불필요한 에러 메시지 없애기
 chrome_options.add_experimental_option("excludeSwitches", ["enable-logging"])
-# 기타 헤드리스 환경 최적화 옵션 (선택적)
+# 기타 헤드리스 환경 최적화 옵션
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
-# # 창 크기 설정 (헤드리스 모드에서 렌더링을 위해 필요할 수 있음)
+# # 창 크기 설정
 chrome_options.add_argument("window-size=1920x1080") 
 
 # 2. Service 객체 생성 및 WebDriver 초기화
@@ -32,7 +30,7 @@ service = Service(executable_path=ChromeDriverManager().install())
 try:
     # 3. WebDriver 초기화
     browser = webdriver.Chrome(service=service, options=chrome_options)
-    # 웹사이트 열기
+    
     browser.get('https://www.aitimes.com/news/articleList.html?page=1&total=29543&sc_section_code=&sc_sub_section_code=&sc_serial_code=&sc_area=&sc_level=&sc_article_type=&sc_view_level=&sc_sdate=&sc_edate=&sc_serial_number=&sc_word=&sc_andor=&sc_word2=&box_idxno=&sc_multi_code=&sc_is_image=&sc_is_movie=&sc_user_name=&sc_order_by=E')
     browser.implicitly_wait(10) # 묵시적 대기 시간 설정
     more_button = browser.find_element(By.CSS_SELECTOR, '#section-list > button')
@@ -42,29 +40,6 @@ try:
     more_button.click()
     more_button.click()
 
-    #더보기 버튼 클릭 카운드 하는 함수
-
-    # click_count = 0
-    # while True:
-    #     try:
-    #         # 더보기 버튼 찾기
-    #         more_button = browser.find_element(By.CSS_SELECTOR, '#section-list > button')
-            
-    #         # 버튼이 화면에 보이고 클릭 가능한 상태인지 확인 (선택적)
-    #         # if more_button.is_displayed() and more_button.is_enabled():
-            
-    #         more_button.click()
-    #         click_count += 1
-    #         print(f"더보기 버튼 클릭 ({click_count}회)")
-    #         time.sleep(1.5) # 새로운 기사 목록 로드를 위해 명시적 대기
-            
-    #     except Exception:
-    #         # 버튼을 찾지 못하거나 클릭할 수 없을 경우 (더 이상 로드할 데이터가 없는 경우) 루프 종료
-    #         print(f"더보기 버튼을 더 이상 찾을 수 없습니다. (총 {click_count}회 클릭)")
-    #         break
-    # #section-list > button
-
-    # 기사 목록 크롤링 시작
     items = browser.find_elements(By.CSS_SELECTOR, '.altlist-text-item')
     data = []
     
@@ -79,14 +54,12 @@ try:
             if not link:
                 print(f"경고: 링크가 비어있는 항목을 건너뜁니다. (기사명: {name})")
                 continue
-            
-            # 2차 Requests 요청 (페이지별 상세 정보 추출)
+        
             response = requests.get(link)
             response.raise_for_status()
             html = response.text
             soup = BeautifulSoup(html, 'html.parser')
             
-            # 날짜/시간 정보 추출
             date_text = soup.select_one(".breadcrumbs > li:nth-child(2)").text.strip()
             match = re.search(r'(\d{4})\.(\d{2})\.(\d{2})\s(\d{2}):(\d{2})', date_text)
             
@@ -102,20 +75,14 @@ try:
             print(f"데이터 추출 중 오류 발생 (링크: {link if 'link' in locals() else 'N/A'}): {e}")
             continue
 
-    # WebDriver 종료
     browser.quit()
 
-    # 데이터프레임 생성 및 클리닝
     df1 = pd.DataFrame(data, columns=['기사명','링크','년','월','일','시','분'])
     df1['기사명'] = df1['기사명'].fillna('')
     df1['기사명'] = df1['기사명'].str.replace('\\', '', regex=False)
     df1['기사명'] = df1['기사명'].str.replace('\'', '＇', regex=False)
     df1['기사명'] = df1['기사명'].str.replace('\"', '〃', regex=False)
 
-
-    # =============================================================
-    # 📢 JSON 파일 이어 붙이기 및 저장 로직 (업데이트 로직 적용)
-    # =============================================================
 
     full_path = 'codes/aitimes.json' 
     new_data = df1.to_dict('records')
@@ -134,7 +101,7 @@ try:
                 if content:
                     existing_list = json.loads(content)
                     total_existing = len(existing_list)
-                    # link를 키로 하는 딕셔너리로 변환
+               
                     for item in existing_list:
                         link = item.get('링크')
                         if link:
@@ -148,23 +115,20 @@ try:
     # 2. 새 데이터를 순회하며 업데이트 또는 스킵 결정
     for item in new_data:
         link = item.get('링크')
-        # 시간 관련 키들을 비교용 튜플로 만듦
+
         new_time_tuple = (item.get('년'), item.get('월'), item.get('일'), item.get('시'), item.get('분'))
 
         if link in existing_data_dict:
-            # 2-1. 링크가 기존 데이터에 있는 경우 (업데이트 또는 스킵)
+
             existing_item = existing_data_dict[link]
             existing_time_tuple = (existing_item.get('년'), existing_item.get('월'), existing_item.get('일'), existing_item.get('시'), existing_item.get('분'))
-            
-            # 시간 정보가 하나라도 다르면 (변경된 것으로 간주) 덮어쓰기 (업데이트)
             if new_time_tuple != existing_time_tuple:
                 existing_data_dict[link] = item # 덮어쓰기
                 update_count += 1
             else:
-                # link와 모든 시간 정보가 같으면 중복으로 간주하고 버림 (Skip)
                 skip_count += 1
         else:
-            # 2-2. 새로운 링크인 경우 (추가)
+
             existing_data_dict[link] = item
 
     # 3. 딕셔너리 값을 리스트로 변환하여 최종 데이터 준비

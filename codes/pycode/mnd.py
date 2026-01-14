@@ -11,10 +11,9 @@ import time
 # 1. 재시도 로직을 포함한 세션 설정
 def get_safe_session():
     session = requests.Session()
-    # 연결 실패나 500번대 에러 발생 시 최대 3번까지 재시도
     retry_strategy = Retry(
         total=3,
-        backoff_factor=1, # 실패 시 1초, 2초, 4초 간격으로 대기 후 시도
+        backoff_factor=1, 
         status_forcelist=[429, 500, 502, 503, 504],
     )
     adapter = HTTPAdapter(max_retries=retry_strategy)
@@ -30,7 +29,6 @@ headers = {
     "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
 }
 
-# 타임아웃을 20초로 조금 더 늘림
 TIMEOUT_SEC = 20
 data = []
 
@@ -58,8 +56,6 @@ for i in range(3, 8):
                     date = item.select_one(".post_info > dl").select_one('dd').text.strip()
                     years, month, day = date.split('-')
                     data.append([name, category, link, years, month, day, "", ""])
-            
-            # 페이지 간 간격
             time.sleep(1)
         except Exception as e:
             print(f"보도자료 크롤링 중 오류: {e}")
@@ -68,7 +64,6 @@ for i in range(3, 8):
         for p in range(1, 3):
             url = f"https://www.mnd.go.kr/cop/kookbang/kookbangIlboList.do?siteId=mnd&pageIndex={p}&findType=&findWord=&categoryCode=dema000{i}&boardSeq=&startDate=&endDate=&id=mnd_020101000000"
             try:
-                # session.get 사용
                 response = session.get(url, headers=headers, timeout=TIMEOUT_SEC)
                 response.raise_for_status()
                 
@@ -90,13 +85,10 @@ for i in range(3, 8):
                         date = item.select_one(".post_info > dl").select_one('dd').text.strip()
                         years, month, day = date.split('.')
                         data.append([name, category, link, years, month, day, "", ""])
-                
-                # ⭐ 중요: 요청 간 휴식 시간을 2초로 늘려 서버 차단 방지
                 time.sleep(2)
             except Exception as e:
                 print(f"국방일보({category}, {p}페이지) 크롤링 중 오류: {e}")
 
-# --- 이후 JSON 저장 로직 (동일) ---
 df5 = pd.DataFrame(data, columns=['기사명','분류','링크','년','월','일','시','분'])
 os.makedirs('codes', exist_ok=True)
 full_path = 'codes/mnd.json'

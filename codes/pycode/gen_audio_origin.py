@@ -28,7 +28,7 @@ async def main():
 
         print(">>> Gemini에게 브리핑 대본 작성을 요청합니다...")
         
-        # 4. Gemini 프롬프트 작성 (뉴스 캐스터 페르소나)
+        # 4. Gemini 프롬프트 작성 
         prompt = f"""
         너는 인공지능 동향을 매일 아침 전해주는 전문 뉴스 캐스터야.
         아래 [데이터]를 바탕으로 3분 내외의 라디오 뉴스 브리핑 대본을 작성해줘.
@@ -48,12 +48,11 @@ async def main():
         response = model.generate_content(prompt)
         script = response.text
         
-        # 불필요한 마크다운 기호 제거 (TTS 오류 방지)
+        # 불필요한 마크다운 기호 제거
         script = script.replace("*", "").replace("#", "").replace("-", "")
         print(f">>> 생성된 대본:\n{script[:100]}...") # 로그 확인용
 
-        # 5. TTS 변환 (Edge TTS - 무료, 고품질)
-        # 목소리 옵션: ko-KR-SunHiNeural (여성), ko-KR-InJoonNeural (남성)
+        # 5. TTS 변환
         VOICE = "ko-KR-SunHiNeural" 
         output_file = "public/audio.mp3"
         

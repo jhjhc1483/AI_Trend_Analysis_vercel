@@ -69,9 +69,7 @@ jobs:
           python codes/pycode/KISA.py
           python codes/pycode/tta.py
 
-      # =============================================================
-      # 💡 [추가됨] 현재 시간(KST)을 저장
-      # =============================================================
+      # 현재 시간(KST)을 저장
       - name: Generate Last Updated Time
         run: |
           # public 폴더가 없으면 생성
@@ -86,9 +84,7 @@ jobs:
           
           echo "Timestamp generated: $NOW"
 
-      # =============================================================
-      # 💡 [추가됨] 현재 시간(KST)을 저장
-      # =============================================================
+      # 현재 시간(KST)을 저장
       - name: Generate Last Updated Time
         run: |
           # public 폴더가 없으면 생성
@@ -103,13 +99,11 @@ jobs:
           
           echo "Timestamp generated: $NOW"
 
-      # =============================================================
-      # 💡 json 커밋
-      # =============================================================
+      # json 커밋
+
       - name: Commit and Push all changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          # codes 폴더의 json 파일들과 public 폴더의 json을 모두 포함
           file_pattern: 'codes/*.json public/update_time.json'
           commit_message: 'Automated data update: All sources [skip ci]'
           branch: main
