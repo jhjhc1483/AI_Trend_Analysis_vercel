@@ -456,7 +456,10 @@ document.getElementById('autoSelectFavoritesBtn').addEventListener('click', asyn
                 body: JSON.stringify({ items: targetArticles, type: 'ARTICLE' })
             });
 
-            if (!res.ok) throw new Error("AI API Error (Article)");
+            if (!res.ok) {
+                const errData = await res.json().catch(() => ({}));
+                throw new Error(errData.error || `AI API Error (Article): ${res.status}`);
+            }
 
             const result = await res.json();
             if (result.selected) {
@@ -477,7 +480,10 @@ document.getElementById('autoSelectFavoritesBtn').addEventListener('click', asyn
                 body: JSON.stringify({ items: targetPublications, type: 'PUBLICATION' })
             });
 
-            if (!res.ok) throw new Error("AI API Error (Publication)");
+            if (!res.ok) {
+                const errData = await res.json().catch(() => ({}));
+                throw new Error(errData.error || `AI API Error (Publication): ${res.status}`);
+            }
 
             const result = await res.json();
             if (result.selected) {
