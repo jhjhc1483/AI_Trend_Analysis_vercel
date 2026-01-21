@@ -24,10 +24,10 @@ async function callProxyAPI(endpoint, method = 'GET', body = null) {
             const errData = await res.json().catch(() => ({}));
             throw new Error(errData.message || `HTTP Error ${res.status}`);
         }
-        
+
         // 204 No Content 처리
         if (res.status === 204) return null;
-        
+
         return await res.json();
     } catch (error) {
         throw error;
@@ -37,10 +37,10 @@ async function callProxyAPI(endpoint, method = 'GET', body = null) {
 // -----------------------------------------------------
 // 2. 기사 업데이트 실행 (runActionBtn)
 // -----------------------------------------------------
-document.getElementById('runActionBtn').addEventListener('click', async function() {
+document.getElementById('runActionBtn').addEventListener('click', async function () {
     const message = "⚠️기사 업데이트를 진행하시겠습니까?⚠️\n\n" +
-                    "✅기사는 지정된 시간에 맞춰 자동으로 업데이트 됩니다.\n" +
-                    "✅수동으로 기사 업데이트 시 최소 5분 이상의 시간이 소요 됩니다.";
+        "✅기사는 지정된 시간에 맞춰 자동으로 업데이트 됩니다.\n" +
+        "✅수동으로 기사 업데이트 시 최소 5분 이상의 시간이 소요 됩니다.";
 
     if (!confirm(message)) return;
 
@@ -74,7 +74,7 @@ document.getElementById('loadFileBtn').addEventListener('click', async () => {
     try {
         const endpoint = `repos/${OWNER}/${REPO}/contents/${PATH}?ref=${BRANCH}`;
         const data = await callProxyAPI(endpoint, 'GET');
-        
+
         const text = base64ToUtf8(data.content);
         contentDiv.textContent = text;
         popup.style.display = 'block';
@@ -99,7 +99,7 @@ document.getElementById('copyBtn2').addEventListener('click', () => {
 // -----------------------------------------------------
 // 4. 텍스트 추출 실행 (runActionBtn2)
 // -----------------------------------------------------
-document.getElementById('runActionBtn2').addEventListener('click', async function() {
+document.getElementById('runActionBtn2').addEventListener('click', async function () {
     const WORKFLOW_ID = "json_to_txt.yml";
     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
@@ -121,7 +121,7 @@ let allDataLoaded;
 let debounceTimeout;
 let currentView = 'HOME';
 let favoriteArticles = new Map();
-let favoritePublications = new Map(); 
+let favoritePublications = new Map();
 const cacheBuster = `?t=${new Date().getTime()}`;
 
 const FILES_TO_LOAD = [
@@ -145,7 +145,7 @@ const FILES_TO_LOAD = [
 function loadData() {
     const favArticlesStr = localStorage.getItem('favoriteArticles');
     const favPublicationsStr = localStorage.getItem('favoritePublications');
-    
+
     if (favArticlesStr) {
         const parsed = JSON.parse(favArticlesStr);
         if (Array.isArray(parsed) && parsed.length > 0 && Array.isArray(parsed[0])) {
@@ -162,7 +162,7 @@ function loadData() {
         } else if (Array.isArray(parsed)) {
             favoritePublications = new Map(parsed.map(link => [link, '기타']));
         }
-    }            
+    }
 
     const promises = FILES_TO_LOAD.map(file => {
         // 데이터 파일은 public 접근 가능하므로 기존 fetch 유지
@@ -235,13 +235,13 @@ function showTab(sourceName) {
 
     const isHome = sourceName === 'HOME';
     const isArticleView = sourceName.includes('ARTICLE') || ['AITIMES', 'ETNEWS', 'AINEWS', 'MND', 'kookbang', 'DAPA', 'MSIT'].includes(sourceName);
-    const isPublicationView = sourceName.includes('PUBLICATION') || ['NIA', 'IITP','STEPI', 'NIPA', 'KISDI', 'KISTI','KISA','TTA'].includes(sourceName);
+    const isPublicationView = sourceName.includes('PUBLICATION') || ['NIA', 'IITP', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA'].includes(sourceName);
 
     document.getElementById('dashboard-view').style.display = isHome ? 'block' : 'none';
     document.getElementById('list-view').style.display = isHome ? 'none' : 'block';
     document.getElementById('article-controls').style.display = isArticleView ? 'flex' : 'none';
     document.getElementById('publication-controls').style.display = isPublicationView ? 'flex' : 'none';
-    
+
     document.getElementById('main-content-title').textContent = activeTab ? activeTab.textContent.replace(/^(🏠|📰|⭐️|📚) /, '') : 'AI 동향 분석';
 
     if (isHome) renderDashboard();
@@ -279,7 +279,7 @@ function renderList(sourceName) {
     const isArticle = sourceName.includes('ARTICLE') || ['AITIMES', 'ETNEWS', 'AINEWS', 'MND', 'kookbang', 'DAPA', 'MSIT'].includes(sourceName);
     const isAll = sourceName.includes('_ALL');
     const isFav = sourceName.includes('_FAV');
-    
+
     if (isArticle) {
         sortBy = document.getElementById('sort-by-article').value;
         searchTerm = document.getElementById('search-term-article').value.toLowerCase();
@@ -387,7 +387,7 @@ function openPopup(link, title) {
 }
 
 const debounce = (func, delay) => {
-    return function(...args) {
+    return function (...args) {
         clearTimeout(debounceTimeout);
         debounceTimeout = setTimeout(() => func.apply(this, args), delay);
     };
@@ -406,9 +406,113 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // -----------------------------------------------------
-// 7. 즐겨찾기 JSON 업로드 (uploadFavoritesBtn)
+// 7. AI 자동 선정 (autoSelectFavoritesBtn)
 // -----------------------------------------------------
-document.getElementById('uploadFavoritesBtn').addEventListener('click', async function() {
+document.getElementById('autoSelectFavoritesBtn').addEventListener('click', async function () {
+    if (!confirm("🤖 AI가 전날(KST 기준) 기사/간행물을 분석하여 자동으로 즐겨찾기에 추가합니다.\n진행하시겠습니까?")) return;
+
+    // 1. 날짜 설정 (서울 시간 기준 어제)
+    const now = new Date();
+    const utc = now.getTime() + (now.getTimezoneOffset() * 60000);
+    const kstDiff = 9 * 60 * 60 * 1000;
+    const kstDate = new Date(utc + kstDiff);
+
+    // 어제로 설정
+    kstDate.setDate(kstDate.getDate() - 1);
+
+    const targetYear = kstDate.getFullYear().toString();
+    const targetMonth = (kstDate.getMonth() + 1).toString().padStart(2, '0');
+    const targetDay = kstDate.getDate().toString().padStart(2, '0');
+
+    console.log(`Target Date (KST Yesterday): ${targetYear}-${targetMonth}-${targetDay}`);
+
+    // 2. 데이터 필터링
+    const filterByDate = (item) => {
+        if (!item.년 || !item.월 || !item.일) return false;
+        const itemMonth = item.월.toString().padStart(2, '0');
+        const itemDay = item.일.toString().padStart(2, '0');
+        return item.년 == targetYear && itemMonth == targetMonth && itemDay == targetDay;
+    };
+
+    const targetArticles = articleData.filter(filterByDate);
+    const targetPublications = publicationData.filter(filterByDate);
+
+    if (targetArticles.length === 0 && targetPublications.length === 0) {
+        alert(`📅 ${targetYear}-${targetMonth}-${targetDay} 일자의 데이터가 없습니다.`);
+        return;
+    }
+
+    alert(`🤖 분석 시작...\n기사: ${targetArticles.length}건\n간행물: ${targetPublications.length}건\n\n잠시만 기다려주세요.`);
+
+    try {
+        let newFavArticlesCount = 0;
+        let newFavPublicationsCount = 0;
+
+        // 3. 기사 처리
+        if (targetArticles.length > 0) {
+            const res = await fetch('/api/generate', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ items: targetArticles, type: 'ARTICLE' })
+            });
+
+            if (!res.ok) throw new Error("AI API Error (Article)");
+
+            const result = await res.json();
+            if (result.selected) {
+                result.selected.forEach(item => {
+                    if (!favoriteArticles.has(item.link)) {
+                        favoriteArticles.set(item.link, item.category || '기타');
+                        newFavArticlesCount++;
+                    }
+                });
+            }
+        }
+
+        // 4. 간행물 처리
+        if (targetPublications.length > 0) {
+            const res = await fetch('/api/generate', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ items: targetPublications, type: 'PUBLICATION' })
+            });
+
+            if (!res.ok) throw new Error("AI API Error (Publication)");
+
+            const result = await res.json();
+            if (result.selected) {
+                result.selected.forEach(item => {
+                    if (!favoritePublications.has(item.link)) {
+                        favoritePublications.set(item.link, item.category || '기타'); // 간행물도 카테고리 저장 (기본값 처리)
+                        newFavPublicationsCount++;
+                    }
+                });
+            }
+        }
+
+        // 5. 결과 저장 및 UI 업데이트
+        localStorage.setItem('favoriteArticles', JSON.stringify(Array.from(favoriteArticles.entries())));
+        localStorage.setItem('favoritePublications', JSON.stringify(Array.from(favoritePublications.entries())));
+
+        renderCurrentView();
+        document.getElementById('stat-fav-articles').textContent = favoriteArticles.size;
+        document.getElementById('stat-fav-publications').textContent = favoritePublications.size;
+
+        alert(`✅ AI 분석 완료!\n\n기사 추가: ${newFavArticlesCount}건\n간행물 추가: ${newFavPublicationsCount}건\n\n확인 버튼을 누르면 GitHub에 저장을 시작합니다.`);
+
+        // 6. GitHub 업로드 트리거
+        document.getElementById('uploadFavoritesBtn').click();
+
+    } catch (error) {
+        console.error(error);
+        alert(`❌ AI 자동 선정 중 오류 발생: ${error.message}`);
+    }
+});
+
+// -----------------------------------------------------
+// 8. 즐겨찾기 JSON 업로드 (uploadFavoritesBtn)
+// -----------------------------------------------------
+document.getElementById('uploadFavoritesBtn').addEventListener('click', async function () {
     const files = [
         {
             type: "ARTICLE",
@@ -436,14 +540,14 @@ document.getElementById('uploadFavoritesBtn').addEventListener('click', async fu
             const getEndpoint = `repos/${OWNER}/${REPO}/contents/${file.path}`;
             const getResData = await callProxyAPI(getEndpoint, 'GET').catch(() => null);
             if (getResData && getResData.sha) sha = getResData.sha;
-            
+
             const putBody = {
                 message: `update ${file.path}`,
                 content: encodedContent,
                 branch: BRANCH,
                 ...(sha && { sha })
             };
-            
+
             await callProxyAPI(getEndpoint, 'PUT', putBody);
             console.log(`✅ ${file.type} 저장 완료`);
         } catch (err) {
@@ -476,7 +580,7 @@ document.getElementById('deleteCodesBtn').addEventListener('click', async functi
             throw new Error("파일 목록을 불러오지 못했습니다.");
         }
 
-        const targetFiles = files.filter(file => 
+        const targetFiles = files.filter(file =>
             file.type === "file" && (file.name.endsWith(".json") || file.name.endsWith(".txt"))
         );
 
@@ -505,7 +609,7 @@ document.getElementById('deleteCodesBtn').addEventListener('click', async functi
 // -----------------------------------------------------
 // 9. 오디오 생성 실행 (createAudioBtn) - Vercel Proxy 적용
 // -----------------------------------------------------
-document.getElementById('createAudioBtn').addEventListener('click', async function() {
+document.getElementById('createAudioBtn').addEventListener('click', async function () {
     // 1. 사용자 확인 (토큰 검사는 Proxy가 처리하므로 제거)
     const message = "🎙️ AI 뉴스 브리핑 오디오를 생성하시겠습니까?\n(약 1~2분 소요됩니다)";
     if (!confirm(message)) return;
@@ -531,7 +635,7 @@ document.getElementById('createAudioBtn').addEventListener('click', async functi
 async function loadCompletionTime() {
     try {
         const response = await fetch('public/update_time.json?t=' + new Date().getTime());
-        
+
         if (!response.ok) {
             throw new Error('시간 정보를 불러올 수 없습니다.');
         }
@@ -560,7 +664,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // -----------------------------------------------------
 const scrollTopBtn = document.getElementById("scrollTopBtn");
 
-window.onscroll = function() {
+window.onscroll = function () {
     if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
         scrollTopBtn.style.display = "block";
     } else {
@@ -570,7 +674,7 @@ window.onscroll = function() {
 
 
 if (scrollTopBtn) {
-    scrollTopBtn.addEventListener('click', function() {
+    scrollTopBtn.addEventListener('click', function () {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     });
 }
