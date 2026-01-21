@@ -4,10 +4,10 @@ export default async function handler(req, res) {
     }
 
     const { items, type } = req.body;
-    const apiKey = process.env.GOOGLE_API_KEY;
+    const apiKey = process.env.GEMINI_API_KEY;
 
     if (!apiKey) {
-        return res.status(500).json({ error: 'Server Configuration Error: GOOGLE_API_KEY not found' });
+        return res.status(500).json({ error: 'Server Configuration Error: GEMINI_API_KEY not found' });
     }
 
     if (!items || !Array.isArray(items) || items.length === 0) {
