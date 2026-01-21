@@ -78,7 +78,7 @@ def generate_report_text(categorized):
     lines.append("")
     lines.append("")
     lines.append("🤖AI Development Department🧑‍🤝‍🧑")
-    lines.append("AI가 판단한 일일동향입니다.")
+    #lines.append("AI가 판단한 일일동향입니다.")
     return "\n".join(lines).strip()
 
 
