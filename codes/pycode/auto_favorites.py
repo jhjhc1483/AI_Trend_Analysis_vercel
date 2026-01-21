@@ -64,9 +64,9 @@ def select_and_classify(items, item_type='ARTICLE'):
         return []
 
     genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel('gemini-2.0-flash-exp')
+    model = genai.GenerativeModel('gemini-2.5-flash')
 
-    # 프롬프트 구성 (generate.js 로직 이식)
+    # 프롬프트 구성
     item_text = "\n".join([f"{i}. [{item['site']}] {item['title']} ({item['link']})" for i, item in enumerate(items)])
 
     if item_type == 'ARTICLE':
@@ -94,6 +94,7 @@ def select_and_classify(items, item_type='ARTICLE'):
 """
         user_prompt = f"다음 기사 목록에서 중요 기사를 선정하고 카테고리를 분류해 주세요:\n\n{item_text}"
     else:
+        # 간행물은 '간행물'로 통일
         system_instruction = """
 당신은 AI 및 IT 기술 간행물 분석 전문가입니다.
 주어진 간행물(보고서) 목록 중에서 국방 및 AI 기술 연구 개발에 도움이 될만한 핵심 간행물을 선정해주세요.
@@ -102,16 +103,16 @@ def select_and_classify(items, item_type='ARTICLE'):
 2. 생성형 AI, LLM, 반도체 등 최신 핵심 기술 동향 보고서
 3. 주요 정책 연구 보고서
 
-카테고리는 '국방', '육군', '민간', '기관', '기타' 중 하나로 매핑해 주세요.
+선정된 항목의 카테고리는 모두 '간행물'로 지정해주세요.
 
 응답 형식은 반드시 유효한 JSON 배열이어야 합니다. 마크다운이나 코드 블록 없이 순수 JSON만 반환하세요.
 형식:
 [
-  { "index": 0, "category": "기관" },
+  { "index": 0, "category": "간행물" },
   ...
 ]
 """
-        user_prompt = f"다음 간행물 목록에서 중요 항목을 선정하고 분류해 주세요:\n\n{item_text}"
+        user_prompt = f"다음 간행물 목록에서 중요 항목을 선정해 주세요:\n\n{item_text}"
 
     try:
         response = model.generate_content(system_instruction + "\n\n" + user_prompt, generation_config={"response_mime_type": "application/json"})
@@ -121,7 +122,14 @@ def select_and_classify(items, item_type='ARTICLE'):
         results = []
         for selection in selected_indices:
             idx = selection.get('index')
-            cat = selection.get('category', '기타')
+            # 간행물은 강제로 '간행물', 기사는 LLM 분류 따름
+            if item_type == 'PUBLICATION':
+                cat = '간행물'
+            else:
+                cat = selection.get('category', '기타')
+                if cat not in ["국방", "육군", "민간", "기관", "기타"]:
+                    cat = "기타"
+
             if idx is not None and 0 <= idx < len(items):
                 original = items[idx]
                 results.append({
