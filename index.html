@@ -1,32 +1,28 @@
 <!DOCTYPE html>
 <html lang="ko">
-
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>인공지능 동향 분석 사이트 | AI Trend Analyzer</title>
     <link rel="stylesheet" href="style.css">
 </head>
-
 <body>
-    <div id="popup"
-        style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%);
+<div id="popup" style="display:none; position:fixed; top:50%; left:50%; transform:translate(-50%, -50%);
     width:90%;max-width: 700px; height:500px; background:white; border:2px solid #333; border-radius:8px; z-index:1000; box-shadow:0 0 10px rgba(0,0,0,0.5);">
-        <div style="padding:10px; height:calc(100% - 50px); overflow:auto; white-space: pre-wrap;" id="popupContent">
-        </div>
-        <div style="text-align:right; padding:5px; border-top:1px solid #ccc;">
-            <button id="copyBtn2">복사하기</button>
-            <button id="closeBtn">닫기</button>
-        </div>
+    <div style="padding:10px; height:calc(100% - 50px); overflow:auto; white-space: pre-wrap;" id="popupContent"></div>
+    <div style="text-align:right; padding:5px; border-top:1px solid #ccc;">
+        <button id="copyBtn2">복사하기</button>
+        <button id="closeBtn">닫기</button>
     </div>
-
-    <div id="overlay" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%;
+</div>
+ 
+<div id="overlay" style="display:none; position:fixed; top:0; left:0; width:100%; height:100%;
     background:rgba(0,0,0,0.5); z-index:999;"></div>
     <div id="header-fixed">
         <button id="sidebarToggle" aria-label="메뉴 열기">☰</button>
         인공지능 일일동향 분석
     </div>
-    <div class="container">
+    <div class="container" >
         <div class="sidebar">
             <div class="logo">AI 동향분석</br>
 
@@ -37,20 +33,20 @@
                     margin-top: 10px; 
                     padding-bottom: 10px; 
                     border-bottom: 1px solid #555;">
-                    최근 업데이트 :
+                    최근 업데이트 : 
                     <span id="workflow-completed-time" style="font-weight: bold; color: #4caf50;">로딩 중...</span>
                 </div>
                 <p id="status"></p>
-
+                
                 <div class="rights">
-                    <button id="runActionBtn" style="
+                    <button  id="runActionBtn" style="
                     padding: 2px 2px;
                     background-color: #2ea44f; 
                     color: white; 
                     border: none; 
                     border-radius: 6px; 
                     font-weight: bold; 
-                    cursor: pointer;"> 기사 업데이트 </button>
+                    cursor: pointer;"> 기사 업데이트 </button>   
                     <button id="uploadFavoritesBtn" style="
                     padding: 2px 2px;
                     background-color: #2ea44f; 
@@ -58,10 +54,19 @@
                     border: none; 
                     border-radius: 6px; 
                     font-weight: bold; 
-                    cursor: pointer;"> 즐겨찾기 저장 </button>
+                    cursor: pointer;"> 즐겨찾기 저장 </button> 
+                    <button id="autoSelectFavoritesBtn" style="
+                    padding: 2px 2px;
+                    background-color: #6f42c1; 
+                    color: white; 
+                    border: none; 
+                    border-radius: 6px; 
+                    font-weight: bold; 
+                    cursor: pointer;
+                    margin-top: 5px;"> 🤖 AI 자동 선정 </button>
                 </div>
             </div>
-            <p id="status"></p>
+                    <p id="status"></p>
 
             <nav id="main-nav">
                 <div class="menu-group">
@@ -72,8 +77,7 @@
                     <a href="#" class="tab-button" data-source="ARTICLE_ALL">📰 전체보기</a>
                     <div style="display: flex; align-items: center; padding-right: 10px;">
                         <a href="#" class="tab-button" data-source="ARTICLE_FAV" style="flex-grow: 1;">⭐️ 즐겨찾기</a>
-                        <button onclick="clearFavorites('ARTICLE')"
-                            style="background: #e74c3c; color: white; border: none; border-radius: 4px; cursor: pointer; padding: 2px 6px; font-size: 0.75em; height: 24px;">초기화</button>
+                        <button onclick="clearFavorites('ARTICLE')" style="background: #e74c3c; color: white; border: none; border-radius: 4px; cursor: pointer; padding: 2px 6px; font-size: 0.75em; height: 24px;">초기화</button>
                     </div>
 
                     <a href="#" class="tab-button" data-source="AITIMES">AI Times</a>
@@ -89,8 +93,7 @@
                     <a href="#" class="tab-button" data-source="PUBLICATION_ALL">📚 전체보기</a>
                     <div style="display: flex; align-items: center; padding-right: 10px;">
                         <a href="#" class="tab-button" data-source="PUBLICATION_FAV" style="flex-grow: 1;">⭐️ 즐겨찾기</a>
-                        <button onclick="clearFavorites('PUBLICATION')"
-                            style="background: #e74c3c; color: white; border: none; border-radius: 4px; cursor: pointer; padding: 2px 6px; font-size: 0.75em; height: 24px;">초기화</button>
+                        <button onclick="clearFavorites('PUBLICATION')" style="background: #e74c3c; color: white; border: none; border-radius: 4px; cursor: pointer; padding: 2px 6px; font-size: 0.75em; height: 24px;">초기화</button>
                     </div>
                     <a href="#" class="tab-button" data-source="NIA">NIA(한국지능정보사회진흥원)</a>
                     <a href="#" class="tab-button" data-source="IITP">IITP(정보통신기획평가원)</a>
@@ -101,121 +104,118 @@
                     <a href="#" class="tab-button" data-source="KISA">KISA(한국인터넷진흥원)</a>
                     <a href="#" class="tab-button" data-source="TTA">TTA(한국정보통신기술협회)</a>
                 </div>
-            </nav>
+            </nav> 
         </div>
 
         <div class="grid">
             <div class="card">
-                <h1 id="main-content-title">홈 (대시보드)</h1>
+            <h1 id="main-content-title">홈 (대시보드)</h1>
 
-                <div id="dashboard-view">
-
+            <div id="dashboard-view">
+                    
                     <h2>🤖 사이트 활용법</h2>
-
-                    <div class="stat-card" style="text-align:left; margin-bottom:30px;">
-                        <ul style=" padding: 1px;">
-                            1. 오늘의 기사, 간행물을 즐겨찾기에 등록<br>
-                            2. 사이드바에 '즐겨찾기 저장' 클릭<br>
-                            3. 대시보드에 '텍스트만들기' 클릭(약 20초 대기)<br>
-                            4. 대시보드에 '텍스트추출' 클릭 후 만들어진 텍스트를 사용(공유)<br>
-                            5. 대시보드에 '브리핑 생성'을 클릭하면 오늘의 일일 동향 브리핑이 생성됨(약 1분 소요)<br><br>
-                            ⚠️기사 업데이트는 지정된 시간에 자동으로 진행됨. 수동으로 진행 시 최소 5분 이상의 시간이 소요됨.<br>
-                            🗑️'Reset'버튼은 크롤링했던 모든 데이터를 초기화하는 버튼임.
+                    
+                    <div class="stat-card" style="text-align:left; margin-bottom:30px;" >
+                    <ul style=" padding: 1px;">
+                        1. 오늘의 기사, 간행물을 즐겨찾기에 등록<br>
+                        2. 사이드바에 '즐겨찾기 저장' 클릭<br>
+                        3. 대시보드에 '텍스트만들기' 클릭(약 20초 대기)<br>
+                        4. 대시보드에 '텍스트추출' 클릭 후 만들어진 텍스트를 사용(공유)<br>
+                        5. 대시보드에 '브리핑 생성'을 클릭하면 오늘의 일일 동향 브리핑이 생성됨(약 1분 소요)<br><br>
+                        ⚠️기사 업데이트는 지정된 시간에 자동으로 진행됨. 수동으로 진행 시 최소 5분 이상의 시간이 소요됨.<br>
+                        🗑️'Reset'버튼은 크롤링했던 모든 데이터를 초기화하는 버튼임.
                         </ul>
-
+                    
+                        </div>
+                <div class="dashboard-header">
+                    <div class="dashboard-actions">
+                        <button id="runActionBtn2">텍스트만들기</button>
+                        <button id="loadFileBtn">텍스트추출</button>
+                        <button id="createAudioBtn">🎙️ 브리핑 생성</button>
+                        <button id="deleteCodesBtn">🗑️Reset</button>
                     </div>
-                    <div class="dashboard-header">
-                        <div class="dashboard-actions">
-                            <button id="runActionBtn2">텍스트만들기</button>
-                            <button id="loadFileBtn">텍스트추출</button>
-                            <button id="createAudioBtn">🎙️ 브리핑 생성</button>
-                            <button id="deleteCodesBtn">🗑️Reset</button>
-                        </div>
-                        <div class="trend-section" style="margin-top: 20px;">
-                            <h2>🎧 오늘의 AI 브리핑 듣기</h2>
-                            <audio id="audioPlayer" controls style="width: 100%;">
-                                <source src="public/audio.mp3" type="audio/mpeg">
-                                브라우저가 오디오 태그를 지원하지 않습니다.
-                            </audio>
-                            <p style="font-size: 0.8em; color: #666; margin-top: 5px;">* '브리핑 생성' 버튼을 누르고 약 1분 뒤 새로고침하면
-                                최신 브리핑이 반영됩니다.</p>
-                        </div>
+                    <div class="trend-section" style="margin-top: 20px;">
+                        <h2>🎧 오늘의 AI 브리핑 듣기</h2>
+                        <audio id="audioPlayer" controls style="width: 100%;">
+                            <source src="public/audio.mp3" type="audio/mpeg">
+                            브라우저가 오디오 태그를 지원하지 않습니다.
+                        </audio> 
+                        <p style="font-size: 0.8em; color: #666; margin-top: 5px;">* '브리핑 생성' 버튼을 누르고 약 1분 뒤 새로고침하면 최신 브리핑이 반영됩니다.</p>
                     </div>
-                    <p id="status"></p>
-                    <h2 class="dashboard-title">📊 요약 정보</h2>
-                    <br>
-                    <div class="stats-grid">
-                        <div class="stat-card">
-                            <h3>총 기사 수</h3>
-                            <p id="stat-articles">0</p>
-                        </div>
-                        <div class="stat-card">
-                            <h3>총 간행물 수</h3>
-                            <p id="stat-publications">0</p>
-                        </div>
-                        <div class="stat-card">
-                            <h3>즐겨찾는 기사 수</h3>
-                            <p id="stat-fav-articles">0</p>
-                        </div>
-                        <div class="stat-card">
-                            <h3>즐겨찾는 간행물 수</h3>
-                            <p id="stat-fav-publications">0</p>
-                        </div>
+                </div>
+                <p id="status"></p>
+                <h2 class="dashboard-title">📊 요약 정보</h2>
+                <br>
+                <div class="stats-grid">
+                    <div class="stat-card">
+                        <h3>총 기사 수</h3>
+                        <p id="stat-articles">0</p>
                     </div>
-
-                    <div class="trend-section">
-                        <h2>✨ 최신 기사 5개</h2>
-                        <ul class="latest-list" id="latest-articles">
-                        </ul>
+                    <div class="stat-card">
+                        <h3>총 간행물 수</h3>
+                        <p id="stat-publications">0</p>
                     </div>
-                    <div class="trend-section">
-                        <h2>✨ 최신 간행물 5개</h2>
-                        <ul class="latest-list" id="latest-publications">
-                        </ul>
+                    <div class="stat-card">
+                        <h3>즐겨찾는 기사 수</h3>
+                        <p id="stat-fav-articles">0</p>
+                    </div>
+                    <div class="stat-card">
+                        <h3>즐겨찾는 간행물 수</h3>
+                        <p id="stat-fav-publications">0</p>
                     </div>
                 </div>
 
-                <div class="controls-row" id="article-controls" style="display: none;">
-                    <div class="search-controls">
-                        <input type="text" id="search-term-article" placeholder="기사 검색 (제목, 사이트)"
-                            onkeyup="debounceSearchArticles()">
-                    </div>
-                    <div class="sort-controls">
-                        <label for="sort-by-article">정렬 기준:</label>
-                        <select id="sort-by-article" onchange="renderCurrentView()">
-                            <option value="date_desc">날짜 내림차순 (최신순)</option>
-                            <option value="date_asc">날짜 오름차순 (오래된순)</option>
-                            <option value="title_asc">제목 오름차순</option>
-                            <option value="site_asc">사이트 오름차순</option>
-                        </select>
-                    </div>
+                <div class="trend-section">
+                    <h2>✨ 최신 기사 5개</h2>
+                    <ul class="latest-list" id="latest-articles">
+                        </ul>
                 </div>
-
-                <div class="controls-row" id="publication-controls" style="display: none;">
-                    <div class="search-controls">
-                        <input type="text" id="search-term-publication" placeholder="간행물 검색 (제목, 분류)"
-                            onkeyup="debounceSearchPublications()">
-                    </div>
-                    <div class="sort-controls">
-                        <label for="sort-by-publication">정렬 기준:</label>
-                        <select id="sort-by-publication" onchange="renderCurrentView()">
-                            <option value="date_desc">날짜 내림차순 (최신순)</option>
-                            <option value="date_asc">날짜 오름차순 (오래된순)</option>
-                            <option value="title_asc">제목 오름차순</option>
-                            <option value="category_asc">분류 오름차순</option>
-                        </select>
-                    </div>
+                <div class="trend-section">
+                    <h2>✨ 최신 간행물 5개</h2>
+                    <ul class="latest-list" id="latest-publications">
+                        </ul>
                 </div>
-
-                <div id="list-view" style="display: none;">
-                    <ul class="article-list" id="data-list-container">
-                    </ul>
-                    <div id="no-data">데이터 로드 중...</div>
+                </div>
+                
+            <div class="controls-row" id="article-controls" style="display: none;">
+                <div class="search-controls">
+                    <input type="text" id="search-term-article" placeholder="기사 검색 (제목, 사이트)" onkeyup="debounceSearchArticles()">
+                </div>
+                <div class="sort-controls">
+                    <label for="sort-by-article">정렬 기준:</label>
+                    <select id="sort-by-article" onchange="renderCurrentView()">
+                        <option value="date_desc">날짜 내림차순 (최신순)</option>
+                        <option value="date_asc">날짜 오름차순 (오래된순)</option>
+                        <option value="title_asc">제목 오름차순</option>
+                        <option value="site_asc">사이트 오름차순</option>
+                    </select>
                 </div>
             </div>
+
+            <div class="controls-row" id="publication-controls" style="display: none;">
+                <div class="search-controls">
+                    <input type="text" id="search-term-publication" placeholder="간행물 검색 (제목, 분류)" onkeyup="debounceSearchPublications()">
+                </div>
+                <div class="sort-controls">
+                    <label for="sort-by-publication">정렬 기준:</label>
+                    <select id="sort-by-publication" onchange="renderCurrentView()">
+                        <option value="date_desc">날짜 내림차순 (최신순)</option>
+                        <option value="date_asc">날짜 오름차순 (오래된순)</option>
+                        <option value="title_asc">제목 오름차순</option>
+                        <option value="category_asc">분류 오름차순</option>
+                    </select>
+                </div>
+            </div>
+            
+            <div id="list-view" style="display: none;">
+                <ul class="article-list" id="data-list-container">
+                    </ul>
+                <div id="no-data">데이터 로드 중...</div>
+            </div>
+             </div>
         </div>
     </div>
-
+    
     <div id="footer-copyright">
         &copy; Maj.CJH. All rights reserved.
     </div>
@@ -223,5 +223,4 @@
 
     <script src="script.js"></script>
 </body>
-
 </html>

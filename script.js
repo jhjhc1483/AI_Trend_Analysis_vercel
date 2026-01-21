@@ -406,7 +406,117 @@ document.addEventListener('DOMContentLoaded', () => {
 });
 
 // -----------------------------------------------------
-// 7. 즐겨찾기 JSON 업로드 (uploadFavoritesBtn)
+// 7. AI 자동 선정 (autoSelectFavoritesBtn)
+// -----------------------------------------------------
+document.getElementById('autoSelectFavoritesBtn').addEventListener('click', async function () {
+    if (!confirm("🤖 AI가 전날(KST 기준) 기사/간행물을 분석하여 자동으로 즐겨찾기에 추가합니다.\n진행하시겠습니까?")) return;
+
+    // 1. 날짜 설정 (서울 시간 기준 어제)
+    const now = new Date();
+    const utc = now.getTime() + (now.getTimezoneOffset() * 60000);
+    const kstDiff = 9 * 60 * 60 * 1000;
+    const kstDate = new Date(utc + kstDiff);
+
+    // 어제로 설정
+    kstDate.setDate(kstDate.getDate() - 1);
+
+    const targetYear = kstDate.getFullYear().toString();
+    const targetMonth = (kstDate.getMonth() + 1).toString().padStart(2, '0');
+    const targetDay = kstDate.getDate().toString().padStart(2, '0');
+
+    console.log(`Target Date (KST Yesterday): ${targetYear}-${targetMonth}-${targetDay}`);
+
+    // 2. 데이터 필터링
+    const filterByDate = (item) => {
+        if (!item.년 || !item.월 || !item.일) return false;
+        const itemMonth = item.월.toString().padStart(2, '0');
+        const itemDay = item.일.toString().padStart(2, '0');
+        return item.년 == targetYear && itemMonth == targetMonth && itemDay == targetDay;
+    };
+
+    const targetArticles = articleData.filter(filterByDate);
+    const targetPublications = publicationData.filter(filterByDate);
+
+    if (targetArticles.length === 0 && targetPublications.length === 0) {
+        alert(`📅 ${targetYear}-${targetMonth}-${targetDay} 일자의 데이터가 없습니다.`);
+        return;
+    }
+
+    alert(`🤖 분석 시작...\n기사: ${targetArticles.length}건\n간행물: ${targetPublications.length}건\n\n잠시만 기다려주세요.`);
+
+    try {
+        let newFavArticlesCount = 0;
+        let newFavPublicationsCount = 0;
+
+        // 3. 기사 처리
+        if (targetArticles.length > 0) {
+            const res = await fetch('/api/generate', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ items: targetArticles, type: 'ARTICLE' })
+            });
+
+            if (!res.ok) {
+                const errData = await res.json().catch(() => ({}));
+                throw new Error(errData.error || `AI API Error (Article): ${res.status}`);
+            }
+
+            const result = await res.json();
+            if (result.selected) {
+                result.selected.forEach(item => {
+                    if (!favoriteArticles.has(item.link)) {
+                        favoriteArticles.set(item.link, item.category || '기타');
+                        newFavArticlesCount++;
+                    }
+                });
+            }
+        }
+
+        // 4. 간행물 처리
+        if (targetPublications.length > 0) {
+            const res = await fetch('/api/generate', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({ items: targetPublications, type: 'PUBLICATION' })
+            });
+
+            if (!res.ok) {
+                const errData = await res.json().catch(() => ({}));
+                throw new Error(errData.error || `AI API Error (Publication): ${res.status}`);
+            }
+
+            const result = await res.json();
+            if (result.selected) {
+                result.selected.forEach(item => {
+                    if (!favoritePublications.has(item.link)) {
+                        favoritePublications.set(item.link, item.category || '기타'); // 간행물도 카테고리 저장 (기본값 처리)
+                        newFavPublicationsCount++;
+                    }
+                });
+            }
+        }
+
+        // 5. 결과 저장 및 UI 업데이트
+        localStorage.setItem('favoriteArticles', JSON.stringify(Array.from(favoriteArticles.entries())));
+        localStorage.setItem('favoritePublications', JSON.stringify(Array.from(favoritePublications.entries())));
+
+        renderCurrentView();
+        document.getElementById('stat-fav-articles').textContent = favoriteArticles.size;
+        document.getElementById('stat-fav-publications').textContent = favoritePublications.size;
+
+        alert(`✅ AI 분석 완료!\n\n기사 추가: ${newFavArticlesCount}건\n간행물 추가: ${newFavPublicationsCount}건\n\n확인 버튼을 누르면 GitHub에 저장을 시작합니다.`);
+
+        // 6. GitHub 업로드 트리거
+        document.getElementById('uploadFavoritesBtn').click();
+
+    } catch (error) {
+        console.error(error);
+        alert(`❌ AI 자동 선정 중 오류 발생: ${error.message}`);
+    }
+});
+
+// -----------------------------------------------------
+// 8. 즐겨찾기 JSON 업로드 (uploadFavoritesBtn)
 // -----------------------------------------------------
 document.getElementById('uploadFavoritesBtn').addEventListener('click', async function () {
     const files = [
