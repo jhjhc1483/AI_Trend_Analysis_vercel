@@ -410,9 +410,9 @@ document.addEventListener('DOMContentLoaded', () => {
 // -----------------------------------------------------
 document.getElementById('autoSelectFavoritesBtn').addEventListener('click', async function () {
     const message = "🤖 AI 자동 즐겨찾기 생성을 시작하시겠습니까?\n\n" +
-        "✅ GitHub Actions에서 파이썬 스크립트가 실행됩니다.\n" +
-        "✅ 어제(KST) 기사를 분석하여 중요 기사를 자동 선정하고 분류합니다.\n" +
-        "✅ 약 1~2분 소요됩니다.";
+        "✅ Gemini-2.5-flash를 사용합니다.\n" +
+        "✅ 어제(KST) 기사/간행물을 분석하여 자동 선정하고 분류합니다.\n" +
+        "✅ 약 2분 이상 소요.(별도 알람❌) 이후 대시보드에서 '텍스트만들기'를 눌러주세요.\n"
 
     if (!confirm(message)) return;
 
