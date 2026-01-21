@@ -30,6 +30,8 @@ jobs:
         python codes/pycode/auto_favorites.py
 
     - name: 텍스트 변환 스크립트 실행 (JSON to TXT)
+      env:
+        AUTO_MODE: 'true'
       run: |
         python codes/pycode/json_to_txt.py
 

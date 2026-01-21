@@ -3,6 +3,7 @@ from datetime import datetime
 from pathlib import Path
 from collections import defaultdict
 from zoneinfo import ZoneInfo  # Python 3.9 이상
+import os
 
 
 PROJECT_ROOT = Path(__file__).resolve().parents[2]
@@ -78,7 +79,10 @@ def generate_report_text(categorized):
     lines.append("")
     lines.append("")
     lines.append("🤖AI Development Department🧑‍🤝‍🧑")
-    #lines.append("AI가 판단한 일일동향입니다.")
+    
+    if os.environ.get('AUTO_MODE') == 'true':
+        lines.append("\n\n✅AI가 판단한 일일동향임.")
+        
     return "\n".join(lines).strip()
 
 
