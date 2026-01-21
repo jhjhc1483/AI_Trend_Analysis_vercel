@@ -79,9 +79,9 @@ def select_and_classify(items, item_type='ARTICLE'):
 3. 정부(과기정통부 등)의 주요 AI/SW 정책
 
 각 선정된 기사에 대해 다음 카테고리 중 하나를 지정해야 합니다:
-- 국방: 국방부, 방사청 등 직접적 국방 관련
-- 육군: 육군 관련 특화 내용
-- 민간: 일반 기업, 기술 트렌드, 해외 동향
+- 국방: 국방부, 방사청 등 직접적 국방 AI/IT 관련
+- 육군: 육군 AI/IT 관련 특화 내용
+- 민간: 일반 기업, 기술 트렌드, 해외 동향(중요도에 따라 10건 이하)
 - 기관: 정부 기관, 공공 정책, 연구소
 - 기타: 그 외
 
@@ -157,39 +157,16 @@ def main():
     fav_pubs = select_and_classify(pubs, 'PUBLICATION')
     print(f"Selected {len(fav_pubs)} publications")
     
-    # 3. 저장 (기존 데이터 유지하고 Append & Deduplicate)
+    # 3. 저장 (덮어쓰기 - 매일 새로운 리스트 생성)
     os.makedirs(os.path.dirname(FAV_ARTICLES_PATH), exist_ok=True)
     
-    existing_articles = []
-    if os.path.exists(FAV_ARTICLES_PATH):
-        with open(FAV_ARTICLES_PATH, 'r', encoding='utf-8') as f:
-            try: existing_articles = json.load(f)
-            except: existing_articles = []
-
-    existing_pubs = []
-    if os.path.exists(FAV_PUBS_PATH):
-        with open(FAV_PUBS_PATH, 'r', encoding='utf-8') as f:
-            try: existing_pubs = json.load(f)
-            except: existing_pubs = []
-            
-    # Deduplicate by link
-    existing_article_links = set(item['link'] for item in existing_articles)
-    for item in fav_articles:
-        if item['link'] not in existing_article_links:
-            existing_articles.append(item)
-            
-    existing_pub_links = set(item['link'] for item in existing_pubs)
-    for item in fav_pubs:
-        if item['link'] not in existing_pub_links:
-            existing_pubs.append(item)
-            
     with open(FAV_ARTICLES_PATH, 'w', encoding='utf-8') as f:
-        json.dump(existing_articles, f, ensure_ascii=False, indent=2)
+        json.dump(fav_articles, f, ensure_ascii=False, indent=2)
         
     with open(FAV_PUBS_PATH, 'w', encoding='utf-8') as f:
-        json.dump(existing_pubs, f, ensure_ascii=False, indent=2)
+        json.dump(fav_pubs, f, ensure_ascii=False, indent=2)
 
-    print("Done.")
+    print("Done. Files overwritten.")
 
 if __name__ == "__main__":
     main()
