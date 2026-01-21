@@ -5,6 +5,9 @@
 ◾ 국방에 활용 가능한 민간 우수기술 수록
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47338&startDate=&endDate=&id=mnd_020101000000
 
+◾ “인구절벽시대 민간 활용 전투력 안전성·전문성 확보”
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47339&startDate=&endDate=&id=mnd_020101000000
+
 ◾ 정찰드론과 함께 전술훈련
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47346&startDate=&endDate=&id=mnd_020101000000
 
@@ -20,9 +23,6 @@ https://www.etnews.com/20260121000093
 ◾ 마음AI, ＇국방·경비 특화 사족보행 로봇＇ 태국 공급 추진
 https://www.etnews.com/20260121000347
 
-◾ [기고] 병오년, 대한민국 디지털 안보의 전환점 되어야
-https://www.etnews.com/20260121000076
-
 ◾ [전문가기고]450년 전 율곡의 ＇1% 예언＇과 현대판 ＇10만 AI 양병설＇
 https://www.etnews.com/20260121000108
 
@@ -32,17 +32,8 @@ https://kookbang.dema.mil.kr/newsWeb/20260122/1/ATCE_CTGR_0010010000/view.do;JSE
 ◾ 군 특화 인공지능 전문가 양성 미래 전장 선도
 https://kookbang.dema.mil.kr/newsWeb/20260122/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
 
-◾ 해군, 우주 위험·위협 대응 연합·합동연습 첫 전개
-https://kookbang.dema.mil.kr/newsWeb/20260122/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
-
 ◾ 카타르·UAE서 K해양방산 우수성 전방위 홍보
 https://kookbang.dema.mil.kr/newsWeb/20260122/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
-
-◾ ‘수도권 미사일 방어’ 전문성 키우고 자긍심 높였다
-https://kookbang.dema.mil.kr/newsWeb/20260122/3/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
-
-◾ AI가 깔아준 판 위에서…토털사커로 진화한 조직
-https://kookbang.dema.mil.kr/newsWeb/20260122/1/ATCE_CTGR_0020010005/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
 
 [민간]
 ◾ 차이나텔레콤, 화웨이 칩으로만 학습한 중국 첫 MoE 모델 개발
@@ -60,6 +51,9 @@ https://www.aitimes.kr/news/articleView.html?idxno=38247
 ◾ “인공지능, 평균 성능에 속았다”… MIT, 머신러닝 평가 지표의 함정 경고
 https://www.aitimes.kr/news/articleView.html?idxno=38243
 
+◾ 현대모비스, 자율주행·차량에 5G 무선통신 텔레매틱스 기술 심는다!
+https://www.aitimes.kr/news/articleView.html?idxno=38241
+
 ◾ 서비스나우-오픈AI, 기업 AI 성과 고도화 및 가속화 위한 전략적 파트너십
 https://www.aitimes.kr/news/articleView.html?idxno=38238
 
@@ -69,11 +63,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=38232
 ◾ 코난테크놀로지, 에이전틱 AI 강화한 ＇코난 LLM＇ 신규모델 공개
 https://www.etnews.com/20260121000301
 
-◾ 인터엑스, ＇2026 이머징 AI+X 톱100＇ 선정… 제조AX·자율제조 기술력 및 코스닥 상장 가치 입증
-https://www.etnews.com/20260121000217
-
-◾ 유니바, CES 2026서 삼성전자 C-Lab과 함께 ＇문서 특화 AI 에이전트＇ 선보여
-https://www.etnews.com/20260121000113
+◾ AI가 깔아준 판 위에서…토털사커로 진화한 조직
+https://kookbang.dema.mil.kr/newsWeb/20260122/1/ATCE_CTGR_0020010005/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
 
 [기관]
 ◾ 과기정통부, 「인공지능 투명성 확보 가이드라인」 공개
@@ -81,6 +72,9 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 
 ◾ AI G3의 기틀인 「인공지능기본법」 시행
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186786&searchOpt=ALL&searchTxt=
+
+◾ 「인공지능 발전과 신뢰 기반 조성 등에 관한 기본법」 본격 시행 국가AI전략위, 법정위원회 지위 확립
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186785&searchOpt=ALL&searchTxt=
 
 ◾ 네이버-한국은행, 글로벌 중앙은행 최초 ‘전용 AI 플랫폼’ 구축
 https://www.aitimes.com/news/articleView.html?idxno=205800
@@ -94,11 +88,21 @@ https://www.aitimes.kr/news/articleView.html?idxno=38244
 ◾ 경기도서관, AI기반 도서관 서비스 본격 운영...제미나이3 프로, 나노바나나 등 최신 유료 인공지능 서비스 60종 이상 제공
 https://www.aitimes.kr/news/articleView.html?idxno=38250
 
+◾ [이슈플러스]투명성 확보는 AI 사업자만…딥페이크는 표시 의무화
+https://www.etnews.com/20260121000274
+
 ◾ NIPA, 피지컬 AI부터 국산 반도체까지…AI 생태계 밀착 지원한다
 https://www.etnews.com/20260121000259
 
+◾ 국가AI전략위, AI기본법 시행으로 법정위원회 전환
+https://www.etnews.com/20260121000162
+
 ◾ 어니컴, AI 분야 국제표준 기반 공인시험기관 인정 확대
 https://www.etnews.com/20260121000061
+
+[기타]
+◾ [기고] 병오년, 대한민국 디지털 안보의 전환점 되어야
+https://www.etnews.com/20260121000076
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
