@@ -1,163 +1,104 @@
-📢2026-01-21 AI 일일 동향 보고📢
+📢2026-01-22 AI 일일 동향 보고📢
 
 📰 오늘의 기사
 [국방]
-◾ [정책브리핑] 수영장·헬스장 이용료도 공제…AI 챗봇 상담 운영
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47324&startDate=&endDate=&id=mnd_020101000000
-
-◾ 민관군 합동 특별자문위 미래전략 분과 활동 결과
-https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_106372&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
-
-◾ [AI 리뷰] 스탠퍼드–美 공군, ‘AI 코파일럿’ 실증 시험… 비상 상황서 조종사 의사결정 지원
-https://www.aitimes.kr/news/articleView.html?idxno=38220
-
-◾ 키사이트, 삼성전자와 위성 간 이동성 포함한 라이브 NR-NTN 연결 시연 성공
-https://www.aitimes.kr/news/articleView.html?idxno=38210
-
-◾ 미래 전장의 게임체인저, 전자전기 개발 착수
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58062&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
-
-◾ 李 대통령, 방송중립·무인기·공직기강 ＇질타＇... 국정 현안 고강도 점검
-https://www.etnews.com/20260120000236
-
-◾ 국방혁신기술보안협회·전자신문·대륙아주 ＇AI·사이버 융합 최고위 과정 2기＇ 오는 3월 개강
-https://www.etnews.com/20260120000153
-
-◾ [국방대와 함께하는 ‘국방안보진단’] 속성 최적화 덫 벗어나 문제 자체를 소멸시키는 개혁
-https://kookbang.dema.mil.kr/newsWeb/20260121/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=5ffaxb_jUoxIOtqb7TAZdOGCi21M5h4ZqsLpaMu-lWmoJ8-pztHL!925962759
-
-◾ “인구절벽시대 민간 활용 전투력 안전성·전문성 확보”
-https://kookbang.dema.mil.kr/newsWeb/20260121/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=5ffaxb_jUoxIOtqb7TAZdOGCi21M5h4ZqsLpaMu-lWmoJ8-pztHL!925962759
-
 ◾ 국방에 활용 가능한 민간 우수기술 수록
-https://kookbang.dema.mil.kr/newsWeb/20260121/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=5ffaxb_jUoxIOtqb7TAZdOGCi21M5h4ZqsLpaMu-lWmoJ8-pztHL!925962759
-
-◾ ‘적의 눈과 귀 차단’ 전자전기 개발 착수
-https://kookbang.dema.mil.kr/newsWeb/20260121/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=5ffaxb_jUoxIOtqb7TAZdOGCi21M5h4ZqsLpaMu-lWmoJ8-pztHL!925962759
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47338&startDate=&endDate=&id=mnd_020101000000
 
 ◾ 정찰드론과 함께 전술훈련
-https://kookbang.dema.mil.kr/newsWeb/20260121/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=5ffaxb_jUoxIOtqb7TAZdOGCi21M5h4ZqsLpaMu-lWmoJ8-pztHL!925962759
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47346&startDate=&endDate=&id=mnd_020101000000
 
-◾ 빛의 속도로 위협을 지운다
-https://kookbang.dema.mil.kr/newsWeb/20260121/1/ATCE_CTGR_0020010001/view.do;JSESSIONID_kookbnagWEB=5ffaxb_jUoxIOtqb7TAZdOGCi21M5h4ZqsLpaMu-lWmoJ8-pztHL!925962759
+◾ 우크라이나 〃동맹국에 AI 훈련용 전투 데이터 제공할 것〃
+https://www.aitimes.com/news/articleView.html?idxno=205802
 
-◾ “민간인 무인기 北 침투 있을 수 없는 일…철저 수사”
-https://kookbang.dema.mil.kr/newsWeb/20260121/6/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=5ffaxb_jUoxIOtqb7TAZdOGCi21M5h4ZqsLpaMu-lWmoJ8-pztHL!925962759
+◾ 중동 첫 AI 자율 드론 스웜 등장… SIRBAI, 차세대 국방 무인기 플랫폼 공개
+https://www.aitimes.kr/news/articleView.html?idxno=38249
 
-◾ 1·21 사태를 상기하며 드론 위협에 대비하다
-https://kookbang.dema.mil.kr/newsWeb/20260121/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=5ffaxb_jUoxIOtqb7TAZdOGCi21M5h4ZqsLpaMu-lWmoJ8-pztHL!925962759
+◾ 대전시, 전국 최초 방산협동조합 출범…방위산업 핵심 거점도시 도약
+https://www.etnews.com/20260121000093
 
-[육군]
-◾ 육군32사단, AI 선도부대 도약 위해 역량 강화
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47330&startDate=&endDate=&id=mnd_020101000000
+◾ 마음AI, ＇국방·경비 특화 사족보행 로봇＇ 태국 공급 추진
+https://www.etnews.com/20260121000347
+
+◾ [기고] 병오년, 대한민국 디지털 안보의 전환점 되어야
+https://www.etnews.com/20260121000076
+
+◾ [전문가기고]450년 전 율곡의 ＇1% 예언＇과 현대판 ＇10만 AI 양병설＇
+https://www.etnews.com/20260121000108
+
+◾ [DQ마크 인증 기업을 가다] 67년 방산 외길…기갑병 헬멧·방사능 측정 고도화
+https://kookbang.dema.mil.kr/newsWeb/20260122/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
+
+◾ 군 특화 인공지능 전문가 양성 미래 전장 선도
+https://kookbang.dema.mil.kr/newsWeb/20260122/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
+
+◾ 해군, 우주 위험·위협 대응 연합·합동연습 첫 전개
+https://kookbang.dema.mil.kr/newsWeb/20260122/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
+
+◾ 카타르·UAE서 K해양방산 우수성 전방위 홍보
+https://kookbang.dema.mil.kr/newsWeb/20260122/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
+
+◾ ‘수도권 미사일 방어’ 전문성 키우고 자긍심 높였다
+https://kookbang.dema.mil.kr/newsWeb/20260122/3/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
+
+◾ AI가 깔아준 판 위에서…토털사커로 진화한 조직
+https://kookbang.dema.mil.kr/newsWeb/20260122/1/ATCE_CTGR_0020010005/view.do;JSESSIONID_kookbnagWEB=xI7f7Lr4rcFMoUPEj3tra2hd5tX1r3_fT_Q0g7Vh5-TpSKBpHnFv!925962759
 
 [민간]
-◾ 〃엔비디아, AI 학습 위해 불법 복제물 의도적 접근...경영진 승인 받아〃
-https://www.aitimes.com/news/articleView.html?idxno=205754
+◾ 차이나텔레콤, 화웨이 칩으로만 학습한 중국 첫 MoE 모델 개발
+https://www.aitimes.com/news/articleView.html?idxno=205801
 
-◾ 카카오, ＇카나나-2＇ 업데이트 버전 4종 오픈 출시...155B 버전 성과도 공개
-https://www.aitimes.com/news/articleView.html?idxno=205750
+◾ 콕스웨이브, 오픈AI와 해커톤 개최...〃엔터프라이즈 AI 솔루션 개발〃
+https://www.aitimes.com/news/articleView.html?idxno=205783
 
-◾ 머스크, 테슬라용 슈퍼컴퓨터 ＇도조 3＇ 개발 재개 선언
-https://www.aitimes.com/news/articleView.html?idxno=205744
+◾ AI 베테랑들이 설립한 휴먼스앤드, 시드 투자서 6.6조 몸값으로 스타덤
+https://www.aitimes.com/news/articleView.html?idxno=205790
 
-◾ S2W, 보안 AI 솔루션 ‘퀘이사’ 고도화...”모의 침투로 기업 취약점 보안 강화”
-https://www.aitimes.com/news/articleView.html?idxno=205743
+◾ HD현대 정기선 회장, 팔란티어 알렉스 카프 CEO와 전략적 파트너십...AI 기반 지속 가능한 성장 동력 확보
+https://www.aitimes.kr/news/articleView.html?idxno=38247
 
-◾ 오픈AI 〃2026년 하반기 첫 AI 장치 출시 목표〃
-https://www.aitimes.com/news/articleView.html?idxno=205738
+◾ “인공지능, 평균 성능에 속았다”… MIT, 머신러닝 평가 지표의 함정 경고
+https://www.aitimes.kr/news/articleView.html?idxno=38243
 
-◾ 구글, ＇제미나이＇ API 호출 2배로 증가...B2B에서도 약진하나
-https://www.aitimes.com/news/articleView.html?idxno=205748
+◾ 서비스나우-오픈AI, 기업 AI 성과 고도화 및 가속화 위한 전략적 파트너십
+https://www.aitimes.kr/news/articleView.html?idxno=38238
 
-◾ 중국, 지난해 휴머노이드 로봇 시장 압도...10대 중 8대는 중국산
-https://www.aitimes.com/news/articleView.html?idxno=205749
+◾ 로보톰, 피지컬 AI 시대 대비 주거용 로봇 안전 센싱 핵심기술 개발... 독자적 센싱 기술 확보
+https://www.aitimes.kr/news/articleView.html?idxno=38232
 
-◾ 최수연 네이버 대표 “다음 질문은 소버린 AI의 쓰임새…이에 집중하자”
-https://www.etnews.com/20260120000308
+◾ 코난테크놀로지, 에이전틱 AI 강화한 ＇코난 LLM＇ 신규모델 공개
+https://www.etnews.com/20260121000301
 
-◾ [미래포럼] 예측형 AI가 여는 사이버 보안의 미래
-https://www.etnews.com/20260120000044
+◾ 인터엑스, ＇2026 이머징 AI+X 톱100＇ 선정… 제조AX·자율제조 기술력 및 코스닥 상장 가치 입증
+https://www.etnews.com/20260121000217
 
-◾ 가트너, 생성형 AI 최대 약점 ＇환각＇ 최소화 8대 해법 제시
-https://www.etnews.com/20260120000249
-
-◾ 블랙박스 AI를 넘어… 0G 하인리히 CEO가 말하는 ＇검증 가능한 인공지능＇
-https://www.etnews.com/20260120000145
+◾ 유니바, CES 2026서 삼성전자 C-Lab과 함께 ＇문서 특화 AI 에이전트＇ 선보여
+https://www.etnews.com/20260121000113
 
 [기관]
-◾ [국가인공지능전략위원회] 국가AI전략위-한국방송협회, 상생과 도약을 위한 전략적 맞손
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186778&searchOpt=ALL&searchTxt=
+◾ 과기정통부, 「인공지능 투명성 확보 가이드라인」 공개
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186787&searchOpt=ALL&searchTxt=
 
-◾ 국민주권정부의 미래 과학기술 청사진 논의 시작
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186776&searchOpt=ALL&searchTxt=
+◾ AI G3의 기틀인 「인공지능기본법」 시행
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186786&searchOpt=ALL&searchTxt=
 
-◾ 국립중앙과학관, 인공지능으로 예측한 ‘2026년 예보된 침입자들’ 특별전 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186775&searchOpt=ALL&searchTxt=
+◾ 네이버-한국은행, 글로벌 중앙은행 최초 ‘전용 AI 플랫폼’ 구축
+https://www.aitimes.com/news/articleView.html?idxno=205800
 
-◾ 과학기술정보통신부, 2026년 연구개발특구 육성 사업에 1,673억 원 투자
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186777&searchOpt=ALL&searchTxt=
+◾ 파수, KIST AI 서비스 구축…”보안 역량 결합해 공공기관 AI 사업 확대”
+https://www.aitimes.com/news/articleView.html?idxno=205786
 
-◾ “AI 기본법, 기준 있지만 현장 해법 부족...민간 신뢰성 검증 필요”
-https://www.aitimes.com/news/articleView.html?idxno=205758
+◾ 페블러스, 글로벌 AI 빅테크 육성 사업 2단계 주관기관 선정… ＇데이터 그린하우스＇로 피지컬·소버린 AI 시장 공략
+https://www.aitimes.kr/news/articleView.html?idxno=38244
 
-◾ 배경훈 부총리 〃국대 AI 모델 1차 평가 기준 명확〃 재차 강조
-https://www.aitimes.com/news/articleView.html?idxno=205771
+◾ 경기도서관, AI기반 도서관 서비스 본격 운영...제미나이3 프로, 나노바나나 등 최신 유료 인공지능 서비스 60종 이상 제공
+https://www.aitimes.kr/news/articleView.html?idxno=38250
 
-◾ 방송미디어통신위원회, 인공지능 사업자 위한 이용자보호 관련 통신관계 법령안내서 발간
-https://www.aitimes.kr/news/articleView.html?idxno=38217
+◾ NIPA, 피지컬 AI부터 국산 반도체까지…AI 생태계 밀착 지원한다
+https://www.etnews.com/20260121000259
 
-◾ 한수원-UNIST, ‘에너지·AI’ 공동연구 협약 체결...에너지·원자력 분야 AI 기술 개발, 3년 100억 원 규모 산학협력 추진
-https://www.aitimes.kr/news/articleView.html?idxno=38216
-
-◾ “AI를 쓰느냐보다, 어떻게 배우게 하느냐가 교육 미래 좌우한다”...OECD, ＇2026 디지털 교육 전망＇ 보고서 공개
-https://www.aitimes.kr/news/articleView.html?idxno=38215
-
-◾ “AI 준비된 공공 인력 없이는 행정 혁신도 없다”…OECD, 공공부문 AI 인재 전략 제시
-https://www.aitimes.kr/news/articleView.html?idxno=38214
-
-◾ “DeepSeek-R1 이후 1년, K-AI는 어디까지 왔나”…배경훈 부총리, ‘독자 AI 파운데이션 모델’ 성과와 과제 진단
-https://www.aitimes.kr/news/articleView.html?idxno=38211
-
-◾ 한국인공지능협회, 데이원컴퍼니와 ‘AI 실무 인재 양성’ 나서… 회원사 ‘패스트캠퍼스’ 수강 혜택
-https://www.aitimes.kr/news/articleView.html?idxno=38226
-
-◾ 구미과학관에 울려 퍼진 ＇AI와 과학의 이중주＇…경북대 SW교육원, ＇겨울방학 AI활용 교육＇ 성료
-https://www.etnews.com/20260120000373
-
-◾ KOSA·국무조정실, AI 활용한 ODA 추진방안 논의
-https://www.etnews.com/20260120000207
-
-◾ AX 강조 나선 정부·여당…“AI 이후 시대는 인터넷 혁명 이상의 변화 불러올 것”
-https://www.etnews.com/20260120000343
-
-◾ [에듀플러스]“한국정보교육학회·컴퓨터교육학회, AI 교육 미래 전략 공동 논의”
-https://www.etnews.com/20260120000320
-
-◾ 방미통위, 이용자 보호 위한 AI 법령 안내서 발간
-https://www.etnews.com/20260120000312
-
-◾ 과학기술 정책·투자 방향 청사진 논의…과학기술 기본계획 등 수립 착수
-https://www.etnews.com/20260120000084
-
-◾ 복지 사각지대, AI로 막는다
-https://www.etnews.com/20260120000194
-
-◾ 계절별 해충 첨단기술로 분석…국립중앙과학관 ＇AI 활용 해충특별전＇ 개최
-https://www.etnews.com/20260120000109
-
-◾ 천안시, 국토부 ＇K-AI 시범도시＇ 유치전 대응…AX 제조·도시 도약 본격화
-https://www.etnews.com/20260120000107
-
-◾ AI부터 금융안전망까지…유정복 인천시장, 미래 산업 시동 걸다
-https://www.etnews.com/20260120000039
-
-📚 간행물
-◾ KISTI DATA INSIGHT 제62호 : 지능형 에이전트 기술의 글로벌 연구·특허 통...
-https://www.kisti.re.kr/post/data-insight/6887
-
-◾ KISTI DATA INSIGHT 제60호 : 인공지능과 함께 예측한 미래 고성장 과학기술...
-https://www.kisti.re.kr/post/data-insight/6884
+◾ 어니컴, AI 분야 국제표준 기반 공인시험기관 인정 확대
+https://www.etnews.com/20260121000061
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
