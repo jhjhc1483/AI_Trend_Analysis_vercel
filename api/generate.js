@@ -69,7 +69,7 @@ export default async function handler(req, res) {
             userPrompt = `다음 간행물 목록에서 중요 항목을 선정하고 분류해 주세요:\n\n${itemText}`;
         }
 
-        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-1.5-flash:generateContent?key=${apiKey}`, {
+        const response = await fetch(`https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${apiKey}`, {
             method: 'POST',
             headers: {
                 'Content-Type': 'application/json'
