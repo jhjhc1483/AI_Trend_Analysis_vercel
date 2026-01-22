@@ -35,19 +35,9 @@
     "category": "국방"
   },
   {
-    "title": "“국산 항공기 운용 자부심·사명감 갖고 임무 완수하길”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47374&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
     "title": "‘수도권 미사일 방어’ 전문성 키우고 자긍심 높였다",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47377&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
-  },
-  {
-    "title": "버셀, 웹 개발 10년 노하우 담긴 코딩 에이전트용 ＇에이전트 스킬즈＇ 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205780",
-    "category": "민간"
   },
   {
     "title": "xAI, ＇가상 직원＇ 테스트 중...〃실제 사람으로 착각〃",
@@ -60,28 +50,13 @@
     "category": "민간"
   },
   {
-    "title": "＇클로드 코드＇에 도전하는 오픈 소스 코딩 에이전트 ＇구스＇ 등장",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205778",
-    "category": "민간"
-  },
-  {
     "title": "메타 〃MSL의 첫 모델 내부 공개...매우 유망해〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205808",
     "category": "민간"
   },
   {
-    "title": "오픈AI, TML서 복귀한 전 부사장 B2B 총괄 책임자로 임명",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205829",
-    "category": "민간"
-  },
-  {
     "title": "MS, 첫 로보틱스 모델 ‘로-알파’ 공개...〃센싱·양손 조작으로 VLA 보강〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205832",
-    "category": "민간"
-  },
-  {
-    "title": "빌 게이츠·오픈AI, 아프리카 AI 의료 지원 위해 700억 프로그램 출범",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205811",
     "category": "민간"
   },
   {
@@ -92,11 +67,6 @@
   {
     "title": "삼성SDS, 지난해 클라우드 사업 매출 대폭 성장…”AI 풀 스택 갖출 것”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205819",
-    "category": "민간"
-  },
-  {
-    "title": "노타, UAE 주요 도시에 AI 최적화 기술 도입",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205820",
     "category": "민간"
   },
   {
@@ -112,7 +82,7 @@
   {
     "title": "LG CNS, 한국은행과 ＇디지털화폐 자동결제 시스템＇ 구축",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205814",
-    "category": "민간"
+    "category": "기관"
   },
   {
     "title": "클로드 ＇헌법＇ 업데이트...〃사용자 요청보다 안전·윤리 우선할 것〃",
@@ -125,23 +95,8 @@
     "category": "민간"
   },
   {
-    "title": "유튜브 〃2026년 최우선 과제는 ＇AI 슬롭＇ 추방...AI 지원은 강화〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205833",
-    "category": "민간"
-  },
-  {
-    "title": "오픈AI, ＇챗GPT＇ 광고 앞서 광고주에 관련 상품 판매 시작",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205817",
-    "category": "민간"
-  },
-  {
     "title": "오픈AI도 〃지역의 데이터센터 전력 부담 지원할 것〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205824",
-    "category": "민간"
-  },
-  {
-    "title": "텐센트 클라우드 도슨 통 CEO, “AI는 하나가 아니다”…개방형 생태계로 ‘AI 대중화’ 선언",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38273",
     "category": "민간"
   },
   {
@@ -160,6 +115,11 @@
     "category": "민간"
   },
   {
+    "title": "삼성SDS, 2025년 매출 13조 9299억, 영업이익 9571억원...클라우드·AI 서비스 성장 동인",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38261",
+    "category": "민간"
+  },
+  {
     "title": "AMD, 윈도우 로컬 AI 개발 간소화하는 ‘아드레날린 AI 번들’ 공개...클라우드 없이 로컬 AI 구축",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38260",
     "category": "민간"
@@ -172,7 +132,7 @@
   {
     "title": "AI로 뇌 활동의 ‘시간적 흐름’ 해독…스탠퍼드, 뇌 신경 동역학 새 지평 열다",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38257",
-    "category": "기타"
+    "category": "민간"
   },
   {
     "title": "“AI 이제 현실 배운다, 실험실 떠난 인공지능”...넥사, AI 거장 ＇얀 르쿤＇ 영입으로 ‘현실 기반 AI’ 가속",
@@ -180,9 +140,9 @@
     "category": "민간"
   },
   {
-    "title": "상륙기동헬기 새해에도 완벽 출동준비 이상무!",
-    "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58072&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
-    "category": "국방"
+    "title": "AI기본법 궁금증 해소할 ＇지원데스크＇ 가동…“기업 지원”",
+    "link": "https://www.etnews.com/20260122000136",
+    "category": "기관"
   },
   {
     "title": "복지부, 권역책임의료기관 AI 진료시스템 지원사업 공고",
@@ -200,6 +160,16 @@
     "category": "기관"
   },
   {
+    "title": "SW고성장클럽 14개사 신규 모집…최대 5억원 지원",
+    "link": "https://www.etnews.com/20260122000248",
+    "category": "기관"
+  },
+  {
+    "title": "노타, UAE 두바이 이어 아부다비에 지능형 교통 수출",
+    "link": "https://www.etnews.com/20260122000246",
+    "category": "민간"
+  },
+  {
     "title": "LG이노텍 “압도적 시장 장악할 ＇위닝 테크＇로 AI·로봇 정조준”",
     "link": "https://www.etnews.com/20260122000072",
     "category": "민간"
@@ -215,8 +185,8 @@
     "category": "기관"
   },
   {
-    "title": "[에듀플러스][BETT 2026]“구글·MS·캔바, 교육 특화 AI 전략 공개”",
-    "link": "https://www.etnews.com/20260122000121",
+    "title": "천안시, ＇반도체·첨단 제조 협력 기업＇ 유치…삼성 HBM 투자를 마중물 삼아",
+    "link": "https://www.etnews.com/20260122000184",
     "category": "민간"
   },
   {
@@ -245,19 +215,19 @@
     "category": "민간"
   },
   {
+    "title": "삼성, 美 테일러에 ＇EUV 펠리클＇ 우선 도입…양산 임박",
+    "link": "https://www.etnews.com/20260122000070",
+    "category": "민간"
+  },
+  {
     "title": "한컴인스페이스, ＇세종4호＇ 최초 영상 수신…5m급 다중분광 영상 데이터 안정적 확보",
     "link": "https://www.etnews.com/20260122000061",
-    "category": "기타"
+    "category": "민간"
   },
   {
     "title": "산업에서 가정까지 확장…휴머노이드 ＇피규어 03＇",
     "link": "https://www.etnews.com/20260122000010",
     "category": "민간"
-  },
-  {
-    "title": "전력·통신·활동 데이터로 위험 감지…경기도, AI 고독사 대응 가동",
-    "link": "https://www.etnews.com/20260122000007",
-    "category": "기관"
   },
   {
     "title": "올해 첫 시행 ‘국방 분야 혁신제품 지정제도’ 주요 내용·추진 방향 공유",

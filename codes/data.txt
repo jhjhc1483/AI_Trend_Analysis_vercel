@@ -14,14 +14,8 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 ◾ 해군, 우주 위험·위협 대응 연합·합동연습 첫 전개
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47372&startDate=&endDate=&id=mnd_020101000000
 
-◾ “국산 항공기 운용 자부심·사명감 갖고 임무 완수하길”
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47374&startDate=&endDate=&id=mnd_020101000000
-
 ◾ ‘수도권 미사일 방어’ 전문성 키우고 자긍심 높였다
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47377&startDate=&endDate=&id=mnd_020101000000
-
-◾ 상륙기동헬기 새해에도 완벽 출동준비 이상무!
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58072&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
 ◾ 올해 첫 시행 ‘국방 분야 혁신제품 지정제도’ 주요 내용·추진 방향 공유
 https://kookbang.dema.mil.kr/newsWeb/20260123/2/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159
@@ -40,29 +34,17 @@ https://kookbang.dema.mil.kr/newsWeb/20260123/1/ATCE_CTGR_0010050000/view.do;JSE
 https://kookbang.dema.mil.kr/newsWeb/20260123/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159
 
 [민간]
-◾ 버셀, 웹 개발 10년 노하우 담긴 코딩 에이전트용 ＇에이전트 스킬즈＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=205780
-
 ◾ xAI, ＇가상 직원＇ 테스트 중...〃실제 사람으로 착각〃
 https://www.aitimes.com/news/articleView.html?idxno=205788
 
 ◾ 머스크-알트먼 ＇사망자＇ 공방...〃챗GPT 9명 vs 오토파일럿 50명 이상〃
 https://www.aitimes.com/news/articleView.html?idxno=205792
 
-◾ ＇클로드 코드＇에 도전하는 오픈 소스 코딩 에이전트 ＇구스＇ 등장
-https://www.aitimes.com/news/articleView.html?idxno=205778
-
 ◾ 메타 〃MSL의 첫 모델 내부 공개...매우 유망해〃
 https://www.aitimes.com/news/articleView.html?idxno=205808
 
-◾ 오픈AI, TML서 복귀한 전 부사장 B2B 총괄 책임자로 임명
-https://www.aitimes.com/news/articleView.html?idxno=205829
-
 ◾ MS, 첫 로보틱스 모델 ‘로-알파’ 공개...〃센싱·양손 조작으로 VLA 보강〃
 https://www.aitimes.com/news/articleView.html?idxno=205832
-
-◾ 빌 게이츠·오픈AI, 아프리카 AI 의료 지원 위해 700억 프로그램 출범
-https://www.aitimes.com/news/articleView.html?idxno=205811
 
 ◾ SKT, AI 기본법 시행 맞춰 ＇AI 신뢰·안전 사내 캠페인’ 진행
 https://www.aitimes.com/news/articleView.html?idxno=205831
@@ -70,17 +52,11 @@ https://www.aitimes.com/news/articleView.html?idxno=205831
 ◾ 삼성SDS, 지난해 클라우드 사업 매출 대폭 성장…”AI 풀 스택 갖출 것”
 https://www.aitimes.com/news/articleView.html?idxno=205819
 
-◾ 노타, UAE 주요 도시에 AI 최적화 기술 도입
-https://www.aitimes.com/news/articleView.html?idxno=205820
-
 ◾ 오케스트로, AI 클라우드 데이터센터 솔루션 출시...”초기 비용 낮춘 프라이빗 클라우드”
 https://www.aitimes.com/news/articleView.html?idxno=205825
 
 ◾ 워런 버핏 〃AI는 새로운 핵무기...이미 되돌릴 수 없어〃
 https://www.aitimes.com/news/articleView.html?idxno=205826
-
-◾ LG CNS, 한국은행과 ＇디지털화폐 자동결제 시스템＇ 구축
-https://www.aitimes.com/news/articleView.html?idxno=205814
 
 ◾ 클로드 ＇헌법＇ 업데이트...〃사용자 요청보다 안전·윤리 우선할 것〃
 https://www.aitimes.com/news/articleView.html?idxno=205809
@@ -88,17 +64,8 @@ https://www.aitimes.com/news/articleView.html?idxno=205809
 ◾ 애플, AI 웨어러블 ＇핀＇ 개발 중...오픈AI 장치에 맞불
 https://www.aitimes.com/news/articleView.html?idxno=205830
 
-◾ 유튜브 〃2026년 최우선 과제는 ＇AI 슬롭＇ 추방...AI 지원은 강화〃
-https://www.aitimes.com/news/articleView.html?idxno=205833
-
-◾ 오픈AI, ＇챗GPT＇ 광고 앞서 광고주에 관련 상품 판매 시작
-https://www.aitimes.com/news/articleView.html?idxno=205817
-
 ◾ 오픈AI도 〃지역의 데이터센터 전력 부담 지원할 것〃
 https://www.aitimes.com/news/articleView.html?idxno=205824
-
-◾ 텐센트 클라우드 도슨 통 CEO, “AI는 하나가 아니다”…개방형 생태계로 ‘AI 대중화’ 선언
-https://www.aitimes.kr/news/articleView.html?idxno=38273
 
 ◾ [심층진단] AI가 가르는 국부의 향방…美 주도 ‘제2의 거대 분기’ 현실화되나
 https://www.aitimes.kr/news/articleView.html?idxno=38269
@@ -109,8 +76,14 @@ https://www.aitimes.kr/news/articleView.html?idxno=38266
 ◾ HPE, DB생명의 확장형 소버린 AI 파운데이션 구축...그린레이크 플렉스 솔루션 기반 확장형 LLMOps 플랫폼, 고객 서비스 현대화
 https://www.aitimes.kr/news/articleView.html?idxno=38263
 
+◾ 삼성SDS, 2025년 매출 13조 9299억, 영업이익 9571억원...클라우드·AI 서비스 성장 동인
+https://www.aitimes.kr/news/articleView.html?idxno=38261
+
 ◾ AMD, 윈도우 로컬 AI 개발 간소화하는 ‘아드레날린 AI 번들’ 공개...클라우드 없이 로컬 AI 구축
 https://www.aitimes.kr/news/articleView.html?idxno=38260
+
+◾ AI로 뇌 활동의 ‘시간적 흐름’ 해독…스탠퍼드, 뇌 신경 동역학 새 지평 열다
+https://www.aitimes.kr/news/articleView.html?idxno=38257
 
 ◾ “AI 이제 현실 배운다, 실험실 떠난 인공지능”...넥사, AI 거장 ＇얀 르쿤＇ 영입으로 ‘현실 기반 AI’ 가속
 https://www.aitimes.kr/news/articleView.html?idxno=38276
@@ -118,17 +91,26 @@ https://www.aitimes.kr/news/articleView.html?idxno=38276
 ◾ [정구민의 테크읽기]사용자 서비스와 피지컬AI 성장을 주도하는 추론 AI 프로세서
 https://www.etnews.com/20260122000080
 
+◾ 노타, UAE 두바이 이어 아부다비에 지능형 교통 수출
+https://www.etnews.com/20260122000246
+
 ◾ LG이노텍 “압도적 시장 장악할 ＇위닝 테크＇로 AI·로봇 정조준”
 https://www.etnews.com/20260122000072
 
-◾ [에듀플러스][BETT 2026]“구글·MS·캔바, 교육 특화 AI 전략 공개”
-https://www.etnews.com/20260122000121
+◾ 천안시, ＇반도체·첨단 제조 협력 기업＇ 유치…삼성 HBM 투자를 마중물 삼아
+https://www.etnews.com/20260122000184
 
 ◾ 아톤, KISA·농협과 AI 기반 피싱 공동 대응 체계 구축
 https://www.etnews.com/20260122000126
 
 ◾ 그룹아이비, ＇시큐리티 메가비전 2026＇서 사전 예방 ＇예측형 AI＇ 선보인다
 https://www.etnews.com/20260122000102
+
+◾ 삼성, 美 테일러에 ＇EUV 펠리클＇ 우선 도입…양산 임박
+https://www.etnews.com/20260122000070
+
+◾ 한컴인스페이스, ＇세종4호＇ 최초 영상 수신…5m급 다중분광 영상 데이터 안정적 확보
+https://www.etnews.com/20260122000061
 
 ◾ 산업에서 가정까지 확장…휴머노이드 ＇피규어 03＇
 https://www.etnews.com/20260122000010
@@ -143,14 +125,23 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 배경훈 과학기술부총리, 정보통신 원로들과 함께 부총리 부처로서의 역할 및 인공지능 3대 강국 도약 전략 논의
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186788&searchOpt=ALL&searchTxt=
 
+◾ LG CNS, 한국은행과 ＇디지털화폐 자동결제 시스템＇ 구축
+https://www.aitimes.com/news/articleView.html?idxno=205814
+
 ◾ 대한민국 ‘인공지능 기본법’ 전면 시행...AI 산업 진흥에 방점, 최소 1년 규제 유예·기업 지원 데스크 운영
 https://www.aitimes.kr/news/articleView.html?idxno=38259
+
+◾ AI기본법 궁금증 해소할 ＇지원데스크＇ 가동…“기업 지원”
+https://www.etnews.com/20260122000136
 
 ◾ 복지부, 권역책임의료기관 AI 진료시스템 지원사업 공고
 https://www.etnews.com/20260122000325
 
 ◾ 李 대통령 “AI기본법 시행, 벤처·스타트업 혼란 최소화해야”
 https://www.etnews.com/20260122000274
+
+◾ SW고성장클럽 14개사 신규 모집…최대 5억원 지원
+https://www.etnews.com/20260122000248
 
 ◾ ＇의회에 AI칩 중국 수출 통제 권한＇ 법안 美하원 외교위 통과
 https://www.etnews.com/20260122000238
@@ -167,31 +158,12 @@ https://www.etnews.com/20260122000103
 ◾ 수출입은행, AI전환에 5년간 22조원 투입
 https://www.etnews.com/20260122000099
 
-◾ 전력·통신·활동 데이터로 위험 감지…경기도, AI 고독사 대응 가동
-https://www.etnews.com/20260122000007
-
-[기타]
-◾ AI로 뇌 활동의 ‘시간적 흐름’ 해독…스탠퍼드, 뇌 신경 동역학 새 지평 열다
-https://www.aitimes.kr/news/articleView.html?idxno=38257
-
-◾ 한컴인스페이스, ＇세종4호＇ 최초 영상 수신…5m급 다중분광 영상 데이터 안정적 확보
-https://www.etnews.com/20260122000061
-
 📚 간행물
 ◾ AI 에이전트 개방형 프로토콜의 기술 현황 및 시사점 (2025년 심층보고서 [제7호])
 https://www.kisa.or.kr/20202/form?postSeq=448&page=1
 
 ◾ 유럽 디지털 신원 지갑 시스템의 아키텍처 및 프레임워크 이해 (2025년 심층보고서 [제6호])
 https://www.kisa.or.kr/20202/form?postSeq=447&page=1
-
-◾ 유럽 암호화 자산의 기술 발전 로드맵 (2025년 심층보고서 [제5호])
-https://www.kisa.or.kr/20202/form?postSeq=446&page=1
-
-◾ CES 2025 : 블록체인 기술 혁신과 미래 전망 (2025년 심층보고서 [제3호])
-https://www.kisa.or.kr/20202/form?postSeq=444&page=1
-
-◾ 미국 블록체인 규제 확실성 법안 및 전망 (2025년 심층보고서 [제1호])
-https://www.kisa.or.kr/20202/form?postSeq=442&page=1
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
