@@ -3,6 +3,7 @@ import pandas as pd
 import time
 import os
 import json
+import re  # 정규표현식 모듈 추가
 
 # 1. 헤더 설정 (차단 회피용)
 headers = {
@@ -11,7 +12,6 @@ headers = {
 }
 
 # 2. 메뉴 코드와 분류명 매핑
-# code가 000010일 경우 공지사항, 000011일 경우 정책자료, 000012일 경우 보도자료
 menu_map = {
     "000010": "공지사항",
     "000011": "정책자료",
@@ -29,7 +29,7 @@ for code, category_name in menu_map.items():
     
     params = {
         'menu_cd': code,
-        'currentPage': '1',  # 1페이지만 수집 (필요시 반복문으로 증가)
+        'currentPage': '1',  # 1페이지만 수집
         'searchData': 'contdata',
         'searchText': ''
     }
@@ -43,8 +43,16 @@ for code, category_name in menu_map.items():
         posts = json_data.get('brdList', [])
         
         for post in posts:
-            # 1. 기사명
-            name = post.get('title', '').strip()
+            # 1. 기사명 (괄호 제거 로직 추가)
+            raw_title = post.get('title', '').strip()
+            
+            # 정규표현식 설명:
+            # ^ : 문자열의 시작
+            # [\(\[] : '(' 또는 '[' 문자로 시작하고
+            # .*? : 그 안에 어떤 내용이든 최소한으로 포함하며
+            # [\)\]] : ')' 또는 ']' 문자로 끝나는 패턴
+            # 이 패턴을 빈 문자열('')로 치환 후 양쪽 공백 제거(.strip())
+            name = re.sub(r'^[\(\[].*?[\)\]]', '', raw_title).strip()
             
             # 2. 분류 (매핑된 이름 사용)
             category = category_name
@@ -72,6 +80,10 @@ for code, category_name in menu_map.items():
 
 df17 = pd.DataFrame(data, columns=['기사명','분류','링크','년','월','일','시','분'])
 full_path = 'codes/aikorea.json'
+
+# 디렉토리가 없으면 생성 (에러 방지용)
+os.makedirs(os.path.dirname(full_path), exist_ok=True)
+
 new_data = df17.to_dict('records')
 
 existing_data = []
@@ -92,7 +104,7 @@ if os.path.exists(full_path):
 # 2. 새 데이터와 기존 데이터를 합치기
 combined_data = existing_data + new_data
 
-# 3. 중복 제거 (가장 중요한 단계)
+# 3. 중복 제거
 seen_links = set()
 final_data = []
 
