@@ -68,6 +68,7 @@ jobs:
           python codes/pycode/msit.py
           python codes/pycode/KISA.py
           python codes/pycode/tta.py
+          python codes/pycode/aikorea.py
 
       # 현재 시간(KST)을 저장
       - name: Generate Last Updated Time

@@ -125,6 +125,7 @@ let favoritePublications = new Map();
 const cacheBuster = `?t=${new Date().getTime()}`;
 
 const FILES_TO_LOAD = [
+    { url: 'codes/aitimes.json' + cacheBuster, site: 'AIKOREA', isArticle: true, displayName: '국가인공지능전략위원회' },
     { url: 'codes/aitimes.json' + cacheBuster, site: 'AITIMES', isArticle: true, displayName: 'AI Times' },
     { url: 'codes/etnews.json' + cacheBuster, site: 'ETNEWS', isArticle: true, displayName: '전자신문' },
     { url: 'codes/AInews.json' + cacheBuster, site: 'AINEWS', isArticle: true, displayName: '인공지능신문' },
@@ -234,7 +235,7 @@ function showTab(sourceName) {
     if (activeTab) activeTab.classList.add('active');
 
     const isHome = sourceName === 'HOME';
-    const isArticleView = sourceName.includes('ARTICLE') || ['AITIMES', 'ETNEWS', 'AINEWS', 'MND', 'kookbang', 'DAPA', 'MSIT'].includes(sourceName);
+    const isArticleView = sourceName.includes('ARTICLE') || ['AIKOREA', 'AITIMES', 'ETNEWS', 'AINEWS', 'MND', 'kookbang', 'DAPA', 'MSIT'].includes(sourceName);
     const isPublicationView = sourceName.includes('PUBLICATION') || ['NIA', 'IITP', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA'].includes(sourceName);
 
     document.getElementById('dashboard-view').style.display = isHome ? 'block' : 'none';
@@ -276,7 +277,7 @@ function renderDashboard() {
 function renderList(sourceName) {
     let data = [];
     let sortBy, searchTerm, dataLabel;
-    const isArticle = sourceName.includes('ARTICLE') || ['AITIMES', 'ETNEWS', 'AINEWS', 'MND', 'kookbang', 'DAPA', 'MSIT'].includes(sourceName);
+    const isArticle = sourceName.includes('ARTICLE') || ['AIKOREA', 'AITIMES', 'ETNEWS', 'AINEWS', 'MND', 'kookbang', 'DAPA', 'MSIT'].includes(sourceName);
     const isAll = sourceName.includes('_ALL');
     const isFav = sourceName.includes('_FAV');
 
