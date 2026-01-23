@@ -1,12 +1,9 @@
-# .github/workflows/main.yml
-
 name: Run Python Scripts Daily(brefore_combine)
 
 on:
-  # 1. 수동 실행 (Manual trigger) 설정
   workflow_dispatch:
 
-  # 2. 스케줄 실행 (Scheduled trigger) 설정: 매일 한국 시간 오전 6시
+  # 스케줄 실행 (Scheduled trigger) 설정: 매일 한국 시간 오전 6시
   # UTC 기준 시간으로 변환해야 합니다. 한국 시간 (KST)은 UTC+9 이므로,
   # 한국 시간 오전 6시는 UTC 기준 오후 9시 (21시)입니다.
   # schedule:

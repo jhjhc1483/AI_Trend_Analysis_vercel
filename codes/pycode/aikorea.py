@@ -42,9 +42,6 @@ for code, category_name in menu_map.items():
         json_data = response.json()
         posts = json_data.get('brdList', [])
         
-        # 상단 고정 공지(fstBrdList)가 별도로 있다면 여기서 합쳐줄 수도 있습니다.
-        # posts.extend(json_data.get('fstBrdList', [])) 
-        
         for post in posts:
             # 1. 기사명
             name = post.get('title', '').strip()
@@ -66,8 +63,6 @@ for code, category_name in menu_map.items():
             else:
                 years, month, day = "", "", ""
             
-            # 5. 데이터 추가 (요청하신 순서: 이름, 분류, 링크, 년, 월, 일, 시, 분)
-            # 시, 분은 데이터에 없으므로 빈 값("") 처리
             data.append([name, category, link, years, month, day, "", ""])
             
         time.sleep(0.5) # 서버 부하 방지
@@ -75,7 +70,6 @@ for code, category_name in menu_map.items():
     except Exception as e:
         print(f"Error on {category_name}: {e}")
 
-# 4. 데이터프레임 생성
 df17 = pd.DataFrame(data, columns=['기사명','분류','링크','년','월','일','시','분'])
 full_path = 'codes/aikorea.json'
 new_data = df17.to_dict('records')

@@ -26,9 +26,7 @@ for i in range(0,2):
         data.append([name, category, link, years,month,day])
 df7 = pd.DataFrame(data, columns=['제목','분류','링크','년','월','일'])
 full_path = 'codes/NIPA.json'
-new_data = df7.to_dict('records') # 새 DataFrame을 리스트 오브 딕셔너리 형태로 변환
-
-# ----------------- JSON 이어 붙이기 및 중복 제거 로직 시작 -----------------
+new_data = df7.to_dict('records') 
 
 existing_data = []
 
