@@ -409,10 +409,10 @@ document.addEventListener('DOMContentLoaded', () => {
 // 7. AI 자동 선정 (autoSelectFavoritesBtn)
 // -----------------------------------------------------
 document.getElementById('autoSelectFavoritesBtn').addEventListener('click', async function () {
-    const message = "🤖 AI 자동 즐겨찾기 생성을 시작하시겠습니까?\n\n" +
-        "✅ Gemini-2.5-flash를 사용합니다.\n" +
-        "✅ 어제(KST) 기사/간행물을 분석하여 자동 선정하고 분류합니다.\n" +
-        "✅ 약 4분 이상 소요.(별도 알람❌) 이후 대시보드에서 바로 '텍스트추출'을 눌러 일일동향을 활용하세요.\n"
+    const message = "🤖 AI(Gemini) 자동 즐겨찾기 생성을 시작하시겠습니까?\n\n" +
+        "✅ 어제(KST) 기사/간행물을 분석하여 자동 선정하고 분류합니다.\n" +        
+        "✅ 약 4분 이상 소요.(별도 알람❌) 이후 대시보드에서 바로 '텍스트추출'을 눌러 일일동향을 활용하세요.\n" +
+        "⚠️ 수동 실행하지 않아도 매일 오전 6시경 자동 생성 합니다."
 
     if (!confirm(message)) return;
 
