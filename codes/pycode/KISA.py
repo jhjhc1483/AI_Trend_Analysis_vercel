@@ -49,8 +49,6 @@ try:
 finally:
     driver.quit() 
 
-
-# 결과 확인
 print(f"\n총 {len(data)} 건 추출 완료")
 
 df16 = pd.DataFrame(data, columns=['제목','분류','링크','년','월','일'])

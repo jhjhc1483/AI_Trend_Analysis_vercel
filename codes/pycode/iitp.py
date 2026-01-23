@@ -36,24 +36,22 @@ url_list = [
 array_1d = np.array(url_list)
 # 2. 2차원 배열로 변형 (reshape) (9행 2열)
 array_2d = array_1d.reshape(9, 2)
-# print(array_2d[8,0])
 
 # requests 라이브러리 경고 숨김 
 warnings.filterwarnings('ignore', category=InsecureRequestWarning) 
 
 data = []
 
-# --- Headless 옵션 설정 ---
 chrome_options = Options()
-chrome_options.add_argument("--headless")  # 창 띄우지 않음
+chrome_options.add_argument("--headless") 
 chrome_options.add_argument("--no-sandbox")
 chrome_options.add_argument("--disable-dev-shm-usage")
 chrome_options.add_argument("--disable-gpu")
+
 # 봇 탐지 방지를 위한 User-Agent 설정 (일반 브라우저처럼 보이게 함)
 chrome_options.add_argument("user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/110.0.0.0 Safari/537.36")
 
 for i in range(0, 9):
-    # 접속할 URL
     url = array_2d[i, 0]
     
     # CSS 선택자 설정

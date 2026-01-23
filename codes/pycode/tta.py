@@ -26,7 +26,6 @@ data = []
 try:
     driver.get(url)
     
-    # 페이지 로딩 대기 (필요 시)
     time.sleep(2) 
     label_element = driver.find_element(By.CSS_SELECTOR, ".SubGnb_labelContainer__inmVd")
     label_text = label_element.text.strip()
@@ -57,10 +56,8 @@ try:
             continue
 
 finally:
-    driver.quit() # 드라이버 종료 (필수)
+    driver.quit()
 
-
-# 결과 확인
 print(f"\n총 {len(data)} 건 추출 완료")
 
 df17 = pd.DataFrame(data, columns=['제목','분류','링크','년','월','일'])

@@ -3,7 +3,6 @@
 name: Run Python Scripts Daily_jsontotxt
 
 on:
-  # 1. 수동 실행 (Manual trigger) 설정
   workflow_dispatch:
 
 jobs:
@@ -32,13 +31,6 @@ jobs:
           python codes/pycode/json_to_txt.py
           ls -al
           find . -name "data.txt"      
-
-      # - name: Run another_script.py
-      #   run: |
-      #     python codes/pycode/another_script.py
-
-      # 생성된 파일(codes/aitimes.json)을 저장소에 커밋
-
                 
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5

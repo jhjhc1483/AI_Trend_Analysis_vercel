@@ -4,18 +4,16 @@ import glob
 from datetime import datetime, timedelta, timezone
 import google.generativeai as genai
 
-# 설정
+
 KST = timezone(timedelta(hours=9))
 YESTERDAY = (datetime.now(KST) - timedelta(days=1)).strftime('%Y%m%d')
 
-# 파일 경로
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__)) # codes/pycode
 BASE_DIR = os.path.dirname(PROJECT_ROOT) # codes
 FILES_PATTERN = os.path.join(BASE_DIR, "*.json")
 FAV_ARTICLES_PATH = os.path.join(BASE_DIR, "favorites", "favorite_articles.json")
 FAV_PUBS_PATH = os.path.join(BASE_DIR, "favorites", "favorite_publications.json")
 
-# 간행물 사이트 목록
 PUB_SITES = ['IITP', 'NIA', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA']
 
 def load_json_files():
