@@ -24,6 +24,9 @@ https://www.aitimes.com/news/articleView.html?idxno=205856
 ◾ [1월22일] 오픈AI가 주장하는 ＇역량 활용 지체＇란...〃사용자 대부분은 단순 검색에 그쳐〃
 https://www.aitimes.com/news/articleView.html?idxno=205812
 
+◾ 머스크 〃휴머노이드 로봇, 내년 말부터 판매...풍요의 시대 열 것〃
+https://www.aitimes.com/news/articleView.html?idxno=205852
+
 ◾ 오픈AI 〃차세대 수익원은 ＇가치 공유＇...신약 개발 시 수익 배분할 것〃
 https://www.aitimes.com/news/articleView.html?idxno=205854
 
@@ -45,8 +48,11 @@ https://www.aitimes.com/news/articleView.html?idxno=205845
 ◾ 오픈AI, ＇역대 최대＇ 73조 투자 유치 논의...중동 국부펀드 접촉 중
 https://www.aitimes.com/news/articleView.html?idxno=205844
 
-◾ 현대자동차 노조, 휴머노이드 로봇 도입 계획에 대해 경고
-https://www.aitimes.com/news/articleView.html?idxno=205842
+◾ 다시 배우지 않아도 똑똑해진다…인하대, ＇STARK＇ AI 개발
+https://www.etnews.com/20260123000061
+
+◾ 삼성전자, 英 교육 기술 전시회서 AI 제품 공개
+https://www.etnews.com/20260123000059
 
 ◾ 사각, ＇AAAI 2026＇ 논문 채택… 글로벌 AI ＇초격차＇ 기술력 입증
 https://www.etnews.com/20260123000044
@@ -57,11 +63,17 @@ https://www.etnews.com/20260123000018
 ◾ 삼성전기 “올해 설비투자 확대…AI 서버·전장·로봇 선제 공략”
 https://www.etnews.com/20260123000214
 
+◾ 〃목성이요〃면끝인데... AI챗봇은왜 500자로대답할까
+https://www.etnews.com/20260123000205
+
 ◾ 사람처럼 세상을 보는 AI 나왔다… 구글  로봇과 AR 혁신 예고
 https://www.etnews.com/20260123000206
 
 ◾ 카카오뱅크, 이상거래탐지시스템 고도화 “AI로 보이스피싱 잡는다”
 https://www.etnews.com/20260123000153
+
+◾ 메가존클라우드 손 잡은 뱅크샐러드, ＇AI 에이전트＇ 강화 나선다
+https://www.etnews.com/20260123000145
 
 [기관]
 ◾ ｢독자 AI 파운데이션 모델｣ 프로젝트, 모두의 도전을 통해 더 큰 도전으로
@@ -75,6 +87,18 @@ https://www.aitimes.com/news/articleView.html?idxno=205868
 
 ◾ 국가대표 AI 추가팀 2월12일까지 공모...〃평가위원 과반 통과해야〃
 https://www.aitimes.com/news/articleView.html?idxno=205865
+
+◾ 과기부, 공공 연구성과 확산·기술 스케일업에 889억 신규 지원
+https://www.aitimes.com/news/articleView.html?idxno=205853
+
+◾ AI가 복지 찾아간다…경기도, 신청 1000건 폭증 대박
+https://www.etnews.com/20260122000398
+
+◾ 전주시, 29일 ＇전주, 후백제 왕도에서 AI도시로의 도약＇ 정책포럼 개최
+https://www.etnews.com/20260123000105
+
+◾ 독자 AI 프로젝트 추가 공모에 KT·코난테크놀로지도 불참
+https://www.etnews.com/20260123000247
 
 ◾ 한국인공지능검증원, 전문 인증기관 자문 더한 ＇ISO 42001 AI 경영시스템 인증 바이블＇ 출간
 https://www.etnews.com/20260123000136
