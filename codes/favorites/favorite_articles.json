@@ -1,167 +1,127 @@
 [
   {
-    "title": "배경훈 과학기술부총리, 정보통신 원로들과 함께 부총리 부처로서의 역할 및 인공지능 3대 강국 도약 전략 논의",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186788&searchOpt=ALL&searchTxt=",
+    "title": "｢독자 AI 파운데이션 모델｣ 프로젝트, 모두의 도전을 통해 더 큰 도전으로",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186796&searchOpt=ALL&searchTxt=",
     "category": "기관"
   },
   {
-    "title": "[DQ마크 인증 기업을 가다] 67년 방산 외길…기갑병 헬멧·방사능 측정 고도화",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47359&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "군 특화 인공지능 전문가 양성 미래 전장 선도",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47365&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "카타르·UAE서 K해양방산 우수성 전방위 홍보",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47370&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "해군, 우주 위험·위협 대응 연합·합동연습 첫 전개",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47372&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "“국산 항공기 운용 자부심·사명감 갖고 임무 완수하길”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47374&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "‘수도권 미사일 방어’ 전문성 키우고 자긍심 높였다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47377&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "xAI, ＇가상 직원＇ 테스트 중...〃실제 사람으로 착각〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205788",
-    "category": "민간"
-  },
-  {
-    "title": "메타 〃MSL의 첫 모델 내부 공개...매우 유망해〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205808",
-    "category": "민간"
-  },
-  {
-    "title": "MS, 첫 로보틱스 모델 ‘로-알파’ 공개...〃센싱·양손 조작으로 VLA 보강〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205832",
-    "category": "민간"
-  },
-  {
-    "title": "워런 버핏 〃AI는 새로운 핵무기...이미 되돌릴 수 없어〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205826",
-    "category": "민간"
-  },
-  {
-    "title": "클로드 ＇헌법＇ 업데이트...〃사용자 요청보다 안전·윤리 우선할 것〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205809",
-    "category": "민간"
-  },
-  {
-    "title": "애플, AI 웨어러블 ＇핀＇ 개발 중...오픈AI 장치에 맞불",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205830",
-    "category": "민간"
-  },
-  {
-    "title": "[심층진단] AI가 가르는 국부의 향방…美 주도 ‘제2의 거대 분기’ 현실화되나",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38269",
-    "category": "민간"
-  },
-  {
-    "title": "AMD, 윈도우 로컬 AI 개발 간소화하는 ‘아드레날린 AI 번들’ 공개...클라우드 없이 로컬 AI 구축",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38260",
-    "category": "민간"
-  },
-  {
-    "title": "대한민국 ‘인공지능 기본법’ 전면 시행...AI 산업 진흥에 방점, 최소 1년 규제 유예·기업 지원 데스크 운영",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38259",
+    "title": "과기정통부, 공공 연구 성과확산·기술 규모 확장(스케일업)을 위해 2026년 888.55억 원 신규 지원",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186794&searchOpt=ALL&searchTxt=",
     "category": "기관"
   },
   {
-    "title": "AI로 뇌 활동의 ‘시간적 흐름’ 해독…스탠퍼드, 뇌 신경 동역학 새 지평 열다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38257",
-    "category": "민간"
-  },
-  {
-    "title": "“AI 이제 현실 배운다, 실험실 떠난 인공지능”...넥사, AI 거장 ＇얀 르쿤＇ 영입으로 ‘현실 기반 AI’ 가속",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38276",
-    "category": "민간"
-  },
-  {
-    "title": "복지부, 권역책임의료기관 AI 진료시스템 지원사업 공고",
-    "link": "https://www.etnews.com/20260122000325",
-    "category": "기관"
-  },
-  {
-    "title": "李 대통령 “AI기본법 시행, 벤처·스타트업 혼란 최소화해야”",
-    "link": "https://www.etnews.com/20260122000274",
-    "category": "기관"
-  },
-  {
-    "title": "유니온바이오메트릭스, 병역판정검사 신원확인 ＇국가 인프라＇ 맡았다…전국 실운영 돌입",
-    "link": "https://www.etnews.com/20260122000270",
-    "category": "국방"
-  },
-  {
-    "title": "＇의회에 AI칩 중국 수출 통제 권한＇ 법안 美하원 외교위 통과",
-    "link": "https://www.etnews.com/20260122000238",
-    "category": "기관"
-  },
-  {
-    "title": "[보도 그 후]국가데이터정책위, 1년 1개월 만에 활동 재개",
-    "link": "https://www.etnews.com/20260122000215",
-    "category": "기관"
-  },
-  {
-    "title": "국가 AI 데이터센터 프로젝트 150조 마련… 솔루엠의 전력변환 솔루션 주목",
-    "link": "https://www.etnews.com/20260122000157",
-    "category": "기관"
-  },
-  {
-    "title": "서울시, 30일 ＇AI 서울 2026＇ 개최…AI 대전환 실행 전략 제시",
-    "link": "https://www.etnews.com/20260122000103",
-    "category": "기관"
-  },
-  {
-    "title": "수출입은행, AI전환에 5년간 22조원 투입",
-    "link": "https://www.etnews.com/20260122000099",
-    "category": "기관"
-  },
-  {
-    "title": "한컴인스페이스, ＇세종4호＇ 최초 영상 수신…5m급 다중분광 영상 데이터 안정적 확보",
-    "link": "https://www.etnews.com/20260122000061",
+    "title": "“민·관·군 지혜 모아 국방과제 해법 모색”",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47378&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
   },
   {
     "title": "올해 첫 시행 ‘국방 분야 혁신제품 지정제도’ 주요 내용·추진 방향 공유",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260123/2/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159",
-    "category": "국방"
-  },
-  {
-    "title": "“민·관·군 지혜 모아 국방과제 해법 모색”",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260123/3/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47379&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
   },
   {
     "title": "적 드론 날았다…지체 없이 막았다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260123/10/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47388&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
   },
   {
     "title": "정찰용 드론 완벽 운용…해·강안 수로 경계 ‘든든’",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260123/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47391&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
   },
   {
-    "title": "21개국 항공우주지휘관, 인도·태평양 안보 협력 논의",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260123/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159",
+    "title": "국방부 방산 대기업 및 중견기업 간담회 개최",
+    "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_106586&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
     "category": "국방"
   },
   {
-    "title": "현장에서 답을 찾다…육군7기동군단 기동전연구소 출범의 의미",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260123/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159",
-    "category": "육군"
+    "title": "[1월22일] 오픈AI가 주장하는 ＇역량 활용 지체＇란...〃사용자 대부분은 단순 검색에 그쳐〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205812",
+    "category": "민간"
+  },
+  {
+    "title": "국가 대표 AI에 KT·코난 ＇불참’ 선언...‘스타트업 2파전’ 되나",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205868",
+    "category": "기관"
+  },
+  {
+    "title": "오픈AI 〃차세대 수익원은 ＇가치 공유＇...신약 개발 시 수익 배분할 것〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205854",
+    "category": "민간"
+  },
+  {
+    "title": "허사비스 〃챗GPT 광고 도입 너무 일러...제미나이는 아직 계획 없어〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205857",
+    "category": "민간"
+  },
+  {
+    "title": "앤트로픽, 매출 급증에도 이익률은 하락...〃추론 비용 부담도 증가〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205861",
+    "category": "민간"
+  },
+  {
+    "title": "구글, ＇감정 인식＇ 음성 AI 스타트업 핵심 인력 영입",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205867",
+    "category": "민간"
+  },
+  {
+    "title": "NYT 〃그록, 9일 동안 성적 이미지 최소 180만장 생성〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205858",
+    "category": "민간"
+  },
+  {
+    "title": "퀀텀에어로, UAE ＇UMEX 2026＇서 AI 자율비행 솔루션 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205856",
+    "category": "국방"
+  },
+  {
+    "title": "국가대표 AI 추가팀 2월12일까지 공모...〃평가위원 과반 통과해야〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205865",
+    "category": "기관"
+  },
+  {
+    "title": "구글, AI 모드에 ＇퍼스널 인텔리전스＇ 도입...〃지메일과 구글 포토 연결〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205845",
+    "category": "민간"
+  },
+  {
+    "title": "오픈AI, ＇역대 최대＇ 73조 투자 유치 논의...중동 국부펀드 접촉 중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205844",
+    "category": "민간"
+  },
+  {
+    "title": "현대자동차 노조, 휴머노이드 로봇 도입 계획에 대해 경고",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205842",
+    "category": "민간"
+  },
+  {
+    "title": "사각, ＇AAAI 2026＇ 논문 채택… 글로벌 AI ＇초격차＇ 기술력 입증",
+    "link": "https://www.etnews.com/20260123000044",
+    "category": "민간"
+  },
+  {
+    "title": "머스크 “휴머노이드 로봇, 내년 일반 판매”…AI는 5년 안에 인류 추월",
+    "link": "https://www.etnews.com/20260123000018",
+    "category": "민간"
+  },
+  {
+    "title": "삼성전기 “올해 설비투자 확대…AI 서버·전장·로봇 선제 공략”",
+    "link": "https://www.etnews.com/20260123000214",
+    "category": "민간"
+  },
+  {
+    "title": "사람처럼 세상을 보는 AI 나왔다… 구글  로봇과 AR 혁신 예고",
+    "link": "https://www.etnews.com/20260123000206",
+    "category": "민간"
+  },
+  {
+    "title": "카카오뱅크, 이상거래탐지시스템 고도화 “AI로 보이스피싱 잡는다”",
+    "link": "https://www.etnews.com/20260123000153",
+    "category": "민간"
+  },
+  {
+    "title": "한국인공지능검증원, 전문 인증기관 자문 더한 ＇ISO 42001 AI 경영시스템 인증 바이블＇ 출간",
+    "link": "https://www.etnews.com/20260123000136",
+    "category": "기관"
   }
 ]
