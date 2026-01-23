@@ -1,15 +1,5 @@
 [
   {
-    "title": "‘인공지능 기본법 지원 창구(지원 데스크)’가 중소·창업 초기기업(스타트업)의 궁금한 사항을 해결해 드립니다",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186791&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "2026 「소프트웨어(SW) 고성장클럽」 지원 기업 모집",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186793&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
     "title": "배경훈 과학기술부총리, 정보통신 원로들과 함께 부총리 부처로서의 역할 및 인공지능 3대 강국 도약 전략 논의",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186788&searchOpt=ALL&searchTxt=",
     "category": "기관"
@@ -35,6 +25,11 @@
     "category": "국방"
   },
   {
+    "title": "“국산 항공기 운용 자부심·사명감 갖고 임무 완수하길”",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47374&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
+  },
+  {
     "title": "‘수도권 미사일 방어’ 전문성 키우고 자긍심 높였다",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47377&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
@@ -42,11 +37,6 @@
   {
     "title": "xAI, ＇가상 직원＇ 테스트 중...〃실제 사람으로 착각〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205788",
-    "category": "민간"
-  },
-  {
-    "title": "머스크-알트먼 ＇사망자＇ 공방...〃챗GPT 9명 vs 오토파일럿 50명 이상〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205792",
     "category": "민간"
   },
   {
@@ -60,29 +50,9 @@
     "category": "민간"
   },
   {
-    "title": "SKT, AI 기본법 시행 맞춰 ＇AI 신뢰·안전 사내 캠페인’ 진행",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205831",
-    "category": "민간"
-  },
-  {
-    "title": "삼성SDS, 지난해 클라우드 사업 매출 대폭 성장…”AI 풀 스택 갖출 것”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205819",
-    "category": "민간"
-  },
-  {
-    "title": "오케스트로, AI 클라우드 데이터센터 솔루션 출시...”초기 비용 낮춘 프라이빗 클라우드”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205825",
-    "category": "민간"
-  },
-  {
     "title": "워런 버핏 〃AI는 새로운 핵무기...이미 되돌릴 수 없어〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205826",
     "category": "민간"
-  },
-  {
-    "title": "LG CNS, 한국은행과 ＇디지털화폐 자동결제 시스템＇ 구축",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205814",
-    "category": "기관"
   },
   {
     "title": "클로드 ＇헌법＇ 업데이트...〃사용자 요청보다 안전·윤리 우선할 것〃",
@@ -95,28 +65,8 @@
     "category": "민간"
   },
   {
-    "title": "오픈AI도 〃지역의 데이터센터 전력 부담 지원할 것〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205824",
-    "category": "민간"
-  },
-  {
     "title": "[심층진단] AI가 가르는 국부의 향방…美 주도 ‘제2의 거대 분기’ 현실화되나",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38269",
-    "category": "민간"
-  },
-  {
-    "title": "슈나이더 일렉트릭, 차세대 AI 팩토리 겨냥 10MW 이상 ‘고용량 확장형 CDU’ 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38266",
-    "category": "민간"
-  },
-  {
-    "title": "HPE, DB생명의 확장형 소버린 AI 파운데이션 구축...그린레이크 플렉스 솔루션 기반 확장형 LLMOps 플랫폼, 고객 서비스 현대화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38263",
-    "category": "민간"
-  },
-  {
-    "title": "삼성SDS, 2025년 매출 13조 9299억, 영업이익 9571억원...클라우드·AI 서비스 성장 동인",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38261",
     "category": "민간"
   },
   {
@@ -140,19 +90,9 @@
     "category": "민간"
   },
   {
-    "title": "AI기본법 궁금증 해소할 ＇지원데스크＇ 가동…“기업 지원”",
-    "link": "https://www.etnews.com/20260122000136",
-    "category": "기관"
-  },
-  {
     "title": "복지부, 권역책임의료기관 AI 진료시스템 지원사업 공고",
     "link": "https://www.etnews.com/20260122000325",
     "category": "기관"
-  },
-  {
-    "title": "[정구민의 테크읽기]사용자 서비스와 피지컬AI 성장을 주도하는 추론 AI 프로세서",
-    "link": "https://www.etnews.com/20260122000080",
-    "category": "민간"
   },
   {
     "title": "李 대통령 “AI기본법 시행, 벤처·스타트업 혼란 최소화해야”",
@@ -160,19 +100,9 @@
     "category": "기관"
   },
   {
-    "title": "SW고성장클럽 14개사 신규 모집…최대 5억원 지원",
-    "link": "https://www.etnews.com/20260122000248",
-    "category": "기관"
-  },
-  {
-    "title": "노타, UAE 두바이 이어 아부다비에 지능형 교통 수출",
-    "link": "https://www.etnews.com/20260122000246",
-    "category": "민간"
-  },
-  {
-    "title": "LG이노텍 “압도적 시장 장악할 ＇위닝 테크＇로 AI·로봇 정조준”",
-    "link": "https://www.etnews.com/20260122000072",
-    "category": "민간"
+    "title": "유니온바이오메트릭스, 병역판정검사 신원확인 ＇국가 인프라＇ 맡았다…전국 실운영 돌입",
+    "link": "https://www.etnews.com/20260122000270",
+    "category": "국방"
   },
   {
     "title": "＇의회에 AI칩 중국 수출 통제 권한＇ 법안 美하원 외교위 통과",
@@ -183,11 +113,6 @@
     "title": "[보도 그 후]국가데이터정책위, 1년 1개월 만에 활동 재개",
     "link": "https://www.etnews.com/20260122000215",
     "category": "기관"
-  },
-  {
-    "title": "천안시, ＇반도체·첨단 제조 협력 기업＇ 유치…삼성 HBM 투자를 마중물 삼아",
-    "link": "https://www.etnews.com/20260122000184",
-    "category": "민간"
   },
   {
     "title": "국가 AI 데이터센터 프로젝트 150조 마련… 솔루엠의 전력변환 솔루션 주목",
@@ -205,33 +130,18 @@
     "category": "기관"
   },
   {
-    "title": "아톤, KISA·농협과 AI 기반 피싱 공동 대응 체계 구축",
-    "link": "https://www.etnews.com/20260122000126",
-    "category": "민간"
-  },
-  {
-    "title": "그룹아이비, ＇시큐리티 메가비전 2026＇서 사전 예방 ＇예측형 AI＇ 선보인다",
-    "link": "https://www.etnews.com/20260122000102",
-    "category": "민간"
-  },
-  {
-    "title": "삼성, 美 테일러에 ＇EUV 펠리클＇ 우선 도입…양산 임박",
-    "link": "https://www.etnews.com/20260122000070",
-    "category": "민간"
-  },
-  {
     "title": "한컴인스페이스, ＇세종4호＇ 최초 영상 수신…5m급 다중분광 영상 데이터 안정적 확보",
     "link": "https://www.etnews.com/20260122000061",
-    "category": "민간"
-  },
-  {
-    "title": "산업에서 가정까지 확장…휴머노이드 ＇피규어 03＇",
-    "link": "https://www.etnews.com/20260122000010",
-    "category": "민간"
+    "category": "국방"
   },
   {
     "title": "올해 첫 시행 ‘국방 분야 혁신제품 지정제도’ 주요 내용·추진 방향 공유",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260123/2/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159",
+    "category": "국방"
+  },
+  {
+    "title": "“민·관·군 지혜 모아 국방과제 해법 모색”",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260123/3/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FwHlE3_UcbFm1FtYV25NWbc1ZSxHRddgi2JTzJRybU5LsDxK9ymz!821738159",
     "category": "국방"
   },
   {
