@@ -125,7 +125,7 @@ let favoritePublications = new Map();
 const cacheBuster = `?t=${new Date().getTime()}`;
 
 const FILES_TO_LOAD = [
-    { url: 'codes/aitimes.json' + cacheBuster, site: 'AIKOREA', isArticle: true, displayName: '국가인공지능전략위원회' },
+    { url: 'codes/aikorea.json' + cacheBuster, site: 'AIKOREA', isArticle: true, displayName: '국가인공지능전략위원회' },
     { url: 'codes/aitimes.json' + cacheBuster, site: 'AITIMES', isArticle: true, displayName: 'AI Times' },
     { url: 'codes/etnews.json' + cacheBuster, site: 'ETNEWS', isArticle: true, displayName: '전자신문' },
     { url: 'codes/AInews.json' + cacheBuster, site: 'AINEWS', isArticle: true, displayName: '인공지능신문' },
