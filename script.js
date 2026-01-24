@@ -252,10 +252,7 @@ function showTab(sourceName) {
 function renderCurrentView() { showTab(currentView); }
 
 function renderDashboard() {
-    document.getElementById('stat-articles').textContent = articleData.length;
-    document.getElementById('stat-publications').textContent = publicationData.length;
-    document.getElementById('stat-fav-articles').textContent = favoriteArticles.size;
-    document.getElementById('stat-fav-publications').textContent = favoritePublications.size;
+    // Stats removed
 
     const latestArticles = sortData(articleData, 'date_desc').slice(0, 5);
     document.getElementById('latest-articles').innerHTML = latestArticles.map(item => `
@@ -365,9 +362,7 @@ function toggleFavorite(event, link, isArticle) {
         localStorage.setItem('favoritePublications', JSON.stringify(Array.from(favoritePublications.entries())));
     }
     renderCurrentView();
-    if (currentView === 'HOME') {
-        document.getElementById(isArticle ? 'stat-fav-articles' : 'stat-fav-publications').textContent = isArticle ? favoriteArticles.size : favoritePublications.size;
-    }
+    // Stats removed
 }
 
 function clearFavorites(type) {
@@ -411,7 +406,7 @@ document.addEventListener('DOMContentLoaded', () => {
 // -----------------------------------------------------
 document.getElementById('autoSelectFavoritesBtn').addEventListener('click', async function () {
     const message = "🤖 AI(Gemini) 자동 즐겨찾기 생성을 시작하시겠습니까?\n\n" +
-        "✅ 어제(KST) 기사/간행물을 분석하여 자동 선정하고 분류합니다.\n" +        
+        "✅ 어제(KST) 기사/간행물을 분석하여 자동 선정하고 분류합니다.\n" +
         "✅ 약 4분 이상 소요.(별도 알람❌) 이후 대시보드에서 바로 '텍스트추출'을 눌러 일일동향을 활용하세요.\n" +
         "⚠️ 수동 실행하지 않아도 매일 오전 6시경 자동 생성 합니다."
 

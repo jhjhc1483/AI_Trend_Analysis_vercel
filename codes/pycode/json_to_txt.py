@@ -81,7 +81,7 @@ def generate_report_text(categorized):
     lines.append("🤖AI Development Department🧑‍🤝‍🧑")
     
     if os.environ.get('AUTO_MODE') == 'true':
-        lines.append("\n\n✅AI가 판단한 일일동향임.")
+        lines.append("\n\n✅위 내용은 GEMINI에 의해 작성됨.")
         
     return "\n".join(lines).strip()
 
