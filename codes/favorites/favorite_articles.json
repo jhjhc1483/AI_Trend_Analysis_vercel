@@ -10,11 +10,6 @@
     "category": "기관"
   },
   {
-    "title": "“민·관·군 지혜 모아 국방과제 해법 모색”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47378&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
     "title": "올해 첫 시행 ‘국방 분야 혁신제품 지정제도’ 주요 내용·추진 방향 공유",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47379&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
@@ -30,17 +25,12 @@
     "category": "국방"
   },
   {
-    "title": "국방부 방산 대기업 및 중견기업 간담회 개최",
-    "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_106586&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
-    "category": "국방"
-  },
-  {
     "title": "[1월22일] 오픈AI가 주장하는 ＇역량 활용 지체＇란...〃사용자 대부분은 단순 검색에 그쳐〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205812",
     "category": "민간"
   },
   {
-    "title": "국가 대표 AI에 KT·코난 ＇불참’ 선언...‘스타트업 2파전’ 되나",
+    "title": "국가대표 AI에 KT·코난 ＇불참’ 선언...‘스타트업 2파전’ 되나",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205868",
     "category": "기관"
   },
@@ -60,11 +50,6 @@
     "category": "민간"
   },
   {
-    "title": "앤트로픽, 매출 급증에도 이익률은 하락...〃추론 비용 부담도 증가〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205861",
-    "category": "민간"
-  },
-  {
     "title": "구글, ＇감정 인식＇ 음성 AI 스타트업 핵심 인력 영입",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205867",
     "category": "민간"
@@ -80,23 +65,18 @@
     "category": "국방"
   },
   {
-    "title": "국가대표 AI 추가팀 2월12일까지 공모...〃평가위원 과반 통과해야〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205865",
-    "category": "기관"
-  },
-  {
-    "title": "과기부, 공공 연구성과 확산·기술 스케일업에 889억 신규 지원",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205853",
-    "category": "기관"
-  },
-  {
-    "title": "구글, AI 모드에 ＇퍼스널 인텔리전스＇ 도입...〃지메일과 구글 포토 연결〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205845",
+    "title": "오픈AI, ＇역대 최대＇ 73조 투자 유치 논의...중동 국부펀드 접촉 중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205844",
     "category": "민간"
   },
   {
-    "title": "오픈AI, ＇역대 최대＇ 73조 투자 유치 논의...중동 국부펀드 접촉 중",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205844",
+    "title": "바이두, 중국 최대 ＇2.4조＇ 매개변수 멀티모달 모델 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205846",
+    "category": "민간"
+  },
+  {
+    "title": "리퀴드 AI, 가장 작은 ＇온디바이스 추론＇ 모델 출시...〃900MB 용량·한국어 지원〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205862",
     "category": "민간"
   },
   {
@@ -110,53 +90,13 @@
     "category": "기관"
   },
   {
-    "title": "다시 배우지 않아도 똑똑해진다…인하대, ＇STARK＇ AI 개발",
-    "link": "https://www.etnews.com/20260123000061",
-    "category": "민간"
-  },
-  {
-    "title": "삼성전자, 英 교육 기술 전시회서 AI 제품 공개",
-    "link": "https://www.etnews.com/20260123000059",
-    "category": "민간"
-  },
-  {
-    "title": "사각, ＇AAAI 2026＇ 논문 채택… 글로벌 AI ＇초격차＇ 기술력 입증",
-    "link": "https://www.etnews.com/20260123000044",
-    "category": "민간"
-  },
-  {
-    "title": "머스크 “휴머노이드 로봇, 내년 일반 판매”…AI는 5년 안에 인류 추월",
-    "link": "https://www.etnews.com/20260123000018",
-    "category": "민간"
-  },
-  {
-    "title": "독자 AI 프로젝트 추가 공모에 KT·코난테크놀로지도 불참",
-    "link": "https://www.etnews.com/20260123000247",
-    "category": "기관"
-  },
-  {
-    "title": "삼성전기 “올해 설비투자 확대…AI 서버·전장·로봇 선제 공략”",
-    "link": "https://www.etnews.com/20260123000214",
-    "category": "민간"
-  },
-  {
-    "title": "〃목성이요〃면끝인데... AI챗봇은왜 500자로대답할까",
-    "link": "https://www.etnews.com/20260123000205",
-    "category": "민간"
+    "title": "포스텍, 메타표면으로 만든 해킹 원천 차단 홀로그램 개발…디지털 보안 한계 극복할 기술로 평가",
+    "link": "https://www.etnews.com/20260123000025",
+    "category": "국방"
   },
   {
     "title": "사람처럼 세상을 보는 AI 나왔다… 구글  로봇과 AR 혁신 예고",
     "link": "https://www.etnews.com/20260123000206",
-    "category": "민간"
-  },
-  {
-    "title": "카카오뱅크, 이상거래탐지시스템 고도화 “AI로 보이스피싱 잡는다”",
-    "link": "https://www.etnews.com/20260123000153",
-    "category": "민간"
-  },
-  {
-    "title": "메가존클라우드 손 잡은 뱅크샐러드, ＇AI 에이전트＇ 강화 나선다",
-    "link": "https://www.etnews.com/20260123000145",
     "category": "민간"
   },
   {
