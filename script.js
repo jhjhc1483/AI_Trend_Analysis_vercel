@@ -470,14 +470,14 @@ document.getElementById('uploadFavoritesBtn').addEventListener('click', async fu
             alert(`${file.type} 저장 실패`);
         }
     }
-    alert("✅ 모든 데이터 업로드 완료\n대시보드에서 '텍스트 만들기'를 클릭하세요.");
+    // alert("✅ 모든 데이터 업로드 완료");
     
     const WORKFLOW_ID = "json_to_txt.yml";
     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
     try {
         await callProxyAPI(endpoint, 'POST', { ref: "main" });
-        alert("✅ 즐겨찾기에 있는 목록을 일일 동향 텍스트로 만듭니다.\n\n약 30초 후 대시보드에서 '텍스트추출'을 누르세요.");
+        alert("✅ 즐겨찾기에 있는 목록을 일일 동향 텍스트로 만듭니다.\n\n약 ✅️ 30초 후 대시보드에서 '텍스트추출'을 누르세요.");
     } catch (error) {
         console.error('Error:', error);
         alert(`❌ 실패: ${error.message}`);
