@@ -1,75 +1,16 @@
 📢2026-01-24 AI 일일 동향 보고📢
 
 📰 오늘의 기사
-[국방]
-◾ 올해 첫 시행 ‘국방 분야 혁신제품 지정제도’ 주요 내용·추진 방향 공유
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47379&startDate=&endDate=&id=mnd_020101000000
+[기타]
+◾ 국가AI전략위, 『대한민국 AI행동계획』 내  저작권 과제 관련 유관 협·단체들과 간담회 개최
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=195
 
-◾ 적 드론 날았다…지체 없이 막았다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47388&startDate=&endDate=&id=mnd_020101000000
-
-◾ 정찰용 드론 완벽 운용…해·강안 수로 경계 ‘든든’
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47391&startDate=&endDate=&id=mnd_020101000000
-
-◾ 퀀텀에어로, UAE ＇UMEX 2026＇서 AI 자율비행 솔루션 공개
-https://www.aitimes.com/news/articleView.html?idxno=205856
-
-◾ 포스텍, 메타표면으로 만든 해킹 원천 차단 홀로그램 개발…디지털 보안 한계 극복할 기술로 평가
-https://www.etnews.com/20260123000025
-
-[민간]
-◾ [1월22일] 오픈AI가 주장하는 ＇역량 활용 지체＇란...〃사용자 대부분은 단순 검색에 그쳐〃
-https://www.aitimes.com/news/articleView.html?idxno=205812
-
-◾ 머스크 〃휴머노이드 로봇, 내년 말부터 판매...풍요의 시대 열 것〃
-https://www.aitimes.com/news/articleView.html?idxno=205852
-
-◾ 오픈AI 〃차세대 수익원은 ＇가치 공유＇...신약 개발 시 수익 배분할 것〃
-https://www.aitimes.com/news/articleView.html?idxno=205854
-
-◾ 허사비스 〃챗GPT 광고 도입 너무 일러...제미나이는 아직 계획 없어〃
-https://www.aitimes.com/news/articleView.html?idxno=205857
-
-◾ 구글, ＇감정 인식＇ 음성 AI 스타트업 핵심 인력 영입
-https://www.aitimes.com/news/articleView.html?idxno=205867
-
-◾ NYT 〃그록, 9일 동안 성적 이미지 최소 180만장 생성〃
-https://www.aitimes.com/news/articleView.html?idxno=205858
-
-◾ 오픈AI, ＇역대 최대＇ 73조 투자 유치 논의...중동 국부펀드 접촉 중
-https://www.aitimes.com/news/articleView.html?idxno=205844
-
-◾ 바이두, 중국 최대 ＇2.4조＇ 매개변수 멀티모달 모델 공개
-https://www.aitimes.com/news/articleView.html?idxno=205846
-
-◾ 리퀴드 AI, 가장 작은 ＇온디바이스 추론＇ 모델 출시...〃900MB 용량·한국어 지원〃
-https://www.aitimes.com/news/articleView.html?idxno=205862
-
-◾ 사람처럼 세상을 보는 AI 나왔다… 구글  로봇과 AR 혁신 예고
-https://www.etnews.com/20260123000206
-
-[기관]
-◾ ｢독자 AI 파운데이션 모델｣ 프로젝트, 모두의 도전을 통해 더 큰 도전으로
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186796&searchOpt=ALL&searchTxt=
-
-◾ 과기정통부, 공공 연구 성과확산·기술 규모 확장(스케일업)을 위해 2026년 888.55억 원 신규 지원
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186794&searchOpt=ALL&searchTxt=
-
-◾ 국가대표 AI에 KT·코난 ＇불참’ 선언...‘스타트업 2파전’ 되나
-https://www.aitimes.com/news/articleView.html?idxno=205868
-
-◾ AI가 복지 찾아간다…경기도, 신청 1000건 폭증 대박
-https://www.etnews.com/20260122000398
-
-◾ 전주시, 29일 ＇전주, 후백제 왕도에서 AI도시로의 도약＇ 정책포럼 개최
-https://www.etnews.com/20260123000105
-
-◾ 한국인공지능검증원, 전문 인증기관 자문 더한 ＇ISO 42001 AI 경영시스템 인증 바이블＇ 출간
-https://www.etnews.com/20260123000136
+◾ 국가AI전략위원회, 이경수 국가과학기술자문회의 부의장 초청 ‘제네시스 미션’ 세미나 개최
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=191
 
 📚 간행물
-◾ 제조AI, 크로스디바이스AI, 미국 반도체 정책 [AI·ICT Brief 2026-03호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260123-000001&cpage=1&rows=10&searchTarget=all
+◾ AI·XR 융합형 BCI의 부상과  공간컴퓨팅 패러다임의 전환 [ICT SPOT ISSUE(2025-14호)]
+https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260102-000002&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
@@ -77,6 +18,3 @@ https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260123-0
 
 
 🤖AI Development Department🧑‍🤝‍🧑
-
-
-✅위 내용은 GEMINI에 의해 작성됨.
