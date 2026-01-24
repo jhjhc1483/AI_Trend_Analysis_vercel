@@ -97,7 +97,7 @@ document.getElementById('copyBtn2').addEventListener('click', () => {
 });
 
 // -----------------------------------------------------
-// 4. 텍스트 추출 실행 (runActionBtn2)
+// 4. 텍스트 만들기 실행 (runActionBtn2)
 // -----------------------------------------------------
 document.getElementById('runActionBtn2').addEventListener('click', async function () {
     const WORKFLOW_ID = "json_to_txt.yml";
@@ -481,7 +481,7 @@ document.getElementById('sidebarToggle').addEventListener('click', () => {
 });
 
 // -----------------------------------------------------
-// 8. 데이터 전체 삭제 (deleteCodesBtn)
+// 9. 데이터 전체 삭제 (deleteCodesBtn)
 // -----------------------------------------------------
 document.getElementById('deleteCodesBtn').addEventListener('click', async function () {
     const confirmMsg = "⚠️ 경고 ⚠️\n모든 데이터를 삭제합니다.\n이 작업은 되돌릴 수 없습니다.\n정말 삭제하시겠습니까?";
@@ -522,7 +522,7 @@ document.getElementById('deleteCodesBtn').addEventListener('click', async functi
     }
 });
 // -----------------------------------------------------
-// 9. 오디오 생성 실행 (createAudioBtn) - Vercel Proxy 적용
+// 10. 오디오 생성 실행 (createAudioBtn) - Vercel Proxy 적용
 // -----------------------------------------------------
 document.getElementById('createAudioBtn').addEventListener('click', async function () {
     // 1. 사용자 확인 (토큰 검사는 Proxy가 처리하므로 제거)
@@ -545,7 +545,7 @@ document.getElementById('createAudioBtn').addEventListener('click', async functi
 });
 
 
-// 10. 최근업데이트 불러오기
+// 11. 최근업데이트 불러오기
 
 async function loadCompletionTime() {
     try {
@@ -575,7 +575,7 @@ document.addEventListener('DOMContentLoaded', () => {
 
 
 // -----------------------------------------------------
-// 11. 맨 위로 가기 (Top) 버튼 및 모바일 사이드바 제어
+// 12. 맨 위로 가기 (Top) 버튼 및 모바일 사이드바 제어
 // -----------------------------------------------------
 const scrollTopBtn = document.getElementById("scrollTopBtn");
 
