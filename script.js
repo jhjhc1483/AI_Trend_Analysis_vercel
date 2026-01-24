@@ -99,18 +99,18 @@ document.getElementById('copyBtn2').addEventListener('click', () => {
 // -----------------------------------------------------
 // 4. 텍스트 만들기 실행 (runActionBtn2)
 // -----------------------------------------------------
-document.getElementById('runActionBtn2').addEventListener('click', async function () {
-    const WORKFLOW_ID = "json_to_txt.yml";
-    const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
+// document.getElementById('runActionBtn2').addEventListener('click', async function () {
+//     const WORKFLOW_ID = "json_to_txt.yml";
+//     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
-    try {
-        await callProxyAPI(endpoint, 'POST', { ref: "main" });
-        alert("✅ 즐겨찾기에 있는 목록을 일일 동향 텍스트로 만듭니다.\n\n약 30초 후 대시보드에서 '텍스트추출'을 누르세요.");
-    } catch (error) {
-        console.error('Error:', error);
-        alert(`❌ 실패: ${error.message}`);
-    }
-});
+//     try {
+//         await callProxyAPI(endpoint, 'POST', { ref: "main" });
+//         alert("✅ 즐겨찾기에 있는 목록을 일일 동향 텍스트로 만듭니다.\n\n약 30초 후 대시보드에서 '텍스트추출'을 누르세요.");
+//     } catch (error) {
+//         console.error('Error:', error);
+//         alert(`❌ 실패: ${error.message}`);
+//     }
+// });
 
 // -----------------------------------------------------
 // 5. 전역 변수 및 데이터 로드
