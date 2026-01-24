@@ -85,21 +85,6 @@ jobs:
           
           echo "Timestamp generated: $NOW"
 
-      # 현재 시간(KST)을 저장
-      - name: Generate Last Updated Time
-        run: |
-          # public 폴더가 없으면 생성
-          mkdir -p public
-          
-          # 한국 시간(KST) 설정
-          export TZ="Asia/Seoul"
-          NOW=$(date +'%Y-%m-%d %H:%M:%S')
-          
-          # meta.json 파일 생성 (이전 대화의 script.js와 호환됨)
-          echo "{ \"completed_at\": \"$NOW\" }" > public/update_time.json
-          
-          echo "Timestamp generated: $NOW"
-
       - name: Commit and Push all changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
