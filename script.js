@@ -477,7 +477,7 @@ document.getElementById('uploadFavoritesBtn').addEventListener('click', async fu
 
     try {
         await callProxyAPI(endpoint, 'POST', { ref: "main" });
-        alert("✅ 즐겨찾기에 있는 목록을 일일 동향 텍스트로 만듭니다.\n\n약 ✅️ 30초 후 대시보드에서 '텍스트추출'을 누르세요.");
+        alert("✅ 즐겨찾기에 있는 목록을 일일 동향 텍스트로 만듭니다.\n\n✅️ 약 30초 후 대시보드에서 '텍스트추출'을 누르세요.");
     } catch (error) {
         console.error('Error:', error);
         alert(`❌ 실패: ${error.message}`);
