@@ -1,6 +1,10 @@
 📢2026-01-25 AI 일일 동향 보고📢
 
 📰 오늘의 기사
+[국방]
+◾ AI는 새로운 ‘핵무기’… 워런 버핏의 우려
+https://www.aitimes.com/news/articleView.html?idxno=205859
+
 [민간]
 ◾ 알트먼, 2월 인도 방문 예정...〃구글·앤트로픽과 맞불〃
 https://www.aitimes.com/news/articleView.html?idxno=205879
@@ -17,6 +21,9 @@ https://www.aitimes.com/news/articleView.html?idxno=205880
 ◾ [1월23일] 실리콘 밸리에서 거론되는 AI 모델 개발 대전환...〃사전·사후 학습 통합해야〃
 https://www.aitimes.com/news/articleView.html?idxno=205849
 
+◾ [에듀플러스][BETT 2026]“AI 넘쳐났지만 감탄은 없었다…진짜 승부는 ＇활용＇”
+https://www.etnews.com/20260124000039
+
 ◾ 中 기업, 반도체 첨단 패키징도 영향력 확대…차세대 광엔진 샘플 공급 개시
 https://www.etnews.com/20260123000123
 
@@ -25,10 +32,6 @@ https://www.etnews.com/20260123000201
 
 ◾ 말 대신 손짓으로 조종되네… 日 ＇무음 제스처＇ 로봇 공개
 https://www.etnews.com/20260122000245
-
-[기관]
-◾ AI는 새로운 ‘핵무기’… 워런 버핏의 우려
-https://www.aitimes.com/news/articleView.html?idxno=205859
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
