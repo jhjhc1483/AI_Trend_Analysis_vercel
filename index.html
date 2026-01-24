@@ -145,34 +145,21 @@
                     </div>
                 </div>
                 <p id="status"></p>
-                <h2 class="dashboard-title">📊 요약 정보</h2>
-                <br>
-                <div class="stats-grid">
-                    <div class="stat-card">
-                        <h3>총 기사 수</h3>
-                        <p id="stat-articles">0</p>
-                    </div>
-                    <div class="stat-card">
-                        <h3>총 간행물 수</h3>
-                        <p id="stat-publications">0</p>
-                    </div>
-                    <div class="stat-card">
-                        <h3>즐겨찾는 기사 수</h3>
-                        <p id="stat-fav-articles">0</p>
-                    </div>
-                    <div class="stat-card">
-                        <h3>즐겨찾는 간행물 수</h3>
-                        <p id="stat-fav-publications">0</p>
-                    </div>
-                </div>
+
 
                 <div class="trend-section">
-                    <h2>✨ 최신 기사 5개</h2>
+                    <h2 style="display: flex; justify-content: space-between; align-items: center;">
+                        <span>📰 최신 기사 5개</span>
+                        <button onclick="showTab('ARTICLE_ALL')" style="font-size: 0.6em; background: transparent; border: 1px solid #ccc; border-radius: 4px; padding: 4px 8px; cursor: pointer; color: #555;">전체보기</button>
+                    </h2>
                     <ul class="latest-list" id="latest-articles">
                         </ul>
                 </div>
                 <div class="trend-section">
-                    <h2>✨ 최신 간행물 5개</h2>
+                    <h2 style="display: flex; justify-content: space-between; align-items: center;">
+                        <span>📚 최신 간행물 5개</span>
+                        <button onclick="showTab('PUBLICATION_ALL')" style="font-size: 0.6em; background: transparent; border: 1px solid #ccc; border-radius: 4px; padding: 4px 8px; cursor: pointer; color: #555;">전체보기</button>
+                    </h2>
                     <ul class="latest-list" id="latest-publications">
                         </ul>
                 </div>
