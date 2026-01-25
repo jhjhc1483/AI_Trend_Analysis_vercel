@@ -1,52 +1,102 @@
 [
   {
-    "title": "알트먼, 2월 인도 방문 예정...〃구글·앤트로픽과 맞불〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205879",
+    "title": "＇AI 작성 글＇처럼 보이지 않게 지시하는 클로드 코드 ＇스킬＇ 등장",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205864",
     "category": "민간"
   },
   {
-    "title": "테슬라, FSD 구독 확대 위해 미국·캐나다서 ＇오토파일럿＇ 단종",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205870",
+    "title": "구글, 추론 모델 내부 구조 규명...〃인간처럼 ＇사고의 사회＇ 생성〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205860",
     "category": "민간"
   },
   {
-    "title": "중국, 알리바바·텐센트 등에 엔비디아 ＇H200＇ 주문 준비 지시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205869",
+    "title": "구글, 3D 생성 스타트업 인수...월드모델·XR 서비스 주도권 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205887",
     "category": "민간"
   },
   {
-    "title": "앤트로픽, ‘클로드 코워크’ 기업 요금제로 확대...〃비개발자도 AI 협업〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205880",
+    "title": "중국 시장 찾은 젠슨 황...＇H200＇ 수입 허용 분위기 속에 상하이 방문",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205888",
     "category": "민간"
   },
   {
-    "title": "[1월23일] 실리콘 밸리에서 거론되는 AI 모델 개발 대전환...〃사전·사후 학습 통합해야〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205849",
+    "title": "싱가포르, 2030년까지 공공 AI 연구에 1조 이상 투자 예정",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205889",
+    "category": "기관"
+  },
+  {
+    "title": "알트먼, 대기업과 만찬 ＇영업＇...앤트로픽에 뺏긴 B2B 시장 탈환 총력전",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205891",
     "category": "민간"
   },
   {
-    "title": "AI는 새로운 ‘핵무기’… 워런 버핏의 우려",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205859",
+    "title": "영화 속 ＇기어다니는 손＇, 로봇 손으로 실제 등장",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205893",
+    "category": "민간"
+  },
+  {
+    "title": "〃자율주행이 인간보다 안전〃...미국서 테슬라 FSD 보험료 반값 할인 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205892",
+    "category": "민간"
+  },
+  {
+    "title": "[AI 리뷰] 마이크로소프트, 장문·다국어 음성 AI 모델 ‘바이브보이스-ASR’ 오픈소스 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38300",
+    "category": "민간"
+  },
+  {
+    "title": "하나금융, 올해 생산적 금융 17조8000억 공급...인프라·AI 2.5조원·첨단산업 10조원·K-밸류체인 2.8조원 배분",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38299",
+    "category": "기관"
+  },
+  {
+    "title": "인공지능이 찾아낸 배터리 게임체인저, 전고체전지 고체전해질 설계 기준과 분석 방법 제시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38296",
+    "category": "민간"
+  },
+  {
+    "title": "제미나이3·나노바나나 뜨자 클라우드도 들썩…MSP 업계, GCP 사업 강화",
+    "link": "https://www.etnews.com/20260123000207",
+    "category": "민간"
+  },
+  {
+    "title": "[ET시론]생성형 AI를 적극적으로 활용하게 된 해커그룹을 막으려면",
+    "link": "https://www.etnews.com/20260123000170",
     "category": "국방"
   },
   {
-    "title": "[에듀플러스][BETT 2026]“AI 넘쳐났지만 감탄은 없었다…진짜 승부는 ＇활용＇”",
-    "link": "https://www.etnews.com/20260124000039",
-    "category": "민간"
+    "title": "“육아 정보, 카톡으로 물어보세요”…인천시, ＇AI 육아코디＇ 탄생",
+    "link": "https://www.etnews.com/20260125000070",
+    "category": "기관"
   },
   {
-    "title": "中 기업, 반도체 첨단 패키징도 영향력 확대…차세대 광엔진 샘플 공급 개시",
-    "link": "https://www.etnews.com/20260123000123",
-    "category": "민간"
+    "title": "[충청권 정보보호 우수기업] 유클리드소프트, 국정원 등 국가·공공기관 AI보안 지킴이 ＇SecuAI＇ 개발",
+    "link": "https://www.etnews.com/20260123000079",
+    "category": "국방"
   },
   {
-    "title": "[ET톡]자율운항 선점, 과감한 투자·혁신으로",
-    "link": "https://www.etnews.com/20260123000201",
-    "category": "민간"
+    "title": "[에듀플러스]〈칼럼〉AI 시대, 교육에서 우리가 합의해야 할 최소한의 원칙…기술의 속도보다 교육의 기준을 먼저 묻다",
+    "link": "https://www.etnews.com/20260123000050",
+    "category": "기관"
   },
   {
-    "title": "말 대신 손짓으로 조종되네… 日 ＇무음 제스처＇ 로봇 공개",
-    "link": "https://www.etnews.com/20260122000245",
-    "category": "민간"
+    "title": "[에듀플러스]대구가톨릭대, AI·DX 전문가 교육으로 청년 취업 지원",
+    "link": "https://www.etnews.com/20260123000113",
+    "category": "기관"
+  },
+  {
+    "title": "개인정보위, 성착취 딥페이크 논란 ＇그록＇ 사실관계 확인 착수",
+    "link": "https://www.etnews.com/20260123000209",
+    "category": "기관"
+  },
+  {
+    "title": "서울시, AI가 읽을 수 있는 공문서 작성…피지컬 AI 산업 육성",
+    "link": "https://www.etnews.com/20260125000005",
+    "category": "기관"
+  },
+  {
+    "title": "LG유플러스, AI 기본법 시행 전사 관리체계 가동",
+    "link": "https://www.etnews.com/20260125000006",
+    "category": "기관"
   }
 ]
