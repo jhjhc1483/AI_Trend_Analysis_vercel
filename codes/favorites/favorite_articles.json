@@ -10,9 +10,14 @@
     "category": "기관"
   },
   {
+    "title": "대잠항공기 정보교환·통제·공격 절차 숙달",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47417&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
+  },
+  {
     "title": "LGU+, AI 기본법 시행 맞춰 전사 대응 체계 가동",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205894",
-    "category": "민간"
+    "category": "기관"
   },
   {
     "title": "＇딥 리서치＇ 멀티모달 능력 벤치마크서 ＇제미나이＇ 상위권 싹쓸이",
@@ -25,18 +30,8 @@
     "category": "기관"
   },
   {
-    "title": "커서, 에이전트 조합으로 일주일 만에 ＇300만 줄＇ 웹 브라우저 구축",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205938",
-    "category": "민간"
-  },
-  {
     "title": "〃GPT-5.2, 머스크의 그로키피디아 인용〃...편향 정보·모델 붕괴 우려",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205918",
-    "category": "민간"
-  },
-  {
-    "title": "구글 ‘AI 개요’, 건강 정보 출처로 유튜브 최다 인용...의료 신뢰성 논란",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=205922",
     "category": "민간"
   },
   {
@@ -47,6 +42,11 @@
   {
     "title": "딥노이드-퓨리오사AI, ‘NPU 연계 의료 AI 사업화’ 본격 추진",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=205908",
+    "category": "민간"
+  },
+  {
+    "title": "AI 데이터센터 전력난, 송전망 말고 답은 있는가",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=205950",
     "category": "민간"
   },
   {
@@ -72,7 +72,7 @@
   {
     "title": "카카오그룹, 지역 AI 혁신인재 발굴...4대 과기원과 ‘AI 육성 프로젝트’ 결선 및 시상식 개최",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38312",
-    "category": "기관"
+    "category": "민간"
   },
   {
     "title": "중소기업에 꼭 필요한 인공지능 융합훈련 개시!...한국산업인력공단, ‘중소기업 인재 키움 프리미엄 훈련’ 신규사업 운영",
@@ -97,7 +97,12 @@
   {
     "title": "로봇팔, 갑자기 무거운 짐 들어도 안 떤다!..UNIST, 적응형 제어 기술 개발",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38304",
-    "category": "기관"
+    "category": "민간"
+  },
+  {
+    "title": "팀뷰어,  “2026년, 에이전틱 AI로 실질적 비즈니스 가치 창출”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38303",
+    "category": "민간"
   },
   {
     "title": "KAIST, 배터리성능 예측 AI 개발...누락된 실험 데이터에서도 배터리 양극재 입자 크기를 예측",
@@ -105,9 +110,34 @@
     "category": "기관"
   },
   {
+    "title": "대한민국 육군의 ‘디지털 두뇌’가  더 빠르고 똑똑해졌습니다.",
+    "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58083&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+    "category": "육군"
+  },
+  {
+    "title": "이진형 스탠퍼드 교수, AI 뇌 진단 플랫폼으로 ＇혁신의 오스카＇ 에디슨상",
+    "link": "https://www.etnews.com/20260126000004",
+    "category": "민간"
+  },
+  {
     "title": "전북 군산산단 AX 기반 마련 마스터플랜 수립 착수",
     "link": "https://www.etnews.com/20260126000395",
     "category": "기관"
+  },
+  {
+    "title": "이노룰스, PTC코리아와 맞손…AI 기반 제조 분야 업무 자동화",
+    "link": "https://www.etnews.com/20260126000386",
+    "category": "민간"
+  },
+  {
+    "title": "클라우드·AX로 ＇역대급 실적＇…IT 서비스 4사 실적 동반 상승",
+    "link": "https://www.etnews.com/20260126000266",
+    "category": "민간"
+  },
+  {
+    "title": "놀유니버스, 구글 제미나이 전면 도입…업무 생산성 극대화",
+    "link": "https://www.etnews.com/20260126000286",
+    "category": "민간"
   },
   {
     "title": "[ET시론]AI 컴퓨팅의 진화:하이브리드 AI의 시대로",
@@ -130,8 +160,28 @@
     "category": "기관"
   },
   {
+    "title": "AI·데이터 기반 AX 협력 가속… 위세아이텍, 윤커뮤니케이션즈와 전략적 제휴 체결",
+    "link": "https://www.etnews.com/20260126000344",
+    "category": "민간"
+  },
+  {
+    "title": "휴이노, WHX 두바이 2026 참가…AI 심전도 진단 기술 공개",
+    "link": "https://www.etnews.com/20260126000333",
+    "category": "민간"
+  },
+  {
+    "title": "과기정통부, ＇피지컬 AI＇로 지역 산업 혁신 속도낸다",
+    "link": "https://www.etnews.com/20260126000237",
+    "category": "기관"
+  },
+  {
     "title": "[에듀플러스]한국AI서비스학회, ＇AI기본법 시행에 따른 관련 산업 생태계 육성전략 세미나＇ 개최",
     "link": "https://www.etnews.com/20260126000324",
+    "category": "기관"
+  },
+  {
+    "title": "[李정부 신규원전 확정]12차 전기본 시험대…원자력학회장 “AI 수요 폭증, 2~4기 더 지어야”",
+    "link": "https://www.etnews.com/20260126000304",
     "category": "기관"
   },
   {
@@ -157,7 +207,7 @@
   {
     "title": "＇글자가 그림이 되는 순간＇ 경북대, 이미지 생성 AI 메커니즘 규명",
     "link": "https://www.etnews.com/20260126000264",
-    "category": "기관"
+    "category": "민간"
   },
   {
     "title": "한화시스템, 연합지휘통제체계 성능개량 체계개발 사업 착수",
@@ -165,14 +215,19 @@
     "category": "국방"
   },
   {
-    "title": "딥엑스, 바이두 혁신상 수상...중국 NPU 공략 박차",
-    "link": "https://www.etnews.com/20260126000259",
-    "category": "민간"
-  },
-  {
     "title": "한국지역정보개발원, 고려대 정보보호대학원과 맞손…＇지자체 AX＇ 본격 지원",
     "link": "https://www.etnews.com/20260126000240",
     "category": "기관"
+  },
+  {
+    "title": "신규 원전 최종 확정…AI 전력수급 대책 속도",
+    "link": "https://www.etnews.com/20260126000208",
+    "category": "기관"
+  },
+  {
+    "title": "[AI 네트워크 실증 성과]〈3〉LG CNS",
+    "link": "https://www.etnews.com/20260126000201",
+    "category": "민간"
   },
   {
     "title": "이녹스첨단소재, ＇피지컬AI·로봇＇ 핵심 소재로 사업 확대",
@@ -190,8 +245,18 @@
     "category": "국방"
   },
   {
+    "title": "[AI 네트워크 실증 성과]〈2〉쏠리드",
+    "link": "https://www.etnews.com/20260126000187",
+    "category": "민간"
+  },
+  {
     "title": "“휴머노이드 로봇 생산성 인간의 절반”…中 유비테크, 공장 투입 ＇아직＇",
     "link": "https://www.etnews.com/20260126000182",
+    "category": "민간"
+  },
+  {
+    "title": "매일유업·매일헬스뉴트리션·하이, ＇영양×AI＇ 결합 헬스케어 협력",
+    "link": "https://www.etnews.com/20260126000160",
     "category": "민간"
   },
   {
@@ -215,9 +280,34 @@
     "category": "기관"
   },
   {
+    "title": "대웅제약 “AI 디지털 헬스케어로 권역책임의료기관과 협력 확대”",
+    "link": "https://www.etnews.com/20260126000108",
+    "category": "민간"
+  },
+  {
+    "title": "두나무 머신러닝팀, AAAI 데모트랙 논문 채택…AI 시스템 시연",
+    "link": "https://www.etnews.com/20260126000089",
+    "category": "민간"
+  },
+  {
+    "title": "실험 데이터 누락되도 高정확도 예측 제시...KAIST, 배터리 실험 줄일 AI 개발",
+    "link": "https://www.etnews.com/20260126000035",
+    "category": "기관"
+  },
+  {
+    "title": "텍스트·이미지로 3D CAD 자동 생성…엔닷라이트, 산업 적용 사례 공유",
+    "link": "https://www.etnews.com/20260126000031",
+    "category": "민간"
+  },
+  {
     "title": "하나은행, 메가존클라우드 지분 투자 추진…AI 데이터센터 ＇GPU·NPU＇ 자금 댄다",
     "link": "https://www.etnews.com/20260126000020",
     "category": "민간"
+  },
+  {
+    "title": "암 분석 AI부터 의료기기 수출까지…경기도 바이오헬스 ＇레전드＇ 키운다",
+    "link": "https://www.etnews.com/20260126000017",
+    "category": "기관"
   },
   {
     "title": "전남대, ＇2025 AIEDAP 사업 성과공유회＇서 교원 AI·디지털 역량 강화 주목",
@@ -237,6 +327,11 @@
   {
     "title": "현대전 핵심 전력 드론…‘군 직접 정비’ 희망 띄웠다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260127/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=o2v72DMNlqUo8q6HJO7PEWmLJealRgWHZq-E_iPO4Atw2oixOnPE!821738159",
+    "category": "국방"
+  },
+  {
+    "title": "국가방위의 중심군, 우주력 활용의 중심군으로",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260127/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=o2v72DMNlqUo8q6HJO7PEWmLJealRgWHZq-E_iPO4Atw2oixOnPE!821738159",
     "category": "국방"
   }
 ]

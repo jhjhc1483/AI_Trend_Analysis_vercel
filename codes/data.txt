@@ -2,6 +2,9 @@
 
 📰 오늘의 기사
 [국방]
+◾ 대잠항공기 정보교환·통제·공격 절차 숙달
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47417&startDate=&endDate=&id=mnd_020101000000
+
 ◾ [기고] ＇148분 작전＇과 ＇국방 AX＇ 방향
 https://www.etnews.com/20260126000027
 
@@ -20,34 +23,34 @@ https://www.etnews.com/20260126000131
 ◾ 현대전 핵심 전력 드론…‘군 직접 정비’ 희망 띄웠다
 https://kookbang.dema.mil.kr/newsWeb/20260127/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=o2v72DMNlqUo8q6HJO7PEWmLJealRgWHZq-E_iPO4Atw2oixOnPE!821738159
 
+◾ 국가방위의 중심군, 우주력 활용의 중심군으로
+https://kookbang.dema.mil.kr/newsWeb/20260127/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=o2v72DMNlqUo8q6HJO7PEWmLJealRgWHZq-E_iPO4Atw2oixOnPE!821738159
+
 [육군]
 ◾ 〃대한민국 육군, ‘디지털 두뇌’가 더 빠르고 똑똑해졌다〃...국내 순수기술 인공지능 기반 국방 소프트웨어 적용
 https://www.aitimes.kr/news/articleView.html?idxno=38310
+
+◾ 대한민국 육군의 ‘디지털 두뇌’가  더 빠르고 똑똑해졌습니다.
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58083&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
 ◾ ATCIS 2차 성능개량 완료…육군 디지털 지휘역량 강화
 https://kookbang.dema.mil.kr/newsWeb/20260127/2/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=o2v72DMNlqUo8q6HJO7PEWmLJealRgWHZq-E_iPO4Atw2oixOnPE!821738159
 
 [민간]
-◾ LGU+, AI 기본법 시행 맞춰 전사 대응 체계 가동
-https://www.aitimes.com/news/articleView.html?idxno=205894
-
 ◾ ＇딥 리서치＇ 멀티모달 능력 벤치마크서 ＇제미나이＇ 상위권 싹쓸이
 https://www.aitimes.com/news/articleView.html?idxno=205954
 
-◾ 커서, 에이전트 조합으로 일주일 만에 ＇300만 줄＇ 웹 브라우저 구축
-https://www.aitimes.com/news/articleView.html?idxno=205938
-
 ◾ 〃GPT-5.2, 머스크의 그로키피디아 인용〃...편향 정보·모델 붕괴 우려
 https://www.aitimes.com/news/articleView.html?idxno=205918
-
-◾ 구글 ‘AI 개요’, 건강 정보 출처로 유튜브 최다 인용...의료 신뢰성 논란
-https://www.aitimes.com/news/articleView.html?idxno=205922
 
 ◾ 도이체방크 〃2026년 오픈AI는 위기·앤트로픽은 기회〃
 https://www.aitimes.com/news/articleView.html?idxno=205933
 
 ◾ 딥노이드-퓨리오사AI, ‘NPU 연계 의료 AI 사업화’ 본격 추진
 https://www.aitimes.com/news/articleView.html?idxno=205908
+
+◾ AI 데이터센터 전력난, 송전망 말고 답은 있는가
+https://www.aitimes.com/news/articleView.html?idxno=205950
 
 ◾ 데이원컴퍼니 패스트캠퍼스, ‘오픈AI 에듀’ 도입...〃국내 민간 기업 최초〃
 https://www.aitimes.com/news/articleView.html?idxno=205945
@@ -58,20 +61,50 @@ https://www.aitimes.com/news/articleView.html?idxno=205931
 ◾ 구글 딥마인드, 4차원 세계 인식 모델 ‘D4RT’ 공개...공간과 시간을 동시에 재구성·추적하는 통합 4D 인식 AI
 https://www.aitimes.kr/news/articleView.html?idxno=38315
 
+◾ 카카오그룹, 지역 AI 혁신인재 발굴...4대 과기원과 ‘AI 육성 프로젝트’ 결선 및 시상식 개최
+https://www.aitimes.kr/news/articleView.html?idxno=38312
+
 ◾ 사이냅소프트, VLM과 AI 에이전트 결합한 ‘사이냅 OCR IX’ 출시… “Agentic OCR 시대 연다”
 https://www.aitimes.kr/news/articleView.html?idxno=38309
 
 ◾ 한컴이노스트림, 한전KPS에 생성형 AI 기반 ‘보일러 지능형 통합관리(BIMS)’ 구축
 https://www.aitimes.kr/news/articleView.html?idxno=38305
 
+◾ 로봇팔, 갑자기 무거운 짐 들어도 안 떤다!..UNIST, 적응형 제어 기술 개발
+https://www.aitimes.kr/news/articleView.html?idxno=38304
+
+◾ 팀뷰어,  “2026년, 에이전틱 AI로 실질적 비즈니스 가치 창출”
+https://www.aitimes.kr/news/articleView.html?idxno=38303
+
+◾ 이진형 스탠퍼드 교수, AI 뇌 진단 플랫폼으로 ＇혁신의 오스카＇ 에디슨상
+https://www.etnews.com/20260126000004
+
+◾ 이노룰스, PTC코리아와 맞손…AI 기반 제조 분야 업무 자동화
+https://www.etnews.com/20260126000386
+
+◾ 클라우드·AX로 ＇역대급 실적＇…IT 서비스 4사 실적 동반 상승
+https://www.etnews.com/20260126000266
+
+◾ 놀유니버스, 구글 제미나이 전면 도입…업무 생산성 극대화
+https://www.etnews.com/20260126000286
+
 ◾ [ET시론]AI 컴퓨팅의 진화:하이브리드 AI의 시대로
 https://www.etnews.com/20260126000070
+
+◾ AI·데이터 기반 AX 협력 가속… 위세아이텍, 윤커뮤니케이션즈와 전략적 제휴 체결
+https://www.etnews.com/20260126000344
+
+◾ 휴이노, WHX 두바이 2026 참가…AI 심전도 진단 기술 공개
+https://www.etnews.com/20260126000333
 
 ◾ 섬성-LG, AI로 무장한 노트북 출시
 https://www.etnews.com/20260126000277
 
-◾ 딥엑스, 바이두 혁신상 수상...중국 NPU 공략 박차
-https://www.etnews.com/20260126000259
+◾ ＇글자가 그림이 되는 순간＇ 경북대, 이미지 생성 AI 메커니즘 규명
+https://www.etnews.com/20260126000264
+
+◾ [AI 네트워크 실증 성과]〈3〉LG CNS
+https://www.etnews.com/20260126000201
 
 ◾ 이녹스첨단소재, ＇피지컬AI·로봇＇ 핵심 소재로 사업 확대
 https://www.etnews.com/20260126000195
@@ -79,8 +112,23 @@ https://www.etnews.com/20260126000195
 ◾ 삼성전자, ＇갤럭시 북6＇ 2종 출시…“AI 성능·디스플레이·발열 개선”
 https://www.etnews.com/20260126000192
 
+◾ [AI 네트워크 실증 성과]〈2〉쏠리드
+https://www.etnews.com/20260126000187
+
 ◾ “휴머노이드 로봇 생산성 인간의 절반”…中 유비테크, 공장 투입 ＇아직＇
 https://www.etnews.com/20260126000182
+
+◾ 매일유업·매일헬스뉴트리션·하이, ＇영양×AI＇ 결합 헬스케어 협력
+https://www.etnews.com/20260126000160
+
+◾ 대웅제약 “AI 디지털 헬스케어로 권역책임의료기관과 협력 확대”
+https://www.etnews.com/20260126000108
+
+◾ 두나무 머신러닝팀, AAAI 데모트랙 논문 채택…AI 시스템 시연
+https://www.etnews.com/20260126000089
+
+◾ 텍스트·이미지로 3D CAD 자동 생성…엔닷라이트, 산업 적용 사례 공유
+https://www.etnews.com/20260126000031
 
 ◾ 하나은행, 메가존클라우드 지분 투자 추진…AI 데이터센터 ＇GPU·NPU＇ 자금 댄다
 https://www.etnews.com/20260126000020
@@ -95,20 +143,17 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 디지털 전환 넘어 인공지능 전환으로... 대·중소기업 한 팀 되어 세계 시장 뚫는다
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186800&searchOpt=ALL&searchTxt=
 
+◾ LGU+, AI 기본법 시행 맞춰 전사 대응 체계 가동
+https://www.aitimes.com/news/articleView.html?idxno=205894
+
 ◾ “우리 회사도 고영향 AI에 해당하나”...AI 기본법 5가지 체크리스트
 https://www.aitimes.com/news/articleView.html?idxno=205895
 
 ◾ AA 〃한국, 글로벌 3위 AI 모델 국가〃...이재명 대통령 〃정부 주도 성과〃
 https://www.aitimes.com/news/articleView.html?idxno=205906
 
-◾ 카카오그룹, 지역 AI 혁신인재 발굴...4대 과기원과 ‘AI 육성 프로젝트’ 결선 및 시상식 개최
-https://www.aitimes.kr/news/articleView.html?idxno=38312
-
 ◾ 중소기업에 꼭 필요한 인공지능 융합훈련 개시!...한국산업인력공단, ‘중소기업 인재 키움 프리미엄 훈련’ 신규사업 운영
 https://www.aitimes.kr/news/articleView.html?idxno=38311
-
-◾ 로봇팔, 갑자기 무거운 짐 들어도 안 떤다!..UNIST, 적응형 제어 기술 개발
-https://www.aitimes.kr/news/articleView.html?idxno=38304
 
 ◾ KAIST, 배터리성능 예측 AI 개발...누락된 실험 데이터에서도 배터리 양극재 입자 크기를 예측
 https://www.aitimes.kr/news/articleView.html?idxno=38301
@@ -122,8 +167,14 @@ https://www.etnews.com/20260126000289
 ◾ AI안전연구소, 단계적 독립…전문성·글로벌 역량 강화 목적
 https://www.etnews.com/20260126000256
 
+◾ 과기정통부, ＇피지컬 AI＇로 지역 산업 혁신 속도낸다
+https://www.etnews.com/20260126000237
+
 ◾ [에듀플러스]한국AI서비스학회, ＇AI기본법 시행에 따른 관련 산업 생태계 육성전략 세미나＇ 개최
 https://www.etnews.com/20260126000324
+
+◾ [李정부 신규원전 확정]12차 전기본 시험대…원자력학회장 “AI 수요 폭증, 2~4기 더 지어야”
+https://www.etnews.com/20260126000304
 
 ◾ 대구교통공사, AI 기반 ＇기관사 안내방송 분석·코칭 프로그램＇ 자체 개발
 https://www.etnews.com/20260126000274
@@ -131,11 +182,11 @@ https://www.etnews.com/20260126000274
 ◾ 국세청, ＇개청 60주년＇ AI 전환 국세행정 대도약 선언
 https://www.etnews.com/20260126000272
 
-◾ ＇글자가 그림이 되는 순간＇ 경북대, 이미지 생성 AI 메커니즘 규명
-https://www.etnews.com/20260126000264
-
 ◾ 한국지역정보개발원, 고려대 정보보호대학원과 맞손…＇지자체 AX＇ 본격 지원
 https://www.etnews.com/20260126000240
+
+◾ 신규 원전 최종 확정…AI 전력수급 대책 속도
+https://www.etnews.com/20260126000208
 
 ◾ 제논, 한국해양진흥공사 전용 생성형 AI 구축한다
 https://www.etnews.com/20260126000139
@@ -145,6 +196,12 @@ https://www.etnews.com/20260126000138
 
 ◾ AI·반도체·이차전지까지…산업혁신기반 2685억 투입
 https://www.etnews.com/20260125000096
+
+◾ 실험 데이터 누락되도 高정확도 예측 제시...KAIST, 배터리 실험 줄일 AI 개발
+https://www.etnews.com/20260126000035
+
+◾ 암 분석 AI부터 의료기기 수출까지…경기도 바이오헬스 ＇레전드＇ 키운다
+https://www.etnews.com/20260126000017
 
 ◾ 전남대, ＇2025 AIEDAP 사업 성과공유회＇서 교원 AI·디지털 역량 강화 주목
 https://www.etnews.com/20260126000010
