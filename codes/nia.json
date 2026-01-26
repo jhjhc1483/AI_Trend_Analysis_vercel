@@ -38,5 +38,21 @@
         "년": "2025",
         "월": "12",
         "일": "31"
+    },
+    {
+        "제목": "벤치마크 데이터셋 현황 분석 및 정부 주도의 벤치마크 마련 필요성",
+        "분류": "지능사회 이슈분석",
+        "링크": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=28999&parentSeq=28999",
+        "년": "2026",
+        "월": "01",
+        "일": "26"
+    },
+    {
+        "제목": "Use Cases of Public AI Service, Vol.1 (공공AI서비스 실증사례집 영문본 1권)",
+        "분류": "ICT 글로벌 동향",
+        "링크": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=28998&parentSeq=28998",
+        "년": "2026",
+        "월": "01",
+        "일": "26"
     }
 ]
