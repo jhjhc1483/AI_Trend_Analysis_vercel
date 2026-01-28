@@ -40,9 +40,14 @@
     "category": "민간"
   },
   {
+    "title": "앤트로픽, 책 수백만권 구매해 스캔한 ＇프로젝트 파나마＇ 전모 밝혀져",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206046",
+    "category": "민간"
+  },
+  {
     "title": "중국, 우주서 ＇큐원 3＇ 구동 성공...지상 넘어 궤도서도 AI 경쟁",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=206070",
-    "category": "국방"
+    "category": "민간"
   },
   {
     "title": "퓨리오사AI, AI 칩 ‘레니게이드’ 4000장 양산 성공",
@@ -50,9 +55,9 @@
     "category": "민간"
   },
   {
-    "title": "구글, EU에서도 ＇검색 데이터 공유＇ 지시받아",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206052",
-    "category": "민간"
+    "title": "과기부, 스타트업 대상 ‘AI기본법 전략 설명회’ 개최",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206068",
+    "category": "기관"
   },
   {
     "title": "오픈AI, 과학자들을 위한 AI 작업 공간 ＇프리즘＇ 출시",
@@ -70,8 +75,23 @@
     "category": "기관"
   },
   {
+    "title": "AI 기반 신기술 복지용구 확대로 낙상 사고 막고 복약 누락 예방한다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38358",
+    "category": "기관"
+  },
+  {
+    "title": "배경훈 부총리, “과학기술·인공지능 경쟁, 이제는 속도전”..국가 연구개발 투자·AX 원스톱 지원 본격화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38357",
+    "category": "기관"
+  },
+  {
     "title": "인텔, ‘2026 AI PC 쇼케이스 서울’개최... 18A 공정 기반 인텔 코어 Ultra 시리즈 3 탑재 AI PC 대거 공개",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38354",
+    "category": "민간"
+  },
+  {
+    "title": "삼성SDS, ＇Enterprise AI Connect 2026＇ 개최…챗GPT 엔터프라이즈 기반 기업용 AI 전환 전략 제시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38353",
     "category": "민간"
   },
   {
@@ -85,18 +105,28 @@
     "category": "민간"
   },
   {
-    "title": "앤트로픽, 영국 정부와 ＇영국 정부 공식 포털＇용 AI 비서 구축… 고용·훈련 등 공공서비스 내비게이션 지원",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38363",
-    "category": "민간"
-  },
-  {
-    "title": "야후, 생성형 AI 답변 엔진 ‘야후 스카우트’ 공개...검색에서 ‘답변 중심 경험’으로 전환 가속",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38362",
-    "category": "민간"
-  },
-  {
     "title": "[에듀플러스]＇AI 대학 체질 개선＇ 요구하는 AI중심대학, 총장 주도 드라이브 건다",
     "link": "https://www.etnews.com/20260128000423",
+    "category": "기관"
+  },
+  {
+    "title": "[에듀플러스] 빠른 길 놔두고 돌아가는 교육부…사이버대 총장단 AI·비대면 교육시대 ＇25년 원격교육 노하우 인정 필요＇",
+    "link": "https://www.etnews.com/20260128000419",
+    "category": "기관"
+  },
+  {
+    "title": "제2회 대한민국 인공지능 혁신대상 위원회 개최 [영상]",
+    "link": "https://www.etnews.com/20260128000408",
+    "category": "기관"
+  },
+  {
+    "title": "[전문가기고] 인공지능기본법은 AI 대전환을 위한 바탕",
+    "link": "https://www.etnews.com/20260128000082",
+    "category": "기관"
+  },
+  {
+    "title": "[혁신플랫폼톡] AI 3강 도약의 조건",
+    "link": "https://www.etnews.com/20260128000075",
     "category": "기관"
   },
   {
@@ -115,33 +145,13 @@
     "category": "기관"
   },
   {
-    "title": "삼성전자 “인텔 협력으로 더 강력한 AI PC 탄생”",
-    "link": "https://www.etnews.com/20260128000314",
-    "category": "민간"
-  },
-  {
-    "title": "김민성 한국IBM 상무 “한국, 양자 알고리즘 개발 우위 가능”",
-    "link": "https://www.etnews.com/20260128000352",
-    "category": "기관"
-  },
-  {
-    "title": "씽크포비엘, 서울교대와 초등교원 ＇AI 신뢰성＇ 교육 협력",
-    "link": "https://www.etnews.com/20260128000334",
-    "category": "기관"
-  },
-  {
-    "title": "“월 1만원대 AI 등장”… 구글, 저가 멤버십 ＇AI 플러스＇ 출시",
-    "link": "https://www.etnews.com/20260128000317",
-    "category": "민간"
-  },
-  {
-    "title": "KOSA, 런앤그로우 포럼 개최…“AI 패권 경쟁이 데이터 안보와 직결”",
-    "link": "https://www.etnews.com/20260128000301",
-    "category": "기관"
-  },
-  {
     "title": "은행권, ＇망분리 규제＇ 빗장 느슨해지자 AI·SaaS 도입 봇물…＇합종연횡＇까지 가속",
     "link": "https://www.etnews.com/20260128000169",
+    "category": "기관"
+  },
+  {
+    "title": "농촌진흥청, 정부업무평가 ＇우수＇…AI 농업 혁신 성과 인정",
+    "link": "https://www.etnews.com/20260128000291",
     "category": "기관"
   },
   {
@@ -155,13 +165,18 @@
     "category": "기관"
   },
   {
-    "title": "“AI 서버용 ASIC, 2027년까지 3배”…하이퍼스케일러 ＇자체칩＇ 경쟁 점화",
-    "link": "https://www.etnews.com/20260128000267",
-    "category": "민간"
-  },
-  {
     "title": "데이터·AI로 무장한 남양주, 미래산업도시 도약",
     "link": "https://www.etnews.com/20260128000242",
+    "category": "기관"
+  },
+  {
+    "title": "과기정통부, 중기부와 스타트업에 AI기본법 설명",
+    "link": "https://www.etnews.com/20260128000216",
+    "category": "기관"
+  },
+  {
+    "title": "낙상 감지부터 복약 관리까지…＇AI 복지용구＇ 제도권 편입 가속",
+    "link": "https://www.etnews.com/20260128000084",
     "category": "기관"
   },
   {
@@ -195,13 +210,13 @@
     "category": "국방"
   },
   {
-    "title": "달라진 일상…해군군수사 보급창, 스마트 급식 창고를 가다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260129/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=ThcD-SxYQ0rK1JiBbN8wsXcxCh07PLd-8Bz0pXNNWtsZZZd2H_tQ!821738159",
+    "title": "방산업체 밀집 경북 구미에 ‘기술보호 전문인력 양성’ 거점 마련",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260129/2/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=ThcD-SxYQ0rK1JiBbN8wsXcxCh07PLd-8Bz0pXNNWtsZZZd2H_tQ!821738159",
     "category": "국방"
   },
   {
-    "title": "‘보이지 않는 위협’ 신속 탐지·식별로 피해 최소화",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260129/2/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=ThcD-SxYQ0rK1JiBbN8wsXcxCh07PLd-8Bz0pXNNWtsZZZd2H_tQ!821738159",
+    "title": "달라진 일상…해군군수사 보급창, 스마트 급식 창고를 가다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260129/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=ThcD-SxYQ0rK1JiBbN8wsXcxCh07PLd-8Bz0pXNNWtsZZZd2H_tQ!821738159",
     "category": "국방"
   },
   {
