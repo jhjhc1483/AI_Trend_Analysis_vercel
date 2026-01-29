@@ -5,6 +5,16 @@
     "category": "기관"
   },
   {
+    "title": "R&D 예타 폐지, 이재명 정부의 과학기술 정책이 연구 현장의 오랜 염원을 이루다",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186820&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "과기정통부, ‘텍스코어(TeX-Corps)’로 딥테크 창업 생태계 확장",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186818&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
     "title": "대한민국, Next-AI 시대를 선도할 정부 첫 양자 분야 마스터플랜(종합계획) 선포",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186815&searchOpt=ALL&searchTxt=",
     "category": "기관"
@@ -18,6 +28,11 @@
     "title": "달라진 일상…해군군수사 보급창, 스마트 급식 창고를 가다",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47469&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
+  },
+  {
+    "title": "삼성SDS “챗GPT 엔터프라이즈 계약 빠르게 증가...산업 전반 공급 확대”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206062",
+    "category": "민간"
   },
   {
     "title": "구글, 검색 엔진에 ‘제미나이 3＇ 도입...’AI 모드’로 맥락 이해 강화",
@@ -50,8 +65,8 @@
     "category": "민간"
   },
   {
-    "title": "허깅페이스, 엔비디아의 5억달러 투자 제안 거절...〃오픈소스 미칠 영향 피해야〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206125",
+    "title": "SK하이닉스, 미국에 AI 솔루션 회사 설립...〃데이터센터 생태계 파트너 될 것〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206128",
     "category": "민간"
   },
   {
@@ -90,11 +105,6 @@
     "category": "기관"
   },
   {
-    "title": "팀엘리시움, 차세대 AI 체형분석기 ‘바디닷’ 과기정통부 혁신제품 지정...AI 기반 근골격계 체형 분석 기술력 인정",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38369",
-    "category": "기관"
-  },
-  {
     "title": "美, AI 국가전략의 숨은 한계 드러나다… ＇전력 인프라＇가 발목, AI 확산 속 전력망 한계 부상",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38389",
     "category": "기관"
@@ -110,6 +120,16 @@
     "category": "기관"
   },
   {
+    "title": "대만 찾은 젠슨 황 “中정부 H200 판매 허용해주길”",
+    "link": "https://www.etnews.com/20260129000398",
+    "category": "민간"
+  },
+  {
+    "title": "＇반도체특별법＇ 국회 본회의 통과…세제·인프라 등 전방위 지원 담아",
+    "link": "https://www.etnews.com/20260129000383",
+    "category": "기관"
+  },
+  {
     "title": "AI기본법 시행에 스타트업 혼선…워터마크 부담·제조 AI 사각지대 논란",
     "link": "https://www.etnews.com/20260129000313",
     "category": "기관"
@@ -120,14 +140,19 @@
     "category": "기관"
   },
   {
+    "title": "자율주행 버스 시속 80㎞로 대전~세종 달린다...ETRI와 지역 기업 협력 성과",
+    "link": "https://www.etnews.com/20260129000165",
+    "category": "기관"
+  },
+  {
     "title": "李대통령 “AI 전환 피할 수 없어…입법 속도 늦어 답답”",
     "link": "https://www.etnews.com/20260129000347",
     "category": "기관"
   },
   {
-    "title": "마음AI, 코레일 직원용 AI 지식검색시스템 구축",
-    "link": "https://www.etnews.com/20260129000276",
-    "category": "기관"
+    "title": "삼성전자 반도체 V자 반등 성공…올 HBM 매출 3배 찍는다",
+    "link": "https://www.etnews.com/20260129000272",
+    "category": "민간"
   },
   {
     "title": "[에듀플러스]KERIS, ＇대구 이전 공공기관 AI 혁신 포럼＇ 개최",
@@ -180,13 +205,18 @@
     "category": "기관"
   },
   {
+    "title": "AI·이차전지·식품안전까지…＇미래 시험인증＇ 선제 구축",
+    "link": "https://www.etnews.com/20260128000488",
+    "category": "기관"
+  },
+  {
     "title": "한화시스템, ＇AI 스마트 배틀십＇ 英 로이드선급 개념설계 인증 획득",
     "link": "https://www.etnews.com/20260129000143",
     "category": "국방"
   },
   {
-    "title": "[산업계관점 대학교육 혁신]⑦전남대 소프트웨어교육원, 늘봄·디지털새싹·RISE 사업 연계로 ＇전 생애주기 AI 교육 생태계＇ 구현",
-    "link": "https://www.etnews.com/20260129000138",
+    "title": "식약처, 지난해 혁신의료기기 45개 지정…AI 활용 제품 두드러져",
+    "link": "https://www.etnews.com/20260129000101",
     "category": "기관"
   },
   {
@@ -220,11 +250,6 @@
     "category": "국방"
   },
   {
-    "title": "KF-21 전투기 탑재 ‘AESA 레이다’ 성능 본격 검증",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260130/3/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=490JJ2z8Hs3aeJGdD1_9ojwr0cK0mJe8fiXZauaHfJMyHeBtPBrc!821738159",
-    "category": "국방"
-  },
-  {
     "title": "안전하고 윤리적인 AI 활용 교수법 공유",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260130/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=490JJ2z8Hs3aeJGdD1_9ojwr0cK0mJe8fiXZauaHfJMyHeBtPBrc!821738159",
     "category": "국방"
@@ -237,6 +262,11 @@
   {
     "title": "‘다음 전쟁’은 어떤 모습일까? -존 앤털의 『넥스트 워(Next War)』를 읽고",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260130/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=490JJ2z8Hs3aeJGdD1_9ojwr0cK0mJe8fiXZauaHfJMyHeBtPBrc!821738159",
+    "category": "국방"
+  },
+  {
+    "title": "3년 후 인공지능 법정 무죄 입증을 위한 질주",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260130/2/ATCE_CTGR_0060010000/view.do;JSESSIONID_kookbnagWEB=490JJ2z8Hs3aeJGdD1_9ojwr0cK0mJe8fiXZauaHfJMyHeBtPBrc!821738159",
     "category": "국방"
   }
 ]
