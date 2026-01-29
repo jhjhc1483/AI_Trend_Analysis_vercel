@@ -14,9 +14,6 @@ https://www.etnews.com/20260129000143
 ◾ 국방통합데이터센터 진로체험 교육 우수성 인정
 https://kookbang.dema.mil.kr/newsWeb/20260130/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=490JJ2z8Hs3aeJGdD1_9ojwr0cK0mJe8fiXZauaHfJMyHeBtPBrc!821738159
 
-◾ KF-21 전투기 탑재 ‘AESA 레이다’ 성능 본격 검증
-https://kookbang.dema.mil.kr/newsWeb/20260130/3/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=490JJ2z8Hs3aeJGdD1_9ojwr0cK0mJe8fiXZauaHfJMyHeBtPBrc!821738159
-
 ◾ 안전하고 윤리적인 AI 활용 교수법 공유
 https://kookbang.dema.mil.kr/newsWeb/20260130/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=490JJ2z8Hs3aeJGdD1_9ojwr0cK0mJe8fiXZauaHfJMyHeBtPBrc!821738159
 
@@ -26,7 +23,13 @@ https://kookbang.dema.mil.kr/newsWeb/20260130/1/ATCE_CTGR_0050020000/view.do;JSE
 ◾ ‘다음 전쟁’은 어떤 모습일까? -존 앤털의 『넥스트 워(Next War)』를 읽고
 https://kookbang.dema.mil.kr/newsWeb/20260130/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=490JJ2z8Hs3aeJGdD1_9ojwr0cK0mJe8fiXZauaHfJMyHeBtPBrc!821738159
 
+◾ 3년 후 인공지능 법정 무죄 입증을 위한 질주
+https://kookbang.dema.mil.kr/newsWeb/20260130/2/ATCE_CTGR_0060010000/view.do;JSESSIONID_kookbnagWEB=490JJ2z8Hs3aeJGdD1_9ojwr0cK0mJe8fiXZauaHfJMyHeBtPBrc!821738159
+
 [민간]
+◾ 삼성SDS “챗GPT 엔터프라이즈 계약 빠르게 증가...산업 전반 공급 확대”
+https://www.aitimes.com/news/articleView.html?idxno=206062
+
 ◾ 구글, 검색 엔진에 ‘제미나이 3＇ 도입...’AI 모드’로 맥락 이해 강화
 https://www.aitimes.com/news/articleView.html?idxno=206080
 
@@ -42,8 +45,8 @@ https://www.aitimes.com/news/articleView.html?idxno=206119
 ◾ 뉴럴링크 〃2년 만에 인간 뇌 임플란트 시험 참가자 21명〃
 https://www.aitimes.com/news/articleView.html?idxno=206122
 
-◾ 허깅페이스, 엔비디아의 5억달러 투자 제안 거절...〃오픈소스 미칠 영향 피해야〃
-https://www.aitimes.com/news/articleView.html?idxno=206125
+◾ SK하이닉스, 미국에 AI 솔루션 회사 설립...〃데이터센터 생태계 파트너 될 것〃
+https://www.aitimes.com/news/articleView.html?idxno=206128
 
 ◾ MS, 지출 상승·성장세 둔화로 주가 하락...오픈AI 투자로 수익 추가
 https://www.aitimes.com/news/articleView.html?idxno=206116
@@ -54,12 +57,24 @@ https://www.aitimes.com/news/articleView.html?idxno=206088
 ◾ 메타, “2026년은 AI가 성과를 가속하는 해”… 전 서비스에 AI 수익화 본격화
 https://www.aitimes.kr/news/articleView.html?idxno=38385
 
+◾ 대만 찾은 젠슨 황 “中정부 H200 판매 허용해주길”
+https://www.etnews.com/20260129000398
+
+◾ 삼성전자 반도체 V자 반등 성공…올 HBM 매출 3배 찍는다
+https://www.etnews.com/20260129000272
+
 ◾ “AI가 사람 대신 반도체 설계”...포스텍, 파운데이션 모델 기반 아날로그 반도체 자동화 난제 풀었다
 https://www.etnews.com/20260129000084
 
 [기관]
 ◾ 배경훈 부총리, 「2026년 인공지능·소프트웨어인 신년인사회」 참석
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186821&searchOpt=ALL&searchTxt=
+
+◾ R&D 예타 폐지, 이재명 정부의 과학기술 정책이 연구 현장의 오랜 염원을 이루다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186820&searchOpt=ALL&searchTxt=
+
+◾ 과기정통부, ‘텍스코어(TeX-Corps)’로 딥테크 창업 생태계 확장
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186818&searchOpt=ALL&searchTxt=
 
 ◾ 대한민국, Next-AI 시대를 선도할 정부 첫 양자 분야 마스터플랜(종합계획) 선포
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186815&searchOpt=ALL&searchTxt=
@@ -79,9 +94,6 @@ https://www.aitimes.kr/news/articleView.html?idxno=38384
 ◾ 식약처, ‘25년 AI 적용 등 혁신의료기기 45개 지정...생성형 AI 적용 혁신의료기기도
 https://www.aitimes.kr/news/articleView.html?idxno=38374
 
-◾ 팀엘리시움, 차세대 AI 체형분석기 ‘바디닷’ 과기정통부 혁신제품 지정...AI 기반 근골격계 체형 분석 기술력 인정
-https://www.aitimes.kr/news/articleView.html?idxno=38369
-
 ◾ 美, AI 국가전략의 숨은 한계 드러나다… ＇전력 인프라＇가 발목, AI 확산 속 전력망 한계 부상
 https://www.aitimes.kr/news/articleView.html?idxno=38389
 
@@ -91,17 +103,20 @@ https://www.etnews.com/20260129000435
 ◾ 배경훈 부총리 “소프트웨어 발전이 AI 강국 만들 것”
 https://www.etnews.com/20260129000417
 
+◾ ＇반도체특별법＇ 국회 본회의 통과…세제·인프라 등 전방위 지원 담아
+https://www.etnews.com/20260129000383
+
 ◾ AI기본법 시행에 스타트업 혼선…워터마크 부담·제조 AI 사각지대 논란
 https://www.etnews.com/20260129000313
 
 ◾ UST·경북대 연합팀, 첫 ＇AI 신뢰성＇ 해커톤 우승
 https://www.etnews.com/20260129000310
 
+◾ 자율주행 버스 시속 80㎞로 대전~세종 달린다...ETRI와 지역 기업 협력 성과
+https://www.etnews.com/20260129000165
+
 ◾ 李대통령 “AI 전환 피할 수 없어…입법 속도 늦어 답답”
 https://www.etnews.com/20260129000347
-
-◾ 마음AI, 코레일 직원용 AI 지식검색시스템 구축
-https://www.etnews.com/20260129000276
 
 ◾ [에듀플러스]KERIS, ＇대구 이전 공공기관 AI 혁신 포럼＇ 개최
 https://www.etnews.com/20260129000245
@@ -133,8 +148,11 @@ https://www.etnews.com/20260129000183
 ◾ 포항시, 경북 시군 최초 생성형 AI 챗봇 ＇포항봇＇ 2월 정식 운영
 https://www.etnews.com/20260129000158
 
-◾ [산업계관점 대학교육 혁신]⑦전남대 소프트웨어교육원, 늘봄·디지털새싹·RISE 사업 연계로 ＇전 생애주기 AI 교육 생태계＇ 구현
-https://www.etnews.com/20260129000138
+◾ AI·이차전지·식품안전까지…＇미래 시험인증＇ 선제 구축
+https://www.etnews.com/20260128000488
+
+◾ 식약처, 지난해 혁신의료기기 45개 지정…AI 활용 제품 두드러져
+https://www.etnews.com/20260129000101
 
 ◾ 공공기관 AI 협의체 가동…데이터 공유 및 공동사업 추진
 https://www.etnews.com/20260129000098
