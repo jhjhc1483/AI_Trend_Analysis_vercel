@@ -12,7 +12,7 @@
   {
     "title": "국방 AX 가속화를 위해 민·관·군 전방위적 협력 본격화",
     "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=232",
-    "category": "국방"
+    "category": "기관"
   },
   {
     "title": "국방통합데이터센터 진로체험 교육 우수성 인정",
@@ -100,11 +100,6 @@
     "category": "기관"
   },
   {
-    "title": "카스퍼스키, AI기반 위협 탐지 기능 강화 ‘카스퍼스키 SIEM’...강력한 데이터 무결성 기능 추가",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38402",
-    "category": "민간"
-  },
-  {
     "title": "오세훈 시장, ＇서울, 피지컬 AI 선도도시＇ 비전 선포…도시가 기술 실증의 무대 된다",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38400",
     "category": "기관"
@@ -125,11 +120,6 @@
     "category": "기관"
   },
   {
-    "title": "[국방과학연구소] ‘한국형전투기의 눈’ AESA 레이다, 공대지·공대해 모드 성능 검증 착수",
-    "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58102&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
-    "category": "국방"
-  },
-  {
     "title": "광주시-국토부, ＇AI 모빌리티 국가시범도시＇ 본격 추진",
     "link": "https://www.etnews.com/20260130000349",
     "category": "기관"
@@ -145,6 +135,11 @@
     "category": "기관"
   },
   {
+    "title": "[에듀플러스]대구가톨릭대, ＇AI·DX 전문가 교육 프로그램＇, “실무중심 커리큘럼으로 취업 경쟁력 높여”",
+    "link": "https://www.etnews.com/20260130000233",
+    "category": "기관"
+  },
+  {
     "title": "R&D 예타 폐지 법안 국회 통과에 각계 반색...“기술혁신 역량 높이는 전환점”",
     "link": "https://www.etnews.com/20260130000226",
     "category": "기관"
@@ -155,13 +150,18 @@
     "category": "국방"
   },
   {
-    "title": "다나와 “AI 열풍에 HDD 가격 두달새 2배 ↑”",
-    "link": "https://www.etnews.com/20260130000156",
-    "category": "민간"
+    "title": "전주정보문화산업진흥원, AI·디지털 실무형 미래인재 양성 본격화",
+    "link": "https://www.etnews.com/20260130000164",
+    "category": "기관"
   },
   {
-    "title": "피지컬AI·로보틱스·모빌리티 총망라…＇CES 2026 리뷰 & 인사이트 콘서트＇ 개최",
-    "link": "https://www.etnews.com/20260130000100",
-    "category": "민간"
+    "title": "국립보건연, AI 활용 코로나19 백신 차세대 설계 기술 개발",
+    "link": "https://www.etnews.com/20260130000134",
+    "category": "기관"
+  },
+  {
+    "title": "한국산림복지진흥원, 녹색자금 사회적 가치 12조3000억 달성…AI 분석 3073억 신규 발굴",
+    "link": "https://www.etnews.com/20260130000066",
+    "category": "기관"
   }
 ]
