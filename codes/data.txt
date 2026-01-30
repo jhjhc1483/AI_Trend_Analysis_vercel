@@ -5,9 +5,6 @@
 ◾ 국방 인공지능 전환(AX) 가속화를 위해민·관·군 전방위적 협력 본격화
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186829&searchOpt=ALL&searchTxt=
 
-◾ 국방 AX 가속화를 위해 민·관·군 전방위적 협력 본격화
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=232
-
 ◾ 국방통합데이터센터 진로체험 교육 우수성 인정
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47478&startDate=&endDate=&id=mnd_020101000000
 
@@ -22,9 +19,6 @@ https://www.aitimes.com/news/articleView.html?idxno=206163
 
 ◾ 러시아, AI 기반 자동 조준 포탑 제어장치 시험 성공... ＇드론 자동 식별·요격＇, 반자율·완전자율 모드 지원
 https://www.aitimes.kr/news/articleView.html?idxno=38409
-
-◾ [국방과학연구소] ‘한국형전투기의 눈’ AESA 레이다, 공대지·공대해 모드 성능 검증 착수
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58102&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
 ◾ 국가AI전략위-과기정통부-국방부, ＇국방 AX＇ 정례협의체 가동
 https://www.etnews.com/20260130000191
@@ -60,18 +54,12 @@ https://www.aitimes.com/news/articleView.html?idxno=206136
 ◾ 구글, 월드 모델 ＇지니＇ 일반 사용자에 공개...〃가상 세계 생성 가능〃
 https://www.aitimes.com/news/articleView.html?idxno=206135
 
-◾ 카스퍼스키, AI기반 위협 탐지 기능 강화 ‘카스퍼스키 SIEM’...강력한 데이터 무결성 기능 추가
-https://www.aitimes.kr/news/articleView.html?idxno=38402
-
-◾ 다나와 “AI 열풍에 HDD 가격 두달새 2배 ↑”
-https://www.etnews.com/20260130000156
-
-◾ 피지컬AI·로보틱스·모빌리티 총망라…＇CES 2026 리뷰 & 인사이트 콘서트＇ 개최
-https://www.etnews.com/20260130000100
-
 [기관]
 ◾ [국가인공지능전략위원회] 국방 AX 가속화를 위해민·관·군 전방위적 협력 본격화
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186825&searchOpt=ALL&searchTxt=
+
+◾ 국방 AX 가속화를 위해 민·관·군 전방위적 협력 본격화
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=232
 
 ◾ KAIST, AI 칩 최적 조합 찾는 LLM 인프라 개발...“GPU 의존도 완화 기대”
 https://www.aitimes.com/news/articleView.html?idxno=206157
@@ -100,8 +88,20 @@ https://www.etnews.com/20260130000332
 ◾ 경남 SW 미래채움사업 연차평가 ＇매우 우수＇…AX 선도 인재 양성 탄력
 https://www.etnews.com/20260130000310
 
+◾ [에듀플러스]대구가톨릭대, ＇AI·DX 전문가 교육 프로그램＇, “실무중심 커리큘럼으로 취업 경쟁력 높여”
+https://www.etnews.com/20260130000233
+
 ◾ R&D 예타 폐지 법안 국회 통과에 각계 반색...“기술혁신 역량 높이는 전환점”
 https://www.etnews.com/20260130000226
+
+◾ 전주정보문화산업진흥원, AI·디지털 실무형 미래인재 양성 본격화
+https://www.etnews.com/20260130000164
+
+◾ 국립보건연, AI 활용 코로나19 백신 차세대 설계 기술 개발
+https://www.etnews.com/20260130000134
+
+◾ 한국산림복지진흥원, 녹색자금 사회적 가치 12조3000억 달성…AI 분석 3073억 신규 발굴
+https://www.etnews.com/20260130000066
 
 📚 간행물
 ◾ [디지털서비스 이슈리포트2026-1] 피지컬 AI를 위한 플랫폼 현황 (파트1)
