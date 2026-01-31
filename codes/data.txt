@@ -1,114 +1,37 @@
-📢2026-01-31 AI 일일 동향 보고📢
+📢2026-02-01 AI 일일 동향 보고📢
 
 📰 오늘의 기사
-[국방]
-◾ 국방 인공지능 전환(AX) 가속화를 위해민·관·군 전방위적 협력 본격화
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186829&searchOpt=ALL&searchTxt=
-
-◾ 국방통합데이터센터 진로체험 교육 우수성 인정
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47478&startDate=&endDate=&id=mnd_020101000000
-
-◾ 안전하고 윤리적인 AI 활용 교수법 공유
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47488&startDate=&endDate=&id=mnd_020101000000
-
-◾ 앤트로픽, ＇군사 AI＇ 활용법으로 미 국방부와 갈등...〃살상·감시용 안 돼〃
-https://www.aitimes.com/news/articleView.html?idxno=206149
-
-◾ “국방 공개 데이터, 국가대표AI 개발팀에 제공”…정부, 국방AX 가속화
-https://www.aitimes.com/news/articleView.html?idxno=206163
-
-◾ 러시아, AI 기반 자동 조준 포탑 제어장치 시험 성공... ＇드론 자동 식별·요격＇, 반자율·완전자율 모드 지원
-https://www.aitimes.kr/news/articleView.html?idxno=38409
-
-◾ 국가AI전략위-과기정통부-국방부, ＇국방 AX＇ 정례협의체 가동
-https://www.etnews.com/20260130000191
-
 [민간]
-◾ 미국 의원 〃오픈AI, 위기 시 정부 지원 요청하지 않겠다고 약속해야〃
-https://www.aitimes.com/news/articleView.html?idxno=206145
+◾ 구글 엔지니어, 중국 기업에 AI 기술 빼돌린 혐의로 유죄 판결
+https://www.aitimes.com/news/articleView.html?idxno=206196
 
-◾ 오픈AI, 안구 검사로 봇 가려내는 ＇인간 전용＇ 소셜 미디어 구축 중
-https://www.aitimes.com/news/articleView.html?idxno=206146
+◾ 구글 ‘프로젝트 지니’ 공개에 게임주 무더기 급락...〃제작 방식 뒤흔들 수도〃
+https://www.aitimes.com/news/articleView.html?idxno=206198
 
-◾ 앤트로픽, 음반사들로부터 ＇가사 불법 복제＇ 혐의로 4조 소송
-https://www.aitimes.com/news/articleView.html?idxno=206151
+◾ 클로드봇, ＇오픈클로＇로 이름 최종 확정..알리바바·래빗도 돌풍 합류
+https://www.aitimes.com/news/articleView.html?idxno=206199
 
-◾ AI 전력 수요 폭증, 데이터센터 역할이 달라진다
-https://www.aitimes.com/news/articleView.html?idxno=206173
+◾ ＇머스크 주식회사＇ 출범하나...스페이스X, xAI 이어 테슬라와 통합 논의
+https://www.aitimes.com/news/articleView.html?idxno=206195
 
-◾ AI 데이터센터가 앞당긴 가스 의존의 딜레마
-https://www.aitimes.com/news/articleView.html?idxno=206174
+◾ 〃오픈AI, 앤트로픽보다 상장 늦으면 불리...4분기 IPO 논의 중〃
+https://www.aitimes.com/news/articleView.html?idxno=206190
 
-◾ AI 데이터센터 전력, 탈탄소 전략에 경고
-https://www.aitimes.com/news/articleView.html?idxno=206176
+◾ 〃제미나이가 문자 무단 발송〃...이유는 ＇긍정 편향＇·에이전트 구조
+https://www.aitimes.com/news/articleView.html?idxno=206185
 
-◾ 구글, 이동 중 음성으로 지도와 대화하는 ＇제미나이 내비게이션＇ 업데이트
-https://www.aitimes.com/news/articleView.html?idxno=206144
+◾ [1월30일] 카르파티 〃지난해 12월 바이브 코딩 임계점 넘어...직접 코드 작성 20%로 줄어〃
+https://www.aitimes.com/news/articleView.html?idxno=206154
 
-◾ 미 국회의원 〃엔비디아가 딥시크-R1 최적화 도와〃
-https://www.aitimes.com/news/articleView.html?idxno=206142
+◾ 머스크, 스페이스X IPO 앞두고 xAI와 합병 진행 중
+https://www.aitimes.com/news/articleView.html?idxno=206140
 
-◾ 엔비디아·MS·아마존, 오픈AI에 최대 86조 투자 논의 중
-https://www.aitimes.com/news/articleView.html?idxno=206136
-
-◾ 구글, 월드 모델 ＇지니＇ 일반 사용자에 공개...〃가상 세계 생성 가능〃
-https://www.aitimes.com/news/articleView.html?idxno=206135
+◾ NC AI, 신동훈 전 KT CAIO 영입…“LLM·버티컬 주도”
+https://www.etnews.com/20260130000355
 
 [기관]
-◾ [국가인공지능전략위원회] 국방 AX 가속화를 위해민·관·군 전방위적 협력 본격화
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186825&searchOpt=ALL&searchTxt=
-
-◾ 국방 AX 가속화를 위해 민·관·군 전방위적 협력 본격화
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=232
-
-◾ KAIST, AI 칩 최적 조합 찾는 LLM 인프라 개발...“GPU 의존도 완화 기대”
-https://www.aitimes.com/news/articleView.html?idxno=206157
-
-◾ 해경, ‘인공지능 미래기술정보융합단(TF)’ 출범...미래기술 컨트롤타워 구축
-https://www.aitimes.kr/news/articleView.html?idxno=38406
-
-◾ 오세훈 시장, ＇서울, 피지컬 AI 선도도시＇ 비전 선포…도시가 기술 실증의 무대 된다
-https://www.aitimes.kr/news/articleView.html?idxno=38400
-
-◾ 바이브컴퍼니, NIA 초거대 AI 실증 사업 전 과제 ‘우수’ 평가...공공기관 맞춤형 AI 에이전트 실증 성공
-https://www.aitimes.kr/news/articleView.html?idxno=38397
-
-◾ KAIST, GPU 덜쓰고 챗GPT 쓴다..카카오 AI 육성 프로젝트 대상 수상
-https://www.aitimes.kr/news/articleView.html?idxno=38393
-
-◾ 〃데이터 행정 넘어 AI 행정으로〃… ＇공공 AI 법＇ 국회 본회의 통과, AI 민주정부 속도낸다
-https://www.aitimes.kr/news/articleView.html?idxno=38391
-
-◾ 광주시-국토부, ＇AI 모빌리티 국가시범도시＇ 본격 추진
-https://www.etnews.com/20260130000349
-
-◾ 李대통령, 또 ＇아틀라스＇ 언급…“좋은 아이디어로 시작부터 정부와 함께 창업”
-https://www.etnews.com/20260130000332
-
-◾ 경남 SW 미래채움사업 연차평가 ＇매우 우수＇…AX 선도 인재 양성 탄력
-https://www.etnews.com/20260130000310
-
-◾ [에듀플러스]대구가톨릭대, ＇AI·DX 전문가 교육 프로그램＇, “실무중심 커리큘럼으로 취업 경쟁력 높여”
-https://www.etnews.com/20260130000233
-
-◾ R&D 예타 폐지 법안 국회 통과에 각계 반색...“기술혁신 역량 높이는 전환점”
-https://www.etnews.com/20260130000226
-
-◾ 전주정보문화산업진흥원, AI·디지털 실무형 미래인재 양성 본격화
-https://www.etnews.com/20260130000164
-
-◾ 국립보건연, AI 활용 코로나19 백신 차세대 설계 기술 개발
-https://www.etnews.com/20260130000134
-
-◾ 한국산림복지진흥원, 녹색자금 사회적 가치 12조3000억 달성…AI 분석 3073억 신규 발굴
-https://www.etnews.com/20260130000066
-
-📚 간행물
-◾ [디지털서비스 이슈리포트2026-1] 피지컬 AI를 위한 플랫폼 현황 (파트1)
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29009&parentSeq=29009
-
-◾ 에이젠틱AI, 피지컬AI, 사이버보안 [AI·ICT Brief 2026-04호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260130-000001&cpage=1&rows=10&searchTarget=all
+◾ [에듀플러스]아시아 5개국 AI 인재, 혁신 아이디어 격돌…＇AI+X 글로벌 창업경진대회＇ 개최
+https://www.etnews.com/20260131000010
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
