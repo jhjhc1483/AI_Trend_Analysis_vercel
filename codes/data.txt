@@ -20,8 +20,14 @@ https://www.etnews.com/20260201000089
 ◾ 독자 AI 모델 고도화 박차…국방 분야 활용 가능성 높인다
 https://kookbang.dema.mil.kr/newsWeb/20260202/10/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=70oYkTTihjf8_UkCe6o4rxpTA7OHscYykBHoiNHz4PfX9ajUCyys!925962759
 
+◾ 한미 공군 지휘부 “국방우주력 협력 확대에 공감”
+https://kookbang.dema.mil.kr/newsWeb/20260202/4/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=70oYkTTihjf8_UkCe6o4rxpTA7OHscYykBHoiNHz4PfX9ajUCyys!925962759
+
 ◾ 스페이스X, 우주 AI 데이터센터 건립 본격화
 https://kookbang.dema.mil.kr/newsWeb/20260202/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=70oYkTTihjf8_UkCe6o4rxpTA7OHscYykBHoiNHz4PfX9ajUCyys!925962759
+
+◾ 미·중 전략 경쟁 속 미국 국방전략 변화와 한국 안보의 과제
+https://kookbang.dema.mil.kr/newsWeb/20260202/1/ATCE_CTGR_0050140000/view.do;JSESSIONID_kookbnagWEB=70oYkTTihjf8_UkCe6o4rxpTA7OHscYykBHoiNHz4PfX9ajUCyys!925962759
 
 [민간]
 ◾ 미스트랄, 기업 내부 코드로 학습하는 온프레미스 코딩 도구 ＇바이브 2.0＇ 출시
@@ -33,6 +39,9 @@ https://www.aitimes.com/news/articleView.html?idxno=206207
 ◾ 설 연휴 ＇중국 AI 대전＇ 예고...바이트댄스·알리바바·딥시크 일제히 모델 출시
 https://www.aitimes.com/news/articleView.html?idxno=206203
 
+◾ 스페이스X, 우주 데이터센터 구축 위해 위성 100만기 발사 계획
+https://www.aitimes.com/news/articleView.html?idxno=206202
+
 ◾ 애플, ＇제미나이＇ 탑재 결정 후 시리 담당 임원·AI 연구원 등 5명 추가 이탈
 https://www.aitimes.com/news/articleView.html?idxno=206204
 
@@ -42,39 +51,33 @@ https://www.aitimes.com/news/articleView.html?idxno=206201
 ◾ 앤트로픽 “AI 쓰면 일은 빨라지지만 실력은 떨어질 수도”
 https://www.aitimes.com/news/articleView.html?idxno=206197
 
-◾ AI스페라 “AI 시대 보안 취약점 증가...자동화 솔루션으로 위험 경로 파악해야”
-https://www.aitimes.com/news/articleView.html?idxno=206177
-
 ◾ KB금융, ＇K-엔비디아＇ 육성 위해 1,600억원 규모의 모험자본 펀드 결성...생산적금융 대전환 본격화
 https://www.aitimes.kr/news/articleView.html?idxno=38419
 
-◾ AI 모델 예측 기술, 단백질 분석으로 난치 질환 원인 규명에 한 걸음
-https://www.aitimes.kr/news/articleView.html?idxno=38418
-
 ◾ 지난해 AI 투자 85% 늘어…60%는 美실리콘밸리 쏠림
 https://www.etnews.com/20260201000028
+
+◾ SWM, 국내 최초 엔비디아 ＇Thor＇ 탑재 로보택시 선보인다
+https://www.etnews.com/20260130000037
 
 [기관]
 ◾ 기업 혁신성장 지원을 위한 「기업부설연구소법」 시행
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186833&searchOpt=ALL&searchTxt=
 
+◾ 프랑스, 공무원의 미국산 화상회의 도구 사용 금지...〃기술 주권 강화〃
+https://www.aitimes.com/news/articleView.html?idxno=206205
+
 ◾ 인공지능의 모든 것 한눈에, 제9회 국제인공지능대전(AI EXPO KOREA 2025) 개최... ＇무료참관등록 오픈＇, “AI 기술과 산업의 현재와 미래를 그리다”
 https://www.aitimes.kr/news/articleView.html?idxno=38417
-
-◾ KIST, 난치 질환 원인 규명에 근접...AI 모델 예측 기반 기술 구현
-https://www.etnews.com/20260201000085
 
 ◾ KISTI ＇고니＇팀, ICLR에 논문 2편 채택...한국어 LLM 글로벌 경쟁력 입증
 https://www.etnews.com/20260201000084
 
+◾ K-의료AI, 韓-UAE 훈풍에 중동 수출 ＇전면전＇
+https://www.etnews.com/20260130000135
+
 ◾ [ET시론] 국가 AI 보안, 기준선부터 세워야 한다
 https://www.etnews.com/20260201000063
-
-◾ 국립대병원 10곳 HIS ＇하나로＇…정부, 클라우드 기반 차세대 추진
-https://www.etnews.com/20260130000245
-
-◾ “어르신, 집앞 로봇 배달 왔어요”…농업AX, 지역별 생활·행정 전환 실험 착수
-https://www.etnews.com/20260201000043
 
 ◾ [에듀플러스]<칼럼>AI 전환시대, K-R&D 도약 위한 3책5공제도의 유연성 확보
 https://www.etnews.com/20260130000036
