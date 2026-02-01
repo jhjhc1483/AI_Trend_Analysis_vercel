@@ -20,6 +20,16 @@
     "category": "민간"
   },
   {
+    "title": "프랑스, 공무원의 미국산 화상회의 도구 사용 금지...〃기술 주권 강화〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206205",
+    "category": "기관"
+  },
+  {
+    "title": "스페이스X, 우주 데이터센터 구축 위해 위성 100만기 발사 계획",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206202",
+    "category": "민간"
+  },
+  {
     "title": "애플, ＇제미나이＇ 탑재 결정 후 시리 담당 임원·AI 연구원 등 5명 추가 이탈",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=206204",
     "category": "민간"
@@ -35,18 +45,8 @@
     "category": "민간"
   },
   {
-    "title": "AI스페라 “AI 시대 보안 취약점 증가...자동화 솔루션으로 위험 경로 파악해야”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206177",
-    "category": "민간"
-  },
-  {
     "title": "KB금융, ＇K-엔비디아＇ 육성 위해 1,600억원 규모의 모험자본 펀드 결성...생산적금융 대전환 본격화",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38419",
-    "category": "민간"
-  },
-  {
-    "title": "AI 모델 예측 기술, 단백질 분석으로 난치 질환 원인 규명에 한 걸음",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38418",
     "category": "민간"
   },
   {
@@ -55,28 +55,18 @@
     "category": "기관"
   },
   {
-    "title": "KIST, 난치 질환 원인 규명에 근접...AI 모델 예측 기반 기술 구현",
-    "link": "https://www.etnews.com/20260201000085",
-    "category": "기관"
-  },
-  {
     "title": "KISTI ＇고니＇팀, ICLR에 논문 2편 채택...한국어 LLM 글로벌 경쟁력 입증",
     "link": "https://www.etnews.com/20260201000084",
     "category": "기관"
   },
   {
+    "title": "K-의료AI, 韓-UAE 훈풍에 중동 수출 ＇전면전＇",
+    "link": "https://www.etnews.com/20260130000135",
+    "category": "기관"
+  },
+  {
     "title": "[ET시론] 국가 AI 보안, 기준선부터 세워야 한다",
     "link": "https://www.etnews.com/20260201000063",
-    "category": "기관"
-  },
-  {
-    "title": "국립대병원 10곳 HIS ＇하나로＇…정부, 클라우드 기반 차세대 추진",
-    "link": "https://www.etnews.com/20260130000245",
-    "category": "기관"
-  },
-  {
-    "title": "“어르신, 집앞 로봇 배달 왔어요”…농업AX, 지역별 생활·행정 전환 실험 착수",
-    "link": "https://www.etnews.com/20260201000043",
     "category": "기관"
   },
   {
@@ -97,6 +87,11 @@
   {
     "title": "지난해 AI 투자 85% 늘어…60%는 美실리콘밸리 쏠림",
     "link": "https://www.etnews.com/20260201000028",
+    "category": "민간"
+  },
+  {
+    "title": "SWM, 국내 최초 엔비디아 ＇Thor＇ 탑재 로보택시 선보인다",
+    "link": "https://www.etnews.com/20260130000037",
     "category": "민간"
   },
   {
@@ -130,8 +125,18 @@
     "category": "국방"
   },
   {
+    "title": "한미 공군 지휘부 “국방우주력 협력 확대에 공감”",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260202/4/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=70oYkTTihjf8_UkCe6o4rxpTA7OHscYykBHoiNHz4PfX9ajUCyys!925962759",
+    "category": "국방"
+  },
+  {
     "title": "스페이스X, 우주 AI 데이터센터 건립 본격화",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260202/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=70oYkTTihjf8_UkCe6o4rxpTA7OHscYykBHoiNHz4PfX9ajUCyys!925962759",
+    "category": "국방"
+  },
+  {
+    "title": "미·중 전략 경쟁 속 미국 국방전략 변화와 한국 안보의 과제",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260202/1/ATCE_CTGR_0050140000/view.do;JSESSIONID_kookbnagWEB=70oYkTTihjf8_UkCe6o4rxpTA7OHscYykBHoiNHz4PfX9ajUCyys!925962759",
     "category": "국방"
   }
 ]
