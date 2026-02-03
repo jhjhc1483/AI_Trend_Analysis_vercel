@@ -2,6 +2,9 @@
 
 📰 오늘의 기사
 [국방]
+◾ ‘종이 대신 모바일로’…군 국고 수납 디지털화 완성
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47522&startDate=&endDate=&id=mnd_020101000000
+
 ◾ 민·군 우수 시나리오 모아 ‘드론 공방전’ 개최한다
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47531&startDate=&endDate=&id=mnd_020101000000
 
@@ -31,44 +34,35 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 ◾ 오픈AI, 엔비디아 칩 ＇추론＇ 기능에 불만...〃1000억달러 투자에 영향 미쳐〃
 https://www.aitimes.com/news/articleView.html?idxno=206287
 
+◾ 〃엔비디아, 오픈AI 1000억달러 미만 투자설은 순환 거래 우려 때문〃
+https://www.aitimes.com/news/articleView.html?idxno=206301
+
 ◾ 테슬라, 휴머노이드 ＇옵티머스＇ 부품 대부분 중국산에 의존
 https://www.aitimes.com/news/articleView.html?idxno=206309
 
-◾ SGC에너지, 전북 군산에 300MW급 AI 데이터센터로 승부 건다
-https://www.aitimes.com/news/articleView.html?idxno=206334
-
-◾ WP 〃머스크, 그록 인기 위해 의도적으로 음란 콘텐츠 생성 조장〃
-https://www.aitimes.com/news/articleView.html?idxno=206299
-
-◾ 은행권, 금융광고 인공지능이 심사한다…＇AI 광고심의 시스템＇ 구축
-https://www.etnews.com/20260203000253
+◾ 중국서 몇초 만에 수온 50도 낮추는 방식 등장...〃데이터센터 냉각 문제 해결〃
+https://www.aitimes.com/news/articleView.html?idxno=206318
 
 ◾ 인텔-소프트뱅크 ＇HBM 능가＇ 차세대 메모리 공동 개발 추진
 https://www.etnews.com/20260203000339
 
+◾ 삼성전자, 차세대 AI 로봇청소기 11일 출시
+https://www.etnews.com/20260203000329
+
+◾ SKT, 새 CTO에 정석근 AI CIC장 임명
+https://www.etnews.com/20260203000326
+
 ◾ 조지 쿠리안 넷앱 CEO “AI 성패는 데이터 플랫폼에 달려”
 https://www.etnews.com/20260203000244
-
-◾ KSA, 한화비전에 AI 경영시스템 국제표준 인증
-https://www.etnews.com/20260203000229
 
 ◾ ＇HBM의 아버지＇ 김정호 교수, “2038년 HBF 시장이 HBM 넘을 것”
 https://www.etnews.com/20260203000211
 
-◾ 텔레픽스 항공우주 도메인 검색 모델, AI 성능 평가 2위
-https://www.etnews.com/20260203000130
-
-◾ 라이너, RAI 인스티튜트 ＇책임 있는 AI 운영＇ 획득
-https://www.etnews.com/20260203000124
+◾ [ET특징주] 스페이스X · xAI 합병에… 미래에셋증권 급등
+https://www.etnews.com/20260203000171
 
 ◾ 스노우플레이크, 오픈AI와 2억달러 규모 파트너십 체결
 https://www.etnews.com/20260203000122
-
-◾ LG AI연구원, 신소재·신약 개발 지원 AI 특허 등록
-https://www.etnews.com/20260203000116
-
-◾ 카카오 ＇LLM 오케스트레이션 평가 지표＇ 논문, 세계 AI 학회서 채택
-https://www.etnews.com/20260203000073
 
 ◾ 팔란티어, 4Q 매출 2.5조원…AI 수요 확대로 전년비 70% 증가
 https://www.etnews.com/20260203000018
@@ -80,6 +74,9 @@ https://www.etnews.com/20260203000006
 https://www.etnews.com/20260203000002
 
 [기관]
+◾ 구혁채 1차관, 양자 강국 도약의 초석 기초연구 현장 점검
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186840&searchOpt=ALL&searchTxt=
+
 ◾ ‘인공지능 기본법 지원 창구(지원 데스크)’, 시행 첫 10일간 172건 상담 접수, 창업 초기기업(스타트업) 중점 지원
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186842&searchOpt=ALL&searchTxt=
 
@@ -104,8 +101,14 @@ https://www.etnews.com/20260203000328
 ◾ 경남도, 산업에서 행정까지 새 판 짠다…＇AI 대전환＇ 4대 전략 선포
 https://www.etnews.com/20260203000066
 
+◾ 시흥산업진흥원, 서울대와 제조기업 DX·AX 협력 강화 추진
+https://www.etnews.com/20260203000317
+
 ◾ KISA, 조직개편 단행…AI보안·랜섬웨어 대응 강화
 https://www.etnews.com/20260203000217
+
+◾ KTC, ＇M.AX 기업지원 선도기관＇ 도약 선언…28년 매출 2천억 달성한다
+https://www.etnews.com/20260203000207
 
 ◾ [에듀플러스]“AI로 취업한다”…대구가톨릭대, 지역 취준생 대상 AI·DX 실무 프로젝트 교육 진행
 https://www.etnews.com/20260203000097
@@ -122,15 +125,8 @@ https://www.etnews.com/20260203000138
 ◾ 춘천시, AI 행정 전면 도입…야간 민원부터 공무원 교육까지
 https://www.etnews.com/20260203000095
 
-◾ 케이웨더 ＇에어로봇＇, 서울시 재난 안전관리에 활용된다
-https://www.etnews.com/20260202000398
-
 ◾ 국립중앙도서관, AI 출판 환경 변화 대응... 납본제도 합리화 추진
 https://www.etnews.com/20260203000008
-
-[기타]
-◾ 도로 위 위험 경험…가상 환경서 실전능력 키워
-https://kookbang.dema.mil.kr/newsWeb/20260204/3/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=OJ4i5iKM6Uzv4fi7ugyZK9VOMVQfhSppK0_vXIpAh1a0nw-nKpxK!925962759
 
 📚 간행물
 ◾ [The LENS 2025-11] 트럼프 2기 행정부 출범 1년, 대한민국 AI·디지털의 미래를 묻다 – 전문가 종합 분석편
