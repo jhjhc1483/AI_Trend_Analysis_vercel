@@ -23,12 +23,6 @@ https://kookbang.dema.mil.kr/newsWeb/20260205/1/ATCE_CTGR_0010010000/view.do;JSE
 ◾ “AI 기반 병력절감형 첨단 강군 전환”
 https://kookbang.dema.mil.kr/newsWeb/20260205/11/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=GMEoD5MGQHwJOPW51YP4aESKUVX7nsRAWaihjbmiFsAVF2HZ73-7!925962759
 
-◾ 입영 신청부터 군 복지시설 예약까지 한곳서 다 됩니다
-https://kookbang.dema.mil.kr/newsWeb/20260205/12/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=GMEoD5MGQHwJOPW51YP4aESKUVX7nsRAWaihjbmiFsAVF2HZ73-7!925962759
-
-◾ ‘저궤도위성통신산업’ 위한 민·관·군 소통 창구 가동
-https://kookbang.dema.mil.kr/newsWeb/20260205/2/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=GMEoD5MGQHwJOPW51YP4aESKUVX7nsRAWaihjbmiFsAVF2HZ73-7!925962759
-
 ◾ “10톤 줄여라”…무인 포탑 기술로 생존성·경량화 확보
 https://kookbang.dema.mil.kr/newsWeb/20260205/1/ATCE_CTGR_0020010001/view.do;JSESSIONID_kookbnagWEB=GMEoD5MGQHwJOPW51YP4aESKUVX7nsRAWaihjbmiFsAVF2HZ73-7!925962759
 
@@ -42,11 +36,17 @@ https://www.aitimes.com/news/articleView.html?idxno=206321
 ◾ 오픈AI 퇴사한 수석 연구원, ＇지속 학습＇ 모델 스타트업 설립...〃오픈AI는 LLM 경쟁에 집중〃
 https://www.aitimes.com/news/articleView.html?idxno=206379
 
+◾ 알리바바, 80B 로컬 코딩 에이전트 모델 ‘큐원3-코더-넥스트’ 출시
+https://www.aitimes.com/news/articleView.html?idxno=206380
+
 ◾ MS, 에이전트 문맥 강화로 코딩 벤치마크 신기록 달성한 ‘RPG-인코더’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=206391
 
-◾ 카카오 ＇에이전틱 AI 벤치마크＇ 공개...국대 AI, 글로벌 모델에 크게 뒤져
-https://www.aitimes.com/news/articleView.html?idxno=206387
+◾ MS, ＇오픈클로＇ 집중 테스트 후 보안 경고...〃신뢰할 수 있는 제품 아니야〃
+https://www.aitimes.com/news/articleView.html?idxno=206396
+
+◾ 제논, 행동하는 AI 에이전트 ‘훈민 VLM 235B’ 오픈소스 공개
+https://www.aitimes.com/news/articleView.html?idxno=206385
 
 ◾ 애플, 코딩 도구 ＇X코드＇에 앤트로픽·오픈AI 코딩 에이전트 탑재
 https://www.aitimes.com/news/articleView.html?idxno=206367
@@ -54,26 +54,11 @@ https://www.aitimes.com/news/articleView.html?idxno=206367
 ◾ 인텔 CEO 〃데이터센터용 GPU 생산할 것...퀄컴 칩 설계자도 영입〃
 https://www.aitimes.com/news/articleView.html?idxno=206358
 
-◾ 노타, ＇차세대 프레임 예측＇으로 피지컬 AI 실현 앞당긴다
-https://www.etnews.com/20260204000286
-
-◾ 노르마, ＇2026 제2회 글로벌 퀀텀AI 경진대회＇ 개최… “글로벌 해커톤으로 양자 인재 한자리에”
-https://www.etnews.com/20260204000177
-
 ◾ 中 휴머노이드·피지컬 AI 스타트업 대규모 투자 러시
 https://www.etnews.com/20260204000108
 
-◾ 英 정보보호 당국도 ＇그록＇ 이미지 생성 논란 조사
-https://www.etnews.com/20260204000007
-
 ◾ “만들기도 전에 막는다”…라바웨이브, 선제적 딥페이크 방어 특허 출원
 https://www.etnews.com/20260204000426
-
-◾ 전문가 8인이 말하는 AI 미래 전망
-https://kookbang.dema.mil.kr/newsWeb/20260205/4/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=GMEoD5MGQHwJOPW51YP4aESKUVX7nsRAWaihjbmiFsAVF2HZ73-7!925962759
-
-◾ 인공지능 시대 온톨로지의 역할
-https://kookbang.dema.mil.kr/newsWeb/20260205/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=GMEoD5MGQHwJOPW51YP4aESKUVX7nsRAWaihjbmiFsAVF2HZ73-7!925962759
 
 [기관]
 ◾ [국가인공지능전략위원회] 국가인공지능전략위 임문영 부위원장, UAE 'World Government Summit' 기조연설 AI는 제2의 문자, 독점 아닌 인류 공영의 도구 되어야
@@ -85,14 +70,17 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 민·관의 인공지능·디지털 혁신기업 특화 지원 프로그램 한 번에 만날 기회!
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186846&searchOpt=ALL&searchTxt=
 
+◾ LG AI대학원, ‘교육부 인가 학위 과정’ 3월 개학…”17명 입학시험 통과”
+https://www.aitimes.com/news/articleView.html?idxno=206393
+
 ◾ 유은혜 경기도교육감 후보, 교육부에 AI교육·지방자치 등 7대 과제 제시
 https://www.etnews.com/20260204000002
 
 ◾ [시큐리티 메가비전 2026]정보보호, ＇사후 대응→상시 관리＇ 전환…AI 시대 국가 전략으로
 https://www.etnews.com/20260204000421
 
-◾ [시큐리티 메가비전 2026] “AI 위협 가시화…정보보호 체계 실효성 강화 필요”
-https://www.etnews.com/20260204000311
+◾ 노원구, AI 열화상 드론과 지능형 통합 감시로 산불 방지
+https://www.etnews.com/20260204000385
 
 ◾ 과기정통부, 몰트북·봇마당 등 ＇AI 커뮤니티＇ 동향 주시
 https://www.etnews.com/20260204000283
@@ -130,12 +118,11 @@ https://www.etnews.com/20260204000046
 ◾ GIST, 에너지 저장 물질 발굴…AI 先예측·後실험 검증 성공
 https://www.etnews.com/20260204000024
 
-[기타]
-◾ 허원 경기도의원, AI 대형차 우회전 사각지대 감지장치 현장 점검
-https://www.etnews.com/20260204000004
+◾ 전문가 8인이 말하는 AI 미래 전망
+https://kookbang.dema.mil.kr/newsWeb/20260205/4/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=GMEoD5MGQHwJOPW51YP4aESKUVX7nsRAWaihjbmiFsAVF2HZ73-7!925962759
 
-◾ 노원구, AI 열화상 드론과 지능형 통합 감시로 산불 방지
-https://www.etnews.com/20260204000385
+◾ 인공지능 시대 온톨로지의 역할
+https://kookbang.dema.mil.kr/newsWeb/20260205/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=GMEoD5MGQHwJOPW51YP4aESKUVX7nsRAWaihjbmiFsAVF2HZ73-7!925962759
 
 📚 간행물
 ◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 1월 4주차)
