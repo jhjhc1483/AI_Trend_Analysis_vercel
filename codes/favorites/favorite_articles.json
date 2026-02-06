@@ -5,6 +5,11 @@
     "category": "기관"
   },
   {
+    "title": "정부, 영남권서 ‘해양·항공’ 중심 연구개발 혁신 논의 가속화",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186863&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
     "title": "AI 기본사회 세미나 개최",
     "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000010&num=240",
     "category": "기관"
@@ -20,9 +25,14 @@
     "category": "국방"
   },
   {
-    "title": "중국 정부도 ‘오픈클로’ 보안 위험 경고...〃금지는 아니야〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206484",
-    "category": "기관"
+    "title": "러·우 전쟁 교훈 삼아 미래 전투수행능력 발전 모색",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47602&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
+  },
+  {
+    "title": "한전KDN, ‘2026 스마트그리드 엑스포’ 참가로 전력망에 AI를 입히는 기술 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206476",
+    "category": "민간"
   },
   {
     "title": "우주 데이터센터에 진지한 머스크 〃36개월 내 AI 인프라 중심 이동할 것〃",
@@ -45,8 +55,8 @@
     "category": "국방"
   },
   {
-    "title": "국내 AI 기업, 대부분 ＇오픈클로＇ 사용 제한…〃기술 놀랍지만 통제 불가능〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206495",
+    "title": "모빌린트-스페이스린텍, ‘우주 산업 AI 반도체 적용 확대’ MOU",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206500",
     "category": "민간"
   },
   {
@@ -60,13 +70,13 @@
     "category": "민간"
   },
   {
-    "title": "한국인공지능협회, ＇산학 협력 중심 AI 생태계 확산 계획＇ 발표",
-    "link": "https://www.etnews.com/20260206000296",
+    "title": "한국특허기술진흥원, UAE ＇AI 기반 특허 평가 시스템＇ 수출",
+    "link": "https://www.etnews.com/20260206000300",
     "category": "기관"
   },
   {
-    "title": "정보통신법학회, 11일 과기정통부 2차관 초청 정책간담회 연다",
-    "link": "https://www.etnews.com/20260206000285",
+    "title": "한국인공지능협회, ＇산학 협력 중심 AI 생태계 확산 계획＇ 발표",
+    "link": "https://www.etnews.com/20260206000296",
     "category": "기관"
   },
   {
@@ -82,7 +92,7 @@
   {
     "title": "20대·저학력층이 가장 위험하다… AI 그럴듯한 거짓말에 무방비",
     "link": "https://www.etnews.com/20260206000206",
-    "category": "민간"
+    "category": "기관"
   },
   {
     "title": "[에듀플러스]조지메이슨대 한국캠퍼스, 대한민국육군협회·국방정보통신협회와 MOU 체결",
