@@ -1,91 +1,31 @@
-📢2026-02-07 AI 일일 동향 보고📢
+📢2026-02-08 AI 일일 동향 보고📢
 
 📰 오늘의 기사
-[국방]
-◾ “첨단 장비 활용해 미래 경계작전체계로 조속 전환을”
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47596&startDate=&endDate=&id=mnd_020101000000
-
-◾ 러·우 전쟁 교훈 삼아 미래 전투수행능력 발전 모색
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47602&startDate=&endDate=&id=mnd_020101000000
-
-◾ 미국·중국, 군사 분야 AI 활용 공동 선언에 불참
-https://www.aitimes.com/news/articleView.html?idxno=206494
-
-◾ 부산시-해군, 해양·국방 AX 협력
-https://www.etnews.com/20260206000124
-
-[육군]
-◾ [에듀플러스]조지메이슨대 한국캠퍼스, 대한민국육군협회·국방정보통신협회와 MOU 체결
-https://www.etnews.com/20260206000191
-
 [민간]
-◾ 한전KDN, ‘2026 스마트그리드 엑스포’ 참가로 전력망에 AI를 입히는 기술 공개
-https://www.aitimes.com/news/articleView.html?idxno=206476
+◾ 국내 AI 기업, ＇오픈클로＇ 사용 제한…〃기술 놀랍지만 통제 불가능〃
+https://www.aitimes.com/news/articleView.html?idxno=206495
 
-◾ 우주 데이터센터에 진지한 머스크 〃36개월 내 AI 인프라 중심 이동할 것〃
-https://www.aitimes.com/news/articleView.html?idxno=206483
+◾ [AI 이슈트렌드] 김선호 탈세·제미나이 오작동 등 연예·AI 이슈에 관심 집중
+https://www.aitimes.com/news/articleView.html?idxno=206542
 
-◾ 구글, 제미나이 3 플래시에 ‘에이전트 비전’ 기능 도입
-https://www.aitimes.com/news/articleView.html?idxno=206459
+◾ 빅테크, AI에 967조 투입 계획...젠슨 황 〃적절하고 지속 가능한 투자〃
+https://www.aitimes.com/news/articleView.html?idxno=206543
 
-◾ “H200 중국 수출 지연은 엔비디아 답변 미흡 때문”
-https://www.aitimes.com/news/articleView.html?idxno=206502
+◾ 크레임 〃통제 불가능한 AI, 전용 OS로 해결할 것”
+https://www.aitimes.com/news/articleView.html?idxno=206337
 
-◾ 모빌린트-스페이스린텍, ‘우주 산업 AI 반도체 적용 확대’ MOU
-https://www.aitimes.com/news/articleView.html?idxno=206500
+◾ [2월6일] 〃오픈AI는 피하고, 구글에 집중할 것〃...확 달라진 월가의 투자 공식
+https://www.aitimes.com/news/articleView.html?idxno=206485
 
-◾ 미스트랄, 로컬 기기서 실행되는 오픈소스 음성 모델 출시
-https://www.aitimes.com/news/articleView.html?idxno=206456
+◾ AI 영상 어디까지 왔나… 단편 영화 제작 수준
+https://www.aitimes.com/news/articleView.html?idxno=206506
 
-◾ 오픈AI, 기업용 AI 에이전트 구축 플랫폼 ＇프론티어＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=206479
-
-◾ 오픈AI, 에이전트형 코딩 모델 ＇GPT-5.3-코덱스＇ 출시
-https://www.etnews.com/20260206000233
-
-◾ 앤트로픽, AI 모델 ＇클로드 오퍼스 4.6＇ 공개
-https://www.etnews.com/20260206000004
-
-◾ 아마존, 올해 AI 인프라에 2000억달러 투자
-https://www.etnews.com/20260206000003
+◾ 로봇 약사 시대? 약국 속 일하는 로봇 등장
+https://www.etnews.com/20260206000242
 
 [기관]
-◾ 과기정통부, 정보 보호 공시 의무 대상 확대를 위한 「정보보호산업 법 시행령」 공청회 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186865&searchOpt=ALL&searchTxt=
-
-◾ 정부, 영남권서 ‘해양·항공’ 중심 연구개발 혁신 논의 가속화
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186863&searchOpt=ALL&searchTxt=
-
-◾ AI 기본사회 세미나 개최
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000010&num=240
-
-◾ 국가AI전략위원회-국가교육위원회, 인공지능 전환 시대 교육정책 협력 토론회(포럼)개최
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=239
-
-◾ 한국특허기술진흥원, UAE ＇AI 기반 특허 평가 시스템＇ 수출
-https://www.etnews.com/20260206000300
-
-◾ 한국인공지능협회, ＇산학 협력 중심 AI 생태계 확산 계획＇ 발표
-https://www.etnews.com/20260206000296
-
-◾ 20대·저학력층이 가장 위험하다… AI 그럴듯한 거짓말에 무방비
-https://www.etnews.com/20260206000206
-
-📚 간행물
-◾ AI 수익화, 레이저통신, EU DNA법, 영국 사이버보안 [AI·ICT Brief 2026-05호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260206-000001&cpage=1&rows=10&searchTarget=all
-
-◾ KISTI R&I Report: 인공지능·양자·반도체 전략생태계 현황과 혁신전략 분석
-https://www.kisti.re.kr/post/analysis-report/6899
-
-◾ KISTI R&I Report: 양자데이터 분석과 혁신전략모형설계
-https://www.kisti.re.kr/post/analysis-report/6898
-
-◾ KISTI R&I Report: AI 반도체 기술, 산업, 시장 분석
-https://www.kisti.re.kr/post/analysis-report/6897
-
-◾ 25년 사이버 위협 하반기 동향 및 26년 전망
-https://www.kisa.or.kr/20205/form?postSeq=1029&page=1
+◾ 전남대 AI융합대학, 인재·산업 연계 AI 생태계 시동
+https://www.etnews.com/20260206000021
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html

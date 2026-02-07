@@ -1,112 +1,42 @@
 [
   {
-    "title": "과기정통부, 정보 보호 공시 의무 대상 확대를 위한 「정보보호산업 법 시행령」 공청회 개최",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186865&searchOpt=ALL&searchTxt=",
+    "title": "국내 AI 기업, ＇오픈클로＇ 사용 제한…〃기술 놀랍지만 통제 불가능〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206495",
+    "category": "민간"
+  },
+  {
+    "title": "[AI 이슈트렌드] 김선호 탈세·제미나이 오작동 등 연예·AI 이슈에 관심 집중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206542",
+    "category": "민간"
+  },
+  {
+    "title": "빅테크, AI에 967조 투입 계획...젠슨 황 〃적절하고 지속 가능한 투자〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206543",
+    "category": "민간"
+  },
+  {
+    "title": "크레임 〃통제 불가능한 AI, 전용 OS로 해결할 것”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206337",
+    "category": "민간"
+  },
+  {
+    "title": "[2월6일] 〃오픈AI는 피하고, 구글에 집중할 것〃...확 달라진 월가의 투자 공식",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206485",
+    "category": "민간"
+  },
+  {
+    "title": "AI 영상 어디까지 왔나… 단편 영화 제작 수준",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206506",
+    "category": "민간"
+  },
+  {
+    "title": "전남대 AI융합대학, 인재·산업 연계 AI 생태계 시동",
+    "link": "https://www.etnews.com/20260206000021",
     "category": "기관"
   },
   {
-    "title": "정부, 영남권서 ‘해양·항공’ 중심 연구개발 혁신 논의 가속화",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186863&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "AI 기본사회 세미나 개최",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000010&num=240",
-    "category": "기관"
-  },
-  {
-    "title": "국가AI전략위원회-국가교육위원회, 인공지능 전환 시대 교육정책 협력 토론회(포럼)개최",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=239",
-    "category": "기관"
-  },
-  {
-    "title": "“첨단 장비 활용해 미래 경계작전체계로 조속 전환을”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47596&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "러·우 전쟁 교훈 삼아 미래 전투수행능력 발전 모색",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47602&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "한전KDN, ‘2026 스마트그리드 엑스포’ 참가로 전력망에 AI를 입히는 기술 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206476",
-    "category": "민간"
-  },
-  {
-    "title": "우주 데이터센터에 진지한 머스크 〃36개월 내 AI 인프라 중심 이동할 것〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206483",
-    "category": "민간"
-  },
-  {
-    "title": "구글, 제미나이 3 플래시에 ‘에이전트 비전’ 기능 도입",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206459",
-    "category": "민간"
-  },
-  {
-    "title": "“H200 중국 수출 지연은 엔비디아 답변 미흡 때문”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206502",
-    "category": "민간"
-  },
-  {
-    "title": "미국·중국, 군사 분야 AI 활용 공동 선언에 불참",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206494",
-    "category": "국방"
-  },
-  {
-    "title": "모빌린트-스페이스린텍, ‘우주 산업 AI 반도체 적용 확대’ MOU",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206500",
-    "category": "민간"
-  },
-  {
-    "title": "미스트랄, 로컬 기기서 실행되는 오픈소스 음성 모델 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206456",
-    "category": "민간"
-  },
-  {
-    "title": "오픈AI, 기업용 AI 에이전트 구축 플랫폼 ＇프론티어＇ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206479",
-    "category": "민간"
-  },
-  {
-    "title": "한국특허기술진흥원, UAE ＇AI 기반 특허 평가 시스템＇ 수출",
-    "link": "https://www.etnews.com/20260206000300",
-    "category": "기관"
-  },
-  {
-    "title": "한국인공지능협회, ＇산학 협력 중심 AI 생태계 확산 계획＇ 발표",
-    "link": "https://www.etnews.com/20260206000296",
-    "category": "기관"
-  },
-  {
-    "title": "오픈AI, 에이전트형 코딩 모델 ＇GPT-5.3-코덱스＇ 출시",
-    "link": "https://www.etnews.com/20260206000233",
-    "category": "민간"
-  },
-  {
-    "title": "부산시-해군, 해양·국방 AX 협력",
-    "link": "https://www.etnews.com/20260206000124",
-    "category": "국방"
-  },
-  {
-    "title": "20대·저학력층이 가장 위험하다… AI 그럴듯한 거짓말에 무방비",
-    "link": "https://www.etnews.com/20260206000206",
-    "category": "기관"
-  },
-  {
-    "title": "[에듀플러스]조지메이슨대 한국캠퍼스, 대한민국육군협회·국방정보통신협회와 MOU 체결",
-    "link": "https://www.etnews.com/20260206000191",
-    "category": "육군"
-  },
-  {
-    "title": "앤트로픽, AI 모델 ＇클로드 오퍼스 4.6＇ 공개",
-    "link": "https://www.etnews.com/20260206000004",
-    "category": "민간"
-  },
-  {
-    "title": "아마존, 올해 AI 인프라에 2000억달러 투자",
-    "link": "https://www.etnews.com/20260206000003",
+    "title": "로봇 약사 시대? 약국 속 일하는 로봇 등장",
+    "link": "https://www.etnews.com/20260206000242",
     "category": "민간"
   }
 ]
