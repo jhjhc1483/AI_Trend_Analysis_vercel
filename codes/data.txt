@@ -1,10 +1,6 @@
 📢2026-02-09 AI 일일 동향 보고📢
 
 📰 오늘의 기사
-[국방]
-◾ 살아있는 비둘기가 드론 된다…러시아 ＇생체 드론＇ 충격 실체
-https://www.etnews.com/20260207000016
-
 [민간]
 ◾ 구글, 논문 일러스트 생성 AI ‘페이퍼바나나’ 공개...〃환각 낮추고 미적 기준 올려〃
 https://www.aitimes.com/news/articleView.html?idxno=206553
@@ -24,14 +20,14 @@ https://www.aitimes.com/news/articleView.html?idxno=206550
 ◾ 오픈클로, ＇스킬＇ 검사 위해 바이러스토털과 제휴...〃10% 이상 악성〃
 https://www.aitimes.com/news/articleView.html?idxno=206554
 
+◾ 플랫폼, AI 워터마크 부착...고객 저작물 혼선 최소화
+https://www.etnews.com/20260206000193
+
 ◾ CEO ＇낙관＇·CISO ＇신중＇…AI 보안 평가 갈렸다
 https://www.etnews.com/20260206000082
 
 ◾ 네이버, 4년 만에 영업익 1.7배 확대…올해 AI·커머스·파이낸셜로 승부수
 https://www.etnews.com/20260206000172
-
-◾ LG전자, 중동서 AI 홈 신제품 발표회 개최…글로벌 사우스 공략 가속
-https://www.etnews.com/20260208000033
 
 ◾ 이용상 LPKF 코리아 대표 “AI 반도체 폭발적 성장 힘입어 유리기판 본격 시장 진입”
 https://www.etnews.com/20260206000063
@@ -57,6 +53,9 @@ https://www.etnews.com/20260208000074
 
 ◾ 국가AI전략위, 소버린 AI 등 ＇한-UAE AI·디지털 협력＇ 구체화
 https://www.etnews.com/20260208000057
+
+◾ 과기정통부, 경남 제조 역량 기반 ＇피지컬 AI＇ 상용화 시동
+https://www.etnews.com/20260208000058
 
 ◾ 세오로보틱스 AI 소방 순찰로봇 ＇ARVO X3＇, ＇2026년 1차 혁신제품 시범사용＇ 선정
 https://www.etnews.com/20260206000008
