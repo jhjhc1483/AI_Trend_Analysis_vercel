@@ -798,5 +798,37 @@
         "년": "2026",
         "월": "02",
         "일": "06"
+    },
+    {
+        "제목": "2024년 신산업 산업기술인력 수요전망(시스템분야 5개 신산업)",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260210-000003&cpage=1&rows=10&searchTarget=all",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2024년 신산업 산업기술인력 수요전망(시스템분야 5개 신산업)",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260210-000002&cpage=1&rows=10&searchTarget=all",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "2025년 산업기술인력 수급실태조사 결과",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260210-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2025",
+        "월": "12",
+        "일": "31"
+    },
+    {
+        "제목": "피지컬 AI와 AI 기술 동향 [주간기술동향 2204호]",
+        "분류": "주간기술동향",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1389&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "02",
+        "일": "10"
     }
 ]
