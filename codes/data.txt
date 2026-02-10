@@ -2,23 +2,11 @@
 
 📰 오늘의 기사
 [국방]
-◾ 기술·신뢰 양 날개 K방산 날아오르다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47649&startDate=&endDate=&id=mnd_020101000000
-
 ◾ 신속한 무기체계 성능개선, 군의 체감 만족도 극대화!
 https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58155&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
-◾ 〃우주 방사선 속에서도 오류 96% 차단〃…위성 AI 칩의 비밀
-https://www.etnews.com/20260210000329
-
-◾ 美 CIA, 대중국 기술패권 대응…최신 반도체 조달 절차 대폭 단축
-https://www.etnews.com/20260210000214
-
 ◾ [정보통신 미래모임]K-방산, ＇첨단·상생·글로벌＇ 대전환…기술주권·공급망·수출 패키지 가동
 https://www.etnews.com/20260210000052
-
-◾ K무기 우수성 알리고 K방산 지평 넓혔다
-https://kookbang.dema.mil.kr/newsWeb/20260211/11/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FX9HBrq54J6ECA2hxCgzezVc-ZiN_T_m6sj5IuR2FZ6qvxlkgytc!925962759
 
 ◾ 우리 군 특성에 맞는 ‘국방 우주표준’ 개발한다
 https://kookbang.dema.mil.kr/newsWeb/20260211/2/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=FX9HBrq54J6ECA2hxCgzezVc-ZiN_T_m6sj5IuR2FZ6qvxlkgytc!925962759
@@ -45,20 +33,11 @@ https://www.aitimes.com/news/articleView.html?idxno=206676
 ◾ ＇챗GPT＇ 국내 1인당 이용 시간 1년 전 3배로 늘어...〃업무 활용 증가〃
 https://www.aitimes.com/news/articleView.html?idxno=206691
 
-◾ KT, AI·클라우드 수요 확대로 지난해 매출 증가
-https://www.aitimes.com/news/articleView.html?idxno=206690
-
-◾ 플리토, ‘아랍어 음성 데이터 수집’ 추진…”글로벌 빅테크 수요 증가”
-https://www.aitimes.com/news/articleView.html?idxno=206669
-
-◾ 디피니트, 통합 ‘AI 데이터 플랫폼’ 기술로 시드 투자 유치
-https://www.aitimes.com/news/articleView.html?idxno=206667
+◾ KAIST, 분자 에너지 구조 예측 AI 개발…“신약·신소재 개발에 도움”
+https://www.aitimes.com/news/articleView.html?idxno=206683
 
 ◾ 구글, AI 투자 위해 29조 채권 발행...주문 요청은 145조에 달해
 https://www.aitimes.com/news/articleView.html?idxno=206634
-
-◾ 챗GPT, 미국부터 광고 도입 시작...〃답변과 철저하게 분리〃
-https://www.aitimes.com/news/articleView.html?idxno=206630
 
 ◾ 셀렉트스타, MWC서 2년 연속 ‘글로벌 AI 레드팀 챌린지’ 개최
 https://www.aitimes.com/news/articleView.html?idxno=206636
@@ -66,83 +45,17 @@ https://www.aitimes.com/news/articleView.html?idxno=206636
 ◾ 알트먼 〃이번 주 새로운 모델 출시...＇코덱스＇ 반응은 폭발적〃
 https://www.aitimes.com/news/articleView.html?idxno=206624
 
-◾ 코난테크놀로지, 자체 LLM 탑재 ‘AI PC’ 베트남 등 8개국 수출
-https://www.aitimes.com/news/articleView.html?idxno=206632
-
-◾ 디플리, 효성전기에 산업용 AI 음향 분석 솔루션 ＇리슨AI’ 공급
-https://www.aitimes.com/news/articleView.html?idxno=206626
-
-◾ 구글, AI 전력 보급 위해 토탈에너지와 1GW 태양광 계약
-https://www.aitimes.com/news/articleView.html?idxno=206637
-
-◾ 〃MS, 앤트로픽 ＇코워크＇로 인해 ＇코파일럿＇ 무료로 서비스해야〃
-https://www.aitimes.com/news/articleView.html?idxno=206668
-
-◾ 오픈소스 음악 생성 모델 ＇에이스-스텝 1.5＇ 공개...〃수노와 맞먹는 성능〃
-https://www.aitimes.com/news/articleView.html?idxno=206671
-
 ◾ 엔비디아, 4.4만시간 인간 영상으로 학습한 로봇 월드 모델 ‘드림도조’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=206656
-
-◾ 엔비디아도 ＇바이브 코딩＇ 전격 도입...〃코드 수정 3배 증가〃
-https://www.aitimes.com/news/articleView.html?idxno=206655
 
 ◾ xAI, 아폴로와 AI 칩 투자 위해 5조 계약 체결 임박
 https://www.aitimes.com/news/articleView.html?idxno=206640
 
-◾ 앤트로픽, 수천억달러 투자로 10GW 데이터센터 확대 추진
-https://www.aitimes.com/news/articleView.html?idxno=206641
+◾ HBM 반도체 방열 소재 국산화 시동…엠티아이 ＇10W급 고성능 TIM＇ 양산 추진
+https://www.etnews.com/20260210000198
 
-◾ 오픈AI, 챗GPT 10%대 성장률 회복…코딩 특화 ＇코덱스＇ 효과
-https://www.etnews.com/20260210000001
-
-◾ 코난테크놀로지, 8개국에 온디바이스 AI PC 수출
-https://www.etnews.com/20260210000383
-
-◾ 디플리, 효성전기에 산업용 AI 음향 분석 솔루션 ＇리슨 AI＇ 공급
-https://www.etnews.com/20260210000381
-
-◾ [AI와 디지털전환] 봇들의 광장에서 들린 사람의 목소리
-https://www.etnews.com/20260210000120
-
-◾ AI 커머스가 가져올 3가지 변화상과 기업의 대응 전략
-https://www.etnews.com/20260210000320
-
-◾ 한국거래소, 창사 이후 첫 인수…AI 스타트업 ＇페어랩스＇ 품었다
-https://www.etnews.com/20260210000310
-
-◾ LG유플러스, 2028년 AI 기반 ＇자율 운영 네트워크＇ 전면 도입
-https://www.etnews.com/20260210000257
-
-◾ 美, 반도체 관세 추진 속 빅테크 면제 방안 검토
-https://www.etnews.com/20260210000206
-
-◾ “문서 생성에서 분석·결정까지” AI로 도약하는 유니닥스
-https://www.etnews.com/20260210000063
-
-◾ 중동에 힘 싣는 삼성 의료사업…＇AI 초음파＇로 시장 공략 가속
-https://www.etnews.com/20260210000105
-
-◾ 대한에이지테크협회, 액티브 시니어 대상 ＇K-시니어＇ AI 시스템 가동
-https://www.etnews.com/20260210000049
-
-◾ “AI로 창작 기회 모색”…CJ ENM, AI콘텐츠 얼라이언스 출범
-https://www.etnews.com/20260210000040
-
-◾ 솔레이웍스 “영상 기반 용접 품질 분석 솔루션으로 피지컬 AI 혁신 앞장”
-https://www.etnews.com/20260210000021
-
-◾ 총격으로 턱뼈 잃은 美 소녀, ＇AI · 3D 프린팅＇으로 미소 찾았다
-https://www.etnews.com/20260209000369
-
-◾ 엑스게이트, AI 기반 차세대 보안기술 특허 출원…지능형 차세대방화벽 시작점 제시
-https://www.etnews.com/20260210000014
-
-◾ 다우 사상 최고치 또 돌파…“MS·엔비디아 급반등에 기술주 공포 끝났나”
-https://www.etnews.com/20260210000006
-
-◾ MS, ＇AI 쇼크＇에 투자의견 하향 2개째…오라클은 상향
-https://www.etnews.com/20260210000002
+◾ 〃우주 방사선 속에서도 오류 96% 차단〃…위성 AI 칩의 비밀
+https://www.etnews.com/20260210000329
 
 ◾ 뇌에 이식된 칩으로 로봇 제어…＇글로벌 플래그십 의료기기 개발＇ 프로젝트 가동
 https://www.etnews.com/20260210000284
@@ -154,8 +67,14 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 국가 인공지능(AI) 전략위, 「대한민국 인공지능행동계획」 수립 추진 현황 국무회의 보고
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186875&searchOpt=ALL&searchTxt=
 
-◾ KAIST, 분자 에너지 구조 예측 AI 개발…“신약·신소재 개발에 도움”
-https://www.aitimes.com/news/articleView.html?idxno=206683
+◾ 과기정통부, ｢2026 한국형 국제 사업 (K-글로벌 프로젝트)｣ 착수... 인공지능·디지털 혁신기업 세계적 성장 이끈다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186869&searchOpt=ALL&searchTxt=
+
+◾ “1954년 라디오 중계에서 2026년 6세대 이동통신(6G), 인공지능(AI)까지” 국립중앙과학관, 말띠 해 월드컵으로 보는 세대공감 정보통신기술(ICT) 특별전 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186870&searchOpt=ALL&searchTxt=
+
+◾ 국가AI전략위, 「대한민국 인공지능행동계획」 수립 추진현황 국무회의 보고
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=261
 
 ◾ 과기부, 1441억 투입해 한국형 국제 사업 본격화… AI·디지털 스타트업 ＇전주기 지원＇
 https://www.aitimes.com/news/articleView.html?idxno=206625
@@ -178,11 +97,11 @@ https://www.etnews.com/20260210000272
 ◾ 오세훈 서울시장 “네거티브 규제로 ＇피지컬 AI＇ 실증 지원”
 https://www.etnews.com/20260210000236
 
-◾ 강릉시 고독사 위험가구에 AI 돌봄 도입
-https://www.etnews.com/20260210000050
-
 ◾ [뉴스줌인]기업·창작자 상생과 범국가 AI 대전환 등 ＇AI행동계획＇ 추진
 https://www.etnews.com/20260210000219
+
+◾ 美 CIA, 대중국 기술패권 대응…최신 반도체 조달 절차 대폭 단축
+https://www.etnews.com/20260210000214
 
 ◾ 기상청 ＇AI 재생에너지 기상정보 플랫폼＇ 가동…“바람·일사량 데이터 공개”
 https://www.etnews.com/20260210000185
@@ -192,6 +111,9 @@ https://www.etnews.com/20260210000170
 
 ◾ 행안부, 공공 AI 도입에 180억 투입…＇AI 민주정부＇ 구현
 https://www.etnews.com/20260210000065
+
+◾ 월드컵으로 보는 대한민국 ICT 연대기…중앙과학관 특별전 개최
+https://www.etnews.com/20260210000135
 
 ◾ 정부, 소부장 R&D 1.29조 투입…철강·석화 고부가 전환·AI로 ＇공급망 체질 개선＇
 https://www.etnews.com/20260209000427
@@ -204,9 +126,6 @@ https://www.etnews.com/20260210000110
 
 ◾ 코레일, 서울역서 AI 혼잡관리·자율주행 로봇 실증…철도 AX 가속
 https://www.etnews.com/20260210000081
-
-◾ KAIST, ＇화학 원리＇ 이해하는 AI 도출...신약·신소재 개발 속도↑
-https://www.etnews.com/20260210000034
 
 ◾ 한국에너지데이터-한국산업지능화협회, 12일 ＇AI데이터센터 에너지 전문가 과정＇ 교육
 https://www.etnews.com/20260209000389
