@@ -11,30 +11,45 @@ https://www.etnews.com/20260211000317
 ◾ 악기상 속에서도 적 드론 탐지 이상무
 https://kookbang.dema.mil.kr/newsWeb/20260212/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759
 
+◾ 적 미사일 공격 징후 포착…“생명·안전 사수하라”
+https://kookbang.dema.mil.kr/newsWeb/20260212/10/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759
+
 ◾ ‘무인기 위협 대응 고도화’ 머리 맞댄 첨단 정예 공군
 https://kookbang.dema.mil.kr/newsWeb/20260212/5/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759
 
 ◾ 인간과 AI의 공존, 변화 주도권 위한 나침반 제시
 https://kookbang.dema.mil.kr/newsWeb/20260212/5/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759
 
+◾ 6개 분과 전문가 54명…국가안보실 정책자문위 출범
+https://kookbang.dema.mil.kr/newsWeb/20260212/6/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759
+
 ◾ AI 시대, 질문하는 군대가 이긴다
 https://kookbang.dema.mil.kr/newsWeb/20260212/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759
-
-◾ AI, 치료를 돕는 손이 되다
-https://kookbang.dema.mil.kr/newsWeb/20260212/1/ATCE_CTGR_0050070000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759
 
 [민간]
 ◾ 오픈AI, 장기 실행 AI 에이전트 위해 ‘리스폰스 API’ 업그레이드
 https://www.aitimes.com/news/articleView.html?idxno=206747
 
+◾ 런웨이, 신규 투자 유치로 월드 모델 개발에 집중
+https://www.aitimes.com/news/articleView.html?idxno=206755
+
+◾ “클링AI, 한달 만에 국내 이용자 42만명 증가…챗GPT에 맞먹는 수준”
+https://www.aitimes.com/news/articleView.html?idxno=206761
+
 ◾ MS, AI 보안 보고서 발표…”사람-에이전트 협업 증가로 보안 필요성 확대”
 https://www.aitimes.com/news/articleView.html?idxno=206758
 
-◾ 유럽 출판사, ＇AI 검색＇ 기능 반독점 혐의로 구글 고발
-https://www.aitimes.com/news/articleView.html?idxno=206722
+◾ 다큐브, 예일대 주관 ‘AI 데이터 번역’ 평가서 전 트랙 1위
+https://www.aitimes.com/news/articleView.html?idxno=206750
+
+◾ AI스페라, IBM 큐레이더에 AI 보안 ‘크리미널 IP’ 연동…”글로벌 대응 지원”
+https://www.aitimes.com/news/articleView.html?idxno=206754
 
 ◾ 삼성, 26일 ‘갤럭시 언팩’ 생중계…AI 강화한 갤럭시S26 공개
 https://www.aitimes.com/news/articleView.html?idxno=206742
+
+◾ 한국딥러닝, ‘다각도 CCTV 데이터’ 구축…”사건 맥락 분석으로 시야 한계 극복”
+https://www.aitimes.com/news/articleView.html?idxno=206735
 
 ◾ 오픈AI 〃AI 하드웨어 출시 2027년으로 연기〃
 https://www.aitimes.com/news/articleView.html?idxno=206714
@@ -42,17 +57,41 @@ https://www.aitimes.com/news/articleView.html?idxno=206714
 ◾ 스탠포드·엔비디아, 문제에 맞춰 가중치 업데이트하는 강화 학습법 공개
 https://www.aitimes.com/news/articleView.html?idxno=206587
 
+◾ 알리바바·바이트댄스, 최신 이미지 모델 출시로 ＇나노 바나나＇ 추격
+https://www.aitimes.com/news/articleView.html?idxno=206712
+
 ◾ 알리바바, 오픈소스 로봇 모델 출시로 ＇피지컬 AI＇ 진출
 https://www.aitimes.com/news/articleView.html?idxno=206720
 
 ◾ 지푸, 차세대 LLM ‘GLM-5’ 깜짝 공개…‘포니 알파’라는 가명으로 등장
 https://www.aitimes.com/news/articleView.html?idxno=206738
 
+◾ 에임인텔리전스〃30분 만에 ＇클로드 오퍼스 3.6＇ 탈옥 성공〃
+https://www.aitimes.com/news/articleView.html?idxno=206764
+
 ◾ [세미콘 코리아 2026]AI 확산에 ＇맞춤형 메모리＇ 경쟁 본격화…테스트·패키징 장비 급성장
 https://www.etnews.com/20260211000168
 
+◾ [세미콘 코리아 2026]AI 시대 반도체 혁신 이끌 차세대 소재·부품·장비 기술 총출동
+https://www.etnews.com/20260211000299
+
+◾ 삼성전자, 차기 한국AI·로봇산업협회장 맡는다
+https://www.etnews.com/20260211000156
+
 ◾ 삼성·SK, 차세대 기술로 AI 병목 돌파…유기적 접근·협업 한목소리
 https://www.etnews.com/20260211000345
+
+◾ 이노그리드, 큐에이아이와 양자·AI 데이터센터 기반 구축 및 운영 사업 협력
+https://www.etnews.com/20260211000213
+
+◾ 시스코, ＇라이브 EMEA26＇서 AI 시대를 위한 혁신 기술 대거 공개
+https://www.etnews.com/20260211000200
+
+◾ NC AI, 삼성SDS·KAIST 등과 ＇K-피지컬 AI 얼라이언스＇ 가동
+https://www.etnews.com/20260211000093
+
+◾ KT, AI 기반 차세대 무선 송수신 기술 시연 성공
+https://www.etnews.com/20260211000051
 
 [기관]
 ◾ [국가인공지능전략위원회] AI수석ㆍ국가AI전략위, 시민사회와 함께 AI 정책 방향 모색
@@ -82,12 +121,6 @@ https://www.etnews.com/20260211000404
 ◾ AI시대 핵심 인프라 강조하지만…＇데이터센터 진흥＇ 법안 통과 전무
 https://www.etnews.com/20260211000343
 
-◾ [ET시론] 두 개의 심장으로 더 든든한 AI 디지털 대한민국
-https://www.etnews.com/20260211000115
-
-◾ [에듀플러스]한양여대, ＇AI 대전환과 RISE 전문대학 대응 전략＇ 국회세미나 주도적 참여
-https://www.etnews.com/20260211000360
-
 ◾ 국산 AI반도체 제조현장·공공부문 우선 탑재…M.AX로 수요-양산 잇는다
 https://www.etnews.com/20260211000159
 
@@ -103,6 +136,9 @@ https://www.etnews.com/20260211000230
 ◾ 교육부, 수능 영어 출제 개편…교사 비중 50% 확대·AI 지원 도입
 https://www.etnews.com/20260211000118
 
+◾ KAIST, AI 반도체 가공 새 길 열어...＇나노 사포＇ 개발로 품질↑
+https://www.etnews.com/20260211000177
+
 ◾ KIAT, ＇AI 내재화 시대＇ 2026년 10대 유망산업 발표
 https://www.etnews.com/20260211000173
 
@@ -114,6 +150,13 @@ https://www.etnews.com/20260211000041
 
 ◾ 대구수성알파시티에 477억 투입, 산업AX혁신허브 설립 착수…지역기업 AI전환 컨트롤타워 역할 수행
 https://www.etnews.com/20260211000022
+
+[기타]
+◾ 중장년층 위한 단계별 챗GPT 사용법
+https://kookbang.dema.mil.kr/newsWeb/20260212/1/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759
+
+◾ AI, 치료를 돕는 손이 되다
+https://kookbang.dema.mil.kr/newsWeb/20260212/1/ATCE_CTGR_0050070000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
