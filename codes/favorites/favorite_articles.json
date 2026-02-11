@@ -40,18 +40,38 @@
     "category": "민간"
   },
   {
+    "title": "런웨이, 신규 투자 유치로 월드 모델 개발에 집중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206755",
+    "category": "민간"
+  },
+  {
+    "title": "“클링AI, 한달 만에 국내 이용자 42만명 증가…챗GPT에 맞먹는 수준”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206761",
+    "category": "민간"
+  },
+  {
     "title": "MS, AI 보안 보고서 발표…”사람-에이전트 협업 증가로 보안 필요성 확대”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=206758",
     "category": "민간"
   },
   {
-    "title": "유럽 출판사, ＇AI 검색＇ 기능 반독점 혐의로 구글 고발",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206722",
+    "title": "다큐브, 예일대 주관 ‘AI 데이터 번역’ 평가서 전 트랙 1위",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206750",
+    "category": "민간"
+  },
+  {
+    "title": "AI스페라, IBM 큐레이더에 AI 보안 ‘크리미널 IP’ 연동…”글로벌 대응 지원”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206754",
     "category": "민간"
   },
   {
     "title": "삼성, 26일 ‘갤럭시 언팩’ 생중계…AI 강화한 갤럭시S26 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=206742",
+    "category": "민간"
+  },
+  {
+    "title": "한국딥러닝, ‘다각도 CCTV 데이터’ 구축…”사건 맥락 분석으로 시야 한계 극복”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206735",
     "category": "민간"
   },
   {
@@ -65,6 +85,11 @@
     "category": "민간"
   },
   {
+    "title": "알리바바·바이트댄스, 최신 이미지 모델 출시로 ＇나노 바나나＇ 추격",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206712",
+    "category": "민간"
+  },
+  {
     "title": "알리바바, 오픈소스 로봇 모델 출시로 ＇피지컬 AI＇ 진출",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=206720",
     "category": "민간"
@@ -75,8 +100,18 @@
     "category": "민간"
   },
   {
+    "title": "에임인텔리전스〃30분 만에 ＇클로드 오퍼스 3.6＇ 탈옥 성공〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206764",
+    "category": "민간"
+  },
+  {
     "title": "[세미콘 코리아 2026]AI 확산에 ＇맞춤형 메모리＇ 경쟁 본격화…테스트·패키징 장비 급성장",
     "link": "https://www.etnews.com/20260211000168",
+    "category": "민간"
+  },
+  {
+    "title": "[세미콘 코리아 2026]AI 시대 반도체 혁신 이끌 차세대 소재·부품·장비 기술 총출동",
+    "link": "https://www.etnews.com/20260211000299",
     "category": "민간"
   },
   {
@@ -95,14 +130,9 @@
     "category": "기관"
   },
   {
-    "title": "[ET시론] 두 개의 심장으로 더 든든한 AI 디지털 대한민국",
-    "link": "https://www.etnews.com/20260211000115",
-    "category": "기관"
-  },
-  {
-    "title": "[에듀플러스]한양여대, ＇AI 대전환과 RISE 전문대학 대응 전략＇ 국회세미나 주도적 참여",
-    "link": "https://www.etnews.com/20260211000360",
-    "category": "기관"
+    "title": "삼성전자, 차기 한국AI·로봇산업협회장 맡는다",
+    "link": "https://www.etnews.com/20260211000156",
+    "category": "민간"
   },
   {
     "title": "삼성·SK, 차세대 기술로 AI 병목 돌파…유기적 접근·협업 한목소리",
@@ -135,8 +165,23 @@
     "category": "기관"
   },
   {
+    "title": "이노그리드, 큐에이아이와 양자·AI 데이터센터 기반 구축 및 운영 사업 협력",
+    "link": "https://www.etnews.com/20260211000213",
+    "category": "민간"
+  },
+  {
+    "title": "시스코, ＇라이브 EMEA26＇서 AI 시대를 위한 혁신 기술 대거 공개",
+    "link": "https://www.etnews.com/20260211000200",
+    "category": "민간"
+  },
+  {
     "title": "교육부, 수능 영어 출제 개편…교사 비중 50% 확대·AI 지원 도입",
     "link": "https://www.etnews.com/20260211000118",
+    "category": "기관"
+  },
+  {
+    "title": "KAIST, AI 반도체 가공 새 길 열어...＇나노 사포＇ 개발로 품질↑",
+    "link": "https://www.etnews.com/20260211000177",
     "category": "기관"
   },
   {
@@ -145,9 +190,19 @@
     "category": "기관"
   },
   {
+    "title": "NC AI, 삼성SDS·KAIST 등과 ＇K-피지컬 AI 얼라이언스＇ 가동",
+    "link": "https://www.etnews.com/20260211000093",
+    "category": "민간"
+  },
+  {
     "title": "류제명 차관 “韓, AI 풀스택 갖춘 국가…소버린 AI 최적 파트너”",
     "link": "https://www.etnews.com/20260211000061",
     "category": "기관"
+  },
+  {
+    "title": "KT, AI 기반 차세대 무선 송수신 기술 시연 성공",
+    "link": "https://www.etnews.com/20260211000051",
+    "category": "민간"
   },
   {
     "title": "광주시, 100일간 ＇규제 제로＇ 발굴 추진…AI·모빌리티 등 전략산업 제도 개선 나서",
@@ -165,6 +220,11 @@
     "category": "국방"
   },
   {
+    "title": "적 미사일 공격 징후 포착…“생명·안전 사수하라”",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260212/10/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759",
+    "category": "국방"
+  },
+  {
     "title": "‘무인기 위협 대응 고도화’ 머리 맞댄 첨단 정예 공군",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260212/5/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759",
     "category": "국방"
@@ -175,6 +235,16 @@
     "category": "국방"
   },
   {
+    "title": "중장년층 위한 단계별 챗GPT 사용법",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260212/1/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759",
+    "category": "기타"
+  },
+  {
+    "title": "6개 분과 전문가 54명…국가안보실 정책자문위 출범",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260212/6/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759",
+    "category": "국방"
+  },
+  {
     "title": "AI 시대, 질문하는 군대가 이긴다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260212/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759",
     "category": "국방"
@@ -182,6 +252,6 @@
   {
     "title": "AI, 치료를 돕는 손이 되다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260212/1/ATCE_CTGR_0050070000/view.do;JSESSIONID_kookbnagWEB=0ZdMJekWu5ooXuMlPT77MVicsNMWxmuKk091btNMD6K5uyrHHyf3!925962759",
-    "category": "국방"
+    "category": "기타"
   }
 ]
