@@ -40,28 +40,8 @@
     "category": "민간"
   },
   {
-    "title": "[사설] 카카오 AI 확장, 기대 크다",
-    "link": "https://www.etnews.com/20260212000240",
-    "category": "민간"
-  },
-  {
     "title": "노타, 美 윈드리버와 AI 최적화 글로벌 사업 시동",
     "link": "https://www.etnews.com/20260212000358",
-    "category": "민간"
-  },
-  {
-    "title": "“데이터로 재배 설계”…스마트농업 AI 경진대회 성료",
-    "link": "https://www.etnews.com/20260212000337",
-    "category": "기타"
-  },
-  {
-    "title": "카카오페이 개발자 페스티벌 개최…인공지능 전환 나선다",
-    "link": "https://www.etnews.com/20260212000334",
-    "category": "민간"
-  },
-  {
-    "title": "하만, ＇로드 레디＇ 포트폴리오 강화…지능형 차량 경험의 새로운 기준 제시",
-    "link": "https://www.etnews.com/20260212000059",
     "category": "민간"
   },
   {
@@ -82,7 +62,12 @@
   {
     "title": "[에듀플러스]“AI 교육 늘린다더니”…에듀테크 쓰려면 학운위 통과? 학교·기업 ＇반발＇",
     "link": "https://www.etnews.com/20260212000168",
-    "category": "기타"
+    "category": "기관"
+  },
+  {
+    "title": "충남 천안에 ＇제2 프론트원＇ 들어선다…반도체 20조원 집중 투자",
+    "link": "https://www.etnews.com/20260212000026",
+    "category": "기관"
   },
   {
     "title": "과기정통부, 정보보호 신기술에 135억 투입…AI·제로트러스트 육성",
@@ -107,7 +92,7 @@
   {
     "title": "박승원 광명시장, 12일 신년 기자회견…AI 기반 스마트도시·혁신도시 구상 발표",
     "link": "https://www.etnews.com/20260212000203",
-    "category": "기타"
+    "category": "기관"
   },
   {
     "title": "과기정통부 “보이스피싱 피해 방지, AI 탐지·알림 서비스 이용하세요”",
@@ -152,7 +137,7 @@
   {
     "title": "＇통합＇ 광주·전남, AI·에너지 등 핵심 유치 공공기관 10곳 선정",
     "link": "https://www.etnews.com/20260211000521",
-    "category": "기타"
+    "category": "기관"
   },
   {
     "title": "우리은행, 금융권 최초 AI 내부통제·안전관리 시스템 구축…전 영업점 확대",
@@ -162,7 +147,7 @@
   {
     "title": "시흥시, ＇AI 도시＇ 꿈꾼다…산·학·연·관 한자리에 모여 미래 논의",
     "link": "https://www.etnews.com/20260212000019",
-    "category": "기타"
+    "category": "기관"
   },
   {
     "title": "미스트랄, 스웨덴 데이터센터에 2조 투자...연 매출은 1년 만에 20배로 증가",
@@ -202,7 +187,7 @@
   {
     "title": "과천과학관, 첨단 농업 기술 특별전 개최...〃AI 로봇이 수확하고 스스로 학습〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=206808",
-    "category": "기타"
+    "category": "기관"
   },
   {
     "title": "딥브레인AI, LG 인화원 클로벌 임직원 교육 현지화…”다국어 AI 더빙 지원”",
@@ -265,23 +250,8 @@
     "category": "국방"
   },
   {
-    "title": "국방 AAM 전력화 속도낸다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260213/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=eHZRSMt3TyHKmo0IZukOqE6zmjJ5MtnoyVU5HN2zHf4pPwqeky8_!821738159",
-    "category": "국방"
-  },
-  {
     "title": "해군·e스포츠 만남…디지털 작전환경 대응",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260213/5/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=eHZRSMt3TyHKmo0IZukOqE6zmjJ5MtnoyVU5HN2zHf4pPwqeky8_!821738159",
-    "category": "국방"
-  },
-  {
-    "title": "위급 상황서 더 빛나는…화생방·정보통신 고유 임무 전술역량 훈련",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260213/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=eHZRSMt3TyHKmo0IZukOqE6zmjJ5MtnoyVU5HN2zHf4pPwqeky8_!821738159",
-    "category": "국방"
-  },
-  {
-    "title": "필승해군의 출항지… 스마트인재 육성 항해는 계속된다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260213/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=eHZRSMt3TyHKmo0IZukOqE6zmjJ5MtnoyVU5HN2zHf4pPwqeky8_!821738159",
     "category": "국방"
   },
   {
@@ -312,6 +282,6 @@
   {
     "title": "과천과학관, 인공지능·물리적 인공지능(피지컬 AI) 활용 미래 농업 ‘농업그레이드’ 시연",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186891&searchOpt=ALL&searchTxt=",
-    "category": "기타"
+    "category": "기관"
   }
 ]
