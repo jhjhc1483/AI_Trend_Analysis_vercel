@@ -8,17 +8,8 @@ https://www.etnews.com/20260212000466
 ◾ ‘무인기 위협 대응 고도화’ 머리 맞댄 첨단 정예 공군
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47701&startDate=&endDate=&id=mnd_020101000000
 
-◾ 국방 AAM 전력화 속도낸다
-https://kookbang.dema.mil.kr/newsWeb/20260213/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=eHZRSMt3TyHKmo0IZukOqE6zmjJ5MtnoyVU5HN2zHf4pPwqeky8_!821738159
-
 ◾ 해군·e스포츠 만남…디지털 작전환경 대응
 https://kookbang.dema.mil.kr/newsWeb/20260213/5/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=eHZRSMt3TyHKmo0IZukOqE6zmjJ5MtnoyVU5HN2zHf4pPwqeky8_!821738159
-
-◾ 위급 상황서 더 빛나는…화생방·정보통신 고유 임무 전술역량 훈련
-https://kookbang.dema.mil.kr/newsWeb/20260213/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=eHZRSMt3TyHKmo0IZukOqE6zmjJ5MtnoyVU5HN2zHf4pPwqeky8_!821738159
-
-◾ 필승해군의 출항지… 스마트인재 육성 항해는 계속된다
-https://kookbang.dema.mil.kr/newsWeb/20260213/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=eHZRSMt3TyHKmo0IZukOqE6zmjJ5MtnoyVU5HN2zHf4pPwqeky8_!821738159
 
 ◾ 공군 2MCRC 업그레이드…공중위협 대응능력 강화
 https://kookbang.dema.mil.kr/newsWeb/20260213/6/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=eHZRSMt3TyHKmo0IZukOqE6zmjJ5MtnoyVU5HN2zHf4pPwqeky8_!821738159
@@ -36,17 +27,8 @@ https://www.etnews.com/20260212000383
 ◾ [최은수의 AI와 뉴비즈] 〈35〉음성 AI ＇말하는 기계＇를 넘어 비즈니스 판을 뒤집다
 https://www.etnews.com/20260212000038
 
-◾ [사설] 카카오 AI 확장, 기대 크다
-https://www.etnews.com/20260212000240
-
 ◾ 노타, 美 윈드리버와 AI 최적화 글로벌 사업 시동
 https://www.etnews.com/20260212000358
-
-◾ 카카오페이 개발자 페스티벌 개최…인공지능 전환 나선다
-https://www.etnews.com/20260212000334
-
-◾ 하만, ＇로드 레디＇ 포트폴리오 강화…지능형 차량 경험의 새로운 기준 제시
-https://www.etnews.com/20260212000059
 
 ◾ [뉴스줌인] 카카오, 구글과 깜짝 파트너십…＇에이전틱 커머스＇로 역대 최대 실적 도전
 https://www.etnews.com/20260212000306
@@ -124,6 +106,12 @@ https://www.etnews.com/20260212000374
 ◾ [전문가기고] AI 기본법 시대, K콘텐츠 미래는 ＇신뢰＇와 ＇기준＇에 달렸다
 https://www.etnews.com/20260212000084
 
+◾ [에듀플러스]“AI 교육 늘린다더니”…에듀테크 쓰려면 학운위 통과? 학교·기업 ＇반발＇
+https://www.etnews.com/20260212000168
+
+◾ 충남 천안에 ＇제2 프론트원＇ 들어선다…반도체 20조원 집중 투자
+https://www.etnews.com/20260212000026
+
 ◾ 과기정통부, 정보보호 신기술에 135억 투입…AI·제로트러스트 육성
 https://www.etnews.com/20260212000258
 
@@ -132,6 +120,9 @@ https://www.etnews.com/20260212000220
 
 ◾ [단독] 금융위, 시중은행 ＇생성형 AI＇ 도입 빗장푼다...＇망분리 규제＇ 전면 재검토
 https://www.etnews.com/20260212000082
+
+◾ 박승원 광명시장, 12일 신년 기자회견…AI 기반 스마트도시·혁신도시 구상 발표
+https://www.etnews.com/20260212000203
 
 ◾ 과기정통부 “보이스피싱 피해 방지, AI 탐지·알림 서비스 이용하세요”
 https://www.etnews.com/20260212000065
@@ -154,6 +145,15 @@ https://www.etnews.com/20260212000044
 ◾ 식약처, 의약품 AI 심사 시스템 개발 추진
 https://www.etnews.com/20260212000039
 
+◾ ＇통합＇ 광주·전남, AI·에너지 등 핵심 유치 공공기관 10곳 선정
+https://www.etnews.com/20260211000521
+
+◾ 시흥시, ＇AI 도시＇ 꿈꾼다…산·학·연·관 한자리에 모여 미래 논의
+https://www.etnews.com/20260212000019
+
+◾ 과천과학관, 첨단 농업 기술 특별전 개최...〃AI 로봇이 수확하고 스스로 학습〃
+https://www.aitimes.com/news/articleView.html?idxno=206808
+
 ◾ 모티프·트릴리온랩스, 국가대표 AI 경합에 추가 응모
 https://www.aitimes.com/news/articleView.html?idxno=206825
 
@@ -172,31 +172,8 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 과기정통부, 정보보호 거대 신생기업(유니콘) 본격 육성
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186894&searchOpt=ALL&searchTxt=
 
-[기타]
-◾ “데이터로 재배 설계”…스마트농업 AI 경진대회 성료
-https://www.etnews.com/20260212000337
-
-◾ [에듀플러스]“AI 교육 늘린다더니”…에듀테크 쓰려면 학운위 통과? 학교·기업 ＇반발＇
-https://www.etnews.com/20260212000168
-
-◾ 박승원 광명시장, 12일 신년 기자회견…AI 기반 스마트도시·혁신도시 구상 발표
-https://www.etnews.com/20260212000203
-
-◾ ＇통합＇ 광주·전남, AI·에너지 등 핵심 유치 공공기관 10곳 선정
-https://www.etnews.com/20260211000521
-
-◾ 시흥시, ＇AI 도시＇ 꿈꾼다…산·학·연·관 한자리에 모여 미래 논의
-https://www.etnews.com/20260212000019
-
-◾ 과천과학관, 첨단 농업 기술 특별전 개최...〃AI 로봇이 수확하고 스스로 학습〃
-https://www.aitimes.com/news/articleView.html?idxno=206808
-
 ◾ 과천과학관, 인공지능·물리적 인공지능(피지컬 AI) 활용 미래 농업 ‘농업그레이드’ 시연
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186891&searchOpt=ALL&searchTxt=
-
-📚 간행물
-◾ KOSBIR 성과 분석에 따른 중소기업 R&D 지원의 과제
-https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=365&cateCont=A0501&cbIdx=0&searchKey=
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
