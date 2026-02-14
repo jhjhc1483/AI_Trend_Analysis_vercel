@@ -1,108 +1,38 @@
-📢2026-02-14 AI 일일 동향 보고📢
+📢2026-02-15 AI 일일 동향 보고📢
 
 📰 오늘의 기사
 [국방]
-◾ 김병주, ＇SW 중심 무기체계＇ 도입 위한 방위사업법 개정안 발의
-https://www.etnews.com/20260213000114
+◾ 군사 작전에 AI 투입…“美, 베네수엘라 대통령 체포시”
+https://www.etnews.com/20260214000027
 
-◾ [기획] 낮에는 태양광, 밤에는 레이저 충전… 드론 ‘무한 비행’ 시대 열린다
-https://www.aitimes.com/news/articleView.html?idxno=206841
-
-◾ 필승해군의 출항지… 스마트인재 육성 항해는 계속된다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47716&startDate=&endDate=&id=mnd_020101000000
-
-◾ 위급 상황서 더 빛나는…화생방·정보통신 고유 임무 전술역량 훈련
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47717&startDate=&endDate=&id=mnd_020101000000
-
-◾ 해군·e스포츠 만남…디지털 작전환경 대응
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47718&startDate=&endDate=&id=mnd_020101000000
-
-◾ 공군 2MCRC 업그레이드…공중위협 대응능력 강화
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47721&startDate=&endDate=&id=mnd_020101000000
+◾ ＇AI 데이터 아키텍처 강자, 미래전 승자!＇…美軍 ＇OAR＇과 ROK ＇AI 대전환＇ 방향
+https://www.etnews.com/20260214000003
 
 [민간]
-◾ 카카오뱅크, 대화형 AI 300만 돌파…일평균 1만명 유입
-https://www.etnews.com/20260213000178
+◾ 오픈AI “중국 딥시크, 미국 AI 모델 결과물 무단 활용”
+https://www.etnews.com/20260214000004
 
-◾ 카카오, 미래 인재 육성 위한 ＇AI 루키 캠프＇ 1기 성료
-https://www.etnews.com/20260213000056
-
-◾ “일자리·산업 다 뺏긴다” 공포에 뉴욕증시 패닉 급락…나스닥 2%↓
-https://www.etnews.com/20260213000016
-
-◾ 앤트로픽, ＇클로드 코워크＇ 윈도우 버전 출시...SaaS 위기 부채질 하나
-https://www.aitimes.com/news/articleView.html?idxno=206771
-
-◾ 구글, 고급 수학·과학 연구 위한 제미나이 ＇딥 싱크＇ 업데이트
-https://www.aitimes.com/news/articleView.html?idxno=206847
-
-◾ 지푸의 GLM-5가 성능·비용을 모두 잡은 비결은 ＇슬라임＇과 ＇DSA＇
-https://www.aitimes.com/news/articleView.html?idxno=206872
-
-◾ 최태원 회장, 엔비디아·구글·메타·브로드컴까지…미국서 ‘AI 협력’ 논의
-https://www.aitimes.com/news/articleView.html?idxno=206875
-
-◾ 앤트로픽, 43조 투자 유치...오픈AI에 이어 역대 두번째 규모
-https://www.aitimes.com/news/articleView.html?idxno=206834
-
-◾ 오픈AI, ＇세레브라스 칩 전용＇ 실시간 코딩 모델 ＇GPT-5.3-코덱스-스파크＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=206827
-
-◾ 치열해지는 ‘피지컬 AI’경쟁…휴머노이드가 실제 세계로
-https://www.aitimes.com/news/articleView.html?idxno=206810
-
-[기관]
-◾ 박인환 우정사업본부장 “AX로 서비스 혁신…수익구조 개선 총력”
-https://www.etnews.com/20260213000247
-
-◾ 서울시, 4년간 600억 투입 AI·이공계 인재 2000명 키운다
-https://www.etnews.com/20260213000160
-
-◾ [에듀플러스]안양대, ＇AI특화인공지능교육훈련센터＇ 구축사업 강력 추진
-https://www.etnews.com/20260213000141
-
-◾ [에듀플러스]서울시, AI.이공계 인재 2000명 키운다…연간 151억 4년간 600억원 투자
-https://www.etnews.com/20260213000139
-
-◾ 엔닷라이트, 과기정통부 피지컬 AI R&D 사업 참여
-https://www.etnews.com/20260213000046
-
-◾ 배경훈 부총리, 인도 정상회의서 ＇韓의 글로벌 AI 협력 주도＇ 선언
-https://www.etnews.com/20260212000474
-
-◾ 이제영 경기도의원, AI 정책 현장화·GBC 개선 주문
-https://www.etnews.com/20260213000036
-
-◾ 아주대 정보통신대학원, 한국피지컬AI협회와 인재 양성 위해 ＇맞손＇
-https://www.etnews.com/20260213000029
-
-◾ [에듀플러스]“기업이 키우고 기업이 뽑는다…AI·DX 현장형 인재양성 모델 완성”
-https://www.etnews.com/20260212000092
-
-◾ 오픈AI. 미 의회에 경고...“딥시크, 미국 AI 무임승차”
+◾ 오픈AI, 미 의회에 경고...“딥시크, 미국 AI에 무임승차”
 https://www.aitimes.com/news/articleView.html?idxno=206839
 
-◾ 트릴리온랩스·모티프의 국가대표 AI 컨소시엄 구성과 전략은
-https://www.aitimes.com/news/articleView.html?idxno=206870
+◾ 메타, 올해 안으로 ＇안면 인식＇ 탑재한 스마트 안경 출시 예정
+https://www.aitimes.com/news/articleView.html?idxno=206886
 
-◾ 앤트로픽, 오픈AI 맞서 ＇AI 규제＇ 정치 단체에 290억 기부
-https://www.aitimes.com/news/articleView.html?idxno=206836
+◾ ＇시댄스＇로 만든 크루즈-피트 영상에 할리우드 발칵...〃우리는 망했다〃
+https://www.aitimes.com/news/articleView.html?idxno=206881
 
-◾ “의료 기본권부터 AI로 보장”...국가AI전략위‘AI기본의료’ 실현을 위한 범정부 역량 결집
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=286
+◾ [2월13일] 설 연휴 앞둔 중국 AI의 물량 공세...남은 것은 딥시크와 ＇GPT-5.3＇
+https://www.aitimes.com/news/articleView.html?idxno=206846
 
-◾ 류제명 제2차관, 설 명절 대비 사이버보안 최전선 점검
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186909&searchOpt=ALL&searchTxt=
+◾ ‘검색부터 결제’까지… 구글 AI 모드에 도입되는 광고
+https://www.aitimes.com/news/articleView.html?idxno=206867
 
-◾ 배경훈 부총리, 인도 인공지능 영향 정상회의에서 국제 인공지능 지도력(AI 리더십) 굳힌다
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186901&searchOpt=ALL&searchTxt=
+[기관]
+◾ 공공 AI 전환(AIX) 성공 위한 실무 세미나 3월 12일 개최
+https://www.etnews.com/20260214000019
 
-📚 간행물
-◾ [26-4] 중국, 「네트워크 범죄 방지법」(안) 의견수렴 (2026.1.31. ~ 3.2.)
-https://www.kisa.or.kr/20201/form?postSeq=272&page=1
-
-◾ Cowork, 신기술, 미국 AI 규제, 중국 로봇 [AI·ICT Brief 2026-06호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260213-000001&cpage=1&rows=10&searchTarget=all
+◾ 국가AI전략위, ＇의료 기본권 AI로 보장＇ 기본의료 전략 수립 착수
+https://www.etnews.com/20260214000005
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
