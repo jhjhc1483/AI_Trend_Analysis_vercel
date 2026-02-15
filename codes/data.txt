@@ -1,38 +1,29 @@
-📢2026-02-15 AI 일일 동향 보고📢
+📢2026-02-16 AI 일일 동향 보고📢
 
 📰 오늘의 기사
 [국방]
-◾ 군사 작전에 AI 투입…“美, 베네수엘라 대통령 체포시”
-https://www.etnews.com/20260214000027
+◾ 전장 AI 활용 두고 펜타곤·앤트로픽 정면충돌...美 국방부 계약 해지 검토
+https://www.etnews.com/20260215000050
 
-◾ ＇AI 데이터 아키텍처 강자, 미래전 승자!＇…美軍 ＇OAR＇과 ROK ＇AI 대전환＇ 방향
-https://www.etnews.com/20260214000003
+◾ 〃베네수엘라 마두로 정권 공격에 앤트로픽 ‘클로드’ 활용〃
+https://www.aitimes.com/news/articleView.html?idxno=206892
 
 [민간]
-◾ 오픈AI “중국 딥시크, 미국 AI 모델 결과물 무단 활용”
-https://www.etnews.com/20260214000004
+◾ 딥시크 이어 시댄스…중국 AI에 미국 또 ＇설 연휴 충격＇
+https://www.etnews.com/20260215000054
 
-◾ 오픈AI, 미 의회에 경고...“딥시크, 미국 AI에 무임승차”
-https://www.aitimes.com/news/articleView.html?idxno=206839
+◾ 바이트댄스, 에이전트 시대를 위한 주력 모델 ‘더우바오-시드 2.0’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=206891
 
-◾ 메타, 올해 안으로 ＇안면 인식＇ 탑재한 스마트 안경 출시 예정
-https://www.aitimes.com/news/articleView.html?idxno=206886
+◾ 〃로봇이 로봇 제작〃...유니트리, 새 AI로 생산 라인에 ＇G1＇ 투입
+https://www.aitimes.com/news/articleView.html?idxno=206898
 
-◾ ＇시댄스＇로 만든 크루즈-피트 영상에 할리우드 발칵...〃우리는 망했다〃
-https://www.aitimes.com/news/articleView.html?idxno=206881
-
-◾ [2월13일] 설 연휴 앞둔 중국 AI의 물량 공세...남은 것은 딥시크와 ＇GPT-5.3＇
-https://www.aitimes.com/news/articleView.html?idxno=206846
-
-◾ ‘검색부터 결제’까지… 구글 AI 모드에 도입되는 광고
-https://www.aitimes.com/news/articleView.html?idxno=206867
+◾ 페이페이 리 〃AI 발전 속도에 숨 막힐 정도...누구나 불안 느낄 것〃
+https://www.aitimes.com/news/articleView.html?idxno=206897
 
 [기관]
-◾ 공공 AI 전환(AIX) 성공 위한 실무 세미나 3월 12일 개최
-https://www.etnews.com/20260214000019
-
-◾ 국가AI전략위, ＇의료 기본권 AI로 보장＇ 기본의료 전략 수립 착수
-https://www.etnews.com/20260214000005
+◾ 日, AI에이전트·피지컬AI 지침 수립 나서
+https://www.etnews.com/20260215000026
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
