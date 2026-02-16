@@ -1,32 +1,38 @@
-📢2026-02-16 AI 일일 동향 보고📢
+📢2026-02-17 AI 일일 동향 보고📢
 
 📰 오늘의 기사
 [국방]
-◾ 전장 AI 활용 두고 펜타곤·앤트로픽 정면충돌...美 국방부 계약 해지 검토
-https://www.etnews.com/20260215000050
+◾ 미 국방부, 앤트로픽에 AI 가드레일 완화 압박...〃모든 합법적 활동 허용할 것〃
+https://www.aitimes.com/news/articleView.html?idxno=206902
 
 [민간]
-◾ “챗GPT 저격 통했다”... 클로드, 슈퍼볼 광고 후 이용자 11% 급증
-https://www.etnews.com/20260215000003
+◾ 알리바바, AI ＇큐원 3.5＇ 공개…“배포 비용 60% 절감”
+https://www.etnews.com/20260216000064
 
-◾ 딥시크 이어 시댄스…중국 AI에 미국 또 ＇설 연휴 충격＇
-https://www.etnews.com/20260215000054
+◾ 오픈AI, AI 에이전트 ＇오픈클로＇ 개발자 영입
+https://www.etnews.com/20260216000047
 
-◾ 성적 이미지 논란 후 ‘그록’ 미국 점유율 급등...1년 전 9배로 늘어
-https://www.aitimes.com/news/articleView.html?idxno=206895
+◾ LG전자, 데이터센터 냉각 인재 채용·글로벌 아카데미 개소…AI인프라 정조준
+https://www.etnews.com/20260216000010
 
-◾ 〃베네수엘라 마두로 정권 공격에 앤트로픽 ‘클로드’ 활용〃
-https://www.aitimes.com/news/articleView.html?idxno=206892
+◾ 문샷 AI도 ＇오픈클로＇ 도입…〃5000개 스킬·40GB 저장 공간 제공〃
+https://www.aitimes.com/news/articleView.html?idxno=206905
 
-◾ 바이트댄스, 에이전트 시대를 위한 주력 모델 ‘더우바오-시드 2.0’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=206891
-
-◾ 〃로봇이 로봇 제작〃...유니트리, 새 AI로 생산 라인에 ＇G1＇ 투입
-https://www.aitimes.com/news/articleView.html?idxno=206898
+◾ 오픈AI, ＇오픈클로＇ 제작자 영입...〃독립 재단서 오픈소스 유지〃
+https://www.aitimes.com/news/articleView.html?idxno=206899
 
 [기관]
-◾ 日, AI에이전트·피지컬AI 지침 수립 나서
-https://www.etnews.com/20260215000026
+◾ 韓, AI 인재 순유출 심화…매력도 30위권 ＇고착＇
+https://www.etnews.com/20260216000060
+
+◾ 구글, ＇노트북LM＇ 음성 도용으로 유명 라디오 진행자로부터 고소 당해
+https://www.aitimes.com/news/articleView.html?idxno=206901
+
+◾ 트럼프, 유타주 공화당 의원들에게 AI 안전 법안 폐기 압박
+https://www.aitimes.com/news/articleView.html?idxno=206903
+
+◾ 일본 정부, 바이트댄스 ＇총리 영상＇에 조사 착수…“저작권 침해 시 좌시 못해”
+https://www.aitimes.com/news/articleView.html?idxno=206904
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
