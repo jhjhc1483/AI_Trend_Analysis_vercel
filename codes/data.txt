@@ -12,11 +12,23 @@ https://www.etnews.com/20260216000064
 ◾ 오픈AI, AI 에이전트 ＇오픈클로＇ 개발자 영입
 https://www.etnews.com/20260216000047
 
+◾ ＇AI 리스크＇가 실적콜 장악…위험군 종목 40~50% 급락
+https://www.etnews.com/20260216000046
+
 ◾ LG전자, 데이터센터 냉각 인재 채용·글로벌 아카데미 개소…AI인프라 정조준
 https://www.etnews.com/20260216000010
 
 ◾ 문샷 AI도 ＇오픈클로＇ 도입…〃5000개 스킬·40GB 저장 공간 제공〃
 https://www.aitimes.com/news/articleView.html?idxno=206905
+
+◾ 구글, ＇노트북LM＇ 음성 도용으로 유명 라디오 진행자로부터 고소 당해
+https://www.aitimes.com/news/articleView.html?idxno=206901
+
+◾ 스포티파이 〃12월 이후 코드 한줄도 작성하지 않은 개발자 늘어〃
+https://www.aitimes.com/news/articleView.html?idxno=206906
+
+◾ 딥시크 출시 예정 모델 ＇가짜 벤치마크＇ 등장...〃최고 코딩 성능〃 주장
+https://www.aitimes.com/news/articleView.html?idxno=206900
 
 ◾ 오픈AI, ＇오픈클로＇ 제작자 영입...〃독립 재단서 오픈소스 유지〃
 https://www.aitimes.com/news/articleView.html?idxno=206899
@@ -24,9 +36,6 @@ https://www.aitimes.com/news/articleView.html?idxno=206899
 [기관]
 ◾ 韓, AI 인재 순유출 심화…매력도 30위권 ＇고착＇
 https://www.etnews.com/20260216000060
-
-◾ 구글, ＇노트북LM＇ 음성 도용으로 유명 라디오 진행자로부터 고소 당해
-https://www.aitimes.com/news/articleView.html?idxno=206901
 
 ◾ 트럼프, 유타주 공화당 의원들에게 AI 안전 법안 폐기 압박
 https://www.aitimes.com/news/articleView.html?idxno=206903
