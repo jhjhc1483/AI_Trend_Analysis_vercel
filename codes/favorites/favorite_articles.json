@@ -1,67 +1,57 @@
 [
   {
-    "title": "알리바바, AI ＇큐원 3.5＇ 공개…“배포 비용 60% 절감”",
-    "link": "https://www.etnews.com/20260216000064",
-    "category": "민간"
-  },
-  {
-    "title": "韓, AI 인재 순유출 심화…매력도 30위권 ＇고착＇",
-    "link": "https://www.etnews.com/20260216000060",
+    "title": "인도서 막 오른 AI 정상회의…글로벌 빅테크·정상 한자리에",
+    "link": "https://www.etnews.com/20260217000001",
     "category": "기관"
   },
   {
-    "title": "오픈AI, AI 에이전트 ＇오픈클로＇ 개발자 영입",
-    "link": "https://www.etnews.com/20260216000047",
+    "title": "AI수도 전남 새출발…2026년 ＇AI 대전환＇ 원년 선포",
+    "link": "https://www.etnews.com/20260217000043",
+    "category": "기관"
+  },
+  {
+    "title": "AMD, TCS와 인도 200MW ＇헬리오스＇ AI 데이터센터 청사진 만든다",
+    "link": "https://www.etnews.com/20260217000014",
     "category": "민간"
   },
   {
-    "title": "＇AI 리스크＇가 실적콜 장악…위험군 종목 40~50% 급락",
-    "link": "https://www.etnews.com/20260216000046",
+    "title": "“AI가 사람 대체”…빅테크 구조조정 재점화",
+    "link": "https://www.etnews.com/20260217000010",
     "category": "민간"
   },
   {
-    "title": "LG전자, 데이터센터 냉각 인재 채용·글로벌 아카데미 개소…AI인프라 정조준",
-    "link": "https://www.etnews.com/20260216000010",
+    "title": "AI가 인간 비난하는 장문의 글 작성...〃AI의 괴롭힘 첫 사례〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206907",
     "category": "민간"
   },
   {
-    "title": "문샷 AI도 ＇오픈클로＇ 도입…〃5000개 스킬·40GB 저장 공간 제공〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206905",
+    "title": "아모데이 〃현재는 인간·AI 결합한 ＇켄타우로스 시대＇...하지만 몇년 내 끝날 것〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206909",
     "category": "민간"
   },
   {
-    "title": "구글, ＇노트북LM＇ 음성 도용으로 유명 라디오 진행자로부터 고소 당해",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206901",
+    "title": "알리바바, 고성능·저비용 ‘큐원 3.5’ 공개...〃에이전트 시대 위한 모델〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206913",
     "category": "민간"
   },
   {
-    "title": "미 국방부, 앤트로픽에 AI 가드레일 완화 압박...〃모든 합법적 활동 허용할 것〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206902",
+    "title": "카르파시,파이썬 200줄로 GPT 핵심 구현한 ‘마이크로GPT’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206917",
+    "category": "민간"
+  },
+  {
+    "title": "영국, SNS 넘어 16세 미만 청소년 ＇AI 챗봇＇ 규제 예고",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206914",
+    "category": "기관"
+  },
+  {
+    "title": "스페이스X, 미 국방부 자율 드론 기술 개발에 참여...〃머스크의 반대 입장과 충돌〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206915",
     "category": "국방"
   },
   {
-    "title": "트럼프, 유타주 공화당 의원들에게 AI 안전 법안 폐기 압박",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206903",
+    "title": "인도 ‘AI 임팩트 서밋’에 AI 기업 수장 집결...〃25만 인파에 혼란〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206912",
     "category": "기관"
-  },
-  {
-    "title": "일본 정부, 바이트댄스 ＇총리 영상＇에 조사 착수…“저작권 침해 시 좌시 못해”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206904",
-    "category": "기관"
-  },
-  {
-    "title": "스포티파이 〃12월 이후 코드 한줄도 작성하지 않은 개발자 늘어〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206906",
-    "category": "민간"
-  },
-  {
-    "title": "딥시크 출시 예정 모델 ＇가짜 벤치마크＇ 등장...〃최고 코딩 성능〃 주장",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206900",
-    "category": "민간"
-  },
-  {
-    "title": "오픈AI, ＇오픈클로＇ 제작자 영입...〃독립 재단서 오픈소스 유지〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206899",
-    "category": "민간"
   }
 ]
