@@ -1,53 +1,103 @@
-📢2026-02-18 AI 일일 동향 보고📢
+📢2026-02-19 AI 일일 동향 보고📢
 
 📰 오늘의 기사
-[국방]
-◾ 스페이스X, 미 국방부 자율 드론 기술 개발에 참여...〃머스크의 반대 입장과 충돌〃
-https://www.aitimes.com/news/articleView.html?idxno=206915
-
 [민간]
-◾ AMD, TCS와 인도 200MW ＇헬리오스＇ AI 데이터센터 청사진 만든다
-https://www.etnews.com/20260217000014
+◾ [인터뷰] 윤은기 한국협업발전포럼 회장 “AI혁명 시대 ＇곱하기 경영＇은 새 패러다임”
+https://www.etnews.com/20260209000034
 
-◾ “AI가 사람 대체”…빅테크 구조조정 재점화
-https://www.etnews.com/20260217000010
+◾ AI 통역 수요 급증…플리토, 지난해 사업 전년비 9배 증가
+https://www.etnews.com/20260212000388
 
-◾ AI가 인간 비난하는 장문의 글 작성...〃AI의 괴롭힘 첫 사례〃
-https://www.aitimes.com/news/articleView.html?idxno=206907
+◾ [기고] 2026년, AI의 미래를 결정지을 5가지 핵심 동력
+https://www.etnews.com/20260218000094
 
-◾ 아모데이 〃현재는 인간·AI 결합한 ＇켄타우로스 시대＇...하지만 몇년 내 끝날 것〃
-https://www.aitimes.com/news/articleView.html?idxno=206909
+◾ 씨디에스 AI 플랫폼 ＇WeeAI＇, 공공·교육기관 겨냥…맞춤형 활용·가격경쟁력 업그레이드
+https://www.etnews.com/20260212000256
 
-◾ 알리바바, 고성능·저비용 ‘큐원 3.5’ 공개...〃에이전트 시대 위한 모델〃
-https://www.aitimes.com/news/articleView.html?idxno=206913
+◾ [ET단상] 과학을 위한 AI(AI4S), 글로벌 산업의 새로운 경쟁 축
+https://www.etnews.com/20260218000039
 
-◾ 카르파시,파이썬 200줄로 GPT 핵심 구현한 ‘마이크로GPT’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=206917
+◾ 네이버클라우드, 공공 클라우드 시장서 ＇날개＇…1년 새 ＇폭발적 성장＇
+https://www.etnews.com/20260212000403
+
+◾ [人사이트]오은송 “AI로 산업 현장 ＇지능형 눈＇ 만들겠다”
+https://www.etnews.com/20260218000077
+
+◾ 웨이스, AI 자율제어 OS ＇VEXOPLOR＇로 제조업 패러다임 전환
+https://www.etnews.com/20260211000233
+
+◾ 애플, AI 탑재 스마트 안경 개발…내년 출시 전망
+https://www.etnews.com/20260218000098
+
+◾ 메타, 엔비디아와 AI칩 수백만개 도입 계약…그레이스 CPU도 단독 채택
+https://www.etnews.com/20260218000070
+
+◾ LG유플러스, MWC서 국내 AI 스타트업 글로벌 소개…동반 성장 생태계 강화
+https://www.etnews.com/20260218000068
+
+◾ 체크포인트, AI·노출관리·MSP 보안기업 3곳 인수
+https://www.etnews.com/20260218000050
+
+◾ 인도 “2년간 2000억달러 투자 유치, 글로벌 AI 허브 도약”
+https://www.etnews.com/20260218000049
+
+◾ 통신 3사, 450억원 ＇한국형 AI 기지국＇ 개발 동맹
+https://www.etnews.com/20260214000042
+
+◾ LG CNS, 오픈AI 리셀러로 기업 AX 지원 본격화…전담조직 신설
+https://www.etnews.com/20260218000018
+
+◾ 스페인, AI 생성 누드 이미지 관련 X·메타·틱톡 수사의뢰
+https://www.etnews.com/20260218000038
+
+◾ [KBIS 2026]삼성전자, AI·럭셔리 빌트인 가전 선보여
+https://www.etnews.com/20260218000030
+
+◾ 엔비디아보다 2배 빠른 AI 반도체 등장
+https://www.etnews.com/20260218000040
+
+◾ 구글, 5월19~20일 I/O 개발자 컨퍼런스 개최...〃스마트 안경이 하이라이트〃
+https://www.aitimes.com/news/articleView.html?idxno=206930
+
+◾ 오픈AI, 챗GPT 보안 강화한 ＇잠금 모드＇ 도입...＇위험도 상승 라벨＇도 표시
+https://www.aitimes.com/news/articleView.html?idxno=206923
+
+◾ 앤트로픽, ‘오퍼스’ 성능에 5분의 1 가격인 ‘클로드 소네트 4.6’ 출시
+https://www.aitimes.com/news/articleView.html?idxno=206919
+
+◾ 〃트럼프 지지하는 오픈AI 반대〃...미국서 ＇챗GPT 중단＇ 캠페인 확산
+https://www.aitimes.com/news/articleView.html?idxno=206937
+
+◾ 4인 에이전트 체제 ‘그록 4.2’ 기습 출시…“스스로 토론하고 매주 학습한다”
+https://www.aitimes.com/news/articleView.html?idxno=206936
+
+◾ 이석중 라온피플 대표 “16년 노하우·올인원 솔루션...차별화된 비전 AI”
+https://www.aitimes.com/news/articleView.html?idxno=206935
 
 [기관]
-◾ 인도서 막 오른 AI 정상회의…글로벌 빅테크·정상 한자리에
-https://www.etnews.com/20260217000001
+◾ 정부 GPU 보급 사업에 신청 폭주…공급 물량의 4배 이상 쇄도
+https://www.etnews.com/20260212000401
 
-◾ AI수도 전남 새출발…2026년 ＇AI 대전환＇ 원년 선포
-https://www.etnews.com/20260217000043
+◾ [ET시론]AI시대 심장 데이터센터…한국, ＇물·에너지 블랙홀＇ 막을 준비 됐나
+https://www.etnews.com/20260218000029
 
-◾ 고흥군, 해수부 AI스마트수산업 혁신 선도지구 조성사업 선정
-https://www.etnews.com/20260217000041
+◾ 국교위, AI 교육과정 틀 재구성…개념 정의·방향성 연구 착수
+https://www.etnews.com/20260212000365
 
-◾ 국립창원대, 2026년 첨단산업 특성화대학 지원사업 ＇로봇 분야＇ 선정
-https://www.etnews.com/20260217000031
+◾ 김주호 KAIST 교수, UN ＇세계 최초＇ AI 과학패널에 유일한 韓 위원으로 선정
+https://www.etnews.com/20260218000085
 
-◾ 경북농업기술원, 2026년 연구과제 추진…AI 기술 활용 연구 및 기후변화 대응 과제 비중 높여
-https://www.etnews.com/20260217000013
+◾ FATF, 가상자산·사이버 스캠 보고서 채택... 한국, 2028년 상호평가 준비 착수
+https://www.etnews.com/20260218000035
 
-◾ 동대구벤처밸리에 AI 창업허브 ＇AI 테크포트＇ 들어선다
-https://www.etnews.com/20260217000012
+◾ 창의재단, UAE 국제 교육개선 서밋에서 ＇한국형＇ AI 교육모델 공유
+https://www.etnews.com/20260218000071
 
-◾ 영국, SNS 넘어 16세 미만 청소년 ＇AI 챗봇＇ 규제 예고
-https://www.aitimes.com/news/articleView.html?idxno=206914
+◾ 게임인재원, “AI는 선택 아닌 필수 역량”…8기 교육과정 접수
+https://www.etnews.com/20260214000044
 
-◾ 인도 ‘AI 임팩트 서밋’에 AI 기업 수장 집결...〃25만 인파에 혼란〃
-https://www.aitimes.com/news/articleView.html?idxno=206912
+◾ 서초구, AI 특구·ICT 진흥지구 거버넌스 구축…＇서초AICT 운영위원회＇ 출범
+https://www.etnews.com/20260218000046
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
