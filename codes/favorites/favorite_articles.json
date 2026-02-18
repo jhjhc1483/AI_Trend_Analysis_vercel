@@ -1,27 +1,12 @@
 [
   {
-    "title": "[인터뷰] 윤은기 한국협업발전포럼 회장 “AI혁명 시대 ＇곱하기 경영＇은 새 패러다임”",
-    "link": "https://www.etnews.com/20260209000034",
-    "category": "민간"
-  },
-  {
     "title": "정부 GPU 보급 사업에 신청 폭주…공급 물량의 4배 이상 쇄도",
     "link": "https://www.etnews.com/20260212000401",
     "category": "기관"
   },
   {
-    "title": "AI 통역 수요 급증…플리토, 지난해 사업 전년비 9배 증가",
-    "link": "https://www.etnews.com/20260212000388",
-    "category": "민간"
-  },
-  {
     "title": "[기고] 2026년, AI의 미래를 결정지을 5가지 핵심 동력",
     "link": "https://www.etnews.com/20260218000094",
-    "category": "민간"
-  },
-  {
-    "title": "씨디에스 AI 플랫폼 ＇WeeAI＇, 공공·교육기관 겨냥…맞춤형 활용·가격경쟁력 업그레이드",
-    "link": "https://www.etnews.com/20260212000256",
     "category": "민간"
   },
   {
@@ -37,22 +22,12 @@
   {
     "title": "네이버클라우드, 공공 클라우드 시장서 ＇날개＇…1년 새 ＇폭발적 성장＇",
     "link": "https://www.etnews.com/20260212000403",
-    "category": "민간"
+    "category": "기관"
   },
   {
     "title": "국교위, AI 교육과정 틀 재구성…개념 정의·방향성 연구 착수",
     "link": "https://www.etnews.com/20260212000365",
     "category": "기관"
-  },
-  {
-    "title": "[人사이트]오은송 “AI로 산업 현장 ＇지능형 눈＇ 만들겠다”",
-    "link": "https://www.etnews.com/20260218000077",
-    "category": "민간"
-  },
-  {
-    "title": "웨이스, AI 자율제어 OS ＇VEXOPLOR＇로 제조업 패러다임 전환",
-    "link": "https://www.etnews.com/20260211000233",
-    "category": "민간"
   },
   {
     "title": "애플, AI 탑재 스마트 안경 개발…내년 출시 전망",
@@ -65,49 +40,9 @@
     "category": "기관"
   },
   {
-    "title": "FATF, 가상자산·사이버 스캠 보고서 채택... 한국, 2028년 상호평가 준비 착수",
-    "link": "https://www.etnews.com/20260218000035",
-    "category": "기관"
-  },
-  {
     "title": "창의재단, UAE 국제 교육개선 서밋에서 ＇한국형＇ AI 교육모델 공유",
     "link": "https://www.etnews.com/20260218000071",
     "category": "기관"
-  },
-  {
-    "title": "메타, 엔비디아와 AI칩 수백만개 도입 계약…그레이스 CPU도 단독 채택",
-    "link": "https://www.etnews.com/20260218000070",
-    "category": "민간"
-  },
-  {
-    "title": "LG유플러스, MWC서 국내 AI 스타트업 글로벌 소개…동반 성장 생태계 강화",
-    "link": "https://www.etnews.com/20260218000068",
-    "category": "민간"
-  },
-  {
-    "title": "체크포인트, AI·노출관리·MSP 보안기업 3곳 인수",
-    "link": "https://www.etnews.com/20260218000050",
-    "category": "민간"
-  },
-  {
-    "title": "인도 “2년간 2000억달러 투자 유치, 글로벌 AI 허브 도약”",
-    "link": "https://www.etnews.com/20260218000049",
-    "category": "민간"
-  },
-  {
-    "title": "게임인재원, “AI는 선택 아닌 필수 역량”…8기 교육과정 접수",
-    "link": "https://www.etnews.com/20260214000044",
-    "category": "기관"
-  },
-  {
-    "title": "통신 3사, 450억원 ＇한국형 AI 기지국＇ 개발 동맹",
-    "link": "https://www.etnews.com/20260214000042",
-    "category": "민간"
-  },
-  {
-    "title": "LG CNS, 오픈AI 리셀러로 기업 AX 지원 본격화…전담조직 신설",
-    "link": "https://www.etnews.com/20260218000018",
-    "category": "민간"
   },
   {
     "title": "서초구, AI 특구·ICT 진흥지구 거버넌스 구축…＇서초AICT 운영위원회＇ 출범",
@@ -115,24 +50,39 @@
     "category": "기관"
   },
   {
-    "title": "스페인, AI 생성 누드 이미지 관련 X·메타·틱톡 수사의뢰",
-    "link": "https://www.etnews.com/20260218000038",
-    "category": "민간"
-  },
-  {
-    "title": "[KBIS 2026]삼성전자, AI·럭셔리 빌트인 가전 선보여",
-    "link": "https://www.etnews.com/20260218000030",
-    "category": "민간"
-  },
-  {
     "title": "엔비디아보다 2배 빠른 AI 반도체 등장",
     "link": "https://www.etnews.com/20260218000040",
     "category": "민간"
   },
   {
+    "title": "부천시, ＇AI 기반 스마트 당직제＇로 연 10억원 절감 추진",
+    "link": "https://www.etnews.com/20260218000112",
+    "category": "기관"
+  },
+  {
     "title": "구글, 5월19~20일 I/O 개발자 컨퍼런스 개최...〃스마트 안경이 하이라이트〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=206930",
     "category": "민간"
+  },
+  {
+    "title": "애플, 카메라 탑재된 AI 기기 3종 개발 박차...〃올해 에어팟부터 출시〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206926",
+    "category": "민간"
+  },
+  {
+    "title": "엔비디아, 메타에 수년 간 수백만개 GPU 공급 계약",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206920",
+    "category": "민간"
+  },
+  {
+    "title": "스페인, AI 아동 성학대 이미지 유통 문제로 X·메타·틱톡 조사 착수",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206921",
+    "category": "기관"
+  },
+  {
+    "title": "인도, 2년간 AI 투자에 288조 투입...〃모델부터 에너지까지 전방위 지원〃〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=206922",
+    "category": "기관"
   },
   {
     "title": "오픈AI, 챗GPT 보안 강화한 ＇잠금 모드＇ 도입...＇위험도 상승 라벨＇도 표시",
@@ -147,16 +97,11 @@
   {
     "title": "〃트럼프 지지하는 오픈AI 반대〃...미국서 ＇챗GPT 중단＇ 캠페인 확산",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=206937",
-    "category": "민간"
+    "category": "기타"
   },
   {
     "title": "4인 에이전트 체제 ‘그록 4.2’ 기습 출시…“스스로 토론하고 매주 학습한다”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=206936",
-    "category": "민간"
-  },
-  {
-    "title": "이석중 라온피플 대표 “16년 노하우·올인원 솔루션...차별화된 비전 AI”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=206935",
     "category": "민간"
   }
 ]
