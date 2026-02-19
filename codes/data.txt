@@ -1,71 +1,163 @@
-📢2026-02-19 AI 일일 동향 보고📢
+📢2026-02-20 AI 일일 동향 보고📢
 
 📰 오늘의 기사
+[국방]
+◾ 핵·WMD부터 AI 대응까지 전문가 지원사격
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47727&startDate=&endDate=&id=mnd_020101000000
+
+◾ [DQ마크 인증 기업을 가다] 회전부 부품 국산화…고속 데이터 끊김 없이 전송
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47729&startDate=&endDate=&id=mnd_020101000000
+
+◾ 미 국방부, 앤트로픽 협상 결렬 시 ＇블랙 리스트＇ 지정 검토
+https://www.aitimes.com/news/articleView.html?idxno=206942
+
+◾ [첨단 강군 지원하는 군 친화 대학] 디지털 전장 주도 실무형 ‘ICT 전문가’ 양성
+https://kookbang.dema.mil.kr/newsWeb/20260220/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=ibJ1UGhR6lU2ieTLVeEC88Ij4bKH7tjJ0ajIiqX6YRgGqMpWbvXI!925962759
+
+◾ 미래전 필수 ‘전자기스펙트럼’ 이해도 높이고 협조체계 강화
+https://kookbang.dema.mil.kr/newsWeb/20260220/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=ibJ1UGhR6lU2ieTLVeEC88Ij4bKH7tjJ0ajIiqX6YRgGqMpWbvXI!925962759
+
+◾ 사이버상 복합 위협 대응…韓·英, 협력체계 강화
+https://kookbang.dema.mil.kr/newsWeb/20260220/12/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=ibJ1UGhR6lU2ieTLVeEC88Ij4bKH7tjJ0ajIiqX6YRgGqMpWbvXI!925962759
+
+◾ 50만 드론전사를 위한 첫걸음
+https://kookbang.dema.mil.kr/newsWeb/20260220/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=ibJ1UGhR6lU2ieTLVeEC88Ij4bKH7tjJ0ajIiqX6YRgGqMpWbvXI!925962759
+
+◾ AI 부대의 혈액, ‘전장의 에너지 안보’
+https://kookbang.dema.mil.kr/newsWeb/20260220/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=ibJ1UGhR6lU2ieTLVeEC88Ij4bKH7tjJ0ajIiqX6YRgGqMpWbvXI!925962759
+
+[육군]
+◾ 육사, 첨단과학기술 이해도 높여 전문성 강화
+https://kookbang.dema.mil.kr/newsWeb/20260220/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=ibJ1UGhR6lU2ieTLVeEC88Ij4bKH7tjJ0ajIiqX6YRgGqMpWbvXI!925962759
+
 [민간]
-◾ [기고] 2026년, AI의 미래를 결정지을 5가지 핵심 동력
-https://www.etnews.com/20260218000094
+◾ LGU+, MWC서 에임인텔리전스 등 AI 스타트업 10곳 소개
+https://www.aitimes.com/news/articleView.html?idxno=206938
 
-◾ [ET단상] 과학을 위한 AI(AI4S), 글로벌 산업의 새로운 경쟁 축
-https://www.etnews.com/20260218000039
+◾ 머스크-오픈AI, ＇피자＇ 문제로 설전....치열한 인재 경쟁 반영
+https://www.aitimes.com/news/articleView.html?idxno=206962
 
-◾ 애플, AI 탑재 스마트 안경 개발…내년 출시 전망
-https://www.etnews.com/20260218000098
+◾ 구글, ＇노트북LM＇ 슬라이드 수정 기능 출시...〃가장 많이 요청된 기능〃
+https://www.aitimes.com/news/articleView.html?idxno=206946
 
-◾ 엔비디아보다 2배 빠른 AI 반도체 등장
-https://www.etnews.com/20260218000040
+◾ 페이페이 리의 월드랩스, 1.4조 자금 조달...오토데스크와 월드 모델 개발
+https://www.aitimes.com/news/articleView.html?idxno=206945
 
-◾ 구글, 5월19~20일 I/O 개발자 컨퍼런스 개최...〃스마트 안경이 하이라이트〃
-https://www.aitimes.com/news/articleView.html?idxno=206930
+◾ 허사비스 〃아직 AGI에 도달하지 못한 3가지 이유는〃
+https://www.aitimes.com/news/articleView.html?idxno=206951
 
-◾ 애플, 카메라 탑재된 AI 기기 3종 개발 박차...〃올해 에어팟부터 출시〃
-https://www.aitimes.com/news/articleView.html?idxno=206926
+◾ UC 산타바바라, ‘그룹 진화 에이전트’ 공개...〃집단 경험 축적해 전달〃
+https://www.aitimes.com/news/articleView.html?idxno=206956
 
-◾ 엔비디아, 메타에 수년 간 수백만개 GPU 공급 계약
-https://www.aitimes.com/news/articleView.html?idxno=206920
+◾ 설 갈라 쇼 휴머노이드 로봇 활약에 주문 급증...〃로봇 상업화 전환점〃
+https://www.aitimes.com/news/articleView.html?idxno=206964
 
-◾ 오픈AI, 챗GPT 보안 강화한 ＇잠금 모드＇ 도입...＇위험도 상승 라벨＇도 표시
-https://www.aitimes.com/news/articleView.html?idxno=206923
+◾ 셀렉트스타, 국가별 AI 안전성 검증 기술로 국제 AI학회 메인 논문 채택
+https://www.aitimes.com/news/articleView.html?idxno=206952
 
-◾ 앤트로픽, ‘오퍼스’ 성능에 5분의 1 가격인 ‘클로드 소네트 4.6’ 출시
-https://www.aitimes.com/news/articleView.html?idxno=206919
+◾ LG AI연구원, AI 윤리 책무성 보고서 발간...AI 윤리 실천 사례 소개
+https://www.aitimes.com/news/articleView.html?idxno=206955
 
-◾ 4인 에이전트 체제 ‘그록 4.2’ 기습 출시…“스스로 토론하고 매주 학습한다”
-https://www.aitimes.com/news/articleView.html?idxno=206936
+◾ xAI에 4조 투자한 사우디의 휴메인, 스페이스X 합병으로 대박
+https://www.aitimes.com/news/articleView.html?idxno=206943
+
+◾ 텔레픽스, 유럽에 수천만달러 규모 위성 수출…AI 통합 위성 체계 공급
+https://www.aitimes.com/news/articleView.html?idxno=206947
+
+◾ 의료 AI 빅3, 올해 ＇흑자 원년＇ 총력전
+https://www.etnews.com/20260219000095
+
+◾ AI로 찾아낸 신규 펩타이드…＇항생제 내성 살모넬라 치료 효과＇ 확인
+https://www.etnews.com/20260219000280
+
+◾ 정재헌 SK텔레콤 대표 “통신은 AI 시대 지탱하는 핵심망”
+https://www.etnews.com/20260219000146
+
+◾ [ET특징주]한화솔루션, 머스크 태양광 활용 우주 AI데이터센터 구상에 상승세
+https://www.etnews.com/20260219000114
+
+◾ 한컴, 日 ＇사이버링크스＇에 AI 안면인식 솔루션 공급…AI 해외 첫 수주
+https://www.etnews.com/20260219000098
+
+◾ 엔비디아 AI가속기 ＇급 나누기＇ 가나…HBM4 처리속도에 주목
+https://www.etnews.com/20260219000091
+
+◾ 동양생명, 올해 첫 타운홀 미팅 개최…“AX 컨트롤타워 구축”
+https://www.etnews.com/20260219000047
+
+◾ LGU+, MWC서 AI 신뢰성 검증 나선다…레드팀 챌린지 참가
+https://www.etnews.com/20260219000033
+
+◾ DB손해보험, 고객 참여형 보상 시스템 ＇AI 에이전트＇ 정식 오픈
+https://www.etnews.com/20260219000031
+
+◾ 구글, 제미나이에 ＇맞춤형 음악 생성 기능＇ 추가
+https://www.etnews.com/20260219000002
 
 [기관]
-◾ 정부 GPU 보급 사업에 신청 폭주…공급 물량의 4배 이상 쇄도
-https://www.etnews.com/20260212000401
+◾ 배경훈 부총리, 인도 인공지능 영향 정상회의에서 인공지능 외교 행보 본격화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186913&searchOpt=ALL&searchTxt=
 
-◾ [ET시론]AI시대 심장 데이터센터…한국, ＇물·에너지 블랙홀＇ 막을 준비 됐나
-https://www.etnews.com/20260218000029
+◾ 노타-KBS, AI ‘재난 특보 영상 분석 시스템’ 구축…”신속한 재난 방송 가능”
+https://www.aitimes.com/news/articleView.html?idxno=206959
 
-◾ 네이버클라우드, 공공 클라우드 시장서 ＇날개＇…1년 새 ＇폭발적 성장＇
-https://www.etnews.com/20260212000403
+◾ 과기부, 10개 AX대학원 신규 선정…연간 30억 지원
+https://www.aitimes.com/news/articleView.html?idxno=206963
 
-◾ 국교위, AI 교육과정 틀 재구성…개념 정의·방향성 연구 착수
-https://www.etnews.com/20260212000365
+◾ “AI시대 대학 교육의 방향성 논의” 대구·울산·경북 AI 대학교육포럼 개최
+https://www.etnews.com/20260213000121
 
-◾ 김주호 KAIST 교수, UN ＇세계 최초＇ AI 과학패널에 유일한 韓 위원으로 선정
-https://www.etnews.com/20260218000085
+◾ 진종오, 23일 ＇AI 기반 콘텐츠 진흥을 위한 법적 개선과제 토론회＇ 개최
+https://www.etnews.com/20260219000400
 
-◾ 창의재단, UAE 국제 교육개선 서밋에서 ＇한국형＇ AI 교육모델 공유
-https://www.etnews.com/20260218000071
+◾ “연구부터 현장까지 AI”…농진청, 지능데이터 전담팀 신설
+https://www.etnews.com/20260219000298
 
-◾ 서초구, AI 특구·ICT 진흥지구 거버넌스 구축…＇서초AICT 운영위원회＇ 출범
-https://www.etnews.com/20260218000046
+◾ [에듀플러스]가천대, AI 교육혁신 본격화… ＇교수부터 AI 교육＇ 전방위 속도전
+https://www.etnews.com/20260219000297
 
-◾ 부천시, ＇AI 기반 스마트 당직제＇로 연 10억원 절감 추진
-https://www.etnews.com/20260218000112
+◾ [에듀플러스]이화여대 창립 140주년 기념 ＇AI와 미래교육 글로벌 포럼＇ 개최
+https://www.etnews.com/20260219000294
 
-◾ 스페인, AI 아동 성학대 이미지 유통 문제로 X·메타·틱톡 조사 착수
-https://www.aitimes.com/news/articleView.html?idxno=206921
+◾ AI 혁신 이끌 인재양성소 ＇AX대학원＇ 공모…22개로 점차 확대
+https://www.etnews.com/20260219000259
 
-◾ 인도, 2년간 AI 투자에 288조 투입...〃모델부터 에너지까지 전방위 지원〃〃
-https://www.aitimes.com/news/articleView.html?idxno=206922
+◾ 티오리-포항공대, AI 보안 연구·인재 양성 협력
+https://www.etnews.com/20260219000235
 
-[기타]
-◾ 〃트럼프 지지하는 오픈AI 반대〃...미국서 ＇챗GPT 중단＇ 캠페인 확산
-https://www.aitimes.com/news/articleView.html?idxno=206937
+◾ AI G3 열쇠는 ＇산업 활용＇…KOSA, 공공 GPU 활용 4대 전략 제시
+https://www.etnews.com/20260219000226
+
+◾ [에듀플러스]SW중심대학을 만나다〈47〉권장우 인하대 SW중심대학 사업단장 “실전형 SW·AI 인재 양성 초점…AI중심대학 전환 선도”
+https://www.etnews.com/20260219000135
+
+◾ KOIIA, 한국정보산업협회와 기업 AI 역량 강화 위한 업무협약 체결
+https://www.etnews.com/20260219000105
+
+◾ 광주상의, ＇제 287차 광주경제포럼＇ 개최…CES 2026·AI 전략 제시
+https://www.etnews.com/20260219000097
+
+◾ ETRI, 지능형 6G 코어 구현...AI가 제어하는 6G 네트워크 ＇두뇌＇ 기술 확보
+https://www.etnews.com/20260219000069
+
+◾ 경북도, 오는 9월 ＇2026 경북 국제 AI·메타버스 영상제＇ 개최…구미·포항·경산에서 다양한 행사 마련
+https://www.etnews.com/20260219000028
+
+◾ 한은, 설 연휴 국제금융시장 점검… “AI·지정학 리스크 경계감 지속”
+https://www.etnews.com/20260219000026
+
+◾ 부산시, AI 기반 지능형 행정 구현 박차
+https://www.etnews.com/20260219000020
+
+◾ 이재석 GIST 명예교수, ＇AI 시대 소재 설계 패러다임＇ 한림원 정책 보고서 발간
+https://www.etnews.com/20260219000010
+
+◾ 가천대, 전교생 AI기초 8학점 의무화 및 208강좌 확대
+https://www.etnews.com/20260219000410
+
+📚 간행물
+◾ 「AI.GOV 해외동향」 2026-1호
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=29046&parentSeq=29046
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
