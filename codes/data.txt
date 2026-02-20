@@ -2,14 +2,14 @@
 
 📰 오늘의 기사
 [국방]
-◾ 미래전 필수 ‘전자기스펙트럼’ 이해도 높이고 협조체계 강화
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47750&startDate=&endDate=&id=mnd_020101000000
-
 ◾ [첨단 강군 지원하는 군 친화 대학] 디지털 전장 주도 실무형 ‘ICT 전문가’ 양성
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47752&startDate=&endDate=&id=mnd_020101000000
 
 ◾ 사이버상 복합 위협 대응…韓·英, 협력체계 강화
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47756&startDate=&endDate=&id=mnd_020101000000
+
+◾ 육사, 첨단과학기술 이해도 높여 전문성 강화
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47758&startDate=&endDate=&id=mnd_020101000000
 
 ◾ 李대통령 “첨단 무기체계 전폭 투자”…전작권 환수·불법 계엄 청산 언급도
 https://www.etnews.com/20260220000129
@@ -17,19 +17,15 @@ https://www.etnews.com/20260220000129
 ◾ UNIST-경상국립대, ＇우주항공·방산 융합연구원＇ 설립 추진
 https://www.etnews.com/20260220000104
 
-[육군]
-◾ 육사, 첨단과학기술 이해도 높여 전문성 강화
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47758&startDate=&endDate=&id=mnd_020101000000
-
 [민간]
-◾ 알트먼-아모데이 ＇어색한 손＇ 화제...〃AI 냉전 상징〃
-https://www.aitimes.com/news/articleView.html?idxno=206971
-
 ◾ 데이터센터 빅테크, AI 전력 문제로 우라늄 확보에 나서
 https://www.aitimes.com/news/articleView.html?idxno=207010
 
 ◾ 알트먼 〃2028년 말 ＇초지능＇ 등장...데이터센터 속 지능이 인류 전체 지능 넘어설 것〃
 https://www.aitimes.com/news/articleView.html?idxno=207016
+
+◾ 뉴욕주, 로보택시 서비스 허용안 철회…웨이모 확장 전략에 제동
+https://www.aitimes.com/news/articleView.html?idxno=207024
 
 ◾ 오픈AI, 1000억달러 투자 라운드 1차 마무리 임박…기업가치 또 상승
 https://www.aitimes.com/news/articleView.html?idxno=206983
@@ -40,30 +36,27 @@ https://www.aitimes.com/news/articleView.html?idxno=206972
 ◾ [2월19일] ＇오픈클로＇의 오픈AI 합류가 의미하는 것...〃말하는 챗봇에서 행동하는 에이전트로〃
 https://www.aitimes.com/news/articleView.html?idxno=206944
 
+◾ 로봇이 스스로 로봇을 만드는 시대… 유니트리의 제조 공장
+https://www.aitimes.com/news/articleView.html?idxno=206967
+
 ◾ 카카오, ＇카나나＇ API 첫 개방…멀티모달 AI 상용화 가속
 https://www.etnews.com/20260220000157
 
 ◾ “이게 70만원대라고?”… 구글, AI·위성 통신 탑재한 ＇픽셀 10a＇ 공개
 https://www.etnews.com/20260220000098
 
-◾ “더 똑똑해진 빅스비”…삼성, 원 UI 8.5 베타 프로그램 돌입
-https://www.etnews.com/20260220000017
+◾ 바이트댄스, 미국 내 AI팀 구축…美 빅테크와 본격 경쟁
+https://www.etnews.com/20260220000008
 
 [기관]
-◾ 과기정통부, 첨단장비부터 범용장비까지 연구 장비 생태계 조성 나선다
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186919&searchOpt=ALL&searchTxt=
-
 ◾ 배경훈 부총리, 인공지능에 관한 국제 동반관계 (글로벌 파트너십<GPAI>) 각료이사회 회의 주재
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186918&searchOpt=ALL&searchTxt=
 
 ◾ 국가 인공지능 전환을 견인할 인공지능 혁신대학원 신설 추진
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186917&searchOpt=ALL&searchTxt=
 
-◾ 국가인공지능전략위원회 전문임기제공무원(가급) 추가채용 경력경쟁시험 최종합격자 공고
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000010&num=291
-
-◾ 영국, IT 기업에 48시간 내 악성 이미지 삭제 의무화 추진
-https://www.aitimes.com/news/articleView.html?idxno=206997
+◾ ＇국가대표 AI＇ 정예팀에 모티프 추가 선정…4파전 경쟁
+https://www.etnews.com/20260220000243
 
 ◾ 배경훈 부총리, OECD 등 44개국에 “AI는 경제·사회 재편 동력”
 https://www.etnews.com/20260220000137
@@ -71,8 +64,9 @@ https://www.etnews.com/20260220000137
 ◾ 기계연, AX·AI·탄소중립 선도 인재 채용...내달 13일까지 접수
 https://www.etnews.com/20260220000123
 
-◾ 경기콘텐츠진흥원, 판교 허브 ＇AI 시대의 콘텐츠 창업가들＇ 발간
-https://www.etnews.com/20260220000013
+[기타]
+◾ [기고] 감정 AI의 진짜 위험은 ‘정확도’가 아니라 ‘해석 권한의 이동’
+https://www.aitimes.com/news/articleView.html?idxno=207006
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
