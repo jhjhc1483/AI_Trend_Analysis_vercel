@@ -43,15 +43,11 @@ def load_json_files():
                 
                 # 어제 날짜만
                 if date_str == YESTERDAY:
-                    # 국방부 계열 사이트인 경우 '분류' 필드를 통해 군 정보 추출
-                    branch = item.get('분류')
-                    
                     item_data = {
                         'title': item.get('기사명') or item.get('제목') or '제목 없음',
                         'link': item.get('링크') or item.get('link') or '#',
                         'date': date_str,
-                        'site': site_name,
-                        'branch': branch
+                        'site': site_name
                     }
                     if is_pub:
                         all_pubs.append(item_data)
@@ -71,14 +67,7 @@ def select_and_classify(items, item_type='ARTICLE'):
     model = genai.GenerativeModel('gemini-2.5-flash')
 
     # 프롬프트 구성
-    item_list = []
-    for i, item in enumerate(items):
-        site_display = item['site']
-        if item.get('branch'):
-            site_display = f"{item['site']}({item['branch']})"
-        item_list.append(f"{i}. [{site_display}] {item['title']} ({item['link']})")
-    
-    item_text = "\n".join(item_list)
+    item_text = "\n".join([f"{i}. [{item['site']}] {item['title']} ({item['link']})" for i, item in enumerate(items)])
 
     if item_type == 'ARTICLE':
         system_instruction = """
@@ -159,15 +148,10 @@ def select_and_classify(items, item_type='ARTICLE'):
 
             if idx is not None and 0 <= idx < len(items):
                 original = items[idx]
-                site_name = original['site']
-                if original.get('branch'):
-                    site_name = f"{original['site']}({original['branch']})"
-                    
                 results.append({
                     'title': original['title'],
                     'link': original['link'],
-                    'category': cat,
-                    'site': site_name
+                    'category': cat
                 })
         return results
 
