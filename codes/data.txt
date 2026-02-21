@@ -1,72 +1,46 @@
-📢2026-02-21 AI 일일 동향 보고📢
+📢2026-02-22 AI 일일 동향 보고📢
 
 📰 오늘의 기사
-[국방]
-◾ [첨단 강군 지원하는 군 친화 대학] 디지털 전장 주도 실무형 ‘ICT 전문가’ 양성
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47752&startDate=&endDate=&id=mnd_020101000000
-
-◾ 사이버상 복합 위협 대응…韓·英, 협력체계 강화
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47756&startDate=&endDate=&id=mnd_020101000000
-
-◾ 육사, 첨단과학기술 이해도 높여 전문성 강화
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47758&startDate=&endDate=&id=mnd_020101000000
-
-◾ 李대통령 “첨단 무기체계 전폭 투자”…전작권 환수·불법 계엄 청산 언급도
-https://www.etnews.com/20260220000129
-
-◾ UNIST-경상국립대, ＇우주항공·방산 융합연구원＇ 설립 추진
-https://www.etnews.com/20260220000104
-
 [민간]
-◾ 데이터센터 빅테크, AI 전력 문제로 우라늄 확보에 나서
-https://www.aitimes.com/news/articleView.html?idxno=207010
+◾ 엔비디아, 오픈AI 1000억달러 파트너십을 300억달러 투자로 대체
+https://www.aitimes.com/news/articleView.html?idxno=207030
 
-◾ 알트먼 〃2028년 말 ＇초지능＇ 등장...데이터센터 속 지능이 인류 전체 지능 넘어설 것〃
-https://www.aitimes.com/news/articleView.html?idxno=207016
+◾ 테슬라, 오토파일럿 충돌 사고 3500억 배상 기각 신청 실패
+https://www.aitimes.com/news/articleView.html?idxno=207034
 
-◾ 뉴욕주, 로보택시 서비스 허용안 철회…웨이모 확장 전략에 제동
-https://www.aitimes.com/news/articleView.html?idxno=207024
+◾ 메타, AI 비용 부담으로 직원 주식 보상 2년 연속 삭감
+https://www.aitimes.com/news/articleView.html?idxno=207032
 
-◾ 오픈AI, 1000억달러 투자 라운드 1차 마무리 임박…기업가치 또 상승
-https://www.aitimes.com/news/articleView.html?idxno=206983
+◾ [AI 이슈트렌드] 충주맨 사직·윤석열 무기징역 등 파장 확산
+https://www.aitimes.com/news/articleView.html?idxno=207035
 
-◾ 구글, ＇최강 모델＇ 탈환...추론 성능 2배 향상한 ＇제미나이 3.1 프로＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=206972
+◾ 오픈AI, 컴퓨팅 비용 증가 맞춰 매출 예상 상향 조정...〃광고·B2B에 기대〃
+https://www.aitimes.com/news/articleView.html?idxno=207038
 
-◾ [2월19일] ＇오픈클로＇의 오픈AI 합류가 의미하는 것...〃말하는 챗봇에서 행동하는 에이전트로〃
-https://www.aitimes.com/news/articleView.html?idxno=206944
+◾ 〃오픈AI의 첫번째 장치는 스마트 스피커...스마트 안경·램프도 개발 중〃
+https://www.aitimes.com/news/articleView.html?idxno=207031
 
-◾ 로봇이 스스로 로봇을 만드는 시대… 유니트리의 제조 공장
-https://www.aitimes.com/news/articleView.html?idxno=206967
+◾ 삼성전자, 디바이스 에이전트로 진화한 ‘빅스비’ 베타 프로그램 운영
+https://www.aitimes.com/news/articleView.html?idxno=207029
 
-◾ 카카오, ＇카나나＇ API 첫 개방…멀티모달 AI 상용화 가속
-https://www.etnews.com/20260220000157
+◾ [2월20일] 〃AI 안 쓰면 인사 불이익〃...＇AI 네이티브＇ 단계로 접어든 글로벌 기업들
+https://www.aitimes.com/news/articleView.html?idxno=206995
 
-◾ “이게 70만원대라고?”… 구글, AI·위성 통신 탑재한 ＇픽셀 10a＇ 공개
-https://www.etnews.com/20260220000098
+◾ 샘 올트먼 “일부 기업 ＇AI 핑계＇로 인원 감축…실제 AI 영향 적어”
+https://www.etnews.com/20260220000224
 
-◾ 바이트댄스, 미국 내 AI팀 구축…美 빅테크와 본격 경쟁
-https://www.etnews.com/20260220000008
+◾ [ET톡] 샌드박스에 갇힌 은행 AI
+https://www.etnews.com/20260220000086
+
+◾ [미리 보는 MWC26]〈1〉 AI 기반 ＇지능형 시대＇ 연다…AI·우주 등 모바일 지평 넓혀
+https://www.etnews.com/20260220000212
 
 [기관]
-◾ 배경훈 부총리, 인공지능에 관한 국제 동반관계 (글로벌 파트너십<GPAI>) 각료이사회 회의 주재
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186918&searchOpt=ALL&searchTxt=
+◾ ＇고영향·안전성 의무＇ 고시 행정예고 끝…AI기본법 체계 완성
+https://www.etnews.com/20260220000196
 
-◾ 국가 인공지능 전환을 견인할 인공지능 혁신대학원 신설 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186917&searchOpt=ALL&searchTxt=
-
-◾ ＇국가대표 AI＇ 정예팀에 모티프 추가 선정…4파전 경쟁
-https://www.etnews.com/20260220000243
-
-◾ 배경훈 부총리, OECD 등 44개국에 “AI는 경제·사회 재편 동력”
-https://www.etnews.com/20260220000137
-
-◾ 기계연, AX·AI·탄소중립 선도 인재 채용...내달 13일까지 접수
-https://www.etnews.com/20260220000123
-
-[기타]
-◾ [기고] 감정 AI의 진짜 위험은 ‘정확도’가 아니라 ‘해석 권한의 이동’
-https://www.aitimes.com/news/articleView.html?idxno=207006
+◾ 전북연구원,  피지컬AI·RE100 등 2026년 ＇10대 연구 아젠다＇ 선정
+https://www.etnews.com/20260220000044
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
