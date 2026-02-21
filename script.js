@@ -330,9 +330,12 @@ function createListItem(item) {
         categoryBadge = `<span class="category-badge ${colorClass}">${savedCat}</span>`;
     }
 
+    const learnButton = item.isArticle ? `<button class="learn-btn" onclick="addFewshotExample(event, '${item.link}')" title="AI 분류 학습 데이터로 추가" style="background: none; border: none; cursor: pointer; font-size: 1.1em; padding: 0 5px;">🧠</button>` : '';
+
     return `
         <li class="article-item">
             <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${item.link}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
+            ${learnButton}
             <div class="article-title-group">
                 <a href="#" class="article-title" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
                 ${categoryBadge}
@@ -380,6 +383,83 @@ function clearFavorites(type) {
 function openPopup(link, title) {
     if (link && link !== '#') window.open(link, '_blank');
     else alert(`"${title}" 링크가 없습니다.`);
+}
+
+async function addFewshotExample(event, link) {
+    event.stopPropagation();
+
+    // Find the item
+    const item = articleData.find(a => a.link === link);
+    if (!item) return;
+
+    // Prompt user for category
+    const cat = prompt(`[AI 분류 학습 데이터 추가]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\n이 기사의 올바른 카테고리를 입력하세요.\n(국방, 육군, 민간, 기관, 기타 중 하나)`, "국방");
+    if (!cat) return;
+
+    const category = cat.trim();
+    if (!["국방", "육군", "민간", "기관", "기타"].includes(category)) {
+        alert("❌ 알맞은 카테고리(국방, 육군, 민간, 기관, 기타)를 입력해주세요.");
+        return;
+    }
+
+    const filePath = "codes/favorites/fewshot_examples.json";
+    const getEndpoint = `repos/${OWNER}/${REPO}/contents/${filePath}`;
+
+    let fewshotData = [];
+    let sha = null;
+
+    try {
+        // Show loading status safely
+        const originalText = event.target.textContent;
+        event.target.textContent = "⏳";
+
+        // Try to get existing file
+        try {
+            const getResData = await callProxyAPI(`${getEndpoint}?ref=${BRANCH}`, 'GET');
+            if (getResData && getResData.content) {
+                const decodedContent = base64ToUtf8(getResData.content);
+                fewshotData = JSON.parse(decodedContent);
+                sha = getResData.sha;
+            }
+        } catch (e) {
+            // File might not exist (404), which is fine
+            console.log("Few-shot examples file not found. Creating a new one.");
+        }
+
+        // Check for duplicates
+        const exists = fewshotData.some(d => d.title === item.title && d.site === item.site);
+        if (exists) {
+            alert("⚠️ 이미 학습 데이터에 존재하는 기사입니다.");
+            event.target.textContent = originalText;
+            return;
+        }
+
+        fewshotData.push({
+            site: item.displayName, // user-facing site name
+            title: item.title,
+            category: category
+        });
+
+        const jsonString = JSON.stringify(fewshotData, null, 2);
+        const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
+
+        const putBody = {
+            message: `Add few-shot example: ${item.title}`,
+            content: encodedContent,
+            branch: BRANCH,
+            ...(sha && { sha })
+        };
+
+        await callProxyAPI(getEndpoint, 'PUT', putBody);
+        alert("✅ 올바른 카테고리 학습 데이터(Few-Shot)에 성공적으로 추가되었습니다.");
+
+    } catch (err) {
+        console.error("Error saving few-shot example:", err);
+        alert("❌ 학습 데이터 저장 실패: " + err.message);
+    } finally {
+        // Restore button icon
+        event.target.textContent = "🧠";
+    }
 }
 
 const debounce = (func, delay) => {
@@ -471,7 +551,7 @@ document.getElementById('uploadFavoritesBtn').addEventListener('click', async fu
         }
     }
     // alert("✅ 모든 데이터 업로드 완료");
-    
+
     const WORKFLOW_ID = "json_to_txt.yml";
     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
@@ -481,7 +561,7 @@ document.getElementById('uploadFavoritesBtn').addEventListener('click', async fu
     } catch (error) {
         console.error('Error:', error);
         alert(`❌ 실패: ${error.message}`);
-    }    
+    }
 });
 
 // 사이드바 토글
