@@ -13,6 +13,8 @@ BASE_DIR = os.path.dirname(PROJECT_ROOT) # codes
 FILES_PATTERN = os.path.join(BASE_DIR, "*.json")
 FAV_ARTICLES_PATH = os.path.join(BASE_DIR, "favorites", "favorite_articles.json")
 FAV_PUBS_PATH = os.path.join(BASE_DIR, "favorites", "favorite_publications.json")
+FEWSHOT_EXAMPLES_PATH = os.path.join(BASE_DIR, "favorites", "fewshot_examples.json")
+
 
 PUB_SITES = ['IITP', 'NIA', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA']
 
@@ -90,6 +92,22 @@ def select_and_classify(items, item_type='ARTICLE'):
   ...
 ]
 """
+        
+        # Few-shot 예제 동적 로드
+        fewshot_text = ""
+        try:
+            if os.path.exists(FEWSHOT_EXAMPLES_PATH):
+                with open(FEWSHOT_EXAMPLES_PATH, 'r', encoding='utf-8') as f:
+                    examples = json.load(f)
+                if examples:
+                    fewshot_text = "\n\n[분류 학습 예시 (Few-Shot)]\n다음은 사용자가 직접 분류한 기사와 카테고리의 예시입니다. 이 기준을 최우선으로 학습하여 유사한 제목이나 사이트의 기사를 분류할 때 동일한 카테고리를 부여하십시오:\n"
+                    for ex in examples:
+                        fewshot_text += f"- [{ex.get('site', '알수없음')}] {ex.get('title', '제목없음')} -> 카테고리: {ex.get('category', '기타')}\n"
+        except Exception as e:
+            print(f"Error loading fewshot examples: {e}")
+
+        system_instruction += fewshot_text
+
         user_prompt = f"다음 기사 목록에서 중요 기사를 선정하고 카테고리를 분류 :\n\n{item_text}"
     else:
         # 간행물은 '간행물'로 통일
