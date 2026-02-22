@@ -37,9 +37,10 @@ def categorize_articles(articles):
         categorized[category].append(item)
     return categorized
 
-
 def generate_report_text(categorized):
-    today = datetime.now(ZoneInfo("Asia/Seoul")).strftime("%Y-%m-%d")
+    # "%Y-%m-%d" 형식을 "%y.%m.%d" 형식으로 수정
+    today = datetime.now(ZoneInfo("Asia/Seoul")).strftime("%y.%m.%d")
+    # today = datetime.now(ZoneInfo("Asia/Seoul")).strftime("%Y-%m-%d")
     lines = [f"📢{today} AI 일일 동향 보고📢\n"]
     lines.append("📰 오늘의 기사")
 #⌨️📰📚📖📒📔📃🗓️🔖💡📢🔊 ✨🎧🔎🌍⭐🌈🔥⚠️◾▪️◼️🔴
