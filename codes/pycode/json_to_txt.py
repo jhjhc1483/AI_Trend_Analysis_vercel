@@ -15,7 +15,7 @@ FILES = [
 
 OUTPUT_FILE = PROJECT_ROOT / "codes/data.txt"
 
-FIXED_CATEGORIES = ["국방", "육군", "민간", "기관", "기타"]
+FIXED_CATEGORIES = ["국방", "육군", "민간", "기관", "해외", "기타"]
 LAST_CATEGORY = "간행물"
 
 
