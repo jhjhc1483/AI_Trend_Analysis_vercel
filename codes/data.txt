@@ -1,13 +1,6 @@
 📢2026-02-23 AI 일일 동향 보고📢
 
 📰 오늘의 기사
-[국방]
-◾ ＇같이 또 따로＇ 원팀 전략…K-조선, 글로벌 함정 시장 정조준
-https://www.etnews.com/20260220000126
-
-◾ 비밀인 듯... 아닌 듯 … 정보전, 국가의 운명을 흔들다
-https://kookbang.dema.mil.kr/newsWeb/20260223/2/ATCE_CTGR_0020010020/view.do;JSESSIONID_kookbnagWEB=SD-EtoN-yjcRrmn8CBPaKvNoD9yuAdCoDLM51C4CDJ7yVQ4eIc1E!821738159
-
 [민간]
 ◾ KT, MWC서 기업 AX 운영 체제 ‘에이전틱 패브릭’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=207015
@@ -21,8 +14,14 @@ https://www.aitimes.com/news/articleView.html?idxno=207049
 ◾ 삼성전자, ＇갤럭시 S26＇에 퍼플렉시티 AI 에이전트 기본 탑재
 https://www.aitimes.com/news/articleView.html?idxno=207048
 
+◾ 통신사 AIDC 확충 속도…수도권 규제 덜고 지방 PPA 빗장 푼다
+https://www.etnews.com/20260220000214
+
 ◾ 최태원 SK 회장 “HBM 생산량 늘려야…안정적 에너지 공급도 필요”
 https://www.etnews.com/20260222000050
+
+◾ 국내 휴머노이드 17종 집결…28일 ＇서울AI페스티벌＇ 개최
+https://www.etnews.com/20260222000033
 
 [기관]
 ◾ “현실의 한계를 넘는 혁신“ 차세대 가상 융합 시대를 열어갈 청년 인재를 모집합니다!
@@ -33,9 +32,6 @@ https://www.etnews.com/20260222000045
 
 ◾ ＇국가대표 AI＇ 4파전 경쟁 돌입…독자성·확장성이 승부처
 https://www.etnews.com/20260222000001
-
-◾ 통신사 AIDC 확충 속도…수도권 규제 덜고 지방 PPA 빗장 푼다
-https://www.etnews.com/20260220000214
 
 ◾ “AI 악용·허위 광고, AI로 잡는다”…소비자원, ＇AI시장감시센터＇ 설계 착수
 https://www.etnews.com/20260220000139
@@ -59,12 +55,6 @@ https://www.etnews.com/20260222000084
 ◾ 오픈AI, 캐나다 총격 사건 8개월 전 위험 감지...신고는 안 해
 https://www.aitimes.com/news/articleView.html?idxno=207044
 
-◾ 딥마인드 출신 연구원, ＇초인 지능＇으로 유럽 사상 최대 시드 투자 눈앞
-https://www.aitimes.com/news/articleView.html?idxno=207047
-
-◾ 무라티의 싱킹 머신스 랩, 또 인재 이탈...오픈AI 복귀 이어져
-https://www.aitimes.com/news/articleView.html?idxno=207043
-
 ◾ 중국 뇌 임플란트 스타트업, 베이징 지원으로 머스크의 뉴럴링크 앞서
 https://www.aitimes.com/news/articleView.html?idxno=207045
 
@@ -82,9 +72,6 @@ https://www.etnews.com/20260220000167
 
 ◾ [ET시론]AI의 불완전성이 인류의 역할을 만든다
 https://www.etnews.com/20260220000092
-
-◾ 국내 휴머노이드 17종 집결…28일 ＇서울AI페스티벌＇ 개최
-https://www.etnews.com/20260222000033
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
