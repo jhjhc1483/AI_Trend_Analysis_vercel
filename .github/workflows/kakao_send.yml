@@ -1,0 +1,30 @@
+name: KakaoTalk Auto Send
+
+on:
+  push:
+    branches: [ main ]
+  workflow_dispatch: # GitHub 웹에서 버튼 눌러서 직접 실행 가능
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v3
+
+      - name: Set up Python
+        uses: actions/setup-python@v4
+        with:
+          python-version: '3.9'
+
+      - name: Install dependencies
+        run: |
+          pip install requests python-dotenv
+
+      - name: Run KakaoTalk Script
+        env:
+          # GitHub Secrets에 저장된 키를 환경 변수로 매핑
+          KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
+          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
+        # 파이썬 파일이 scripts/ 폴더 안에 있다면: python scripts/send_kakao.py
+        run: python send_kakao.py
