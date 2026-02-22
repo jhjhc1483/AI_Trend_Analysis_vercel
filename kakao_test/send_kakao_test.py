@@ -1,11 +1,16 @@
 import requests
 import json
+import os
+from dotenv import load_dotenv
+
+# .env 파일 로드
+load_dotenv()
 
 # ==========================================
-# 1. 여기에 본인의 정보를 입력하세요 (테스트용)
+# 1. 환경 변수에서 정보 로드
 # ==========================================
-REST_API_KEY = "***KAKAO_REST_API_KEY_REMOVED***"
-REFRESH_TOKEN = "***KAKAO_REFRESH_TOKEN_REMOVED***"
+REST_API_KEY = os.getenv("KAKAO_REST_API_KEY")
+REFRESH_TOKEN = os.getenv("KAKAO_REFRESH_TOKEN")
 # ==========================================
 
 def get_new_access_token():
