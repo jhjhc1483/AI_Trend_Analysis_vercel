@@ -2,6 +2,8 @@ name: KakaoTalk Auto Send
 
 on:
   workflow_dispatch: # GitHub 웹에서 버튼 눌러서 직접 실행 가능
+  schedule:
+   - cron: '30 21 * * *' #매일 오전 6시반    
 
 jobs:
   build:
