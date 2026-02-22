@@ -71,23 +71,23 @@ def select_and_classify(items, item_type='ARTICLE'):
 
     if item_type == 'ARTICLE':
         system_instruction = """
-당신은 대한민국 국방 및 AI 동향 분석 전문가입니다.
-주어진 기사 목록 중에서 '국방 AI', 'AI 최신 트렌드', '주요 과학기술 정책'과 관련된 중요 기사를 선정해야 함.
-선정 기준:
-1. 국방/군사 분야와 직접 관련된 AI/IT 기사 (최우선)
-2. AI 기술의 획기적인 발전이나 주요 기업(Google, OpenAI 등)의 핵심 발표
-3. 정부(국가인공지능전략위원회, 과기정통부 등)의 주요 AI 정책
+You are an expert in analyzing South Korean defense and AI trends.
+From the given list of articles, you must select important articles related to 'Defense AI', 'Latest AI Trends', and 'Major Science & Technology Policies'.
+Selection Criteria:
+1. AI/IT articles directly related to the defense/military sector (Highest Priority)
+2. Groundbreaking advancements in AI technology or key announcements from major companies (e.g., Naver, LG, Google, OpenAI)
+3. Major AI policies of the government (e.g., Presidential Committee on AI, MSIT)
 
-각 선정된 기사에 대해 다음 카테고리 중 하나를 지정해야 함:
-- 국방: 국방 관련 기사 중 인공지능, IT 관련된 기사만
-- 육군: 육군 관련 기사 중 인공지능, IT 관련된 기사만
-- 민간: 일반 기업, 기술 트렌드, 해외 동향(중요도에 따라 10건 이하)
-- 기관: 국가인공지능전략위원회, 과기정통부, 기타 정부 기관, 공공 정책, 연구소
-- 해외: 해외 국가, 기업, 기술 등 인공지능 관련 동향
-- 기타: 그 외
+For each selected article, you must assign one of the following categories:
+- 국방 (Defense): Only AI/IT-related articles within defense-related news.
+- 육군 (Army): Only AI/IT-related articles within Army-related news.
+- 민간 (Private Sector): General companies, tech trends, international trends (10 or fewer depending on importance).
+- 기관 (Institution): Presidential Committee on AI, MSIT, other government agencies, public policies, research institutes.
+- 해외 (Overseas): AI-related trends in foreign countries, companies, and technologies.
+- 기타 (Other): Anything else.
 
-응답 형식은 반드시 유효한 JSON 배열이어야 함. 마크다운이나 코드 블록 없이 순수 JSON만 반환해야 함.
-형식:
+The response format must be a valid JSON array. Return only pure JSON without markdown or code blocks.
+Format:
 [
   { "index": 0, "category": "국방" },
   ...
@@ -101,35 +101,35 @@ def select_and_classify(items, item_type='ARTICLE'):
                 with open(FEWSHOT_EXAMPLES_PATH, 'r', encoding='utf-8') as f:
                     examples = json.load(f)
                 if examples:
-                    fewshot_text = "\n\n[분류 학습 예시 (Few-Shot)]\n다음은 사용자가 직접 분류한 기사와 카테고리의 예시입니다. 이 기준을 최우선으로 학습하여 유사한 제목이나 사이트의 기사를 분류할 때 동일한 카테고리를 부여하십시오:\n"
+                    fewshot_text = "\n\n[Classification Learning Examples (Few-Shot)]\nThe following are examples of articles and categories manually classified by the user. Prioritize learning these criteria and assign the same category when classifying articles with similar titles or sites:\n"
                     for ex in examples:
-                        fewshot_text += f"- [{ex.get('site', '알수없음')}] {ex.get('title', '제목없음')} -> 카테고리: {ex.get('category', '기타')}\n"
+                        fewshot_text += f"- [{ex.get('site', 'Unknown')}] {ex.get('title', 'No Title')} -> Category: {ex.get('category', '기타')}\n"
         except Exception as e:
             print(f"Error loading fewshot examples: {e}")
 
         system_instruction += fewshot_text
 
-        user_prompt = f"다음 기사 목록에서 중요 기사를 선정하고 카테고리를 분류 :\n\n{item_text}"
+        user_prompt = f"Select important articles from the following list and classify their categories:\n\n{item_text}"
     else:
         # 간행물은 '간행물'로 통일
         system_instruction = """
-당신은 AI 및 IT 기술 간행물 분석 전문가입니다.
-주어진 간행물(보고서) 목록 중에서 국방 및 AI 기술 연구 개발에 도움이 될만한 핵심 간행물을 선정해주세요.
-선정 기준:
-1. 국방, 안보, 보안 관련 과학기술 보고서
-2. AI, LLM, 반도체 등 최신 핵심 기술 동향 보고서
-3. 주요 과학기술 정책 연구 보고서
+You are an expert analyzing AI and IT technology publications.
+From the given list of publications (reports), please select key publications that would be helpful for defense and AI technology research and development.
+Selection Criteria:
+1. Science and technology reports related to defense and security.
+2. Reports on the latest core technology trends such as AI, LLM, semiconductors, etc.
+3. Major science and technology policy research reports.
 
-선정된 항목의 카테고리는 모두 '간행물'로 지정.
+Categorize all selected items as '간행물'.
 
-응답 형식은 반드시 유효한 JSON 배열이어야 함. 마크다운이나 코드 블록 없이 순수 JSON만 반환해야 함.
-형식:
+The response format must be a valid JSON array. Return only pure JSON without markdown or code blocks.
+Format:
 [
   { "index": 0, "category": "간행물" },
   ...
 ]
 """
-        user_prompt = f"다음 간행물 목록에서 중요 항목을 선정해 주세요:\n\n{item_text}"
+        user_prompt = f"Please select important items from the following publication list:\n\n{item_text}"
 
     try:
         response = model.generate_content(system_instruction + "\n\n" + user_prompt, generation_config={"response_mime_type": "application/json"})
