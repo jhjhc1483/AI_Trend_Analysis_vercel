@@ -5,8 +5,17 @@
 ◾ ＇같이 또 따로＇ 원팀 전략…K-조선, 글로벌 함정 시장 정조준
 https://www.etnews.com/20260220000126
 
+◾ 한·캐나다 외교·국방 25일 2+2 장관회의 개최
+https://kookbang.dema.mil.kr/newsWeb/20260223/4/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=SD-EtoN-yjcRrmn8CBPaKvNoD9yuAdCoDLM51C4CDJ7yVQ4eIc1E!821738159
+
 ◾ 비밀인 듯... 아닌 듯 … 정보전, 국가의 운명을 흔들다
 https://kookbang.dema.mil.kr/newsWeb/20260223/2/ATCE_CTGR_0020010020/view.do;JSESSIONID_kookbnagWEB=SD-EtoN-yjcRrmn8CBPaKvNoD9yuAdCoDLM51C4CDJ7yVQ4eIc1E!821738159
+
+◾ 美 정보당국 “中 차세대 핵무기 개발 가속화”
+https://kookbang.dema.mil.kr/newsWeb/20260223/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=SD-EtoN-yjcRrmn8CBPaKvNoD9yuAdCoDLM51C4CDJ7yVQ4eIc1E!821738159
+
+◾ 한·미·일 “대북 억지력 강화”…정책 공조 한목소리
+https://kookbang.dema.mil.kr/newsWeb/20260223/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=SD-EtoN-yjcRrmn8CBPaKvNoD9yuAdCoDLM51C4CDJ7yVQ4eIc1E!821738159
 
 [민간]
 ◾ KT, MWC서 기업 AX 운영 체제 ‘에이전틱 패브릭’ 공개
@@ -23,15 +32,6 @@ https://www.aitimes.com/news/articleView.html?idxno=207048
 
 ◾ “AI로 AI 공격 막는다”…앤트로픽, ＇코드 보안 점검＇ 기능 출시
 https://www.etnews.com/20260222000030
-
-◾ “AI 자원의 민주화”…印 AI정상회의 공동선언에 86개국 동참
-https://www.etnews.com/20260222000002
-
-◾ 미국 노동부, AI 인재·확산 위한 ＇리터러시 프레임워크＇ 발표
-https://www.etnews.com/20260220000167
-
-◾ 연세대 연구팀, 소자에 64배 정보 담는 ＇산화물 AI 반도체＇ 개발
-https://www.etnews.com/20260220000109
 
 ◾ 국내 휴머노이드 17종 집결…28일 ＇서울AI페스티벌＇ 개최
 https://www.etnews.com/20260222000033
@@ -55,18 +55,34 @@ https://www.etnews.com/20260220000072
 ◾ ＇중소 제조현장에 AI 심는다＇…중기부·스마트제조혁신추진단·중기중앙회, ＇AI 상용화＇ 본격 추진
 https://www.etnews.com/20260220000121
 
-◾ 과기정통부, ＇AI+XR＇ 가상융합기술 아카데미 교육생 모집
-https://www.etnews.com/20260222000034
+◾ 연세대 연구팀, 소자에 64배 정보 담는 ＇산화물 AI 반도체＇ 개발
+https://www.etnews.com/20260220000109
+
+◾ 경기도, 대학원생 창업 최대3000만원 지원…AI 빅데이터 분야 공모
+https://www.etnews.com/20260222000084
 
 [기타]
+◾ 오픈AI, 캐나다 총격 사건 8개월 전 위험 감지...신고는 안 해
+https://www.aitimes.com/news/articleView.html?idxno=207044
+
+◾ 중국 뇌 임플란트 스타트업, 베이징 지원으로 머스크의 뉴럴링크 앞서
+https://www.aitimes.com/news/articleView.html?idxno=207045
+
+◾ 실리콘밸리에 닥친 ＇AI 제2의 물결＇...〃비용절감 넘어 새 경험 줘야〃
+https://www.aitimes.com/news/articleView.html?idxno=207050
+
+◾ “AI 자원의 민주화”…印 AI정상회의 공동선언에 86개국 동참
+https://www.etnews.com/20260222000002
+
+◾ 미국 노동부, AI 인재·확산 위한 ＇리터러시 프레임워크＇ 발표
+https://www.etnews.com/20260220000167
+
 ◾ [ET시론]AI의 불완전성이 인류의 역할을 만든다
 https://www.etnews.com/20260220000092
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
 (링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
-
-
 
 
 ✅위 내용은 GEMINI에 의해 작성됨.
