@@ -78,7 +78,7 @@ def generate_report_text(categorized):
     lines.append("(링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))")
     lines.append("")
     lines.append("")
-    lines.append("🤖AI Development Department🧑‍🤝‍🧑")
+    # lines.append("🤖AI Development Department🧑‍🤝‍🧑")
     
     if os.environ.get('AUTO_MODE') == 'true':
         lines.append("\n\n✅위 내용은 GEMINI에 의해 작성됨.")

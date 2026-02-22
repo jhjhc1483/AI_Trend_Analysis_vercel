@@ -42,3 +42,10 @@ jobs:
         git add codes/favorites/*.json codes/data.txt
         git commit -m "Update favorites & data.txt (Auto-generated)" || echo "No changes to commit"
         git push
+
+    - name: Run send_kakao.py
+      env:
+        KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
+        KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
+      run: python codes/pycode/send_kakao.py
+
