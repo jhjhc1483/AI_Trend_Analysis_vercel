@@ -1,8 +1,6 @@
 name: KakaoTalk Auto Send
 
 on:
-  push:
-    branches: [ main ]
   workflow_dispatch: # GitHub 웹에서 버튼 눌러서 직접 실행 가능
 
 jobs:
