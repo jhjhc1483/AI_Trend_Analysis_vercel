@@ -4,8 +4,8 @@ import json
 # ==========================================
 # 1. 여기에 본인의 정보를 입력하세요 (테스트용)
 # ==========================================
-REST_API_KEY = "여기에_REST_API_키_입력"
-REFRESH_TOKEN = "여기에_발급받은_REFRESH_TOKEN_입력"
+REST_API_KEY = "ec4d2f27be18d464fd7b0a3c13ac6426"
+REFRESH_TOKEN = "0zsWEwDdSF9-xzwFLJu2yoQwYf6zHaOpAAAAAgoXFO4AAAGcgsSLPkPPWzORmYVE"
 # ==========================================
 
 def get_new_access_token():
@@ -27,13 +27,13 @@ def get_new_access_token():
         return None
 
 def send_message(access_token):
-    """message.txt의 내용을 나에게 보내기 API로 전송합니다."""
+    """test_message.txt의 내용을 나에게 보내기 API로 전송합니다."""
     # txt 파일 읽기
     try:
-        with open('message.txt', 'r', encoding='utf-8') as f:
+        with open('test_message.txt', 'r', encoding='utf-8') as f:
             msg_content = f.read()
     except FileNotFoundError:
-        print("❌ message.txt 파일을 찾을 수 없습니다.")
+        print("❌ test_message.txt 파일을 찾을 수 없습니다.")
         return
 
     url = "https://kapi.kakao.com/v2/api/talk/memo/default/send"

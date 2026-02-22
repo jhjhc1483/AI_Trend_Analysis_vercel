@@ -1,3 +1,5 @@
+# 청크 안나눈 버전
+
 import requests
 import json
 import os
