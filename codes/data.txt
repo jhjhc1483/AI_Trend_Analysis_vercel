@@ -1,50 +1,10 @@
-📢2026-02-22 AI 일일 동향 보고📢
+📢2026-02-23 AI 일일 동향 보고📢
 
 📰 오늘의 기사
-[민간]
-◾ 엔비디아, 오픈AI 1000억달러 파트너십을 300억달러 투자로 대체
-https://www.aitimes.com/news/articleView.html?idxno=207030
-
-◾ 테슬라, 오토파일럿 충돌 사고 3500억 배상 기각 신청 실패
-https://www.aitimes.com/news/articleView.html?idxno=207034
-
-◾ 메타, AI 비용 부담으로 직원 주식 보상 2년 연속 삭감
-https://www.aitimes.com/news/articleView.html?idxno=207032
-
-◾ [AI 이슈트렌드] 충주맨 사직·윤석열 무기징역 등 파장 확산
-https://www.aitimes.com/news/articleView.html?idxno=207035
-
-◾ 오픈AI, 컴퓨팅 비용 증가 맞춰 매출 예상 상향 조정...〃광고·B2B에 기대〃
-https://www.aitimes.com/news/articleView.html?idxno=207038
-
-◾ 〃오픈AI의 첫번째 장치는 스마트 스피커...스마트 안경·램프도 개발 중〃
-https://www.aitimes.com/news/articleView.html?idxno=207031
-
-◾ 삼성전자, 디바이스 에이전트로 진화한 ‘빅스비’ 베타 프로그램 운영
-https://www.aitimes.com/news/articleView.html?idxno=207029
-
-◾ [2월20일] 〃AI 안 쓰면 인사 불이익〃...＇AI 네이티브＇ 단계로 접어든 글로벌 기업들
-https://www.aitimes.com/news/articleView.html?idxno=206995
-
-◾ 샘 올트먼 “일부 기업 ＇AI 핑계＇로 인원 감축…실제 AI 영향 적어”
-https://www.etnews.com/20260220000224
-
-◾ [ET톡] 샌드박스에 갇힌 은행 AI
-https://www.etnews.com/20260220000086
-
-◾ [미리 보는 MWC26]〈1〉 AI 기반 ＇지능형 시대＇ 연다…AI·우주 등 모바일 지평 넓혀
-https://www.etnews.com/20260220000212
-
-[기관]
-◾ ＇고영향·안전성 의무＇ 고시 행정예고 끝…AI기본법 체계 완성
-https://www.etnews.com/20260220000196
-
-◾ 전북연구원,  피지컬AI·RE100 등 2026년 ＇10대 연구 아젠다＇ 선정
-https://www.etnews.com/20260220000044
-
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
 (링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
+
 
 
 
