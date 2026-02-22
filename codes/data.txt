@@ -1,6 +1,70 @@
 📢2026-02-23 AI 일일 동향 보고📢
 
 📰 오늘의 기사
+[국방]
+◾ ＇같이 또 따로＇ 원팀 전략…K-조선, 글로벌 함정 시장 정조준
+https://www.etnews.com/20260220000126
+
+◾ 비밀인 듯... 아닌 듯 … 정보전, 국가의 운명을 흔들다
+https://kookbang.dema.mil.kr/newsWeb/20260223/2/ATCE_CTGR_0020010020/view.do;JSESSIONID_kookbnagWEB=SD-EtoN-yjcRrmn8CBPaKvNoD9yuAdCoDLM51C4CDJ7yVQ4eIc1E!821738159
+
+[민간]
+◾ KT, MWC서 기업 AX 운영 체제 ‘에이전틱 패브릭’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=207015
+
+◾ LG, ‘인도 AI 정상회의’서 한국판 AI 위험분류체계 공개
+https://www.aitimes.com/news/articleView.html?idxno=207049
+
+◾ 중국 뇌 임플란트 스타트업, 베이징 지원으로 머스크의 뉴럴링크 앞서
+https://www.aitimes.com/news/articleView.html?idxno=207045
+
+◾ 삼성전자, ＇갤럭시 S26＇에 퍼플렉시티 AI 에이전트 기본 탑재
+https://www.aitimes.com/news/articleView.html?idxno=207048
+
+◾ 실리콘밸리에 닥친 ＇AI 제2의 물결＇...〃비용절감 넘어 새 경험 줘야〃
+https://www.aitimes.com/news/articleView.html?idxno=207050
+
+◾ “AI로 AI 공격 막는다”…앤트로픽, ＇코드 보안 점검＇ 기능 출시
+https://www.etnews.com/20260222000030
+
+◾ “AI 자원의 민주화”…印 AI정상회의 공동선언에 86개국 동참
+https://www.etnews.com/20260222000002
+
+◾ 미국 노동부, AI 인재·확산 위한 ＇리터러시 프레임워크＇ 발표
+https://www.etnews.com/20260220000167
+
+◾ 국내 휴머노이드 17종 집결…28일 ＇서울AI페스티벌＇ 개최
+https://www.etnews.com/20260222000033
+
+[기관]
+◾ “현실의 한계를 넘는 혁신“ 차세대 가상 융합 시대를 열어갈 청년 인재를 모집합니다!
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186920&searchOpt=ALL&searchTxt=
+
+◾ 국가대표 AI 재도전 모티프·트릴리온, 독자 모델 개발 지속
+https://www.etnews.com/20260222000045
+
+◾ ＇국가대표 AI＇ 4파전 경쟁 돌입…독자성·확장성이 승부처
+https://www.etnews.com/20260222000001
+
+◾ “AI 악용·허위 광고, AI로 잡는다”…소비자원, ＇AI시장감시센터＇ 설계 착수
+https://www.etnews.com/20260220000139
+
+◾ IITP, AX·피지컬AI에 방점...성과 창출형 조직으로 체계 강화
+https://www.etnews.com/20260220000072
+
+◾ ＇중소 제조현장에 AI 심는다＇…중기부·스마트제조혁신추진단·중기중앙회, ＇AI 상용화＇ 본격 추진
+https://www.etnews.com/20260220000121
+
+◾ 과기정통부, ＇AI+XR＇ 가상융합기술 아카데미 교육생 모집
+https://www.etnews.com/20260222000034
+
+◾ 경기도, 대학원생 창업 최대3000만원 지원…AI 빅데이터 분야 공모
+https://www.etnews.com/20260222000084
+
+[기타]
+◾ [ET시론]AI의 불완전성이 인류의 역할을 만든다
+https://www.etnews.com/20260220000092
+
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
 (링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
