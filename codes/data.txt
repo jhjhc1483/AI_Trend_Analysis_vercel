@@ -2,9 +2,6 @@
 
 📰 오늘의 기사
 [국방]
-◾ ＇같이 또 따로＇ 원팀 전략…K-조선, 글로벌 함정 시장 정조준
-https://www.etnews.com/20260220000126
-
 ◾ 비밀인 듯... 아닌 듯 … 정보전, 국가의 운명을 흔들다
 https://kookbang.dema.mil.kr/newsWeb/20260223/2/ATCE_CTGR_0020010020/view.do;JSESSIONID_kookbnagWEB=SD-EtoN-yjcRrmn8CBPaKvNoD9yuAdCoDLM51C4CDJ7yVQ4eIc1E!821738159
 
@@ -21,11 +18,8 @@ https://www.aitimes.com/news/articleView.html?idxno=207049
 ◾ 삼성전자, ＇갤럭시 S26＇에 퍼플렉시티 AI 에이전트 기본 탑재
 https://www.aitimes.com/news/articleView.html?idxno=207048
 
-◾ 최태원 SK 회장 “HBM 생산량 늘려야…안정적 에너지 공급도 필요”
-https://www.etnews.com/20260222000050
-
-◾ 연세대 연구팀, 소자에 64배 정보 담는 ＇산화물 AI 반도체＇ 개발
-https://www.etnews.com/20260220000109
+◾ 통신사 AIDC 확충 속도…수도권 규제 덜고 지방 PPA 빗장 푼다
+https://www.etnews.com/20260220000214
 
 ◾ 국내 휴머노이드 17종 집결…28일 ＇서울AI페스티벌＇ 개최
 https://www.etnews.com/20260222000033
@@ -40,11 +34,8 @@ https://www.etnews.com/20260222000045
 ◾ ＇국가대표 AI＇ 4파전 경쟁 돌입…독자성·확장성이 승부처
 https://www.etnews.com/20260222000001
 
-◾ 통신사 AIDC 확충 속도…수도권 규제 덜고 지방 PPA 빗장 푼다
-https://www.etnews.com/20260220000214
-
-◾ [에듀플러스]“질문하는 힘이 경쟁력”…AI 배움 열기 가득한 부산 ＇꿈찾기 캠프＇ 현장
-https://www.etnews.com/20260222000044
+◾ “AI 자원의 민주화”…印 AI정상회의 공동선언에 86개국 동참
+https://www.etnews.com/20260222000002
 
 ◾ “AI 악용·허위 광고, AI로 잡는다”…소비자원, ＇AI시장감시센터＇ 설계 착수
 https://www.etnews.com/20260220000139
@@ -55,21 +46,12 @@ https://www.etnews.com/20260220000072
 ◾ ＇중소 제조현장에 AI 심는다＇…중기부·스마트제조혁신추진단·중기중앙회, ＇AI 상용화＇ 본격 추진
 https://www.etnews.com/20260220000121
 
-◾ 과기정통부, ＇AI+XR＇ 가상융합기술 아카데미 교육생 모집
-https://www.etnews.com/20260222000034
-
-◾ 경기도, 대학원생 창업 최대3000만원 지원…AI 빅데이터 분야 공모
-https://www.etnews.com/20260222000084
-
-[기타]
+[해외]
 ◾ 오픈AI, 캐나다 총격 사건 8개월 전 위험 감지...신고는 안 해
 https://www.aitimes.com/news/articleView.html?idxno=207044
 
 ◾ 딥마인드 출신 연구원, ＇초인 지능＇으로 유럽 사상 최대 시드 투자 눈앞
 https://www.aitimes.com/news/articleView.html?idxno=207047
-
-◾ 무라티의 싱킹 머신스 랩, 또 인재 이탈...오픈AI 복귀 이어져
-https://www.aitimes.com/news/articleView.html?idxno=207043
 
 ◾ 중국 뇌 임플란트 스타트업, 베이징 지원으로 머스크의 뉴럴링크 앞서
 https://www.aitimes.com/news/articleView.html?idxno=207045
@@ -80,12 +62,10 @@ https://www.aitimes.com/news/articleView.html?idxno=207050
 ◾ “AI로 AI 공격 막는다”…앤트로픽, ＇코드 보안 점검＇ 기능 출시
 https://www.etnews.com/20260222000030
 
-◾ “AI 자원의 민주화”…印 AI정상회의 공동선언에 86개국 동참
-https://www.etnews.com/20260222000002
-
 ◾ 미국 노동부, AI 인재·확산 위한 ＇리터러시 프레임워크＇ 발표
 https://www.etnews.com/20260220000167
 
+[기타]
 ◾ [ET시론]AI의 불완전성이 인류의 역할을 만든다
 https://www.etnews.com/20260220000092
 
