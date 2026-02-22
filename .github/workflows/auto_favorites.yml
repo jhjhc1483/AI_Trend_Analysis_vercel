@@ -47,5 +47,5 @@ jobs:
       env:
         KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
         KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
-      run: python codes/pycode/send_kakao.py
+      run: python codes/pycode/send_kakao2.py
 
