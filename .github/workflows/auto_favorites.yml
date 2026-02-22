@@ -22,6 +22,7 @@ jobs:
     - name: 필요 라이브러리 설치
       run: |
         pip install google-generativeai
+        pip install python-dotenv
 
     - name: 즐겨찾기 자동 생성 스크립트 실행
       env:
