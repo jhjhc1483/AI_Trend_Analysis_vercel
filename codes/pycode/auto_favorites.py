@@ -144,7 +144,7 @@ Format:
                 cat = '간행물'
             else:
                 cat = selection.get('category', '기타')
-                if cat not in ["국방", "육군", "민간", "기관", "기타"]:
+                if cat not in ["국방", "육군", "민간", "기관", "해외", "기타"]:
                     cat = "기타"
 
             if idx is not None and 0 <= idx < len(items):
