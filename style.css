@@ -146,6 +146,8 @@ h1 { color: #2c3e50; margin-top: 0; }
 .cat-etc { background-color: #ffcc00; color: #333; }
 /* 기관: 핑크색 */
 .cat-pub { background-color: #fb9de8;color: #333; }
+/* 해외: 보라색 */
+.cat-foreign { background-color: #a600ff;color: #ffffff; }
 /* 기본값(지정 안됨 등) */
 .cat-default { background-color: #758888; }
 
