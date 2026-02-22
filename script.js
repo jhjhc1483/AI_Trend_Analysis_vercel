@@ -323,6 +323,7 @@ function createListItem(item) {
             else if (savedCat === '육군') colorClass = 'cat-army';
             else if (savedCat === '민간') colorClass = 'cat-civil';
             else if (savedCat === '기관') colorClass = 'cat-pub';
+            else if (savedCat === '해외') colorClass = 'cat-foreign';
             else if (savedCat === '기타') colorClass = 'cat-etc';
         } else {
             colorClass = 'cat-default';
@@ -354,7 +355,7 @@ function toggleFavorite(event, link, isArticle) {
     if (isArticle) {
         if (favoriteArticles.has(link)) favoriteArticles.delete(link);
         else {
-            let cat = prompt("카테고리 (국방, 육군, 민간, 기관, 기타)", "");
+            let cat = prompt("카테고리 (국방, 육군, 민간, 기관, 해외, 기타)", "");
             if (cat === null) return;
             favoriteArticles.set(link, cat.trim() || "기타");
         }
@@ -393,12 +394,12 @@ async function addFewshotExample(event, link) {
     if (!item) return;
 
     // Prompt user for category
-    const cat = prompt(`[AI 분류 학습 데이터 추가]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\n이 기사의 올바른 카테고리를 입력하세요.\n(국방, 육군, 민간, 기관, 기타 중 하나)`, "국방");
+    const cat = prompt(`[AI 분류 학습 데이터 추가]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\n이 기사의 올바른 카테고리를 입력하세요.\n(국방, 육군, 민간, 기관, 해외, 기타 중 하나)`, "국방");
     if (!cat) return;
 
     const category = cat.trim();
-    if (!["국방", "육군", "민간", "기관", "기타"].includes(category)) {
-        alert("❌ 알맞은 카테고리(국방, 육군, 민간, 기관, 기타)를 입력해주세요.");
+    if (!["국방", "육군", "민간", "기관", "해외", "기타"].includes(category)) {
+        alert("❌ 알맞은 카테고리(국방, 육군, 민간, 기관, 해외, 기타)를 입력해주세요.");
         return;
     }
 
