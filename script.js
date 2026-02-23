@@ -34,6 +34,29 @@ async function callProxyAPI(endpoint, method = 'GET', body = null) {
     }
 }
 
+// 비밀번호 확인 함수
+async function verifyPassword() {
+    const pw = prompt("관리자 비밀번호를 입력하세요:");
+    if (!pw) return false;
+
+    try {
+        const res = await fetch('/api/auth', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ password: pw })
+        });
+        const data = await res.json();
+        if (data.success) return true;
+        else {
+            alert("비밀번호가 틀렸습니다.");
+            return false;
+        }
+    } catch (e) {
+        alert("비밀번호 확인 중 오류가 발생했습니다.");
+        return false;
+    }
+}
+
 // -----------------------------------------------------
 // 2. 기사 업데이트 실행 (runActionBtn)
 // -----------------------------------------------------
@@ -495,6 +518,10 @@ document.getElementById('autoSelectFavoritesBtn').addEventListener('click', asyn
 
     if (!confirm(message)) return;
 
+    // 비밀번호 확인 추가
+    const isVerified = await verifyPassword();
+    if (!isVerified) return;
+
     const WORKFLOW_ID = "auto_favorites.yml";
     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
@@ -622,6 +649,10 @@ document.getElementById('createAudioBtn').addEventListener('click', async functi
     // 1. 사용자 확인 (토큰 검사는 Proxy가 처리하므로 제거)
     const message = "🎙️ AI 뉴스 브리핑 오디오를 생성하시겠습니까?\n(약 1~2분 소요됩니다)";
     if (!confirm(message)) return;
+
+    // 비밀번호 확인 추가
+    const isVerified = await verifyPassword();
+    if (!isVerified) return;
 
     // 2. API 호출 준비
     const WORKFLOW_ID = "audio_gen.yml";
