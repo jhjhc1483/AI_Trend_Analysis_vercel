@@ -1,4 +1,4 @@
-name: KakaoTalk Auto Send
+name: KakaoTalk or Gmail Auto Send
 
 on:
   workflow_dispatch: # GitHub 웹에서 버튼 눌러서 직접 실행 가능
@@ -21,10 +21,12 @@ jobs:
         run: |
           pip install requests python-dotenv
 
-      - name: Run KakaoTalk Script
+      - name: Run KakaoTalk or Gamil Script
         env:
           # GitHub Secrets에 저장된 키를 환경 변수로 매핑
           KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
           KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
-        # 파이썬 파일이 scripts/ 폴더 안에 있다면: python scripts/send_kakao.py
-        run: python codes/pycode/send_kakao2.py
+          GMAIL_APP_PASSWORD : ${{ secrets.GMAIL_APP_PASSWORD }}
+
+        run : python codes/pycode/gmail_send.py
+        # run: python codes/pycode/send_kakao2.py
