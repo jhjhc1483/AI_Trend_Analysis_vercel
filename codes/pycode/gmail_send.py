@@ -14,7 +14,7 @@ receiver_email = "jfchae1483@gmail.com" # 받는 사람
 app_password = os.environ.get("GMAIL_APP_PASSWORD")
 
 # 현재 파이썬 파일 위치 기준, 한 단계 상위 폴더(../)의 data.txt
-file_path = "../data.txt"
+file_path = "codes/data.txt"
 # =============================================
 
 def send_email():
