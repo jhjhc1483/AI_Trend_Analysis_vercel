@@ -335,8 +335,10 @@ function createListItem(item) {
 
     return `
         <li class="article-item">
-            <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${item.link}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
-            ${learnButton}
+            <div class="article-actions">
+                <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${item.link}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
+                ${learnButton}
+            </div>
             <div class="article-title-group">
                 <a href="#" class="article-title" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
                 ${categoryBadge}
