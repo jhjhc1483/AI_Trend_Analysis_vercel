@@ -8,6 +8,13 @@ import os
 import json
 import time
 
+# 환경 변수에서 API 키 불러오기
+SCRAPER_API_KEY = os.environ.get('SCRAPER_API_KEY')
+if not SCRAPER_API_KEY:
+    raise ValueError("GitHub Secrets에 SCRAPER_API_KEY가 설정되지 않았습니다.")
+
+SCRAPER_URL = 'http://api.scraperapi.com'
+
 # 1. 재시도 로직을 포함한 세션 설정
 def get_safe_session():
     session = requests.Session()
@@ -23,21 +30,23 @@ def get_safe_session():
 
 session = get_safe_session()
 
-# 2. 브라우저 헤더 설정
-headers = {
-    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/119.0.0.0 Safari/537.36",
-    "Accept": "text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8",
-}
-
-TIMEOUT_SEC = 20
+# 우회 시 API 서버 자체의 헤더를 사용하는 것이 유리하므로 기존 headers는 제거하거나 기본값 사용
+TIMEOUT_SEC = 30 # 우회 API를 거치므로 타임아웃을 넉넉히 설정
 data = []
 
 for i in range(3, 8):    
     if i > 6:
-        url = "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&handle=I_669&id=mnd_020500000000"
+        target_url = "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&handle=I_669&id=mnd_020500000000"
+        
+        payload = {
+            'api_key': SCRAPER_API_KEY,
+            'url': target_url,
+            'country_code': 'kr' # 한국 IP 지정
+        }
+        
         try:
-            # session.get 사용
-            response = session.get(url, headers=headers, timeout=TIMEOUT_SEC)
+            # 타겟 URL 대신 ScraperAPI 서버로 요청
+            response = session.get(SCRAPER_URL, params=payload, timeout=TIMEOUT_SEC)
             response.raise_for_status()
             
             html = response.text
@@ -61,18 +70,26 @@ for i in range(3, 8):
             print(f"보도자료 크롤링 중 오류: {e}")
 
     else:
+        categories = {3: "국방부", 4: "육군", 5: "해군", 6: "공군"}
+        category = categories.get(i, "기타")
+
         for p in range(1, 3):
-            url = f"https://www.mnd.go.kr/cop/kookbang/kookbangIlboList.do?siteId=mnd&pageIndex={p}&findType=&findWord=&categoryCode=dema000{i}&boardSeq=&startDate=&endDate=&id=mnd_020101000000"
+            target_url = f"https://www.mnd.go.kr/cop/kookbang/kookbangIlboList.do?siteId=mnd&pageIndex={p}&findType=&findWord=&categoryCode=dema000{i}&boardSeq=&startDate=&endDate=&id=mnd_020101000000"
+            
+            payload = {
+                'api_key': SCRAPER_API_KEY,
+                'url': target_url,
+                'country_code': 'kr'
+            }
+
             try:
-                response = session.get(url, headers=headers, timeout=TIMEOUT_SEC)
+                # 타겟 URL 대신 ScraperAPI 서버로 요청
+                response = session.get(SCRAPER_URL, params=payload, timeout=TIMEOUT_SEC)
                 response.raise_for_status()
                 
                 html = response.text
                 soup = BeautifulSoup(html, 'html.parser')
                 items = soup.select(".post")
-                
-                categories = {3: "국방부", 4: "육군", 5: "해군", 6: "공군"}
-                category = categories.get(i, "기타")
 
                 for item in items:
                     name = item.select_one(".post > div").text.strip()
