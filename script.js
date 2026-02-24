@@ -145,6 +145,7 @@ let debounceTimeout;
 let currentView = 'HOME';
 let favoriteArticles = new Map();
 let favoritePublications = new Map();
+let fewshotExamples = [];
 const cacheBuster = `?t=${new Date().getTime()}`;
 
 const FILES_TO_LOAD = [
@@ -165,6 +166,22 @@ const FILES_TO_LOAD = [
     { url: 'codes/KISA.json' + cacheBuster, site: 'KISA', isArticle: false, displayName: 'KISA' },
     { url: 'codes/tta.json' + cacheBuster, site: 'TTA', isArticle: false, displayName: 'TTA' }
 ];
+
+function loadFewshotExamples() {
+    return fetch('codes/favorites/fewshot_examples.json' + cacheBuster)
+        .then(response => {
+            if (!response.ok) return [];
+            return response.json();
+        })
+        .then(data => {
+            fewshotExamples = data;
+            return data;
+        })
+        .catch(error => {
+            console.error("Error loading fewshot examples:", error);
+            return [];
+        });
+}
 
 function loadData() {
     const favArticlesStr = localStorage.getItem('favoriteArticles');
@@ -188,33 +205,38 @@ function loadData() {
         }
     }
 
-    const promises = FILES_TO_LOAD.map(file => {
-        // 데이터 파일은 public 접근 가능하므로 기존 fetch 유지
-        return fetch(file.url)
-            .then(response => {
-                if (!response.ok) throw new Error(`Failed to load ${file.url}`);
-                return response.json();
-            })
-            .then(data => {
-                return data.map(item => ({
-                    ...item,
-                    site: file.site,
-                    isArticle: file.isArticle,
-                    displayName: file.displayName,
-                    title: item.기사명 || item.제목 || '제목 없음',
-                    link: item.링크 || item.link || '#',
-                    category: item.분류 || item.category || '',
-                }));
-            })
-            .catch(error => {
-                console.error(`Error loading ${file.url}:`, error);
-                return [];
-            });
-    });
+    const promises = [
+        ...FILES_TO_LOAD.map(file => {
+            // 데이터 파일은 public 접근 가능하므로 기존 fetch 유지
+            return fetch(file.url)
+                .then(response => {
+                    if (!response.ok) throw new Error(`Failed to load ${file.url}`);
+                    return response.json();
+                })
+                .then(data => {
+                    return data.map(item => ({
+                        ...item,
+                        site: file.site,
+                        isArticle: file.isArticle,
+                        displayName: file.displayName,
+                        title: item.기사명 || item.제목 || '제목 없음',
+                        link: item.링크 || item.link || '#',
+                        category: item.분류 || item.category || '',
+                    }));
+                })
+                .catch(error => {
+                    console.error(`Error loading ${file.url}:`, error);
+                    return [];
+                });
+        }),
+        loadFewshotExamples()
+    ];
 
     Promise.all(promises)
         .then(results => {
-            results.forEach(siteData => {
+            // 마지막 결과는 fewshotExamples이므로 제외하고 기사 데이터 처리
+            const dataResults = results.slice(0, -1);
+            dataResults.forEach(siteData => {
                 if (siteData.length > 0) {
                     if (siteData[0].isArticle) articleData = articleData.concat(siteData);
                     else publicationData = publicationData.concat(siteData);
@@ -354,7 +376,9 @@ function createListItem(item) {
         categoryBadge = `<span class="category-badge ${colorClass}">${savedCat}</span>`;
     }
 
-    const learnButton = item.isArticle ? `<button class="learn-btn" onclick="addFewshotExample(event, '${item.link}')" title="AI 분류 학습 데이터로 추가" style="background: none; border: none; cursor: pointer; font-size: 1.1em; padding: 0 5px;">🧠</button>` : '';
+    // 이미 학습된 기사인지 체크
+    const isLearned = item.isArticle && fewshotExamples.some(ex => ex.title === item.title && ex.site === item.displayName);
+    const learnButton = (item.isArticle && !isLearned) ? `<button class="learn-btn" onclick="addFewshotExample(event, '${item.link}')" title="AI 분류 학습 데이터로 추가" style="background: none; border: none; cursor: pointer; font-size: 1.1em; padding: 0 5px;">🧠</button>` : '';
 
     return `
         <li class="article-item">
@@ -477,6 +501,11 @@ async function addFewshotExample(event, link) {
         };
 
         await callProxyAPI(getEndpoint, 'PUT', putBody);
+
+        // 로컬 데이터 업데이트 및 UI 갱신
+        fewshotExamples = fewshotData;
+        renderCurrentView();
+
         alert("✅ 올바른 카테고리 학습 데이터(Few-Shot)에 성공적으로 추가되었습니다.");
 
     } catch (err) {

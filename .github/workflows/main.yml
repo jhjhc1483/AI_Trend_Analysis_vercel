@@ -49,8 +49,9 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable
-
       - name: Run All Python Scripts
+        env:
+          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
         run: |
           python codes/pycode/etnews.py  
           python codes/pycode/mnd.py

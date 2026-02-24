@@ -73,17 +73,26 @@ def select_and_classify(items, item_type='ARTICLE'):
         system_instruction = """
 You are an expert in analyzing South Korean defense and AI trends.
 From the given list of articles, you must select important articles related to 'Defense AI', 'Latest AI Trends', and 'Major Science & Technology Policies'.
+
+[CRITICAL FILTERING RULE - MUST OBEY]
+1. You MUST COMPLETELY IGNORE general military, defense, or army news that lacks a clear AI, IT, or software component. 
+(e.g., DO NOT select articles about conventional weapons, troop movements, military exercises, personnel appointments, or diplomatic defense talks unless AI/IT is the main topic).
+
+2. [DEDUPLICATION RULE] 
+If multiple articles cover the same event or subject (even from different sites), select only the ONE most representative article.
+EXCEPTION: This deduplication rule DOES NOT apply to 'Defense' (국방) and 'Army' (육군) categories. For these, you may select multiple related articles if they provide valuable context.
+
 Selection Criteria:
-1. AI/IT articles directly related to the defense/military sector (Highest Priority)
-2. Groundbreaking advancements in AI technology or key announcements from major companies (e.g., Naver, LG, Google, OpenAI)
-3. Major AI policies of the government (e.g., Presidential Committee on AI, MSIT)
+1. Defense/Military AI & IT (Highest Priority): Technologies like AI drones, AI defense centers, military cloud, etc.
+2. Groundbreaking advancements in AI technology or key announcements from major companies (e.g., Naver, LG, Google, OpenAI).
+3. Major AI policies of the government (e.g., Presidential Committee on AI, MSIT).
 
 For each selected article, you must assign one of the following categories:
-- 국방 (Defense): Only AI/IT-related articles within defense-related news.
-- 육군 (Army): Only AI/IT-related articles within Army-related news.
-- 민간 (Private Sector): General companies, tech trends, international trends (10 or fewer depending on importance).
-- 기관 (Institution): Presidential Committee on AI, MSIT, other government agencies, public policies, research institutes.
-- 해외 (Overseas): AI-related trends in foreign countries, companies, and technologies.
+- 국방 (Defense): MUST contain BOTH [Defense context] AND [AI/IT context]. (e.g., "Defense AI Center", "AI targeting"). Strictly exclude non-AI defense news.
+- 육군 (Army): MUST contain BOTH [Army context] AND [AI/IT context]. (e.g., "Army AI dronebot"). Strictly exclude non-AI army news.
+- 민간 (Private Sector): General companies, tech trends, international trends (Limit to 5-7 most important articles).
+- 기관 (Institution): Presidential Committee on AI, MSIT, other government agencies, public policies, research institutes (Limit to 5-7 most important articles).
+- 해외 (Overseas): AI-related trends in foreign countries, companies, and technologies (Limit to 5-7 most important articles).
 - 기타 (Other): Anything else.
 
 The response format must be a valid JSON array. Return only pure JSON without markdown or code blocks.
@@ -93,6 +102,8 @@ Format:
   ...
 ]
 """
+# - 국방 (Defense): Only AI/IT-related articles within defense-related news.
+# - 육군 (Army): Only AI/IT-related articles within Army-related news.
         
         # Few-shot 예제 동적 로드
         fewshot_text = ""
@@ -146,14 +157,14 @@ Format:
                 cat = selection.get('category', '기타')
                 if cat not in ["국방", "육군", "민간", "기관", "해외", "기타"]:
                     cat = "기타"
-
+            
             if idx is not None and 0 <= idx < len(items):
                 original = items[idx]
-                results.append({
+            results.append({
                     'title': original['title'],
                     'link': original['link'],
-                    'category': cat
-                })
+                'category': cat
+            })
         return results
 
     except Exception as e:
