@@ -5,6 +5,9 @@
 ◾ 국방 AI 리더스 포럼 오늘 개최… “전력화 시대 민군 협력 본격 논의”
 https://www.etnews.com/20260225000166
 
+◾ [게시판] 파블로항공, DSK 2026서 ‘군집 AI 3대 핵심 사업’ 공개 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=207257
+
 ◾ 펀진, 센서 데이터 수집·분석해 의사 결정 지원하는 ‘이동형 지휘 플랫폼’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=207258
 
@@ -21,9 +24,6 @@ https://kookbang.dema.mil.kr/newsWeb/20260226/8/ATCE_CTGR_0010010000/view.do;JSE
 https://kookbang.dema.mil.kr/newsWeb/20260226/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=KpOUPx2QooF8DMhidcMgmVb_GZqWGytUcb1Hi7QAKHZwwgSoSJMz!403047716
 
 [육군]
-◾ [게시판] 파블로항공, DSK 2026서 ‘군집 AI 3대 핵심 사업’ 공개 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=207257
-
 ◾ [주간 K방산 브리핑] 주한 무관단, 우리 육군의 미래 비전·첨단 전력 확인
 https://kookbang.dema.mil.kr/newsWeb/20260226/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=KpOUPx2QooF8DMhidcMgmVb_GZqWGytUcb1Hi7QAKHZwwgSoSJMz!403047716
 
@@ -31,33 +31,48 @@ https://kookbang.dema.mil.kr/newsWeb/20260226/1/ATCE_CTGR_0010020000/view.do;JSE
 ◾ SKT, 독자 LLM 글로벌 무대서 검증 받는다
 https://www.etnews.com/20260225000047
 
-◾ 우리은행, 생성형 AI 기반 ＇심층 리서치＇ 개발…내부 데이터로 보고서 자동 생성
-https://www.etnews.com/20260225000020
+◾ 포스텍·삼성전자, 전기장 속 원자 움직임 정밀 예측하는 AI 기반 시뮬레이션 기술 개발
+https://www.etnews.com/20260225000009
 
-◾ 삼성전자, AI·로봇산업협회 회장사 맡는다…오준호 협회장 취임
-https://www.etnews.com/20260225000236
+◾ 하이닉스, 용인 클러스터 1기 팹에 21.6조 투자 의결
+https://www.etnews.com/20260225000442
 
-◾ 에이딘로보틱스, AW 2026서 ‘2세대 인간형 로봇핸드’ 최초 공개
-https://www.aitimes.com/news/articleView.html?idxno=207190
+◾ 대한항공, ＇드론쇼 코리아＇ 참가…AI 무인기·AAM 선배
+https://www.etnews.com/20260225000208
 
-◾ LG유플러스 , 스스로 이해하고 대응하는 ‘Agentic AICC’ 솔루션 공개
-https://www.aitimes.kr/news/articleView.html?idxno=38801
+◾ [미리보는 MWC26]〈4·끝〉韓 182개사 출격…글로벌 AI·통신 무대 수놓는다
+https://www.etnews.com/20260225000131
+
+◾ 드론 군집 및 자율비행 기업 유비파이, 600억원 규모 투자 유치...“국내 드론 기업 중 단일 투자로 역대 최대 규모”
+https://www.aitimes.kr/news/articleView.html?idxno=38786
+
+◾ SKT, ＇글로벌 AI 레드팀 챌린지＇ 참여... “결과 활용해 독파모 AI 모델 완성도 높일 것”
+https://www.aitimes.kr/news/articleView.html?idxno=38777
+
+◾ 웨이브, 시리즈D로 1.7조원 자금 확보… 글로벌 자율주행 ‘엔드투엔드 AI’ 상용화 본격화
+https://www.aitimes.kr/news/articleView.html?idxno=38803
 
 [기관]
+◾ 2030년 국정자원 대전센터 폐쇄…공공 시스템 민간 기반으로 확대한다
+https://www.etnews.com/20260225000118
+
+◾ 국립암센터 ＇AI 사업단＇ 상반기 출범…암 AI 플랫폼 투트랙 구축
+https://www.etnews.com/20260225000337
+
 ◾ AI·첨단바이오·양자에 집중…2027년 국가 R&D 투자방향 공개
 https://www.etnews.com/20260225000320
 
-◾ 과기정통부, 지역산업 AX 돕는다…3대 분야 실증사업 추진
-https://www.etnews.com/20260225000251
+◾ [에듀플러스]AI중심대학 마감 임박…대학들 ＇AI 교육 주도권＇ 놓고 총력전
+https://www.etnews.com/20260225000258
 
-◾ [포토] 국가AI전략위 제2차 전체회의
-https://www.etnews.com/20260225000204
+◾ 국가인공지능전략위원회, 제2차 전체회의 개최
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=325
 
-◾ [이슈플러스]산업·일상 혁신 이끌 ＇AI행동계획＇ 확정…과학기술도 AI로 강화
-https://www.etnews.com/20260225000153
+◾ [국가AI전략위] 대한민국 인공지능행동계획(인공지능 기본계획(2026~2028))
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=328
 
-◾ AI·반도체 ＇표준 선점＇에 459억 투자…국표원, 82개 신규과제 공모
-https://www.etnews.com/20260224000448
+◾ 과기정통부, 지역 산업 인공지능 대전환(AX)을 위한 3대 핵심 실증사업 추진
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186944&searchOpt=ALL&searchTxt=
 
 [해외]
 ◾ 美법원, “오픈AI가 영업비밀 침해” 주장 xAI 소송 기각
@@ -65,6 +80,9 @@ https://www.etnews.com/20260225000003
 
 ◾ AMD, 메타에 1000억달러 규모 AI 칩 공급
 https://www.etnews.com/20260225000436
+
+◾ 미리 알고 있었다?! 캐나다 총격 사건 위험 감지했던 오픈AI
+https://www.aitimes.com/news/articleView.html?idxno=207184
 
 ◾ 미국 정부 〃출시 임박한 ＇딥시크-V4＇ 학습에 금지된 블랙웰 칩 사용〃
 https://www.aitimes.com/news/articleView.html?idxno=207213
@@ -75,8 +93,8 @@ https://www.aitimes.com/news/articleView.html?idxno=207197
 ◾ 알리바바, 작지만 강력한 ＇큐원 3.5 미디엄＇ 시리즈 출시
 https://www.aitimes.com/news/articleView.html?idxno=207218
 
-◾ 앤트로픽, “고위험 AI 대응 투명성·책임성 강화”...책임 있는 확장 정책 3차 공개
-https://www.aitimes.kr/news/articleView.html?idxno=38807
+◾ NEC, AI 코드 리뷰 서비스 ‘메타밥’ 전격 도입... 소프트웨어 검증 시간 66% 단축
+https://www.aitimes.kr/news/articleView.html?idxno=38789
 
 📚 간행물
 ◾ AI 기본법 시행 원년, 생성형 AI 운영 컴플라이언스 구축 전략 [주간기술동향 2205호]
