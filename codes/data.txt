@@ -1,107 +1,97 @@
-📢26.02.26 AI 일일 동향📢
+📢26.02.27 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 국방 AI 리더스 포럼 오늘 개최… “전력화 시대 민군 협력 본격 논의”
-https://www.etnews.com/20260225000166
+◾ ＇AI 경호 시대＇ 열렸다…대통령경호처, 경호 특화 인공지능 본격 가동
+https://www.etnews.com/20260226000288
 
-◾ [게시판] 파블로항공, DSK 2026서 ‘군집 AI 3대 핵심 사업’ 공개 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=207257
+◾ [국방 AI 리더스 포럼] “국방 AI, 실험 넘어 전력화 단계”
+https://www.etnews.com/20260226000260
 
-◾ 펀진, 센서 데이터 수집·분석해 의사 결정 지원하는 ‘이동형 지휘 플랫폼’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=207258
-
-◾ KRISO, 무인수상선-자율무인잠수정 통합 운용 성공… 국내 최초 무인 복합체계 구현
-https://www.aitimes.kr/news/articleView.html?idxno=38794
-
-◾ 군과 혁신기업이 직접 소통·협력하는 공식 창구 마련
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47823&startDate=&endDate=&id=mnd_020101000000
-
-◾ 민·군 협력으로 국방 혁신기술 활용 강화
-https://kookbang.dema.mil.kr/newsWeb/20260226/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=KpOUPx2QooF8DMhidcMgmVb_GZqWGytUcb1Hi7QAKHZwwgSoSJMz!403047716
+◾ 제1회 국방AI리더스포럼 개최…정부·군·산업계 한자리 [영상]
+https://www.etnews.com/20260226000227
 
 ◾ ‘AX 통한 군수지원체계 고도화’ 발전 방향 머리 맞대
-https://kookbang.dema.mil.kr/newsWeb/20260226/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=KpOUPx2QooF8DMhidcMgmVb_GZqWGytUcb1Hi7QAKHZwwgSoSJMz!403047716
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47847&startDate=&endDate=&id=mnd_020101000000
+
+◾ 무인 체계 운용·생존성 확보 방안 모색
+https://kookbang.dema.mil.kr/newsWeb/20260227/4/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262
+
+◾ 제5회 국방 AI 해커톤 대회 성료
+https://kookbang.dema.mil.kr/newsWeb/20260227/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262
 
 [육군]
-◾ [주간 K방산 브리핑] 주한 무관단, 우리 육군의 미래 비전·첨단 전력 확인
-https://kookbang.dema.mil.kr/newsWeb/20260226/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=KpOUPx2QooF8DMhidcMgmVb_GZqWGytUcb1Hi7QAKHZwwgSoSJMz!403047716
+◾ 드론·로봇·RCWS 한몸에 품은 전투차량의 등장…前에 없던, 戰에서 보다
+https://kookbang.dema.mil.kr/newsWeb/20260227/13/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262
+
+◾ 또 다른 눈과 손 다루는 ‘정예 드론전사’로 변신
+https://kookbang.dema.mil.kr/newsWeb/20260227/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262
 
 [민간]
-◾ SKT, 독자 LLM 글로벌 무대서 검증 받는다
-https://www.etnews.com/20260225000047
+◾ [CIO 서밋 2026] IBM “에이전틱 AI, 기업 혁신 핵심 엔진으로 부상”
+https://www.etnews.com/20260226000016
 
-◾ 포스텍·삼성전자, 전기장 속 원자 움직임 정밀 예측하는 AI 기반 시뮬레이션 기술 개발
-https://www.etnews.com/20260225000009
+◾ [ET특징주] LG전자, 엔비디아와 피지컬AI 협력 기대감… 주가 8%↑
+https://www.etnews.com/20260226000145
 
-◾ 하이닉스, 용인 클러스터 1기 팹에 21.6조 투자 의결
-https://www.etnews.com/20260225000442
+◾ 크래프톤, ＇AI 신사업 확장·IP 육성＇ 신규 비전 공개
+https://www.aitimes.com/news/articleView.html?idxno=207303
 
-◾ 대한항공, ＇드론쇼 코리아＇ 참가…AI 무인기·AAM 선배
-https://www.etnews.com/20260225000208
+◾ ‘나의 첫 쇼핑 AI 에이전트’...네이버 쇼핑앱, 대화하며 쇼핑하는 ‘쇼핑 AI 에이전트’ 베타 출시
+https://www.aitimes.kr/news/articleView.html?idxno=38825
 
-◾ [미리보는 MWC26]〈4·끝〉韓 182개사 출격…글로벌 AI·통신 무대 수놓는다
-https://www.etnews.com/20260225000131
+◾ KT, MWC26서 ‘믿:음 K’ 공개… “한국형 실행 AI로 글로벌 시장 공략”
+https://www.aitimes.kr/news/articleView.html?idxno=38824
 
-◾ 드론 군집 및 자율비행 기업 유비파이, 600억원 규모 투자 유치...“국내 드론 기업 중 단일 투자로 역대 최대 규모”
-https://www.aitimes.kr/news/articleView.html?idxno=38786
+◾ SKT, AI와 통신 인프라 결합한 핵심 기술 ‘AI-RAN’ 실증망 시연 성공
+https://www.aitimes.kr/news/articleView.html?idxno=38815
 
-◾ SKT, ＇글로벌 AI 레드팀 챌린지＇ 참여... “결과 활용해 독파모 AI 모델 완성도 높일 것”
-https://www.aitimes.kr/news/articleView.html?idxno=38777
-
-◾ 웨이브, 시리즈D로 1.7조원 자금 확보… 글로벌 자율주행 ‘엔드투엔드 AI’ 상용화 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=38803
+◾ 스마트 폰, 〃답하는 AI에서 행동하는 AI로〃…삼성 ‘갤럭시 S26’, 실행형 AI 시대 선언
+https://www.aitimes.kr/news/articleView.html?idxno=38813
 
 [기관]
-◾ 2030년 국정자원 대전센터 폐쇄…공공 시스템 민간 기반으로 확대한다
-https://www.etnews.com/20260225000118
+◾ 대구시, 27일 대구 주도형 AI 대전환 사업단 출범 및 비전 선포식 개최
+https://www.etnews.com/20260226000349
 
-◾ 국립암센터 ＇AI 사업단＇ 상반기 출범…암 AI 플랫폼 투트랙 구축
-https://www.etnews.com/20260225000337
+◾ “27년 레벨4 자율주행·28년 UAM”…모빌리티 혁신성장 로드맵 발표
+https://www.etnews.com/20260226000039
 
-◾ AI·첨단바이오·양자에 집중…2027년 국가 R&D 투자방향 공개
-https://www.etnews.com/20260225000320
+◾ 김민석 총리, ‘AI 악용 등 가짜뉴스 대응 관계장관회의’ 주재... 〃관련 불법행위는 법과 원칙에 따라 엄정 조치〃
+https://www.aitimes.kr/news/articleView.html?idxno=38829
 
-◾ [에듀플러스]AI중심대학 마감 임박…대학들 ＇AI 교육 주도권＇ 놓고 총력전
-https://www.etnews.com/20260225000258
+◾ NIA, AI 고속도로 국정과제 이행 위한 ＇AI 네트워크＇ 사업 본격 시동
+https://www.aitimes.kr/news/articleView.html?idxno=38818
 
-◾ 국가인공지능전략위원회, 제2차 전체회의 개최
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=325
+◾ 신규 연구개발특구 기금(연구개발특구 펀드) 조성을 통한 지역 기저 기술(딥테크 창업) 지원 본격화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186955&searchOpt=ALL&searchTxt=
 
-◾ [국가AI전략위] 대한민국 인공지능행동계획(인공지능 기본계획(2026~2028))
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=328
+◾ 인공지능과 함께 뛰는 가상 융합 산업의 새 심장, 인공지능 기반 가상 융합 서비스를 발굴한다!
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186950&searchOpt=ALL&searchTxt=
 
-◾ 과기정통부, 지역 산업 인공지능 대전환(AX)을 위한 3대 핵심 실증사업 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186944&searchOpt=ALL&searchTxt=
+◾ 국가 인공지능 전략 위 부위원장, 과기부총리, 문체부 장관, “저작물의 균형 있는 인공지능 학습 활용 촉진”을 위해 맞손 잡다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186952&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 美법원, “오픈AI가 영업비밀 침해” 주장 xAI 소송 기각
-https://www.etnews.com/20260225000003
+◾ [해설]엔비디아, ＇학습＇ 넘어 ＇추론·에이전트＇로 수익 구조 재편
+https://www.etnews.com/20260226000299
 
-◾ AMD, 메타에 1000억달러 규모 AI 칩 공급
-https://www.etnews.com/20260225000436
+◾ 알리바바, 저가 AI 코딩 요금제 출시…LLM 4종 지원
+https://www.etnews.com/20260226000010
 
-◾ 미리 알고 있었다?! 캐나다 총격 사건 위험 감지했던 오픈AI
-https://www.aitimes.com/news/articleView.html?idxno=207184
+◾ 오픈AI, ＇챗GPT＇ 악용 사례 공개...〃데이트 사기부터 일본 총리 정보 작전까지〃
+https://www.aitimes.com/news/articleView.html?idxno=207299
 
-◾ 미국 정부 〃출시 임박한 ＇딥시크-V4＇ 학습에 금지된 블랙웰 칩 사용〃
-https://www.aitimes.com/news/articleView.html?idxno=207213
+◾ 구글, 피지컬 AI 강화 위해 로봇 소프트웨어 자회사 인트린식 편입
+https://www.aitimes.com/news/articleView.html?idxno=207321
 
-◾ 앤트로픽, 국방부로부터 AI 안전장치 해제 시한 통보...원칙 고수할 듯
-https://www.aitimes.com/news/articleView.html?idxno=207197
+◾ 딥시크, ＇V4＇ 성능 최적화 사전 작업서 엔비디아·AMD ＇패싱＇
+https://www.aitimes.com/news/articleView.html?idxno=207273
 
-◾ 알리바바, 작지만 강력한 ＇큐원 3.5 미디엄＇ 시리즈 출시
-https://www.aitimes.com/news/articleView.html?idxno=207218
+◾ 앤트로픽, AI 안전 규정 대폭 약화...〃나 홀로 개발 멈추면 더 위험〃
+https://www.aitimes.com/news/articleView.html?idxno=207272
 
-◾ NEC, AI 코드 리뷰 서비스 ‘메타밥’ 전격 도입... 소프트웨어 검증 시간 66% 단축
-https://www.aitimes.kr/news/articleView.html?idxno=38789
-
-📚 간행물
-◾ AI 기본법 시행 원년, 생성형 AI 운영 컴플라이언스 구축 전략 [주간기술동향 2205호]
-https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1390&cpage=1&rows=10&searchTarget=all
-
-◾ 해외 주요국의 딥테크 스타트업 지원정책 현황과 한국에의 시사점
-https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=367&cateCont=A0501&cbIdx=0&searchKey=
+◾ 퍼플렉시티, 오픈클로와 흡사한 범용 에이전트 ＇컴퓨터＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=207280
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
