@@ -1,13 +1,23 @@
 [
   {
-    "title": "[CIO 서밋 2026] IBM “에이전틱 AI, 기업 혁신 핵심 엔진으로 부상”",
-    "link": "https://www.etnews.com/20260226000016",
+    "title": "경기도, 전세 사기 막는 AI 거래 안전망 솔루션 개발 착수",
+    "link": "https://www.etnews.com/20260226000001",
+    "category": "기관"
+  },
+  {
+    "title": "[CIO서밋2026] “AI는 도구 아닌 동료... CIO, 기술 관리자 넘어 ＇지능의 지휘자＇ 돼야",
+    "link": "https://www.etnews.com/20260226000168",
     "category": "민간"
   },
   {
-    "title": "대구시, 27일 대구 주도형 AI 대전환 사업단 출범 및 비전 선포식 개최",
-    "link": "https://www.etnews.com/20260226000349",
-    "category": "기관"
+    "title": "[ET시론] AI 반도체의 핵심, 첨단 패키징 소재",
+    "link": "https://www.etnews.com/20260226000151",
+    "category": "기타"
+  },
+  {
+    "title": "[전자파학회 동계학술대회] 전파, ＇우주시대·자주국방＇ 핵심 자산…기술 자립화 머리 맞댄다",
+    "link": "https://www.etnews.com/20260226000290",
+    "category": "국방"
   },
   {
     "title": "[해설]엔비디아, ＇학습＇ 넘어 ＇추론·에이전트＇로 수익 구조 재편",
@@ -20,9 +30,9 @@
     "category": "국방"
   },
   {
-    "title": "[국방 AI 리더스 포럼] “국방 AI, 실험 넘어 전력화 단계”",
-    "link": "https://www.etnews.com/20260226000260",
-    "category": "국방"
+    "title": "국민성장펀드, 5년간 60조원 지방 첨단산업에 투입…방산·로봇 거점 육성",
+    "link": "https://www.etnews.com/20260226000069",
+    "category": "기관"
   },
   {
     "title": "제1회 국방AI리더스포럼 개최…정부·군·산업계 한자리 [영상]",
@@ -40,9 +50,9 @@
     "category": "민간"
   },
   {
-    "title": "알리바바, 저가 AI 코딩 요금제 출시…LLM 4종 지원",
-    "link": "https://www.etnews.com/20260226000010",
-    "category": "해외"
+    "title": "“동원그룹 창업자 기부 결실” 카이스트 김재철AI대학원 착공",
+    "link": "https://www.etnews.com/20260226000098",
+    "category": "기관"
   },
   {
     "title": "오픈AI, ＇챗GPT＇ 악용 사례 공개...〃데이트 사기부터 일본 총리 정보 작전까지〃",
@@ -55,11 +65,6 @@
     "category": "해외"
   },
   {
-    "title": "크래프톤, ＇AI 신사업 확장·IP 육성＇ 신규 비전 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207303",
-    "category": "민간"
-  },
-  {
     "title": "딥시크, ＇V4＇ 성능 최적화 사전 작업서 엔비디아·AMD ＇패싱＇",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=207273",
     "category": "해외"
@@ -67,6 +72,11 @@
   {
     "title": "앤트로픽, AI 안전 규정 대폭 약화...〃나 홀로 개발 멈추면 더 위험〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=207272",
+    "category": "해외"
+  },
+  {
+    "title": "앤트로픽, ‘클로드 코드’ 모바일 버전 ‘리모트 컨트롤’ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207278",
     "category": "해외"
   },
   {
@@ -87,6 +97,11 @@
   {
     "title": "KT, MWC26서 ‘믿:음 K’ 공개… “한국형 실행 AI로 글로벌 시장 공략”",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38824",
+    "category": "민간"
+  },
+  {
+    "title": "대동로보틱스, ＇로봇전문가＇ 강성철 신임 대표 선임... ‘AI 필드로봇 풀스택 체계’ 구축 가속화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38822",
     "category": "민간"
   },
   {
@@ -115,6 +130,11 @@
     "category": "육군"
   },
   {
+    "title": "야전부대 최초 차세대 디지털 무전기 활용 전투훈련",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260227/7/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262",
+    "category": "육군"
+  },
+  {
     "title": "또 다른 눈과 손 다루는 ‘정예 드론전사’로 변신",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260227/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262",
     "category": "육군"
@@ -130,18 +150,13 @@
     "category": "국방"
   },
   {
-    "title": "신규 연구개발특구 기금(연구개발특구 펀드) 조성을 통한 지역 기저 기술(딥테크 창업) 지원 본격화",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186955&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
     "title": "인공지능과 함께 뛰는 가상 융합 산업의 새 심장, 인공지능 기반 가상 융합 서비스를 발굴한다!",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186950&searchOpt=ALL&searchTxt=",
     "category": "기관"
   },
   {
-    "title": "국가 인공지능 전략 위 부위원장, 과기부총리, 문체부 장관, “저작물의 균형 있는 인공지능 학습 활용 촉진”을 위해 맞손 잡다",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186952&searchOpt=ALL&searchTxt=",
+    "title": "「생성형 인공지능의 저작물 학습에 대한 저작권법상 ‘공정이용’ 안내서」 발간",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186951&searchOpt=ALL&searchTxt=",
     "category": "기관"
   }
 ]
