@@ -1,107 +1,86 @@
-📢26.02.27 AI 일일 동향📢
+📢26.02.28 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ [전자파학회 동계학술대회] 전파, ＇우주시대·자주국방＇ 핵심 자산…기술 자립화 머리 맞댄다
-https://www.etnews.com/20260226000290
+◾ [기품원] 국방기술품질원, 한국형 고장률 예측소프트웨어 개발·무상배포
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58243&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
-◾ ＇AI 경호 시대＇ 열렸다…대통령경호처, 경호 특화 인공지능 본격 가동
-https://www.etnews.com/20260226000288
-
-◾ 제1회 국방AI리더스포럼 개최…정부·군·산업계 한자리 [영상]
-https://www.etnews.com/20260226000227
-
-◾ ‘AX 통한 군수지원체계 고도화’ 발전 방향 머리 맞대
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47847&startDate=&endDate=&id=mnd_020101000000
+◾ AI에 가상전쟁 맡겼더니…95%가 핵무기 버튼 눌렀다
+https://www.etnews.com/20260227000348
 
 ◾ 무인 체계 운용·생존성 확보 방안 모색
-https://kookbang.dema.mil.kr/newsWeb/20260227/4/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262
-
-◾ 제5회 국방 AI 해커톤 대회 성료
-https://kookbang.dema.mil.kr/newsWeb/20260227/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47883&startDate=&endDate=&id=mnd_020101000000
 
 [육군]
-◾ 드론·로봇·RCWS 한몸에 품은 전투차량의 등장…前에 없던, 戰에서 보다
-https://kookbang.dema.mil.kr/newsWeb/20260227/13/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262
+◾ 또 다른 눈과 손 다루는 ‘정예 드론전사’로 변신
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47867&startDate=&endDate=&id=mnd_020101000000
 
 ◾ 야전부대 최초 차세대 디지털 무전기 활용 전투훈련
-https://kookbang.dema.mil.kr/newsWeb/20260227/7/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47869&startDate=&endDate=&id=mnd_020101000000
 
-◾ 또 다른 눈과 손 다루는 ‘정예 드론전사’로 변신
-https://kookbang.dema.mil.kr/newsWeb/20260227/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=87-ZYedk6zhYzrDAwR6C721xtq0VgHEctA53qYYGZLlxKgafHh4r!-1570157262
+◾ 드론·로봇·RCWS 한몸에 품은 전투차량의 등장…前에 없던, 戰에서 보다
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47870&startDate=&endDate=&id=mnd_020101000000
 
 [민간]
-◾ [CIO서밋2026] “AI는 도구 아닌 동료... CIO, 기술 관리자 넘어 ＇지능의 지휘자＇ 돼야
-https://www.etnews.com/20260226000168
+◾ 성균관대, 한국피지컬AI협회와 피지컬 AI MOU 체결
+https://www.etnews.com/20260227000002
 
-◾ [ET특징주] LG전자, 엔비디아와 피지컬AI 협력 기대감… 주가 8%↑
-https://www.etnews.com/20260226000145
+◾ 시스원, 퓨리오사AI와 공공부문 총판계약 체결…2세대 NPU 시장 진출 본격화
+https://www.etnews.com/20260227000306
 
-◾ ‘나의 첫 쇼핑 AI 에이전트’...네이버 쇼핑앱, 대화하며 쇼핑하는 ‘쇼핑 AI 에이전트’ 베타 출시
-https://www.aitimes.kr/news/articleView.html?idxno=38825
+◾ “24시간 연속 자율 비행 시대 열릴까” 아리온-유니퀘스트·구루, 최첨단 UAS플랫폼 글로벌 사업화 업무협약
+https://www.etnews.com/20260227000284
 
-◾ KT, MWC26서 ‘믿:음 K’ 공개… “한국형 실행 AI로 글로벌 시장 공략”
-https://www.aitimes.kr/news/articleView.html?idxno=38824
+◾ 현대차그룹, 새만금에 AI·로봇·에너지 거점 구축...9조원 투자
+https://www.etnews.com/20260227000190
 
-◾ 대동로보틱스, ＇로봇전문가＇ 강성철 신임 대표 선임... ‘AI 필드로봇 풀스택 체계’ 구축 가속화
-https://www.aitimes.kr/news/articleView.html?idxno=38822
+◾ KT, MWC26서 차세대 AICC 공개…상담부터 해결까지 ＇원스톱＇
+https://www.etnews.com/20260227000082
 
-◾ SKT, AI와 통신 인프라 결합한 핵심 기술 ‘AI-RAN’ 실증망 시연 성공
-https://www.aitimes.kr/news/articleView.html?idxno=38815
-
-◾ 스마트 폰, 〃답하는 AI에서 행동하는 AI로〃…삼성 ‘갤럭시 S26’, 실행형 AI 시대 선언
-https://www.aitimes.kr/news/articleView.html?idxno=38813
+◾ KT-GSMA, MWC26서 공동백서 발간…＇AI네이티브 네트워크＇ 알린다
+https://www.etnews.com/20260227000028
 
 [기관]
-◾ 경기도, 전세 사기 막는 AI 거래 안전망 솔루션 개발 착수
-https://www.etnews.com/20260226000001
+◾ 전남광주특별시, AI집적·도시실증 등 AI·반도체 대도약
+https://www.etnews.com/20260227000343
 
-◾ 국민성장펀드, 5년간 60조원 지방 첨단산업에 투입…방산·로봇 거점 육성
-https://www.etnews.com/20260226000069
+◾ 공공 AI전환(AX)을 위한 5대 원칙과 로드맵은?
+https://www.etnews.com/20260227000308
 
-◾ “27년 레벨4 자율주행·28년 UAM”…모빌리티 혁신성장 로드맵 발표
-https://www.etnews.com/20260226000039
+◾ KAIST, ‘딥테크 스케일업 밸리’본격 가동...피지컬 AI 실행 전략 공개
+https://www.aitimes.kr/news/articleView.html?idxno=38841
 
-◾ “동원그룹 창업자 기부 결실” 카이스트 김재철AI대학원 착공
-https://www.etnews.com/20260226000098
+◾ 구글사(社) 1:5000 지도 반출 허가 결정
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186961&searchOpt=ALL&searchTxt=
 
-◾ 김민석 총리, ‘AI 악용 등 가짜뉴스 대응 관계장관회의’ 주재... 〃관련 불법행위는 법과 원칙에 따라 엄정 조치〃
-https://www.aitimes.kr/news/articleView.html?idxno=38829
-
-◾ NIA, AI 고속도로 국정과제 이행 위한 ＇AI 네트워크＇ 사업 본격 시동
-https://www.aitimes.kr/news/articleView.html?idxno=38818
-
-◾ 인공지능과 함께 뛰는 가상 융합 산업의 새 심장, 인공지능 기반 가상 융합 서비스를 발굴한다!
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186950&searchOpt=ALL&searchTxt=
-
-◾ 「생성형 인공지능의 저작물 학습에 대한 저작권법상 ‘공정이용’ 안내서」 발간
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186951&searchOpt=ALL&searchTxt=
+◾ K-문샷 핵심 임무(미션) ‘인간형 로봇(휴머노이드)’, 출연연 한 팀(원팀)으로 세계 주도권 선점
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186960&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ [해설]엔비디아, ＇학습＇ 넘어 ＇추론·에이전트＇로 수익 구조 재편
-https://www.etnews.com/20260226000299
+◾ 구글, 이미지 AI ＇나노바나나2＇ 출시…＇프로＇급 이미지 무료 이용
+https://www.etnews.com/20260227000010
 
-◾ 오픈AI, ＇챗GPT＇ 악용 사례 공개...〃데이트 사기부터 일본 총리 정보 작전까지〃
-https://www.aitimes.com/news/articleView.html?idxno=207299
+◾ 미국 국방부, 중국과 충돌 시 ＇AI 사이버 공격·정찰＇ 추진
+https://www.etnews.com/20260227000358
 
-◾ 구글, 피지컬 AI 강화 위해 로봇 소프트웨어 자회사 인트린식 편입
-https://www.aitimes.com/news/articleView.html?idxno=207321
+◾ 〃아마존, 오픈AI 500억달러 투자에 IPO·AGI 조건 포함〃
+https://www.aitimes.com/news/articleView.html?idxno=207370
 
-◾ 딥시크, ＇V4＇ 성능 최적화 사전 작업서 엔비디아·AMD ＇패싱＇
-https://www.aitimes.com/news/articleView.html?idxno=207273
+◾ 〃메타, 구글와 수십억달러 TPU 계약 체결...자체 칩 개발은 중단〃
+https://www.aitimes.com/news/articleView.html?idxno=207368
 
-◾ 앤트로픽, AI 안전 규정 대폭 약화...〃나 홀로 개발 멈추면 더 위험〃
-https://www.aitimes.com/news/articleView.html?idxno=207272
+◾ 서비스나우, 생각하고 행동하는 ‘자율 인력’ 출시… 서비스나우 AI 플랫폼에 무브웍스 기술 통합
+https://www.aitimes.kr/news/articleView.html?idxno=38847
 
-◾ 앤트로픽, ‘클로드 코드’ 모바일 버전 ‘리모트 컨트롤’ 출시
-https://www.aitimes.com/news/articleView.html?idxno=207278
+◾ 오픈AI, ＇AI 악의적 사용 차단＇ 보고서 공개...“위협 행위자, 단일 모델 아닌 복수 AI·플랫폼 결합 활용”
+https://www.aitimes.kr/news/articleView.html?idxno=38839
 
-◾ 퍼플렉시티, 오픈클로와 흡사한 범용 에이전트 ＇컴퓨터＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=207280
+📚 간행물
+◾ 에이전틱인터페이스, AI통신, AI규제 [AI·ICT Brief 2026-07호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260227-000001&cpage=1&rows=10&searchTarget=all
 
-[기타]
-◾ [ET시론] AI 반도체의 핵심, 첨단 패키징 소재
-https://www.etnews.com/20260226000151
+◾ AI 임팩트 서밋 2026(AI Impact Summit 2026) 外 [IITP 디지털 아웃룩 2026-2월호]
+https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260227-000031&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
