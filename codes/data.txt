@@ -1,95 +1,64 @@
-📢26.02.28 AI 일일 동향📢
+📢26.03.01 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ [기품원] 국방기술품질원, 한국형 고장률 예측소프트웨어 개발·무상배포
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58243&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
+◾ “中 전력망·통신망까지 노린다”…美국방부, AI로 ＇사이버 선제타격＇ 준비
+https://www.etnews.com/20260228000004
 
-◾ “24시간 연속 자율 비행 시대 열릴까” 아리온-유니퀘스트·구루, 최첨단 UAS플랫폼 글로벌 사업화 업무협약
-https://www.etnews.com/20260227000284
+◾ [2월27일] GPT-5.2·클로드·제미나이, 워게임서 핵무기 사용 확률 95%
+https://www.aitimes.com/news/articleView.html?idxno=207389
 
-◾ 무인 체계 운용·생존성 확보 방안 모색
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47883&startDate=&endDate=&id=mnd_020101000000
+◾ 〃미 국방부, 정부 기관 경고 무시하고 머스크의 ＇그록＇ 기밀 작전에 도입〃
+https://www.aitimes.com/news/articleView.html?idxno=207407
 
-[육군]
-◾ 또 다른 눈과 손 다루는 ‘정예 드론전사’로 변신
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47867&startDate=&endDate=&id=mnd_020101000000
-
-◾ 야전부대 최초 차세대 디지털 무전기 활용 전투훈련
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47869&startDate=&endDate=&id=mnd_020101000000
-
-◾ 드론·로봇·RCWS 한몸에 품은 전투차량의 등장…前에 없던, 戰에서 보다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47870&startDate=&endDate=&id=mnd_020101000000
+◾ 오픈AI, 앤트로픽 퇴출 직후 미 국방부와 계약...〃안전 방침은 고수〃
+https://www.aitimes.com/news/articleView.html?idxno=207414
 
 [민간]
-◾ 시스원, 퓨리오사AI와 공공부문 총판계약 체결…2세대 NPU 시장 진출 본격화
-https://www.etnews.com/20260227000306
+◾ 세계 1위 자동화 한국, 휴머노이드 넘어 ＇다음 로봇＇ 모색
+https://www.etnews.com/20260227000252
 
-◾ AI 대전환, SW 미래는… SW 업계 “생산성 혁신과 인력 급감 속 생태계 격변 대비해야”
-https://www.etnews.com/20260227000207
+◾ 우리금융, 사외이사 ＇AI·소비자보호＇ 전문가 영입…지배구조 개편 병행
+https://www.etnews.com/20260228000012
 
-◾ 현대차그룹, 새만금에 AI·로봇·에너지 거점 구축...9조원 투자
-https://www.etnews.com/20260227000190
+◾ 버거킹, ＇AI 헤드셋＇으로 직원 친절도 평가한다
+https://www.etnews.com/20260227000277
 
-◾ KT, MWC26서 차세대 AICC 공개…상담부터 해결까지 ＇원스톱＇
-https://www.etnews.com/20260227000082
-
-◾ KT-GSMA, MWC26서 공동백서 발간…＇AI네이티브 네트워크＇ 알린다
-https://www.etnews.com/20260227000028
-
-◾ 몬드리안에이아이, 통합 AI 어플라이언스 ‘몬박스’ 실증 성과 공개… ‘네오클라우드’ 비전 선포
-https://www.aitimes.kr/news/articleView.html?idxno=38855
-
-◾ 체인징텍 로보틱스, 세계 최초 AI 기반 ＇좌·우 전환형＇ 적응 로봇손 ‘X2’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=38861
+◾ [포토] 완전 자율형 민첩 로봇 ＇우치봇＇
+https://www.etnews.com/20260228000039
 
 [기관]
-◾ 정부, 구글에 고정밀지도 반출 허가 ＇가닥＇…산업계·학계, 우려 현실화 조짐에 “개탄”
-https://www.etnews.com/20260227000009
+◾ 전북도-BNY, 내달 5일 ＇금융산업과 AI 세미나＇ 개최
+https://www.etnews.com/20260227000246
 
-◾ “대구, AX로 산업지도를 다시 그린다! ”  대구 AI 대전환 사업단 출범 비전선포식 성황리 개최
-https://www.etnews.com/20260227000353
-
-◾ 공공 AI전환(AX)을 위한 5대 원칙과 로드맵은?
-https://www.etnews.com/20260227000308
-
-◾ KAIST, ‘딥테크 스케일업 밸리’본격 가동...피지컬 AI 실행 전략 공개
-https://www.aitimes.kr/news/articleView.html?idxno=38841
-
-◾ K-문샷 핵심 임무(미션) ‘인간형 로봇(휴머노이드)’, 출연연 한 팀(원팀)으로 세계 주도권 선점
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186960&searchOpt=ALL&searchTxt=
-
-◾ 과기정통부, 제2차 한･일 정보통신기술(ICT) 정책 포럼 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186956&searchOpt=ALL&searchTxt=
+◾ 한국해양대, ＇첨단산업 인재양성 부트캠프＇ 선정
+https://www.etnews.com/20260228000005
 
 [해외]
-◾ 구글, 이미지 AI ＇나노바나나2＇ 출시…＇프로＇급 이미지 무료 이용
-https://www.etnews.com/20260227000010
+◾ “1달러 vs 25달러”…… 美 독주 끝내고 중국 AI ＇미니맥스 1위＇ 급부상
+https://www.etnews.com/20260228000020
 
-◾ AI에 가상전쟁 맡겼더니…95%가 핵무기 버튼 눌렀다
-https://www.etnews.com/20260227000348
+◾ 트럼프, 모든 연방기관에 앤트로픽 기술 사용 중단 지시… ＇위험기업＇ 지정도
+https://www.etnews.com/20260228000009
 
-◾ 미국 국방부, 중국과 충돌 시 ＇AI 사이버 공격·정찰＇ 추진
-https://www.etnews.com/20260227000358
+◾ 영국 자율주행 스타트업 웨이브, 1.7조 투자 유치...〃테슬라 맞설 연합군 형성〃
+https://www.aitimes.com/news/articleView.html?idxno=207410
 
-◾ 앤트로픽, 美 국방부 ＇무기 등 AI 무제한 사용 요구＇ 거부
-https://www.etnews.com/20260227000356
+◾ 구글, 비엔지니어까지 AI 사용 의무화…인사평가에도 반영
+https://www.aitimes.com/news/articleView.html?idxno=207388
 
-◾ 〃아마존, 오픈AI 500억달러 투자에 IPO·AGI 조건 포함〃
-https://www.aitimes.com/news/articleView.html?idxno=207370
+◾ 오픈AI, 195조 투자 유치로 몸값 1053조 달성...아마존과 대형 파트너십
+https://www.aitimes.com/news/articleView.html?idxno=207406
 
-◾ 〃메타, 구글와 수십억달러 TPU 계약 체결...자체 칩 개발은 중단〃
-https://www.aitimes.com/news/articleView.html?idxno=207368
+◾ 오픈AI, 캐나다 총기 사건에 ‘시스템 결함’ 시인… “신고 체계 전면 강화”
+https://www.aitimes.com/news/articleView.html?idxno=207408
 
-◾ 오픈AI, ＇AI 악의적 사용 차단＇ 보고서 공개...“위협 행위자, 단일 모델 아닌 복수 AI·플랫폼 결합 활용”
-https://www.aitimes.kr/news/articleView.html?idxno=38839
+◾ 〃AI 도입으로 직원 절반 감원〃...트위터 창립자의 강수에 논쟁 본격화
+https://www.aitimes.com/news/articleView.html?idxno=207409
 
-📚 간행물
-◾ 에이전틱인터페이스, AI통신, AI규제 [AI·ICT Brief 2026-07호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260227-000001&cpage=1&rows=10&searchTarget=all
-
-◾ AI 임팩트 서밋 2026(AI Impact Summit 2026) 外 [IITP 디지털 아웃룩 2026-2월호]
-https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260227-000031&cpage=1&rows=10&searchTarget=all
+[기타]
+◾ 가천대, 2025 동계 시냅스포럼 개최해 실행과제 중간성과 공유
+https://www.etnews.com/20260228000002
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
