@@ -1,18 +1,19 @@
 📢26.03.02 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 오픈AI, 미 국방부 계약 내용 공개...〃앤트로픽 계약보다 더 안전〃
+https://www.aitimes.com/news/articleView.html?idxno=207420
+
 [민간]
-◾ KAIST, 예측 틀려도 한 번 더 생각하는 AI 개발...“AI 발전 촉진”
-https://www.etnews.com/20260227000177
+◾ [제27회 공공솔루션마켓] 비아이매트릭스 “온톨로지 기반 AI로 ＇업무 자동화＇ 실현”
+https://www.etnews.com/20260227000340
 
 ◾ 팀모노리스, 사내 AX로 업무 효율 92%↑...〃슬랙에 AI 동료가 산다〃
 https://www.aitimes.com/news/articleView.html?idxno=207413
 
 ◾ KT, MWC26서 로봇 플랫폼 ‘K RaaS’ 공개...〃VLA 기반 피지컬 AI〃
 https://www.aitimes.com/news/articleView.html?idxno=207415
-
-◾ [AI 리뷰] 머신러닝 기반 ‘맞춤형 암 백신’ 설계 모델... 예일대, ＇이뮤노스트럭트＇ 오픈소스로 공개
-https://www.aitimes.kr/news/articleView.html?idxno=38867
 
 ◾ 삼성전자, 2030년까지 AI 자율공장으로 전환한다...스스로 실행하는 ＇에이전틱 AI＇ 제조 혁신에 적용
 https://www.aitimes.kr/news/articleView.html?idxno=38866
@@ -30,6 +31,9 @@ https://www.etnews.com/20260227000334
 ◾ 李대통령, 싱가포르로 출국…AI 협력 확대 나섰다
 https://www.etnews.com/20260301000058
 
+◾ KAIST,‘뇌를 닮은 AI’개발.. 예측이 틀려도 한번 더 생각한다
+https://www.aitimes.com/news/articleView.html?idxno=207400
+
 ◾ 〃입소문 탄 학교폭력·교권보호 AI〃…인텔리콘 ＇AI 나눔이＇, 강원특별자치도교육청 전면 도입
 https://www.aitimes.kr/news/articleView.html?idxno=38864
 
@@ -37,17 +41,11 @@ https://www.aitimes.kr/news/articleView.html?idxno=38864
 https://www.aitimes.kr/news/articleView.html?idxno=38863
 
 [해외]
-◾ 바이트댄스, 지분 매각 과정에서 기업가치 792조 평가...비상장 기업 중 3위
-https://www.aitimes.com/news/articleView.html?idxno=207425
-
 ◾ 알리바바, MWC서 스마트 안경 선보인다...아너는 첫 휴머노이드 공개
 https://www.aitimes.com/news/articleView.html?idxno=207421
 
 ◾ 엔비디아, ＇GTC＇서 추론 전용 신형 칩 공개...오픈AI ＇코덱스＇에 적용
 https://www.aitimes.com/news/articleView.html?idxno=207418
-
-◾ 오픈AI, 미 국방부 계약 내용 공개...〃앤트로픽 계약보다 더 안전〃
-https://www.aitimes.com/news/articleView.html?idxno=207420
 
 ◾ ＇클로드＇ 사상 첫 앱 스토어 1위 등극...케이티 페리는 ＇프로＇ 구독 인증
 https://www.aitimes.com/news/articleView.html?idxno=207417
@@ -59,11 +57,11 @@ https://www.aitimes.com/news/articleView.html?idxno=207426
 https://www.aitimes.kr/news/articleView.html?idxno=38862
 
 [기타]
-◾ [기고] “그래프 RAG 열풍, 기업 AI 대부분은 아직 자동화에 실패하고 있다”
-https://www.aitimes.com/news/articleView.html?idxno=207411
-
 ◾ 코티컬 랩스, 인간 뇌세포 20만개 신경 컴퓨터로 게임 ‘둠’ 플레이 성공
 https://www.aitimes.com/news/articleView.html?idxno=207422
+
+◾ [AI 리뷰] 머신러닝 기반 ‘맞춤형 암 백신’ 설계 모델... 예일대, ＇이뮤노스트럭트＇ 오픈소스로 공개
+https://www.aitimes.kr/news/articleView.html?idxno=38867
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
