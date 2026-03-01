@@ -1,92 +1,102 @@
 [
   {
-    "title": "가천대, 2025 동계 시냅스포럼 개최해 실행과제 중간성과 공유",
-    "link": "https://www.etnews.com/20260228000002",
+    "title": "[ET톡] 국가AI컴퓨팅센터 ＇교착＇",
+    "link": "https://www.etnews.com/20260227000185",
+    "category": "기관"
+  },
+  {
+    "title": "[제27회 공공솔루션마켓] 성공적인 공공 AX 기반으로 AI G3 도약",
+    "link": "https://www.etnews.com/20260227000334",
+    "category": "기관"
+  },
+  {
+    "title": "李대통령, 싱가포르로 출국…AI 협력 확대 나섰다",
+    "link": "https://www.etnews.com/20260301000058",
+    "category": "기관"
+  },
+  {
+    "title": "KAIST, 예측 틀려도 한 번 더 생각하는 AI 개발...“AI 발전 촉진”",
+    "link": "https://www.etnews.com/20260227000177",
+    "category": "민간"
+  },
+  {
+    "title": "팀모노리스, 사내 AX로 업무 효율 92%↑...〃슬랙에 AI 동료가 산다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207413",
+    "category": "민간"
+  },
+  {
+    "title": "바이트댄스, 지분 매각 과정에서 기업가치 792조 평가...비상장 기업 중 3위",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207425",
+    "category": "해외"
+  },
+  {
+    "title": "알리바바, MWC서 스마트 안경 선보인다...아너는 첫 휴머노이드 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207421",
+    "category": "해외"
+  },
+  {
+    "title": "[기고] “그래프 RAG 열풍, 기업 AI 대부분은 아직 자동화에 실패하고 있다”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207411",
     "category": "기타"
   },
   {
-    "title": "세계 1위 자동화 한국, 휴머노이드 넘어 ＇다음 로봇＇ 모색",
-    "link": "https://www.etnews.com/20260227000252",
-    "category": "민간"
-  },
-  {
-    "title": "“1달러 vs 25달러”…… 美 독주 끝내고 중국 AI ＇미니맥스 1위＇ 급부상",
-    "link": "https://www.etnews.com/20260228000020",
+    "title": "엔비디아, ＇GTC＇서 추론 전용 신형 칩 공개...오픈AI ＇코덱스＇에 적용",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207418",
     "category": "해외"
   },
   {
-    "title": "전북도-BNY, 내달 5일 ＇금융산업과 AI 세미나＇ 개최",
-    "link": "https://www.etnews.com/20260227000246",
+    "title": "오픈AI, 미 국방부 계약 내용 공개...〃앤트로픽 계약보다 더 안전〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207420",
+    "category": "해외"
+  },
+  {
+    "title": "＇클로드＇ 사상 첫 앱 스토어 1위 등극...케이티 페리는 ＇프로＇ 구독 인증",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207417",
+    "category": "해외"
+  },
+  {
+    "title": "KT, MWC26서 로봇 플랫폼 ‘K RaaS’ 공개...〃VLA 기반 피지컬 AI〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207415",
+    "category": "민간"
+  },
+  {
+    "title": "〃딥시크-V4, 4일 중국 ＇양회＇ 맞춰 공개...화웨이 칩에 최적화〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207426",
+    "category": "해외"
+  },
+  {
+    "title": "코티컬 랩스, 인간 뇌세포 20만개 신경 컴퓨터로 게임 ‘둠’ 플레이 성공",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207422",
+    "category": "기타"
+  },
+  {
+    "title": "[AI 리뷰] 머신러닝 기반 ‘맞춤형 암 백신’ 설계 모델... 예일대, ＇이뮤노스트럭트＇ 오픈소스로 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38867",
+    "category": "민간"
+  },
+  {
+    "title": "삼성전자, 2030년까지 AI 자율공장으로 전환한다...스스로 실행하는 ＇에이전틱 AI＇ 제조 혁신에 적용",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38866",
+    "category": "민간"
+  },
+  {
+    "title": "LG전자, 전북 완주 AI 데이터센터에 토털 HVAC 솔루션 공급",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38865",
+    "category": "민간"
+  },
+  {
+    "title": "〃입소문 탄 학교폭력·교권보호 AI〃…인텔리콘 ＇AI 나눔이＇, 강원특별자치도교육청 전면 도입",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38864",
     "category": "기관"
   },
   {
-    "title": "우리금융, 사외이사 ＇AI·소비자보호＇ 전문가 영입…지배구조 개편 병행",
-    "link": "https://www.etnews.com/20260228000012",
-    "category": "민간"
-  },
-  {
-    "title": "트럼프, 모든 연방기관에 앤트로픽 기술 사용 중단 지시… ＇위험기업＇ 지정도",
-    "link": "https://www.etnews.com/20260228000009",
-    "category": "해외"
-  },
-  {
-    "title": "한국해양대, ＇첨단산업 인재양성 부트캠프＇ 선정",
-    "link": "https://www.etnews.com/20260228000005",
+    "title": "농촌진흥청, 농업 AX 이끌 전담 조직 ‘농업지능데이터팀’ 신설",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38863",
     "category": "기관"
   },
   {
-    "title": "“中 전력망·통신망까지 노린다”…美국방부, AI로 ＇사이버 선제타격＇ 준비",
-    "link": "https://www.etnews.com/20260228000004",
-    "category": "국방"
-  },
-  {
-    "title": "버거킹, ＇AI 헤드셋＇으로 직원 친절도 평가한다",
-    "link": "https://www.etnews.com/20260227000277",
-    "category": "민간"
-  },
-  {
-    "title": "[포토] 완전 자율형 민첩 로봇 ＇우치봇＇",
-    "link": "https://www.etnews.com/20260228000039",
-    "category": "민간"
-  },
-  {
-    "title": "영국 자율주행 스타트업 웨이브, 1.7조 투자 유치...〃테슬라 맞설 연합군 형성〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207410",
+    "title": "아마존 앤디 재시 CEO, 〃오픈AI에 500억 달러 베팅〃....향후 8년간 1000억 달러로 확대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38862",
     "category": "해외"
-  },
-  {
-    "title": "구글, 비엔지니어까지 AI 사용 의무화…인사평가에도 반영",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207388",
-    "category": "해외"
-  },
-  {
-    "title": "오픈AI, 195조 투자 유치로 몸값 1053조 달성...아마존과 대형 파트너십",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207406",
-    "category": "해외"
-  },
-  {
-    "title": "[2월27일] GPT-5.2·클로드·제미나이, 워게임서 핵무기 사용 확률 95%",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207389",
-    "category": "국방"
-  },
-  {
-    "title": "오픈AI, 캐나다 총기 사건에 ‘시스템 결함’ 시인… “신고 체계 전면 강화”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207408",
-    "category": "해외"
-  },
-  {
-    "title": "〃미 국방부, 정부 기관 경고 무시하고 머스크의 ＇그록＇ 기밀 작전에 도입〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207407",
-    "category": "국방"
-  },
-  {
-    "title": "〃AI 도입으로 직원 절반 감원〃...트위터 창립자의 강수에 논쟁 본격화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207409",
-    "category": "해외"
-  },
-  {
-    "title": "오픈AI, 앤트로픽 퇴출 직후 미 국방부와 계약...〃안전 방침은 고수〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207414",
-    "category": "국방"
   }
 ]
