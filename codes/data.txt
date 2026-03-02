@@ -1,67 +1,63 @@
-📢26.03.02 AI 일일 동향📢
+📢26.03.03 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 오픈AI, 미 국방부 계약 내용 공개...〃앤트로픽 계약보다 더 안전〃
-https://www.aitimes.com/news/articleView.html?idxno=207420
+◾ 경북도, SDT·모빌린트·경운대·GERI와 양자·AI 기술 기반 차세데 무인이동체 고도화 업무협약
+https://www.etnews.com/20260302000027
+
+◾ AI 주도 ‘지능형 군수 생태계’ 대전환 선포
+https://kookbang.dema.mil.kr/newsWeb/20260303/4/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=CuOt-9dOkbhio-BDb663kGQvUix0vIynQNLX43qFY8lkSmeFnbBd!403047716
+
+◾ “AI 혁신 가속화…국방·안보 분야 협력 기반 강화”
+https://kookbang.dema.mil.kr/newsWeb/20260303/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=CuOt-9dOkbhio-BDb663kGQvUix0vIynQNLX43qFY8lkSmeFnbBd!403047716
 
 [민간]
-◾ [제27회 공공솔루션마켓] 비아이매트릭스 “온톨로지 기반 AI로 ＇업무 자동화＇ 실현”
-https://www.etnews.com/20260227000340
+◾ 정재헌 SK텔레콤 대표 “하이퍼 AI DC에 최대 100조원 투입 예상”…글로벌 AI 허브 도약 자신
+https://www.etnews.com/20260302000100
 
-◾ 팀모노리스, 사내 AX로 업무 효율 92%↑...〃슬랙에 AI 동료가 산다〃
-https://www.aitimes.com/news/articleView.html?idxno=207413
+◾ [MWC26] AI·우주와 만난 통신…＇지능화 시대＇ 이끈다
+https://www.etnews.com/20260302000017
 
-◾ KT, MWC26서 로봇 플랫폼 ‘K RaaS’ 공개...〃VLA 기반 피지컬 AI〃
-https://www.aitimes.com/news/articleView.html?idxno=207415
+◾ [MWC26] KT, 기업형 AI OS 공개…B2B AI 시장 공략
+https://www.etnews.com/20260302000007
 
-◾ 삼성전자, 2030년까지 AI 자율공장으로 전환한다...스스로 실행하는 ＇에이전틱 AI＇ 제조 혁신에 적용
-https://www.aitimes.kr/news/articleView.html?idxno=38866
+◾ 삼성전자 〃2030년까지 AI 자율공장 전환...휴머노이드도 단계 추진〃
+https://www.aitimes.com/news/articleView.html?idxno=207429
 
-◾ LG전자, 전북 완주 AI 데이터센터에 토털 HVAC 솔루션 공급
-https://www.aitimes.kr/news/articleView.html?idxno=38865
+◾ LG AI연구원-LG유플러스, 1위 AI 원팀 LG...“AX 넘어 현실 세계서 실질적 가치 창출”
+https://www.aitimes.kr/news/articleView.html?idxno=38870
 
 [기관]
-◾ [ET톡] 국가AI컴퓨팅센터 ＇교착＇
-https://www.etnews.com/20260227000185
+◾ ＇K-자율주행＇ 사업자 선정 첫발
+https://www.etnews.com/20260302000087
 
-◾ [제27회 공공솔루션마켓] 성공적인 공공 AX 기반으로 AI G3 도약
-https://www.etnews.com/20260227000334
+◾ 韓-싱가포르, 미래 대비 함께…＇피지컬 AI·SMR＇ 첨단기술 협력 강화
+https://www.etnews.com/20260302000135
 
-◾ 李대통령, 싱가포르로 출국…AI 협력 확대 나섰다
-https://www.etnews.com/20260301000058
+◾ KISA, AI시대 이끌 화이트해커 172명 배출
+https://www.etnews.com/20260302000117
 
-◾ KAIST,‘뇌를 닮은 AI’개발.. 예측이 틀려도 한번 더 생각한다
-https://www.aitimes.com/news/articleView.html?idxno=207400
-
-◾ 〃입소문 탄 학교폭력·교권보호 AI〃…인텔리콘 ＇AI 나눔이＇, 강원특별자치도교육청 전면 도입
-https://www.aitimes.kr/news/articleView.html?idxno=38864
-
-◾ 농촌진흥청, 농업 AX 이끌 전담 조직 ‘농업지능데이터팀’ 신설
-https://www.aitimes.kr/news/articleView.html?idxno=38863
+◾ “로봇과 춤추고 악수”…＇서울AI페스티벌＇에 1만7000명 찾아 피지컬AI 체험
+https://www.etnews.com/20260302000011
 
 [해외]
-◾ 알리바바, MWC서 스마트 안경 선보인다...아너는 첫 휴머노이드 공개
-https://www.aitimes.com/news/articleView.html?idxno=207421
+◾ “호주, AI ＇연령확인＇ 의무화…검색엔진·앱스토어까지 제재 검토”
+https://www.etnews.com/20260302000101
 
-◾ 엔비디아, ＇GTC＇서 추론 전용 신형 칩 공개...오픈AI ＇코덱스＇에 적용
-https://www.aitimes.com/news/articleView.html?idxno=207418
+◾ AI 무기화 논란에…앤트로픽·오픈AI 엇갈린 행보
+https://www.etnews.com/20260302000044
 
-◾ ＇클로드＇ 사상 첫 앱 스토어 1위 등극...케이티 페리는 ＇프로＇ 구독 인증
-https://www.aitimes.com/news/articleView.html?idxno=207417
+◾ 오픈AI-아마존 파트너십의 기술 핵심인 ‘상태 저장형’ AI 런타임이란
+https://www.aitimes.com/news/articleView.html?idxno=207434
 
-◾ 〃딥시크-V4, 4일 중국 ＇양회＇ 맞춰 공개...화웨이 칩에 최적화〃
-https://www.aitimes.com/news/articleView.html?idxno=207426
+◾ 미국, 앤트로픽 금지 직후 이란 공격에 ＇클로드＇ 활용
+https://www.aitimes.com/news/articleView.html?idxno=207431
 
-◾ 아마존 앤디 재시 CEO, 〃오픈AI에 500억 달러 베팅〃....향후 8년간 1000억 달러로 확대
-https://www.aitimes.kr/news/articleView.html?idxno=38862
+◾ 오픈AI 과학 책임자 〃AI, 인류 난제 해결 시작... 과학 발전 20년 앞당길 것〃
+https://www.aitimes.com/news/articleView.html?idxno=207437
 
-[기타]
-◾ 코티컬 랩스, 인간 뇌세포 20만개 신경 컴퓨터로 게임 ‘둠’ 플레이 성공
-https://www.aitimes.com/news/articleView.html?idxno=207422
-
-◾ [AI 리뷰] 머신러닝 기반 ‘맞춤형 암 백신’ 설계 모델... 예일대, ＇이뮤노스트럭트＇ 오픈소스로 공개
-https://www.aitimes.kr/news/articleView.html?idxno=38867
+◾ 화웨이, MWC 2026서 ‘에이전틱 코어’ 공개… 통신망을 AI 에이전트 플랫폼으로 전환
+https://www.aitimes.kr/news/articleView.html?idxno=38875
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
