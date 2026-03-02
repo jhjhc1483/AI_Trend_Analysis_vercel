@@ -2,9 +2,6 @@
 
 📰 오늘의 기사
 [국방]
-◾ 경북도, SDT·모빌린트·경운대·GERI와 양자·AI 기술 기반 차세데 무인이동체 고도화 업무협약
-https://www.etnews.com/20260302000027
-
 ◾ AI 주도 ‘지능형 군수 생태계’ 대전환 선포
 https://kookbang.dema.mil.kr/newsWeb/20260303/4/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=CuOt-9dOkbhio-BDb663kGQvUix0vIynQNLX43qFY8lkSmeFnbBd!403047716
 
@@ -12,11 +9,17 @@ https://kookbang.dema.mil.kr/newsWeb/20260303/4/ATCE_CTGR_0010040000/view.do;JSE
 https://kookbang.dema.mil.kr/newsWeb/20260303/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=CuOt-9dOkbhio-BDb663kGQvUix0vIynQNLX43qFY8lkSmeFnbBd!403047716
 
 [민간]
+◾ 퀄컴 ＇스냅드래곤 웨어 엘리트＇ 공개…차세대 웨어러블 컴퓨팅 겨냥
+https://www.etnews.com/20260302000146
+
 ◾ 정재헌 SK텔레콤 대표 “하이퍼 AI DC에 최대 100조원 투입 예상”…글로벌 AI 허브 도약 자신
 https://www.etnews.com/20260302000100
 
-◾ [MWC26] AI·우주와 만난 통신…＇지능화 시대＇ 이끈다
-https://www.etnews.com/20260302000017
+◾ 스마트폰용 FMP 첫 선…삼성D, ＇MWC26＇서 AI 맞춤 OLED 전면에
+https://www.etnews.com/20260302000076
+
+◾ LG CNS, 상반기 세자릿수 경력 채용…AI·로보틱스 핵심 기술 인재 확보
+https://www.etnews.com/20260302000028
 
 ◾ [MWC26] KT, 기업형 AI OS 공개…B2B AI 시장 공략
 https://www.etnews.com/20260302000007
@@ -24,8 +27,8 @@ https://www.etnews.com/20260302000007
 ◾ 삼성전자 〃2030년까지 AI 자율공장 전환...휴머노이드도 단계 추진〃
 https://www.aitimes.com/news/articleView.html?idxno=207429
 
-◾ LG AI연구원-LG유플러스, 1위 AI 원팀 LG...“AX 넘어 현실 세계서 실질적 가치 창출”
-https://www.aitimes.kr/news/articleView.html?idxno=38870
+◾ LGU+, MWC26서 기술로 연결되는 ‘사람중심 AI’ 비전 공개
+https://www.aitimes.com/news/articleView.html?idxno=207428
 
 [기관]
 ◾ ＇K-자율주행＇ 사업자 선정 첫발
@@ -37,18 +40,30 @@ https://www.etnews.com/20260302000135
 ◾ KISA, AI시대 이끌 화이트해커 172명 배출
 https://www.etnews.com/20260302000117
 
-◾ “로봇과 춤추고 악수”…＇서울AI페스티벌＇에 1만7000명 찾아 피지컬AI 체험
-https://www.etnews.com/20260302000011
+◾ KISTI, ＇AI SilkNet 센터＇ 출범...한-카자흐 과기 데이터 공동 플랫폼 본격 가동
+https://www.etnews.com/20260302000038
+
+◾ 경북도, SDT·모빌린트·경운대·GERI와 양자·AI 기술 기반 차세데 무인이동체 고도화 업무협약
+https://www.etnews.com/20260302000027
+
+◾ 호서대, ＇첨단산업 인재 양성 부트캠프＇ AI 분야 선정…AI 거점대학 신호탄
+https://www.etnews.com/20260302000009
+
+◾ [MWC26] 대한민국 저전력 AI네트워크 기술, MWC 통해 세계에 선보인다
+https://www.etnews.com/20260302000156
 
 [해외]
 ◾ “호주, AI ＇연령확인＇ 의무화…검색엔진·앱스토어까지 제재 검토”
 https://www.etnews.com/20260302000101
 
-◾ AI 무기화 논란에…앤트로픽·오픈AI 엇갈린 행보
-https://www.etnews.com/20260302000044
-
 ◾ 오픈AI-아마존 파트너십의 기술 핵심인 ‘상태 저장형’ AI 런타임이란
 https://www.aitimes.com/news/articleView.html?idxno=207434
+
+◾ 구글·유튜브, 초고속 대규모 추천 기술 ‘스태틱’ 공개…〃성능 1000배 향상〃
+https://www.aitimes.com/news/articleView.html?idxno=207435
+
+◾ MS, ＇시스템 프롬프트＇를 매개변수에 내재화하는 프레임워크 공개
+https://www.aitimes.com/news/articleView.html?idxno=207405
 
 ◾ 미국, 앤트로픽 금지 직후 이란 공격에 ＇클로드＇ 활용
 https://www.aitimes.com/news/articleView.html?idxno=207431
@@ -58,6 +73,13 @@ https://www.aitimes.com/news/articleView.html?idxno=207437
 
 ◾ 화웨이, MWC 2026서 ‘에이전틱 코어’ 공개… 통신망을 AI 에이전트 플랫폼으로 전환
 https://www.aitimes.kr/news/articleView.html?idxno=38875
+
+[기타]
+◾ “대한민국, AI 추격자가 아닌 방향 제시자가 돼야...K-AI 휴머니즘은 대한민국 소버린 AI 전략”
+https://www.etnews.com/20260227000248
+
+◾ “로봇과 춤추고 악수”…＇서울AI페스티벌＇에 1만7000명 찾아 피지컬AI 체험
+https://www.etnews.com/20260302000011
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html

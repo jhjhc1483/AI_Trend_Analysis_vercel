@@ -1,5 +1,15 @@
 [
   {
+    "title": "퀄컴 ＇스냅드래곤 웨어 엘리트＇ 공개…차세대 웨어러블 컴퓨팅 겨냥",
+    "link": "https://www.etnews.com/20260302000146",
+    "category": "민간"
+  },
+  {
+    "title": "“대한민국, AI 추격자가 아닌 방향 제시자가 돼야...K-AI 휴머니즘은 대한민국 소버린 AI 전략”",
+    "link": "https://www.etnews.com/20260227000248",
+    "category": "기타"
+  },
+  {
     "title": "＇K-자율주행＇ 사업자 선정 첫발",
     "link": "https://www.etnews.com/20260302000087",
     "category": "기관"
@@ -25,23 +35,33 @@
     "category": "해외"
   },
   {
-    "title": "AI 무기화 논란에…앤트로픽·오픈AI 엇갈린 행보",
-    "link": "https://www.etnews.com/20260302000044",
-    "category": "해외"
+    "title": "스마트폰용 FMP 첫 선…삼성D, ＇MWC26＇서 AI 맞춤 OLED 전면에",
+    "link": "https://www.etnews.com/20260302000076",
+    "category": "민간"
+  },
+  {
+    "title": "KISTI, ＇AI SilkNet 센터＇ 출범...한-카자흐 과기 데이터 공동 플랫폼 본격 가동",
+    "link": "https://www.etnews.com/20260302000038",
+    "category": "기관"
+  },
+  {
+    "title": "LG CNS, 상반기 세자릿수 경력 채용…AI·로보틱스 핵심 기술 인재 확보",
+    "link": "https://www.etnews.com/20260302000028",
+    "category": "민간"
   },
   {
     "title": "경북도, SDT·모빌린트·경운대·GERI와 양자·AI 기술 기반 차세데 무인이동체 고도화 업무협약",
     "link": "https://www.etnews.com/20260302000027",
-    "category": "국방"
-  },
-  {
-    "title": "[MWC26] AI·우주와 만난 통신…＇지능화 시대＇ 이끈다",
-    "link": "https://www.etnews.com/20260302000017",
-    "category": "민간"
+    "category": "기관"
   },
   {
     "title": "“로봇과 춤추고 악수”…＇서울AI페스티벌＇에 1만7000명 찾아 피지컬AI 체험",
     "link": "https://www.etnews.com/20260302000011",
+    "category": "기타"
+  },
+  {
+    "title": "호서대, ＇첨단산업 인재 양성 부트캠프＇ AI 분야 선정…AI 거점대학 신호탄",
+    "link": "https://www.etnews.com/20260302000009",
     "category": "기관"
   },
   {
@@ -50,8 +70,23 @@
     "category": "민간"
   },
   {
+    "title": "[MWC26] 대한민국 저전력 AI네트워크 기술, MWC 통해 세계에 선보인다",
+    "link": "https://www.etnews.com/20260302000156",
+    "category": "기관"
+  },
+  {
     "title": "오픈AI-아마존 파트너십의 기술 핵심인 ‘상태 저장형’ AI 런타임이란",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=207434",
+    "category": "해외"
+  },
+  {
+    "title": "구글·유튜브, 초고속 대규모 추천 기술 ‘스태틱’ 공개…〃성능 1000배 향상〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207435",
+    "category": "해외"
+  },
+  {
+    "title": "MS, ＇시스템 프롬프트＇를 매개변수에 내재화하는 프레임워크 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207405",
     "category": "해외"
   },
   {
@@ -65,6 +100,11 @@
     "category": "민간"
   },
   {
+    "title": "LGU+, MWC26서 기술로 연결되는 ‘사람중심 AI’ 비전 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207428",
+    "category": "민간"
+  },
+  {
     "title": "오픈AI 과학 책임자 〃AI, 인류 난제 해결 시작... 과학 발전 20년 앞당길 것〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=207437",
     "category": "해외"
@@ -73,11 +113,6 @@
     "title": "화웨이, MWC 2026서 ‘에이전틱 코어’ 공개… 통신망을 AI 에이전트 플랫폼으로 전환",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38875",
     "category": "해외"
-  },
-  {
-    "title": "LG AI연구원-LG유플러스, 1위 AI 원팀 LG...“AX 넘어 현실 세계서 실질적 가치 창출”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38870",
-    "category": "민간"
   },
   {
     "title": "AI 주도 ‘지능형 군수 생태계’ 대전환 선포",
