@@ -1,127 +1,137 @@
 [
   {
-    "title": "퀄컴 ＇스냅드래곤 웨어 엘리트＇ 공개…차세대 웨어러블 컴퓨팅 겨냥",
-    "link": "https://www.etnews.com/20260302000146",
+    "title": "“피지컬AI 성패는 데이터”…마음AI, ＇1호 데이터 팩토리＇ 개소",
+    "link": "https://www.etnews.com/20260303000361",
     "category": "민간"
   },
   {
-    "title": "“대한민국, AI 추격자가 아닌 방향 제시자가 돼야...K-AI 휴머니즘은 대한민국 소버린 AI 전략”",
-    "link": "https://www.etnews.com/20260227000248",
-    "category": "기타"
-  },
-  {
-    "title": "＇K-자율주행＇ 사업자 선정 첫발",
-    "link": "https://www.etnews.com/20260302000087",
+    "title": "지식재산처, 한-싱가포르 AI 분야 지식재산 강화 협력",
+    "link": "https://www.etnews.com/20260303000462",
     "category": "기관"
   },
   {
-    "title": "韓-싱가포르, 미래 대비 함께…＇피지컬 AI·SMR＇ 첨단기술 협력 강화",
-    "link": "https://www.etnews.com/20260302000135",
+    "title": "오픈AI, 美 국방부와 AI 계약 수정…“대중 감시 금지 명문화”",
+    "link": "https://www.etnews.com/20260303000425",
+    "category": "해외"
+  },
+  {
+    "title": "“LLM으로 정책 여론 읽는다”…문체부, AI 기반 여론 분석 고도화 착수",
+    "link": "https://www.etnews.com/20260303000377",
     "category": "기관"
   },
   {
-    "title": "정재헌 SK텔레콤 대표 “하이퍼 AI DC에 최대 100조원 투입 예상”…글로벌 AI 허브 도약 자신",
-    "link": "https://www.etnews.com/20260302000100",
+    "title": "오케스트로, 공공 AI 완성을 위한 ＇소버린 AI 클라우드＇ 전략 공개",
+    "link": "https://www.etnews.com/20260303000292",
     "category": "민간"
   },
   {
-    "title": "KISA, AI시대 이끌 화이트해커 172명 배출",
-    "link": "https://www.etnews.com/20260302000117",
-    "category": "기관"
-  },
-  {
-    "title": "“호주, AI ＇연령확인＇ 의무화…검색엔진·앱스토어까지 제재 검토”",
-    "link": "https://www.etnews.com/20260302000101",
-    "category": "해외"
-  },
-  {
-    "title": "스마트폰용 FMP 첫 선…삼성D, ＇MWC26＇서 AI 맞춤 OLED 전면에",
-    "link": "https://www.etnews.com/20260302000076",
+    "title": "[MWC26] KT, 초연결·초저지연 ＇6G 비전＇ 제시…AI대전환 핵심 인프라 지원",
+    "link": "https://www.etnews.com/20260303000254",
     "category": "민간"
   },
   {
-    "title": "KISTI, ＇AI SilkNet 센터＇ 출범...한-카자흐 과기 데이터 공동 플랫폼 본격 가동",
-    "link": "https://www.etnews.com/20260302000038",
-    "category": "기관"
-  },
-  {
-    "title": "LG CNS, 상반기 세자릿수 경력 채용…AI·로보틱스 핵심 기술 인재 확보",
-    "link": "https://www.etnews.com/20260302000028",
+    "title": "[단독] [MWC26]글로벌 로봇 1위 中 애지봇, 한국 상륙…피지컬AI 시장 공세 예고",
+    "link": "https://www.etnews.com/20260303000253",
     "category": "민간"
   },
   {
-    "title": "경북도, SDT·모빌린트·경운대·GERI와 양자·AI 기술 기반 차세데 무인이동체 고도화 업무협약",
-    "link": "https://www.etnews.com/20260302000027",
+    "title": "에이전틱 AI 시대, 공공 부문 AI도입 전략과 과제",
+    "link": "https://www.etnews.com/20260303000217",
     "category": "기관"
   },
   {
-    "title": "“로봇과 춤추고 악수”…＇서울AI페스티벌＇에 1만7000명 찾아 피지컬AI 체험",
-    "link": "https://www.etnews.com/20260302000011",
-    "category": "기타"
+    "title": "피지컬 AI로 생명 지킨다...현대차그룹, 무인소방로봇 영상 공개",
+    "link": "https://www.etnews.com/20260303000125",
+    "category": "민간"
   },
   {
-    "title": "호서대, ＇첨단산업 인재 양성 부트캠프＇ AI 분야 선정…AI 거점대학 신호탄",
-    "link": "https://www.etnews.com/20260302000009",
+    "title": "코난테크놀로지, 공공 AX 점유율 70% 달성… ＇에이전틱 AI＇로 지배력 강화",
+    "link": "https://www.etnews.com/20260227000084",
+    "category": "민간"
+  },
+  {
+    "title": "알리바바, 온디바이스 모델 ＇큐원 3.5 스몰＇ 출시...〃9B로 120B보다 성능 우수〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207448",
+    "category": "해외"
+  },
+  {
+    "title": "미국 정부 기관, 트럼프 지시로 앤트로픽 제품 사용 전면 중단 선언",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207454",
+    "category": "해외"
+  },
+  {
+    "title": "미국, 중국 기업당 ＇H200＇ 공급 7만5000개 제한 검토 중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207466",
+    "category": "해외"
+  },
+  {
+    "title": "〃AI 활용한 미국의 이란 공격이 중국의 기술 자립 자극할 것〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207475",
+    "category": "해외"
+  },
+  {
+    "title": "화웨이, 새로운 AI 컴퓨팅 클러스터 공개...〃8192개 NPU까지 확장 가능〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207470",
+    "category": "해외"
+  },
+  {
+    "title": "한-싱가포르 AI 커넥트 서밋 개최… “AI로 아시아 혁신 허브 도약”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38887",
     "category": "기관"
   },
   {
-    "title": "[MWC26] KT, 기업형 AI OS 공개…B2B AI 시장 공략",
-    "link": "https://www.etnews.com/20260302000007",
+    "title": "마키나락스, 코스닥 상장 예비심사 통과… AI 기업 상장 올해 ‘첫 시동’",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38878",
     "category": "민간"
   },
   {
-    "title": "[MWC26] 대한민국 저전력 AI네트워크 기술, MWC 통해 세계에 선보인다",
-    "link": "https://www.etnews.com/20260302000156",
-    "category": "기관"
-  },
-  {
-    "title": "오픈AI-아마존 파트너십의 기술 핵심인 ‘상태 저장형’ AI 런타임이란",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207434",
-    "category": "해외"
-  },
-  {
-    "title": "구글·유튜브, 초고속 대규모 추천 기술 ‘스태틱’ 공개…〃성능 1000배 향상〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207435",
-    "category": "해외"
-  },
-  {
-    "title": "MS, ＇시스템 프롬프트＇를 매개변수에 내재화하는 프레임워크 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207405",
-    "category": "해외"
-  },
-  {
-    "title": "미국, 앤트로픽 금지 직후 이란 공격에 ＇클로드＇ 활용",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207431",
-    "category": "해외"
-  },
-  {
-    "title": "삼성전자 〃2030년까지 AI 자율공장 전환...휴머노이드도 단계 추진〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207429",
-    "category": "민간"
-  },
-  {
-    "title": "LGU+, MWC26서 기술로 연결되는 ‘사람중심 AI’ 비전 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207428",
-    "category": "민간"
-  },
-  {
-    "title": "오픈AI 과학 책임자 〃AI, 인류 난제 해결 시작... 과학 발전 20년 앞당길 것〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207437",
-    "category": "해외"
-  },
-  {
-    "title": "화웨이, MWC 2026서 ‘에이전틱 코어’ 공개… 통신망을 AI 에이전트 플랫폼으로 전환",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38875",
-    "category": "해외"
+    "title": "군 전력 인프라 ‘지능형 체계’ 전환 기반 마련",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47901&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
   },
   {
     "title": "AI 주도 ‘지능형 군수 생태계’ 대전환 선포",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260303/4/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=CuOt-9dOkbhio-BDb663kGQvUix0vIynQNLX43qFY8lkSmeFnbBd!403047716",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47912&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
   },
   {
-    "title": "“AI 혁신 가속화…국방·안보 분야 협력 기반 강화”",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260303/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=CuOt-9dOkbhio-BDb663kGQvUix0vIynQNLX43qFY8lkSmeFnbBd!403047716",
+    "title": "한국형 소프트웨어로 무기체계 고장률 예측",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/3/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
     "category": "국방"
+  },
+  {
+    "title": "육군, 전자파학술대회서 국방 특별세션 운영",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
+    "category": "육군"
+  },
+  {
+    "title": "드론 투입 작전지 지형정보 획득…공병지원 태세 담금질",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
+    "category": "육군"
+  },
+  {
+    "title": "미래 해양전 이끌 드론 전사 양성 요람…해양무인체계교육센터 문 열어",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
+    "category": "국방"
+  },
+  {
+    "title": "사이버 방어 훈련 직접 보며 작전 이해도 높여",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/6/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
+    "category": "국방"
+  },
+  {
+    "title": "드론 위협 시대, 생존을 위한 전술적 행동방법",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
+    "category": "국방"
+  },
+  {
+    "title": "첨단 그래픽 처리 장치(GPU) 약 4천장, 산·학·연 지원 개시",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186968&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "실전형 인공지능 전문인재 양성을 위한 한국형 혁신 인공지능･소프트웨어 과정 ｢코디세이｣ 본격 추진",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186966&searchOpt=ALL&searchTxt=",
+    "category": "기관"
   }
 ]
