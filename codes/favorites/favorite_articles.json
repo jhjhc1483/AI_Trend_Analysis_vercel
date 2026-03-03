@@ -1,5 +1,10 @@
 [
   {
+    "title": "“AI가 경쟁력” 증권사 조직 개편 가속…전담조직·채용 확대",
+    "link": "https://www.etnews.com/20260302000097",
+    "category": "민간"
+  },
+  {
     "title": "“피지컬AI 성패는 데이터”…마음AI, ＇1호 데이터 팩토리＇ 개소",
     "link": "https://www.etnews.com/20260303000361",
     "category": "민간"
@@ -10,8 +15,13 @@
     "category": "기관"
   },
   {
-    "title": "오픈AI, 美 국방부와 AI 계약 수정…“대중 감시 금지 명문화”",
-    "link": "https://www.etnews.com/20260303000425",
+    "title": "비드래프트, AI 메타인지 벤치마크 ＇FINAL Bench＇ 공개",
+    "link": "https://www.etnews.com/20260303000406",
+    "category": "민간"
+  },
+  {
+    "title": "챗GPT도, 제미나이도 아니었다…이란 공습일 정확히 지목한 AI는?",
+    "link": "https://www.etnews.com/20260303000391",
     "category": "해외"
   },
   {
@@ -25,6 +35,11 @@
     "category": "민간"
   },
   {
+    "title": "UNIST-서울아산병원 ＇차세대 의료AI 솔루션＇ 공동 개발",
+    "link": "https://www.etnews.com/20260303000256",
+    "category": "기관"
+  },
+  {
     "title": "[MWC26] KT, 초연결·초저지연 ＇6G 비전＇ 제시…AI대전환 핵심 인프라 지원",
     "link": "https://www.etnews.com/20260303000254",
     "category": "민간"
@@ -32,7 +47,7 @@
   {
     "title": "[단독] [MWC26]글로벌 로봇 1위 中 애지봇, 한국 상륙…피지컬AI 시장 공세 예고",
     "link": "https://www.etnews.com/20260303000253",
-    "category": "민간"
+    "category": "해외"
   },
   {
     "title": "에이전틱 AI 시대, 공공 부문 AI도입 전략과 과제",
@@ -40,14 +55,19 @@
     "category": "기관"
   },
   {
+    "title": "마키나락스, 상장 예비심사 통과…“글로벌 버티컬 AI 선도기업 목표”",
+    "link": "https://www.etnews.com/20260303000212",
+    "category": "민간"
+  },
+  {
     "title": "피지컬 AI로 생명 지킨다...현대차그룹, 무인소방로봇 영상 공개",
     "link": "https://www.etnews.com/20260303000125",
     "category": "민간"
   },
   {
-    "title": "코난테크놀로지, 공공 AX 점유율 70% 달성… ＇에이전틱 AI＇로 지배력 강화",
-    "link": "https://www.etnews.com/20260227000084",
-    "category": "민간"
+    "title": "AWS, 스페인 AI 데이터센터 확장에 57조원 추가 투자",
+    "link": "https://www.etnews.com/20260303000004",
+    "category": "해외"
   },
   {
     "title": "알리바바, 온디바이스 모델 ＇큐원 3.5 스몰＇ 출시...〃9B로 120B보다 성능 우수〃",
@@ -67,7 +87,7 @@
   {
     "title": "〃AI 활용한 미국의 이란 공격이 중국의 기술 자립 자극할 것〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=207475",
-    "category": "해외"
+    "category": "국방"
   },
   {
     "title": "화웨이, 새로운 AI 컴퓨팅 클러스터 공개...〃8192개 NPU까지 확장 가능〃",
@@ -75,14 +95,14 @@
     "category": "해외"
   },
   {
-    "title": "한-싱가포르 AI 커넥트 서밋 개최… “AI로 아시아 혁신 허브 도약”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38887",
-    "category": "기관"
+    "title": "〃오픈AI-미 국방부 계약, 허점 많아〃 지적...알트먼 〃계약 일부 수정〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207442",
+    "category": "국방"
   },
   {
-    "title": "마키나락스, 코스닥 상장 예비심사 통과… AI 기업 상장 올해 ‘첫 시동’",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38878",
-    "category": "민간"
+    "title": "코난테크놀로지, 대법원 ＇재판지원 AI 시스템＇ 시범 운영",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207458",
+    "category": "기관"
   },
   {
     "title": "군 전력 인프라 ‘지능형 체계’ 전환 기반 마련",
@@ -105,6 +125,11 @@
     "category": "육군"
   },
   {
+    "title": "과학화 훈련으로 예비전력 실전성 강화",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
+    "category": "육군"
+  },
+  {
     "title": "드론 투입 작전지 지형정보 획득…공병지원 태세 담금질",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
     "category": "육군"
@@ -120,8 +145,8 @@
     "category": "국방"
   },
   {
-    "title": "드론 위협 시대, 생존을 위한 전술적 행동방법",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
+    "title": "소음에 묻힌 미세 음향도 ‘주파수 패턴’으로 잡는다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260304/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716",
     "category": "국방"
   },
   {

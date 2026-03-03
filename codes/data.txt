@@ -2,6 +2,12 @@
 
 📰 오늘의 기사
 [국방]
+◾ 〃AI 활용한 미국의 이란 공격이 중국의 기술 자립 자극할 것〃
+https://www.aitimes.com/news/articleView.html?idxno=207475
+
+◾ 〃오픈AI-미 국방부 계약, 허점 많아〃 지적...알트먼 〃계약 일부 수정〃
+https://www.aitimes.com/news/articleView.html?idxno=207442
+
 ◾ 군 전력 인프라 ‘지능형 체계’ 전환 기반 마련
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47901&startDate=&endDate=&id=mnd_020101000000
 
@@ -17,19 +23,28 @@ https://kookbang.dema.mil.kr/newsWeb/20260304/2/ATCE_CTGR_0010040000/view.do;JSE
 ◾ 사이버 방어 훈련 직접 보며 작전 이해도 높여
 https://kookbang.dema.mil.kr/newsWeb/20260304/6/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
 
-◾ 드론 위협 시대, 생존을 위한 전술적 행동방법
-https://kookbang.dema.mil.kr/newsWeb/20260304/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
+◾ 소음에 묻힌 미세 음향도 ‘주파수 패턴’으로 잡는다
+https://kookbang.dema.mil.kr/newsWeb/20260304/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
 
 [육군]
 ◾ 육군, 전자파학술대회서 국방 특별세션 운영
 https://kookbang.dema.mil.kr/newsWeb/20260304/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
 
+◾ 과학화 훈련으로 예비전력 실전성 강화
+https://kookbang.dema.mil.kr/newsWeb/20260304/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
+
 ◾ 드론 투입 작전지 지형정보 획득…공병지원 태세 담금질
 https://kookbang.dema.mil.kr/newsWeb/20260304/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
 
 [민간]
+◾ “AI가 경쟁력” 증권사 조직 개편 가속…전담조직·채용 확대
+https://www.etnews.com/20260302000097
+
 ◾ “피지컬AI 성패는 데이터”…마음AI, ＇1호 데이터 팩토리＇ 개소
 https://www.etnews.com/20260303000361
+
+◾ 비드래프트, AI 메타인지 벤치마크 ＇FINAL Bench＇ 공개
+https://www.etnews.com/20260303000406
 
 ◾ 오케스트로, 공공 AI 완성을 위한 ＇소버린 AI 클라우드＇ 전략 공개
 https://www.etnews.com/20260303000292
@@ -37,17 +52,11 @@ https://www.etnews.com/20260303000292
 ◾ [MWC26] KT, 초연결·초저지연 ＇6G 비전＇ 제시…AI대전환 핵심 인프라 지원
 https://www.etnews.com/20260303000254
 
-◾ [단독] [MWC26]글로벌 로봇 1위 中 애지봇, 한국 상륙…피지컬AI 시장 공세 예고
-https://www.etnews.com/20260303000253
+◾ 마키나락스, 상장 예비심사 통과…“글로벌 버티컬 AI 선도기업 목표”
+https://www.etnews.com/20260303000212
 
 ◾ 피지컬 AI로 생명 지킨다...현대차그룹, 무인소방로봇 영상 공개
 https://www.etnews.com/20260303000125
-
-◾ 코난테크놀로지, 공공 AX 점유율 70% 달성… ＇에이전틱 AI＇로 지배력 강화
-https://www.etnews.com/20260227000084
-
-◾ 마키나락스, 코스닥 상장 예비심사 통과… AI 기업 상장 올해 ‘첫 시동’
-https://www.aitimes.kr/news/articleView.html?idxno=38878
 
 [기관]
 ◾ 지식재산처, 한-싱가포르 AI 분야 지식재산 강화 협력
@@ -56,11 +65,14 @@ https://www.etnews.com/20260303000462
 ◾ “LLM으로 정책 여론 읽는다”…문체부, AI 기반 여론 분석 고도화 착수
 https://www.etnews.com/20260303000377
 
+◾ UNIST-서울아산병원 ＇차세대 의료AI 솔루션＇ 공동 개발
+https://www.etnews.com/20260303000256
+
 ◾ 에이전틱 AI 시대, 공공 부문 AI도입 전략과 과제
 https://www.etnews.com/20260303000217
 
-◾ 한-싱가포르 AI 커넥트 서밋 개최… “AI로 아시아 혁신 허브 도약”
-https://www.aitimes.kr/news/articleView.html?idxno=38887
+◾ 코난테크놀로지, 대법원 ＇재판지원 AI 시스템＇ 시범 운영
+https://www.aitimes.com/news/articleView.html?idxno=207458
 
 ◾ 첨단 그래픽 처리 장치(GPU) 약 4천장, 산·학·연 지원 개시
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186968&searchOpt=ALL&searchTxt=
@@ -69,8 +81,14 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186966&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 오픈AI, 美 국방부와 AI 계약 수정…“대중 감시 금지 명문화”
-https://www.etnews.com/20260303000425
+◾ 챗GPT도, 제미나이도 아니었다…이란 공습일 정확히 지목한 AI는?
+https://www.etnews.com/20260303000391
+
+◾ [단독] [MWC26]글로벌 로봇 1위 中 애지봇, 한국 상륙…피지컬AI 시장 공세 예고
+https://www.etnews.com/20260303000253
+
+◾ AWS, 스페인 AI 데이터센터 확장에 57조원 추가 투자
+https://www.etnews.com/20260303000004
 
 ◾ 알리바바, 온디바이스 모델 ＇큐원 3.5 스몰＇ 출시...〃9B로 120B보다 성능 우수〃
 https://www.aitimes.com/news/articleView.html?idxno=207448
@@ -80,9 +98,6 @@ https://www.aitimes.com/news/articleView.html?idxno=207454
 
 ◾ 미국, 중국 기업당 ＇H200＇ 공급 7만5000개 제한 검토 중
 https://www.aitimes.com/news/articleView.html?idxno=207466
-
-◾ 〃AI 활용한 미국의 이란 공격이 중국의 기술 자립 자극할 것〃
-https://www.aitimes.com/news/articleView.html?idxno=207475
 
 ◾ 화웨이, 새로운 AI 컴퓨팅 클러스터 공개...〃8192개 NPU까지 확장 가능〃
 https://www.aitimes.com/news/articleView.html?idxno=207470
