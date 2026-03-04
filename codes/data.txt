@@ -1,119 +1,134 @@
-📢26.03.04 AI 일일 동향📢
+📢26.03.05 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 〃AI 활용한 미국의 이란 공격이 중국의 기술 자립 자극할 것〃
-https://www.aitimes.com/news/articleView.html?idxno=207475
+◾ ＇AI 무기화＇ 후폭풍…＇레드라인＇ 논의 본격화 전망
+https://www.etnews.com/20260304000351
 
-◾ 〃오픈AI-미 국방부 계약, 허점 많아〃 지적...알트먼 〃계약 일부 수정〃
-https://www.aitimes.com/news/articleView.html?idxno=207442
+◾ [人사이트] 김동경 티라로보틱스 대표 “국가 안보 지키는 ＇소버린 로봇＇, 中 공세 해법”
+https://www.etnews.com/20260304000236
 
-◾ 군 전력 인프라 ‘지능형 체계’ 전환 기반 마련
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47901&startDate=&endDate=&id=mnd_020101000000
+◾ 경남도, 우주항공·방산 특화 반도체 산업 육성전략 밑그림 그린다
+https://www.etnews.com/20260304000070
 
-◾ AI 주도 ‘지능형 군수 생태계’ 대전환 선포
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47912&startDate=&endDate=&id=mnd_020101000000
+◾ AI가 표적을 고른다… ‘에이전틱 워페어’ 시대, 전쟁은 알고리즘이 설계한다
+https://www.aitimes.kr/news/articleView.html?idxno=38901
 
-◾ 한국형 소프트웨어로 무기체계 고장률 예측
-https://kookbang.dema.mil.kr/newsWeb/20260304/3/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
-
-◾ 미래 해양전 이끌 드론 전사 양성 요람…해양무인체계교육센터 문 열어
-https://kookbang.dema.mil.kr/newsWeb/20260304/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
+◾ 국가AI전략위, 방산 현장에서  국방 AX 가속화 및 첨단강군 도약 모색
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=353
 
 ◾ 사이버 방어 훈련 직접 보며 작전 이해도 높여
-https://kookbang.dema.mil.kr/newsWeb/20260304/6/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47932&startDate=&endDate=&id=mnd_020101000000
 
-◾ 소음에 묻힌 미세 음향도 ‘주파수 패턴’으로 잡는다
-https://kookbang.dema.mil.kr/newsWeb/20260304/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
+◾ 미래 해양전 이끌 드론 전사 양성 요람…해양무인체계교육센터 문 열어
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47934&startDate=&endDate=&id=mnd_020101000000
+
+◾ 드론 투입 작전지 지형정보 획득…공병지원 태세 담금질
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47937&startDate=&endDate=&id=mnd_020101000000
+
+◾ 국방부 「2026 대한민국 드론 공방전」 개최
+https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_108331&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
+
+◾ 공격 드론 vs 방어 대드론, 국내 첫 쌍방 모의전투 펼친다
+https://kookbang.dema.mil.kr/newsWeb/20260305/11/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
+
+◾ [DQ마크 인증 기업을 가다] 항전 장비 토종기술로 대체…드론으로 영역 확장 중
+https://kookbang.dema.mil.kr/newsWeb/20260305/2/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
+
+◾ [주간 K방산 브리핑] AI 드론 전장 운용 생생한 시연…국방부 전시관 눈길
+https://kookbang.dema.mil.kr/newsWeb/20260305/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
+
+◾ 불확실한 전장 승패 가를 신속 판단·의사 결정 능력 강화
+https://kookbang.dema.mil.kr/newsWeb/20260305/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
+
+◾ 드론 운용교육 통해 콘텐츠 제작 전문성 배양
+https://kookbang.dema.mil.kr/newsWeb/20260305/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
+
+◾ 군복 입은 스티브 잡스
+https://kookbang.dema.mil.kr/newsWeb/20260305/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
+
+◾ 드론 전력, 우리 군의 강점을 확장하는 방향으로 정립해야
+https://kookbang.dema.mil.kr/newsWeb/20260305/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
 
 [육군]
 ◾ 육군, 전자파학술대회서 국방 특별세션 운영
-https://kookbang.dema.mil.kr/newsWeb/20260304/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47927&startDate=&endDate=&id=mnd_020101000000
 
-◾ 과학화 훈련으로 예비전력 실전성 강화
-https://kookbang.dema.mil.kr/newsWeb/20260304/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
+◾ 육군6사단 육탄독수리여단 2026 과학화전투훈련 현장
+https://kookbang.dema.mil.kr/newsWeb/20260305/4/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
 
-◾ 드론 투입 작전지 지형정보 획득…공병지원 태세 담금질
-https://kookbang.dema.mil.kr/newsWeb/20260304/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=iwSzGOB2z9P0es-oR3GUxvY9TsoXHfe5CZyUowFSbu16q0rmcRPM!403047716
+◾ 육군, 올해 과학화예비군훈련장 5곳 추가 구축한다
+https://kookbang.dema.mil.kr/newsWeb/20260305/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
+
+◾ 지역예비군 드론전사 육성 과학화예비군훈련장에서
+https://kookbang.dema.mil.kr/newsWeb/20260305/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
 
 [민간]
-◾ “AI가 경쟁력” 증권사 조직 개편 가속…전담조직·채용 확대
-https://www.etnews.com/20260302000097
+◾ 가천대, MSG 구조 딥페이크 탐지 연산 효율 28% 개선
+https://www.etnews.com/20260304000001
 
-◾ “피지컬AI 성패는 데이터”…마음AI, ＇1호 데이터 팩토리＇ 개소
-https://www.etnews.com/20260303000361
+◾ 메타빌드, AI 에이전틱 기반 연계플랫폼 ＇MESIM AX＇ 공공기관에 본격 공급
+https://www.etnews.com/20260304000460
 
-◾ 비드래프트, AI 메타인지 벤치마크 ＇FINAL Bench＇ 공개
-https://www.etnews.com/20260303000406
+◾ [단독] SK-오픈AI 합작 데이터센터 부지 ＇광주 첨단지구＇ 유력
+https://www.etnews.com/20260304000369
 
-◾ 오케스트로, 공공 AI 완성을 위한 ＇소버린 AI 클라우드＇ 전략 공개
-https://www.etnews.com/20260303000292
+◾ AI 반도체 스타트업 리벨리온, JP모건 IPO 주관사 선정
+https://www.etnews.com/20260304000410
 
-◾ [MWC26] KT, 초연결·초저지연 ＇6G 비전＇ 제시…AI대전환 핵심 인프라 지원
-https://www.etnews.com/20260303000254
+◾ 투모로로보틱스, 산업 현장 특화 로봇 AI 모델 ＇하빌리스-베타＇ 공개
+https://www.etnews.com/20260304000268
 
-◾ 마키나락스, 상장 예비심사 통과…“글로벌 버티컬 AI 선도기업 목표”
-https://www.etnews.com/20260303000212
+◾ 구광모 LG그룹 회장 “AI 중심은 결국 사람”… ＇LG AI대학원＇ 입학생에 축하 편지
+https://www.etnews.com/20260304000205
 
-◾ 피지컬 AI로 생명 지킨다...현대차그룹, 무인소방로봇 영상 공개
-https://www.etnews.com/20260303000125
+◾ SKT, 슈퍼마이크로·슈나이더 일렉트릭과 AI 데이터센터 더 빠르고 싸게 짓는다
+https://www.aitimes.kr/news/articleView.html?idxno=38903
 
 [기관]
-◾ 지식재산처, 한-싱가포르 AI 분야 지식재산 강화 협력
-https://www.etnews.com/20260303000462
+◾ AI·에너지데이터 산업포럼 출범…전력산업 ＇AI 대전환＇ 시동
+https://www.etnews.com/20260304000411
 
-◾ “LLM으로 정책 여론 읽는다”…문체부, AI 기반 여론 분석 고도화 착수
-https://www.etnews.com/20260303000377
+◾ 생성형 AI 개인정보 처리방침 ＇미흡＇…정부, 기업들과 개선 논의
+https://www.etnews.com/20260304000384
 
-◾ UNIST-서울아산병원 ＇차세대 의료AI 솔루션＇ 공동 개발
-https://www.etnews.com/20260303000256
+◾ [MWC 2026 현장 인터뷰]이상훈 KICOX 이사장, “산단, 5G 특화망 기반 ＇AI 혁신기지＇로 대개조할 것”
+https://www.etnews.com/20260304000385
 
-◾ 에이전틱 AI 시대, 공공 부문 AI도입 전략과 과제
-https://www.etnews.com/20260303000217
+◾ 과기정통부, AI분야 오픈소스 생태계 조성 착수…“SW 발굴·공개”
+https://www.etnews.com/20260304000290
 
-◾ 코난테크놀로지, 대법원 ＇재판지원 AI 시스템＇ 시범 운영
-https://www.aitimes.com/news/articleView.html?idxno=207458
+◾ GPU·펀드 등 정부 ＇10조원 AI사업 정보＇ 한 번에 공개
+https://www.etnews.com/20260304000154
 
-◾ 첨단 그래픽 처리 장치(GPU) 약 4천장, 산·학·연 지원 개시
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186968&searchOpt=ALL&searchTxt=
-
-◾ 실전형 인공지능 전문인재 양성을 위한 한국형 혁신 인공지능･소프트웨어 과정 ｢코디세이｣ 본격 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186966&searchOpt=ALL&searchTxt=
+◾ 국가AI전략위, ‘전 부처 AI 예산사업 통합 설명자료’ 홈페이지 공개
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=349
 
 [해외]
-◾ 챗GPT도, 제미나이도 아니었다…이란 공습일 정확히 지목한 AI는?
-https://www.etnews.com/20260303000391
+◾ 앤트로픽, 미 국방부 갈등 속 폭발적인 매출 성장세...29조 돌파 눈앞
+https://www.aitimes.com/news/articleView.html?idxno=207501
 
-◾ [단독] [MWC26]글로벌 로봇 1위 中 애지봇, 한국 상륙…피지컬AI 시장 공세 예고
-https://www.etnews.com/20260303000253
+◾ 안두릴, 6조 투자 유치로 기업 가치 88조 점프...전통 방산업체 몸값 맹추격
+https://www.aitimes.com/news/articleView.html?idxno=207523
 
-◾ AWS, 스페인 AI 데이터센터 확장에 57조원 추가 투자
-https://www.etnews.com/20260303000004
+◾ 메타, MSL 지원하는 AI 엔지니어링 조직 설립...〃모델 넘어 ＇데이터 엔진＇ 구축〃
+https://www.aitimes.com/news/articleView.html?idxno=207513
 
-◾ 알리바바, 온디바이스 모델 ＇큐원 3.5 스몰＇ 출시...〃9B로 120B보다 성능 우수〃
-https://www.aitimes.com/news/articleView.html?idxno=207448
+◾ 일론 머스크, “테슬라가 AGI 개발 기업 중 하나…휴머노이드·물리적 구현 형태는 아마도 최초 될 것”
+https://www.aitimes.kr/news/articleView.html?idxno=38911
 
-◾ 미국 정부 기관, 트럼프 지시로 앤트로픽 제품 사용 전면 중단 선언
-https://www.aitimes.com/news/articleView.html?idxno=207454
+◾ 속도·비용·지능의 ＇트리플 크라운＇… 구글, ＇제미나이 3.1 플래시-라이트＇로 AI 시장 평정 나선다
+https://www.aitimes.kr/news/articleView.html?idxno=38904
 
-◾ 미국, 중국 기업당 ＇H200＇ 공급 7만5000개 제한 검토 중
-https://www.aitimes.com/news/articleView.html?idxno=207466
+◾ 〃더 매끄럽고 일상 대화에 더 유용해진 AI 모델〃...오픈AI, ＇GPT-5.3 인스턴트＇ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=38896
 
-◾ 화웨이, 새로운 AI 컴퓨팅 클러스터 공개...〃8192개 NPU까지 확장 가능〃
-https://www.aitimes.com/news/articleView.html?idxno=207470
+◾ 애플, M5 탑재 AI 성능 최대 4배 향상...신형 맥북 에어 공개, ＇온디바이스 AI＇ 성능 강화
+https://www.aitimes.kr/news/articleView.html?idxno=38890
 
 📚 간행물
-◾ [글로벌 AI·디지털 규범 네트워크 구축·운영 보고서 3호] AI Governance in South Asia(연구 기관 인도 IITM CeRAI, 영문)
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=29083&parentSeq=29083
-
-◾ [글로벌 AI·디지털 규범 네트워크 구축·운영 보고서 2호 ] AI Regulatory Roadmap(연구 기관 독일 Fraunhofer IKS, 영문)
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=29082&parentSeq=29082
-
-◾ [글로벌 AI·디지털 규범 네트워크 구축·운영 보고서 1호 ] A Declaration On Digital Rights(연구 기관 영국 DEMOS, 영문)
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=29081&parentSeq=29081
-
-◾ [디지털서비스 이슈리포트2026-2] 피지컬 AI를 위한 플랫폼 현황 (파트 2)
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29080&parentSeq=29080
+◾ 2026년 AI 네트워크 사업설명회 발표자료
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=90180&bcIdx=29087&parentSeq=29087
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
