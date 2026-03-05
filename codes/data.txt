@@ -2,23 +2,14 @@
 
 📰 오늘의 기사
 [국방]
-◾ ＇AI 무기화＇ 후폭풍…＇레드라인＇ 논의 본격화 전망
-https://www.etnews.com/20260304000351
-
 ◾ [人사이트] 김동경 티라로보틱스 대표 “국가 안보 지키는 ＇소버린 로봇＇, 中 공세 해법”
 https://www.etnews.com/20260304000236
 
+◾ “AI·사이버 융합 인재 양성”··· ＇2026 AI·사이버융합 최고위 과정 제2기＇ 개강
+https://www.etnews.com/20260304000326
+
 ◾ 경남도, 우주항공·방산 특화 반도체 산업 육성전략 밑그림 그린다
 https://www.etnews.com/20260304000070
-
-◾ 앤트로픽, 미 국방부 갈등 속 폭발적인 매출 성장세...29조 돌파 눈앞
-https://www.aitimes.com/news/articleView.html?idxno=207501
-
-◾ 미 국방부 계약 이후 ＇챗GPT＇ 삭제율 3배로 폭증...＇별점 테러＇까지
-https://www.aitimes.com/news/articleView.html?idxno=207498
-
-◾ 미 국방부 ＇블랙 리스트＇ 지정에 록히드 마틴 등 방산업체들도 ＇클로드＇ 퇴출
-https://www.aitimes.com/news/articleView.html?idxno=207525
 
 ◾ AI가 표적을 고른다… ‘에이전틱 워페어’ 시대, 전쟁은 알고리즘이 설계한다
 https://www.aitimes.kr/news/articleView.html?idxno=38901
@@ -26,56 +17,14 @@ https://www.aitimes.kr/news/articleView.html?idxno=38901
 ◾ 국가AI전략위, 방산 현장에서  국방 AX 가속화 및 첨단강군 도약 모색
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=353
 
-◾ 사이버 방어 훈련 직접 보며 작전 이해도 높여
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47932&startDate=&endDate=&id=mnd_020101000000
-
-◾ 미래 해양전 이끌 드론 전사 양성 요람…해양무인체계교육센터 문 열어
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47934&startDate=&endDate=&id=mnd_020101000000
-
-◾ 국방부 「2026 대한민국 드론 공방전」 개최
-https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_108331&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
-
-◾ 공격 드론 vs 방어 대드론, 국내 첫 쌍방 모의전투 펼친다
-https://kookbang.dema.mil.kr/newsWeb/20260305/11/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
-
-◾ [DQ마크 인증 기업을 가다] 항전 장비 토종기술로 대체…드론으로 영역 확장 중
-https://kookbang.dema.mil.kr/newsWeb/20260305/2/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
-
 ◾ [주간 K방산 브리핑] AI 드론 전장 운용 생생한 시연…국방부 전시관 눈길
 https://kookbang.dema.mil.kr/newsWeb/20260305/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
-
-◾ 가성비 전쟁 시대…美 5000만 원짜리 자폭드론 데뷔
-https://kookbang.dema.mil.kr/newsWeb/20260305/1/ATCE_CTGR_0020010001/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
-
-◾ 드론 전력, 우리 군의 강점을 확장하는 방향으로 정립해야
-https://kookbang.dema.mil.kr/newsWeb/20260305/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
 
 [육군]
 ◾ 육군, 전자파학술대회서 국방 특별세션 운영
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47927&startDate=&endDate=&id=mnd_020101000000
 
-◾ 과학화 훈련으로 예비전력 실전성 강화
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47920&startDate=&endDate=&id=mnd_020101000000
-
-◾ 드론 투입 작전지 지형정보 획득…공병지원 태세 담금질
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47937&startDate=&endDate=&id=mnd_020101000000
-
-◾ 불확실한 전장 승패 가를 신속 판단·의사 결정 능력 강화
-https://kookbang.dema.mil.kr/newsWeb/20260305/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
-
-◾ 육군, 올해 과학화예비군훈련장 5곳 추가 구축한다
-https://kookbang.dema.mil.kr/newsWeb/20260305/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
-
-◾ 드론 운용교육 통해 콘텐츠 제작 전문성 배양
-https://kookbang.dema.mil.kr/newsWeb/20260305/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
-
-◾ 지역예비군 드론전사 육성 과학화예비군훈련장에서
-https://kookbang.dema.mil.kr/newsWeb/20260305/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=gj24PboU7cHSwDexuGNC975iQhgNbW-BjkYCercs9FGGtZrwRv33!403047716
-
 [민간]
-◾ 가천대, MSG 구조 딥페이크 탐지 연산 효율 28% 개선
-https://www.etnews.com/20260304000001
-
 ◾ 메타빌드, AI 에이전틱 기반 연계플랫폼 ＇MESIM AX＇ 공공기관에 본격 공급
 https://www.etnews.com/20260304000460
 
@@ -88,21 +37,30 @@ https://www.etnews.com/20260304000369
 ◾ AI 반도체 스타트업 리벨리온, JP모건 IPO 주관사 선정
 https://www.etnews.com/20260304000410
 
-◾ [MWC26]“헤이 마젠타” 부르자 AI 비서 등장...글로벌 통신사 ＇AI 에이전트＇ 기술 경쟁 심화
-https://www.etnews.com/20260304000265
-
 ◾ 구광모 LG그룹 회장 “AI 중심은 결국 사람”… ＇LG AI대학원＇ 입학생에 축하 편지
 https://www.etnews.com/20260304000205
+
+◾ 플래티어-KT 컨소시엄, 제주은행 ＇GenAI 플랫폼＇ 구축 사업 수주…“금융권 AI 보안 표준 입증했다”
+https://www.etnews.com/20260304000088
+
+◾ SKT, 슈퍼마이크로·슈나이더 일렉트릭과 AI 데이터센터 더 빠르고 싸게 짓는다
+https://www.aitimes.kr/news/articleView.html?idxno=38903
 
 [기관]
 ◾ AI·에너지데이터 산업포럼 출범…전력산업 ＇AI 대전환＇ 시동
 https://www.etnews.com/20260304000411
 
-◾ 생성형 AI 개인정보 처리방침 ＇미흡＇…정부, 기업들과 개선 논의
-https://www.etnews.com/20260304000384
+◾ [ET톡] AI 3강 도약 위한 마중물 ＇AI DC＇
+https://www.etnews.com/20260304000201
 
-◾ “AI·사이버 융합 인재 양성”··· ＇2026 AI·사이버융합 최고위 과정 제2기＇ 개강
-https://www.etnews.com/20260304000326
+◾ [MWC 2026 현장 인터뷰]이상훈 KICOX 이사장, “산단, 5G 특화망 기반 ＇AI 혁신기지＇로 대개조할 것”
+https://www.etnews.com/20260304000385
+
+◾ 최휘영 장관 “AI로 찍어낸 책 납본 제외해야…제도 개선 추진”
+https://www.etnews.com/20260304000297
+
+◾ 과기정통부, AI분야 오픈소스 생태계 조성 착수…“SW 발굴·공개”
+https://www.etnews.com/20260304000290
 
 ◾ 네이버웍스, 행안부·과기부 등 주요 부처 공식 협업툴 선정… AI 행정 시대 이끈다
 https://www.aitimes.kr/news/articleView.html?idxno=38893
@@ -110,37 +68,37 @@ https://www.aitimes.kr/news/articleView.html?idxno=38893
 ◾ 국가AI전략위, ‘전 부처 AI 예산사업 통합 설명자료’ 홈페이지 공개
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=349
 
-◾ 기후 위기 대응의 핵심 열쇠 ‘청정수소’, 국가 수소 중점연구실 성과로 미래 연다
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186973&searchOpt=ALL&searchTxt=
-
-◾ 과기정통부, 공개 소프트웨어(오픈소스)로 국내 산업 기술 자립과 신속한 인공지능 전환 견인
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186974&searchOpt=ALL&searchTxt=
-
 [해외]
 ◾ [MWC26]레벨4 자율운영부터 GPU 탑재 기지국까지...에릭슨·노키아, AI 기반 차세대 네트워크 공개
 https://www.etnews.com/20260304000276
 
-◾ 인공지능 업계 “앤쓰로픽 연대”…美 챗GPT 삭제율 3배 급등
-https://www.etnews.com/20260304000101
+◾ 앤트로픽, 미 국방부 갈등 속 폭발적인 매출 성장세...29조 돌파 눈앞
+https://www.aitimes.com/news/articleView.html?idxno=207501
 
 ◾ 안두릴, 6조 투자 유치로 기업 가치 88조 점프...전통 방산업체 몸값 맹추격
 https://www.aitimes.com/news/articleView.html?idxno=207523
 
-◾ 샤오미, 자동차 공장에 휴머노이드 로봇 시험 투입…5년 내 ＇대량＇ 배치 계획
-https://www.aitimes.com/news/articleView.html?idxno=207528
+◾ 애플, 새로운 퓨전 아키텍처 탑재 ＇M5 프로＇·＇M5 맥스＇ 칩 공개
+https://www.aitimes.com/news/articleView.html?idxno=207534
 
-◾ 메타, MSL 지원하는 AI 엔지니어링 조직 설립...〃모델 넘어 ＇데이터 엔진＇ 구축〃
-https://www.aitimes.com/news/articleView.html?idxno=207513
+◾ 중동 전쟁 AI 가짜 위성 이미지 확산...X는 억제 대책 발표
+https://www.aitimes.com/news/articleView.html?idxno=207515
 
 ◾ 일론 머스크, “테슬라가 AGI 개발 기업 중 하나…휴머노이드·물리적 구현 형태는 아마도 최초 될 것”
 https://www.aitimes.kr/news/articleView.html?idxno=38911
 
-◾ 애플, M5 탑재 AI 성능 최대 4배 향상...신형 맥북 에어 공개, ＇온디바이스 AI＇ 성능 강화
-https://www.aitimes.kr/news/articleView.html?idxno=38890
+◾ 〃더 매끄럽고 일상 대화에 더 유용해진 AI 모델〃...오픈AI, ＇GPT-5.3 인스턴트＇ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=38896
 
 [기타]
-◾ X, ＇AI 전쟁 영상＇ 출처 미표기시 수익 공유 중단
-https://www.etnews.com/20260304000014
+◾ 공공 AX 사례: KISTEP을 통해 보는 공공 AI 전환의 조건
+https://www.etnews.com/20260304000437
+
+◾ [기고] AI 시대, 출연연의 역할을 다시 묻다
+https://www.etnews.com/20260304000227
+
+◾ ＇AI 무기화＇ 후폭풍…＇레드라인＇ 논의 본격화 전망
+https://www.etnews.com/20260304000351
 
 📚 간행물
 ◾ 2026년 AI 네트워크 사업설명회 발표자료
