@@ -490,6 +490,10 @@ async function addFewshotExample(event, link) {
         return;
     }
 
+    // 선택적 이유 입력
+    const reasonInput = prompt(`[학습 이유 입력 - 선택사항]\n\n카테고리: ${category}\n\nAI가 이 기사를 "${category}"로 분류해야 하는 이유를 간략히 입력하세요.\n(이유를 입력하지 않아도 됩니다. 취소 또는 빈 칸으로 건너뜀)`, "");
+    const reason = reasonInput !== null ? reasonInput.trim() : '';
+
     const filePath = "codes/favorites/fewshot_examples.json";
     const getEndpoint = `repos/${OWNER}/${REPO}/contents/${filePath}`;
 
@@ -523,9 +527,10 @@ async function addFewshotExample(event, link) {
         }
 
         fewshotData.push({
-            site: item.displayName, // user-facing site name
+            site: item.displayName,
             title: item.title,
-            category: category
+            category: category,
+            ...(reason && { reason }) // 이유가 입력된 경우만 포함
         });
 
         const jsonString = JSON.stringify(fewshotData, null, 2);
@@ -659,7 +664,15 @@ async function toggleExcludeArticle(event, link) {
             excludedData = excludedData.filter(d => d.link !== link);
             excludedArticles.delete(link);
         } else {
-            excludedData.push({ title: item.title, link: item.link, site: item.displayName });
+            // 제외 시 선택적 이유 입력
+            const reasonInput = prompt(`[제외 이유 입력 - 선택사항]\n\n기사 제목: ${item.title}\n\nAI가 이 기사를 일일동향에 절대 포함하지 말아야 하는 이유를 간략히 입력하세요.\n(입력하지 않아도 됩니다. 취소 또는 빈 칸으로 건너뜀)`, '');
+            const reason = reasonInput !== null ? reasonInput.trim() : '';
+            excludedData.push({
+                title: item.title,
+                link: item.link,
+                site: item.displayName,
+                ...(reason && { reason })
+            });
             excludedArticles.add(link);
         }
 

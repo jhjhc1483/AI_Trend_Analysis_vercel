@@ -25,11 +25,12 @@ def load_json_files():
 
     # 일일동향 제외 블랙리스트 로드
     excluded_links = set()
+    excluded_data_full = []  # 이유 포함 전체 데이터
     if os.path.exists(EXCLUDED_ARTICLES_PATH):
         try:
             with open(EXCLUDED_ARTICLES_PATH, 'r', encoding='utf-8') as f:
-                excluded_data = json.load(f)
-            excluded_links = {item.get('link', '') for item in excluded_data if item.get('link')}
+                excluded_data_full = json.load(f)
+            excluded_links = {item.get('link', '') for item in excluded_data_full if item.get('link')}
             print(f"Loaded {len(excluded_links)} excluded articles.")
         except Exception as e:
             print(f"Error loading excluded_articles.json: {e}")
@@ -76,9 +77,9 @@ def load_json_files():
         except Exception as e:
             print(f"Error loading {filepath}: {e}")
             
-    return all_articles, all_pubs
+    return all_articles, all_pubs, excluded_data_full
 
-def select_and_classify(items, item_type='ARTICLE'):
+def select_and_classify(items, item_type='ARTICLE', excluded_reasons=None):
     if not items:
         return []
 
@@ -133,11 +134,21 @@ Format:
                 if examples:
                     fewshot_text = "\n\n[Classification Learning Examples (Few-Shot)]\nThe following are examples of articles and categories manually classified by the user. Prioritize learning these criteria and assign the same category when classifying articles with similar titles or sites:\n"
                     for ex in examples:
-                        fewshot_text += f"- [{ex.get('site', 'Unknown')}] {ex.get('title', 'No Title')} -> Category: {ex.get('category', '기타')}\n"
+                        reason = ex.get('reason', '').strip()
+                        reason_str = f" (Reason: {reason})" if reason else ""
+                        fewshot_text += f"- [{ex.get('site', 'Unknown')}] {ex.get('title', 'No Title')} -> Category: {ex.get('category', '기타')}{reason_str}\n"
         except Exception as e:
             print(f"Error loading fewshot examples: {e}")
 
         system_instruction += fewshot_text
+
+        # 제외 기사 이유 프롬프트 추가
+        if excluded_reasons:
+            reasons_with_text = [ex for ex in excluded_reasons if ex.get('reason', '').strip()]
+            if reasons_with_text:
+                system_instruction += "\n\n[Exclusion Rules (User-defined)]\nThe following articles have been permanently excluded from the daily briefing by the user. Learn the pattern of these titles and reasons, and NEVER select similar articles:\n"
+                for ex in reasons_with_text:
+                    system_instruction += f"- [{ex.get('site', 'Unknown')}] {ex.get('title', '')} (Reason: {ex.get('reason', '')})\n"
 
         user_prompt = f"Select important articles from the following list and classify their categories:\n\n{item_text}"
     else:
@@ -193,11 +204,11 @@ Format:
 def main():
     print(f"Start Job. Target Date (Yesterday): {YESTERDAY}")
     
-    articles, pubs = load_json_files()
+    articles, pubs, excluded_data = load_json_files()
     print(f"Found {len(articles)} articles and {len(pubs)} publications for {YESTERDAY}")
     
     # 1. 기사 처리
-    fav_articles = select_and_classify(articles, 'ARTICLE')
+    fav_articles = select_and_classify(articles, 'ARTICLE', excluded_reasons=excluded_data)
     print(f"Selected {len(fav_articles)} articles")
     
     # 2. 간행물 처리
