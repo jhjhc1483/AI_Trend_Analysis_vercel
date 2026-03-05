@@ -4,5 +4,11 @@
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47932&startDate=&endDate=&id=mnd_020101000000",
     "site": "국방부",
     "reason": "사이버에만 관련된 기사로 AI와 연관있는 기사는 아님."
+  },
+  {
+    "title": "국방부 「2026 대한민국 드론 공방전」 개최",
+    "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_108331&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
+    "site": "국방부",
+    "reason": "드론이 AI와 직접 연관있지는 않음."
   }
 ]
