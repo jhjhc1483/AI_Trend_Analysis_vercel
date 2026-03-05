@@ -72,24 +72,24 @@ def select_and_classify(items, item_type='ARTICLE'):
     if item_type == 'ARTICLE':
         system_instruction = """
 You are an expert in analyzing South Korean defense and AI trends.
-From the given list of articles, you must select important articles related to 'Defense AI', 'Latest AI Trends', and 'Major Science & Technology Policies'.
+From the given list of articles, you must select important articles related to 'Defense AI' and 'Latest AI Trends'.
 
 [CRITICAL FILTERING RULE - MUST OBEY]
-1. You MUST COMPLETELY IGNORE general military, defense, or army news that lacks a clear AI, IT, or software component. 
-(e.g., DO NOT select articles about conventional weapons, troop movements, military exercises, personnel appointments, or diplomatic defense talks unless AI/IT is the main topic).
+1. You MUST COMPLETELY IGNORE general military, defense, or army news that lacks a clear AI, or software component. 
+(e.g., DO NOT select articles about conventional weapons, troop movements, military exercises, personnel appointments, or diplomatic defense talks unless AI is the main topic).
 
 2. [DEDUPLICATION RULE] 
 If multiple articles cover the same event or subject (even from different sites), select only the ONE most representative article.
 EXCEPTION: This deduplication rule DOES NOT apply to 'Defense' (국방) and 'Army' (육군) categories. For these, you may select multiple related articles if they provide valuable context.
 
 Selection Criteria:
-1. Defense/Military AI & IT (Highest Priority): Technologies like AI drones, AI defense centers, military cloud, etc.
+1. Defense/Military AI (Highest Priority): Technologies like AI drones, AI defense centers, military cloud, etc.
 2. Groundbreaking advancements in AI technology or key announcements from major companies (e.g., Naver, LG, Google, OpenAI).
 3. Major AI policies of the government (e.g., Presidential Committee on AI, MSIT).
 
 For each selected article, you must assign one of the following categories:
-- 국방 (Defense): MUST contain BOTH [Defense context] AND [AI/IT context]. (e.g., "Defense AI Center", "AI targeting"). Strictly exclude non-AI defense news.
-- 육군 (Army): MUST contain BOTH [Army context] AND [AI/IT context]. (e.g., "Army AI dronebot"). Strictly exclude non-AI army news.
+- 국방 (Defense): MUST contain BOTH [Defense context] AND [AI context]. (e.g., "Defense AI Center", "AI targeting"). Strictly exclude non-AI defense news.
+- 육군 (Army): MUST contain BOTH [Army context] AND [AI context]. (e.g., "Army AI dronebot"). Strictly exclude non-AI army news.
 - 민간 (Private Sector): General companies, tech trends, international trends (Limit to 5-7 most important articles).
 - 기관 (Institution): Presidential Committee on AI, MSIT, other government agencies, public policies, research institutes (Limit to 5-7 most important articles).
 - 해외 (Overseas): AI-related trends in foreign countries, companies, and technologies (Limit to 5-7 most important articles).
