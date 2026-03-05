@@ -1,10 +1,5 @@
 [
   {
-    "title": "로봇이 대신 간다! 폭발물탐지제거로봇 전력화 착수",
-    "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58260&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
-    "category": "국방"
-  },
-  {
     "title": "“화장실·성행위 장면까지 본다”… 메타 AI 스마트 글라스 ＇사생활 침해＇ 논란",
     "link": "https://www.etnews.com/20260305000256",
     "category": "해외"
@@ -18,11 +13,6 @@
     "title": "[MWC26 바르셀로나 포럼]송인강 삼성전자 부사장 “모두를 위한 AI 에이전트 구현할 것”",
     "link": "https://www.etnews.com/20260305000296",
     "category": "민간"
-  },
-  {
-    "title": "[MWC26 바르셀로나 포럼]과기정통부 “인텔리전트 인프라 시대, 전방위 투자 확대”",
-    "link": "https://www.etnews.com/20260305000283",
-    "category": "기관"
   },
   {
     "title": "우리은행, 금융권 첫 ＇전사 AI 에이전트＇ 구축...내년 초 175개 도입",
@@ -50,6 +40,11 @@
     "category": "기관"
   },
   {
+    "title": "솔트룩스, PPT 자동 생성 등 AI 에이전트 ＇구버＇ 업데이트",
+    "link": "https://www.etnews.com/20260305000111",
+    "category": "민간"
+  },
+  {
     "title": "최태원 SK 회장, 엔비디아 GTC 첫 참석…AI 반도체 동맹 강화",
     "link": "https://www.etnews.com/20260305000103",
     "category": "민간"
@@ -65,14 +60,19 @@
     "category": "민간"
   },
   {
-    "title": "“사상 최대 실적 내고도 2500명 자른다”…모건스탠리 전격 감원, 월가 ＇AI 칼바람＇",
-    "link": "https://www.etnews.com/20260305000026",
-    "category": "해외"
-  },
-  {
     "title": "[MWC26] LG유플러스 ＇글로벌 AI SW 기업＇ 선언...내수기업 한계 넘는다",
     "link": "https://www.etnews.com/20260305000002",
     "category": "민간"
+  },
+  {
+    "title": "DGIST, 세계 최초 ＇수소＇로 기억하고 학습하는 AI 반도체 개발",
+    "link": "https://www.etnews.com/20260305000008",
+    "category": "기관"
+  },
+  {
+    "title": "국세청, 개청 60주년…“AI 중심 국세행정 전환”",
+    "link": "https://www.etnews.com/20260305000003",
+    "category": "기관"
   },
   {
     "title": "아모데이, 알트먼 국방부 계약 비난...〃보여주기식 안전·정치적 충성〃",
@@ -90,6 +90,11 @@
     "category": "해외"
   },
   {
+    "title": "“단돈 88만원, 맥북 가격이 무너졌다?”… 애플, AI 노트북 ‘맥북 네오’ 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38930",
+    "category": "해외"
+  },
+  {
     "title": "AI가 물리학자 일자리 뺏나?…오픈AI ＇GPT-5.2 프로＇, ‘양자중력 난제’ 수학 공식 찾아",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38929",
     "category": "해외"
@@ -100,33 +105,13 @@
     "category": "기관"
   },
   {
-    "title": "＇마이크로소프트 AI 투어 서울＇ 개최…“프론티어 기업이 주도하는 AI 비즈니스 혁신 시대 연다”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38915",
-    "category": "민간"
-  },
-  {
     "title": "국가AI전략위, 문서 작성 체계 혁신으로AI 활용 기반 강화한다",
     "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=363",
     "category": "기관"
   },
   {
-    "title": "불확실한 전장 승패 가를 신속 판단·의사 결정 능력 강화",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47954&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "로봇이 폭발물 제거한다…국산1호 실전 배치",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260306/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=8BK9kElRBItOPx1gXu1FqubQivUXVjR2q25CVh4NAoFEeemApy_k!403047716",
-    "category": "국방"
-  },
-  {
     "title": "‘국방 피지컬 AI’ 발전 위해 민·관·군 손잡았다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260306/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=8BK9kElRBItOPx1gXu1FqubQivUXVjR2q25CVh4NAoFEeemApy_k!403047716",
     "category": "국방"
-  },
-  {
-    "title": "마이데이터를 넘어 이제는 “기업데이터”로! 과기정통부, 기업데이터 연계·활용 실증 사업 공모",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186982&searchOpt=ALL&searchTxt=",
-    "category": "기관"
   }
 ]
