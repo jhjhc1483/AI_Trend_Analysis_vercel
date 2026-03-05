@@ -146,6 +146,7 @@ let currentView = 'HOME';
 let favoriteArticles = new Map();
 let favoritePublications = new Map();
 let fewshotExamples = [];
+let fewshotUnlocked = false; // 관리자 인증 후 true로 변경
 const cacheBuster = `?t=${new Date().getTime()}`;
 
 const FILES_TO_LOAD = [
@@ -376,15 +377,24 @@ function createListItem(item) {
         categoryBadge = `<span class="category-badge ${colorClass}">${savedCat}</span>`;
     }
 
-    // 이미 학습된 기사인지 체크
-    const isLearned = item.isArticle && fewshotExamples.some(ex => ex.title === item.title && ex.site === item.displayName);
-    const learnButton = (item.isArticle && !isLearned) ? `<button class="learn-btn" onclick="addFewshotExample(event, '${item.link}')" title="AI 분류 학습 데이터로 추가" style="background: none; border: none; cursor: pointer; font-size: 1.1em; padding: 0 5px;">🧠</button>` : '';
+    // FewShot 관련 버튼 (관리자 인증된 경우에만 표시)
+    let fewshotButtons = '';
+    if (item.isArticle && fewshotUnlocked) {
+        const isLearned = fewshotExamples.some(ex => ex.title === item.title && ex.site === item.displayName);
+        if (isLearned) {
+            // 이미 학습된 기사: 제외(삭제) 버튼
+            fewshotButtons = `<button class="learn-btn" onclick="removeFewshotExample(event, '${item.link}')" title="FewShot 학습 데이터에서 제외" style="background: none; border: none; cursor: pointer; font-size: 1.1em; padding: 0 5px;">🚫</button>`;
+        } else {
+            // 미학습 기사: 학습 추가 버튼
+            fewshotButtons = `<button class="learn-btn" onclick="addFewshotExample(event, '${item.link}')" title="AI 분류 학습 데이터로 추가" style="background: none; border: none; cursor: pointer; font-size: 1.1em; padding: 0 5px;">🧠</button>`;
+        }
+    }
 
     return `
         <li class="article-item">
             <div class="article-actions">
                 <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${item.link}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
-                ${learnButton}
+                ${fewshotButtons}
             </div>
             <div class="article-title-group">
                 <a href="#" class="article-title" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
@@ -515,6 +525,85 @@ async function addFewshotExample(event, link) {
         // Restore button icon
         event.target.textContent = "🧠";
     }
+}
+
+// FewShot 제외 함수 (학습 데이터에서 삭제)
+async function removeFewshotExample(event, link) {
+    event.stopPropagation();
+
+    const item = articleData.find(a => a.link === link);
+    if (!item) return;
+
+    if (!confirm(`[FewShot 제외]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\n이 기사를 FewShot 학습 데이터에서 제외하시겠습니까?`)) return;
+
+    const filePath = "codes/favorites/fewshot_examples.json";
+    const getEndpoint = `repos/${OWNER}/${REPO}/contents/${filePath}`;
+
+    try {
+        const originalText = event.target.textContent;
+        event.target.textContent = "⏳";
+
+        const getResData = await callProxyAPI(`${getEndpoint}?ref=${BRANCH}`, 'GET');
+        if (!getResData || !getResData.content) {
+            alert("⚠️ FewShot 데이터 파일을 찾을 수 없습니다.");
+            event.target.textContent = originalText;
+            return;
+        }
+
+        let fewshotData = JSON.parse(base64ToUtf8(getResData.content));
+        const sha = getResData.sha;
+
+        const prevLen = fewshotData.length;
+        fewshotData = fewshotData.filter(d => !(d.title === item.title && d.site === item.displayName));
+
+        if (fewshotData.length === prevLen) {
+            alert("⚠️ 해당 기사가 학습 데이터에 없습니다.");
+            event.target.textContent = originalText;
+            return;
+        }
+
+        const jsonString = JSON.stringify(fewshotData, null, 2);
+        const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
+
+        await callProxyAPI(getEndpoint, 'PUT', {
+            message: `Remove few-shot example: ${item.title}`,
+            content: encodedContent,
+            branch: BRANCH,
+            sha
+        });
+
+        fewshotExamples = fewshotData;
+        renderCurrentView();
+        alert("✅ FewShot 학습 데이터에서 제외되었습니다.");
+
+    } catch (err) {
+        console.error("Error removing few-shot example:", err);
+        alert("❌ 제거 실패: " + err.message);
+    } finally {
+        event.target.textContent = "🚫";
+    }
+}
+
+// FewShot 모드 토글 (사이드바 버튼)
+async function toggleFewshotMode() {
+    if (fewshotUnlocked) {
+        // 이미 잠금 해제 상태 → 다시 잠금
+        fewshotUnlocked = false;
+        document.getElementById('fewshotModeBtn').style.background = '#555';
+        document.getElementById('fewshotModeBtn').title = 'FewShot 학습 관리 (관리자 인증 필요)';
+        renderCurrentView();
+        return;
+    }
+
+    // 비밀번호 인증
+    const isVerified = await verifyPassword();
+    if (!isVerified) return;
+
+    fewshotUnlocked = true;
+    document.getElementById('fewshotModeBtn').style.background = '#e67e22';
+    document.getElementById('fewshotModeBtn').title = 'FewShot 모드 활성화됨 (클릭하여 잠금)';
+    renderCurrentView();
+    alert("✅ FewShot 관리 모드가 활성화되었습니다.\n기사 목록에서 🧠(학습 추가) / 🚫(제외) 버튼이 표시됩니다.");
 }
 
 const debounce = (func, delay) => {

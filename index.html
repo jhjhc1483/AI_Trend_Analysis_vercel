@@ -77,7 +77,11 @@
                     <a href="#" class="tab-button active" data-source="HOME">🏠 대시보드</a>
                 </div>
                 <div class="menu-group">
-                    <div class="menu-title">기사 (NEWS)</div>
+                    <div class="menu-title" style="display:flex; align-items:center; justify-content:space-between;">
+                        <span>기사 (NEWS)</span>
+                        <button id="fewshotModeBtn" onclick="toggleFewshotMode()" title="FewShot 학습 관리 (관리자 인증 필요)"
+                            style="background:#555; color:white; border:none; border-radius:4px; cursor:pointer; padding:2px 6px; font-size:0.75em; height:24px; white-space:nowrap;">🧠FewShot</button>
+                    </div>
                     <a href="#" class="tab-button" data-source="ARTICLE_ALL">📰 전체보기</a>
                     <div style="display: flex; align-items: center; padding-right: 10px;">
                         <a href="#" class="tab-button" data-source="ARTICLE_FAV" style="flex-grow: 1;">⭐️ 즐겨찾기</a>
