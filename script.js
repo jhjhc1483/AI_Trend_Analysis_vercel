@@ -406,13 +406,15 @@ function createListItem(item) {
         const isExcluded = excludedArticles.has(item.link);
         const excludeBtn = isExcluded
             ? `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="제외 해제 클릭 → 일일동향에 다시 포함" style="background:#e74c3c;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.9em;padding:2px 6px;font-weight:bold;">🚫</button>`
-            : `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="일일동향에서 제외 (AI가 이 기사를 선택하지 않음)" style="background:#555;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.9em;padding:2px 6px;">🚫</button>`;
+            : `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="일일동향에서 제외 (AI가 이 기사를 선택하지 않음)" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🚫</button>`;
 
         fewshotButtons = learnBtn + excludeBtn;
     }
 
     const isExcluded = excludedArticles.has(item.link);
-    const excludeStyle = isExcluded ? 'opacity:0.45;' : '';
+    // fewshot 모드일 때만 음영/뱃지 표시
+    const excludeStyle = (isExcluded && fewshotUnlocked) ? 'opacity:0.45;' : '';
+    const excludeBadge = (isExcluded && fewshotUnlocked) ? '<span style="font-size:0.75em;color:#e74c3c;font-weight:bold;margin-left:6px;">[ 일일동향 제외 ]</span>' : '';
 
     return `
         <li class="article-item" style="${excludeStyle}">
@@ -422,7 +424,7 @@ function createListItem(item) {
             </div>
             <div class="article-title-group">
                 <a href="#" class="article-title" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
-                ${isExcluded ? '<span style="font-size:0.75em;color:#e74c3c;font-weight:bold;margin-left:6px;">[ 일일동향 제외 ]</span>' : ''}
+                ${excludeBadge}
                 ${categoryBadge}
                 <div class="article-meta">
                     <span>출처: ${item.displayName}</span>
