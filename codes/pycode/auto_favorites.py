@@ -14,6 +14,7 @@ FILES_PATTERN = os.path.join(BASE_DIR, "*.json")
 FAV_ARTICLES_PATH = os.path.join(BASE_DIR, "favorites", "favorite_articles.json")
 FAV_PUBS_PATH = os.path.join(BASE_DIR, "favorites", "favorite_publications.json")
 FEWSHOT_EXAMPLES_PATH = os.path.join(BASE_DIR, "favorites", "fewshot_examples.json")
+EXCLUDED_ARTICLES_PATH = os.path.join(BASE_DIR, "favorites", "excluded_articles.json")
 
 
 PUB_SITES = ['IITP', 'NIA', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA']
@@ -21,7 +22,18 @@ PUB_SITES = ['IITP', 'NIA', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA']
 def load_json_files():
     all_articles = []
     all_pubs = []
-    
+
+    # 일일동향 제외 블랙리스트 로드
+    excluded_links = set()
+    if os.path.exists(EXCLUDED_ARTICLES_PATH):
+        try:
+            with open(EXCLUDED_ARTICLES_PATH, 'r', encoding='utf-8') as f:
+                excluded_data = json.load(f)
+            excluded_links = {item.get('link', '') for item in excluded_data if item.get('link')}
+            print(f"Loaded {len(excluded_links)} excluded articles.")
+        except Exception as e:
+            print(f"Error loading excluded_articles.json: {e}")
+
     for filepath in glob.glob(FILES_PATTERN):
         filename = os.path.basename(filepath)
         if filename == "update_time.json": continue
@@ -43,9 +55,16 @@ def load_json_files():
                 
                 # 어제 날짜만
                 if date_str == YESTERDAY:
+                    link = item.get('링크') or item.get('link') or '#'
+
+                    # 제외 블랙리스트 필터링
+                    if link in excluded_links:
+                        print(f"[EXCLUDED] {item.get('기사명') or item.get('제목', '')[:40]}")
+                        continue
+
                     item_data = {
                         'title': item.get('기사명') or item.get('제목') or '제목 없음',
-                        'link': item.get('링크') or item.get('link') or '#',
+                        'link': link,
                         'date': date_str,
                         'site': site_name
                     }

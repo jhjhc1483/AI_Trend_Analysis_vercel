@@ -146,6 +146,7 @@ let currentView = 'HOME';
 let favoriteArticles = new Map();
 let favoritePublications = new Map();
 let fewshotExamples = [];
+let excludedArticles = new Set(); // 일일동향 제외 블랙리스트 (링크 기준)
 let fewshotUnlocked = false; // 관리자 인증 후 true로 변경
 const cacheBuster = `?t=${new Date().getTime()}`;
 
@@ -180,6 +181,22 @@ function loadFewshotExamples() {
         })
         .catch(error => {
             console.error("Error loading fewshot examples:", error);
+            return [];
+        });
+}
+
+function loadExcludedArticles() {
+    return fetch('codes/favorites/excluded_articles.json' + cacheBuster)
+        .then(response => {
+            if (!response.ok) return [];
+            return response.json();
+        })
+        .then(data => {
+            excludedArticles = new Set(data.map(item => item.link));
+            return data;
+        })
+        .catch(error => {
+            console.error("Error loading excluded articles:", error);
             return [];
         });
 }
@@ -230,13 +247,14 @@ function loadData() {
                     return [];
                 });
         }),
-        loadFewshotExamples()
+        loadFewshotExamples(),
+        loadExcludedArticles()
     ];
 
     Promise.all(promises)
         .then(results => {
-            // 마지막 결과는 fewshotExamples이므로 제외하고 기사 데이터 처리
-            const dataResults = results.slice(0, -1);
+            // 마지막 2개 결과(fewshotExamples, excludedArticles)는 이미 전역변수에 저장됨
+            const dataResults = results.slice(0, -2);
             dataResults.forEach(siteData => {
                 if (siteData.length > 0) {
                     if (siteData[0].isArticle) articleData = articleData.concat(siteData);
@@ -377,27 +395,34 @@ function createListItem(item) {
         categoryBadge = `<span class="category-badge ${colorClass}">${savedCat}</span>`;
     }
 
-    // FewShot 관련 버튼 (관리자 인증된 경우에만 표시)
+    // FewShot 모드에서만 표시되는 버튼들 (관리자 인증된 경우에만)
     let fewshotButtons = '';
     if (item.isArticle && fewshotUnlocked) {
         const isLearned = fewshotExamples.some(ex => ex.title === item.title && ex.site === item.displayName);
-        if (isLearned) {
-            // 이미 학습된 기사: 제외(삭제) 버튼
-            fewshotButtons = `<button class="learn-btn" onclick="removeFewshotExample(event, '${item.link}')" title="FewShot 학습 데이터에서 제외" style="background: none; border: none; cursor: pointer; font-size: 1.1em; padding: 0 5px;">🚫</button>`;
-        } else {
-            // 미학습 기사: 학습 추가 버튼
-            fewshotButtons = `<button class="learn-btn" onclick="addFewshotExample(event, '${item.link}')" title="AI 분류 학습 데이터로 추가" style="background: none; border: none; cursor: pointer; font-size: 1.1em; padding: 0 5px;">🧠</button>`;
-        }
+        const learnBtn = isLearned
+            ? `<button class="learn-btn" onclick="removeFewshotExample(event, '${item.link}')" title="FewShot 학습에서 제거" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🧠✕</button>`
+            : `<button class="learn-btn" onclick="addFewshotExample(event, '${item.link}')" title="FewShot 학습 데이터로 추가" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🧠</button>`;
+
+        const isExcluded = excludedArticles.has(item.link);
+        const excludeBtn = isExcluded
+            ? `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="제외 해제 (일일동향에 다시 포함)" style="background:#e74c3c;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.8em;padding:2px 5px;font-weight:bold;">🚫제외중</button>`
+            : `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="일일동향에서 제외 (AI가 이 기사를 선택하지 않음)" style="background:#888;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.8em;padding:2px 5px;">제외</button>`;
+
+        fewshotButtons = learnBtn + excludeBtn;
     }
 
+    const isExcluded = excludedArticles.has(item.link);
+    const excludeStyle = isExcluded ? 'opacity:0.45;' : '';
+
     return `
-        <li class="article-item">
+        <li class="article-item" style="${excludeStyle}">
             <div class="article-actions">
                 <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${item.link}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
                 ${fewshotButtons}
             </div>
             <div class="article-title-group">
                 <a href="#" class="article-title" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
+                ${isExcluded ? '<span style="font-size:0.75em;color:#e74c3c;font-weight:bold;margin-left:6px;">[ 일일동향 제외 ]</span>' : ''}
                 ${categoryBadge}
                 <div class="article-meta">
                     <span>출처: ${item.displayName}</span>
@@ -408,6 +433,7 @@ function createListItem(item) {
         </li>
     `;
 }
+
 
 function toggleFavorite(event, link, isArticle) {
     event.stopPropagation();
@@ -581,6 +607,77 @@ async function removeFewshotExample(event, link) {
         alert("❌ 제거 실패: " + err.message);
     } finally {
         event.target.textContent = "🚫";
+    }
+}
+
+// 일일동향 제외 토글 (excluded_articles.json에 저장)
+async function toggleExcludeArticle(event, link) {
+    event.stopPropagation();
+
+    const item = articleData.find(a => a.link === link);
+    if (!item) return;
+
+    const isCurrentlyExcluded = excludedArticles.has(link);
+    const action = isCurrentlyExcluded ? '제외 해제 (일일동향에 다시 포함)' : '일일동향 제외';
+    const confirmMsg = isCurrentlyExcluded
+        ? `[제외 해제]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\n이 기사를 일일동향에 다시 포함시키겠습니까?`
+        : `[일일동향 제외]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\nAI가 이 기사를 일일동향에 절대 포함하지 않도록 설정합니다.\n계속하시겠습니까?`;
+
+    if (!confirm(confirmMsg)) return;
+
+    const originalText = event.target.textContent;
+    event.target.textContent = '⏳';
+
+    const filePath = 'codes/favorites/excluded_articles.json';
+    const getEndpoint = `repos/${OWNER}/${REPO}/contents/${filePath}`;
+
+    try {
+        // 기존 파일 조회
+        let excludedData = [];
+        let sha = null;
+        try {
+            const getResData = await callProxyAPI(`${getEndpoint}?ref=${BRANCH}`, 'GET');
+            if (getResData && getResData.content) {
+                excludedData = JSON.parse(base64ToUtf8(getResData.content));
+                sha = getResData.sha;
+            }
+        } catch (e) {
+            console.log('excluded_articles.json not found. Creating new one.');
+        }
+
+        if (isCurrentlyExcluded) {
+            // 제외 해제: 목록에서 삭제
+            excludedData = excludedData.filter(d => d.link !== link);
+            excludedArticles.delete(link);
+        } else {
+            // 제외 추가
+            excludedData.push({ title: item.title, link: item.link, site: item.displayName });
+            excludedArticles.add(link);
+        }
+
+        const jsonString = JSON.stringify(excludedData, null, 2);
+        const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
+
+        await callProxyAPI(getEndpoint, 'PUT', {
+            message: `${isCurrentlyExcluded ? 'Remove' : 'Add'} excluded article: ${item.title}`,
+            content: encodedContent,
+            branch: BRANCH,
+            ...(sha && { sha })
+        });
+
+        renderCurrentView();
+        alert(isCurrentlyExcluded
+            ? '✅ 제외가 해제되었습니다. 이 기사는 이제 일일동향 선정 대상에 포함됩니다.'
+            : '✅ 제외 완료! AI가 이 기사를 일일동향에 포함하지 않습니다.');
+
+    } catch (err) {
+        console.error('Error toggling excluded article:', err);
+        alert('❌ 실패: ' + err.message);
+        // 롤백
+        if (isCurrentlyExcluded) excludedArticles.add(link);
+        else excludedArticles.delete(link);
+    } finally {
+        event.target.textContent = originalText;
     }
 }
 
