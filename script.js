@@ -405,8 +405,8 @@ function createListItem(item) {
 
         const isExcluded = excludedArticles.has(item.link);
         const excludeBtn = isExcluded
-            ? `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="제외 해제 (일일동향에 다시 포함)" style="background:#e74c3c;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.8em;padding:2px 5px;font-weight:bold;">🚫제외중</button>`
-            : `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="일일동향에서 제외 (AI가 이 기사를 선택하지 않음)" style="background:#888;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.8em;padding:2px 5px;">제외</button>`;
+            ? `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="제외 해제 클릭 → 일일동향에 다시 포함" style="background:#e74c3c;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.9em;padding:2px 6px;font-weight:bold;">🚫</button>`
+            : `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="일일동향에서 제외 (AI가 이 기사를 선택하지 않음)" style="background:#555;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.9em;padding:2px 6px;">🚫</button>`;
 
         fewshotButtons = learnBtn + excludeBtn;
     }
@@ -618,7 +618,6 @@ async function toggleExcludeArticle(event, link) {
     if (!item) return;
 
     const isCurrentlyExcluded = excludedArticles.has(link);
-    const action = isCurrentlyExcluded ? '제외 해제 (일일동향에 다시 포함)' : '일일동향 제외';
     const confirmMsg = isCurrentlyExcluded
         ? `[제외 해제]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\n이 기사를 일일동향에 다시 포함시키겠습니까?`
         : `[일일동향 제외]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\nAI가 이 기사를 일일동향에 절대 포함하지 않도록 설정합니다.\n계속하시겠습니까?`;
@@ -632,25 +631,32 @@ async function toggleExcludeArticle(event, link) {
     const getEndpoint = `repos/${OWNER}/${REPO}/contents/${filePath}`;
 
     try {
-        // 기존 파일 조회
         let excludedData = [];
         let sha = null;
+
+        // sha는 반드시 먼저 추출 (파일 존재 여부 확인)
         try {
             const getResData = await callProxyAPI(`${getEndpoint}?ref=${BRANCH}`, 'GET');
-            if (getResData && getResData.content) {
-                excludedData = JSON.parse(base64ToUtf8(getResData.content));
-                sha = getResData.sha;
+            if (getResData) {
+                sha = getResData.sha; // 파일이 존재하면 sha 즉시 저장
+                if (getResData.content) {
+                    try {
+                        excludedData = JSON.parse(base64ToUtf8(getResData.content));
+                    } catch (parseErr) {
+                        console.warn('excluded_articles.json 파싱 실패, 빈 배열로 초기화');
+                        excludedData = [];
+                    }
+                }
             }
         } catch (e) {
+            // 404: 파일이 없음 → sha=null로 새 파일 생성
             console.log('excluded_articles.json not found. Creating new one.');
         }
 
         if (isCurrentlyExcluded) {
-            // 제외 해제: 목록에서 삭제
             excludedData = excludedData.filter(d => d.link !== link);
             excludedArticles.delete(link);
         } else {
-            // 제외 추가
             excludedData.push({ title: item.title, link: item.link, site: item.displayName });
             excludedArticles.add(link);
         }
@@ -658,12 +664,14 @@ async function toggleExcludeArticle(event, link) {
         const jsonString = JSON.stringify(excludedData, null, 2);
         const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
 
-        await callProxyAPI(getEndpoint, 'PUT', {
+        const putBody = {
             message: `${isCurrentlyExcluded ? 'Remove' : 'Add'} excluded article: ${item.title}`,
             content: encodedContent,
-            branch: BRANCH,
-            ...(sha && { sha })
-        });
+            branch: BRANCH
+        };
+        if (sha) putBody.sha = sha; // 파일이 존재하는 경우만 sha 포함
+
+        await callProxyAPI(getEndpoint, 'PUT', putBody);
 
         renderCurrentView();
         alert(isCurrentlyExcluded
