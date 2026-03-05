@@ -1,0 +1,92 @@
+📢26.03.06 AI 일일 동향📢
+
+📰 오늘의 기사
+[국방]
+◾ 로봇이 대신 간다! 폭발물탐지제거로봇 전력화 착수
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58260&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
+
+◾ 불확실한 전장 승패 가를 신속 판단·의사 결정 능력 강화
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47954&startDate=&endDate=&id=mnd_020101000000
+
+◾ 로봇이 폭발물 제거한다…국산1호 실전 배치
+https://kookbang.dema.mil.kr/newsWeb/20260306/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=8BK9kElRBItOPx1gXu1FqubQivUXVjR2q25CVh4NAoFEeemApy_k!403047716
+
+◾ ‘국방 피지컬 AI’ 발전 위해 민·관·군 손잡았다
+https://kookbang.dema.mil.kr/newsWeb/20260306/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=8BK9kElRBItOPx1gXu1FqubQivUXVjR2q25CVh4NAoFEeemApy_k!403047716
+
+[민간]
+◾ [MWC26 바르셀로나 포럼]송인강 삼성전자 부사장 “모두를 위한 AI 에이전트 구현할 것”
+https://www.etnews.com/20260305000296
+
+◾ 우리은행, 금융권 첫 ＇전사 AI 에이전트＇ 구축...내년 초 175개 도입
+https://www.etnews.com/20260305000279
+
+◾ 최태원 SK 회장, 엔비디아 GTC 첫 참석…AI 반도체 동맹 강화
+https://www.etnews.com/20260305000103
+
+◾ LG CNS, 6개월만에 짓는 AI DC ＇AI 박스＇ 출시…＇원 LG＇ 기술력 집약
+https://www.etnews.com/20260305000075
+
+◾ 삼성SDS, 챗GPT 엔터프라이즈 공급 연쇄 계약...10개 이상 기업 확보
+https://www.etnews.com/20260305000036
+
+◾ [MWC26] LG유플러스 ＇글로벌 AI SW 기업＇ 선언...내수기업 한계 넘는다
+https://www.etnews.com/20260305000002
+
+◾ ＇마이크로소프트 AI 투어 서울＇ 개최…“프론티어 기업이 주도하는 AI 비즈니스 혁신 시대 연다”
+https://www.aitimes.kr/news/articleView.html?idxno=38915
+
+[기관]
+◾ [MWC26 바르셀로나 포럼]과기정통부 “인텔리전트 인프라 시대, 전방위 투자 확대”
+https://www.etnews.com/20260305000283
+
+◾ [MWC26] 韓 주도 AI 네트워크 시대 연다…민관 협의체 ＇AINA＇ 출범
+https://www.etnews.com/20260305000218
+
+◾ “AI가 도시 운영 맡는다”…국토부, ＇AI 특화 시범도시＇ 공모
+https://www.etnews.com/20260305000072
+
+◾ 산업부, 범정부 휴머노이드 생태계 구축한다
+https://www.etnews.com/20260304000506
+
+◾ 과기정통부, 피지컬 AI 시대 선도할 선박·우주·로봇산업 분야 특화 보안 매뉴얼 공개
+https://www.aitimes.kr/news/articleView.html?idxno=38927
+
+◾ 국가AI전략위, 문서 작성 체계 혁신으로AI 활용 기반 강화한다
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=363
+
+◾ 마이데이터를 넘어 이제는 “기업데이터”로! 과기정통부, 기업데이터 연계·활용 실증 사업 공모
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186982&searchOpt=ALL&searchTxt=
+
+[해외]
+◾ “화장실·성행위 장면까지 본다”… 메타 AI 스마트 글라스 ＇사생활 침해＇ 논란
+https://www.etnews.com/20260305000256
+
+◾ 퍼플렉시티, 여러 AI 모델 통합 구동하는 ＇퍼플렉시티 컴퓨터＇ 출시
+https://www.etnews.com/20260305000213
+
+◾ “사상 최대 실적 내고도 2500명 자른다”…모건스탠리 전격 감원, 월가 ＇AI 칼바람＇
+https://www.etnews.com/20260305000026
+
+◾ 아모데이, 알트먼 국방부 계약 비난...〃보여주기식 안전·정치적 충성〃
+https://www.aitimes.com/news/articleView.html?idxno=207548
+
+◾ 미국 빅테크, 국방부 AI 규제에서 앤트로픽 구제 나서
+https://www.aitimes.com/news/articleView.html?idxno=207563
+
+◾ 오픈AI, 미 국방부 이어 나토와 계약 검토 중
+https://www.aitimes.com/news/articleView.html?idxno=207564
+
+◾ AI가 물리학자 일자리 뺏나?…오픈AI ＇GPT-5.2 프로＇, ‘양자중력 난제’ 수학 공식 찾아
+https://www.aitimes.kr/news/articleView.html?idxno=38929
+
+[기타]
+◾ [정구민의 테크읽기]통신과 AI 진화를 위한 MWC26 4대 키워드와 시사점
+https://www.etnews.com/20260305000141
+
+
+🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
+(링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
+
+
+✅위 내용은 GEMINI에 의해 작성됨.
