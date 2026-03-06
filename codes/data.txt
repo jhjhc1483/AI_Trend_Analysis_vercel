@@ -18,11 +18,14 @@ https://www.etnews.com/20260306000228
 ◾ 티오리, 포스코DX에 LLM 보안 솔루션 공급
 https://www.etnews.com/20260306000214
 
-◾ AI로 무릎 골관절염 ＇최대 마모 지점＇ 찾는다
-https://www.etnews.com/20260306000187
-
 ◾ [MWC26] 이통3사, 글로벌 무대 장악… AI·네트워크 혁신 존재감 과시
 https://www.etnews.com/20260306000167
+
+◾ LS일렉트릭, 대구시와 한국형 AI 팩토리 확산 협력
+https://www.etnews.com/20260306000166
+
+◾ 세미나허브, 3월 20일 ＇Physical AI 시대의 모빌리티 혁신＇ 세미나 개최
+https://www.etnews.com/20260306000142
 
 ◾ 메타빌드, AI 에이전틱 기반 연계플랫폼 ＇MESIM AX＇ 본격 공급
 https://www.etnews.com/20260306000115
@@ -56,14 +59,14 @@ https://www.etnews.com/20260306000015
 ◾ GPT-5.4에 ＇익스트림 추론＇ 도입...오픈AI, 모델 출시 주기 한달로 단축
 https://www.aitimes.com/news/articleView.html?idxno=207570
 
-◾ 오픈AI, 사용자 말 끊는 문제 해결할 ＇양방향＇ 오디오 모델 개발 중
-https://www.aitimes.com/news/articleView.html?idxno=207623
-
 ◾ 엔비디아, 중국용 ＇H200＇ 생산 중단...＇베라 루빈＇으로 생산 라인 전환
 https://www.aitimes.com/news/articleView.html?idxno=207639
 
 ◾ 오픈AI, 연매출 36조로 빠르게 증가…앤트로픽과 격차는 좁아져
 https://www.aitimes.com/news/articleView.html?idxno=207650
+
+◾ MS 〃국방부 제외한 모든 고객에 앤트로픽 모델 계속 공급〃
+https://www.aitimes.com/news/articleView.html?idxno=207660
 
 ◾ 중국, ＇5개년 계획＇ 통해 〃2030년까지 경제 90%에 AI 통합〃
 https://www.aitimes.com/news/articleView.html?idxno=207643
@@ -78,8 +81,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=38950
 ◾ 공공 AI 담당자가 꼭 알아야 할 AX 트렌드 2가지
 https://www.etnews.com/20260306000225
 
-◾ 세미나허브, 3월 20일 ＇Physical AI 시대의 모빌리티 혁신＇ 세미나 개최
-https://www.etnews.com/20260306000142
+◾ [에듀플러스]이상희 광운대 교수, 생성형 AI 기반 수업혁신 사례 국제학술지 게재
+https://www.etnews.com/20260306000186
 
 📚 간행물
 ◾ MWC2026, 빅테크인재전략, 데이터외교, 중국반도체생산 [AI·ICT Brief 2026-08호]
