@@ -1,79 +1,89 @@
-📢26.03.06 AI 일일 동향📢
+📢26.03.07 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
+◾ 중기부-방사청, 〃방산분야 문턱 낮춘다〃. AI·드론·로봇 등 혁신 중소기업 진입 유도
+https://www.aitimes.kr/news/articleView.html?idxno=38949
+
 ◾ ‘국방 피지컬 AI’ 발전 위해 민·관·군 손잡았다
-https://kookbang.dema.mil.kr/newsWeb/20260306/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=8BK9kElRBItOPx1gXu1FqubQivUXVjR2q25CVh4NAoFEeemApy_k!403047716
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47975&startDate=&endDate=&id=mnd_020101000000
+
+◾ 민·군이 협업하여 국방데이터 활용 AI 생태계 조성
+https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_108507&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
 
 [민간]
-◾ [MWC26 바르셀로나 포럼]송인강 삼성전자 부사장 “모두를 위한 AI 에이전트 구현할 것”
-https://www.etnews.com/20260305000296
+◾ 원티드랩·숙명여대, AI 기반 실무형 인재 양성 협력
+https://www.etnews.com/20260306000228
 
-◾ 우리은행, 금융권 첫 ＇전사 AI 에이전트＇ 구축...내년 초 175개 도입
-https://www.etnews.com/20260305000279
+◾ 티오리, 포스코DX에 LLM 보안 솔루션 공급
+https://www.etnews.com/20260306000214
 
-◾ 솔트룩스, PPT 자동 생성 등 AI 에이전트 ＇구버＇ 업데이트
-https://www.etnews.com/20260305000111
+◾ AI로 무릎 골관절염 ＇최대 마모 지점＇ 찾는다
+https://www.etnews.com/20260306000187
 
-◾ 최태원 SK 회장, 엔비디아 GTC 첫 참석…AI 반도체 동맹 강화
-https://www.etnews.com/20260305000103
+◾ [MWC26] 이통3사, 글로벌 무대 장악… AI·네트워크 혁신 존재감 과시
+https://www.etnews.com/20260306000167
 
-◾ LG CNS, 6개월만에 짓는 AI DC ＇AI 박스＇ 출시…＇원 LG＇ 기술력 집약
-https://www.etnews.com/20260305000075
+◾ 메타빌드, AI 에이전틱 기반 연계플랫폼 ＇MESIM AX＇ 본격 공급
+https://www.etnews.com/20260306000115
 
-◾ 삼성SDS, 챗GPT 엔터프라이즈 공급 연쇄 계약...10개 이상 기업 확보
-https://www.etnews.com/20260305000036
-
-◾ [MWC26] LG유플러스 ＇글로벌 AI SW 기업＇ 선언...내수기업 한계 넘는다
-https://www.etnews.com/20260305000002
+◾ 고려아연, ＇챗GPT 엔터프라이즈＇ 도입…스마트 제련소 전환 속도
+https://www.etnews.com/20260306000102
 
 [기관]
-◾ [MWC26] 韓 주도 AI 네트워크 시대 연다…민관 협의체 ＇AINA＇ 출범
-https://www.etnews.com/20260305000218
+◾ NIPA, 베트남 과학기술부와 양자 회담 개최…AI 협력 강화
+https://www.etnews.com/20260306000288
 
-◾ “AI가 도시 운영 맡는다”…국토부, ＇AI 특화 시범도시＇ 공모
-https://www.etnews.com/20260305000072
+◾ 부산시, AI로 도시 홍수 피해 막는다
+https://www.etnews.com/20260306000068
 
-◾ 산업부, 범정부 휴머노이드 생태계 구축한다
-https://www.etnews.com/20260304000506
+◾ NHN인재아이엔씨, 충북과학기술혁신원과 MOU…지역 AX 전방위 지원
+https://www.etnews.com/20260306000244
 
-◾ DGIST, 세계 최초 ＇수소＇로 기억하고 학습하는 AI 반도체 개발
-https://www.etnews.com/20260305000008
+◾ KAIST, 전 세계 슬럼가 찾아내는 AI 개발...＇AAAI 2026＇ 최우수 논문상 수상
+https://www.etnews.com/20260306000227
 
-◾ 국세청, 개청 60주년…“AI 중심 국세행정 전환”
-https://www.etnews.com/20260305000003
+◾ 천안시-아산시, ＇K-AI 특화 시범도시＇ 유치 맞손…공동 추진 업무협약 체결
+https://www.etnews.com/20260306000147
 
-◾ 과기정통부, 피지컬 AI 시대 선도할 선박·우주·로봇산업 분야 특화 보안 매뉴얼 공개
-https://www.aitimes.kr/news/articleView.html?idxno=38927
+◾ 관세청, 체계적 혁신 추진체계 구축 ＇AI 관세행정 추진단＇ 출범
+https://www.etnews.com/20260306000132
 
-◾ 국가AI전략위, 문서 작성 체계 혁신으로AI 활용 기반 강화한다
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=363
+◾ 경북농업기술원, 간부 공무원 대상 ＇AI 활용 리더십 교육＇
+https://www.etnews.com/20260306000015
 
 [해외]
-◾ “화장실·성행위 장면까지 본다”… 메타 AI 스마트 글라스 ＇사생활 침해＇ 논란
-https://www.etnews.com/20260305000256
+◾ GPT-5.4에 ＇익스트림 추론＇ 도입...오픈AI, 모델 출시 주기 한달로 단축
+https://www.aitimes.com/news/articleView.html?idxno=207570
 
-◾ 퍼플렉시티, 여러 AI 모델 통합 구동하는 ＇퍼플렉시티 컴퓨터＇ 출시
-https://www.etnews.com/20260305000213
+◾ 오픈AI, 사용자 말 끊는 문제 해결할 ＇양방향＇ 오디오 모델 개발 중
+https://www.aitimes.com/news/articleView.html?idxno=207623
 
-◾ 아모데이, 알트먼 국방부 계약 비난...〃보여주기식 안전·정치적 충성〃
-https://www.aitimes.com/news/articleView.html?idxno=207548
+◾ 엔비디아, 중국용 ＇H200＇ 생산 중단...＇베라 루빈＇으로 생산 라인 전환
+https://www.aitimes.com/news/articleView.html?idxno=207639
 
-◾ 미국 빅테크, 국방부 AI 규제에서 앤트로픽 구제 나서
-https://www.aitimes.com/news/articleView.html?idxno=207563
+◾ 오픈AI, 연매출 36조로 빠르게 증가…앤트로픽과 격차는 좁아져
+https://www.aitimes.com/news/articleView.html?idxno=207650
 
-◾ 오픈AI, 미 국방부 이어 나토와 계약 검토 중
-https://www.aitimes.com/news/articleView.html?idxno=207564
+◾ 중국, ＇5개년 계획＇ 통해 〃2030년까지 경제 90%에 AI 통합〃
+https://www.aitimes.com/news/articleView.html?idxno=207643
 
-◾ “단돈 88만원, 맥북 가격이 무너졌다?”… 애플, AI 노트북 ‘맥북 네오’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=38930
+◾ 미 국방부, 앤트로픽에 ＇공급망 위험＇ 공식 통보
+https://www.aitimes.com/news/articleView.html?idxno=207615
 
-◾ AI가 물리학자 일자리 뺏나?…오픈AI ＇GPT-5.2 프로＇, ‘양자중력 난제’ 수학 공식 찾아
-https://www.aitimes.kr/news/articleView.html?idxno=38929
+◾ 美 트럼프 대통령, ‘AI 데이터센터 전기요금 보호 서약’ 체결…빅테크 “전력 비용 직접 부담”
+https://www.aitimes.kr/news/articleView.html?idxno=38950
 
 [기타]
-◾ [정구민의 테크읽기]통신과 AI 진화를 위한 MWC26 4대 키워드와 시사점
-https://www.etnews.com/20260305000141
+◾ 공공 AI 담당자가 꼭 알아야 할 AX 트렌드 2가지
+https://www.etnews.com/20260306000225
+
+◾ 세미나허브, 3월 20일 ＇Physical AI 시대의 모빌리티 혁신＇ 세미나 개최
+https://www.etnews.com/20260306000142
+
+📚 간행물
+◾ MWC2026, 빅테크인재전략, 데이터외교, 중국반도체생산 [AI·ICT Brief 2026-08호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260306-000001&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
