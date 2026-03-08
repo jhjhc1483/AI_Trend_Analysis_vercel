@@ -1,82 +1,107 @@
 [
   {
-    "title": "유진로봇, 자율주행 로봇·협동로봇 결합…산업 자동화 솔루션 진화",
-    "link": "https://www.etnews.com/20260306000215",
-    "category": "민간"
+    "title": "오픈AI·오라클, 텍사스 스타게이트 데이터센터 확장 철회",
+    "link": "https://www.etnews.com/20260308000077",
+    "category": "해외"
   },
   {
-    "title": "전남대 RISE사업단, 지자체·대학·기업 협력 모델로 AI 인재 27명 배출",
-    "link": "https://www.etnews.com/20260306000005",
-    "category": "기관"
+    "title": "美, 새 사이버 전략 발표…적대국 해킹에 ＇대가 부과＇ 경고",
+    "link": "https://www.etnews.com/20260308000076",
+    "category": "해외"
   },
   {
-    "title": "[ET시선]중국 휴머노이드 굴기…제조 강국 한국의 과제",
-    "link": "https://www.etnews.com/20260306000258",
+    "title": "[ET시론] 추론 AI 경쟁 시대, 국가 전략을 묻는다",
+    "link": "https://www.etnews.com/20260306000349",
     "category": "기타"
   },
   {
-    "title": "〃지메일부터 시트까지 명령어 하나로〃… 구글, 인간-에이전트 겸용 ＇워크스페이스 CLI＇ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207665",
+    "title": "삼성SDI, AI 기반 ESS 화재 예방 SW ＇SBI＇ 공개",
+    "link": "https://www.etnews.com/20260308000071",
     "category": "민간"
   },
   {
-    "title": "소프트뱅크, 오픈AI 지분 인수 위해 59조 규모 사상 최대 대출 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207667",
-    "category": "해외"
-  },
-  {
-    "title": "이란, 아마존 데이터센터 공격...〃AI 시대 새로운 군사적 타깃 부각〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207669",
-    "category": "해외"
-  },
-  {
-    "title": "오픈AI-오라클 ＇스타게이트 1＇ 확장 무산...엔비디아, AMD 견제 위해 메타 유치",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207670",
-    "category": "해외"
-  },
-  {
-    "title": "MS 이어 아마존·구글도 〃국방 비관련 분야는 앤트로픽 모델 계속 지원〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207666",
-    "category": "해외"
-  },
-  {
-    "title": "오픈AI, 에이전트 보안 도구 ＇코덱스 시큐리티＇ 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207662",
-    "category": "해외"
-  },
-  {
-    "title": "삼성 〃스마트 안경에 ＇눈높이＇ 카메라 내장...생태계 확장에 중점〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207664",
+    "title": "카카오, ＇카인톡＇ 사양 갤S24까지 낮출까…구글과 온디바이스 AI 협력 확대",
+    "link": "https://www.etnews.com/20260306000238",
     "category": "민간"
   },
   {
-    "title": "전곡선사박물관에 ‘AI 콘텐츠’ 상설 전시…30만년 전 인류 재현",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207651",
+    "title": "네이버, 자회사 조직 끌어와 AI 역량 강화…AI 검색·헬스케어 사업 박차",
+    "link": "https://www.etnews.com/20260306000212",
+    "category": "민간"
+  },
+  {
+    "title": "[알파고 쇼크 10년] 한국 AI기업 수 4년 만에 2.7배 증가",
+    "link": "https://www.etnews.com/20260306000332",
+    "category": "민간"
+  },
+  {
+    "title": "＇알파폴드＇ 한계 극복…KAIST, 약물 작동까지 예측하는 AI 개발",
+    "link": "https://www.etnews.com/20260306000157",
     "category": "기관"
   },
   {
-    "title": "노트 내용이 그대로 ‘영상’으로… 구글 노트북LM의 놀라운 기능",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207659",
-    "category": "민간"
-  },
-  {
-    "title": "아모데이, 트럼프 비난 보도에 사과...〃하지만 법적 대응은 불가피〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207673",
-    "category": "해외"
-  },
-  {
-    "title": "정기수 원티드랩 AI부문장 “기업 AX 성패, 개인역량 지속 강화에 달려”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207657",
-    "category": "민간"
-  },
-  {
-    "title": "관세청, 인공지능 혁신의 대장정 개막 ···‘AI 관세행정 추진단’ 출범",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38952",
+    "title": "과기정통부-행안부, 정부·공공 AX 지원 시동…33개 기관부터",
+    "link": "https://www.etnews.com/20260306000336",
     "category": "기관"
   },
   {
-    "title": "기획예산처 임기근 차관, AI 휴머노이드 로봇 기업 ＇로브로스＇ 현장 방문",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38951",
+    "title": "포항시, AX 실증산단 구축사업 공모에 전략적으로 대응하기 위한 추진단 발족",
+    "link": "https://www.etnews.com/20260308000047",
+    "category": "기관"
+  },
+  {
+    "title": "경북도, RISE사업으로 AI중점대학과 항공·방산·바이오 등 전략산업 인재양성에 4년간 600억원 투입",
+    "link": "https://www.etnews.com/20260308000030",
+    "category": "기관"
+  },
+  {
+    "title": "엔비디아가 찍은 ＇K-축산 AI＇…인트플로우, ＇GTC 2026＇ 피칭 확정",
+    "link": "https://www.etnews.com/20260304000459",
+    "category": "민간"
+  },
+  {
+    "title": "LGU+·퓨리오사AI, 소버린 AI 어플라이언스 개발 맞손",
+    "link": "https://www.etnews.com/20260308000007",
+    "category": "민간"
+  },
+  {
+    "title": "오픈AI, 코딩 에이전트 관리 프레임워크 ‘심포니’ 공개…“개발자는 관리만”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207683",
+    "category": "해외"
+  },
+  {
+    "title": "루마, 동영상 생성 ＇에이전트＇ 출시...〃언어로 사고하고 픽셀로 결과 도출〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207682",
+    "category": "해외"
+  },
+  {
+    "title": "젠슨 황 “제약 많을수록 엔비디아 유리...에이전트로 토큰 사용 100만배 늘어”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207680",
+    "category": "해외"
+  },
+  {
+    "title": "트럼프 행정부, 〃모든 합법적 사용〃 허용하는 정부 AI 계약 방침 마련",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207677",
+    "category": "해외"
+  },
+  {
+    "title": "오픈AI 로보틱스 책임자, 미 국방부 계약에 반발해 사임",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207676",
+    "category": "해외"
+  },
+  {
+    "title": "국제공동 R&D 통해 제조업 AX전환 등 지원...총 2322억원, 산업기술국제협력사업 통합 시행계획 공고",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38953",
+    "category": "기관"
+  },
+  {
+    "title": "정부24+에 ‘인공지능 검색’ 기능 도입",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260309/6/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=58nMzayxd3AtsOZ-YTraMscY96Tm1hPM9wcuGUsDNlq6NCaxmO-3!-1570157262",
+    "category": "기관"
+  },
+  {
+    "title": "인공지능 전환 전담 지원체계 본격 가동! 정부기관 대상 인공지능 전환 밀착 지원",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186985&searchOpt=ALL&searchTxt=",
     "category": "기관"
   }
 ]
