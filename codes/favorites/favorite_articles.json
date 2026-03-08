@@ -5,11 +5,6 @@
     "category": "해외"
   },
   {
-    "title": "美, 새 사이버 전략 발표…적대국 해킹에 ＇대가 부과＇ 경고",
-    "link": "https://www.etnews.com/20260308000076",
-    "category": "해외"
-  },
-  {
     "title": "[ET시론] 추론 AI 경쟁 시대, 국가 전략을 묻는다",
     "link": "https://www.etnews.com/20260306000349",
     "category": "기타"
@@ -30,19 +25,19 @@
     "category": "민간"
   },
   {
+    "title": "[에듀플러스][칼럼] AI 시대에 요구되는 ＇인간성 지능(HI)＇: 앎·함·삶의 조화",
+    "link": "https://www.etnews.com/20260306000040",
+    "category": "기타"
+  },
+  {
     "title": "[알파고 쇼크 10년] 한국 AI기업 수 4년 만에 2.7배 증가",
     "link": "https://www.etnews.com/20260306000332",
+    "category": "기관"
+  },
+  {
+    "title": "[알파고 쇼크 10년] GPU 280장으로 ＇AI 시대＇ 알려…이제는 100만 수요",
+    "link": "https://www.etnews.com/20260306000310",
     "category": "민간"
-  },
-  {
-    "title": "＇알파폴드＇ 한계 극복…KAIST, 약물 작동까지 예측하는 AI 개발",
-    "link": "https://www.etnews.com/20260306000157",
-    "category": "기관"
-  },
-  {
-    "title": "과기정통부-행안부, 정부·공공 AX 지원 시동…33개 기관부터",
-    "link": "https://www.etnews.com/20260306000336",
-    "category": "기관"
   },
   {
     "title": "포항시, AX 실증산단 구축사업 공모에 전략적으로 대응하기 위한 추진단 발족",
@@ -50,9 +45,14 @@
     "category": "기관"
   },
   {
+    "title": "[MWC26 좌담회] 6G 시대…韓, AI·통신 결합한 ＇K-풀패키지＇로 빅테크 맞서야",
+    "link": "https://www.etnews.com/20260308000040",
+    "category": "민간"
+  },
+  {
     "title": "경북도, RISE사업으로 AI중점대학과 항공·방산·바이오 등 전략산업 인재양성에 4년간 600억원 투입",
     "link": "https://www.etnews.com/20260308000030",
-    "category": "기관"
+    "category": "국방"
   },
   {
     "title": "엔비디아가 찍은 ＇K-축산 AI＇…인트플로우, ＇GTC 2026＇ 피칭 확정",
@@ -80,6 +80,11 @@
     "category": "해외"
   },
   {
+    "title": "KAIST, 약물 결합 넘어 ‘실제 활성 여부’ 예측하는 ‘신약 개발 AI’ 선보여",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207645",
+    "category": "기관"
+  },
+  {
     "title": "트럼프 행정부, 〃모든 합법적 사용〃 허용하는 정부 AI 계약 방침 마련",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=207677",
     "category": "해외"
@@ -90,9 +95,19 @@
     "category": "해외"
   },
   {
+    "title": "제미나이 이어 GPT도 ＇수능 만점＇...구유겸 학생 〃AI 발전 놀라워〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207681",
+    "category": "기타"
+  },
+  {
     "title": "국제공동 R&D 통해 제조업 AX전환 등 지원...총 2322억원, 산업기술국제협력사업 통합 시행계획 공고",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=38953",
     "category": "기관"
+  },
+  {
+    "title": "트럼프 대통령, ‘미국 사이버 전략’ 발표…〃인공지능·양자 기술로 디지털 안보 재편〃",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38955",
+    "category": "해외"
   },
   {
     "title": "정부24+에 ‘인공지능 검색’ 기능 도입",
