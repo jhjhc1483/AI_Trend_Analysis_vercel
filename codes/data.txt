@@ -1,6 +1,10 @@
 📢26.03.09 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 경북도, RISE사업으로 AI중점대학과 항공·방산·바이오 등 전략산업 인재양성에 4년간 600억원 투입
+https://www.etnews.com/20260308000030
+
 [민간]
 ◾ 삼성SDI, AI 기반 ESS 화재 예방 SW ＇SBI＇ 공개
 https://www.etnews.com/20260308000071
@@ -11,8 +15,11 @@ https://www.etnews.com/20260306000238
 ◾ 네이버, 자회사 조직 끌어와 AI 역량 강화…AI 검색·헬스케어 사업 박차
 https://www.etnews.com/20260306000212
 
-◾ [알파고 쇼크 10년] 한국 AI기업 수 4년 만에 2.7배 증가
-https://www.etnews.com/20260306000332
+◾ [알파고 쇼크 10년] GPU 280장으로 ＇AI 시대＇ 알려…이제는 100만 수요
+https://www.etnews.com/20260306000310
+
+◾ [MWC26 좌담회] 6G 시대…韓, AI·통신 결합한 ＇K-풀패키지＇로 빅테크 맞서야
+https://www.etnews.com/20260308000040
 
 ◾ 엔비디아가 찍은 ＇K-축산 AI＇…인트플로우, ＇GTC 2026＇ 피칭 확정
 https://www.etnews.com/20260304000459
@@ -21,17 +28,14 @@ https://www.etnews.com/20260304000459
 https://www.etnews.com/20260308000007
 
 [기관]
-◾ ＇알파폴드＇ 한계 극복…KAIST, 약물 작동까지 예측하는 AI 개발
-https://www.etnews.com/20260306000157
-
-◾ 과기정통부-행안부, 정부·공공 AX 지원 시동…33개 기관부터
-https://www.etnews.com/20260306000336
+◾ [알파고 쇼크 10년] 한국 AI기업 수 4년 만에 2.7배 증가
+https://www.etnews.com/20260306000332
 
 ◾ 포항시, AX 실증산단 구축사업 공모에 전략적으로 대응하기 위한 추진단 발족
 https://www.etnews.com/20260308000047
 
-◾ 경북도, RISE사업으로 AI중점대학과 항공·방산·바이오 등 전략산업 인재양성에 4년간 600억원 투입
-https://www.etnews.com/20260308000030
+◾ KAIST, 약물 결합 넘어 ‘실제 활성 여부’ 예측하는 ‘신약 개발 AI’ 선보여
+https://www.aitimes.com/news/articleView.html?idxno=207645
 
 ◾ 국제공동 R&D 통해 제조업 AX전환 등 지원...총 2322억원, 산업기술국제협력사업 통합 시행계획 공고
 https://www.aitimes.kr/news/articleView.html?idxno=38953
@@ -45,9 +49,6 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 [해외]
 ◾ 오픈AI·오라클, 텍사스 스타게이트 데이터센터 확장 철회
 https://www.etnews.com/20260308000077
-
-◾ 美, 새 사이버 전략 발표…적대국 해킹에 ＇대가 부과＇ 경고
-https://www.etnews.com/20260308000076
 
 ◾ 오픈AI, 코딩 에이전트 관리 프레임워크 ‘심포니’ 공개…“개발자는 관리만”
 https://www.aitimes.com/news/articleView.html?idxno=207683
@@ -64,9 +65,18 @@ https://www.aitimes.com/news/articleView.html?idxno=207677
 ◾ 오픈AI 로보틱스 책임자, 미 국방부 계약에 반발해 사임
 https://www.aitimes.com/news/articleView.html?idxno=207676
 
+◾ 트럼프 대통령, ‘미국 사이버 전략’ 발표…〃인공지능·양자 기술로 디지털 안보 재편〃
+https://www.aitimes.kr/news/articleView.html?idxno=38955
+
 [기타]
 ◾ [ET시론] 추론 AI 경쟁 시대, 국가 전략을 묻는다
 https://www.etnews.com/20260306000349
+
+◾ [에듀플러스][칼럼] AI 시대에 요구되는 ＇인간성 지능(HI)＇: 앎·함·삶의 조화
+https://www.etnews.com/20260306000040
+
+◾ 제미나이 이어 GPT도 ＇수능 만점＇...구유겸 학생 〃AI 발전 놀라워〃
+https://www.aitimes.com/news/articleView.html?idxno=207681
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
