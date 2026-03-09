@@ -1,122 +1,137 @@
 [
   {
-    "title": "오픈AI·오라클, 텍사스 스타게이트 데이터센터 확장 철회",
-    "link": "https://www.etnews.com/20260308000077",
-    "category": "해외"
-  },
-  {
-    "title": "[ET시론] 추론 AI 경쟁 시대, 국가 전략을 묻는다",
-    "link": "https://www.etnews.com/20260306000349",
-    "category": "기타"
-  },
-  {
-    "title": "삼성SDI, AI 기반 ESS 화재 예방 SW ＇SBI＇ 공개",
-    "link": "https://www.etnews.com/20260308000071",
-    "category": "민간"
-  },
-  {
-    "title": "카카오, ＇카인톡＇ 사양 갤S24까지 낮출까…구글과 온디바이스 AI 협력 확대",
-    "link": "https://www.etnews.com/20260306000238",
-    "category": "민간"
-  },
-  {
-    "title": "네이버, 자회사 조직 끌어와 AI 역량 강화…AI 검색·헬스케어 사업 박차",
-    "link": "https://www.etnews.com/20260306000212",
-    "category": "민간"
-  },
-  {
-    "title": "[에듀플러스][칼럼] AI 시대에 요구되는 ＇인간성 지능(HI)＇: 앎·함·삶의 조화",
-    "link": "https://www.etnews.com/20260306000040",
-    "category": "기타"
-  },
-  {
-    "title": "[알파고 쇼크 10년] 한국 AI기업 수 4년 만에 2.7배 증가",
-    "link": "https://www.etnews.com/20260306000332",
-    "category": "기관"
-  },
-  {
-    "title": "[알파고 쇼크 10년] GPU 280장으로 ＇AI 시대＇ 알려…이제는 100만 수요",
-    "link": "https://www.etnews.com/20260306000310",
-    "category": "민간"
-  },
-  {
-    "title": "포항시, AX 실증산단 구축사업 공모에 전략적으로 대응하기 위한 추진단 발족",
-    "link": "https://www.etnews.com/20260308000047",
-    "category": "기관"
-  },
-  {
-    "title": "[MWC26 좌담회] 6G 시대…韓, AI·통신 결합한 ＇K-풀패키지＇로 빅테크 맞서야",
-    "link": "https://www.etnews.com/20260308000040",
-    "category": "민간"
-  },
-  {
-    "title": "경북도, RISE사업으로 AI중점대학과 항공·방산·바이오 등 전략산업 인재양성에 4년간 600억원 투입",
-    "link": "https://www.etnews.com/20260308000030",
+    "title": "국방·안보 특화 논산 캠퍼스서 군 미래를 준비하다",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47988&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
   },
   {
-    "title": "엔비디아가 찍은 ＇K-축산 AI＇…인트플로우, ＇GTC 2026＇ 피칭 확정",
-    "link": "https://www.etnews.com/20260304000459",
+    "title": "AI 기술과제 개발 군·산·학 협력센터 5개 지역 설치",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47990&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
+  },
+  {
+    "title": "[전북대 장원준 교수] AI·첨단기술 기반 ‘스마트 강군’ 육성을 위한 정책 과제",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260309/3/ATCE_CTGR_0020040016/view.do;JSESSIONID_kookbnagWEB=QUjSCfx9cajLNQvzzMubFOGdWU2fTp0zLncvNHHtnfWzBtD_BN4b!-1570157262",
+    "category": "국방"
+  },
+  {
+    "title": "중동 충돌이 드러낸 ‘AI 참모’의 시대",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260310/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=QUjSCfx9cajLNQvzzMubFOGdWU2fTp0zLncvNHHtnfWzBtD_BN4b!-1570157262",
+    "category": "국방"
+  },
+  {
+    "title": "국방 연구개발을 이끌 최정예 과학기술 인재 과학기술전문사관 제2기 석사 후보생 25명 모집",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186989&searchOpt=ALL&searchTxt=",
+    "category": "국방"
+  },
+  {
+    "title": "로봇 임무 처리 등 원천기술 확보로 ＇피지컬 AI 초격차＇ 시동",
+    "link": "https://www.etnews.com/20260309000279",
     "category": "민간"
   },
   {
-    "title": "LGU+·퓨리오사AI, 소버린 AI 어플라이언스 개발 맞손",
-    "link": "https://www.etnews.com/20260308000007",
+    "title": "AI 팹리스 4사, 인력 확충 ＇사활＇…2세대 칩 전면전",
+    "link": "https://www.etnews.com/20260309000080",
     "category": "민간"
   },
   {
-    "title": "오픈AI, 코딩 에이전트 관리 프레임워크 ‘심포니’ 공개…“개발자는 관리만”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207683",
-    "category": "해외"
+    "title": "네이버, 검색 점유율 8년 만에 최고…AI시대 검색 다변화는 숙제",
+    "link": "https://www.etnews.com/20260309000315",
+    "category": "민간"
   },
   {
-    "title": "루마, 동영상 생성 ＇에이전트＇ 출시...〃언어로 사고하고 픽셀로 결과 도출〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207682",
-    "category": "해외"
+    "title": "삼성SDI, 피지컬 AI용 전고체 배터리 최초 공개",
+    "link": "https://www.etnews.com/20260309000133",
+    "category": "민간"
   },
   {
-    "title": "젠슨 황 “제약 많을수록 엔비디아 유리...에이전트로 토큰 사용 100만배 늘어”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207680",
-    "category": "해외"
+    "title": "카카오, AI 협력 프로그램 ＇카나나 스칼라＇ 출범…학계와 AI 발전 방향 모색",
+    "link": "https://www.etnews.com/20260309000098",
+    "category": "민간"
   },
   {
-    "title": "KAIST, 약물 결합 넘어 ‘실제 활성 여부’ 예측하는 ‘신약 개발 AI’ 선보여",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207645",
+    "title": "인핸스, 알파고 넘는 ＇AI OS＇ 공개...〃상용화는 아직〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207719",
+    "category": "민간"
+  },
+  {
+    "title": "유비케어, ＇GC메디아이＇로 사명 변경… AI 기반 ＇메디컬 OS＇ 도약",
+    "link": "https://www.etnews.com/20260309000396",
+    "category": "민간"
+  },
+  {
+    "title": "“AI 경쟁의 핵심은 인재”…국가AI전략위·국회·공학한림원, 대한민국 AI 인재 확보 위해 맞손",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=372",
     "category": "기관"
   },
   {
-    "title": "트럼프 행정부, 〃모든 합법적 사용〃 허용하는 정부 AI 계약 방침 마련",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207677",
+    "title": "과기정통부, 국산 지능형 폐쇄회로 텔레비전(AI CCTV) 핵심부품인 반도체 칩 국산화 지원한다!",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186991&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "개인정보위, AX 시대 대비 학계와 정책 간담회",
+    "link": "https://www.etnews.com/20260309000238",
+    "category": "기관"
+  },
+  {
+    "title": "[에듀플러스]최용석 한양대 교수 연구팀, 40억 규모 차세대 범용인공지능(AGI) 개발 국책과제 수주",
+    "link": "https://www.etnews.com/20260309000431",
+    "category": "기관"
+  },
+  {
+    "title": "질병청, AI 중장기 전략 담당 ＇질병관리인공지능담당관＇ 신설",
+    "link": "https://www.etnews.com/20260309000121",
+    "category": "기관"
+  },
+  {
+    "title": "한국피지컬AI협회, 수원시와 산업 생태계 조성·혁신 협력",
+    "link": "https://www.etnews.com/20260309000266",
+    "category": "기관"
+  },
+  {
+    "title": "교육부, AI 중점학교 본격 운영…2028년까지 2000개교 구축한다",
+    "link": "https://www.etnews.com/20260309000111",
+    "category": "기관"
+  },
+  {
+    "title": "미 국방부 차관 〃앤트로픽 CEO의 ＇전화하라＇는 말이 결정타〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207721",
     "category": "해외"
   },
   {
-    "title": "오픈AI 로보틱스 책임자, 미 국방부 계약에 반발해 사임",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207676",
+    "title": "〃오픈클로 탑재한 휴머노이드 로봇이 시공간 이해〃...＇스카이넷＇까지 거론",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207697",
     "category": "해외"
   },
   {
-    "title": "제미나이 이어 GPT도 ＇수능 만점＇...구유겸 학생 〃AI 발전 놀라워〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207681",
+    "title": "‘오픈클로 열풍’ 중국 강타…AI 에이전트 창업 붐·클라우드·제조업까지 확산",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207695",
+    "category": "해외"
+  },
+  {
+    "title": "[AI 리뷰] 구글, 인트린직 전격 인수... ‘피지컬 AI’ 및 로봇판 안드로이드 생태계 가속",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38965",
+    "category": "해외"
+  },
+  {
+    "title": "머스크 AI ＇그록＇, 종교·참사 비하 게시물 생성 논란",
+    "link": "https://www.etnews.com/20260309000006",
+    "category": "해외"
+  },
+  {
+    "title": "리퀴드 AI, 노트북에서 실행하는 오픈소스 로컬 에이전트 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207724",
+    "category": "해외"
+  },
+  {
+    "title": "클로드, 파이어폭스 브라우저에서 2주 만에 취약점 22개 발견",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207702",
+    "category": "해외"
+  },
+  {
+    "title": "[신간] “AI 시대, 인간을 다시 묻다”···＇알아차림＇",
+    "link": "https://www.etnews.com/20260309000197",
     "category": "기타"
-  },
-  {
-    "title": "국제공동 R&D 통해 제조업 AX전환 등 지원...총 2322억원, 산업기술국제협력사업 통합 시행계획 공고",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38953",
-    "category": "기관"
-  },
-  {
-    "title": "트럼프 대통령, ‘미국 사이버 전략’ 발표…〃인공지능·양자 기술로 디지털 안보 재편〃",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=38955",
-    "category": "해외"
-  },
-  {
-    "title": "정부24+에 ‘인공지능 검색’ 기능 도입",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260309/6/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=58nMzayxd3AtsOZ-YTraMscY96Tm1hPM9wcuGUsDNlq6NCaxmO-3!-1570157262",
-    "category": "기관"
-  },
-  {
-    "title": "인공지능 전환 전담 지원체계 본격 가동! 정부기관 대상 인공지능 전환 밀착 지원",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186985&searchOpt=ALL&searchTxt=",
-    "category": "기관"
   }
 ]
