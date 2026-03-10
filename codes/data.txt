@@ -5,8 +5,11 @@
 ◾ [ET단상] 국방인공지능법 입법 골든타임, NIST AI RMF가 해법이다
 https://www.etnews.com/20260310000065
 
-◾ 중동 상황 허위정보 유입 감시
-https://kookbang.dema.mil.kr/newsWeb/20260311/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=Ig_XJjR862ythP_6PgLC7wB38tdUY1PAzGZVNG3aY1OJqWiZ4IdZ!403047716
+◾ ＇AI 경호 시대＇ 열렸다…대통령경호처, 특화 인공지능 가동
+https://www.etnews.com/20260310000044
+
+◾ “국가 안보 직결…국방반도체 자립은 필수”
+https://kookbang.dema.mil.kr/newsWeb/20260311/2/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Ig_XJjR862ythP_6PgLC7wB38tdUY1PAzGZVNG3aY1OJqWiZ4IdZ!403047716
 
 ◾ 미래전에 대한 사고의 전환 -‘넥스트 워’를 읽고
 https://kookbang.dema.mil.kr/newsWeb/20260311/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=Ig_XJjR862ythP_6PgLC7wB38tdUY1PAzGZVNG3aY1OJqWiZ4IdZ!403047716
@@ -18,14 +21,17 @@ https://www.etnews.com/20260310000425
 ◾ 삼성 HBM4 첫 출하에 구글이 움직였다…매출처 지각변동
 https://www.etnews.com/20260310000406
 
-◾ [AI와 디지털전환] AI 에이전트 시대, 줄여야 산다
-https://www.etnews.com/20260310000121
-
 ◾ 휴머노이드 핵심은 ＇손＇…삼성, 특화 개발 조직 신설
 https://www.etnews.com/20260310000243
 
 ◾ 네이버 D2SF, 카멜레온·애니웨어 로보틱스에 신규 투자…“피지컬 AI 투자 이어갈 것”
 https://www.etnews.com/20260310000291
+
+◾ LGU+, AI 서비스에 동형암호 적용한다…“복호화 없어 해킹에도 안전”
+https://www.etnews.com/20260309000444
+
+◾ 신재민 트릴리온랩스 대표 〃진짜 ＇소버린 AI＇ 입증..특화 모델로 도약〃
+https://www.aitimes.com/news/articleView.html?idxno=207647
 
 ◾ LG CNS, 피지컬 AI 상용화 박차...美 휴머노이드 로봇 기업 ＇덱스메이트＇에 전략적 투자
 https://www.aitimes.kr/news/articleView.html?idxno=38981
@@ -34,8 +40,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=38981
 ◾ 서울시, 올해 CCTV 절반 지능형으로 전환한다
 https://www.etnews.com/20260310000278
 
-◾ ＇AI 경호 시대＇ 열렸다…대통령경호처, 특화 인공지능 가동
-https://www.etnews.com/20260310000044
+◾ 韓, UN 인공지능(AI)허브 유치 TF 가동…범정부 유치전 돌입
+https://www.etnews.com/20260310000268
 
 ◾ 국가AI전략위, 국회·공학한림원과 AI 인재양성 협력 모색
 https://www.etnews.com/20260310000005
@@ -43,27 +49,24 @@ https://www.etnews.com/20260310000005
 ◾ 로봇이 일하는 경기…김동연 경기지사, 피지컬 AI 대전략
 https://www.etnews.com/20260310000463
 
-◾ 네이버·카카오, 행안부와 ‘AI 국민비서 시범 서비스’ 출시
-https://www.aitimes.com/news/articleView.html?idxno=207747
+◾ 〃이제는 대화로 행정서비스 끝〃...AI 국민비서, 민간과 손잡고 첫 출발
+https://www.aitimes.kr/news/articleView.html?idxno=38986
 
-◾ “딥페이크 선거 가짜뉴스, 이번엔 못 속인다”… 행안부·국과수, 더 진화한 탐지기술로 지방선거 방어
-https://www.aitimes.kr/news/articleView.html?idxno=38993
+◾ “로봇이 손끝 감각까지 배운다”…GIST 이규빈 교수팀, 힘 감각까지 학습하는 AI 모델 개발
+https://www.aitimes.kr/news/articleView.html?idxno=38974
 
 ◾ 국가 인공지능 컴퓨팅 센터 구축 사업, 우선협상대상자로 삼성SDS 연합체(컨소시엄) 선정
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186996&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 마이크로소프트, ＇MS365＇에 앤트로픽 AI 에이전트 탑재
-https://www.etnews.com/20260310000004
-
 ◾ 앤트로픽, 美 국방부에 ＇AI 모델 공급망 위험 취소＇ 소송
 https://www.etnews.com/20260310000001
 
-◾ 오픈AI, 에이전트 보안 강화 위해 스타트업 인수 예정
-https://www.aitimes.com/news/articleView.html?idxno=207745
-
 ◾ 엔비디아-ABB, AI 자율 로봇 개발을 위한 파트너십 체결
 https://www.aitimes.com/news/articleView.html?idxno=207758
+
+◾ MS, 앤트로픽과 손잡고 에이전트 승부수... ＇코파일럿 코워크＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=207737
 
 ◾ [3월9일] AI와 드론이 바꾼 이란 전쟁...〃미래의 전장은 더 빠르고 저렴하게〃
 https://www.aitimes.com/news/articleView.html?idxno=207698
@@ -73,6 +76,9 @@ https://www.aitimes.kr/news/articleView.html?idxno=38991
 
 ◾ [AI 리뷰] BMW, 독일 공장에 휴머노이드 로봇 투입… 유럽 최초, 자동차 생산에 ‘피지컬 AI’ 첫 적용
 https://www.aitimes.kr/news/articleView.html?idxno=38996
+
+◾ AI 보안 기술 확보 나선 ＇오픈AI＇, 인공지능 보안 스타트업 프롬프트푸 인수
+https://www.aitimes.kr/news/articleView.html?idxno=38992
 
 📚 간행물
 ◾ 기업 LLM 도입ㆍ운영을 위한 추론 최적화 기술 동향 [주간기술동향 2206호]
