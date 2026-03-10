@@ -1,91 +1,85 @@
-📢26.03.10 AI 일일 동향📢
+📢26.03.11 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 국방·안보 특화 논산 캠퍼스서 군 미래를 준비하다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47988&startDate=&endDate=&id=mnd_020101000000
+◾ [ET단상] 국방인공지능법 입법 골든타임, NIST AI RMF가 해법이다
+https://www.etnews.com/20260310000065
 
-◾ AI 기술과제 개발 군·산·학 협력센터 5개 지역 설치
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47990&startDate=&endDate=&id=mnd_020101000000
+◾ 중동 상황 허위정보 유입 감시
+https://kookbang.dema.mil.kr/newsWeb/20260311/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=Ig_XJjR862ythP_6PgLC7wB38tdUY1PAzGZVNG3aY1OJqWiZ4IdZ!403047716
 
-◾ [전북대 장원준 교수] AI·첨단기술 기반 ‘스마트 강군’ 육성을 위한 정책 과제
-https://kookbang.dema.mil.kr/newsWeb/20260309/3/ATCE_CTGR_0020040016/view.do;JSESSIONID_kookbnagWEB=QUjSCfx9cajLNQvzzMubFOGdWU2fTp0zLncvNHHtnfWzBtD_BN4b!-1570157262
-
-◾ 중동 충돌이 드러낸 ‘AI 참모’의 시대
-https://kookbang.dema.mil.kr/newsWeb/20260310/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=QUjSCfx9cajLNQvzzMubFOGdWU2fTp0zLncvNHHtnfWzBtD_BN4b!-1570157262
-
-◾ 국방 연구개발을 이끌 최정예 과학기술 인재 과학기술전문사관 제2기 석사 후보생 25명 모집
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186989&searchOpt=ALL&searchTxt=
+◾ 미래전에 대한 사고의 전환 -‘넥스트 워’를 읽고
+https://kookbang.dema.mil.kr/newsWeb/20260311/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=Ig_XJjR862ythP_6PgLC7wB38tdUY1PAzGZVNG3aY1OJqWiZ4IdZ!403047716
 
 [민간]
-◾ 로봇 임무 처리 등 원천기술 확보로 ＇피지컬 AI 초격차＇ 시동
-https://www.etnews.com/20260309000279
+◾ SK이노베이션, SK하이닉스 ＇AI 컴퍼니＇에 5000억원대 투자
+https://www.etnews.com/20260310000425
 
-◾ AI 팹리스 4사, 인력 확충 ＇사활＇…2세대 칩 전면전
-https://www.etnews.com/20260309000080
+◾ 삼성 HBM4 첫 출하에 구글이 움직였다…매출처 지각변동
+https://www.etnews.com/20260310000406
 
-◾ 네이버, 검색 점유율 8년 만에 최고…AI시대 검색 다변화는 숙제
-https://www.etnews.com/20260309000315
+◾ [AI와 디지털전환] AI 에이전트 시대, 줄여야 산다
+https://www.etnews.com/20260310000121
 
-◾ 삼성SDI, 피지컬 AI용 전고체 배터리 최초 공개
-https://www.etnews.com/20260309000133
+◾ 휴머노이드 핵심은 ＇손＇…삼성, 특화 개발 조직 신설
+https://www.etnews.com/20260310000243
 
-◾ 카카오, AI 협력 프로그램 ＇카나나 스칼라＇ 출범…학계와 AI 발전 방향 모색
-https://www.etnews.com/20260309000098
+◾ 네이버 D2SF, 카멜레온·애니웨어 로보틱스에 신규 투자…“피지컬 AI 투자 이어갈 것”
+https://www.etnews.com/20260310000291
 
-◾ 인핸스, 알파고 넘는 ＇AI OS＇ 공개...〃상용화는 아직〃
-https://www.aitimes.com/news/articleView.html?idxno=207719
-
-◾ 유비케어, ＇GC메디아이＇로 사명 변경… AI 기반 ＇메디컬 OS＇ 도약
-https://www.etnews.com/20260309000396
+◾ LG CNS, 피지컬 AI 상용화 박차...美 휴머노이드 로봇 기업 ＇덱스메이트＇에 전략적 투자
+https://www.aitimes.kr/news/articleView.html?idxno=38981
 
 [기관]
-◾ “AI 경쟁의 핵심은 인재”…국가AI전략위·국회·공학한림원, 대한민국 AI 인재 확보 위해 맞손
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=372
+◾ 서울시, 올해 CCTV 절반 지능형으로 전환한다
+https://www.etnews.com/20260310000278
 
-◾ 과기정통부, 국산 지능형 폐쇄회로 텔레비전(AI CCTV) 핵심부품인 반도체 칩 국산화 지원한다!
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186991&searchOpt=ALL&searchTxt=
+◾ ＇AI 경호 시대＇ 열렸다…대통령경호처, 특화 인공지능 가동
+https://www.etnews.com/20260310000044
 
-◾ 개인정보위, AX 시대 대비 학계와 정책 간담회
-https://www.etnews.com/20260309000238
+◾ 국가AI전략위, 국회·공학한림원과 AI 인재양성 협력 모색
+https://www.etnews.com/20260310000005
 
-◾ [에듀플러스]최용석 한양대 교수 연구팀, 40억 규모 차세대 범용인공지능(AGI) 개발 국책과제 수주
-https://www.etnews.com/20260309000431
+◾ 로봇이 일하는 경기…김동연 경기지사, 피지컬 AI 대전략
+https://www.etnews.com/20260310000463
 
-◾ 질병청, AI 중장기 전략 담당 ＇질병관리인공지능담당관＇ 신설
-https://www.etnews.com/20260309000121
+◾ 네이버·카카오, 행안부와 ‘AI 국민비서 시범 서비스’ 출시
+https://www.aitimes.com/news/articleView.html?idxno=207747
 
-◾ 한국피지컬AI협회, 수원시와 산업 생태계 조성·혁신 협력
-https://www.etnews.com/20260309000266
+◾ “딥페이크 선거 가짜뉴스, 이번엔 못 속인다”… 행안부·국과수, 더 진화한 탐지기술로 지방선거 방어
+https://www.aitimes.kr/news/articleView.html?idxno=38993
 
-◾ 교육부, AI 중점학교 본격 운영…2028년까지 2000개교 구축한다
-https://www.etnews.com/20260309000111
+◾ 국가 인공지능 컴퓨팅 센터 구축 사업, 우선협상대상자로 삼성SDS 연합체(컨소시엄) 선정
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186996&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 미 국방부 차관 〃앤트로픽 CEO의 ＇전화하라＇는 말이 결정타〃
-https://www.aitimes.com/news/articleView.html?idxno=207721
+◾ 마이크로소프트, ＇MS365＇에 앤트로픽 AI 에이전트 탑재
+https://www.etnews.com/20260310000004
 
-◾ 〃오픈클로 탑재한 휴머노이드 로봇이 시공간 이해〃...＇스카이넷＇까지 거론
-https://www.aitimes.com/news/articleView.html?idxno=207697
+◾ 앤트로픽, 美 국방부에 ＇AI 모델 공급망 위험 취소＇ 소송
+https://www.etnews.com/20260310000001
 
-◾ ‘오픈클로 열풍’ 중국 강타…AI 에이전트 창업 붐·클라우드·제조업까지 확산
-https://www.aitimes.com/news/articleView.html?idxno=207695
+◾ 오픈AI, 에이전트 보안 강화 위해 스타트업 인수 예정
+https://www.aitimes.com/news/articleView.html?idxno=207745
 
-◾ [AI 리뷰] 구글, 인트린직 전격 인수... ‘피지컬 AI’ 및 로봇판 안드로이드 생태계 가속
-https://www.aitimes.kr/news/articleView.html?idxno=38965
+◾ 엔비디아-ABB, AI 자율 로봇 개발을 위한 파트너십 체결
+https://www.aitimes.com/news/articleView.html?idxno=207758
 
-◾ 머스크 AI ＇그록＇, 종교·참사 비하 게시물 생성 논란
-https://www.etnews.com/20260309000006
+◾ [3월9일] AI와 드론이 바꾼 이란 전쟁...〃미래의 전장은 더 빠르고 저렴하게〃
+https://www.aitimes.com/news/articleView.html?idxno=207698
 
-◾ 리퀴드 AI, 노트북에서 실행하는 오픈소스 로컬 에이전트 공개
-https://www.aitimes.com/news/articleView.html?idxno=207724
+◾ 美 방산 플랫폼 ＇모빅스랩스＇, “AI 드론으로 숨겨진 위협 실시간 탐지”… 국방·인프라 감시 플랫폼 개발
+https://www.aitimes.kr/news/articleView.html?idxno=38991
 
-◾ 클로드, 파이어폭스 브라우저에서 2주 만에 취약점 22개 발견
-https://www.aitimes.com/news/articleView.html?idxno=207702
+◾ [AI 리뷰] BMW, 독일 공장에 휴머노이드 로봇 투입… 유럽 최초, 자동차 생산에 ‘피지컬 AI’ 첫 적용
+https://www.aitimes.kr/news/articleView.html?idxno=38996
 
-[기타]
-◾ [신간] “AI 시대, 인간을 다시 묻다”···＇알아차림＇
-https://www.etnews.com/20260309000197
+📚 간행물
+◾ 기업 LLM 도입ㆍ운영을 위한 추론 최적화 기술 동향 [주간기술동향 2206호]
+https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1391&cpage=1&rows=10&searchTarget=all
+
+◾ 서비스업에서 커지는 대·중소기업간 AX·DX 양극화 심화, 어떻게 대응할까?
+https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=61&cateCont=A0513&cbIdx=0&searchKey=
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
