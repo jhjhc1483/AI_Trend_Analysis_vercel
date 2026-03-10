@@ -726,5 +726,53 @@
         "년": "2026",
         "월": "03",
         "일": "06"
+    },
+    {
+        "제목": "(2025년 12월 말 기준) 유·무선통신서비스 가입 현황 및 무선데이터 트래픽 통계",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260310-000002&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "02",
+        "일": "20"
+    },
+    {
+        "제목": "2025년 국가연구개발사업 조사·분석 보고서",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260310-000003&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "02",
+        "일": "08"
+    },
+    {
+        "제목": "2026년 1월 ICT기업경기조사 보고서",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260310-000007&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "01",
+        "일": "31"
+    },
+    {
+        "제목": "2025년 11월 ICT 주요품목동향조사 보고서",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260310-000005&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "01",
+        "일": "30"
+    },
+    {
+        "제목": "2024년도 기술무역통계 보고서",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260310-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "01",
+        "일": "30"
+    },
+    {
+        "제목": "기업 LLM 도입ㆍ운영을 위한 추론 최적화 기술 동향 [주간기술동향 2206호]",
+        "분류": "주간기술동향",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1391&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "03",
+        "일": "10"
     }
 ]
