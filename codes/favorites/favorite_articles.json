@@ -1,40 +1,5 @@
 [
   {
-    "title": "4대 과기원 중심 ＇지역 AX 혁신 생태계＇ 구축…AI 인재·산업 동시 육성",
-    "link": "https://www.etnews.com/20260311000103",
-    "category": "기관"
-  },
-  {
-    "title": "국민 모두 AI를 한글·산수처럼…＇AI 활용 일상화＇ 정책 본격화",
-    "link": "https://www.etnews.com/20260311000257",
-    "category": "기관"
-  },
-  {
-    "title": "KTC, 광주에 ＇피지컬AI팀＇ 신설… 신사업 전주기 지원",
-    "link": "https://www.etnews.com/20260311000385",
-    "category": "기관"
-  },
-  {
-    "title": "[단독]AI가 직접 결제한다…＇에이전트 카드＇ 등장",
-    "link": "https://www.etnews.com/20260311000344",
-    "category": "민간"
-  },
-  {
-    "title": "SK텔레콤, 지난해 해킹에 R&D ＇주춤＇…올해는 AI 전폭 투자",
-    "link": "https://www.etnews.com/20260311000332",
-    "category": "민간"
-  },
-  {
-    "title": "메타, AI 전용 커뮤니티 ＇몰트북＇ 인수…AI 에이전트 기술 확보 속도",
-    "link": "https://www.etnews.com/20260311000301",
-    "category": "민간"
-  },
-  {
-    "title": "어도비, 포토샵 ＇AI 어시스턴트＇ 탑재…말로 이미지 편집",
-    "link": "https://www.etnews.com/20260311000245",
-    "category": "민간"
-  },
-  {
     "title": "[2026 국방 AI Transformation 전략 좌담회]",
     "link": "https://www.etnews.com/20260311000242",
     "category": "국방"
@@ -50,14 +15,9 @@
     "category": "국방"
   },
   {
-    "title": "[알림] “GPU 수급난·AI 인프라 비용 폭증 해법 찾는다”…＇AI 인프라 최적화 솔루션 콘퍼런스＇ 25일 개최",
-    "link": "https://www.etnews.com/20260311000121",
-    "category": "민간"
-  },
-  {
-    "title": "행안부, 국과수와 ＇AI 딥페이크 탐지 분석모델＇ 개발…정확도 약 92%",
-    "link": "https://www.etnews.com/20260311000062",
-    "category": "기관"
+    "title": "“국가 안보 직결…국방반도체 자립은 필수”",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48034&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
   },
   {
     "title": "“AI G3 도약은 천하삼분지계”… 정부, ＇대한민국 AI 행동 계획＇ 본격 가동",
@@ -65,9 +25,69 @@
     "category": "기관"
   },
   {
-    "title": "오라클, 3분기 매출 전년 比 22% 증가…클라우드 성장 영향",
-    "link": "https://www.etnews.com/20260311000034",
-    "category": "해외"
+    "title": "인공지능(AI)으로 농사는 더 쉽게, 수급은 더 안정적으로, 농촌은 더 편리하게",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186997&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "과기정통부, IRIS에 AI기반 연구행정 본격 추진",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187006&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "[보도참고] 지역 AX 혁신 생태계 조성, 4대 과기원이 선도한다",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187003&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "전국민 AI 활용역량 강화, K-문샷 미션 확정으로대한민국 AX･전략기술 육성 가속화",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187000&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "AI 시대 과학기술 경쟁력 대도약, ‘K-문샷’ 민관 원팀 본격 가동",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186999&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "행안부, 국과수와 ＇AI 딥페이크 탐지 분석모델＇ 개발…정확도 약 92%",
+    "link": "https://www.etnews.com/20260311000062",
+    "category": "기관"
+  },
+  {
+    "title": "[단독]AI가 직접 결제한다…＇에이전트 카드＇ 등장",
+    "link": "https://www.etnews.com/20260311000344",
+    "category": "민간"
+  },
+  {
+    "title": "SK텔레콤, 지난해 해킹에 R&D ＇주춤＇…올해는 AI 전폭 투자",
+    "link": "https://www.etnews.com/20260311000332",
+    "category": "민간"
+  },
+  {
+    "title": "두산, 글로벌 AI 스타트업 ＇AMI랩＇에 580만 유로 투자",
+    "link": "https://www.etnews.com/20260311000228",
+    "category": "민간"
+  },
+  {
+    "title": "굳갱랩스, 음성 인식 기반 ＇AI 아바타 민원도우미＇ 밀양서 시범 운영",
+    "link": "https://www.etnews.com/20260311000439",
+    "category": "민간"
+  },
+  {
+    "title": "이노그리드, 제조 대기업 AI 인프라 구축 본격화…레퍼런스 확보 박차",
+    "link": "https://www.etnews.com/20260311000300",
+    "category": "민간"
+  },
+  {
+    "title": "이모션웨이브, 삼성증권과 IPO 주관 계약 체결… 2027년 코스닥 상장 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207792",
+    "category": "민간"
+  },
+  {
+    "title": "LS머트리얼즈, AI 데이터센터용 장수명·고출력 UC 신제품 공개",
+    "link": "https://www.etnews.com/20260311000075",
+    "category": "민간"
   },
   {
     "title": "엔비디아, 기업용 오픈소스 에이전트 플랫폼 ‘네모클로’ 출시 계획",
@@ -80,38 +100,33 @@
     "category": "해외"
   },
   {
-    "title": "로다 AI, 6600억 투자 유치...〃인터넷 동영상으로 로봇 학습〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207793",
+    "title": "앤트로픽 〃국방부 블랙리스트 지정으로 수십억달러 매출 손실 우려〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207784",
     "category": "해외"
   },
   {
-    "title": "아마존, AI 인프라 위해 54조 채권 발행...‘185조’ 역대급 주문 폭주",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207790",
+    "title": "어도비, 포토샵 ＇AI 어시스턴트＇ 탑재…말로 이미지 편집",
+    "link": "https://www.etnews.com/20260311000245",
     "category": "해외"
   },
   {
-    "title": "농림부 “농업 특화 AI 파운데이션 모델 구축해 농촌 AX 지원”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207753",
-    "category": "기관"
-  },
-  {
-    "title": "MS, 법원에 미 국방부의 앤트로픽 블랙리스트 조치 일시 중단 요청",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207783",
+    "title": "메타, AI 전용 커뮤니티 ＇몰트북＇ 인수…AI 에이전트 기술 확보 속도",
+    "link": "https://www.etnews.com/20260311000301",
     "category": "해외"
   },
   {
-    "title": "SK하이닉스, 어플라이드∙마이크론과 차세대 D램∙HBM 개발 협력",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207774",
-    "category": "민간"
+    "title": "바이트댄스, 오픈소스 에이전트 도구 ＇디어플로우 2.0＇ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207781",
+    "category": "해외"
   },
   {
-    "title": "“국가 안보 직결…국방반도체 자립은 필수”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48034&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
+    "title": "TI, AI 연산 가능한 MCU 포트폴리오 확대…＇엣지 AI 전방위 지원＇",
+    "link": "https://www.etnews.com/20260311000280",
+    "category": "해외"
   },
   {
-    "title": "과기정통부, IRIS에 AI기반 연구행정 본격 추진",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187006&searchOpt=ALL&searchTxt=",
-    "category": "기관"
+    "title": "초파리 뇌를 컴퓨터에 복제…몸 움직임 구현",
+    "link": "https://www.etnews.com/20260310000200",
+    "category": "기타"
   }
 ]
