@@ -21,58 +21,68 @@ https://www.etnews.com/20260311000344
 ◾ SK텔레콤, 지난해 해킹에 R&D ＇주춤＇…올해는 AI 전폭 투자
 https://www.etnews.com/20260311000332
 
-◾ 메타, AI 전용 커뮤니티 ＇몰트북＇ 인수…AI 에이전트 기술 확보 속도
-https://www.etnews.com/20260311000301
+◾ 두산, 글로벌 AI 스타트업 ＇AMI랩＇에 580만 유로 투자
+https://www.etnews.com/20260311000228
 
-◾ 어도비, 포토샵 ＇AI 어시스턴트＇ 탑재…말로 이미지 편집
-https://www.etnews.com/20260311000245
+◾ 굳갱랩스, 음성 인식 기반 ＇AI 아바타 민원도우미＇ 밀양서 시범 운영
+https://www.etnews.com/20260311000439
 
-◾ [알림] “GPU 수급난·AI 인프라 비용 폭증 해법 찾는다”…＇AI 인프라 최적화 솔루션 콘퍼런스＇ 25일 개최
-https://www.etnews.com/20260311000121
+◾ 이노그리드, 제조 대기업 AI 인프라 구축 본격화…레퍼런스 확보 박차
+https://www.etnews.com/20260311000300
 
-◾ SK하이닉스, 어플라이드∙마이크론과 차세대 D램∙HBM 개발 협력
-https://www.aitimes.com/news/articleView.html?idxno=207774
+◾ 이모션웨이브, 삼성증권과 IPO 주관 계약 체결… 2027년 코스닥 상장 추진
+https://www.aitimes.com/news/articleView.html?idxno=207792
+
+◾ LS머트리얼즈, AI 데이터센터용 장수명·고출력 UC 신제품 공개
+https://www.etnews.com/20260311000075
 
 [기관]
-◾ 4대 과기원 중심 ＇지역 AX 혁신 생태계＇ 구축…AI 인재·산업 동시 육성
-https://www.etnews.com/20260311000103
-
-◾ 국민 모두 AI를 한글·산수처럼…＇AI 활용 일상화＇ 정책 본격화
-https://www.etnews.com/20260311000257
-
-◾ KTC, 광주에 ＇피지컬AI팀＇ 신설… 신사업 전주기 지원
-https://www.etnews.com/20260311000385
-
-◾ 행안부, 국과수와 ＇AI 딥페이크 탐지 분석모델＇ 개발…정확도 약 92%
-https://www.etnews.com/20260311000062
-
 ◾ “AI G3 도약은 천하삼분지계”… 정부, ＇대한민국 AI 행동 계획＇ 본격 가동
 https://www.etnews.com/20260311000059
 
-◾ 농림부 “농업 특화 AI 파운데이션 모델 구축해 농촌 AX 지원”
-https://www.aitimes.com/news/articleView.html?idxno=207753
+◾ 인공지능(AI)으로 농사는 더 쉽게, 수급은 더 안정적으로, 농촌은 더 편리하게
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186997&searchOpt=ALL&searchTxt=
 
 ◾ 과기정통부, IRIS에 AI기반 연구행정 본격 추진
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187006&searchOpt=ALL&searchTxt=
 
-[해외]
-◾ 오라클, 3분기 매출 전년 比 22% 증가…클라우드 성장 영향
-https://www.etnews.com/20260311000034
+◾ [보도참고] 지역 AX 혁신 생태계 조성, 4대 과기원이 선도한다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187003&searchOpt=ALL&searchTxt=
 
+◾ 전국민 AI 활용역량 강화, K-문샷 미션 확정으로대한민국 AX･전략기술 육성 가속화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187000&searchOpt=ALL&searchTxt=
+
+◾ AI 시대 과학기술 경쟁력 대도약, ‘K-문샷’ 민관 원팀 본격 가동
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186999&searchOpt=ALL&searchTxt=
+
+◾ 행안부, 국과수와 ＇AI 딥페이크 탐지 분석모델＇ 개발…정확도 약 92%
+https://www.etnews.com/20260311000062
+
+[해외]
 ◾ 엔비디아, 기업용 오픈소스 에이전트 플랫폼 ‘네모클로’ 출시 계획
 https://www.aitimes.com/news/articleView.html?idxno=207786
 
 ◾ 구글, 미 국방부에 ＇비기밀 행정용＇ AI 에이전트 제공
 https://www.aitimes.com/news/articleView.html?idxno=207785
 
-◾ 로다 AI, 6600억 투자 유치...〃인터넷 동영상으로 로봇 학습〃
-https://www.aitimes.com/news/articleView.html?idxno=207793
+◾ 앤트로픽 〃국방부 블랙리스트 지정으로 수십억달러 매출 손실 우려〃
+https://www.aitimes.com/news/articleView.html?idxno=207784
 
-◾ 아마존, AI 인프라 위해 54조 채권 발행...‘185조’ 역대급 주문 폭주
-https://www.aitimes.com/news/articleView.html?idxno=207790
+◾ 어도비, 포토샵 ＇AI 어시스턴트＇ 탑재…말로 이미지 편집
+https://www.etnews.com/20260311000245
 
-◾ MS, 법원에 미 국방부의 앤트로픽 블랙리스트 조치 일시 중단 요청
-https://www.aitimes.com/news/articleView.html?idxno=207783
+◾ 메타, AI 전용 커뮤니티 ＇몰트북＇ 인수…AI 에이전트 기술 확보 속도
+https://www.etnews.com/20260311000301
+
+◾ 바이트댄스, 오픈소스 에이전트 도구 ＇디어플로우 2.0＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=207781
+
+◾ TI, AI 연산 가능한 MCU 포트폴리오 확대…＇엣지 AI 전방위 지원＇
+https://www.etnews.com/20260311000280
+
+[기타]
+◾ 초파리 뇌를 컴퓨터에 복제…몸 움직임 구현
+https://www.etnews.com/20260310000200
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
