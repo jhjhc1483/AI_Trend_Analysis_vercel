@@ -1,88 +1,89 @@
-📢26.03.12 AI 일일 동향📢
+📢26.03.13 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ [2026 국방 AI Transformation 전략 좌담회]
-https://www.etnews.com/20260311000242
-
-◾ [AI·사이버융합 최고위 과정] 박영욱 국방기술학회 이사장 “국방 AI 시대, 군·민 잇는 독립 싱크탱크와 융합 인재가 핵심”
-https://www.etnews.com/20260311000238
-
-◾ [人사이트]임현 “드론은 공중 로봇 플랫폼…군집 비행 기술로 글로벌 도전”
-https://www.etnews.com/20260311000237
-
-◾ “국가 안보 직결…국방반도체 자립은 필수”
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48034&startDate=&endDate=&id=mnd_020101000000
+◾ 대전시, 첨단국방산업도시 조성 본격화…AI·첨단기술 혁신생태계 구축
+https://www.etnews.com/20260312000152
 
 [민간]
-◾ [단독]AI가 직접 결제한다…＇에이전트 카드＇ 등장
-https://www.etnews.com/20260311000344
+◾ [체험기] 택시·배달은 AI로, 통화는 더 또렷하게…갤럭시S26울트라·버즈4
+https://www.etnews.com/20260312000300
 
-◾ SK텔레콤, 지난해 해킹에 R&D ＇주춤＇…올해는 AI 전폭 투자
-https://www.etnews.com/20260311000332
+◾ 무신사, ＇택갈이＇ 부정행위 근절 나선다…AI 검수 시스템 도입
+https://www.etnews.com/20260312000273
 
-◾ 두산, 글로벌 AI 스타트업 ＇AMI랩＇에 580만 유로 투자
-https://www.etnews.com/20260311000228
+◾ 한컴, ＇오픈데이터로더 v2.0＇ 공개…무료 AI 애드온 4종 탑재
+https://www.etnews.com/20260312000074
 
-◾ 굳갱랩스, 음성 인식 기반 ＇AI 아바타 민원도우미＇ 밀양서 시범 운영
-https://www.etnews.com/20260311000439
+◾ LG CNS, 팔란티어와 파트너십…기업용 AI 플랫폼 시장 공략
+https://www.etnews.com/20260312000035
 
-◾ 이노그리드, 제조 대기업 AI 인프라 구축 본격화…레퍼런스 확보 박차
-https://www.etnews.com/20260311000300
+◾ 라인플러스, 영업·CS 특화 AI 에이전트 플랫폼 ‘액트엔진 AI’ 출시
+https://www.aitimes.com/news/articleView.html?idxno=207816
 
-◾ 이모션웨이브, 삼성증권과 IPO 주관 계약 체결… 2027년 코스닥 상장 추진
-https://www.aitimes.com/news/articleView.html?idxno=207792
+◾ S2W, 일본 정부기관에 AI 보안 솔루션 ＇퀘이사＇ 2년 연속 공급
+https://www.aitimes.com/news/articleView.html?idxno=207806
 
-◾ LS머트리얼즈, AI 데이터센터용 장수명·고출력 UC 신제품 공개
-https://www.etnews.com/20260311000075
+◾ 베슬AI, 리벨리온과 국산 NPU 기반 인프라 협력... 〃K-AI 풀스택으로 승부〃
+https://www.aitimes.com/news/articleView.html?idxno=207805
 
 [기관]
-◾ “AI G3 도약은 천하삼분지계”… 정부, ＇대한민국 AI 행동 계획＇ 본격 가동
-https://www.etnews.com/20260311000059
+◾ ＇블랙웰＇ 넘어 ＇베라루빈＇까지... 정부, 2조원 규모 GPU 인프라 강화사업 공고
+https://www.etnews.com/20260312000399
 
-◾ 인공지능(AI)으로 농사는 더 쉽게, 수급은 더 안정적으로, 농촌은 더 편리하게
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186997&searchOpt=ALL&searchTxt=
+◾ 과기정통부·산업부·중기부, AX 사업 통합 공고…25일 사업 설명회
+https://www.etnews.com/20260312000290
 
-◾ 과기정통부, IRIS에 AI기반 연구행정 본격 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187006&searchOpt=ALL&searchTxt=
+◾ 복잡한 심부름도 정확하게...ETRI, ＇계층적 AI 에이전트＇개발
+https://www.etnews.com/20260312000063
 
-◾ [보도참고] 지역 AX 혁신 생태계 조성, 4대 과기원이 선도한다
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187003&searchOpt=ALL&searchTxt=
+◾ UST 연구진, 피지컬 AI 안전 검증 모델 개발...＇사고 치는 AI 로봇 걸러내＇
+https://www.etnews.com/20260312000407
 
-◾ 전국민 AI 활용역량 강화, K-문샷 미션 확정으로대한민국 AX･전략기술 육성 가속화
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187000&searchOpt=ALL&searchTxt=
+◾ 과기부, AI 결합 ＇K-문샷＇ 프로젝트로 국가 8대 과제 해결 나선다
+https://www.aitimes.com/news/articleView.html?idxno=207796
 
-◾ AI 시대 과학기술 경쟁력 대도약, ‘K-문샷’ 민관 원팀 본격 가동
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186999&searchOpt=ALL&searchTxt=
+◾ 대한민국의 인공지능 영토를 넓힌다, “인공지능 고속도로 구축” 본격화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187015&searchOpt=ALL&searchTxt=
 
-◾ 행안부, 국과수와 ＇AI 딥페이크 탐지 분석모델＇ 개발…정확도 약 92%
-https://www.etnews.com/20260311000062
+◾ [보도참고] 전국민 누구나 AI를 한글·산수처럼 일상에서 잘 활용할 수 있도록 체계적 지원
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187010&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 엔비디아, 기업용 오픈소스 에이전트 플랫폼 ‘네모클로’ 출시 계획
-https://www.aitimes.com/news/articleView.html?idxno=207786
+◾ 퍼플렉시티, 화제의 에이전트 ＇컴퓨터＇ 개인·기업용으로 출시
+https://www.aitimes.com/news/articleView.html?idxno=207800
 
-◾ 구글, 미 국방부에 ＇비기밀 행정용＇ AI 에이전트 제공
-https://www.aitimes.com/news/articleView.html?idxno=207785
+◾ 구글, 이미지·영상·PDF까지 모두 처리하는 첫 ＇멀티모달 임베딩＇ 모델 출시
+https://www.aitimes.com/news/articleView.html?idxno=207811
 
-◾ 앤트로픽 〃국방부 블랙리스트 지정으로 수십억달러 매출 손실 우려〃
-https://www.aitimes.com/news/articleView.html?idxno=207784
+◾ 엔비디아, 멀티 에이전트 구동에 최적화된 ＇네모트론 3 슈퍼＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=207810
 
-◾ 어도비, 포토샵 ＇AI 어시스턴트＇ 탑재…말로 이미지 편집
-https://www.etnews.com/20260311000245
+◾ 오픈AI, 챗GPT 사용자 확보 위해 ＇소라＇ 통합 계획...무료 제공은 〃글쎄〃
+https://www.aitimes.com/news/articleView.html?idxno=207797
 
-◾ 메타, AI 전용 커뮤니티 ＇몰트북＇ 인수…AI 에이전트 기술 확보 속도
-https://www.etnews.com/20260311000301
+◾ 미 국방부, 앤트로픽 AI 사용 금지 ‘예외’ 허용…〃기술 제거 쉽지 않아〃
+https://www.aitimes.com/news/articleView.html?idxno=207822
 
-◾ 바이트댄스, 오픈소스 에이전트 도구 ＇디어플로우 2.0＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=207781
+◾ 중국, 정부·국영 기업의 ＇오픈클로＇ 사용 제한...〃정보 유출 우려〃
+https://www.aitimes.com/news/articleView.html?idxno=207804
 
-◾ TI, AI 연산 가능한 MCU 포트폴리오 확대…＇엣지 AI 전방위 지원＇
-https://www.etnews.com/20260311000280
+◾ 메타, 엔비디아-AMD 칩 확보 이어 자체 추론 전용 칩까지 제작
+https://www.aitimes.com/news/articleView.html?idxno=207803
 
 [기타]
-◾ 초파리 뇌를 컴퓨터에 복제…몸 움직임 구현
-https://www.etnews.com/20260310000200
+◾ [박용후의 ＇싹수있수다＇] AI 반도체의 승부처, ＇연산 속도＇에서 ＇연결 속도＇로
+https://www.etnews.com/20260312000161
+
+📚 간행물
+◾ AI수익화, AI코딩, AI반도체 수출허가제, 앤트로픽 [AI·ICT Brief 2026-09호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260312-000001&cpage=1&rows=10&searchTarget=all
+
+◾ 이공계 대학원생 규모의 새로운 전망과 시사점
+https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=62&cateCont=A0513&cbIdx=0&searchKey=
+
+◾ 2025년 정책연구용역 보고서
+https://www.nipa.kr/home/2-7-1-1/16558
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
