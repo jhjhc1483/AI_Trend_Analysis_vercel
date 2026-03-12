@@ -9,36 +9,24 @@ https://www.etnews.com/20260312000152
 ◾ [체험기] 택시·배달은 AI로, 통화는 더 또렷하게…갤럭시S26울트라·버즈4
 https://www.etnews.com/20260312000300
 
-◾ 무신사, ＇택갈이＇ 부정행위 근절 나선다…AI 검수 시스템 도입
-https://www.etnews.com/20260312000273
+◾ S2W, 日 정부기관과 ＇퀘이사＇ 재계약…규모 3.5배↑
+https://www.etnews.com/20260312000188
 
-◾ 한컴, ＇오픈데이터로더 v2.0＇ 공개…무료 AI 애드온 4종 탑재
-https://www.etnews.com/20260312000074
+◾ 라인플러스, 韓 B2B 시장 진출…플랫폼 ＇액트엔진 AI＇ 공개
+https://www.etnews.com/20260312000065
 
 ◾ LG CNS, 팔란티어와 파트너십…기업용 AI 플랫폼 시장 공략
 https://www.etnews.com/20260312000035
-
-◾ 라인플러스, 영업·CS 특화 AI 에이전트 플랫폼 ‘액트엔진 AI’ 출시
-https://www.aitimes.com/news/articleView.html?idxno=207816
-
-◾ S2W, 일본 정부기관에 AI 보안 솔루션 ＇퀘이사＇ 2년 연속 공급
-https://www.aitimes.com/news/articleView.html?idxno=207806
 
 ◾ 베슬AI, 리벨리온과 국산 NPU 기반 인프라 협력... 〃K-AI 풀스택으로 승부〃
 https://www.aitimes.com/news/articleView.html?idxno=207805
 
 [기관]
-◾ ＇블랙웰＇ 넘어 ＇베라루빈＇까지... 정부, 2조원 규모 GPU 인프라 강화사업 공고
-https://www.etnews.com/20260312000399
+◾ AI·첨단기술 집중 투자…정부, 2027년 국가R&D 투자 방향 확정
+https://www.etnews.com/20260312000145
 
-◾ 과기정통부·산업부·중기부, AX 사업 통합 공고…25일 사업 설명회
-https://www.etnews.com/20260312000290
-
-◾ 복잡한 심부름도 정확하게...ETRI, ＇계층적 AI 에이전트＇개발
-https://www.etnews.com/20260312000063
-
-◾ UST 연구진, 피지컬 AI 안전 검증 모델 개발...＇사고 치는 AI 로봇 걸러내＇
-https://www.etnews.com/20260312000407
+◾ 중진공, ＇AX 3개년 계획＇ 확정…AI 매칭·지능형 서비스 등 27개 과제 추진
+https://www.etnews.com/20260312000081
 
 ◾ 과기부, AI 결합 ＇K-문샷＇ 프로젝트로 국가 8대 과제 해결 나선다
 https://www.aitimes.com/news/articleView.html?idxno=207796
@@ -46,18 +34,24 @@ https://www.aitimes.com/news/articleView.html?idxno=207796
 ◾ 대한민국의 인공지능 영토를 넓힌다, “인공지능 고속도로 구축” 본격화
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187015&searchOpt=ALL&searchTxt=
 
+◾ 과기정통-산업-중기부, AX 사업 통합 공고를 통해 기업의 사업 편의를 제고한다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187011&searchOpt=ALL&searchTxt=
+
+◾ 2026년 2월 정보통신산업(ICT) 수출입 동향
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187005&searchOpt=ALL&searchTxt=
+
 ◾ [보도참고] 전국민 누구나 AI를 한글·산수처럼 일상에서 잘 활용할 수 있도록 체계적 지원
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187010&searchOpt=ALL&searchTxt=
 
 [해외]
+◾ 구글, 클라우드·AI 보안업체 ＇위즈＇ 인수 완료
+https://www.etnews.com/20260312000162
+
 ◾ 퍼플렉시티, 화제의 에이전트 ＇컴퓨터＇ 개인·기업용으로 출시
 https://www.aitimes.com/news/articleView.html?idxno=207800
 
 ◾ 구글, 이미지·영상·PDF까지 모두 처리하는 첫 ＇멀티모달 임베딩＇ 모델 출시
 https://www.aitimes.com/news/articleView.html?idxno=207811
-
-◾ 엔비디아, 멀티 에이전트 구동에 최적화된 ＇네모트론 3 슈퍼＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=207810
 
 ◾ 오픈AI, 챗GPT 사용자 확보 위해 ＇소라＇ 통합 계획...무료 제공은 〃글쎄〃
 https://www.aitimes.com/news/articleView.html?idxno=207797
