@@ -1,113 +1,57 @@
-📢26.03.14 AI 일일 동향📢
+📢26.03.15 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 네이버클라우드, 코난테크놀로지와 맞손…국방·제조 특화 AI 협력 추진
-https://www.etnews.com/20260313000258
-
-◾ [ET특징주] 크래프톤, 한화에어로와 ＇피지컬 AI＇ 협업 소식에… 주가 9%↑
-https://www.etnews.com/20260313000131
-
-◾ 한화에어로스페이스, 크래프톤과 JV 설립…피지컬 AI 협력
-https://www.etnews.com/20260313000086
-
-◾ DH그룹, 전북에 1500억 투자…피지컬AI·방산·수소 복합 제조기지 조성
-https://www.etnews.com/20260313000065
-
-◾ 네이버클라우드-코난, 인프라·AI 결합해 국방·제조 특화 LLM 개발 나서
-https://www.aitimes.com/news/articleView.html?idxno=207843
-
 [민간]
-◾ [HIMSS 2026]애플 부사장 “AI가 예방의료 앞당긴다…애플 생태계 의료 플랫폼으로 진화”
-https://www.etnews.com/20260313000005
+◾ 기업 AI 성숙도 따라 투자 방향 달라…“생산성보다 혁신 중요”
+https://www.etnews.com/20260313000196
 
-◾ NC AI, 게임 제작부터 글로벌 진출까지 ＇바르코 AI＇로 지원
-https://www.etnews.com/20260313000237
+◾ IT서비스 3사, 상반기 대규모 채용…AI·클라우드 경쟁력 강화
+https://www.etnews.com/20260313000070
 
-◾ 카카오모빌리티, “피지컬 AI 기반 기술 기업으로 도약할 것”
-https://www.etnews.com/20260313000160
+◾ [게시판] 셀렉트스타, GSMA ‘오픈 텔코 AI’ 파트너사 합류 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=207863
 
-◾ 래블업, GTC서 업스테이지 모델 분산학습 지원 노하우 공개
-https://www.aitimes.com/news/articleView.html?idxno=207848
+◾ 극장 상영 AI 영화 ‘알렉산더 프로젝트’...〃5인 협업으로 작품성에 초점〃
+https://www.aitimes.com/news/articleView.html?idxno=207766
 
-◾ 무하유, ＇카피킬러＇ 이원화...〃논문 표절 대비 AI 생성 검사 수요 급증〃
-https://www.aitimes.com/news/articleView.html?idxno=207851
+◾ 이수지 디플리 대표 〃사람 귀로 잡지 못하는 부품 불량, 음향 AI로 판별〃
+https://www.aitimes.com/news/articleView.html?idxno=207751
 
-◾ 트위니, 204억 시리즈 C 투자 유치…”로봇 기술성·사업성 모두 잡이”
-https://www.aitimes.com/news/articleView.html?idxno=207852
-
-◾ 엘리스그룹, 안랩과 ‘AI 데이터센터 특화 보안 체계’ 구축 협력
-https://www.aitimes.com/news/articleView.html?idxno=207847
+◾ 크래프톤 〃게임은 AI 시뮬레이션과 연결〃…연구 조직·합작 법인으로 피지컬 AI 강화
+https://www.aitimes.com/news/articleView.html?idxno=207866
 
 [기관]
-◾ 경남도, 제조 AI 혁신 생태계 조성 ＇지역주도형 AI 대전환＇ 사업 본격 추진
-https://www.etnews.com/20260313000098
+◾ [르포] “AI 유니콘 기업 키운다”…서초AICT 우수기업센터 가보니
+https://www.etnews.com/20260313000240
 
-◾ ＇M.AX＇ 강조한 李대통령 “힘 모아 산업 인공지능 전환 신속 추진”
-https://www.etnews.com/20260313000060
-
-◾ 전석훈 경기도의원, AI 인파관리시스템 장관상…경기도 안전정책 전국 우수사례 공식 인정
-https://www.etnews.com/20260313000288
-
-◾ [게시판] 솔트룩스, 정부 프로젝트 ＇K-문샷＇ 협력 기업 참여 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=207857
-
-◾ 23개 부처 합심, ‘8.6조 원’ 투입해 대한민국 기술 주권 넓힌다
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187020&searchOpt=ALL&searchTxt=
-
-◾ 자율형 인공지능(에이전틱 AI) 시대,소프트웨어 산업 및 인재 양성 방향 모색
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187017&searchOpt=ALL&searchTxt=
-
-◾ 과기정통부, 「인공지능 윤리 원칙」 제정 본격 착수
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187014&searchOpt=ALL&searchTxt=
+◾ 유철균 경북연구원장 “AI 전쟁 시대, ＇모호성＇과 ＇혁신＇으로 생존 전략 짜야”
+https://www.etnews.com/20260313000232
 
 [해외]
-◾ 美 국방부 CTO, “앤트로픽과 합의 없다”
-https://www.etnews.com/20260313000017
+◾ 이세종 휴메인 부사장 “전쟁도 AI 파도는 못 막아…사우디 AI 투자 흔들림 없다”
+https://www.etnews.com/20260313000239
 
-◾ AMD 주도 빅테크 연합, AI 광연결 컨소시엄 출범
-https://www.etnews.com/20260313000149
+◾ 아마존, 하이퍼스케일러 중 처음으로 세레브라스 ＇추론 칩＇ 채택
+https://www.aitimes.com/news/articleView.html?idxno=207876
 
-◾ 앤트로픽의 ‘노동시장’ 분석… AI에 가장 노출된 직업은?
-https://www.aitimes.com/news/articleView.html?idxno=207823
+◾ 메타, ＇아보카도＇ 성능 미흡에 출시 5달 연기...＇제미나이＇ 도입도 검토
+https://www.aitimes.com/news/articleView.html?idxno=207867
 
-◾ 우크라이나, 동맹국에 러시아전 AI 데이터 개방...이란제 드론 방어 데이터 포함
-https://www.aitimes.com/news/articleView.html?idxno=207842
+◾ [3월13일] 머스크 〃옵티머스 3가 가장 뛰어날 것〃....이유는 AI의 재귀적 자기 개선〃
+https://www.aitimes.com/news/articleView.html?idxno=207833
 
-◾ 알트먼 “수개월 내 자체 추론 칩 샘플 수령…올해 말 대규모 실전 투입”
-https://www.aitimes.com/news/articleView.html?idxno=207856
+◾ AI 사대천왕 중 한 명… 앤드류 응 교수가 본 ‘AGI’의 시기
+https://www.aitimes.com/news/articleView.html?idxno=207854
 
-◾ 차세대 AI 슈퍼클러스터용 ‘광 인터커넥트’ 표준 추진에 엔비디아 등 협력
-https://www.aitimes.com/news/articleView.html?idxno=207858
+◾ 중국, 세계 최초 침습형 BCI 시판 승인...＇두뇌 칩＇ 상용화서 미국 추월
+https://www.aitimes.com/news/articleView.html?idxno=207873
 
-◾ MS, ＇코파일럿＇에 건강 도우미 기능 추가...맞춤형 의료 정보 경쟁에 합류
-https://www.aitimes.com/news/articleView.html?idxno=207830
+◾ ‘CPU’가 AI 핵심으로 떠올라...엔비디아, GTC서 ＇CPU 서버＇ 공개할 듯
+https://www.aitimes.com/news/articleView.html?idxno=207872
 
 [기타]
-◾ “에이전틱 AI 시대 대학 SW 교육 바뀌어야…도구보다 활용 판단력 중요”
-https://www.etnews.com/20260313000264
-
-◾ [양현상 칼럼] 제조업의 미래는 왜 ‘피지컬 AI’에 달려 있는가
-https://www.aitimes.com/news/articleView.html?idxno=207838
-
-◾ 챗GPT, 국내 ＇추천 의향＇에서 제미나이에 밀려...〃품질은 제미나이 앞서〃
-https://www.aitimes.com/news/articleView.html?idxno=207829
-
-📚 간행물
-◾ [26-5] 독일, 「사이버보안 강화법」(안) 내무부 초안 발표 ('26.2.27)
-https://www.kisa.or.kr/20201/form?postSeq=273&page=1
-
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 2월 4주차)
-https://www.kisa.or.kr/20202/form?postSeq=465&page=1
-
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 2월 3주차)
-https://www.kisa.or.kr/20202/form?postSeq=464&page=1
-
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 2월 1주차)
-https://www.kisa.or.kr/20202/form?postSeq=463&page=1
-
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 1월 5주차)
-https://www.kisa.or.kr/20202/form?postSeq=462&page=1
+◾ [ET시선]반도체와 ＇근원적 경쟁력＇
+https://www.etnews.com/20260313000076
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
