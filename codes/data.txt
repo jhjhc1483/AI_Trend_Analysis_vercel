@@ -1,50 +1,84 @@
-📢26.03.15 AI 일일 동향📢
+📢26.03.16 AI 일일 동향📢
 
 📰 오늘의 기사
 [민간]
-◾ 기업 AI 성숙도 따라 투자 방향 달라…“생산성보다 혁신 중요”
-https://www.etnews.com/20260313000196
+◾ 김주원 콕스웨이브 대표 “AI 도입시 ＇가드레일＇도 적용해야”
+https://www.etnews.com/20260311000297
 
-◾ IT서비스 3사, 상반기 대규모 채용…AI·클라우드 경쟁력 강화
-https://www.etnews.com/20260313000070
+◾ 농심, 제미나이 앞세운 ＇구글 GWS＇ 도입...협업 플랫폼 승부처는 AI
+https://www.etnews.com/20260313000233
 
-◾ 극장 상영 AI 영화 ‘알렉산더 프로젝트’...〃5인 협업으로 작품성에 초점〃
-https://www.aitimes.com/news/articleView.html?idxno=207766
+◾ 현대차 모셔널, 라스베이거스에서 우버와 로보택시 시범 서비스 …연말 완전 무인 전환
+https://www.etnews.com/20260315000058
 
-◾ 이수지 디플리 대표 〃사람 귀로 잡지 못하는 부품 불량, 음향 AI로 판별〃
-https://www.aitimes.com/news/articleView.html?idxno=207751
+◾ HD현대, AI 주도권 확보 박차…신사업 확대 정조준
+https://www.etnews.com/20260311000283
 
-◾ 크래프톤 〃게임은 AI 시뮬레이션과 연결〃…연구 조직·합작 법인으로 피지컬 AI 강화
-https://www.aitimes.com/news/articleView.html?idxno=207866
+◾ 네이버, 지난해 R&D 투자 역대 최다…이해진 복귀 후 투자 사활
+https://www.etnews.com/20260315000034
+
+◾ 크래프톤, ＇피지컬 AI＇ 승부수... 오픈AI·엔비디아 이어 한화까지 맞손
+https://www.etnews.com/20260315000043
+
+◾ “서울 강남에서 자율주행차 만난다〃...카카오모빌리티 서비스 개시
+https://www.aitimes.com/news/articleView.html?idxno=207886
 
 [기관]
-◾ [르포] “AI 유니콘 기업 키운다”…서초AICT 우수기업센터 가보니
-https://www.etnews.com/20260313000240
+◾ 5G특화망, 피지컬 AI 핵심 인프라로 부상...연내 120개 목표 조기달성 가시화
+https://www.etnews.com/20260313000245
 
-◾ 유철균 경북연구원장 “AI 전쟁 시대, ＇모호성＇과 ＇혁신＇으로 생존 전략 짜야”
-https://www.etnews.com/20260313000232
+◾ 김정호 KAIST 교수 “미래 AI 핵심은 메모리”
+https://www.etnews.com/20260313000236
+
+◾ 어려운 재정 용어 해설부터 시각화까지... 지자체 공무원 ＇AI 비서＇ 시대
+https://www.etnews.com/20260315000059
+
+◾ 원주시, ＇의료·웰니스 AX 허브＇ 국가사업 추진 본격화
+https://www.etnews.com/20260313000120
+
+◾ 공공 ＇N2SF＇ 도입 지원 본격화…AI·클라우드 안전하게 쓴다
+https://www.etnews.com/20260313000187
+
+◾ [데스크가 만났습니다] 임문영 국가AI전략위 부위원장 “기술·K-민주주의, 해외 전파하는 가교될 것”
+https://www.etnews.com/20260313000242
+
+◾ [에듀플러스]서울시, 2030년까지 아기유니콘 76개 키운다…캠퍼스타운, AI 중심 창업 생태계 조성
+https://www.etnews.com/20260313000226
 
 [해외]
-◾ 이세종 휴메인 부사장 “전쟁도 AI 파도는 못 막아…사우디 AI 투자 흔들림 없다”
-https://www.etnews.com/20260313000239
+◾ 美육군, AI방산기업 안두릴과 10년간 29조원 규모 계약
+https://www.etnews.com/20260315000041
 
-◾ 아마존, 하이퍼스케일러 중 처음으로 세레브라스 ＇추론 칩＇ 채택
-https://www.aitimes.com/news/articleView.html?idxno=207876
+◾ 문샷, 27조 가치로 투자 유치 추진...중국 AI 스타트업도 몸값 급상승
+https://www.aitimes.com/news/articleView.html?idxno=207885
 
-◾ 메타, ＇아보카도＇ 성능 미흡에 출시 5달 연기...＇제미나이＇ 도입도 검토
-https://www.aitimes.com/news/articleView.html?idxno=207867
+◾ 바이트댄스, 저작권 문제로 동영상 모델 ‘시댄스 2.0’ 글로벌 출시 보류
+https://www.aitimes.com/news/articleView.html?idxno=207883
 
-◾ [3월13일] 머스크 〃옵티머스 3가 가장 뛰어날 것〃....이유는 AI의 재귀적 자기 개선〃
-https://www.aitimes.com/news/articleView.html?idxno=207833
+◾ 미 상무부, AI 칩 수출에 미국 투자 조건 걸려던 규제안 철회
+https://www.aitimes.com/news/articleView.html?idxno=207882
 
-◾ AI 사대천왕 중 한 명… 앤드류 응 교수가 본 ‘AGI’의 시기
-https://www.aitimes.com/news/articleView.html?idxno=207854
+◾ 머스크 “테슬라 AI 칩 생산 ‘테라팹’ 프로젝트 곧 가동”
+https://www.aitimes.com/news/articleView.html?idxno=207888
 
-◾ 중국, 세계 최초 침습형 BCI 시판 승인...＇두뇌 칩＇ 상용화서 미국 추월
-https://www.aitimes.com/news/articleView.html?idxno=207873
+◾ 머스크의 163조 오픈AI 배상 요구에 판사는 〃설득력 없어〃
+https://www.aitimes.com/news/articleView.html?idxno=207889
 
-◾ ‘CPU’가 AI 핵심으로 떠올라...엔비디아, GTC서 ＇CPU 서버＇ 공개할 듯
-https://www.aitimes.com/news/articleView.html?idxno=207872
+◾ 메타, AI 투자 여파로 직원 20% 해고 검토...역대 최다 1만6000명
+https://www.aitimes.com/news/articleView.html?idxno=207884
+
+[기타]
+◾ [그린테크 현장을 가다] ③ 그린로드, ＇AI 비점오염 저감 기술＇로 교량·터널 등 국내외 인프라 공략
+https://www.etnews.com/20260315000007
+
+◾ 하우성 다나와 사업 대표 “가격비교 넘어 ＇AI 커머스 데이터 허브＇ 진화”
+https://www.etnews.com/20260312000175
+
+◾ 신한은행, 광주 AI·부산 방산 특화 ＇SOL클러스터＇ 구축…국가균형발전 견인
+https://www.etnews.com/20260315000008
+
+◾ 밭 돌며 작물 질병 찾아낸다…AI 농업 로봇 등장
+https://www.etnews.com/20260313000183
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
