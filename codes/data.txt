@@ -2,8 +2,8 @@
 
 📰 오늘의 기사
 [민간]
-◾ 김주원 콕스웨이브 대표 “AI 도입시 ＇가드레일＇도 적용해야”
-https://www.etnews.com/20260311000297
+◾ 제주은행, 기업 대출 절반 이상 AI가 심사…＇디지털 테크핀＇ 도약
+https://www.etnews.com/20260313000230
 
 ◾ 농심, 제미나이 앞세운 ＇구글 GWS＇ 도입...협업 플랫폼 승부처는 AI
 https://www.etnews.com/20260313000233
@@ -27,9 +27,6 @@ https://www.aitimes.com/news/articleView.html?idxno=207886
 ◾ 5G특화망, 피지컬 AI 핵심 인프라로 부상...연내 120개 목표 조기달성 가시화
 https://www.etnews.com/20260313000245
 
-◾ 김정호 KAIST 교수 “미래 AI 핵심은 메모리”
-https://www.etnews.com/20260313000236
-
 ◾ 어려운 재정 용어 해설부터 시각화까지... 지자체 공무원 ＇AI 비서＇ 시대
 https://www.etnews.com/20260315000059
 
@@ -45,9 +42,15 @@ https://www.etnews.com/20260313000242
 ◾ [에듀플러스]서울시, 2030년까지 아기유니콘 76개 키운다…캠퍼스타운, AI 중심 창업 생태계 조성
 https://www.etnews.com/20260313000226
 
+◾ 콘진원 ＇에듀코카＇, AI 실무 교육 확대…콘텐츠 인재 양성 플랫폼 자리매김
+https://www.etnews.com/20260313000093
+
 [해외]
 ◾ 美육군, AI방산기업 안두릴과 10년간 29조원 규모 계약
 https://www.etnews.com/20260315000041
+
+◾ “반도체 전쟁 선언”…머스크, 초대형 ＇테라팹＇ 1주일 내 착공
+https://www.etnews.com/20260315000013
 
 ◾ 문샷, 27조 가치로 투자 유치 추진...중국 AI 스타트업도 몸값 급상승
 https://www.aitimes.com/news/articleView.html?idxno=207885
@@ -58,27 +61,11 @@ https://www.aitimes.com/news/articleView.html?idxno=207883
 ◾ 미 상무부, AI 칩 수출에 미국 투자 조건 걸려던 규제안 철회
 https://www.aitimes.com/news/articleView.html?idxno=207882
 
-◾ 머스크 “테슬라 AI 칩 생산 ‘테라팹’ 프로젝트 곧 가동”
-https://www.aitimes.com/news/articleView.html?idxno=207888
-
 ◾ 머스크의 163조 오픈AI 배상 요구에 판사는 〃설득력 없어〃
 https://www.aitimes.com/news/articleView.html?idxno=207889
 
 ◾ 메타, AI 투자 여파로 직원 20% 해고 검토...역대 최다 1만6000명
 https://www.aitimes.com/news/articleView.html?idxno=207884
-
-[기타]
-◾ [그린테크 현장을 가다] ③ 그린로드, ＇AI 비점오염 저감 기술＇로 교량·터널 등 국내외 인프라 공략
-https://www.etnews.com/20260315000007
-
-◾ 하우성 다나와 사업 대표 “가격비교 넘어 ＇AI 커머스 데이터 허브＇ 진화”
-https://www.etnews.com/20260312000175
-
-◾ 신한은행, 광주 AI·부산 방산 특화 ＇SOL클러스터＇ 구축…국가균형발전 견인
-https://www.etnews.com/20260315000008
-
-◾ 밭 돌며 작물 질병 찾아낸다…AI 농업 로봇 등장
-https://www.etnews.com/20260313000183
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
