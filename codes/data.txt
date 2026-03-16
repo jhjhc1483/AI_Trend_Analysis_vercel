@@ -6,8 +6,8 @@
 https://www.aitimes.com/news/articleView.html?idxno=207932
 
 [민간]
-◾ 에스더블유엠, 로보택시 글로벌 첫선…엔비디아·레노버와 개발 ＇AP-700＇ 탑재
-https://www.etnews.com/20260316000351
+◾ [人사이트]이상엽 LG유플러스 CTO “최고 모바일 기술력 입증, 보이스AI로 초격차”
+https://www.etnews.com/20260316000288
 
 ◾ 류재철 LG전자 CEO “로봇 사업 엔비디아·구글과 협력”
 https://www.etnews.com/20260316000195
@@ -15,44 +15,41 @@ https://www.etnews.com/20260316000195
 ◾ NC AI, 피지컬 AI 핵심 ＇월드모델＇ 성과 입증…합성 데이터도 생성
 https://www.etnews.com/20260316000174
 
+◾ SKT, ＇1인 1 AI에이전트＇ 프로젝트 본격화…지원시스템 가동
+https://www.etnews.com/20260316000168
+
 ◾ 삼성전자 ＇가전 원격진단＇ 서비스, AI 신뢰성 인증 획득
 https://www.etnews.com/20260316000166
 
-◾ 네이버클라우드, 한국외대와 MOU…AI 기반 스마트캠퍼스 구축
-https://www.etnews.com/20260316000098
+◾ 한화 테크·라이프 솔루션 협업 가속…AI·로봇 신사업 찾는다
+https://www.etnews.com/20260316000100
 
 ◾ 인텔리빅스 “영상 분석에서 ‘피지컬 AI’ 기업으로 진화…로봇 관제 본격화”
 https://www.aitimes.com/news/articleView.html?idxno=207938
 
-◾ SKT, 전 직원 ＇1인 1 에이전트＇ 선언...〃자발적 활용, 인사고과 반영 아냐〃
-https://www.aitimes.com/news/articleView.html?idxno=207919
-
 [기관]
-◾ 충북과기원, AI 미디어 자생 생태계 거점 구축…펠로우십 프로그램 운영
-https://www.etnews.com/20260316000415
+◾ 과기정통부, ＇AI 고속도로＇ 구축 박차… GPU 임차·2000장 추가 공급 착수
+https://www.etnews.com/20260316000413
 
-◾ 경북도, 경북 로봇산업 발전을 위한 산연관 공동 선포식
-https://www.etnews.com/20260316000396
+◾ [서울 자치구청장 릴레이 인터뷰]〈14〉박강수 마포구청장 “공공 AX 선도…AI 산업단지 조성 추진”
+https://www.etnews.com/20260306000213
 
-◾ 부산정보산업진흥원, 부산항만공사와 ＇AI 기반 스마트 항만 조성＇ MOU 체결
-https://www.etnews.com/20260316000374
+◾ 전남도, 조선산업 AI 대전환 전략 모색
+https://www.etnews.com/20260316000389
 
 ◾ 교육부, 초·중등 교원 AI 연수과정 개발…2029년까지 1만명 양성
 https://www.etnews.com/20260316000218
 
-◾ KT, 경찰청과 AI 피싱번호 차단…피해신고 25% 줄여
-https://www.etnews.com/20260316000088
+◾ 경남창조경제혁신센터 보육기업 CTNS, 중기부 ＇초격차 스타트업 1000+＇ 선정
+https://www.etnews.com/20260316000109
 
-◾ 산업계, 학계·연구계의 인공지능 혁신 가속화, 민간 그래픽 처리 장치 임차와 정부 그래픽 처리 장치 추가 배분 병행 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187025&searchOpt=ALL&searchTxt=
+◾ AI 정책·기술 국민이 직접 평가…중앙과학관 ＇AI Hack Camp 2026＇ 개최
+https://www.etnews.com/20260316000087
 
-◾ 인공지능 기술·국민·정책을 연결하는 「AI Hack Camp 2026」 대회 참가자 모집
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187021&searchOpt=ALL&searchTxt=
+◾ 과기정통부, 일상 속의 혁신 노력도 장려
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187024&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 인텔 파운드리 승부수…올해 ＇대면적 AI 칩 패키징＇ 공급
-https://www.etnews.com/20260316000257
-
 ◾ AI 기술인 3만명 집결…＇GTC 2026＇, 추론·로봇·인프라 미래 한눈에
 https://www.etnews.com/20260316000272
 
@@ -65,19 +62,16 @@ https://www.aitimes.com/news/articleView.html?idxno=207905
 ◾ 알트먼 〃AI로 ＇거대한 돌파구＇에 집중해야...AGI는 인류 도약의 전 단계일 뿐〃
 https://www.aitimes.com/news/articleView.html?idxno=207925
 
-◾ 구글 〃에이전트, 상대와 싸우면서 훈련할 때 협력하는 법 배워〃
-https://www.aitimes.com/news/articleView.html?idxno=207850
+◾ 북한 ＇가짜 노동자＇들이 AI 이용해 미국·유럽 기업에 취업
+https://www.aitimes.com/news/articleView.html?idxno=207898
 
 ◾ 오픈AI, 소라에 동영상 일관성 강화하는 ‘레퍼런스’ 기능 공개
 https://www.aitimes.com/news/articleView.html?idxno=207897
 
+◾ AI 직원 ＇젠스파크 클로＇ 출시...〃클라우드 컴퓨터에서 안전하게 구동〃
+https://www.aitimes.com/news/articleView.html?idxno=207939
+
 [기타]
-◾ [사설] 엔비디아 GTC 소용돌이 잘 읽어야
-https://www.etnews.com/20260316000376
-
-◾ [ET시론]AI 커머스 시대의 완성, 속도보다 ＇신뢰＇에 달렸다
-https://www.etnews.com/20260316000137
-
 ◾ [기고] AI 3대 강국 등극의 지렛대는 AIDC 구축 확대와 전력 수급 확보
 https://www.etnews.com/20260316000009
 
