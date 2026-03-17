@@ -1,10 +1,5 @@
 [
   {
-    "title": "삼성전자, GTC서 HBM4E 첫 공개…엔비디아 AI 동맹 넓힌다",
-    "link": "https://www.etnews.com/20260316000425",
-    "category": "민간"
-  },
-  {
     "title": "정부 AI 역량, 英 옥스퍼드 인사이트 선정 ＇세계 5위·아시아 1위＇",
     "link": "https://www.etnews.com/20260317000418",
     "category": "기관"
@@ -20,34 +15,24 @@
     "category": "기관"
   },
   {
-    "title": "네이버, D2SF·클립 전면에…실무형 임원 인사 단행",
-    "link": "https://www.etnews.com/20260317000287",
-    "category": "민간"
+    "title": "[이영의 넥스트 거버넌스] 〈14〉AI 시대, 국민의 정의를 다시 묻다",
+    "link": "https://www.etnews.com/20260317000221",
+    "category": "기타"
   },
   {
-    "title": "의사·환자 위한 AI 에이전트…빅테크 ＇의료 AI＇ 병원 공략  속도",
-    "link": "https://www.etnews.com/20260317000281",
-    "category": "민간"
+    "title": "국가AI전략위, 산업 AX 위한 ＇에이전틱 AI＇ 활용 논의",
+    "link": "https://www.etnews.com/20260317000275",
+    "category": "기관"
+  },
+  {
+    "title": "[김경환 변호사의 IT법] 〈5〉인공지능(AI) 정렬 실패: 법치주의의 새로운 과제",
+    "link": "https://www.etnews.com/20260317000224",
+    "category": "기타"
   },
   {
     "title": "네이버, SBS와 포괄적 파트너십…AI·영상 콘텐츠 제작 협력",
     "link": "https://www.etnews.com/20260317000358",
     "category": "민간"
-  },
-  {
-    "title": "추론칩 꺼낸 엔비디아, 에이전틱 AI 선도",
-    "link": "https://www.etnews.com/20260317000350",
-    "category": "해외"
-  },
-  {
-    "title": "AWS, “에이전틱 AI·피지컬 AI가 스타트업 성장 핵심 동력…전방위 지원 강화”",
-    "link": "https://www.etnews.com/20260317000313",
-    "category": "해외"
-  },
-  {
-    "title": "“극한 기상도 정밀 분석” AI 기반 초단기 강수 예측 시스템 개발 성공",
-    "link": "https://www.etnews.com/20260317000160",
-    "category": "기타"
   },
   {
     "title": "KAIST, 초개인화 AI 앞당길 AI 반도체 ＇소울메이트＇세계 최초 개발",
@@ -60,38 +45,43 @@
     "category": "민간"
   },
   {
-    "title": "솔트룩스, 생성형 AI+HW ＇루시아 온＇ GS인증 1등급 획득",
-    "link": "https://www.etnews.com/20260317000189",
-    "category": "민간"
-  },
-  {
-    "title": "서울 CCTV 절반 ＇지능형＇ 전환",
-    "link": "https://www.etnews.com/20260317000044",
+    "title": "[IT리더스포럼]류석현 기계연 원장 “제조 산업 게임체인저 ＇피지컬 AI＇, 세계적 성과 선보일 것”",
+    "link": "https://www.etnews.com/20260317000112",
     "category": "기관"
   },
   {
-    "title": "[IT리더스포럼]류석현 기계연 원장 “제조 산업 게임체인저 ＇피지컬 AI＇, 세계적 성과 선보일 것”",
-    "link": "https://www.etnews.com/20260317000112",
-    "category": "기타"
+    "title": "xAI, ＇그록＇의 미성년자 성적 이미지 생성 혐의로 고소 당해",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208005",
+    "category": "해외"
   },
   {
-    "title": "슈퍼브에이아이 〃GTC서 엔비디아와 공동으로 글로벌 고객 미팅 나서〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208008",
+    "title": "엔비디아, 우주 데이터센터용 ‘루빈 베라 스페이스-1’ 칩 발표",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207973",
+    "category": "해외"
+  },
+  {
+    "title": "13억 사용자 링크드인, 5개 피드 검색 시스템을 LLM 모델 하나로 대체",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208006",
+    "category": "해외"
+  },
+  {
+    "title": "삼성전자, HBM4E 최초 공개…”베라 루빈에 세계 유일 메모리 솔루션 공급”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207980",
     "category": "민간"
   },
   {
-    "title": "네비우스, 메타와 5년간 40조 규모의 AI 인프라 공급 계약",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208003",
-    "category": "해외"
+    "title": "NC AI의 야심작 ＇K-월드 모델＇을 글로벌 모델과 비교해 봤더니",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207922",
+    "category": "민간"
   },
   {
-    "title": "챗GPT 성인 모드 연기는 내외부 강한 반대 때문...〃자살 코치 탄생〃 경고까지",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207992",
-    "category": "해외"
+    "title": "신세계, 리플렉션과 250MW 규모 국내 최대 데이터센터 짓는다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207966",
+    "category": "민간"
   },
   {
-    "title": "엔비디아, 차세대 CPU·추론용 LPU·GPU ＇베라 루빈＇ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207968",
+    "title": "지푸, 빠르고 저렴한 에이전트형 ‘GLM-5-터보’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207987",
     "category": "해외"
   },
   {
@@ -103,11 +93,6 @@
     "title": "엔비디아, GTC서 자율주행·로봇 칩 대규모 제휴 발표...〃피지컬 AI 본격 확장〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=207974",
     "category": "해외"
-  },
-  {
-    "title": "국가AI전략위, ‘스스로 행동하는 AI’  에이전틱 시대를 향한 산업혁신 전략 논의",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=410",
-    "category": "기관"
   },
   {
     "title": "“논문을 넘어 창업으로” 인공지능 기술로 사회문제를 해결할 ‘창업가형 석‧박사’ 키운다.",
