@@ -1,122 +1,117 @@
 [
   {
-    "title": "과기정통부, ＇AI 고속도로＇ 구축 박차… GPU 임차·2000장 추가 공급 착수",
-    "link": "https://www.etnews.com/20260316000413",
-    "category": "기관"
-  },
-  {
-    "title": "[서울 자치구청장 릴레이 인터뷰]〈14〉박강수 마포구청장 “공공 AX 선도…AI 산업단지 조성 추진”",
-    "link": "https://www.etnews.com/20260306000213",
-    "category": "기관"
-  },
-  {
-    "title": "전남도, 조선산업 AI 대전환 전략 모색",
-    "link": "https://www.etnews.com/20260316000389",
-    "category": "기관"
-  },
-  {
-    "title": "[人사이트]이상엽 LG유플러스 CTO “최고 모바일 기술력 입증, 보이스AI로 초격차”",
-    "link": "https://www.etnews.com/20260316000288",
+    "title": "삼성전자, GTC서 HBM4E 첫 공개…엔비디아 AI 동맹 넓힌다",
+    "link": "https://www.etnews.com/20260316000425",
     "category": "민간"
   },
   {
-    "title": "AI 기술인 3만명 집결…＇GTC 2026＇, 추론·로봇·인프라 미래 한눈에",
-    "link": "https://www.etnews.com/20260316000272",
+    "title": "정부 AI 역량, 英 옥스퍼드 인사이트 선정 ＇세계 5위·아시아 1위＇",
+    "link": "https://www.etnews.com/20260317000418",
+    "category": "기관"
+  },
+  {
+    "title": "정부, ＇K-엔비디아＇ 육성에 50조원 투입…2030년 AI 반도체 유니콘 5개 키운다",
+    "link": "https://www.etnews.com/20260317000052",
+    "category": "기관"
+  },
+  {
+    "title": "AI기본법 제도개선 시동…글로벌 기업 참여로 세계 선도 기대",
+    "link": "https://www.etnews.com/20260317000294",
+    "category": "기관"
+  },
+  {
+    "title": "네이버, D2SF·클립 전면에…실무형 임원 인사 단행",
+    "link": "https://www.etnews.com/20260317000287",
+    "category": "민간"
+  },
+  {
+    "title": "의사·환자 위한 AI 에이전트…빅테크 ＇의료 AI＇ 병원 공략  속도",
+    "link": "https://www.etnews.com/20260317000281",
+    "category": "민간"
+  },
+  {
+    "title": "네이버, SBS와 포괄적 파트너십…AI·영상 콘텐츠 제작 협력",
+    "link": "https://www.etnews.com/20260317000358",
+    "category": "민간"
+  },
+  {
+    "title": "추론칩 꺼낸 엔비디아, 에이전틱 AI 선도",
+    "link": "https://www.etnews.com/20260317000350",
     "category": "해외"
   },
   {
-    "title": "교육부, 초·중등 교원 AI 연수과정 개발…2029년까지 1만명 양성",
-    "link": "https://www.etnews.com/20260316000218",
-    "category": "기관"
+    "title": "AWS, “에이전틱 AI·피지컬 AI가 스타트업 성장 핵심 동력…전방위 지원 강화”",
+    "link": "https://www.etnews.com/20260317000313",
+    "category": "해외"
   },
   {
-    "title": "류재철 LG전자 CEO “로봇 사업 엔비디아·구글과 협력”",
-    "link": "https://www.etnews.com/20260316000195",
-    "category": "민간"
-  },
-  {
-    "title": "NC AI, 피지컬 AI 핵심 ＇월드모델＇ 성과 입증…합성 데이터도 생성",
-    "link": "https://www.etnews.com/20260316000174",
-    "category": "민간"
-  },
-  {
-    "title": "SKT, ＇1인 1 AI에이전트＇ 프로젝트 본격화…지원시스템 가동",
-    "link": "https://www.etnews.com/20260316000168",
-    "category": "민간"
-  },
-  {
-    "title": "삼성전자 ＇가전 원격진단＇ 서비스, AI 신뢰성 인증 획득",
-    "link": "https://www.etnews.com/20260316000166",
-    "category": "민간"
-  },
-  {
-    "title": "경남창조경제혁신센터 보육기업 CTNS, 중기부 ＇초격차 스타트업 1000+＇ 선정",
-    "link": "https://www.etnews.com/20260316000109",
-    "category": "기관"
-  },
-  {
-    "title": "한화 테크·라이프 솔루션 협업 가속…AI·로봇 신사업 찾는다",
-    "link": "https://www.etnews.com/20260316000100",
-    "category": "민간"
-  },
-  {
-    "title": "AI 정책·기술 국민이 직접 평가…중앙과학관 ＇AI Hack Camp 2026＇ 개최",
-    "link": "https://www.etnews.com/20260316000087",
-    "category": "기관"
-  },
-  {
-    "title": "[기고] AI 3대 강국 등극의 지렛대는 AIDC 구축 확대와 전력 수급 확보",
-    "link": "https://www.etnews.com/20260316000009",
+    "title": "“극한 기상도 정밀 분석” AI 기반 초단기 강수 예측 시스템 개발 성공",
+    "link": "https://www.etnews.com/20260317000160",
     "category": "기타"
   },
   {
-    "title": "3개월 만에 몸값 4배 뛴 中 문샷 AI, 180억 달러 가치로 자금 조달",
-    "link": "https://www.etnews.com/20260316000004",
-    "category": "해외"
+    "title": "KAIST, 초개인화 AI 앞당길 AI 반도체 ＇소울메이트＇세계 최초 개발",
+    "link": "https://www.etnews.com/20260317000219",
+    "category": "기관"
   },
   {
-    "title": "[신간] 피지컬 AI 메가 트렌드",
-    "link": "https://www.etnews.com/20260316000440",
-    "category": "기타"
-  },
-  {
-    "title": "휴머노이드 로봇에 가장 어렵다는 ＇테니스 기술＇ 학습법 등장",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207905",
-    "category": "해외"
-  },
-  {
-    "title": "알트먼 〃AI로 ＇거대한 돌파구＇에 집중해야...AGI는 인류 도약의 전 단계일 뿐〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207925",
-    "category": "해외"
-  },
-  {
-    "title": "인텔리빅스 “영상 분석에서 ‘피지컬 AI’ 기업으로 진화…로봇 관제 본격화”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207938",
+    "title": "정재헌 SKT CEO “고객 중심으로 체질 개선…AI 성장동력 확보”",
+    "link": "https://www.etnews.com/20260317000198",
     "category": "민간"
   },
   {
-    "title": "텔레픽스 “AI 위성 솔루션으로 정부·대기업·방산기업 등 매출 기반 구축”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207932",
-    "category": "국방"
+    "title": "솔트룩스, 생성형 AI+HW ＇루시아 온＇ GS인증 1등급 획득",
+    "link": "https://www.etnews.com/20260317000189",
+    "category": "민간"
   },
   {
-    "title": "북한 ＇가짜 노동자＇들이 AI 이용해 미국·유럽 기업에 취업",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207898",
+    "title": "서울 CCTV 절반 ＇지능형＇ 전환",
+    "link": "https://www.etnews.com/20260317000044",
+    "category": "기관"
+  },
+  {
+    "title": "[IT리더스포럼]류석현 기계연 원장 “제조 산업 게임체인저 ＇피지컬 AI＇, 세계적 성과 선보일 것”",
+    "link": "https://www.etnews.com/20260317000112",
+    "category": "기타"
+  },
+  {
+    "title": "슈퍼브에이아이 〃GTC서 엔비디아와 공동으로 글로벌 고객 미팅 나서〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208008",
+    "category": "민간"
+  },
+  {
+    "title": "네비우스, 메타와 5년간 40조 규모의 AI 인프라 공급 계약",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208003",
     "category": "해외"
   },
   {
-    "title": "오픈AI, 소라에 동영상 일관성 강화하는 ‘레퍼런스’ 기능 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207897",
+    "title": "챗GPT 성인 모드 연기는 내외부 강한 반대 때문...〃자살 코치 탄생〃 경고까지",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207992",
     "category": "해외"
   },
   {
-    "title": "AI 직원 ＇젠스파크 클로＇ 출시...〃클라우드 컴퓨터에서 안전하게 구동〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207939",
+    "title": "엔비디아, 차세대 CPU·추론용 LPU·GPU ＇베라 루빈＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207968",
     "category": "해외"
   },
   {
-    "title": "과기정통부, 일상 속의 혁신 노력도 장려",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187024&searchOpt=ALL&searchTxt=",
+    "title": "오픈AI, 기업 AI 시장 확대 위해 사모펀드와 합작 회사 설립 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207995",
+    "category": "해외"
+  },
+  {
+    "title": "엔비디아, GTC서 자율주행·로봇 칩 대규모 제휴 발표...〃피지컬 AI 본격 확장〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=207974",
+    "category": "해외"
+  },
+  {
+    "title": "국가AI전략위, ‘스스로 행동하는 AI’  에이전틱 시대를 향한 산업혁신 전략 논의",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=410",
+    "category": "기관"
+  },
+  {
+    "title": "“논문을 넘어 창업으로” 인공지능 기술로 사회문제를 해결할 ‘창업가형 석‧박사’ 키운다.",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187029&searchOpt=ALL&searchTxt=",
     "category": "기관"
   }
 ]
