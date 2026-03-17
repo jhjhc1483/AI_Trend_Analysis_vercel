@@ -2,26 +2,20 @@
 
 📰 오늘의 기사
 [민간]
-◾ 삼성전자, GTC서 HBM4E 첫 공개…엔비디아 AI 동맹 넓힌다
-https://www.etnews.com/20260316000425
-
-◾ 네이버, D2SF·클립 전면에…실무형 임원 인사 단행
-https://www.etnews.com/20260317000287
-
-◾ 의사·환자 위한 AI 에이전트…빅테크 ＇의료 AI＇ 병원 공략  속도
-https://www.etnews.com/20260317000281
-
 ◾ 네이버, SBS와 포괄적 파트너십…AI·영상 콘텐츠 제작 협력
 https://www.etnews.com/20260317000358
 
 ◾ 정재헌 SKT CEO “고객 중심으로 체질 개선…AI 성장동력 확보”
 https://www.etnews.com/20260317000198
 
-◾ 솔트룩스, 생성형 AI+HW ＇루시아 온＇ GS인증 1등급 획득
-https://www.etnews.com/20260317000189
+◾ 삼성전자, HBM4E 최초 공개…”베라 루빈에 세계 유일 메모리 솔루션 공급”
+https://www.aitimes.com/news/articleView.html?idxno=207980
 
-◾ 슈퍼브에이아이 〃GTC서 엔비디아와 공동으로 글로벌 고객 미팅 나서〃
-https://www.aitimes.com/news/articleView.html?idxno=208008
+◾ NC AI의 야심작 ＇K-월드 모델＇을 글로벌 모델과 비교해 봤더니
+https://www.aitimes.com/news/articleView.html?idxno=207922
+
+◾ 신세계, 리플렉션과 250MW 규모 국내 최대 데이터센터 짓는다
+https://www.aitimes.com/news/articleView.html?idxno=207966
 
 [기관]
 ◾ 정부 AI 역량, 英 옥스퍼드 인사이트 선정 ＇세계 5위·아시아 1위＇
@@ -33,33 +27,30 @@ https://www.etnews.com/20260317000052
 ◾ AI기본법 제도개선 시동…글로벌 기업 참여로 세계 선도 기대
 https://www.etnews.com/20260317000294
 
+◾ 국가AI전략위, 산업 AX 위한 ＇에이전틱 AI＇ 활용 논의
+https://www.etnews.com/20260317000275
+
 ◾ KAIST, 초개인화 AI 앞당길 AI 반도체 ＇소울메이트＇세계 최초 개발
 https://www.etnews.com/20260317000219
 
-◾ 서울 CCTV 절반 ＇지능형＇ 전환
-https://www.etnews.com/20260317000044
-
-◾ 국가AI전략위, ‘스스로 행동하는 AI’  에이전틱 시대를 향한 산업혁신 전략 논의
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=410
+◾ [IT리더스포럼]류석현 기계연 원장 “제조 산업 게임체인저 ＇피지컬 AI＇, 세계적 성과 선보일 것”
+https://www.etnews.com/20260317000112
 
 ◾ “논문을 넘어 창업으로” 인공지능 기술로 사회문제를 해결할 ‘창업가형 석‧박사’ 키운다.
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187029&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 추론칩 꺼낸 엔비디아, 에이전틱 AI 선도
-https://www.etnews.com/20260317000350
+◾ xAI, ＇그록＇의 미성년자 성적 이미지 생성 혐의로 고소 당해
+https://www.aitimes.com/news/articleView.html?idxno=208005
 
-◾ AWS, “에이전틱 AI·피지컬 AI가 스타트업 성장 핵심 동력…전방위 지원 강화”
-https://www.etnews.com/20260317000313
+◾ 엔비디아, 우주 데이터센터용 ‘루빈 베라 스페이스-1’ 칩 발표
+https://www.aitimes.com/news/articleView.html?idxno=207973
 
-◾ 네비우스, 메타와 5년간 40조 규모의 AI 인프라 공급 계약
-https://www.aitimes.com/news/articleView.html?idxno=208003
+◾ 13억 사용자 링크드인, 5개 피드 검색 시스템을 LLM 모델 하나로 대체
+https://www.aitimes.com/news/articleView.html?idxno=208006
 
-◾ 챗GPT 성인 모드 연기는 내외부 강한 반대 때문...〃자살 코치 탄생〃 경고까지
-https://www.aitimes.com/news/articleView.html?idxno=207992
-
-◾ 엔비디아, 차세대 CPU·추론용 LPU·GPU ＇베라 루빈＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=207968
+◾ 지푸, 빠르고 저렴한 에이전트형 ‘GLM-5-터보’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=207987
 
 ◾ 오픈AI, 기업 AI 시장 확대 위해 사모펀드와 합작 회사 설립 추진
 https://www.aitimes.com/news/articleView.html?idxno=207995
@@ -68,11 +59,11 @@ https://www.aitimes.com/news/articleView.html?idxno=207995
 https://www.aitimes.com/news/articleView.html?idxno=207974
 
 [기타]
-◾ “극한 기상도 정밀 분석” AI 기반 초단기 강수 예측 시스템 개발 성공
-https://www.etnews.com/20260317000160
+◾ [이영의 넥스트 거버넌스] 〈14〉AI 시대, 국민의 정의를 다시 묻다
+https://www.etnews.com/20260317000221
 
-◾ [IT리더스포럼]류석현 기계연 원장 “제조 산업 게임체인저 ＇피지컬 AI＇, 세계적 성과 선보일 것”
-https://www.etnews.com/20260317000112
+◾ [김경환 변호사의 IT법] 〈5〉인공지능(AI) 정렬 실패: 법치주의의 새로운 과제
+https://www.etnews.com/20260317000224
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
