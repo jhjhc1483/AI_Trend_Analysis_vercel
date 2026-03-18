@@ -1,102 +1,122 @@
 [
   {
-    "title": "정부 AI 역량, 英 옥스퍼드 인사이트 선정 ＇세계 5위·아시아 1위＇",
-    "link": "https://www.etnews.com/20260317000418",
+    "title": "하정우 靑 AI수석, 리사 수 회동…韓 인공지능 산업 육성 전략 논의",
+    "link": "https://www.etnews.com/20260318000431",
     "category": "기관"
   },
   {
-    "title": "정부, ＇K-엔비디아＇ 육성에 50조원 투입…2030년 AI 반도체 유니콘 5개 키운다",
-    "link": "https://www.etnews.com/20260317000052",
-    "category": "기관"
+    "title": "쿠팡 “엔비디아와 ＇AI 팩토리＇ 구축”",
+    "link": "https://www.etnews.com/20260318000428",
+    "category": "민간"
   },
   {
-    "title": "AI기본법 제도개선 시동…글로벌 기업 참여로 세계 선도 기대",
-    "link": "https://www.etnews.com/20260317000294",
-    "category": "기관"
-  },
-  {
-    "title": "[이영의 넥스트 거버넌스] 〈14〉AI 시대, 국민의 정의를 다시 묻다",
-    "link": "https://www.etnews.com/20260317000221",
+    "title": "[ET단상]AI 트라이앵글과 中企 AI 대전환",
+    "link": "https://www.etnews.com/20260318000070",
     "category": "기타"
   },
   {
-    "title": "국가AI전략위, 산업 AX 위한 ＇에이전틱 AI＇ 활용 논의",
-    "link": "https://www.etnews.com/20260317000275",
+    "title": "어도비, 엔비디아와 AI 콘텐츠 제작 협력…“차세대 파이어플라이 제공”",
+    "link": "https://www.etnews.com/20260318000347",
+    "category": "해외"
+  },
+  {
+    "title": "“얼굴에 AI 카메라 달린다”… 삼성 ＇갤럭시 글라스＇ 스마트 안경 판 흔들까",
+    "link": "https://www.etnews.com/20260318000337",
+    "category": "민간"
+  },
+  {
+    "title": "SKT, 에이닷 전화에 ＇위험 목소리 탐지＇ 적용…통화 전반에 AI 보안 구축",
+    "link": "https://www.etnews.com/20260318000294",
+    "category": "민간"
+  },
+  {
+    "title": "삼성·SK, 반도체 전주기에 AI 적용…“엔비디아 협력 확장”",
+    "link": "https://www.etnews.com/20260318000242",
+    "category": "민간"
+  },
+  {
+    "title": "충남, ＇AI 대전환＇ 100대 과제 5.8조 투입…AI 인재 3만 명 양성 등 제시",
+    "link": "https://www.etnews.com/20260318000028",
     "category": "기관"
   },
   {
-    "title": "[김경환 변호사의 IT법] 〈5〉인공지능(AI) 정렬 실패: 법치주의의 새로운 과제",
-    "link": "https://www.etnews.com/20260317000224",
+    "title": "하나은행, 생성형 AI로 기업 심사의견 10초 만에 작성...전 영업점 도입",
+    "link": "https://www.etnews.com/20260318000029",
+    "category": "민간"
+  },
+  {
+    "title": "경북도, ＇경북 소버린 AI 기본 계획＇ 수립…도정과 산업분야 AX 본격 추진",
+    "link": "https://www.etnews.com/20260318000021",
+    "category": "기관"
+  },
+  {
+    "title": "[에듀플러스][단독]사업 계획 못 지킨 한밭대, SW중심대학사업 첫 ＇중도 탈락＇ 불명예",
+    "link": "https://www.etnews.com/20260318000014",
     "category": "기타"
   },
   {
-    "title": "네이버, SBS와 포괄적 파트너십…AI·영상 콘텐츠 제작 협력",
-    "link": "https://www.etnews.com/20260317000358",
+    "title": "AMD, AI 가속기에 삼성 HBM4 탑재…네이버와 AI 인프라 협력 확대",
+    "link": "https://www.etnews.com/20260318000392",
     "category": "민간"
   },
   {
-    "title": "KAIST, 초개인화 AI 앞당길 AI 반도체 ＇소울메이트＇세계 최초 개발",
-    "link": "https://www.etnews.com/20260317000219",
+    "title": "“AI 반도체 5년간 50조 투자”…국민성장펀드 K-엔비디아 육성 프로젝트 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208039",
     "category": "기관"
   },
   {
-    "title": "정재헌 SKT CEO “고객 중심으로 체질 개선…AI 성장동력 확보”",
-    "link": "https://www.etnews.com/20260317000198",
+    "title": "오픈AI, 미 국방부 모델 공급 위해 아마존과 유통 계약",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208029",
+    "category": "해외"
+  },
+  {
+    "title": "엔비디아, 중국 AI 칩 판매 재개 시동…＇H200＇ 생산 재가동",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208031",
+    "category": "해외"
+  },
+  {
+    "title": "[양현상 칼럼] 예산 늘어도 세계 흔들 기업 없는 우주·방산",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208015",
+    "category": "기타"
+  },
+  {
+    "title": "네이버, ＇서울 월드 모델＇ 공개...〃실제 장면 기반으로 텍스트 탐험 가능〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208020",
     "category": "민간"
   },
   {
-    "title": "[IT리더스포럼]류석현 기계연 원장 “제조 산업 게임체인저 ＇피지컬 AI＇, 세계적 성과 선보일 것”",
-    "link": "https://www.etnews.com/20260317000112",
+    "title": "오픈AI, 소형 모델 ‘GPT-5.4 미니·나노’ 출시...〃전 세대 중형급 성능〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208018",
+    "category": "해외"
+  },
+  {
+    "title": "구글, 검색·제미나이 앱·크롬에 개인화 기능 ‘퍼스널 인텔리전스’ 전면 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208057",
+    "category": "해외"
+  },
+  {
+    "title": "MS, 나델라 중심으로 ＇코파일럿＇ 조직 개편...술레이먼은 초지능 개발 집중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208027",
+    "category": "해외"
+  },
+  {
+    "title": "일레븐랩스, 에이전트 전용 ‘AI 보험’ 도입…”잘못된 결과물, AI에 책임 묻는다”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208060",
+    "category": "해외"
+  },
+  {
+    "title": "배경훈 부총리, 독자 인공지능 관계 기업 간담회 주재",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187035&searchOpt=ALL&searchTxt=",
     "category": "기관"
   },
   {
-    "title": "xAI, ＇그록＇의 미성년자 성적 이미지 생성 혐의로 고소 당해",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208005",
-    "category": "해외"
+    "title": "46개 인공지능 응용 제품 개발에 7,540억 원 지원 … ‘인공지능 전환-전력 질주(Sprint)’ 본격 추진",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187031&searchOpt=ALL&searchTxt=",
+    "category": "기관"
   },
   {
-    "title": "엔비디아, 우주 데이터센터용 ‘루빈 베라 스페이스-1’ 칩 발표",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207973",
-    "category": "해외"
-  },
-  {
-    "title": "13억 사용자 링크드인, 5개 피드 검색 시스템을 LLM 모델 하나로 대체",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208006",
-    "category": "해외"
-  },
-  {
-    "title": "삼성전자, HBM4E 최초 공개…”베라 루빈에 세계 유일 메모리 솔루션 공급”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207980",
-    "category": "민간"
-  },
-  {
-    "title": "NC AI의 야심작 ＇K-월드 모델＇을 글로벌 모델과 비교해 봤더니",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207922",
-    "category": "민간"
-  },
-  {
-    "title": "신세계, 리플렉션과 250MW 규모 국내 최대 데이터센터 짓는다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207966",
-    "category": "민간"
-  },
-  {
-    "title": "지푸, 빠르고 저렴한 에이전트형 ‘GLM-5-터보’ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207987",
-    "category": "해외"
-  },
-  {
-    "title": "오픈AI, 기업 AI 시장 확대 위해 사모펀드와 합작 회사 설립 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207995",
-    "category": "해외"
-  },
-  {
-    "title": "엔비디아, GTC서 자율주행·로봇 칩 대규모 제휴 발표...〃피지컬 AI 본격 확장〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=207974",
-    "category": "해외"
-  },
-  {
-    "title": "“논문을 넘어 창업으로” 인공지능 기술로 사회문제를 해결할 ‘창업가형 석‧박사’ 키운다.",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187029&searchOpt=ALL&searchTxt=",
+    "title": "사람의 신체·인지 한계를 극복하는 꿈의 기술, K-문샷 「뇌-컴퓨터 인터페이스(BCI)」 임무 본격 추진",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187036&searchOpt=ALL&searchTxt=",
     "category": "기관"
   }
 ]
