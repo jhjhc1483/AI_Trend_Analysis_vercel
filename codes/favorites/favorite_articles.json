@@ -1,12 +1,22 @@
 [
   {
-    "title": "625억원 규모 바우처로 기업 ＇AI 도입·AX＇ 지원한다",
-    "link": "https://www.etnews.com/20260319000418",
-    "category": "기관"
+    "title": "‘국방운영 효율화’ 위한 민간 AI 응용제품 신속 도입",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48149&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
   },
   {
-    "title": "삼성전자, 시설·R&D에 110조원 투자 “올해도 역대 최대”",
-    "link": "https://www.etnews.com/20260319000413",
+    "title": "“한국 E2E 자율주행 모델 오픈 협력 생태계 구축해야”",
+    "link": "https://www.etnews.com/20260319000429",
+    "category": "민간"
+  },
+  {
+    "title": "＇알파고 아버지＇ 허사비스, 10년 만에 방한",
+    "link": "https://www.etnews.com/20260319000428",
+    "category": "민간"
+  },
+  {
+    "title": "[단독] SK텔레콤, 차세대 전산망 하이브리드 클라우드로 ...＇노바＇ 프로젝트 착수",
+    "link": "https://www.etnews.com/20260319000347",
     "category": "민간"
   },
   {
@@ -15,14 +25,24 @@
     "category": "민간"
   },
   {
-    "title": "[정구민의 테크읽기] 엔비디아 GTC 2026, AI 생태계 경쟁과 ＇추론·서비스·피지컬 AI＇ 부상",
-    "link": "https://www.etnews.com/20260319000232",
-    "category": "기타"
+    "title": "AMD, 국가AI전략위·삼성·업스테이지 연쇄 회동…GPU 우군 추가 확보",
+    "link": "https://www.etnews.com/20260319000328",
+    "category": "민간"
   },
   {
-    "title": "AI 의료 생태계 현재와 미래 조망…＇KIMES 2026＇ 개막",
-    "link": "https://www.etnews.com/20260319000361",
+    "title": "SK AX, ＇스스로 판단·실행＇ 에이전틱 AI로 기업 운영 패러다임 바꾼다",
+    "link": "https://www.etnews.com/20260319000190",
     "category": "민간"
+  },
+  {
+    "title": "아이엘, 휴머노이드 로봇 ‘운용 최적화’ 단계 진입…현장 데이터 기반 ‘피지컬 AI’ 학습 체계 구축",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39157",
+    "category": "민간"
+  },
+  {
+    "title": "625억원 규모 바우처로 기업 ＇AI 도입·AX＇ 지원한다",
+    "link": "https://www.etnews.com/20260319000418",
+    "category": "기관"
   },
   {
     "title": "조달청, 공공조달 AI 전환 로드맵 마련…인프라 구축·서비스 확산 추진",
@@ -35,19 +55,24 @@
     "category": "기관"
   },
   {
-    "title": "유럽의회, 딥페이크 음란 이미지 생성 AI 규제 착수",
-    "link": "https://www.etnews.com/20260319000003",
+    "title": "교육부–과기정통부, “이젠 인재가 국가 경쟁력”…AI 인재양성 전주기 혁신 시동",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39153",
+    "category": "기관"
+  },
+  {
+    "title": "우주 방사선 환경 견디는 차세대 AI 반도체 소자세계 최초로 성능 검증 성공",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187042&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "세계적 인공지능‧컴퓨팅 기업과 손잡고 ｢K-문샷｣ 이행을 위한 과학 인공지능 이음터(플랫폼) 구축 가속화",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187038&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "[정구민의 테크읽기] 엔비디아 GTC 2026, AI 생태계 경쟁과 ＇추론·서비스·피지컬 AI＇ 부상",
+    "link": "https://www.etnews.com/20260319000232",
     "category": "해외"
-  },
-  {
-    "title": "＇알파고 아버지＇ 허사비스, 10년 만에 방한",
-    "link": "https://www.etnews.com/20260319000428",
-    "category": "민간"
-  },
-  {
-    "title": "리사 수 AMD CEO, 삼성전자 평택공장 방문...AI 메모리 솔루션 협력 확대",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208063",
-    "category": "민간"
   },
   {
     "title": "메타의 마누스, 로컬에서 구동하는 에이전트 ＇마누스 데스크톱＇ 출시",
@@ -60,48 +85,23 @@
     "category": "해외"
   },
   {
-    "title": "엔비디아, 3D 모션 생성하는 ＇키모도＇ 공개...〃로봇 학습 데이터에 유용〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208090",
-    "category": "해외"
-  },
-  {
-    "title": "SK AX, 새 브랜드 공개...“기업 AX에 멀티 에이전트 지원 본격화”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208108",
-    "category": "민간"
-  },
-  {
     "title": "엔비디아, 중국 정부 ＇H200＇ 판매 승인 획득...중국용 ＇추론 칩＇도 5월 출시",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=208083",
     "category": "해외"
   },
   {
-    "title": "네이버, AMD와 AI 인프라 동맹 구축...〃하이퍼클로바X 중심 생태계 목표〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208073",
-    "category": "민간"
-  },
-  {
-    "title": "미 정부, 앤트로픽 소송에 반격...〃국가 안보상 블랙리스트 지정 정당〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208076",
+    "title": "美 해군, ‘데이터 엔진’ 실전 배치…“함정이 스스로 학습하는 플랫폼으로 진화”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39168",
     "category": "해외"
   },
   {
-    "title": "MS, 아마존-오픈AI 파트너십에 〃기존 애저 계약 위반〃 주장...법적 조치 검토",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208070",
+    "title": "엔비디아, 마이크로소프트와 에이전틱·피지컬 AI 통합 플랫폼 업데이트 발표",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39144",
     "category": "해외"
   },
   {
-    "title": "한-AMD, ‘AI 3강’ 도약 위한 협력 논의… 글로벌 AI 생태계 파트너십 강화",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=423",
-    "category": "기관"
-  },
-  {
-    "title": "세계적 인공지능‧컴퓨팅 기업과 손잡고 ｢K-문샷｣ 이행을 위한 과학 인공지능 이음터(플랫폼) 구축 가속화",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187038&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "우주 방사선 환경 견디는 차세대 AI 반도체 소자세계 최초로 성능 검증 성공",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187042&searchOpt=ALL&searchTxt=",
-    "category": "기관"
+    "title": "[ET단상] 에이전틱 AI 시대, 신뢰 체계 구축이 핵심 경쟁력",
+    "link": "https://www.etnews.com/20260319000050",
+    "category": "기타"
   }
 ]

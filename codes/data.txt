@@ -1,0 +1,81 @@
+📢26.03.20 AI 일일 동향📢
+
+📰 오늘의 기사
+[국방]
+◾ ‘국방운영 효율화’ 위한 민간 AI 응용제품 신속 도입
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48149&startDate=&endDate=&id=mnd_020101000000
+
+[민간]
+◾ “한국 E2E 자율주행 모델 오픈 협력 생태계 구축해야”
+https://www.etnews.com/20260319000429
+
+◾ ＇알파고 아버지＇ 허사비스, 10년 만에 방한
+https://www.etnews.com/20260319000428
+
+◾ [단독] SK텔레콤, 차세대 전산망 하이브리드 클라우드로 ...＇노바＇ 프로젝트 착수
+https://www.etnews.com/20260319000347
+
+◾ 보스턴 다이내믹스 기업가치 30조원 평가…인수 당시 24배
+https://www.etnews.com/20260319000381
+
+◾ AMD, 국가AI전략위·삼성·업스테이지 연쇄 회동…GPU 우군 추가 확보
+https://www.etnews.com/20260319000328
+
+◾ SK AX, ＇스스로 판단·실행＇ 에이전틱 AI로 기업 운영 패러다임 바꾼다
+https://www.etnews.com/20260319000190
+
+◾ 아이엘, 휴머노이드 로봇 ‘운용 최적화’ 단계 진입…현장 데이터 기반 ‘피지컬 AI’ 학습 체계 구축
+https://www.aitimes.kr/news/articleView.html?idxno=39157
+
+[기관]
+◾ 625억원 규모 바우처로 기업 ＇AI 도입·AX＇ 지원한다
+https://www.etnews.com/20260319000418
+
+◾ 조달청, 공공조달 AI 전환 로드맵 마련…인프라 구축·서비스 확산 추진
+https://www.etnews.com/20260319000156
+
+◾ 산업부, AI·바이오 융합에 5년간 1450억 투입…＇M.AX 얼라이언스 밋업 데이＇ 개최
+https://www.etnews.com/20260318000464
+
+◾ 교육부–과기정통부, “이젠 인재가 국가 경쟁력”…AI 인재양성 전주기 혁신 시동
+https://www.aitimes.kr/news/articleView.html?idxno=39153
+
+◾ 우주 방사선 환경 견디는 차세대 AI 반도체 소자세계 최초로 성능 검증 성공
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187042&searchOpt=ALL&searchTxt=
+
+◾ 세계적 인공지능‧컴퓨팅 기업과 손잡고 ｢K-문샷｣ 이행을 위한 과학 인공지능 이음터(플랫폼) 구축 가속화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187038&searchOpt=ALL&searchTxt=
+
+[해외]
+◾ [정구민의 테크읽기] 엔비디아 GTC 2026, AI 생태계 경쟁과 ＇추론·서비스·피지컬 AI＇ 부상
+https://www.etnews.com/20260319000232
+
+◾ 메타의 마누스, 로컬에서 구동하는 에이전트 ＇마누스 데스크톱＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=208075
+
+◾ 오픈AI, 챗GPT 가격 정책 재검토....＇무제한 요금제＇는 없어질 듯
+https://www.aitimes.com/news/articleView.html?idxno=208088
+
+◾ 엔비디아, 중국 정부 ＇H200＇ 판매 승인 획득...중국용 ＇추론 칩＇도 5월 출시
+https://www.aitimes.com/news/articleView.html?idxno=208083
+
+◾ 美 해군, ‘데이터 엔진’ 실전 배치…“함정이 스스로 학습하는 플랫폼으로 진화”
+https://www.aitimes.kr/news/articleView.html?idxno=39168
+
+◾ 엔비디아, 마이크로소프트와 에이전틱·피지컬 AI 통합 플랫폼 업데이트 발표
+https://www.aitimes.kr/news/articleView.html?idxno=39144
+
+[기타]
+◾ [ET단상] 에이전틱 AI 시대, 신뢰 체계 구축이 핵심 경쟁력
+https://www.etnews.com/20260319000050
+
+📚 간행물
+◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 3월 1주차)
+https://www.kisa.or.kr/20202/form?postSeq=466&page=1
+
+
+🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
+(링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
+
+
+✅위 내용은 GEMINI에 의해 작성됨.
