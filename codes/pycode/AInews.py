@@ -8,27 +8,33 @@ import datetime
 
 # 인공지능 신문 전체기사 3페이지까지 크롤링
 data = []
+# --- 크롤링 시작 ---
+# 세션을 사용하여 쿠키와 상태를 유지 (페이지네이션 정상 작동을 위함)
+session = requests.Session()
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/122.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8,application/signed-exchange;v=b3;q=0.7',
+    'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Referer': 'https://www.aitimes.kr/news/articleList.html?view_type=sm'
+}
+session.headers.update(headers)
+
 for i in range(1, 4):
-    target_url = f"https://www.aitimes.kr/news/articleList.html?page={i}&total=22766&box_idxno=&view_type=sm"
+    # total 값을 현재 시점과 유사하게 24000 정도로 설정하여 호출 (서버 환경 대응)
+    target_url = f"https://www.aitimes.kr/news/articleList.html?page={i}&total=24000&box_idxno=&view_type=sm"
     
     try:
-        # 일반 서버로 직접 요청 (Scraper 미사용)
-        headers = {
-            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
-        }
-        response = requests.get(target_url, headers=headers, timeout=30)
+        response = session.get(target_url, timeout=30)
         response.raise_for_status()
         
         html = response.text
         soup = BeautifulSoup(html, 'html.parser')
         
-        # 새로운 HTML 구조에 맞춰 리스트 아이템 선택 (기존 view-cont 대비 강건하게)
-        items = soup.select(".type2 li, .type1 li, .list-block li, #section-list li, .view-cont")
+        # 메인 뉴스 목록 영역만 정확히 타겟팅 (사이드바 중복 수집 방지)
+        items = soup.select("#section-list li")
         
-        # [안전장치] 만약 기사 목록이 비어있다면 응답받은 HTML의 앞부분을 출력하여 확인
         if not items:
-            print(f"[{i}페이지] 기사 목록을 찾을 수 없습니다. 차단 여부 확인을 위한 HTML 응답:")
-            print(html[:500])
+            print(f"[{i}페이지] 기사 목록을 찾을 수 없습니다. HTML 응답 일부: {response.text[:200]}")
             continue
 
         for item in items:
