@@ -53,8 +53,8 @@ jobs:
         env:
           SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
         run: |
-          python codes/pycode/etnews.py  
           python codes/pycode/mnd.py
+          python codes/pycode/etnews.py  
           python codes/pycode/aitimes.py
           python codes/pycode/NIA.py
           python codes/pycode/STEPI.py
