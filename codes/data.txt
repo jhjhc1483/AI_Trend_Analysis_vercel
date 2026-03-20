@@ -8,33 +8,27 @@ https://www.etnews.com/20260320000162
 ◾ 신세계免, LG전자와 ＇AI 물류＇ 체계 구축…면세품 인도 서비스 고도화
 https://www.etnews.com/20260320000059
 
-◾ 어드밴텍, 엔비디아 IGX 토르 기반 차세대 에지 AI 시스템 ＇첫 선＇
-https://www.etnews.com/20260320000058
-
 ◾ 카카오모빌리티, 자율주행 인재 채용... ＇피지컬 AI＇ 기업 도약 가속
 https://www.etnews.com/20260320000054
 
-◾ 코넥티브-서울대병원, 근골격계 파운데이션 모델 공동연구 착수
-https://www.etnews.com/20260320000274
-
 ◾ 넷스카우트, AI·ML로 진화한 DDoS 방어 해법 제시
 https://www.etnews.com/20260320000213
+
+◾ 퀄컴 “국내 기업과 2029년까지 로보틱스 산업 적극 확대”
+https://www.aitimes.com/news/articleView.html?idxno=208157
 
 ◾ 네이버 D2SF, 상반기 캠퍼스 기술창업 공모전 개최 …대학(원)생 기술창업팀이라면 누구나
 https://www.aitimes.kr/news/articleView.html?idxno=39179
 
 [기관]
-◾ “경남을 AI 산업 혁신 거점으로”…경남인공지능ICT협회 새출발
-https://www.etnews.com/20260320000142
-
-◾ 보산진, ＇메디컬코리아 2026＇ 콘퍼런스 세션 개최…한·미 전문가 의료 AI 임상 도입 성과 공유
-https://www.etnews.com/20260320000267
-
 ◾ 램파드, ＇LAMPAD v2.0＇ 정산연 ＇AI 안전성 인증＇ 1호 획득
 https://www.etnews.com/20260320000217
 
 ◾ 하정우 AI미래기획수석, 리사 수 AMD CEO와 협력 강화 논의
 https://www.aitimes.com/news/articleView.html?idxno=208091
+
+◾ 어도비-KAIST, 인터랙티브 3D 게임 제작 월드 모델 공개
+https://www.aitimes.com/news/articleView.html?idxno=208134
 
 ◾ KAIST, 상용화 가능 반도체 신기술 개발…“저장 공간은 늘리고, 성능 저하는 최소로”
 https://www.aitimes.com/news/articleView.html?idxno=208151
@@ -42,18 +36,21 @@ https://www.aitimes.com/news/articleView.html?idxno=208151
 ◾ “인공지능이 하루 57명 취업 연결”...고용부, 청년·기업이 직접 고른 AI 고용서비스 확대
 https://www.aitimes.kr/news/articleView.html?idxno=39177
 
+◾ 조달청, 조달데이터의 가치를 AI로 발굴... AI 활용 창업경진대회 개최
+https://www.aitimes.kr/news/articleView.html?idxno=39176
+
 ◾ 휴대전화 개통 시 실제 본인 여부 확인 절차(안면인증) 시범 운영 기간을 6월 30일까지 연장
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187046&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 구글, 코드 작성 넘어 완성형 앱 만드는 ＇풀스택 바이브 코딩＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=208113
+◾ 구글, 맥 전용 ＇제미니＇ 앱 테스트 착수…빅테크 AI 비서 경쟁 격화
+https://www.etnews.com/20260320000039
 
 ◾ 오픈AI, 코딩 강화 위해 인기 파이썬 도구 업체 아스트랄 인수
 https://www.aitimes.com/news/articleView.html?idxno=208111
 
-◾ 사람만큼 잘한다? 테니스 기술 학습한 휴머노이드의 실력
-https://www.aitimes.com/news/articleView.html?idxno=208100
+◾ 〃트랜스포머 벽 넘어〃...＇맘바-3＇, 메모리 절반으로 성능·속도 능가
+https://www.aitimes.com/news/articleView.html?idxno=208071
 
 ◾ 머스크, 자체 칩 ＇AI6＇ 설계 확정하고 12월부터 생산 돌입
 https://www.aitimes.com/news/articleView.html?idxno=208132
@@ -63,13 +60,6 @@ https://www.aitimes.com/news/articleView.html?idxno=208127
 
 ◾ 지멘스, 에이전틱AI 기반 반도체 설계 및 검증 솔루션 ‘퀘스타 원 에이전틱 툴킷’ 발표
 https://www.aitimes.kr/news/articleView.html?idxno=39172
-
-◾ 베넷·브라사르, ‘컴퓨팅 노벨상’ 튜링상 수상…양자암호·양자텔레포테이션 개척, 보안·컴퓨팅 패러다임 근본 전환
-https://www.aitimes.kr/news/articleView.html?idxno=39169
-
-[기타]
-◾ [3월19일] 〃AI 사용 기업, 앞으로 ＇토큰 효율성＇ 따질 것...개인별 사용 내용 추적 시작〃
-https://www.aitimes.com/news/articleView.html?idxno=208069
 
 📚 간행물
 ◾ GTC2026, 메타 AI반도체, 인도AI, 중국AI [AI·ICT Brief 2026-10호]

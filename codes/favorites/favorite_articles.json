@@ -5,18 +5,8 @@
     "category": "민간"
   },
   {
-    "title": "“경남을 AI 산업 혁신 거점으로”…경남인공지능ICT협회 새출발",
-    "link": "https://www.etnews.com/20260320000142",
-    "category": "기관"
-  },
-  {
     "title": "신세계免, LG전자와 ＇AI 물류＇ 체계 구축…면세품 인도 서비스 고도화",
     "link": "https://www.etnews.com/20260320000059",
-    "category": "민간"
-  },
-  {
-    "title": "어드밴텍, 엔비디아 IGX 토르 기반 차세대 에지 AI 시스템 ＇첫 선＇",
-    "link": "https://www.etnews.com/20260320000058",
     "category": "민간"
   },
   {
@@ -25,14 +15,9 @@
     "category": "민간"
   },
   {
-    "title": "코넥티브-서울대병원, 근골격계 파운데이션 모델 공동연구 착수",
-    "link": "https://www.etnews.com/20260320000274",
-    "category": "민간"
-  },
-  {
-    "title": "보산진, ＇메디컬코리아 2026＇ 콘퍼런스 세션 개최…한·미 전문가 의료 AI 임상 도입 성과 공유",
-    "link": "https://www.etnews.com/20260320000267",
-    "category": "기관"
+    "title": "구글, 맥 전용 ＇제미니＇ 앱 테스트 착수…빅테크 AI 비서 경쟁 격화",
+    "link": "https://www.etnews.com/20260320000039",
+    "category": "해외"
   },
   {
     "title": "램파드, ＇LAMPAD v2.0＇ 정산연 ＇AI 안전성 인증＇ 1호 획득",
@@ -45,29 +30,29 @@
     "category": "민간"
   },
   {
-    "title": "구글, 코드 작성 넘어 완성형 앱 만드는 ＇풀스택 바이브 코딩＇ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208113",
-    "category": "해외"
-  },
-  {
     "title": "오픈AI, 코딩 강화 위해 인기 파이썬 도구 업체 아스트랄 인수",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=208111",
     "category": "해외"
   },
   {
-    "title": "[3월19일] 〃AI 사용 기업, 앞으로 ＇토큰 효율성＇ 따질 것...개인별 사용 내용 추적 시작〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208069",
-    "category": "기타"
-  },
-  {
-    "title": "사람만큼 잘한다? 테니스 기술 학습한 휴머노이드의 실력",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208100",
+    "title": "〃트랜스포머 벽 넘어〃...＇맘바-3＇, 메모리 절반으로 성능·속도 능가",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208071",
     "category": "해외"
   },
   {
     "title": "하정우 AI미래기획수석, 리사 수 AMD CEO와 협력 강화 논의",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=208091",
     "category": "기관"
+  },
+  {
+    "title": "어도비-KAIST, 인터랙티브 3D 게임 제작 월드 모델 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208134",
+    "category": "기관"
+  },
+  {
+    "title": "퀄컴 “국내 기업과 2029년까지 로보틱스 산업 적극 확대”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208157",
+    "category": "민간"
   },
   {
     "title": "KAIST, 상용화 가능 반도체 신기술 개발…“저장 공간은 늘리고, 성능 저하는 최소로”",
@@ -95,13 +80,13 @@
     "category": "기관"
   },
   {
-    "title": "지멘스, 에이전틱AI 기반 반도체 설계 및 검증 솔루션 ‘퀘스타 원 에이전틱 툴킷’ 발표",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39172",
-    "category": "해외"
+    "title": "조달청, 조달데이터의 가치를 AI로 발굴... AI 활용 창업경진대회 개최",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39176",
+    "category": "기관"
   },
   {
-    "title": "베넷·브라사르, ‘컴퓨팅 노벨상’ 튜링상 수상…양자암호·양자텔레포테이션 개척, 보안·컴퓨팅 패러다임 근본 전환",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39169",
+    "title": "지멘스, 에이전틱AI 기반 반도체 설계 및 검증 솔루션 ‘퀘스타 원 에이전틱 툴킷’ 발표",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39172",
     "category": "해외"
   },
   {
