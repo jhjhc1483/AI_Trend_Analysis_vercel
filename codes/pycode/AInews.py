@@ -4,45 +4,26 @@ import pandas as pd
 import json
 import os
 import re
-
-import itertools
-
-# 1. 환경 변수에서 API 키 불러오기 (로테이션 지원)
-API_KEYS = [
-    os.environ.get('SCRAPER_API_KEY'),
-    os.environ.get('SCRAPER_API_KEY_2')
-]
-# None이 아닌 키만 필터링
-SCRAPER_KEYS = [k for k in API_KEYS if k]
-
-if not SCRAPER_KEYS:
-    raise ValueError("GitHub Secrets 또는 .env에 SCRAPER_API_KEY가 설정되지 않았습니다.")
-
-# API 키 순환을 위한 이터레이터 생성
-key_cycle = itertools.cycle(SCRAPER_KEYS)
-
-SCRAPER_URL = 'http://api.scraperapi.com'
+import datetime
 
 # 인공지능 신문 전체기사 3페이지까지 크롤링
 data = []
 for i in range(1, 4):
     target_url = f"https://www.aitimes.kr/news/articleList.html?page={i}&total=22766&box_idxno=&view_type=sm"
     
-    # 2. ScraperAPI 파라미터 설정
-    payload = {
-        'api_key': next(key_cycle),
-        'url': target_url,
-        'country_code': 'kr' 
-    }
-    
     try:
-        # 3. 우회 서버로 요청
-        response = requests.get(SCRAPER_URL, params=payload, timeout=30)
+        # 일반 서버로 직접 요청 (Scraper 미사용)
+        headers = {
+            'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36'
+        }
+        response = requests.get(target_url, headers=headers, timeout=30)
         response.raise_for_status()
         
         html = response.text
         soup = BeautifulSoup(html, 'html.parser')
-        items = soup.select(".view-cont")
+        
+        # 새로운 HTML 구조에 맞춰 리스트 아이템 선택 (기존 view-cont 대비 강건하게)
+        items = soup.select(".type2 li, .type1 li, .list-block li, #section-list li, .view-cont")
         
         # [안전장치] 만약 기사 목록이 비어있다면 응답받은 HTML의 앞부분을 출력하여 확인
         if not items:
@@ -52,30 +33,34 @@ for i in range(1, 4):
 
         for item in items:
             try:
-                name = item.select_one(".titles").text.strip()
-                code = item.select_one(".titles > a").attrs['href']
-                link = f"https://www.aitimes.kr{code}"
+                name_tag = item.select_one(".titles a")
+                if not name_tag: # 혹시 구조가 다를 경우를 위한 Fallback
+                    name_tag = item.select_one("a")
                 
-                pattern = r'<em>(.+?)</em>'
-                date_temp = str(item.select_one(".byline > em:nth-child(3)"))
-                match = re.search(pattern, date_temp)
+                if not name_tag:
+                    continue
+                    
+                name = name_tag.text.strip()
+                code = name_tag.get('href', '')
+                if not code.startswith('http'):
+                    link = f"https://www.aitimes.kr{code}"
+                else:
+                    link = code
                 
-                # 변수 초기화
+                # 날짜 추출 (HTML 주석에 숨겨져 있거나 구조가 깨진 경우 대비 정규식 사용)
+                date_match = re.search(r'(\d{4}\.\d{2}\.\d{2}|\d{2}\.\d{2} \d{2}:\d{2})', str(item))
+                
                 years, month, day, hour, minute = "", "", "", "", ""
                 
-                if match:
-                    date_all = match.group(1)
-                    date = date_all.split(" ")
-                    if len(date) >= 2:
-                        temp = str(date[0]).split(".")
-                        if len(temp) == 3:
-                            years = temp[0]
-                            month = temp[1]
-                            day = temp[2]
-                        time_temp = str(date[1]).split(":")
-                        if len(time_temp) >= 2:
-                            hour = time_temp[0]
-                            minute = time_temp[1]
+                if date_match:
+                    raw_date = date_match.group(1)
+                    if len(raw_date) == 10: # 2024.03.20
+                        years, month, day = raw_date.split(".")
+                    else: # 03.20 11:40
+                        date_parts = raw_date.split(" ")
+                        month, day = date_parts[0].split(".")
+                        hour, minute = date_parts[1].split(":")
+                        years = str(datetime.datetime.now().year)
                 
                 data.append([name, link, years, month, day, hour, minute])
             except Exception as e:
