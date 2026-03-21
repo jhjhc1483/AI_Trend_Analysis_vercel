@@ -10,6 +10,9 @@ https://www.etnews.com/20260320000199
 https://www.etnews.com/20260320000245
 
 [해외]
+◾ MS, 윈도우에서 ＇코파일럿＇ AI 기능 축소...〃사용자 편의에 집중〃
+https://www.aitimes.com/news/articleView.html?idxno=208172
+
 ◾ 엔비디아, 아마존에 2027년까지 GPU 100만개 공급 계약
 https://www.aitimes.com/news/articleView.html?idxno=208173
 
@@ -25,15 +28,8 @@ https://www.aitimes.com/news/articleView.html?idxno=208160
 ◾ 엔비디아가 로봇 학습 데이터를 만드는 법…3D 모션 생성 모델 ‘키모도’
 https://www.aitimes.com/news/articleView.html?idxno=208152
 
-◾ 아마존, 12년 만에 스마트폰 시장 재도전...음성 기반 AI 장치 개발 중
-https://www.aitimes.com/news/articleView.html?idxno=208176
-
 ◾ 앤트로픽, 오픈클로에 대응하는 ‘클로드 코드 채널’ 출시
 https://www.aitimes.com/news/articleView.html?idxno=208162
-
-[기타]
-◾ [ET톡] 기술 기반 창업에 거는 기대
-https://www.etnews.com/20260320000152
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html

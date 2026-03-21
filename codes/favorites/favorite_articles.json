@@ -1,10 +1,5 @@
 [
   {
-    "title": "[ET톡] 기술 기반 창업에 거는 기대",
-    "link": "https://www.etnews.com/20260320000152",
-    "category": "기타"
-  },
-  {
     "title": "HP, 클라우드 다음은 ＇엣지 AI＇…韓 스타트업 파트너 찾는다",
     "link": "https://www.etnews.com/20260320000199",
     "category": "민간"
@@ -13,6 +8,11 @@
     "title": "SH, 도시공사 첫 AIDC 구축 추진",
     "link": "https://www.etnews.com/20260320000245",
     "category": "기관"
+  },
+  {
+    "title": "MS, 윈도우에서 ＇코파일럿＇ AI 기능 축소...〃사용자 편의에 집중〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208172",
+    "category": "해외"
   },
   {
     "title": "엔비디아, 아마존에 2027년까지 GPU 100만개 공급 계약",
@@ -37,11 +37,6 @@
   {
     "title": "엔비디아가 로봇 학습 데이터를 만드는 법…3D 모션 생성 모델 ‘키모도’",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=208152",
-    "category": "해외"
-  },
-  {
-    "title": "아마존, 12년 만에 스마트폰 시장 재도전...음성 기반 AI 장치 개발 중",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208176",
     "category": "해외"
   },
   {
