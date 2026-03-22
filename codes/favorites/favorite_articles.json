@@ -20,23 +20,23 @@
     "category": "기관"
   },
   {
-    "title": "KB국민은행 “AI로 인력 투입 줄면 사업비 변경”…IT서비스 업계 AI 發 대격변 예고",
-    "link": "https://www.etnews.com/20260320000240",
-    "category": "민간"
-  },
-  {
     "title": "[ET시론] AI 시대의 새로운 인프라, 우주데이터센터",
     "link": "https://www.etnews.com/20260320000228",
     "category": "기타"
   },
   {
-    "title": "[AI 농업경영] 농업 지원, 정보에서 실행으로…현장 중심 체계 바꾼다",
-    "link": "https://www.etnews.com/20260322000031",
-    "category": "기관"
+    "title": "[사설] AI 활용=IT인력 축소, 단정해선 안돼",
+    "link": "https://www.etnews.com/20260322000104",
+    "category": "기타"
   },
   {
     "title": "[단독] 보험료도 AI로 산출한다…코리안리, 국내 최초 ＇요율산정 AI＇ 도입",
     "link": "https://www.etnews.com/20260320000145",
+    "category": "민간"
+  },
+  {
+    "title": "티엑스알로보틱스, AI 피스피킹 로봇으로 물류 자동화 ＇정조준＇",
+    "link": "https://www.etnews.com/20260320000129",
     "category": "민간"
   },
   {
@@ -48,11 +48,6 @@
     "title": "서초구, 전국 첫 AI 특화 ＇우면도서관＇ 100일 기념행사 마련",
     "link": "https://www.etnews.com/20260322000065",
     "category": "기관"
-  },
-  {
-    "title": "카카오, 일상혁신 컨퍼런스 개최…플랫폼의 긍정적 변화 조명",
-    "link": "https://www.etnews.com/20260322000049",
-    "category": "민간"
   },
   {
     "title": "[인터뷰] SAP “호르무즈 봉쇄 위기, AI가 실시간으로 공급망 대응 시나리오 짠다”",
@@ -97,7 +92,7 @@
   {
     "title": "고려사이버대, ‘생성형 AI 활용 지침’ 제정...교육·연구·행정 전반에 윤리적 AI 활용 기준 마련",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39190",
-    "category": "기타"
+    "category": "기관"
   },
   {
     "title": "삼성전자, ‘비스포크 AI 스팀’ 로봇청소기 공개...퀄컴 ‘드래곤윙’·녹스 보안 결합",
@@ -108,5 +103,10 @@
     "title": "오라클, ‘자바 26’ 출시… AI·암호화·클라우드 최적화 전면 강화",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39194",
     "category": "해외"
+  },
+  {
+    "title": "LG디스플레이, 1~120Hz 노트북용 패널 세계 최초 양산...전력 효율화, 이동성 높이고 AI 시대에 최적화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39193",
+    "category": "민간"
   }
 ]

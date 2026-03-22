@@ -9,23 +9,23 @@ https://www.etnews.com/20260320000127
 ◾ “AI도 통제·관리 대상”…에이전트 보안 시장 열린다
 https://www.etnews.com/20260320000229
 
-◾ KB국민은행 “AI로 인력 투입 줄면 사업비 변경”…IT서비스 업계 AI 發 대격변 예고
-https://www.etnews.com/20260320000240
-
 ◾ [단독] 보험료도 AI로 산출한다…코리안리, 국내 최초 ＇요율산정 AI＇ 도입
 https://www.etnews.com/20260320000145
 
+◾ 티엑스알로보틱스, AI 피스피킹 로봇으로 물류 자동화 ＇정조준＇
+https://www.etnews.com/20260320000129
+
 ◾ 카톡 챗GPT, 이르면 24일 올영·무신사 연동…외부 서비스 동시 출격
 https://www.etnews.com/20260320000230
-
-◾ 카카오, 일상혁신 컨퍼런스 개최…플랫폼의 긍정적 변화 조명
-https://www.etnews.com/20260322000049
 
 ◾ KGM, AI 휴머노이드 기술 개발 MOU 체결… 인공지능 기술 개발에 속도
 https://www.aitimes.kr/news/articleView.html?idxno=39191
 
 ◾ 삼성전자, ‘비스포크 AI 스팀’ 로봇청소기 공개...퀄컴 ‘드래곤윙’·녹스 보안 결합
 https://www.aitimes.kr/news/articleView.html?idxno=39189
+
+◾ LG디스플레이, 1~120Hz 노트북용 패널 세계 최초 양산...전력 효율화, 이동성 높이고 AI 시대에 최적화
+https://www.aitimes.kr/news/articleView.html?idxno=39193
 
 [기관]
 ◾ ＇서울 AI 플랫폼＇ 내달 문 연다…“AI 전문가 매칭 허브”
@@ -34,14 +34,14 @@ https://www.etnews.com/20260320000121
 ◾ “실증 넘어 상용화까지”…정부, 에이지테크 산업 육성 박차
 https://www.etnews.com/20260320000218
 
-◾ [AI 농업경영] 농업 지원, 정보에서 실행으로…현장 중심 체계 바꾼다
-https://www.etnews.com/20260322000031
-
 ◾ 서초구, 전국 첫 AI 특화 ＇우면도서관＇ 100일 기념행사 마련
 https://www.etnews.com/20260322000065
 
 ◾ KAIST, 모터 없이 원래 형태로 돌아가는 ＇로봇 손＇ 개발
 https://www.aitimes.com/news/articleView.html?idxno=208185
+
+◾ 고려사이버대, ‘생성형 AI 활용 지침’ 제정...교육·연구·행정 전반에 윤리적 AI 활용 기준 마련
+https://www.aitimes.kr/news/articleView.html?idxno=39190
 
 [해외]
 ◾ [인터뷰] SAP “호르무즈 봉쇄 위기, AI가 실시간으로 공급망 대응 시나리오 짠다”
@@ -69,8 +69,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=39194
 ◾ [ET시론] AI 시대의 새로운 인프라, 우주데이터센터
 https://www.etnews.com/20260320000228
 
-◾ 고려사이버대, ‘생성형 AI 활용 지침’ 제정...교육·연구·행정 전반에 윤리적 AI 활용 기준 마련
-https://www.aitimes.kr/news/articleView.html?idxno=39190
+◾ [사설] AI 활용=IT인력 축소, 단정해선 안돼
+https://www.etnews.com/20260322000104
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
