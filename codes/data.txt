@@ -1,35 +1,76 @@
-📢26.03.22 AI 일일 동향📢
+📢26.03.23 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 심승배 국가AI전략위 분과장 “국방 AX로 ＇K-팔란티어＇ 육성해야”
+https://www.etnews.com/20260320000127
+
 [민간]
-◾ HP, 클라우드 다음은 ＇엣지 AI＇…韓 스타트업 파트너 찾는다
-https://www.etnews.com/20260320000199
+◾ “AI도 통제·관리 대상”…에이전트 보안 시장 열린다
+https://www.etnews.com/20260320000229
+
+◾ KB국민은행 “AI로 인력 투입 줄면 사업비 변경”…IT서비스 업계 AI 發 대격변 예고
+https://www.etnews.com/20260320000240
+
+◾ [단독] 보험료도 AI로 산출한다…코리안리, 국내 최초 ＇요율산정 AI＇ 도입
+https://www.etnews.com/20260320000145
+
+◾ 카톡 챗GPT, 이르면 24일 올영·무신사 연동…외부 서비스 동시 출격
+https://www.etnews.com/20260320000230
+
+◾ 카카오, 일상혁신 컨퍼런스 개최…플랫폼의 긍정적 변화 조명
+https://www.etnews.com/20260322000049
+
+◾ KGM, AI 휴머노이드 기술 개발 MOU 체결… 인공지능 기술 개발에 속도
+https://www.aitimes.kr/news/articleView.html?idxno=39191
+
+◾ 삼성전자, ‘비스포크 AI 스팀’ 로봇청소기 공개...퀄컴 ‘드래곤윙’·녹스 보안 결합
+https://www.aitimes.kr/news/articleView.html?idxno=39189
 
 [기관]
-◾ SH, 도시공사 첫 AIDC 구축 추진
-https://www.etnews.com/20260320000245
+◾ ＇서울 AI 플랫폼＇ 내달 문 연다…“AI 전문가 매칭 허브”
+https://www.etnews.com/20260320000121
+
+◾ “실증 넘어 상용화까지”…정부, 에이지테크 산업 육성 박차
+https://www.etnews.com/20260320000218
+
+◾ [AI 농업경영] 농업 지원, 정보에서 실행으로…현장 중심 체계 바꾼다
+https://www.etnews.com/20260322000031
+
+◾ 서초구, 전국 첫 AI 특화 ＇우면도서관＇ 100일 기념행사 마련
+https://www.etnews.com/20260322000065
+
+◾ KAIST, 모터 없이 원래 형태로 돌아가는 ＇로봇 손＇ 개발
+https://www.aitimes.com/news/articleView.html?idxno=208185
 
 [해외]
-◾ MS, 윈도우에서 ＇코파일럿＇ AI 기능 축소...〃사용자 편의에 집중〃
-https://www.aitimes.com/news/articleView.html?idxno=208172
+◾ [인터뷰] SAP “호르무즈 봉쇄 위기, AI가 실시간으로 공급망 대응 시나리오 짠다”
+https://www.etnews.com/20260322000057
 
-◾ 엔비디아, 아마존에 2027년까지 GPU 100만개 공급 계약
-https://www.aitimes.com/news/articleView.html?idxno=208173
+◾ ＇천재 소녀＇ 영입해 세계 8위 모델 내놓은 샤오미, 3년간 AI에 13조 투자 예고
+https://www.aitimes.com/news/articleView.html?idxno=208188
 
-◾ 백악관, 국가 단일 AI 규제 추진… 〃주별 개별 규제 제한〃 의회 촉구
-https://www.aitimes.com/news/articleView.html?idxno=208170
+◾ MS, 이미지 모델 ‘MAI-이미지-2’ 출시...아레나 리더보드 3위 진입
+https://www.aitimes.com/news/articleView.html?idxno=208184
 
-◾ 소프트뱅크, 오하이오에 750조 투입해 세계 최대 10GW 데이터센터 구축
-https://www.aitimes.com/news/articleView.html?idxno=208161
+◾ xAI도 기업 시장 공략 위해 ＇화이트 글로브＇ 전략 채택
+https://www.aitimes.com/news/articleView.html?idxno=208179
 
-◾ 오픈AI, 챗GPT·코덱스·브라우저 통합한 ＇데스크톱 슈퍼 앱＇ 개발 예정
-https://www.aitimes.com/news/articleView.html?idxno=208160
+◾ ＇기업 시장 올인＇ 선언한 오픈AI, 연내 인력 8000명으로 2배 확대
+https://www.aitimes.com/news/articleView.html?idxno=208178
 
-◾ 엔비디아가 로봇 학습 데이터를 만드는 법…3D 모션 생성 모델 ‘키모도’
-https://www.aitimes.com/news/articleView.html?idxno=208152
+◾ 화웨이, AI 가속기 ‘아틀라스 350’ 공개...〃엔비디아 H20보다 2.8배 뛰어나〃
+https://www.aitimes.com/news/articleView.html?idxno=208180
 
-◾ 앤트로픽, 오픈클로에 대응하는 ‘클로드 코드 채널’ 출시
-https://www.aitimes.com/news/articleView.html?idxno=208162
+◾ 오라클, ‘자바 26’ 출시… AI·암호화·클라우드 최적화 전면 강화
+https://www.aitimes.kr/news/articleView.html?idxno=39194
+
+[기타]
+◾ [ET시론] AI 시대의 새로운 인프라, 우주데이터센터
+https://www.etnews.com/20260320000228
+
+◾ 고려사이버대, ‘생성형 AI 활용 지침’ 제정...교육·연구·행정 전반에 윤리적 AI 활용 기준 마련
+https://www.aitimes.kr/news/articleView.html?idxno=39190
 
 
 🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
