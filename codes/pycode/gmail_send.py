@@ -1,5 +1,6 @@
 import smtplib
 import os
+import json
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
@@ -7,14 +8,14 @@ from zoneinfo import ZoneInfo
 
 # ================= 설정 부분 =================
 sender_email = "jfchae1483@gmail.com"  # 보내는 사람
-receiver_email = "jfchae1483@gmail.com" # 받는 사람
+default_receiver = "jfchae1483@gmail.com" # 기본 받는 사람 (데이터 없을 시)
 
 # GitHub Secrets에서 환경 변수로 전달된 값을 읽어옵니다.
-# (GitHub Repository Secrets에 등록한 이름과 동일해야 합니다)
 app_password = os.environ.get("GMAIL_APP_PASSWORD")
 
-# 현재 파이썬 파일 위치 기준, 한 단계 상위 폴더(../)의 data.txt
+# 파일 경로 설정
 file_path = "codes/data.txt"
+receiver_file_path = "codes/receiver_email.json"
 # =============================================
 
 def send_email():
@@ -23,8 +24,20 @@ def send_email():
         print("오류: 환경 변수 'GMAIL_APP_PASSWORD'를 찾을 수 없습니다.")
         return
 
+    # 수신자 목록 가져오기
+    receivers = [default_receiver]
+    if os.path.exists(receiver_file_path):
+        try:
+            with open(receiver_file_path, "r", encoding="utf-8") as f:
+                data = json.load(f)
+                if isinstance(data, list) and len(data) > 0:
+                    receivers = data
+                    print(f"수신자 목록 로드 완료: {len(receivers)}명")
+        except Exception as e:
+            print(f"수신자 파일 읽기 오류: {e}. 기본 수신자를 사용합니다.")
+
     try:
-        # 1. 한 단계 상위 폴더에 있는 파일 내용 읽기
+        # 1. 파일 내용 읽기
         with open(file_path, "r", encoding="utf-8") as file:
             file_content = file.read()
 
@@ -32,14 +45,14 @@ def send_email():
         today = datetime.now(ZoneInfo("Asia/Seoul")).strftime("%y.%m.%d")
         msg = MIMEMultipart()
         msg['From'] = sender_email
-        msg['To'] = receiver_email
+        msg['To'] = ", ".join(receivers)
         msg['Subject'] = f"{today} AI 일일 동향"
 
         # 파일 내용을 이메일 본문에 추가
         msg.attach(MIMEText(file_content, 'plain'))
 
         # 3. SMTP 서버 연결 및 이메일 전송
-        print("SMTP 서버에 연결 중...")
+        print(f"SMTP 서버에 연결 중... (수신자: {msg['To']})")
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls() # TLS 보안 연결 시작
         
