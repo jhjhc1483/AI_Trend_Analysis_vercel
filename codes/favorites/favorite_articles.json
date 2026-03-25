@@ -1,152 +1,112 @@
 [
   {
-    "title": "김태호 노타 창업자 “최적·경량화 기술로 AI 보편화에 기여”",
-    "link": "https://www.etnews.com/20260324000278",
+    "title": "IBK기업은행, AI도 내부통제 넣었다…전사 리스크 관리 체계 가동",
+    "link": "https://www.etnews.com/20260325000146",
     "category": "민간"
   },
   {
-    "title": "AI-RAN 얼라이언스 한국서 첫 총회 개최…AI 네트워크 중심국가 도약",
-    "link": "https://www.etnews.com/20260324000165",
+    "title": "KOTRA, AI로 수출 생태계 혁신… ＇AI 수출비서＇ 등 50개 과제 전면 가동",
+    "link": "https://www.etnews.com/20260325000398",
+    "category": "기관"
+  },
+  {
+    "title": "[人사이트] 김세엽 셀렉트스타 대표 “신뢰성 평가 모델로 소버린 AI 기여”",
+    "link": "https://www.etnews.com/20260325000209",
     "category": "민간"
   },
   {
-    "title": "[국방 AX 골든타임]〈중〉“알고리즘이 표적 결정”…AI戰 윤리 ＇레드라인＇ 어디까지",
-    "link": "https://www.etnews.com/20260324000340",
+    "title": "[국방AX 골든타임]〈하〉국방에 AI 접목할 법적 근거 확보 시급",
+    "link": "https://www.etnews.com/20260325000289",
     "category": "국방"
   },
   {
-    "title": "HD현대, AI 자율운항 실증 클러스터 조성…선박 사고 예방한다",
-    "link": "https://www.etnews.com/20260324000395",
+    "title": "파수, ＇안전한 AX＇ 전략 공개…AI 보안 시장 정조준",
+    "link": "https://www.etnews.com/20260325000313",
     "category": "민간"
   },
   {
-    "title": "로봇·피지컬 AI 국회 토론회…“데이터·규제 풀어야 산업 성장”",
-    "link": "https://www.etnews.com/20260324000382",
+    "title": "산업·학계·시민사회 참여로 ＇AI기본법 제도개선＇ 연구 시동",
+    "link": "https://www.etnews.com/20260325000149",
     "category": "기관"
   },
   {
-    "title": "충남, K-방산기업 등과 ＇AI 국방 로봇 방산클러스터 유치＇ 맞손…사업 공모 ＇재수 불패＇ 다짐",
-    "link": "https://www.etnews.com/20260324000117",
-    "category": "국방"
-  },
-  {
-    "title": "金총리, “AI 허브, 韓 선도국가 가속할 것”",
-    "link": "https://www.etnews.com/20260324000378",
+    "title": "김정관 산업장관 “제조 AX 성과 못 내면 갈 길 없어”…＇M.AX＇로 2030년 세계 1위 정조준",
+    "link": "https://www.etnews.com/20260325000272",
     "category": "기관"
   },
   {
-    "title": "＇건망증 없는 AI＇기술 나왔다...ETRI, 새 지식 배워도 잊지 않는 AI 구현",
-    "link": "https://www.etnews.com/20260324000346",
+    "title": "재경부, AI로 암호화자산 규정 해석 지원…CARF 네비게이션 개발",
+    "link": "https://www.etnews.com/20260325000228",
     "category": "기관"
   },
   {
-    "title": "AIDC 특별법 법안소위 통과…비수도권 전력계통영향평가 면제 길 열리나",
-    "link": "https://www.etnews.com/20260324000331",
+    "title": "국가AI전략위, 분과·특위 신설 등 조직 개편…“전문성 강화”",
+    "link": "https://www.etnews.com/20260325000131",
     "category": "기관"
   },
   {
-    "title": "에스투더블유, 에이수스에 보안 AI 솔루션 ＇퀘이사＇ 공급",
-    "link": "https://www.etnews.com/20260324000302",
+    "title": "NC AI, 신한금융에 월드모델 기반 피지컬 AI 이식",
+    "link": "https://www.etnews.com/20260325000116",
     "category": "민간"
   },
   {
-    "title": "마음AI, 비브테크놀로지스와 국방 등 피지컬 AI 협력",
-    "link": "https://www.etnews.com/20260324000286",
-    "category": "국방"
-  },
-  {
-    "title": "크래프톤 ＇김창한 3기＇ 출범 “메가IP·AI로 글로벌 시장 공략 강화”",
-    "link": "https://www.etnews.com/20260324000261",
+    "title": "네이버, 광고 플랫폼 통합…대시보드·AI 인사이트 제공",
+    "link": "https://www.etnews.com/20260325000062",
     "category": "민간"
   },
   {
-    "title": "LGU+ “AIDC 최적화 운영시스템 개발…DBO로 실질 성과 창출”",
-    "link": "https://www.etnews.com/20260324000255",
+    "title": "아마존, 휴머노이드 로봇 스타트업 ＇파우나로보틱스＇ 인수",
+    "link": "https://www.etnews.com/20260325000043",
+    "category": "해외"
+  },
+  {
+    "title": "MS, 오픈AI·오라클 포기한 텍사스주 ＇스타게이트＇ 데이터센터 확보",
+    "link": "https://www.etnews.com/20260325000037",
+    "category": "해외"
+  },
+  {
+    "title": "반도체 설계 1위 Arm, 35년만에 자체 칩 판매 공식화 ＇AI용 CPU 공급＇",
+    "link": "https://www.etnews.com/20260325000031",
+    "category": "해외"
+  },
+  {
+    "title": "산업·학계에 첨단 GPU 2000장 배분…“AI 역량 강화 지원”",
+    "link": "https://www.etnews.com/20260325000499",
+    "category": "기관"
+  },
+  {
+    "title": "마키나락스, 5월 코스닥 상장…“피지컬 AI 글로벌 리더 목표”",
+    "link": "https://www.etnews.com/20260325000497",
     "category": "민간"
   },
   {
-    "title": "업스테이지, 에이전틱 AI 입힌 ＇솔라 프로3＇ 공개",
-    "link": "https://www.etnews.com/20260324000153",
-    "category": "민간"
-  },
-  {
-    "title": "인공지능협회, ＇전국 228개 지역에 AI 이식＇ 지방선거 공약 지원",
-    "link": "https://www.etnews.com/20260324000010",
-    "category": "기관"
-  },
-  {
-    "title": "오픈AI, 샘 올트먼 투자사 헬리온과 전력 수급 협상",
-    "link": "https://www.etnews.com/20260324000001",
+    "title": "＇일본 대표＇ 사카나 AI, 첫 일본어 챗봇 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208340",
     "category": "해외"
   },
   {
-    "title": "KTL, “불법 드론 테러 막는다”…국가주요시설 방어 위한 안티드론 평가 체계 구축",
-    "link": "https://www.etnews.com/20260324000398",
+    "title": "알리바바, ‘에이전트용’ CPU 공개...〃세계 최고의 RISC-V CPU〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208324",
+    "category": "해외"
+  },
+  {
+    "title": "메타, 자가 진화형 AI ‘하이퍼에이전트’ 발표… 〃배우는 방법까지 바꾼다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208357",
+    "category": "해외"
+  },
+  {
+    "title": "애플, AI 챗봇 ＇시리＇ WWDC서 공개...에이전트 업그레이드가 목표",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208330",
+    "category": "해외"
+  },
+  {
+    "title": "AI 시대, 배제 아닌 포용을 말하다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260326/1/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985",
+    "category": "기타"
+  },
+  {
+    "title": "전쟁 양상부터 인재 육성까지…국방AI 전략 발전방향 제시",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260326/4/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985",
     "category": "국방"
-  },
-  {
-    "title": "젠슨 황의 파격 선언 〃경제적으로는 AGI 이미 달성...AI로 유니콘 설립 가능〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208283",
-    "category": "해외"
-  },
-  {
-    "title": "미국 상원의원 〃국방부의 앤트로픽 블랙리스트 지정은 보복성 조치〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208291",
-    "category": "해외"
-  },
-  {
-    "title": "에이전트에 올인한 메타...저커버그는 CEO 업무 도와줄 에이전트 개발",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208256",
-    "category": "해외"
-  },
-  {
-    "title": "애플, 6월8일 WWDC 개최...AI 재도약 나설 듯",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208258",
-    "category": "해외"
-  },
-  {
-    "title": "앤트로픽, ‘클로드’에 화면 제어 기능 도입…〃AI가 컴퓨터 직접 조작〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208285",
-    "category": "해외"
-  },
-  {
-    "title": "오라클, ‘에이전틱 AI’ 기반 데이터베이스 혁신 공개... “AI 시대 보안·확장성·실시간 분석 동시 해결”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39237",
-    "category": "해외"
-  },
-  {
-    "title": "국민권익위, AI 도입·활용 전반 총괄 조직 ＇지능데이터담당관＇ 신설…더 확실하게 국민의 권익 보호",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39228",
-    "category": "기관"
-  },
-  {
-    "title": "전용 기관차부터 드론관제차량까지…군 수송 판을 바꾼다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48203&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "올해부터 호국미술대전에 ‘AI아트’ 부문 신설",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48212&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "‘실제 전투 현장에 있는 듯’…AI 활용 전장 영상 구현",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48211&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "공군, 해커톤 대회 개최…창의·혁신 아이디어 찾는다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48218&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "전장의 눈을 밝히는 합동화력시뮬레이터",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260325/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=UCsfSsG-ragkadkFWaSPtIVV-y529VCnTg4Tb4-PWKcY4SMOTYtG!-970361443",
-    "category": "국방"
-  },
-  {
-    "title": "도시의 인공지능 전환, 공공 혁신 서비스 발굴 추진",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187059&searchOpt=ALL&searchTxt=",
-    "category": "기관"
   }
 ]
