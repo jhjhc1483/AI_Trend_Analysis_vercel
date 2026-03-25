@@ -12,33 +12,30 @@ https://kookbang.dema.mil.kr/newsWeb/20260326/4/ATCE_CTGR_0020020015/view.do;JSE
 ◾ IBK기업은행, AI도 내부통제 넣었다…전사 리스크 관리 체계 가동
 https://www.etnews.com/20260325000146
 
+◾ 네이버플러스 스토어 1년…＇바우처+AI＇로 브랜드·고객 동반 성장
+https://www.etnews.com/20260325000290
+
 ◾ [人사이트] 김세엽 셀렉트스타 대표 “신뢰성 평가 모델로 소버린 AI 기여”
 https://www.etnews.com/20260325000209
-
-◾ 파수, ＇안전한 AX＇ 전략 공개…AI 보안 시장 정조준
-https://www.etnews.com/20260325000313
 
 ◾ NC AI, 신한금융에 월드모델 기반 피지컬 AI 이식
 https://www.etnews.com/20260325000116
 
-◾ 네이버, 광고 플랫폼 통합…대시보드·AI 인사이트 제공
-https://www.etnews.com/20260325000062
+◾ 노타, 글로벌 엣지 AI반도체 기업과 피지컬 AI 시장 공략
+https://www.etnews.com/20260325000076
 
 ◾ 마키나락스, 5월 코스닥 상장…“피지컬 AI 글로벌 리더 목표”
 https://www.etnews.com/20260325000497
 
 [기관]
+◾ [미래 여는 AI·ICT R&D 우수성과]〈2〉딥페이크 탐지 세계 최고 수준 기술 구현...사업화도 노린다
+https://www.etnews.com/20260325000250
+
 ◾ KOTRA, AI로 수출 생태계 혁신… ＇AI 수출비서＇ 등 50개 과제 전면 가동
 https://www.etnews.com/20260325000398
 
 ◾ 산업·학계·시민사회 참여로 ＇AI기본법 제도개선＇ 연구 시동
 https://www.etnews.com/20260325000149
-
-◾ 김정관 산업장관 “제조 AX 성과 못 내면 갈 길 없어”…＇M.AX＇로 2030년 세계 1위 정조준
-https://www.etnews.com/20260325000272
-
-◾ 재경부, AI로 암호화자산 규정 해석 지원…CARF 네비게이션 개발
-https://www.etnews.com/20260325000228
 
 ◾ 국가AI전략위, 분과·특위 신설 등 조직 개편…“전문성 강화”
 https://www.etnews.com/20260325000131
@@ -46,21 +43,21 @@ https://www.etnews.com/20260325000131
 ◾ 산업·학계에 첨단 GPU 2000장 배분…“AI 역량 강화 지원”
 https://www.etnews.com/20260325000499
 
+◾ 정부, 국가창업시대 열어가는 첫 발걸음 ＇모두의 창업 프로젝트 추진계획＇ 발표
+https://www.aitimes.kr/news/articleView.html?idxno=39261
+
 [해외]
 ◾ 아마존, 휴머노이드 로봇 스타트업 ＇파우나로보틱스＇ 인수
 https://www.etnews.com/20260325000043
 
-◾ MS, 오픈AI·오라클 포기한 텍사스주 ＇스타게이트＇ 데이터센터 확보
-https://www.etnews.com/20260325000037
-
 ◾ 반도체 설계 1위 Arm, 35년만에 자체 칩 판매 공식화 ＇AI용 CPU 공급＇
 https://www.etnews.com/20260325000031
 
-◾ ＇일본 대표＇ 사카나 AI, 첫 일본어 챗봇 출시
-https://www.aitimes.com/news/articleView.html?idxno=208340
-
 ◾ 알리바바, ‘에이전트용’ CPU 공개...〃세계 최고의 RISC-V CPU〃
 https://www.aitimes.com/news/articleView.html?idxno=208324
+
+◾ 오픈AI, 영상 공유 앱 ‘소라’ 6개월 만에 종료...디즈니 투자도 철회
+https://www.aitimes.com/news/articleView.html?idxno=208313
 
 ◾ 메타, 자가 진화형 AI ‘하이퍼에이전트’ 발표… 〃배우는 방법까지 바꾼다〃
 https://www.aitimes.com/news/articleView.html?idxno=208357
