@@ -1,86 +1,98 @@
-📢26.03.26 AI 일일 동향📢
+26.02.28 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ [국방AX 골든타임]〈하〉국방에 AI 접목할 법적 근거 확보 시급
-https://www.etnews.com/20260325000289
+◾ [기품원] 국방기술품질원, 한국형 고장률 예측소프트웨어 개발·무상배포
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58243&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
-◾ 전쟁 양상부터 인재 육성까지…국방AI 전략 발전방향 제시
-https://kookbang.dema.mil.kr/newsWeb/20260326/4/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985
+◾ “24시간 연속 자율 비행 시대 열릴까” 아리온-유니퀘스트·구루, 최첨단 UAS플랫폼 글로벌 사업화 업무협약
+https://www.etnews.com/20260227000284
+
+◾ 무인 체계 운용·생존성 확보 방안 모색
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47883&startDate=&endDate=&id=mnd_020101000000
+
+[육군]
+◾ 또 다른 눈과 손 다루는 ‘정예 드론전사’로 변신
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47867&startDate=&endDate=&id=mnd_020101000000
+
+◾ 야전부대 최초 차세대 디지털 무전기 활용 전투훈련
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47869&startDate=&endDate=&id=mnd_020101000000
+
+◾ 드론·로봇·RCWS 한몸에 품은 전투차량의 등장…前에 없던, 戰에서 보다
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47870&startDate=&endDate=&id=mnd_020101000000
 
 [민간]
-◾ IBK기업은행, AI도 내부통제 넣었다…전사 리스크 관리 체계 가동
-https://www.etnews.com/20260325000146
+◾ 시스원, 퓨리오사AI와 공공부문 총판계약 체결…2세대 NPU 시장 진출 본격화
+https://www.etnews.com/20260227000306
 
-◾ 네이버플러스 스토어 1년…＇바우처+AI＇로 브랜드·고객 동반 성장
-https://www.etnews.com/20260325000290
+◾ AI 대전환, SW 미래는… SW 업계 “생산성 혁신과 인력 급감 속 생태계 격변 대비해야”
+https://www.etnews.com/20260227000207
 
-◾ [人사이트] 김세엽 셀렉트스타 대표 “신뢰성 평가 모델로 소버린 AI 기여”
-https://www.etnews.com/20260325000209
+◾ 현대차그룹, 새만금에 AI·로봇·에너지 거점 구축...9조원 투자
+https://www.etnews.com/20260227000190
 
-◾ NC AI, 신한금융에 월드모델 기반 피지컬 AI 이식
-https://www.etnews.com/20260325000116
+◾ KT, MWC26서 차세대 AICC 공개…상담부터 해결까지 ＇원스톱＇
+https://www.etnews.com/20260227000082
 
-◾ 노타, 글로벌 엣지 AI반도체 기업과 피지컬 AI 시장 공략
-https://www.etnews.com/20260325000076
+◾ KT-GSMA, MWC26서 공동백서 발간…＇AI네이티브 네트워크＇ 알린다
+https://www.etnews.com/20260227000028
 
-◾ 마키나락스, 5월 코스닥 상장…“피지컬 AI 글로벌 리더 목표”
-https://www.etnews.com/20260325000497
+◾ 몬드리안에이아이, 통합 AI 어플라이언스 ‘몬박스’ 실증 성과 공개… ‘네오클라우드’ 비전 선포
+https://www.aitimes.kr/news/articleView.html?idxno=38855
+
+◾ 체인징텍 로보틱스, 세계 최초 AI 기반 ＇좌·우 전환형＇ 적응 로봇손 ‘X2’ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=38861
 
 [기관]
-◾ [미래 여는 AI·ICT R&D 우수성과]〈2〉딥페이크 탐지 세계 최고 수준 기술 구현...사업화도 노린다
-https://www.etnews.com/20260325000250
+◾ 정부, 구글에 고정밀지도 반출 허가 ＇가닥＇…산업계·학계, 우려 현실화 조짐에 “개탄”
+https://www.etnews.com/20260227000009
 
-◾ KOTRA, AI로 수출 생태계 혁신… ＇AI 수출비서＇ 등 50개 과제 전면 가동
-https://www.etnews.com/20260325000398
+◾ “대구, AX로 산업지도를 다시 그린다! ”  대구 AI 대전환 사업단 출범 비전선포식 성황리 개최
+https://www.etnews.com/20260227000353
 
-◾ 산업·학계·시민사회 참여로 ＇AI기본법 제도개선＇ 연구 시동
-https://www.etnews.com/20260325000149
+◾ 공공 AI전환(AX)을 위한 5대 원칙과 로드맵은?
+https://www.etnews.com/20260227000308
 
-◾ 국가AI전략위, 분과·특위 신설 등 조직 개편…“전문성 강화”
-https://www.etnews.com/20260325000131
+◾ KAIST, ‘딥테크 스케일업 밸리’본격 가동...피지컬 AI 실행 전략 공개
+https://www.aitimes.kr/news/articleView.html?idxno=38841
 
-◾ 산업·학계에 첨단 GPU 2000장 배분…“AI 역량 강화 지원”
-https://www.etnews.com/20260325000499
+◾ K-문샷 핵심 임무(미션) ‘인간형 로봇(휴머노이드)’, 출연연 한 팀(원팀)으로 세계 주도권 선점
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186960&searchOpt=ALL&searchTxt=
 
-◾ 정부, 국가창업시대 열어가는 첫 발걸음 ＇모두의 창업 프로젝트 추진계획＇ 발표
-https://www.aitimes.kr/news/articleView.html?idxno=39261
+◾ 과기정통부, 제2차 한･일 정보통신기술(ICT) 정책 포럼 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3186956&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 아마존, 휴머노이드 로봇 스타트업 ＇파우나로보틱스＇ 인수
-https://www.etnews.com/20260325000043
+◾ 구글, 이미지 AI ＇나노바나나2＇ 출시…＇프로＇급 이미지 무료 이용
+https://www.etnews.com/20260227000010
 
-◾ 반도체 설계 1위 Arm, 35년만에 자체 칩 판매 공식화 ＇AI용 CPU 공급＇
-https://www.etnews.com/20260325000031
+◾ AI에 가상전쟁 맡겼더니…95%가 핵무기 버튼 눌렀다
+https://www.etnews.com/20260227000348
 
-◾ 알리바바, ‘에이전트용’ CPU 공개...〃세계 최고의 RISC-V CPU〃
-https://www.aitimes.com/news/articleView.html?idxno=208324
+◾ 미국 국방부, 중국과 충돌 시 ＇AI 사이버 공격·정찰＇ 추진
+https://www.etnews.com/20260227000358
 
-◾ 오픈AI, 영상 공유 앱 ‘소라’ 6개월 만에 종료...디즈니 투자도 철회
-https://www.aitimes.com/news/articleView.html?idxno=208313
+◾ 앤트로픽, 美 국방부 ＇무기 등 AI 무제한 사용 요구＇ 거부
+https://www.etnews.com/20260227000356
 
-◾ 메타, 자가 진화형 AI ‘하이퍼에이전트’ 발표… 〃배우는 방법까지 바꾼다〃
-https://www.aitimes.com/news/articleView.html?idxno=208357
+◾ 〃아마존, 오픈AI 500억달러 투자에 IPO·AGI 조건 포함〃
+https://www.aitimes.com/news/articleView.html?idxno=207370
 
-◾ 애플, AI 챗봇 ＇시리＇ WWDC서 공개...에이전트 업그레이드가 목표
-https://www.aitimes.com/news/articleView.html?idxno=208330
+◾ 〃메타, 구글와 수십억달러 TPU 계약 체결...자체 칩 개발은 중단〃
+https://www.aitimes.com/news/articleView.html?idxno=207368
 
-[기타]
-◾ AI 시대, 배제 아닌 포용을 말하다
-https://kookbang.dema.mil.kr/newsWeb/20260326/1/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985
+◾ 오픈AI, ＇AI 악의적 사용 차단＇ 보고서 공개...“위협 행위자, 단일 모델 아닌 복수 AI·플랫폼 결합 활용”
+https://www.aitimes.kr/news/articleView.html?idxno=38839
 
 📚 간행물
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 3월 2주차)
-https://www.kisa.or.kr/20202/form?postSeq=467&page=1
+◾ 에이전틱인터페이스, AI통신, AI규제 [AI·ICT Brief 2026-07호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260227-000001&cpage=1&rows=10&searchTarget=all
 
-◾ 인간-로봇 간 교감 공감 대화를 위한 Affective AI 기술 동향 [주간기술동향 2207호]
-https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1392&cpage=1&rows=10&searchTarget=all
-
-◾ AI 정부 서비스 사례집
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=29161&parentSeq=29161
+◾ AI 임팩트 서밋 2026(AI Impact Summit 2026) 外 [IITP 디지털 아웃룩 2026-2월호]
+https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260227-000031&cpage=1&rows=10&searchTarget=all
 
 
-🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
+🎧오디오 듣기 https://jhjhc1483.github.io/AI_Trend_Analysis_vercel/public/bf.html
 (링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
 
 
