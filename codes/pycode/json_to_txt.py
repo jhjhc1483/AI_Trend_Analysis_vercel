@@ -95,13 +95,28 @@ def main():
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(report_text)
 
-    # JSON 저장
-    output_data = {
-        "date": datetime.now(ZoneInfo("Asia/Seoul")).strftime("%y.%m.%d"),
+    # JSON 저장 (누적)
+    history_data = {}
+    if JSON_OUTPUT_FILE.exists():
+        try:
+            with open(JSON_OUTPUT_FILE, "r", encoding="utf-8") as f:
+                history_data = json.load(f)
+            
+            # 구버전 형식(단일 날짜)인 경우 마이그레이션
+            if "date" in history_data and "categorized" in history_data:
+                old_date = history_data["date"]
+                old_cat = history_data["categorized"]
+                history_data = { old_date: { "categorized": old_cat } }
+        except json.JSONDecodeError:
+            print("기존 JSON 파일 파싱 실패. 새로 생성합니다.")
+
+    today_key = datetime.now(ZoneInfo("Asia/Seoul")).strftime("%y.%m.%d")
+    history_data[today_key] = {
         "categorized": categorized
     }
+
     with open(JSON_OUTPUT_FILE, "w", encoding="utf-8") as f:
-        json.dump(output_data, f, ensure_ascii=False, indent=2)
+        json.dump(history_data, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":

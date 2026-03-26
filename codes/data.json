@@ -1,137 +1,138 @@
 {
-  "date": "26.03.26",
-  "categorized": {
-    "국방": [
-      {
-        "title": "[국방AX 골든타임]〈하〉국방에 AI 접목할 법적 근거 확보 시급",
-        "link": "https://www.etnews.com/20260325000289",
-        "category": "국방"
-      },
-      {
-        "title": "전쟁 양상부터 인재 육성까지…국방AI 전략 발전방향 제시",
-        "link": "https://kookbang.dema.mil.kr/newsWeb/20260326/4/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985",
-        "category": "국방"
-      }
-    ],
-    "기관": [
-      {
-        "title": "[미래 여는 AI·ICT R&D 우수성과]〈2〉딥페이크 탐지 세계 최고 수준 기술 구현...사업화도 노린다",
-        "link": "https://www.etnews.com/20260325000250",
-        "category": "기관"
-      },
-      {
-        "title": "KOTRA, AI로 수출 생태계 혁신… ＇AI 수출비서＇ 등 50개 과제 전면 가동",
-        "link": "https://www.etnews.com/20260325000398",
-        "category": "기관"
-      },
-      {
-        "title": "산업·학계·시민사회 참여로 ＇AI기본법 제도개선＇ 연구 시동",
-        "link": "https://www.etnews.com/20260325000149",
-        "category": "기관"
-      },
-      {
-        "title": "국가AI전략위, 분과·특위 신설 등 조직 개편…“전문성 강화”",
-        "link": "https://www.etnews.com/20260325000131",
-        "category": "기관"
-      },
-      {
-        "title": "산업·학계에 첨단 GPU 2000장 배분…“AI 역량 강화 지원”",
-        "link": "https://www.etnews.com/20260325000499",
-        "category": "기관"
-      },
-      {
-        "title": "정부, 국가창업시대 열어가는 첫 발걸음 ＇모두의 창업 프로젝트 추진계획＇ 발표",
-        "link": "https://www.aitimes.kr/news/articleView.html?idxno=39261",
-        "category": "기관"
-      }
-    ],
-    "민간": [
-      {
-        "title": "IBK기업은행, AI도 내부통제 넣었다…전사 리스크 관리 체계 가동",
-        "link": "https://www.etnews.com/20260325000146",
-        "category": "민간"
-      },
-      {
-        "title": "네이버플러스 스토어 1년…＇바우처+AI＇로 브랜드·고객 동반 성장",
-        "link": "https://www.etnews.com/20260325000290",
-        "category": "민간"
-      },
-      {
-        "title": "[人사이트] 김세엽 셀렉트스타 대표 “신뢰성 평가 모델로 소버린 AI 기여”",
-        "link": "https://www.etnews.com/20260325000209",
-        "category": "민간"
-      },
-      {
-        "title": "NC AI, 신한금융에 월드모델 기반 피지컬 AI 이식",
-        "link": "https://www.etnews.com/20260325000116",
-        "category": "민간"
-      },
-      {
-        "title": "노타, 글로벌 엣지 AI반도체 기업과 피지컬 AI 시장 공략",
-        "link": "https://www.etnews.com/20260325000076",
-        "category": "민간"
-      },
-      {
-        "title": "마키나락스, 5월 코스닥 상장…“피지컬 AI 글로벌 리더 목표”",
-        "link": "https://www.etnews.com/20260325000497",
-        "category": "민간"
-      }
-    ],
-    "해외": [
-      {
-        "title": "아마존, 휴머노이드 로봇 스타트업 ＇파우나로보틱스＇ 인수",
-        "link": "https://www.etnews.com/20260325000043",
-        "category": "해외"
-      },
-      {
-        "title": "반도체 설계 1위 Arm, 35년만에 자체 칩 판매 공식화 ＇AI용 CPU 공급＇",
-        "link": "https://www.etnews.com/20260325000031",
-        "category": "해외"
-      },
-      {
-        "title": "알리바바, ‘에이전트용’ CPU 공개...〃세계 최고의 RISC-V CPU〃",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=208324",
-        "category": "해외"
-      },
-      {
-        "title": "오픈AI, 영상 공유 앱 ‘소라’ 6개월 만에 종료...디즈니 투자도 철회",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=208313",
-        "category": "해외"
-      },
-      {
-        "title": "메타, 자가 진화형 AI ‘하이퍼에이전트’ 발표… 〃배우는 방법까지 바꾼다〃",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=208357",
-        "category": "해외"
-      },
-      {
-        "title": "애플, AI 챗봇 ＇시리＇ WWDC서 공개...에이전트 업그레이드가 목표",
-        "link": "https://www.aitimes.com/news/articleView.html?idxno=208330",
-        "category": "해외"
-      }
-    ],
-    "기타": [
-      {
-        "title": "AI 시대, 배제 아닌 포용을 말하다",
-        "link": "https://kookbang.dema.mil.kr/newsWeb/20260326/1/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985",
-        "category": "기타"
-      }
-    ],
-    "간행물": [
-      {
-        "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 3월 2주차)",
-        "link": "https://www.kisa.or.kr/20202/form?postSeq=467&page=1",
-        "category": "간행물"
-      },
-      {
-        "title": "인간-로봇 간 교감 공감 대화를 위한 Affective AI 기술 동향 [주간기술동향 2207호]",
-        "link": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1392&cpage=1&rows=10&searchTarget=all",
-        "category": "간행물"
-      },
-      {
-        "title": "AI 정부 서비스 사례집",
-        "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=29161&parentSeq=29161",
-        "category": "간행물"
-      }
-    ]
+  "26.03.26": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "[국방AX 골든타임]〈하〉국방에 AI 접목할 법적 근거 확보 시급",
+          "link": "https://www.etnews.com/20260325000289",
+          "category": "국방"
+        },
+        {
+          "title": "전쟁 양상부터 인재 육성까지…국방AI 전략 발전방향 제시",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260326/4/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985",
+          "category": "국방"
+        }
+      ],
+      "기관": [
+        {
+          "title": "[미래 여는 AI·ICT R&D 우수성과]〈2〉딥페이크 탐지 세계 최고 수준 기술 구현...사업화도 노린다",
+          "link": "https://www.etnews.com/20260325000250",
+          "category": "기관"
+        },
+        {
+          "title": "KOTRA, AI로 수출 생태계 혁신… ＇AI 수출비서＇ 등 50개 과제 전면 가동",
+          "link": "https://www.etnews.com/20260325000398",
+          "category": "기관"
+        },
+        {
+          "title": "산업·학계·시민사회 참여로 ＇AI기본법 제도개선＇ 연구 시동",
+          "link": "https://www.etnews.com/20260325000149",
+          "category": "기관"
+        },
+        {
+          "title": "국가AI전략위, 분과·특위 신설 등 조직 개편…“전문성 강화”",
+          "link": "https://www.etnews.com/20260325000131",
+          "category": "기관"
+        },
+        {
+          "title": "산업·학계에 첨단 GPU 2000장 배분…“AI 역량 강화 지원”",
+          "link": "https://www.etnews.com/20260325000499",
+          "category": "기관"
+        },
+        {
+          "title": "정부, 국가창업시대 열어가는 첫 발걸음 ＇모두의 창업 프로젝트 추진계획＇ 발표",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39261",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "IBK기업은행, AI도 내부통제 넣었다…전사 리스크 관리 체계 가동",
+          "link": "https://www.etnews.com/20260325000146",
+          "category": "민간"
+        },
+        {
+          "title": "네이버플러스 스토어 1년…＇바우처+AI＇로 브랜드·고객 동반 성장",
+          "link": "https://www.etnews.com/20260325000290",
+          "category": "민간"
+        },
+        {
+          "title": "[人사이트] 김세엽 셀렉트스타 대표 “신뢰성 평가 모델로 소버린 AI 기여”",
+          "link": "https://www.etnews.com/20260325000209",
+          "category": "민간"
+        },
+        {
+          "title": "NC AI, 신한금융에 월드모델 기반 피지컬 AI 이식",
+          "link": "https://www.etnews.com/20260325000116",
+          "category": "민간"
+        },
+        {
+          "title": "노타, 글로벌 엣지 AI반도체 기업과 피지컬 AI 시장 공략",
+          "link": "https://www.etnews.com/20260325000076",
+          "category": "민간"
+        },
+        {
+          "title": "마키나락스, 5월 코스닥 상장…“피지컬 AI 글로벌 리더 목표”",
+          "link": "https://www.etnews.com/20260325000497",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "아마존, 휴머노이드 로봇 스타트업 ＇파우나로보틱스＇ 인수",
+          "link": "https://www.etnews.com/20260325000043",
+          "category": "해외"
+        },
+        {
+          "title": "반도체 설계 1위 Arm, 35년만에 자체 칩 판매 공식화 ＇AI용 CPU 공급＇",
+          "link": "https://www.etnews.com/20260325000031",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바, ‘에이전트용’ CPU 공개...〃세계 최고의 RISC-V CPU〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208324",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 영상 공유 앱 ‘소라’ 6개월 만에 종료...디즈니 투자도 철회",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208313",
+          "category": "해외"
+        },
+        {
+          "title": "메타, 자가 진화형 AI ‘하이퍼에이전트’ 발표… 〃배우는 방법까지 바꾼다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208357",
+          "category": "해외"
+        },
+        {
+          "title": "애플, AI 챗봇 ＇시리＇ WWDC서 공개...에이전트 업그레이드가 목표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208330",
+          "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "AI 시대, 배제 아닌 포용을 말하다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260326/1/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985",
+          "category": "기타"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 3월 2주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=467&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "인간-로봇 간 교감 공감 대화를 위한 Affective AI 기술 동향 [주간기술동향 2207호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1392&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        },
+        {
+          "title": "AI 정부 서비스 사례집",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=29161&parentSeq=29161",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
