@@ -176,8 +176,10 @@
 </head>
 <body>
     <div class="subscribe-container">
-        <h1>Subscribe</h1>
-        <p>AI 일일 동향 리포트를<br>이메일로 받아보세요.(무료)</p>
+        <p>AI 일일 동향 리포트를<br>이메일로 받아보세요. (무료)</p>
+        <p style="font-size: 0.8rem; color: #888; margin-top: -20px; margin-bottom: 25px;">
+            * 개인정보 보호를 위해 구독 정보는 1년마다 초기화됩니다.
+        </p>
         
         <div class="input-group">
             <label for="email">Email Address</label>
@@ -238,18 +240,44 @@
         async function getEmailList() {
             const endpoint = `repos/${OWNER}/${REPO}/contents/${FILE_PATH}?ref=${BRANCH}`;
             const data = await callProxyAPI(endpoint, 'GET');
-            if (!data) return { emails: [], sha: null };
+            if (!data) return { emails: [], last_reset: new Date().toISOString().split('T')[0], sha: null };
             
             const content = base64ToUtf8(data.content);
+            let parsed = JSON.parse(content);
+            
+            // 마이그레이션: 기존 리스트 형식인 경우
+            if (Array.isArray(parsed)) {
+                parsed = {
+                    last_reset: new Date().toISOString().split('T')[0],
+                    emails: parsed
+                };
+            }
+
+            // 1년 경과 체크 및 초기화
+            const lastReset = new Date(parsed.last_reset);
+            const today = new Date();
+            const diffDays = (today - lastReset) / (1000 * 60 * 60 * 24);
+
+            if (diffDays >= 365) {
+                console.log("1년이 경과되어 구독 명단을 초기화합니다.");
+                parsed.emails = [];
+                parsed.last_reset = today.toISOString().split('T')[0];
+            }
+
             return {
-                emails: JSON.parse(content),
+                emails: parsed.emails,
+                last_reset: parsed.last_reset,
                 sha: data.sha
             };
         }
 
-        async function updateEmailList(emails, sha, action) {
+        async function updateEmailList(emails, last_reset, sha, action) {
             const endpoint = `repos/${OWNER}/${REPO}/contents/${FILE_PATH}`;
-            const jsonString = JSON.stringify(emails, null, 2);
+            const dataToSave = {
+                last_reset: last_reset,
+                emails: emails
+            };
+            const jsonString = JSON.stringify(dataToSave, null, 2);
             const body = {
                 message: `${action} email: ${emails[emails.length - 1] || 'update'}`,
                 content: utf8ToBase64(jsonString),
@@ -287,14 +315,14 @@
                 loader.style.display = 'inline-block';
                 setStatus(`${action === 'Subscribe' ? '구독' : '해지'} 처리 중...`, "var(--secondary-color)");
 
-                const { emails, sha } = await getEmailList();
+                const { emails, last_reset, sha } = await getEmailList();
                 
                 if (action === 'Subscribe') {
                     if (emails.includes(email)) {
                         setStatus("이미 등록된 이메일입니다.", "var(--secondary-color)");
                     } else {
                         emails.push(email);
-                        await updateEmailList(emails, sha, "Add");
+                        await updateEmailList(emails, last_reset, sha, "Add");
                         setStatus("성공적으로 구독되었습니다! 🎉", "var(--success-color)");
                         emailInput.value = '';
                     }
@@ -303,7 +331,7 @@
                         setStatus("등록되지 않은 이메일입니다.", "var(--danger-color)");
                     } else {
                         const newList = emails.filter(e => e !== email);
-                        await updateEmailList(newList, sha, "Remove");
+                        await updateEmailList(newList, last_reset, sha, "Remove");
                         setStatus("구독이 해지되었습니다. 😢", "var(--text-color)");
                         emailInput.value = '';
                     }
