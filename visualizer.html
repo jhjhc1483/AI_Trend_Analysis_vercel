@@ -111,22 +111,36 @@
             margin-bottom: 20px;
         }
 
-        .btn-audio {
+        .header-actions {
             position: absolute;
             right: 0;
-            background-color: var(--brand-color);
-            color: white;
-            border: none;
+            display: flex;
+            align-items: center;
+            gap: 10px;
+        }
+
+        .btn-audio, .btn-history {
             width: 38px;
             height: 38px;
             border-radius: 50%;
-            font-size: 1rem;
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            transition: var(--transition);
+            background-color: var(--brand-color);
+            color: white;
+            border: none;
             box-shadow: 0 4px 10px rgba(44, 82, 52, 0.2);
+            font-size: 1rem;
+            cursor: pointer;
             text-decoration: none;
+            transition: var(--transition);
+        }
+
+        .btn-history {
+            background-color: #f1f5f9;
+            color: var(--brand-color);
+            border: 1px solid #e2e8f0;
+            box-shadow: none;
         }
 
         .btn-audio:hover {
@@ -284,7 +298,12 @@
             </div>
             <div id="date-container">
                 <div class="date-box" id="main-date">Loading...</div>
-                <a href="https://ai-trend-analysis.vercel.app/public/bf.html" class="btn-audio">🎧</a>
+                <div class="header-actions">
+                    <button id="history-trigger" class="btn-history" title="지난 동향 보기">📅</button>
+                    <!-- Hidden date input -->
+                    <input type="date" id="history-date" style="position: absolute; width: 0; height: 0; opacity: 0; pointer-events: none; border: none; padding: 0;">
+                    <a href="https://ai-trend-analysis.vercel.app/public/bf.html" class="btn-audio" title="오디오 동향 듣기">🎧</a>
+                </div>
             </div>
         </header>
 
@@ -301,18 +320,112 @@
     </div>
 
     <script>
+        let allHistoryData = {};
+
         document.addEventListener('DOMContentLoaded', async () => {
             try {
-                // Add a cache-busting parameter to ensure the latest data is loaded
+                // Fetch data.json which contains all history
+                const response = await fetch('codes/data.json?t=' + new Date().getTime());
+                if (!response.ok) throw new Error('Failed to fetch data.json');
+                allHistoryData = await response.json();
+                
+                const dates = Object.keys(allHistoryData).sort((a, b) => b.localeCompare(a));
+                
+                if (dates.length > 0) {
+                    const historyDateInput = document.getElementById('history-date');
+                    const historyTrigger = document.getElementById('history-trigger');
+                    
+                    // Trigger native picker when emoji button is clicked
+                    historyTrigger.addEventListener('click', () => {
+                        // showPicker() is best, fallback to click()
+                        if (typeof historyDateInput.showPicker === 'function') {
+                            historyDateInput.showPicker();
+                        } else {
+                            historyDateInput.click();
+                        }
+                    });
+
+                    // Set min/max for the date picker
+                    const formattedDates = dates.map(d => '20' + d.replace(/\./g, '-'));
+                    historyDateInput.min = formattedDates[formattedDates.length - 1];
+                    historyDateInput.max = formattedDates[0];
+                    historyDateInput.value = formattedDates[0];
+
+                    // Render latest by default
+                    renderHistoryDate(dates[0]);
+
+                    historyDateInput.addEventListener('change', (e) => {
+                        const selectedDate = e.target.value; // yyyy-mm-dd
+                        const key = selectedDate.substring(2).replace(/-/g, '.'); // yy.mm.dd
+                        if (allHistoryData[key]) {
+                            renderHistoryDate(key);
+                        } else {
+                            alert('해당 날짜의 데이터가 없습니다.');
+                            // Optional: Reset to previous or closest date
+                        }
+                    });
+                } else {
+                    // Fallback to data.txt if json is empty
+                    fetchLatestText();
+                }
+            } catch (error) {
+                console.error('History load failed, trying data.txt:', error);
+                fetchLatestText();
+            }
+        });
+
+        async function fetchLatestText() {
+            try {
                 const response = await fetch('codes/data.txt?t=' + new Date().getTime());
-                if (!response.ok) throw new Error('Failed to fetch data');
+                if (!response.ok) throw new Error('Failed to fetch data.txt');
                 const text = await response.text();
                 parseAndRender(text);
             } catch (error) {
                 console.error(error);
                 document.getElementById('content-main').innerHTML = `<p style="text-align:center; color:red;">데이터를 불러오는 중 오류가 발생했습니다.</p>`;
             }
-        });
+        }
+
+        function renderHistoryDate(dateKey) {
+            const data = allHistoryData[dateKey];
+            if (!data) return;
+
+            document.getElementById('main-date').innerText = formatHeaderDate(dateKey + " AI 일일 동향");
+            
+            // Convert categorized JSON to sections array
+            const sections = [];
+            const categorized = data.categorized;
+            
+            // Order logic: FIXED_CATEGORIES first, then others, then 간행물
+            const FIXED_CATEGORIES = ["국방", "육군", "민간", "기관", "해외", "기타"];
+            
+            FIXED_CATEGORIES.forEach(cat => {
+                if (categorized[cat] && categorized[cat].length > 0) {
+                    sections.push({
+                        title: cat,
+                        articles: categorized[cat].map(a => ({ title: a.title, url: a.link }))
+                    });
+                }
+            });
+
+            Object.keys(categorized).forEach(cat => {
+                if (!FIXED_CATEGORIES.includes(cat) && cat !== "간행물") {
+                    sections.push({
+                        title: cat,
+                        articles: categorized[cat].map(a => ({ title: a.title, url: a.link }))
+                    });
+                }
+            });
+
+            if (categorized["간행물"]) {
+                sections.push({
+                    title: "간행물",
+                    articles: categorized["간행물"].map(a => ({ title: a.title, url: a.link }))
+                });
+            }
+
+            renderContent(sections);
+        }
 
         function parseAndRender(rawText) {
             const lines = rawText.split('\n').map(l => l.trim()).filter(l => l.length > 0 || l === ''); // empty lines preserved for separator check
