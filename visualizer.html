@@ -1,0 +1,419 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Trend Daily | AI Trend Analysis</title>
+    <!-- Modern Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap" rel="stylesheet">
+    <style>
+        :root {
+            --bg-color: #f8faf9;
+            --brand-color: #2c5234; /* Dark Teal/Green */
+            --accent-color: #4ade80; /* Light Green */
+            --text-main: #333333;
+            --text-sub: #666666;
+            --card-bg: #ffffff;
+            --section-bg: #f1f5f3;
+            --item-bg: #eff4f1;
+            --shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
+            --transition: all 0.3s ease;
+        }
+
+        body {
+            font-family: 'Noto Sans KR', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            background-color: var(--bg-color);
+            color: var(--text-main);
+            margin: 0;
+            padding: 40px 20px;
+            display: flex;
+            flex-direction: column;
+            align-items: center;
+        }
+
+        .container {
+            width: 100%;
+            max-width: 600px;
+            animation: fadeIn 0.8s ease-out;
+        }
+
+        @keyframes fadeIn {
+            from { opacity: 0; transform: translateY(20px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Header Styles */
+        header {
+            text-align: center;
+            margin-bottom: 40px;
+        }
+
+        .logo-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 12px;
+            margin-bottom: 10px;
+        }
+
+        .logo-icon {
+            font-size: 1.5rem;
+        }
+
+        h1.brand {
+            font-family: 'Outfit', sans-serif;
+            font-size: 2.8rem;
+            font-weight: 700;
+            color: var(--brand-color);
+            margin: 0;
+            letter-spacing: -1px;
+        }
+
+        .subtitle {
+            font-size: 1.1rem;
+            color: var(--text-sub);
+            font-weight: 500;
+            margin-bottom: 30px;
+        }
+
+        .date-box {
+            display: inline-block;
+            background-color: transparent;
+            border: 2px solid #e2e8f0;
+            padding: 12px 30px;
+            border-radius: 12px;
+            font-size: 1.3rem;
+            font-weight: 700;
+            color: var(--brand-color);
+            margin-bottom: 20px;
+        }
+
+        .btn-input {
+            background-color: #f3f4f6;
+            border: 1px solid #e5e7eb;
+            padding: 8px 20px;
+            border-radius: 8px;
+            color: #6b7280;
+            font-size: 0.9rem;
+            cursor: pointer;
+            transition: var(--transition);
+        }
+
+        .btn-input:hover {
+            background-color: #e5e7eb;
+        }
+
+        /* Section Styles */
+        .section-card {
+            background-color: var(--card-bg);
+            border-radius: 20px;
+            padding: 30px;
+            margin-bottom: 30px;
+            box-shadow: var(--shadow);
+            border: 1px solid rgba(0,0,0,0.02);
+        }
+
+        .section-header {
+            display: flex;
+            align-items: center;
+            gap: 15px;
+            margin-bottom: 25px;
+        }
+
+        .section-bar {
+            width: 4px;
+            height: 28px;
+            background-color: var(--brand-color);
+            border-radius: 2px;
+        }
+
+        .section-title {
+            font-size: 1.4rem;
+            font-weight: 700;
+            color: var(--brand-color);
+        }
+
+        /* Article Items */
+        .article-item {
+            background-color: var(--item-bg);
+            border-radius: 15px;
+            padding: 20px;
+            margin-bottom: 15px;
+            transition: var(--transition);
+            cursor: pointer;
+            display: block;
+            text-decoration: none;
+            color: inherit;
+        }
+
+        .article-item:last-child {
+            margin-bottom: 0;
+        }
+
+        .article-item:hover {
+            transform: translateY(-3px);
+            background-color: #e5ede8;
+            box-shadow: 0 4px 12px rgba(0,0,0,0.05);
+        }
+
+        .article-content {
+            display: flex;
+            flex-direction: column;
+            gap: 12px;
+        }
+
+        .article-title {
+            font-size: 1.15rem;
+            font-weight: 600;
+            line-height: 1.5;
+            color: #1a1a1a;
+            word-break: keep-all;
+        }
+
+        .article-footer {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+        }
+
+        .article-tag {
+            background-color: #ffffff;
+            padding: 4px 12px;
+            border-radius: 6px;
+            font-size: 0.85rem;
+            font-weight: 500;
+            color: #4b5563;
+            border: 1px solid #e5e7eb;
+        }
+
+        .article-link {
+            font-size: 0.9rem;
+            font-weight: 500;
+            color: #6b7280;
+            display: flex;
+            align-items: center;
+            gap: 4px;
+        }
+
+        .article-link::after {
+            content: '→';
+            font-size: 1.1rem;
+        }
+
+        /* Footer */
+        footer {
+            margin-top: 40px;
+            text-align: center;
+            color: #9ca3af;
+            font-size: 0.85rem;
+        }
+
+        /* Loading Spinner */
+        #loader {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 200px;
+        }
+
+        .spinner {
+            width: 40px;
+            height: 40px;
+            border: 4px solid rgba(44, 82, 52, 0.1);
+            border-left-color: var(--brand-color);
+            border-radius: 50%;
+            animation: rotate 1s linear infinite;
+        }
+
+        @keyframes rotate {
+            to { transform: rotate(360deg); }
+        }
+
+        @media (max-width: 480px) {
+            .container {
+                padding: 10px;
+            }
+            h1.brand {
+                font-size: 2.2rem;
+            }
+            .date-box {
+                font-size: 1.1rem;
+                padding: 10px 20px;
+            }
+        }
+    </style>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="logo-container">
+                <span class="logo-icon">📰</span>
+                <h1 class="brand">AI Trend Daily</h1>
+            </div>
+            <div id="date-container">
+                <div class="date-box" id="main-date">Loading...</div>
+            </div>
+        </header>
+
+        <main id="content-main">
+            <div id="loader">
+                <div class="spinner"></div>
+            </div>
+        </main>
+
+        <footer>
+            <p id="gemini-footer">위 내용은 AI에 의해 작성되었습니다.</p>
+            <p>&copy; Maj.Cjh. All rights reserved</p>
+        </footer>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', async () => {
+            try {
+                // Add a cache-busting parameter to ensure the latest data is loaded
+                const response = await fetch('codes/data.txt?t=' + new Date().getTime());
+                if (!response.ok) throw new Error('Failed to fetch data');
+                const text = await response.text();
+                parseAndRender(text);
+            } catch (error) {
+                console.error(error);
+                document.getElementById('content-main').innerHTML = `<p style="text-align:center; color:red;">데이터를 불러오는 중 오류가 발생했습니다.</p>`;
+            }
+        });
+
+        function parseAndRender(rawText) {
+            const lines = rawText.split('\n').map(l => l.trim()).filter(l => l.length > 0 || l === ''); // empty lines preserved for separator check
+            
+            let dateStr = "";
+            let currentSection = null;
+            let sections = [];
+            
+            // First line usually has date
+            const dateMatch = lines[0].match(/📢(.*)📢/);
+            if (dateMatch) {
+                dateStr = dateMatch[1].trim();
+                // Add report type if not present
+                if (!dateStr.includes('보고')) dateStr += ' ' + getReportType();
+            } else {
+                dateStr = lines[0].replace(/📢/g, '').trim();
+            }
+            document.getElementById('main-date').innerText = formatHeaderDate(dateStr);
+
+            let i = 1;
+            while (i < lines.length) {
+                let line = lines[i];
+                
+                // Section Title [Section] or 📚 Section
+                if (line.startsWith('[') && line.endsWith(']')) {
+                    const title = line.substring(1, line.length - 1);
+                    currentSection = { title, articles: [] };
+                    sections.push(currentSection);
+                } else if (line.startsWith('📚') || line.startsWith('📰') || line.startsWith('🎧')) {
+                    const title = line.replace(/📚|📰|🎧/g, '').trim();
+                    currentSection = { title, articles: [] };
+                    sections.push(currentSection);
+                }
+                // Article Title ◾
+                else if (line.startsWith('◾')) {
+                    const title = line.replace('◾', '').trim();
+                    const url = lines[i + 1] && lines[i + 1].startsWith('http') ? lines[i + 1].trim() : '#';
+                    if (currentSection) {
+                        currentSection.articles.push({ title, url });
+                    }
+                    if (url !== '#') i++; // Skip URL line
+                }
+                // Footer
+                else if (line.startsWith('✅')) {
+                    document.getElementById('gemini-footer').innerText = line.replace('✅', '').trim();
+                }
+
+                i++;
+            }
+
+            renderContent(sections);
+        }
+
+        function formatHeaderDate(raw) {
+            // Converts "26.03.26 AI 일일 동향" to "'26. 3. 26.(목) 조간보고" style
+            let cleaned = raw.replace('AI 일일 동향', '').replace(/📢/g, '').trim();
+            const parts = cleaned.split('.').map(p => p.trim());
+            if (parts.length >= 3) {
+                const year = parts[0];
+                const month = parseInt(parts[1]);
+                const day = parseInt(parts[2]); // parseInt handles trailing text like "26 AI"
+                
+                if (isNaN(month) || isNaN(day)) return raw;
+
+                // Day of week
+                const dateObj = new Date(2000 + parseInt(year), month - 1, day);
+                const week = ['일', '월', '화', '수', '목', '금', '토'][dateObj.getDay()];
+                
+                return `'${year}. ${month}. ${day}.(${week}) ${getReportType()}`;
+            }
+            return raw;
+        }
+
+        function getReportType() {
+            return "";
+        }
+
+        function getSourceTag(url, title) {
+            // Source detection based on URL
+            if (url.includes('etnews.com')) return '전자신문';
+            if (url.includes('kookbang.dema.mil.kr')) return '국방일보';
+            if (url.includes('aitimes.com') || url.includes('aitimes.kr')) return 'AI타임스';
+            if (url.includes('iitp.kr')) return 'IITP';
+            if (url.includes('kisa.or.kr')) return 'KISA';
+            if (url.includes('msit.go.kr')) return '과기부';
+            if (url.includes('nia.or.kr')) return 'NIA';
+            
+            // Extract from title bracket [Tag] Title
+            const bracketMatch = title.match(/^\[(.*?)\]/);
+            if (bracketMatch) return bracketMatch[1];
+
+            // Generic domain extraction
+            try {
+                const domain = new URL(url).hostname.replace('www.', '');
+                return domain.split('.')[0].toUpperCase();
+            } catch(e) {
+                return '뉴스';
+            }
+        }
+
+        function renderContent(sections) {
+            const main = document.getElementById('content-main');
+            main.innerHTML = '';
+
+            sections.forEach(section => {
+                if (section.articles.length === 0) return;
+
+                const sectionEl = document.createElement('div');
+                sectionEl.className = 'section-card';
+                
+                let sectionTitle = section.title;
+                
+                sectionEl.innerHTML = `
+                    <div class="section-header">
+                        <div class="section-bar"></div>
+                        <div class="section-title">${sectionTitle}</div>
+                    </div>
+                    <div class="articles-list">
+                        ${section.articles.map(art => `
+                            <a href="${art.url}" class="article-item" target="_blank">
+                                <div class="article-content">
+                                    <div class="article-title">${art.title}</div>
+                                    <div class="article-footer">
+                                        <div class="article-tag">${getSourceTag(art.url, art.title)}</div>
+                                        <div class="article-link">확인</div>
+                                    </div>
+                                </div>
+                            </a>
+                        `).join('')}
+                    </div>
+                `;
+                main.appendChild(sectionEl);
+            });
+        }
+    </script>
+</body>
+</html>
