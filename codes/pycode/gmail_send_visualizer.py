@@ -35,26 +35,45 @@ def send_email():
                 # ✅ 새 구조(객체)와 구 구조(리스트) 모두 대응
                 email_list = data if isinstance(data, list) else data.get("emails", [])
                 
-                if email_list and len(email_list) > 0:
-                    # ✅ 보안 강화: 이메일 형식 검증 및 제어 문자 제거
-                    valid_receivers = []
-                    email_regex = re.compile(r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$")
+                # ✅ 개별 만료 체크 (365일)
+                today = datetime.now()
+                valid_receivers = []
+                email_regex = re.compile(r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$")
+                
+                for item in email_list:
+                    email_addr = ""
+                    reg_date_str = ""
                     
-                    for email in email_list:
-                        if not isinstance(email, str): continue
-                        # 제어 문자(\n, \r 등) 제거 및 공백 제거
-                        clean_email = "".join(c for c in email if ord(c) >= 32).strip()
+                    if isinstance(item, dict):
+                        email_addr = item.get("email", "")
+                        reg_date_str = item.get("date", "")
+                    elif isinstance(item, str):
+                        email_addr = item
+                    
+                    if not email_addr: continue
+                    
+                    # 제어 문자 제거 및 공백 제거
+                    clean_email = "".join(c for c in email_addr if ord(c) >= 32).strip()
+                    
+                    if email_regex.match(clean_email):
+                        # 날짜 체크 (있을 경우에만)
+                        if reg_date_str:
+                            try:
+                                reg_date = datetime.strptime(reg_date_str, "%Y-%m-%d")
+                                if (today - reg_date).days >= 365:
+                                    continue # 만료됨
+                            except:
+                                pass # 날짜 형식이 잘못된 경우 일단 포함
                         
-                        if email_regex.match(clean_email):
-                            valid_receivers.append(clean_email)
-                            if len(valid_receivers) >= 100: # 최대 수신자 제한 (스팸 방지)
-                                break
-                    
-                    if valid_receivers:
-                        receivers = valid_receivers
-                        print(f"수신자 목록 검증 완료: {len(receivers)}명")
-                    else:
-                        print("경고: 유효한 수신자가 없습니다. 기본 수신자를 사용합니다.")
+                        valid_receivers.append(clean_email)
+                        if len(valid_receivers) >= 100:
+                            break
+                
+                if valid_receivers:
+                    receivers = valid_receivers
+                    print(f"수신자 목록 검증 및 만료 체크 완료: {len(receivers)}명")
+                else:
+                    print("경고: 유효한 수신자가 없습니다. 기본 수신자를 사용합니다.")
         except Exception as e:
             print(f"수신자 파일 읽기 오류: {e}. 기본 수신자를 사용합니다.")
 

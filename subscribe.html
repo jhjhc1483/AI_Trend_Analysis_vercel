@@ -240,46 +240,58 @@
         async function getEmailList() {
             const endpoint = `repos/${OWNER}/${REPO}/contents/${FILE_PATH}?ref=${BRANCH}`;
             const data = await callProxyAPI(endpoint, 'GET');
-            if (!data) return { emails: [], last_reset: new Date().toISOString().split('T')[0], sha: null };
+            const todayStr = getKSTDate();
+            
+            if (!data) return { emails: [], sha: null };
             
             const content = base64ToUtf8(data.content);
             let parsed = JSON.parse(content);
-            
-            // 마이그레이션: 기존 리스트 형식인 경우
+            let emailList = [];
+
+            // 구조 파싱 (기존 객체 구조/리스트 구조 모두 대응)
             if (Array.isArray(parsed)) {
-                parsed = {
-                    last_reset: new Date().toISOString().split('T')[0],
-                    emails: parsed
-                };
+                emailList = parsed;
+            } else if (parsed.emails) {
+                emailList = parsed.emails;
             }
 
-            // 1년 경과 체크 및 초기화
-            const lastReset = new Date(parsed.last_reset);
-            const today = new Date();
-            const diffDays = (today - lastReset) / (1000 * 60 * 60 * 24);
-
-            if (diffDays >= 365) {
-                console.log("1년이 경과되어 구독 명단을 초기화합니다.");
-                parsed.emails = [];
-                parsed.last_reset = today.toISOString().split('T')[0];
-            }
+            // 마이그레이션 및 1년 만료 체크
+            const today = new Date(todayStr);
+            const validEmails = emailList.map(item => {
+                // 문자열인 경우 객체로 변환 (마이그레이션)
+                if (typeof item === 'string') {
+                    return { email: item, date: todayStr };
+                }
+                return item;
+            }).filter(item => {
+                // 365일 경과 체크
+                const regDate = new Date(item.date);
+                const diffDays = (today - regDate) / (1000 * 60 * 60 * 24);
+                return diffDays < 365;
+            });
 
             return {
-                emails: parsed.emails,
-                last_reset: parsed.last_reset,
+                emails: validEmails,
                 sha: data.sha
             };
         }
 
-        async function updateEmailList(emails, last_reset, sha, action) {
+        function getKSTDate() {
+            // 한국 시간(KST) 문자열 반환 (YYYY-MM-DD)
+            const now = new Date();
+            const utc = now.getTime() + (now.getTimezoneOffset() * 60000);
+            const kst = new Date(utc + (9 * 60 * 60000));
+            return kst.toISOString().split('T')[0];
+        }
+
+        async function updateEmailList(emails, sha, action) {
             const endpoint = `repos/${OWNER}/${REPO}/contents/${FILE_PATH}`;
             const dataToSave = {
-                last_reset: last_reset,
                 emails: emails
             };
             const jsonString = JSON.stringify(dataToSave, null, 2);
             const body = {
-                message: `${action} email: ${emails[emails.length - 1] || 'update'}`,
+                message: `${action} email: ${action === 'Add' ? emails[emails.length - 1].email : 'update'}`,
                 content: utf8ToBase64(jsonString),
                 branch: BRANCH
             };
@@ -315,23 +327,23 @@
                 loader.style.display = 'inline-block';
                 setStatus(`${action === 'Subscribe' ? '구독' : '해지'} 처리 중...`, "var(--secondary-color)");
 
-                const { emails, last_reset, sha } = await getEmailList();
+                const { emails, sha } = await getEmailList();
                 
                 if (action === 'Subscribe') {
-                    if (emails.includes(email)) {
+                    if (emails.some(e => e.email === email)) {
                         setStatus("이미 등록된 이메일입니다.", "var(--secondary-color)");
                     } else {
-                        emails.push(email);
-                        await updateEmailList(emails, last_reset, sha, "Add");
+                        emails.push({ email: email, date: getKSTDate() });
+                        await updateEmailList(emails, sha, "Add");
                         setStatus("성공적으로 구독되었습니다! 🎉", "var(--success-color)");
                         emailInput.value = '';
                     }
                 } else {
-                    if (!emails.includes(email)) {
+                    if (!emails.some(e => e.email === email)) {
                         setStatus("등록되지 않은 이메일입니다.", "var(--danger-color)");
                     } else {
-                        const newList = emails.filter(e => e !== email);
-                        await updateEmailList(newList, last_reset, sha, "Remove");
+                        const newList = emails.filter(e => e.email !== email);
+                        await updateEmailList(newList, sha, "Remove");
                         setStatus("구독이 해지되었습니다. 😢", "var(--text-color)");
                         emailInput.value = '';
                     }
