@@ -28,5 +28,6 @@ jobs:
           KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
           GMAIL_APP_PASSWORD : ${{ secrets.GMAIL_APP_PASSWORD }}
 
-        run : python codes/pycode/gmail_send.py
+        run : python codes/pycode/gmail_send_visualizer.py
+        # run : python codes/pycode/gmail_send.py
         # run: python codes/pycode/send_kakao2.py
