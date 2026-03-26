@@ -100,7 +100,7 @@ def send_email():
         url = "https://ai-trend-analysis.vercel.app/visualizer.html"
         subject = "오늘의 AI 동향 브리핑이 도착했어요!"
         
-        msg = MIMEMultipart('alternative')
+        msg = MIMEMultipart('mixed')
         msg['From'] = sender_email
         msg['To'] = ", ".join(receivers)
         msg['Subject'] = subject
@@ -111,8 +111,8 @@ def send_email():
             with open(file_path, "r", encoding="utf-8") as f:
                 report_text = f.read()
 
-        # Plain text body
-        text_body = f"오늘의 AI 동향 브리핑이 도착했습니다.\n아래 링크에서 확인하실 수 있습니다.\n\n{url}\n\n---\n오늘의 동향 내용:\n{report_text}"
+        # Plain text body (기본 요약)
+        text_body = f"오늘의 AI 동향 브리핑이 도착했습니다.\n아래 링크에서 확인하실 수 있습니다.\n\n{url}"
         
         # HTML body with brand styling
         html_body = f"""
@@ -127,19 +127,20 @@ def send_email():
                 <p style="color: #666; font-size: 0.9em;">링크가 클릭되지 않는다면 아래 주소를 복사해 브라우저에 붙여넣어 주세요:<br>
                 <a href="{url}" style="color: #3498db;">{url}</a></p>
                 <hr style="border: none; border-top: 1px solid #eee; margin: 30px 0;">
-                <div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; font-size: 0.9em;">
-                    <h3 style="margin-top: 0; color: #2c5234;">오늘의 동향 리포트 (텍스트)</h3>
-                    <pre style="white-space: pre-wrap; word-wrap: break-word; font-family: inherit;">{report_text}</pre>
-                </div>
-                <hr style="border: none; border-top: 1px solid #eee; margin: 30px 0;">
-                <p style="color: #999; font-size: 0.85em; text-align: center;">&copy; Maj.Cjh. All rights reserved.</p>
             </div>
         </body>
         </html>
         """
 
-        msg.attach(MIMEText(text_body, 'plain'))
-        msg.attach(MIMEText(html_body, 'html'))
+
+        # Alternative 파트로 HTML 카드와 기본 텍스트 요약 묶기
+        msg_alt = MIMEMultipart('alternative')
+        msg_alt.attach(MIMEText(text_body, 'plain'))
+        msg_alt.attach(MIMEText(html_body, 'html'))
+        msg.attach(msg_alt)
+
+        # HTML '밖'에 data.txt 원본 내용을 평문으로 추가
+        msg.attach(MIMEText(f"\n----------------\n[상세 내용]\n{report_text}", 'plain'))
 
         # 3. SMTP 서버 연결 및 이메일 전송
         print(f"SMTP 서버에 연결 중... (수신자: {msg['To']})")
