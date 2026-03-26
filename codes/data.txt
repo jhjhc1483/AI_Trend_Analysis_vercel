@@ -82,3 +82,6 @@ https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=29161&parentSeq=
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
 (링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
+
+
+✅위 내용은 GEMINI에 의해 작성됨.

@@ -314,7 +314,7 @@
         </main>
 
         <footer>
-            <p id="gemini-footer">위 내용은 AI에 의해 작성되었습니다.</p>
+            <p id="gemini-footer"></p>
             <p>&copy; Maj.Cjh. All rights reserved</p>
         </footer>
     </div>
@@ -323,10 +323,13 @@
         let allHistoryData = {};
 
         document.addEventListener('DOMContentLoaded', async () => {
+            // 1. data.txt 우선 로드 (최신 데이터 표시)
+            fetchLatestText();
+
+            // 2. data.json 로드 (히스토리/달력 초기화용)
             try {
-                // Fetch data.json which contains all history
                 const response = await fetch('codes/data.json?t=' + new Date().getTime());
-                if (!response.ok) throw new Error('Failed to fetch data.json');
+                if (!response.ok) return;
                 allHistoryData = await response.json();
                 
                 const dates = Object.keys(allHistoryData).sort((a, b) => b.localeCompare(a));
@@ -335,9 +338,7 @@
                     const historyDateInput = document.getElementById('history-date');
                     const historyTrigger = document.getElementById('history-trigger');
                     
-                    // Trigger native picker when emoji button is clicked
                     historyTrigger.addEventListener('click', () => {
-                        // showPicker() is best, fallback to click()
                         if (typeof historyDateInput.showPicker === 'function') {
                             historyDateInput.showPicker();
                         } else {
@@ -345,32 +346,25 @@
                         }
                     });
 
-                    // Set min/max for the date picker
                     const formattedDates = dates.map(d => '20' + d.replace(/\./g, '-'));
-                    historyDateInput.min = formattedDates[formattedDates.length - 1];
-                    historyDateInput.max = formattedDates[0];
-                    historyDateInput.value = formattedDates[0];
+                    historyDateInput.min = formattedDates[formattedDates.length - 1]; // 가장 과거
+                    historyDateInput.max = formattedDates[0]; // 가장 최근
+                    historyDateInput.value = ""; // 초기값을 비워야 최근 날짜 선택 시에도 change 이벤트가 발생함
 
-                    // Render latest by default
-                    renderHistoryDate(dates[0]);
+                    // renderHistoryDate(dates[0]); // data.txt 우선이므로 최초 렌더링은 제외
 
                     historyDateInput.addEventListener('change', (e) => {
-                        const selectedDate = e.target.value; // yyyy-mm-dd
-                        const key = selectedDate.substring(2).replace(/-/g, '.'); // yy.mm.dd
+                        const selectedDate = e.target.value;
+                        const key = selectedDate.substring(2).replace(/-/g, '.');
                         if (allHistoryData[key]) {
                             renderHistoryDate(key);
                         } else {
                             alert('해당 날짜의 데이터가 없습니다.');
-                            // Optional: Reset to previous or closest date
                         }
                     });
-                } else {
-                    // Fallback to data.txt if json is empty
-                    fetchLatestText();
                 }
             } catch (error) {
-                console.error('History load failed, trying data.txt:', error);
-                fetchLatestText();
+                console.error('History load skip (running on data.txt only):', error);
             }
         });
 
@@ -470,7 +464,8 @@
                 }
                 // Footer
                 else if (line.startsWith('✅')) {
-                    document.getElementById('gemini-footer').innerText = line.replace('✅', '').trim();
+                    const footer = document.getElementById('gemini-footer');
+                    if (footer) footer.innerText = line.replace('✅', '').trim();
                 }
 
                 i++;
