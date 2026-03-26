@@ -7,25 +7,28 @@
 ## 🌟 주요 기능
 
 - **📰 자동 뉴스 및 간행물 수집**: 국방부, 방사청, 과기정통부, AI Times 등 총 16개 이상의 주요 출처에서 매일 최신 데이터를 크롤링합니다.
-- **🤖 AI 자동 선정 및 분류 (Beta)**: Google Gemini API를 사용하여 어제 발생한 뉴스 중 중요도가 높은 항목을 자동으로 선정하고 카테고리(국방, 육군, 민간, 기관, 해외)를 분류합니다.
+- **🤖 AI 자동 선정 및 분류**: Google Gemini API를 사용하여 어제 발생한 뉴스 중 중요도가 높은 항목을 자동으로 선정하고 카테고리(국방, 육군, 민간, 기관, 해외)를 분류합니다.
 - **🎙️ AI 오디오 브리핑 생성**: 선정된 뉴스 데이터를 바탕으로 AI가 요약 브리핑 대본을 작성하고 오디오 파일(`.mp3`)을 생성합니다.
+- **📧 이메일 구독 서비스**: `subscribe.html`을 통해 이메일을 등록하면 매일 아침 AI 브리핑 요약본을 메일로 받아볼 수 있습니다. (1년 단위 자동 갱신 정책 적용)
+- **📅 과거 데이터 조회 (캘린더)**: 대시보드의 캘린더 기능을 통해 과거 날짜의 동향 데이터를 간편하게 조회할 수 있습니다.
 - **⭐ 즐겨찾기 및 개인화**: 사용자가 직접 중요한 기사를 즐겨찾기에 추가하거나, AI의 분류 오류를 학습시키기 위한 데이터(Few-shot)를 추가할 수 있습니다.
-- **📋 텍스트 추출**: 선정된 동향 데이터를 복사 가능한 텍스트 형식으로 즉시 추출하여 보고서나 메시지 공유에 활용할 수 있습니다.
+- **📋 텍스트 추출 및 공유**: 선정된 동향 데이터를 복사 가능한 텍스트 형식으로 즉시 추출하여 보고서나 메시지 공유에 활용할 수 있습니다.
+- **📊 데이터 시각화**: `visualizer.html`을 활용하여 수집된 데이터의 통계 및 추이를 시각적으로 확인합니다.
 
 ---
 
 ## 🛠 기술 스택
 
 ### Frontend
-- **HTML5 / CSS3**: 현대적이고 반응형인 대시보드 UI 구현.
-- **JavaScript (Vanilla JS)**: 상태 관리 및 GitHub/Vercel API 연동.
+- **HTML5 / CSS3**: 현대적이고 반응형인 대시보드 UI 및 이메일 구독 페이지 구현.
+- **JavaScript (Vanilla JS)**: 상태 관리, 캘린더 로직, GitHub/Vercel API 연동.
 
 ### Backend & Deployment
 - **Vercel**: 웹 호스팅 및 Serverless Functions(Node.js) 제공.
-- **GitHub Actions**: 매일 정해진 시간에 파이썬 스크립트를 실행하여 데이터 최신화.
+- **GitHub Actions**: 매일 정해진 시간에 파이썬 스크립트를 실행하여 데이터 크롤링, AI 분석, 메일 발송 자동화.
 
 ### AI & Automation
-- **Python**: Selenium, BeautifulSoup4, Pandas를 활용한 웹 크롤링.
+- **Python**: Selenium, BeautifulSoup4, Pandas를 활용한 웹 크롤링 및 메일 발송 로직.
 - **Google Gemini API**: 뉴스 선정, 분류 및 요약 브리핑 생성.
 - **TTS (Text-to-Speech)**: AI 음성 브리핑 생성.
 
@@ -35,14 +38,17 @@
 
 ```text
 .
-├── api/                # Vercel Serverless Functions (Proxy, Auth)
+├── api/                # Vercel Serverless Functions (Proxy, Auth, Email API)
 ├── codes/              # 뉴스/간행물 데이터 저장소 (.json)
-│   ├── pycode/         # 크롤링 및 AI 분석 파이썬 스크립트
-│   └── favorites/      # 즐겨찾기 및 AI 학습 데이터
+│   ├── pycode/         # 크롤링, AI 분석, 메일 발송 파이썬 스크립트
+│   ├── favorites/      # 즐겨찾기 및 AI 학습 데이터
+│   └── receiver_email.json # 구독자 이메일 목록 및 등록일 관리
 ├── public/             # 오디오 및 정적 자원
-├── .github/workflows/  # 자동화 워크플로우 (Daily Updates, AI Task)
-├── index.html          # 메인 대시보드 페이지
-├── script.js           # 프론트엔드 핵심 로직
+├── .github/workflows/  # 자동화 워크플로우 (Daily Updates, AI Task, Email Dispatch)
+├── index.html          # 메인 대시보드 페이지 (캘린더 네비게이션 포함)
+├── subscribe.html      # 이메일 구독 신청/해지 페이지
+├── visualizer.html     # 데이터 통계 시각화 페이지
+├── script.js           # 프론트엔드 핵심 로직 (대시보드 제어)
 └── style.css           # 디자인 스타일시트
 ```
 
@@ -55,16 +61,12 @@
 - `GEMINI_API_KEY`: Google Gemini API 키
 - `GITHUB_TOKEN`: 데이터 자동 커밋 및 워크플로우 실행을 위한 권한
 - `ADMIN_PASSWORD`: 대시보드 관리자 기능 접근을 위한 비밀번호
+- `EMAIL_USER`: 메일 발송용 계정 (Gmail 등)
+- `EMAIL_PASS`: 메일 발송용 앱 비밀번호
 
 ### 설치 및 실행
 1. 저장소를 클론합니다.
-   ```bash
-   git clone https://github.com/jhjhc1483/AI_Trend_Analysis_vercel.git
-   ```
-2. 필요한 파이썬 패키지를 설치합니다.
-   ```bash
-   pip install -r requirements.txt
-   ```
+2. 필요한 파이썬 패키지를 설치합니다 (`pip install -r requirements.txt`).
 3. Vercel CLI를 사용하여 배포하거나 로컬 서버를 실행합니다.
 
 ---
