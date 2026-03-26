@@ -1,84 +1,86 @@
-📢26.03.26 AI 일일 동향📢
+📢26.03.27 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ [국방AX 골든타임]〈하〉국방에 AI 접목할 법적 근거 확보 시급
-https://www.etnews.com/20260325000289
+◾ 이노와이어리스, ＇LIG아큐버＇ 새 출발…통신 넘어 AI·방산 사업 확장
+https://www.etnews.com/20260326000278
 
-◾ 전쟁 양상부터 인재 육성까지…국방AI 전략 발전방향 제시
-https://kookbang.dema.mil.kr/newsWeb/20260326/4/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985
+◾ 대한항공, AI 탑재 차세대 고속 무인표적기 개발 속도
+https://www.etnews.com/20260326000348
 
 [민간]
-◾ IBK기업은행, AI도 내부통제 넣었다…전사 리스크 관리 체계 가동
-https://www.etnews.com/20260325000146
+◾ [디지털라이프] SK인텔릭스 ＇나무엑스＇ 생산 기지 가보니…“에이전틱 AI 고도화”
+https://www.etnews.com/20260326000055
 
-◾ 네이버플러스 스토어 1년…＇바우처+AI＇로 브랜드·고객 동반 성장
-https://www.etnews.com/20260325000290
+◾ 카톡 개편 대란 겪은 카카오, 사전 피드백 받는 ＇카나나 연구소＇ 둔다
+https://www.etnews.com/20260326000354
 
-◾ [人사이트] 김세엽 셀렉트스타 대표 “신뢰성 평가 모델로 소버린 AI 기여”
-https://www.etnews.com/20260325000209
+◾ SK텔레콤 “AI 풀스택 체질개선·가입자 40% 탈환 총력”
+https://www.etnews.com/20260326000285
 
-◾ NC AI, 신한금융에 월드모델 기반 피지컬 AI 이식
-https://www.etnews.com/20260325000116
+◾ 아이엘, 휴머노이드 ＇아이엘봇 Y1＇ 실물 공개
+https://www.etnews.com/20260326000234
 
-◾ 노타, 글로벌 엣지 AI반도체 기업과 피지컬 AI 시장 공략
-https://www.etnews.com/20260325000076
+◾ 구광모 LG그룹 회장 “AX서 가장 중요한 것은 속도”…사장단에 빠른 실행 주문
+https://www.etnews.com/20260326000126
 
-◾ 마키나락스, 5월 코스닥 상장…“피지컬 AI 글로벌 리더 목표”
-https://www.etnews.com/20260325000497
+◾ 투디지트금융 특화 ＇핀다트벤치＇ 공개…외국산 의존 탈피 ＇금융 AI 독립＇
+https://www.etnews.com/20260326000013
+
+◾ 마이크로소프트, 대한민국을 ‘글로벌 AI 허브’로…실험 단계 넘어 ‘프론티어 전환’ 본격 가동
+https://www.aitimes.kr/news/articleView.html?idxno=39281
 
 [기관]
-◾ [미래 여는 AI·ICT R&D 우수성과]〈2〉딥페이크 탐지 세계 최고 수준 기술 구현...사업화도 노린다
-https://www.etnews.com/20260325000250
+◾ [에듀플러스]서울시립대, 인공지능융합대학 및 AI·SW융합교육원 개소식 개최
+https://www.etnews.com/20260326000453
 
-◾ KOTRA, AI로 수출 생태계 혁신… ＇AI 수출비서＇ 등 50개 과제 전면 가동
-https://www.etnews.com/20260325000398
+◾ 국가AI전략위, 시스코와 AI 기술 패권 시대 대응 협력
+https://www.etnews.com/20260326000419
 
-◾ 산업·학계·시민사회 참여로 ＇AI기본법 제도개선＇ 연구 시동
-https://www.etnews.com/20260325000149
+◾ 서울시, AI 정책 컨트롤타워 ＇인공지능위원회＇ 출범
+https://www.etnews.com/20260326000223
 
-◾ 국가AI전략위, 분과·특위 신설 등 조직 개편…“전문성 강화”
-https://www.etnews.com/20260325000131
+◾ 청소년 보호·AI 윤리 강화…4개 부처 협력체계 구축
+https://www.etnews.com/20260326000139
 
-◾ 산업·학계에 첨단 GPU 2000장 배분…“AI 역량 강화 지원”
-https://www.etnews.com/20260325000499
+◾ 금융위, ‘K-엔비디아’ 대표로 리벨리온에 2500억 투자
+https://www.aitimes.com/news/articleView.html?idxno=208418
 
-◾ 정부, 국가창업시대 열어가는 첫 발걸음 ＇모두의 창업 프로젝트 추진계획＇ 발표
-https://www.aitimes.kr/news/articleView.html?idxno=39261
+◾ 누구나 참여하고 내일의 가능성을 즐기는 축제’모두의 인공지능을 위한 ｢전 국민 인공지능 경진대회｣ 개막
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187078&searchOpt=ALL&searchTxt=
+
+◾ 과기정통부, 인공지능 도입 문턱 낮춰 기업 혁신을 돕는다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187045&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 아마존, 휴머노이드 로봇 스타트업 ＇파우나로보틱스＇ 인수
-https://www.etnews.com/20260325000043
+◾ 앤트로픽, 스스로 위험 거르는 ＇오토 모드＇ 공개...〃개발자 승인 없이 코딩〃
+https://www.aitimes.com/news/articleView.html?idxno=208363
 
-◾ 반도체 설계 1위 Arm, 35년만에 자체 칩 판매 공식화 ＇AI용 CPU 공급＇
-https://www.etnews.com/20260325000031
+◾ 얀 르쿤, 월드 모델의 학습 난제 해결한 ＇LeWM＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=208380
 
-◾ 알리바바, ‘에이전트용’ CPU 공개...〃세계 최고의 RISC-V CPU〃
-https://www.aitimes.com/news/articleView.html?idxno=208324
+◾ 애플, ＇제미나이＇ 증류해 맞춤형 온디바이스 모델 개발
+https://www.aitimes.com/news/articleView.html?idxno=208401
 
-◾ 오픈AI, 영상 공유 앱 ‘소라’ 6개월 만에 종료...디즈니 투자도 철회
-https://www.aitimes.com/news/articleView.html?idxno=208313
+◾ MS 임원진, 나델라의 ‘AI 혁신’ 압박으로 줄줄이 퇴사
+https://www.aitimes.com/news/articleView.html?idxno=208414
 
-◾ 메타, 자가 진화형 AI ‘하이퍼에이전트’ 발표… 〃배우는 방법까지 바꾼다〃
-https://www.aitimes.com/news/articleView.html?idxno=208357
+◾ 트럼프, 과학기술 자문위원회 위원에 저커버그·젠슨 황 등 임명
+https://www.aitimes.com/news/articleView.html?idxno=208396
 
-◾ 애플, AI 챗봇 ＇시리＇ WWDC서 공개...에이전트 업그레이드가 목표
-https://www.aitimes.com/news/articleView.html?idxno=208330
+◾ 구글, 차세대 음악 생성 모델 ‘리리아 3’ 전격 공개... “3분 전곡 생성부터 멀티모달 입력까지”
+https://www.aitimes.kr/news/articleView.html?idxno=39267
 
-[기타]
-◾ AI 시대, 배제 아닌 포용을 말하다
-https://kookbang.dema.mil.kr/newsWeb/20260326/1/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=B_Qkb3uoGuLukCQwjJV1UGwvFPfmPX5go6Z6hpm8p-Hk8lQNZmOg!-579096985
+◾ 중국에서 요즘 뜨는 신종 직업 ‘AI 훈련사’
+https://kookbang.dema.mil.kr/newsWeb/20260327/4/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=Lj0pnEvA0V4IW68TxhQsewGHwrM-9Gyj5nk9Ptl7BM893hnzuPVj!-579096985
 
 📚 간행물
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 3월 2주차)
-https://www.kisa.or.kr/20202/form?postSeq=467&page=1
-
-◾ 인간-로봇 간 교감 공감 대화를 위한 Affective AI 기술 동향 [주간기술동향 2207호]
-https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1392&cpage=1&rows=10&searchTarget=all
-
-◾ AI 정부 서비스 사례집
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=29161&parentSeq=29161
+◾ 중국 오픈클로, 미국방부 LLM 개발, 영국 양자 상용화 [AI·ICT Brief 2026-11호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260326-000006&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
 (링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
+
+
+✅위 내용은 GEMINI에 의해 작성됨.
