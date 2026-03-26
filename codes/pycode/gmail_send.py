@@ -7,7 +7,7 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 
 # ================= 설정 부분 =================
-sender_email = "dlsrhdwlsmdwjdcorrhk1@gmail.com"  # 보내는 사람
+sender_email = "jfchae1483@gmail.com"  # 보내는 사람
 default_receiver = "jfchae1483@gmail.com" # 기본 받는 사람 (데이터 없을 시)
 
 # GitHub Secrets에서 환경 변수로 전달된 값을 읽어옵니다.
