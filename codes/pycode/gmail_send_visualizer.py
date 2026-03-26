@@ -1,6 +1,7 @@
 import smtplib
 import os
 import json
+import re
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
@@ -30,9 +31,30 @@ def send_email():
         try:
             with open(receiver_file_path, "r", encoding="utf-8") as f:
                 data = json.load(f)
-                if isinstance(data, list) and len(data) > 0:
-                    receivers = data
-                    print(f"수신자 목록 로드 완료: {len(receivers)}명")
+                
+                # ✅ 새 구조(객체)와 구 구조(리스트) 모두 대응
+                email_list = data if isinstance(data, list) else data.get("emails", [])
+                
+                if email_list and len(email_list) > 0:
+                    # ✅ 보안 강화: 이메일 형식 검증 및 제어 문자 제거
+                    valid_receivers = []
+                    email_regex = re.compile(r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$")
+                    
+                    for email in email_list:
+                        if not isinstance(email, str): continue
+                        # 제어 문자(\n, \r 등) 제거 및 공백 제거
+                        clean_email = "".join(c for c in email if ord(c) >= 32).strip()
+                        
+                        if email_regex.match(clean_email):
+                            valid_receivers.append(clean_email)
+                            if len(valid_receivers) >= 100: # 최대 수신자 제한 (스팸 방지)
+                                break
+                    
+                    if valid_receivers:
+                        receivers = valid_receivers
+                        print(f"수신자 목록 검증 완료: {len(receivers)}명")
+                    else:
+                        print("경고: 유효한 수신자가 없습니다. 기본 수신자를 사용합니다.")
         except Exception as e:
             print(f"수신자 파일 읽기 오류: {e}. 기본 수신자를 사용합니다.")
 
@@ -46,8 +68,14 @@ def send_email():
         msg['To'] = ", ".join(receivers)
         msg['Subject'] = subject
 
+        # 2. 데이터 파일 읽기
+        report_text = "일일 동향 데이터를 읽을 수 없습니다."
+        if os.path.exists(file_path):
+            with open(file_path, "r", encoding="utf-8") as f:
+                report_text = f.read()
+
         # Plain text body
-        text_body = f"오늘의 AI 동향 브리핑이 도착했습니다.\n아래 링크에서 확인하실 수 있습니다.\n\n{url}"
+        text_body = f"오늘의 AI 동향 브리핑이 도착했습니다.\n아래 링크에서 확인하실 수 있습니다.\n\n{url}\n\n---\n오늘의 동향 내용:\n{report_text}"
         
         # HTML body with brand styling
         html_body = f"""
@@ -61,6 +89,11 @@ def send_email():
                 </div>
                 <p style="color: #666; font-size: 0.9em;">링크가 클릭되지 않는다면 아래 주소를 복사해 브라우저에 붙여넣어 주세요:<br>
                 <a href="{url}" style="color: #3498db;">{url}</a></p>
+                <hr style="border: none; border-top: 1px solid #eee; margin: 30px 0;">
+                <div style="background-color: #f9f9f9; padding: 15px; border-radius: 10px; font-size: 0.9em;">
+                    <h3 style="margin-top: 0; color: #2c5234;">오늘의 동향 리포트 (텍스트)</h3>
+                    <pre style="white-space: pre-wrap; word-wrap: break-word; font-family: inherit;">{report_text}</pre>
+                </div>
                 <hr style="border: none; border-top: 1px solid #eee; margin: 30px 0;">
                 <p style="color: #999; font-size: 0.85em; text-align: center;">&copy; Maj.Cjh. All rights reserved.</p>
             </div>
