@@ -8,40 +8,37 @@ https://www.etnews.com/20260326000278
 ◾ 대한항공, AI 탑재 차세대 고속 무인표적기 개발 속도
 https://www.etnews.com/20260326000348
 
+◾ ‘저궤도 위성통신망’ 확보 시동…국방·해상·항공 대응력 높여
+https://kookbang.dema.mil.kr/newsWeb/20260327/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Lj0pnEvA0V4IW68TxhQsewGHwrM-9Gyj5nk9Ptl7BM893hnzuPVj!-579096985
+
 [민간]
-◾ [디지털라이프] SK인텔릭스 ＇나무엑스＇ 생산 기지 가보니…“에이전틱 AI 고도화”
-https://www.etnews.com/20260326000055
-
-◾ 카톡 개편 대란 겪은 카카오, 사전 피드백 받는 ＇카나나 연구소＇ 둔다
-https://www.etnews.com/20260326000354
-
-◾ SK텔레콤 “AI 풀스택 체질개선·가입자 40% 탈환 총력”
-https://www.etnews.com/20260326000285
-
-◾ 아이엘, 휴머노이드 ＇아이엘봇 Y1＇ 실물 공개
-https://www.etnews.com/20260326000234
-
-◾ 구광모 LG그룹 회장 “AX서 가장 중요한 것은 속도”…사장단에 빠른 실행 주문
-https://www.etnews.com/20260326000126
-
-◾ 투디지트금융 특화 ＇핀다트벤치＇ 공개…외국산 의존 탈피 ＇금융 AI 독립＇
-https://www.etnews.com/20260326000013
+◾ 아이엘, 휴머노이드 ‘아이엘봇 Y1’ 공개… 산업 현장 넘어 로봇 운영 시장 확장 가속
+https://www.aitimes.kr/news/articleView.html?idxno=39279
 
 ◾ 마이크로소프트, 대한민국을 ‘글로벌 AI 허브’로…실험 단계 넘어 ‘프론티어 전환’ 본격 가동
 https://www.aitimes.kr/news/articleView.html?idxno=39281
 
-[기관]
-◾ [에듀플러스]서울시립대, 인공지능융합대학 및 AI·SW융합교육원 개소식 개최
-https://www.etnews.com/20260326000453
+◾ 퍼플렉시티, 새 삼성 브라우저에 맞춤형 AI 기능 탑재
+https://www.etnews.com/20260326000428
 
-◾ 국가AI전략위, 시스코와 AI 기술 패권 시대 대응 협력
-https://www.etnews.com/20260326000419
+◾ 무뇨스 현대차 사장, “車 넘어 AI 첨단 모빌리티 기업 전환 가속”
+https://www.etnews.com/20260326000337
+
+◾ 카카오, 정신아 대표 연임…”카카오톡 중심 AI 사업 재편”
+https://www.aitimes.com/news/articleView.html?idxno=208408
+
+◾ LG 사장단 “엑사원 주축으로 속도감 있는 AX 이끌어갈 것”
+https://www.aitimes.com/news/articleView.html?idxno=208403
+
+[기관]
+◾ 국가AI전략위, 시스코와  AI 보안 및 차세대 인재 양성 협력 강화
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=436
+
+◾ “우리 기업에 딱 맞는 AI모델, 직접 만들고 실증까지”... 중기부, 도메인 특화 AI 개발사업 참여기업 모집!
+https://www.aitimes.kr/news/articleView.html?idxno=39275
 
 ◾ 서울시, AI 정책 컨트롤타워 ＇인공지능위원회＇ 출범
 https://www.etnews.com/20260326000223
-
-◾ 청소년 보호·AI 윤리 강화…4개 부처 협력체계 구축
-https://www.etnews.com/20260326000139
 
 ◾ 금융위, ‘K-엔비디아’ 대표로 리벨리온에 2500억 투자
 https://www.aitimes.com/news/articleView.html?idxno=208418
@@ -56,23 +53,27 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 앤트로픽, 스스로 위험 거르는 ＇오토 모드＇ 공개...〃개발자 승인 없이 코딩〃
 https://www.aitimes.com/news/articleView.html?idxno=208363
 
-◾ 얀 르쿤, 월드 모델의 학습 난제 해결한 ＇LeWM＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=208380
-
 ◾ 애플, ＇제미나이＇ 증류해 맞춤형 온디바이스 모델 개발
 https://www.aitimes.com/news/articleView.html?idxno=208401
 
-◾ MS 임원진, 나델라의 ‘AI 혁신’ 압박으로 줄줄이 퇴사
-https://www.aitimes.com/news/articleView.html?idxno=208414
+◾ 구글, 음악 모델 ‘리리아 3 프로’ 출시...〃30초에서 3분으로 길이 확장〃
+https://www.aitimes.com/news/articleView.html?idxno=208412
+
+◾ 오픈AI ＇소라＇ 포기하자 머스크 〃그록 동영상 생성에 박차 가할 것〃
+https://www.aitimes.com/news/articleView.html?idxno=208422
 
 ◾ 트럼프, 과학기술 자문위원회 위원에 저커버그·젠슨 황 등 임명
 https://www.aitimes.com/news/articleView.html?idxno=208396
 
-◾ 구글, 차세대 음악 생성 모델 ‘리리아 3’ 전격 공개... “3분 전곡 생성부터 멀티모달 입력까지”
-https://www.aitimes.kr/news/articleView.html?idxno=39267
-
 ◾ 중국에서 요즘 뜨는 신종 직업 ‘AI 훈련사’
 https://kookbang.dema.mil.kr/newsWeb/20260327/4/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=Lj0pnEvA0V4IW68TxhQsewGHwrM-9Gyj5nk9Ptl7BM893hnzuPVj!-579096985
+
+[기타]
+◾ KAIST 이진준 교수, 옥스퍼드 만점 10m 한지 두루마리 논문…세계 최고(最古) 박물관 품으로
+https://www.aitimes.kr/news/articleView.html?idxno=39270
+
+◾ [김주한 교수의 정보의료·디지털 사피엔스]트럼프-이란 전쟁과 에이전틱 AI, 게임 AI vs 협상 AI
+https://www.etnews.com/20260326000166
 
 📚 간행물
 ◾ 중국 오픈클로, 미국방부 LLM 개발, 영국 양자 상용화 [AI·ICT Brief 2026-11호]
