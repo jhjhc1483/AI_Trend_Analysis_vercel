@@ -21,6 +21,9 @@ jobs:
         run: |
           pip install requests python-dotenv
 
+      - name: Cleanup expired emails
+        run: python codes/pycode/cleanup_expired_emails.py
+
       - name: Run KakaoTalk or Gamil Script
         env:
           # GitHub Secrets에 저장된 키를 환경 변수로 매핑
@@ -31,3 +34,11 @@ jobs:
         run : python codes/pycode/gmail_send_visualizer.py
         # run : python codes/pycode/gmail_send.py
         # run: python codes/pycode/send_kakao2.py
+
+      - name: Commit cleaned receiver list
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add codes/receiver_email.json
+          git diff --cached --quiet || git commit -m "🧹 만료된 구독자 자동 정리"
+          git push
