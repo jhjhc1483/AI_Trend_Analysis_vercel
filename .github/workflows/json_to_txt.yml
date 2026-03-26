@@ -35,6 +35,6 @@ jobs:
       - name: Commit and Push changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          file_pattern: '**/*.txt'
-          commit_message: 'Automated txt data update [skip ci]'
+          file_pattern: 'codes/data.*'
+          commit_message: 'Automated data.txt & data.json update [skip ci]'
           branch: main 

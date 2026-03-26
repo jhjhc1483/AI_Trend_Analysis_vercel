@@ -14,6 +14,7 @@ FILES = [
 ]
 
 OUTPUT_FILE = PROJECT_ROOT / "codes/data.txt"
+JSON_OUTPUT_FILE = PROJECT_ROOT / "codes/data.json"
 
 FIXED_CATEGORIES = ["국방", "육군", "민간", "기관", "해외", "기타"]
 LAST_CATEGORY = "간행물"
@@ -93,6 +94,14 @@ def main():
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
         f.write(report_text)
+
+    # JSON 저장
+    output_data = {
+        "date": datetime.now(ZoneInfo("Asia/Seoul")).strftime("%y.%m.%d"),
+        "categorized": categorized
+    }
+    with open(JSON_OUTPUT_FILE, "w", encoding="utf-8") as f:
+        json.dump(output_data, f, ensure_ascii=False, indent=2)
 
 
 if __name__ == "__main__":
