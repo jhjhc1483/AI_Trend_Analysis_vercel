@@ -82,30 +82,45 @@ document.getElementById('runActionBtn').addEventListener('click', async function
 // -----------------------------------------------------
 // 3. 파일 불러오기 (loadFileBtn)
 // -----------------------------------------------------
-const popup = document.getElementById('popup');
-const overlay = document.getElementById('overlay');
-const contentDiv = document.getElementById('popupContent');
-const PATH = "codes/data.txt";
+// const popup = document.getElementById('popup');
+// const overlay = document.getElementById('overlay');
+// const contentDiv = document.getElementById('popupContent');
+// const PATH = "codes/data.txt";
 
-function base64ToUtf8(base64) {
-    const binary = atob(base64.replace(/\n/g, ""));
-    const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
-    return new TextDecoder("utf-8").decode(bytes);
-}
+// function base64ToUtf8(base64) {
+//     const binary = atob(base64.replace(/\n/g, ""));
+//     const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
+//     return new TextDecoder("utf-8").decode(bytes);
+// }
+
+// document.getElementById('loadFileBtn').addEventListener('click', async () => {
+//     try {
+//         const endpoint = `repos/${OWNER}/${REPO}/contents/${PATH}?ref=${BRANCH}`;
+//         const data = await callProxyAPI(endpoint, 'GET');
+
+//         const text = base64ToUtf8(data.content);
+//         contentDiv.textContent = text;
+//         popup.style.display = 'block';
+//         overlay.style.display = 'block';
+//         console.log(text);
+//     } catch (error) {
+//         console.error(error);
+//         alert("파일을 불러오는 중 오류 발생: " + error.message);
+//     }
+// });
 
 document.getElementById('loadFileBtn').addEventListener('click', async () => {
     try {
-        const endpoint = `repos/${OWNER}/${REPO}/contents/${PATH}?ref=${BRANCH}`;
-        const data = await callProxyAPI(endpoint, 'GET');
-
-        const text = base64ToUtf8(data.content);
-        contentDiv.textContent = text;
-        popup.style.display = 'block';
-        overlay.style.display = 'block';
-        console.log(text);
+        const response = await fetch('codes/data.txt?t=' + new Date().getTime());
+        if (!response.ok) throw new Error('파일을 불러오는데 실패했습니다.');
+        const text = await response.text();
+        
+        await navigator.clipboard.writeText(text);
+        alert("복사되었습니다. 이제 메신저로 공유하세요");
+        window.location.href = 'https://ai-trend-analysis.vercel.app/visualizer.html';
     } catch (error) {
         console.error(error);
-        alert("파일을 불러오는 중 오류 발생: " + error.message);
+        alert("데이터를 처리하는 중 오류가 발생했습니다: " + error.message);
     }
 });
 

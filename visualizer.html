@@ -103,6 +103,38 @@
             background-color: #e5e7eb;
         }
 
+        #date-container {
+            position: relative;
+            display: flex;
+            align-items: center;
+            justify-content: center;
+            margin-bottom: 20px;
+        }
+
+        .btn-audio {
+            position: absolute;
+            right: 0;
+            background-color: var(--brand-color);
+            color: white;
+            border: none;
+            width: 38px;
+            height: 38px;
+            border-radius: 50%;
+            font-size: 1rem;
+            display: inline-flex;
+            align-items: center;
+            justify-content: center;
+            transition: var(--transition);
+            box-shadow: 0 4px 10px rgba(44, 82, 52, 0.2);
+            text-decoration: none;
+        }
+
+        .btn-audio:hover {
+            transform: translateY(-2px);
+            box-shadow: 0 6px 18px rgba(44, 82, 52, 0.3);
+            background-color: #3b6d45;
+        }
+
         /* Section Styles */
         .section-card {
             background-color: var(--card-bg);
@@ -252,6 +284,7 @@
             </div>
             <div id="date-container">
                 <div class="date-box" id="main-date">Loading...</div>
+                <a href="https://ai-trend-analysis.vercel.app/public/bf.html" class="btn-audio">🎧</a>
             </div>
         </header>
 
