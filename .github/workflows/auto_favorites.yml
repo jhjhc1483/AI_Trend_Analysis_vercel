@@ -40,8 +40,8 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
-        git add codes/favorites/*.json codes/data.txt
-        git commit -m "Update favorites & data.txt (Auto-generated)" || echo "No changes to commit"
+        git add codes/favorites/*.json codes/data.txt codes/data.json
+        git commit -m "Update favorites & data.txt/json (Auto-generated)" || echo "No changes to commit"
         git push
 
     # - name: Run send_kakao2.py
