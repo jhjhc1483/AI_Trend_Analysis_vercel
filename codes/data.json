@@ -270,5 +270,92 @@
         }
       ]
     }
+  },
+  "26.03.29": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "[디지털데일리] 업계 “AI 정책이 너무 많아 혼란”…엇박자 막아낼 임문영 AI 전략위 ‘시험대’",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=449",
+          "category": "기관"
+        },
+        {
+          "title": "광명시, 행정·복지·교통에 AI 접목…시민 체감 혁신 본격화",
+          "link": "https://www.etnews.com/20260328000006",
+          "category": "기관"
+        },
+        {
+          "title": "교실로 들어온 생성형 AI…경기 SW미래채움 강사 130여명 첫발",
+          "link": "https://www.etnews.com/20260328000044",
+          "category": "기관"
+        },
+        {
+          "title": "이천시, 홀몸 어르신에 AI 로봇 보급 확대…건강·안전 동시 관리",
+          "link": "https://www.etnews.com/20260328000039",
+          "category": "기관"
+        },
+        {
+          "title": "AI는 빨라졌는데 교실은 그대로?…유은혜, 경기교육 업그레이드 착수",
+          "link": "https://www.etnews.com/20260328000032",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[ET시선] ＇오픈소스전환(OX)＇ 이젠 생존전략",
+          "link": "https://www.etnews.com/20260327000255",
+          "category": "기타"
+        },
+        {
+          "title": "[AI 이슈트렌드] 트럼프 이란 협상·BTS 공연 논란 등 상위권 차지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208491",
+          "category": "기타"
+        }
+      ],
+      "민간": [
+        {
+          "title": "AI 에이전트發 ＇사스포칼립스＇는 기우…SaaS 넘어 ＇SaS(소프트웨어형 서비스)＇로 간다",
+          "link": "https://www.etnews.com/20260327000187",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "＇블랙리스트＇ 기업 논문 발표 금지한 뉴립스, 중국 반발에 〃단순 실수〃 해명",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208498",
+          "category": "해외"
+        },
+        {
+          "title": "구글 ＇터보퀀트＇ 충격으로 메모리 시총 150조 증발...〃제2의 딥시크 사태인가〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208497",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 앤트로픽의 데이터센터 임대에 자금 지원 예정",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208489",
+          "category": "해외"
+        },
+        {
+          "title": "애플, ＇시리＇ 개선 위해 AI 마케팅 부사장으로 구글 베테랑 임원 영입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208495",
+          "category": "해외"
+        },
+        {
+          "title": "소프트뱅크, 오픈AI 투자 확대 위해 60조 단기 대출...〃1년 내 IPO 승부수〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208492",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, ＇코덱스＇에 업무 도구 연결하는 플러그인 도입...＇클로드 코워크＇에 대응",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208490",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, ＇챗GPT 광고＇ 6주 만에 매출 1500억 돌파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208488",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }
