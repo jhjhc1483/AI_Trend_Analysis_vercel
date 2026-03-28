@@ -98,7 +98,11 @@ def send_email():
     try:
         # 1. 이메일 메시지 구성
         url = "https://ai-trend-analysis.vercel.app/visualizer.html"
-        subject = "오늘의 AI 동향 브리핑이 도착했어요!"
+        
+        # KST 시간으로 오늘 날짜 가져오기
+        now_kst = datetime.now(ZoneInfo("Asia/Seoul"))
+        date_str = now_kst.strftime("%Y년 %m월 %d일")
+        subject = f"{date_str} AI 동향 브리핑"
         
         msg = MIMEMultipart('mixed')
         msg['From'] = sender_email
