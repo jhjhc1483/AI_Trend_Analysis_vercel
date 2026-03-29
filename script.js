@@ -12,6 +12,7 @@ async function callProxyAPI(endpoint, method = 'GET', body = null) {
             method: 'POST', // 프록시에는 항상 POST로 데이터 전달
             headers: {
                 'Content-Type': 'application/json',
+                'x-admin-password': sessionStorage.getItem('adminPassword') || '' // 세션에서 비밀번호 가져오기
             },
             body: JSON.stringify({
                 endpoint: endpoint, // 예: repos/owner/repo/...
@@ -46,8 +47,10 @@ async function verifyPassword() {
             body: JSON.stringify({ password: pw })
         });
         const data = await res.json();
-        if (data.success) return true;
-        else {
+        if (data.success) {
+            sessionStorage.setItem('adminPassword', pw); // 성공 시 세션에 저장
+            return true;
+        } else {
             alert("비밀번호가 틀렸습니다.");
             return false;
         }
@@ -91,6 +94,17 @@ function base64ToUtf8(base64) {
     const binary = atob(base64.replace(/\n/g, ""));
     const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
     return new TextDecoder("utf-8").decode(bytes);
+}
+
+// XSS 방어를 위한 HTML 이스케이프 함수
+function escapeHTML(str) {
+    if (!str) return "";
+    return String(str)
+        .replace(/&/g, '&amp;')
+        .replace(/</g, '&lt;')
+        .replace(/>/g, '&gt;')
+        .replace(/"/g, '&quot;')
+        .replace(/'/g, '&#39;');
 }
 
 // document.getElementById('loadFileBtn').addEventListener('click', async () => {
@@ -336,16 +350,16 @@ function renderDashboard() {
     const latestArticles = sortData(articleData, 'date_desc').slice(0, 5);
     document.getElementById('latest-articles').innerHTML = latestArticles.map(item => `
         <li class="latest-item">
-            <a href="#" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
-            <span>${item.displayName} | ${item.년}.${item.월}.${item.일}</span>
+            <a href="#" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML(item.title).replace(/'/g, "\\'")}'); return false;">${escapeHTML(item.title)}</a>
+            <span>${escapeHTML(item.displayName)} | ${escapeHTML(item.년)}.${escapeHTML(item.월)}.${escapeHTML(item.일)}</span>
         </li>
     `).join('');
 
     const latestPublications = sortData(publicationData, 'date_desc').slice(0, 5);
     document.getElementById('latest-publications').innerHTML = latestPublications.map(item => `
         <li class="latest-item">
-            <a href="#" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
-            <span>${item.displayName} | ${item.년}.${item.월}.${item.일}</span>
+            <a href="#" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML(item.title).replace(/'/g, "\\'")}'); return false;">${escapeHTML(item.title)}</a>
+            <span>${escapeHTML(item.displayName)} | ${escapeHTML(item.년)}.${escapeHTML(item.월)}.${escapeHTML(item.일)}</span>
         </li>
     `).join('');
 }
@@ -434,19 +448,19 @@ function createListItem(item) {
     return `
         <li class="article-item" style="${excludeStyle}">
             <div class="article-actions">
-                <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${item.link}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
+                <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${escapeHTML(item.link)}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
                 ${fewshotButtons}
             </div>
             <div class="article-title-group">
-                <a href="#" class="article-title" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
+                <a href="#" class="article-title" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML(item.title).replace(/'/g, "\\'")}'); return false;">${escapeHTML(item.title)}</a>
                 ${excludeBadge}
                 ${categoryBadge}
                 <div class="article-meta">
-                    <span>출처: ${item.displayName}</span>
-                    <span>분류: ${item.category || '-'}</span>
+                    <span>출처: ${escapeHTML(item.displayName)}</span>
+                    <span>분류: ${escapeHTML(item.category || '-')}</span>
                 </div>
             </div>
-            <div class="article-date">${fullDate}</div>
+            <div class="article-date">${escapeHTML(fullDate)}</div>
         </li>
     `;
 }
