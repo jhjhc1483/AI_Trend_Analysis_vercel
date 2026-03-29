@@ -25,8 +25,10 @@ export default async function handler(req, res) {
         if (password === adminPassword) {
             return res.status(200).json({ success: true });
         } else {
+            // 브루트 포스 방지를 위한 지연 (1초)
+            await new Promise(resolve => setTimeout(resolve, 1000));
             return res.status(401).json({ success: false, error: "Unauthorized", message: "비밀번호가 일치하지 않습니다." });
-        }
+        },
     } catch (error) {
         console.error("Auth API Error:", error);
         return res.status(500).json({ error: "Internal Server Error", message: error.message });
