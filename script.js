@@ -4,6 +4,7 @@
 const OWNER = "jhjhc1483";
 const REPO = "AI_Trend_Analysis_vercel";
 const BRANCH = "main";
+let adminPassword = ""; // 세션 스토리지 대신 사용할 전역 변수
 
 //Vercel Serverless Function을 호출하는 함수
 async function callProxyAPI(endpoint, method = 'GET', body = null) {
@@ -12,7 +13,7 @@ async function callProxyAPI(endpoint, method = 'GET', body = null) {
             method: 'POST', // 프록시에는 항상 POST로 데이터 전달
             headers: {
                 'Content-Type': 'application/json',
-                'x-admin-password': sessionStorage.getItem('adminPassword') || '' // 세션에서 비밀번호 가져오기
+                'x-admin-password': adminPassword // 세션 대신 전역 변수 사용
             },
             body: JSON.stringify({
                 endpoint: endpoint, // 예: repos/owner/repo/...
@@ -37,6 +38,8 @@ async function callProxyAPI(endpoint, method = 'GET', body = null) {
 
 // 비밀번호 확인 함수
 async function verifyPassword() {
+    if (adminPassword) return true; // 메모리에 저장된 비밀번호가 있으면 패스
+
     const pw = prompt("관리자 비밀번호를 입력하세요:");
     if (!pw) return false;
 
@@ -48,7 +51,7 @@ async function verifyPassword() {
         });
         const data = await res.json();
         if (data.success) {
-            sessionStorage.setItem('adminPassword', pw); // 성공 시 세션에 저장
+            adminPassword = pw; // 성공 시 전역 변수에 저장 (새로고침 시 초기화)
             return true;
         } else {
             alert("비밀번호가 틀렸습니다.");
@@ -69,6 +72,8 @@ document.getElementById('runActionBtn').addEventListener('click', async function
         "✅수동으로 기사 업데이트 시 최소 5분 이상의 시간이 소요 됩니다.";
 
     if (!confirm(message)) return;
+
+    if (!(await verifyPassword())) return; // 권한 확인 추가
 
     const WORKFLOW_ID = "main.yml";
     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
@@ -188,7 +193,7 @@ let favoriteArticles = new Map();
 let favoritePublications = new Map();
 let fewshotExamples = [];
 let excludedArticles = new Set(); // 일일동향 제외 블랙리스트 (링크 기준)
-let fewshotUnlocked = false; // 관리자 인증 후 true로 변경
+let isAdminMode = false; // 관리자 인증 후 true로 변경
 const cacheBuster = `?t=${new Date().getTime()}`;
 
 const FILES_TO_LOAD = [
@@ -436,9 +441,9 @@ function createListItem(item) {
         categoryBadge = `<span class="category-badge ${colorClass}">${savedCat}</span>`;
     }
 
-    // FewShot 모드에서만 표시되는 버튼들 (관리자 인증된 경우에만)
+    // 관리자 모드에서만 표시되는 버튼들 (관리자 인증된 경우에만)
     let fewshotButtons = '';
-    if (item.isArticle && fewshotUnlocked) {
+    if (item.isArticle && isAdminMode) {
         const isLearned = fewshotExamples.some(ex => ex.title === item.title && ex.site === item.displayName);
         const learnBtn = isLearned
             ? `<button class="learn-btn" onclick="removeFewshotExample(event, '${item.link}')" title="FewShot 학습에서 제거" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🧠✕</button>`
@@ -453,9 +458,9 @@ function createListItem(item) {
     }
 
     const isExcluded = excludedArticles.has(item.link);
-    // fewshot 모드일 때만 음영/뱃지 표시
-    const excludeStyle = (isExcluded && fewshotUnlocked) ? 'opacity:0.45;' : '';
-    const excludeBadge = (isExcluded && fewshotUnlocked) ? '<span style="font-size:0.75em;color:#e74c3c;font-weight:bold;margin-left:6px;">[ 일일동향 제외 ]</span>' : '';
+    // 관리자 모드일 때만 음영/뱃지 표시
+    const excludeStyle = (isExcluded && isAdminMode) ? 'opacity:0.45;' : '';
+    const excludeBadge = (isExcluded && isAdminMode) ? '<span style="font-size:0.75em;color:#e74c3c;font-weight:bold;margin-left:6px;">[ 일일동향 제외 ]</span>' : '';
 
     return `
         <li class="article-item" style="${excludeStyle}">
@@ -747,13 +752,15 @@ async function toggleExcludeArticle(event, link) {
     }
 }
 
-// FewShot 모드 토글 (사이드바 버튼)
-async function toggleFewshotMode() {
-    if (fewshotUnlocked) {
+// 관리자 모드 토글 (사이드바 버튼)
+async function toggleAdminMode() {
+    if (isAdminMode) {
         // 이미 잠금 해제 상태 → 다시 잠금
-        fewshotUnlocked = false;
-        document.getElementById('fewshotModeBtn').style.background = '#555';
-        document.getElementById('fewshotModeBtn').title = 'FewShot 학습 관리 (관리자 인증 필요)';
+        isAdminMode = false;
+        adminPassword = ""; // 로그아웃 시 비밀번호 초기화
+        document.getElementById('adminModeBtn').style.background = '#555';
+        document.getElementById('adminModeBtn').innerText = '🔒 Admin';
+        document.getElementById('adminModeBtn').title = '관리자 모드 (인증 필요)';
         renderCurrentView();
         return;
     }
@@ -762,11 +769,12 @@ async function toggleFewshotMode() {
     const isVerified = await verifyPassword();
     if (!isVerified) return;
 
-    fewshotUnlocked = true;
-    document.getElementById('fewshotModeBtn').style.background = '#e67e22';
-    document.getElementById('fewshotModeBtn').title = 'FewShot 모드 활성화됨 (클릭하여 잠금)';
+    isAdminMode = true;
+    document.getElementById('adminModeBtn').style.background = '#e67e22';
+    document.getElementById('adminModeBtn').innerText = '🔓 Admin';
+    document.getElementById('adminModeBtn').title = '관리자 모드 활성화됨 (클릭하여 잠금)';
     renderCurrentView();
-    alert("✅ FewShot 관리 모드가 활성화되었습니다.\n기사 목록에서 🧠(학습 추가) / 🚫(제외) 버튼이 표시됩니다.");
+    alert("✅ 관리자 모드가 활성화되었습니다.\n전체 관리자 기능 및 FewShot/제외 관리가 가능합니다.");
 }
 
 const debounce = (func, delay) => {
@@ -822,6 +830,8 @@ document.getElementById('autoSelectFavoritesBtn').addEventListener('click', asyn
 // 8. 즐겨찾기 JSON 업로드 (uploadFavoritesBtn)
 // -----------------------------------------------------
 document.getElementById('uploadFavoritesBtn').addEventListener('click', async function () {
+    if (!(await verifyPassword())) return; // 권한 확인 추가
+
     const files = [
         {
             type: "ARTICLE",
@@ -894,6 +904,8 @@ document.getElementById('sidebarToggle').addEventListener('click', () => {
 document.getElementById('deleteCodesBtn').addEventListener('click', async function () {
     const confirmMsg = "⚠️ 경고 ⚠️\n모든 데이터를 삭제합니다.\n이 작업은 되돌릴 수 없습니다.\n정말 삭제하시겠습니까?";
     if (!confirm(confirmMsg)) return;
+
+    if (!(await verifyPassword())) return; // 권한 확인 추가
 
     try {
         const listEndpoint = `repos/${OWNER}/${REPO}/contents/codes`;
