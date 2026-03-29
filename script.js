@@ -73,12 +73,15 @@ document.getElementById('runActionBtn').addEventListener('click', async function
     const WORKFLOW_ID = "main.yml";
     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
+    updateStatus("기사 업데이트 요청 중...");
     try {
         await callProxyAPI(endpoint, 'POST', { ref: "main" });
         alert("✅ 실행 성공! 최소 5분의 시간이 소요 됩니다.\n페이지를 새로고침 하세요.");
+        updateStatus("기사 업데이트 진행 중... (최소 5분 소요)");
     } catch (error) {
         console.error('Error:', error);
         alert(`❌ 실패: ${error.message}`);
+        updateStatus("");
     }
 });
 
@@ -105,6 +108,15 @@ function escapeHTML(str) {
         .replace(/>/g, '&gt;')
         .replace(/"/g, '&quot;')
         .replace(/'/g, '&#39;');
+}
+
+// 각 상태 요소에 메시지를 표시하는 공통 함수
+function updateStatus(message) {
+    const ids = ['status-sidebar', 'status-sidebar-bottom', 'status-dashboard'];
+    ids.forEach(id => {
+        const el = document.getElementById(id);
+        if (el) el.textContent = message;
+    });
 }
 
 // document.getElementById('loadFileBtn').addEventListener('click', async () => {
@@ -791,15 +803,18 @@ document.getElementById('autoSelectFavoritesBtn').addEventListener('click', asyn
     const isVerified = await verifyPassword();
     if (!isVerified) return;
 
+    updateStatus("AI 자동 선정 요청 중...");
     const WORKFLOW_ID = "auto_favorites.yml";
     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
     try {
         await callProxyAPI(endpoint, 'POST', { ref: "main" });
         alert("✅ 실행 요청 완료! 약 2분 뒤 데이터가 자동 업데이트됩니다.\n(새로고침 불필요)");
+        updateStatus("AI 자동 선정이 진행 중입니다... (약 2~4분 소요)");
     } catch (error) {
         console.error('Error:', error);
         alert(`❌ 실행 실패: ${error.message}`);
+        updateStatus("");
     }
 });
 
@@ -851,15 +866,18 @@ document.getElementById('uploadFavoritesBtn').addEventListener('click', async fu
     }
     // alert("✅ 모든 데이터 업로드 완료");
 
+    updateStatus("데이터 텍스트 변환 요청 중...");
     const WORKFLOW_ID = "json_to_txt.yml";
     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
     try {
         await callProxyAPI(endpoint, 'POST', { ref: "main" });
         alert("✅ 즐겨찾기에 있는 목록을 일일 동향 텍스트로 만듭니다.\n\n✅️ 약 30초 후 대시보드에서 '텍스트추출'을 누르세요.");
+        updateStatus("텍스트 변환 작업이 진행 중입니다... (약 30초 소요)");
     } catch (error) {
         console.error('Error:', error);
         alert(`❌ 실패: ${error.message}`);
+        updateStatus("");
     }
 });
 
@@ -927,14 +945,17 @@ document.getElementById('createAudioBtn').addEventListener('click', async functi
     const WORKFLOW_ID = "audio_gen.yml";
     const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
 
+    updateStatus("AI 오디오 브리핑 생성 요청 중...");
     try {
         // 3. callProxyAPI를 통해 안전하게 요청 전송
         await callProxyAPI(endpoint, 'POST', { ref: "main" });
 
         alert("✅ 브리핑 생성 요청 성공!\nGemini가 대본을 쓰고 녹음 중입니다.\n약 1분 뒤 페이지를 새로고침하여 들어보세요.");
+        updateStatus("오디오 브리핑 생성 중... (약 1~2분 소요)");
     } catch (error) {
         console.error('Error:', error);
         alert(`❌ 실패: ${error.message}`);
+        updateStatus("");
     }
 });
 
