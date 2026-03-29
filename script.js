@@ -5,18 +5,21 @@ const OWNER = "jhjhc1483";
 const REPO = "AI_Trend_Analysis_vercel";
 const BRANCH = "main";
 
-//Vercel Serverless Function을 호출하는 함수
+// Vercel Serverless Function을 호출하는 함수
 async function callProxyAPI(endpoint, method = 'GET', body = null) {
+    const adminPassword = sessionStorage.getItem('adminPassword');
+    
     try {
         const res = await fetch('/api/github', {
             method: 'POST', // 프록시에는 항상 POST로 데이터 전달
             headers: {
                 'Content-Type': 'application/json',
+                'x-admin-password': adminPassword // 보안 헤더 추가
             },
             body: JSON.stringify({
-                endpoint: endpoint, // 예: repos/owner/repo/...
-                method: method,     // 실제 GitHub에 보낼 method (GET, POST, PUT 등)
-                body: body          // 실제 GitHub에 보낼 데이터
+                endpoint: endpoint,
+                method: method,
+                body: body
             })
         });
 
@@ -25,19 +28,34 @@ async function callProxyAPI(endpoint, method = 'GET', body = null) {
             throw new Error(errData.message || `HTTP Error ${res.status}`);
         }
 
-        // 204 No Content 처리
         if (res.status === 204) return null;
-
         return await res.json();
     } catch (error) {
         throw error;
     }
 }
 
+// XSS 방지를 위한 HTML 이스케이프 함수
+function escapeHTML(str) {
+    if (!str) return "";
+    return str.toString()
+        .replace(/&/g, "&amp;")
+        .replace(/</g, "&lt;")
+        .replace(/>/g, "&gt;")
+        .replace(/"/g, "&quot;")
+        .replace(/'/g, "&#39;");
+}
+
 // 비밀번호 확인 함수
 async function verifyPassword() {
-    const pw = prompt("관리자 비밀번호를 입력하세요:");
-    if (!pw) return false;
+    // 이미 세션에 저장된 비밀번호가 있는지 확인
+    let pw = sessionStorage.getItem('adminPassword');
+    
+    // 세션에 없으면 새로 입력받음
+    if (!pw) {
+        pw = prompt("관리자 비밀번호를 입력하세요:");
+        if (!pw) return false;
+    }
 
     try {
         const res = await fetch('/api/auth', {
@@ -46,8 +64,11 @@ async function verifyPassword() {
             body: JSON.stringify({ password: pw })
         });
         const data = await res.json();
-        if (data.success) return true;
-        else {
+        if (data.success) {
+            sessionStorage.setItem('adminPassword', pw); // 세션에 저장
+            return true;
+        } else {
+            sessionStorage.removeItem('adminPassword'); // 틀린 경우 삭제
             alert("비밀번호가 틀렸습니다.");
             return false;
         }
@@ -334,20 +355,28 @@ function renderDashboard() {
     // Stats removed
 
     const latestArticles = sortData(articleData, 'date_desc').slice(0, 5);
-    document.getElementById('latest-articles').innerHTML = latestArticles.map(item => `
-        <li class="latest-item">
-            <a href="#" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
-            <span>${item.displayName} | ${item.년}.${item.월}.${item.일}</span>
-        </li>
-    `).join('');
+    document.getElementById('latest-articles').innerHTML = latestArticles.map(item => {
+        const jsLink = item.link.replace(/'/g, "\\'");
+        const jsTitle = item.title.replace(/'/g, "\\'");
+        return `
+            <li class="latest-item">
+                <a href="#" onclick="openPopup('${jsLink}', '${jsTitle}'); return false;">${escapeHTML(item.title)}</a>
+                <span>${escapeHTML(item.displayName)} | ${escapeHTML(item.년)}.${escapeHTML(item.월)}.${escapeHTML(item.일)}</span>
+            </li>
+        `;
+    }).join('');
 
     const latestPublications = sortData(publicationData, 'date_desc').slice(0, 5);
-    document.getElementById('latest-publications').innerHTML = latestPublications.map(item => `
-        <li class="latest-item">
-            <a href="#" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
-            <span>${item.displayName} | ${item.년}.${item.월}.${item.일}</span>
-        </li>
-    `).join('');
+    document.getElementById('latest-publications').innerHTML = latestPublications.map(item => {
+        const jsLink = item.link.replace(/'/g, "\\'");
+        const jsTitle = item.title.replace(/'/g, "\\'");
+        return `
+            <li class="latest-item">
+                <a href="#" onclick="openPopup('${jsLink}', '${jsTitle}'); return false;">${escapeHTML(item.title)}</a>
+                <span>${escapeHTML(item.displayName)} | ${escapeHTML(item.년)}.${escapeHTML(item.월)}.${escapeHTML(item.일)}</span>
+            </li>
+        `;
+    }).join('');
 }
 
 function renderList(sourceName) {
@@ -389,8 +418,8 @@ function renderList(sourceName) {
 }
 
 function createListItem(item) {
-    const timeInfo = (item.시 && item.분) ? `${item.시.padStart(2, '0')}:${item.분.padStart(2, '0')}` : '';
-    const fullDate = `${item.년}.${item.월}.${item.일} ${timeInfo}`;
+    const timeInfo = (item.시 && item.분) ? `${escapeHTML(item.시).padStart(2, '0')}:${escapeHTML(item.분).padStart(2, '0')}` : '';
+    const fullDate = `${escapeHTML(item.년)}.${escapeHTML(item.월)}.${escapeHTML(item.일)} ${timeInfo}`;
     let isFavorite = item.isArticle ? favoriteArticles.has(item.link) : favoritePublications.has(item.link);
     let categoryBadge = '';
     let colorClass = 'cat-default';
@@ -407,43 +436,46 @@ function createListItem(item) {
         } else {
             colorClass = 'cat-default';
         }
-        categoryBadge = `<span class="category-badge ${colorClass}">${savedCat}</span>`;
+        categoryBadge = `<span class="category-badge ${colorClass}">${escapeHTML(savedCat)}</span>`;
     }
 
     // FewShot 모드에서만 표시되는 버튼들 (관리자 인증된 경우에만)
     let fewshotButtons = '';
     if (item.isArticle && fewshotUnlocked) {
+        const jsLink = item.link.replace(/'/g, "\\'");
         const isLearned = fewshotExamples.some(ex => ex.title === item.title && ex.site === item.displayName);
         const learnBtn = isLearned
-            ? `<button class="learn-btn" onclick="removeFewshotExample(event, '${item.link}')" title="FewShot 학습에서 제거" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🧠✕</button>`
-            : `<button class="learn-btn" onclick="addFewshotExample(event, '${item.link}')" title="FewShot 학습 데이터로 추가" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🧠</button>`;
+            ? `<button class="learn-btn" onclick="removeFewshotExample(event, '${jsLink}')" title="FewShot 학습에서 제거" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🧠✕</button>`
+            : `<button class="learn-btn" onclick="addFewshotExample(event, '${jsLink}')" title="FewShot 학습 데이터로 추가" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🧠</button>`;
 
         const isExcluded = excludedArticles.has(item.link);
         const excludeBtn = isExcluded
-            ? `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="제외 해제 클릭 → 일일동향에 다시 포함" style="background:#e74c3c;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.9em;padding:2px 6px;font-weight:bold;">🚫</button>`
-            : `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="일일동향에서 제외 (AI가 이 기사를 선택하지 않음)" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🚫</button>`;
+            ? `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${jsLink}')" title="제외 해제 클릭 → 일일동향에 다시 포함" style="background:#e74c3c;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.9em;padding:2px 6px;font-weight:bold;">🚫</button>`
+            : `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${jsLink}')" title="일일동향에서 제외 (AI가 이 기사를 선택하지 않음)" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🚫</button>`;
 
         fewshotButtons = learnBtn + excludeBtn;
     }
 
     const isExcluded = excludedArticles.has(item.link);
-    // fewshot 모드일 때만 음영/뱃지 표시
     const excludeStyle = (isExcluded && fewshotUnlocked) ? 'opacity:0.45;' : '';
     const excludeBadge = (isExcluded && fewshotUnlocked) ? '<span style="font-size:0.75em;color:#e74c3c;font-weight:bold;margin-left:6px;">[ 일일동향 제외 ]</span>' : '';
+
+    const jsLink = item.link.replace(/'/g, "\\'");
+    const jsTitle = item.title.replace(/'/g, "\\'");
 
     return `
         <li class="article-item" style="${excludeStyle}">
             <div class="article-actions">
-                <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${item.link}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
+                <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${jsLink}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
                 ${fewshotButtons}
             </div>
             <div class="article-title-group">
-                <a href="#" class="article-title" onclick="openPopup('${item.link}', '${item.title}'); return false;">${item.title}</a>
+                <a href="#" class="article-title" onclick="openPopup('${jsLink}', '${jsTitle}'); return false;">${escapeHTML(item.title)}</a>
                 ${excludeBadge}
                 ${categoryBadge}
                 <div class="article-meta">
-                    <span>출처: ${item.displayName}</span>
-                    <span>분류: ${item.category || '-'}</span>
+                    <span>출처: ${escapeHTML(item.displayName)}</span>
+                    <span>분류: ${escapeHTML(item.category || '-')}</span>
                 </div>
             </div>
             <div class="article-date">${fullDate}</div>
