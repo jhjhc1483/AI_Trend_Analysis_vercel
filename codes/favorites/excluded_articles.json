@@ -1,50 +1,8 @@
 [
   {
-    "title": "사이버 방어 훈련 직접 보며 작전 이해도 높여",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=47932&startDate=&endDate=&id=mnd_020101000000",
-    "site": "국방부",
-    "reason": "사이버에만 관련된 기사로 AI와 연관있는 기사는 아님."
-  },
-  {
-    "title": "국방부 「2026 대한민국 드론 공방전」 개최",
-    "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_108331&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
-    "site": "국방부",
-    "reason": "드론이 AI와 직접 연관있지는 않음."
-  },
-  {
-    "title": "정전원 입교 앞둔 육군 신임 정훈장교들 위국헌신 결의 다져",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47941&startDate=&endDate=&id=mnd_020101000000",
-    "site": "국방부",
-    "reason": "AI와 전혀 관련된 기사가 아님."
-  },
-  {
-    "title": "공격 드론 vs 방어 대드론, 국내 첫 쌍방 모의전투 펼친다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47945&startDate=&endDate=&id=mnd_020101000000",
-    "site": "국방부",
-    "reason": "드론이 AI와 직접적으로 연관되어있는 기사가 아님."
-  },
-  {
-    "title": "육군6사단 육탄독수리여단 2026 과학화전투훈련 현장",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=47949&startDate=&endDate=&id=mnd_020101000000",
-    "site": "국방부",
-    "reason": "과학화전투훈련이 AI와 직접 연관있는것은 아님"
-  },
-  {
-    "title": "육군, 올해 과학화예비군훈련장 5곳 추가 구축한다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=47953&startDate=&endDate=&id=mnd_020101000000",
-    "site": "국방부",
-    "reason": "과학화예비군훈련장이 AI와 직접연관있는 기사가 아님."
-  },
-  {
-    "title": "“복잡·정교한 첨단무기, 정비 인적사고 ‘제로화’ 노력”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=47984&startDate=&endDate=&id=mnd_020101000000",
-    "site": "국방부",
-    "reason": "첨단무기라는 키워드가 있지만 AI와 직접 연관은 없음"
-  },
-  {
-    "title": "[인사]산업통상부",
-    "link": "https://www.etnews.com/20260319000432",
-    "site": "전자신문",
-    "reason": "단순 산업통상부 내용"
+    "title": "[AI 이슈트렌드] 트럼프 이란 협상·BTS 공연 논란 등 상위권 차지",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208491",
+    "site": "AI Times",
+    "reason": "AI 이슈트렌드는 AI 기술, 제도, 정책 등에 관한 동향이 아님"
   }
 ]
