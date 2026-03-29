@@ -10,6 +10,14 @@ export default async function handler(req, res) {
     // 프론트엔드에서 보낸 요청 정보 받기
     const { endpoint, method = 'GET', body } = req.body;
 
+    // 보안 검사: 관리자 비밀번호 확인
+    const adminPassword = process.env.ADMIN_PASSWORD;
+    const clientPassword = req.headers['x-admin-password'];
+
+    if (!adminPassword || clientPassword !== adminPassword) {
+        return res.status(401).json({ error: "Access Denied: Invalid or missing administrator password" });
+    }
+
     if (!endpoint) {
         return res.status(400).json({ error: "Endpoint is required" });
     }
