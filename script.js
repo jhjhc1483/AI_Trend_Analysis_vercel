@@ -87,11 +87,11 @@ document.getElementById('runActionBtn').addEventListener('click', async function
 // const contentDiv = document.getElementById('popupContent');
 // const PATH = "codes/data.txt";
 
-// function base64ToUtf8(base64) {
-//     const binary = atob(base64.replace(/\n/g, ""));
-//     const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
-//     return new TextDecoder("utf-8").decode(bytes);
-// }
+function base64ToUtf8(base64) {
+    const binary = atob(base64.replace(/\n/g, ""));
+    const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
+    return new TextDecoder("utf-8").decode(bytes);
+}
 
 // document.getElementById('loadFileBtn').addEventListener('click', async () => {
 //     try {
@@ -523,14 +523,16 @@ async function addFewshotExample(event, link) {
         // Try to get existing file
         try {
             const getResData = await callProxyAPI(`${getEndpoint}?ref=${BRANCH}`, 'GET');
-            if (getResData && getResData.content) {
-                const decodedContent = base64ToUtf8(getResData.content);
-                fewshotData = JSON.parse(decodedContent);
-                sha = getResData.sha;
+            if (getResData) {
+                sha = getResData.sha; // Capture SHA first
+                if (getResData.content) {
+                    const decodedContent = base64ToUtf8(getResData.content);
+                    fewshotData = JSON.parse(decodedContent);
+                }
             }
         } catch (e) {
             // File might not exist (404), which is fine
-            console.log("Few-shot examples file not found. Creating a new one.");
+            console.log("Few-shot examples file not found or empty. Using empty array.");
         }
 
         // Check for duplicates
