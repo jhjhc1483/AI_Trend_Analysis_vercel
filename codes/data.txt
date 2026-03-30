@@ -11,51 +11,52 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 ◾ 국방부, 국방 AX 닻 올린다…＇AI 데이터센터＇ 구축 사업 첫발
 https://www.etnews.com/20260330000339
 
+[육군]
+◾ 전술비행·부품 제작…드론, 하나부터 열까지 익혔다
+https://kookbang.dema.mil.kr/newsWeb/20260331/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=jOA-ROTCzX1F166tNoYeOA6MenN0eQpsrT07YNtA9iY9CFceIBkY!-970361443
+
 [민간]
+◾ LS전선 역대 최대 실적,  매출 7조5882억, 영업이익 2798억… 글로벌 전력망과 AI 전력 인프라 수요 동인
+https://www.aitimes.kr/news/articleView.html?idxno=39328
+
 ◾ LG이노텍 문혁수 사장, “피지컬AI 이끄는 모빌리티∙로봇 센싱 글로벌 톱티어 될 것”
 https://www.aitimes.kr/news/articleView.html?idxno=39317
-
-◾ 가트너 “AI 토큰 단가 하락, 기업 AI 부담은 지속〃...AI 경쟁력, 단일 모델이 아닌 ‘멀티 모델 오케스트레이션’ 전략에 달려
-https://www.aitimes.kr/news/articleView.html?idxno=39314
-
-◾ 채널코퍼레이션, AX 전문 기업 렛서와 고객사 ‘AI 네이티브’ 돕는다
-https://www.aitimes.kr/news/articleView.html?idxno=39311
 
 ◾ LG전자, 전 임원 모았다…“생산성 30% 개선 등 AX 가속”
 https://www.etnews.com/20260330000264
 
-◾ 무인매장 절도 급증…에스원, ＇AI 보안 솔루션＇ 수요 늘어
-https://www.etnews.com/20260330000256
-
-◾ 삼성전자 ＇인피니트 AI 와인 냉장고＇ 출시…＇AI 와인 매니저＇ 첫 탑재
-https://www.etnews.com/20260330000116
+◾ 포티넷코리아, 에이전틱 AI 시대의 새로운 보안 위협 대응하는 ＇FortiAIGate＇ 솔루션 선보여
+https://www.etnews.com/20260330000328
 
 ◾ NH농협손해보험, 리벨리온에 100억원 전략적 지분투자…＇K-엔비디아＇ 육성 직원
 https://www.etnews.com/20260330000030
+
+◾ ＇Agentic AI로 진화하는 AICC＇… 제13회 AICC & CX 인사이트 2026 성황리 개최
+https://www.etnews.com/20260329000072
 
 [기관]
 ◾ 글로벌 스케일업과 해외 민간투자 유치 집중 지원...중기부, AI 창업기업 20개사 모집
 https://www.aitimes.kr/news/articleView.html?idxno=39325
 
-◾ 〃전국 어디서나 AI 훈련 받는다〃... 고용부, 30개 인공지능 훈련지원센터 선정
-https://www.aitimes.kr/news/articleView.html?idxno=39322
+◾ ＇UN AI 허브＇ 유치 가시권 기대…“기본사회 등 韓 AI 세계 전파 기회”
+https://www.etnews.com/20260330000334
 
-◾ 서울 AI 허브, AI 스타트업 기술 난제 해결할 연구진 모집…공동연구 성과 확산
-https://www.aitimes.kr/news/articleView.html?idxno=39315
+◾ NIPA, 한국벤처투자와 MOU…AI 산업 생태계 활성화
+https://www.etnews.com/20260330000381
 
 ◾ 의료AI, 병원서 직접 검증…＇최대 4억 지원＇ 첫 실증사업 돌입
 https://www.etnews.com/20260330000269
 
-◾ K-표준으로 글로벌 AI·미래차 주도권 쥔다…2030년까지 국제표준 누적 1950건 달성
-https://www.etnews.com/20260329000084
-
-◾ NIA, 한국사학진흥재단과 AI 협력 위한 MOU 체결
-https://www.etnews.com/20260330000043
-
 ◾ 마약류 탐지·승강기 사고‧돼지열병 대응을 위한, 현장 실증형 긴급 연구 착수
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187090&searchOpt=ALL&searchTxt=
 
+◾ ‘24년 국내 인터넷 기반 자원 공유(클라우드) 시장 매출 9조 원 돌파
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187089&searchOpt=ALL&searchTxt=
+
 [해외]
+◾ ＇AI 인덱스 2026＇ 보고서 4월 13일 공개… “글로벌 AI 흐름 한눈에 본다”
+https://www.aitimes.kr/news/articleView.html?idxno=39331
+
 ◾ 아마존, AI 에이전트 자기 개선을 위한 범용 인프라 ＇A-이볼브＇ 발표
 https://www.aitimes.com/news/articleView.html?idxno=208524
 
@@ -68,21 +69,12 @@ https://www.aitimes.com/news/articleView.html?idxno=208575
 ◾ 클로드, 올해 유료 사용자 두배로 증가...미 국방부 갈등이 촉매
 https://www.aitimes.com/news/articleView.html?idxno=208551
 
-◾ 샤오미, 휴머노이드 로봇에 땀까지 흘리는 ＇생체공학 손＇ 탑재
-https://www.aitimes.com/news/articleView.html?idxno=208563
-
 ◾ 중국, 도심 전투를 위한 진화된 ＇전투 늑대 무리＇ 공개
 https://www.aitimes.com/news/articleView.html?idxno=208571
 
-◾ 〃슈퍼마이크로 서버 밀수한 곳은 중국군 관련 블랙리스트 대학 등 4곳〃
-https://www.aitimes.com/news/articleView.html?idxno=208533
-
 [기타]
-◾ 국내 최초 FULL AI 강의가 온다… EBS ‘AI 고전, 역사를 바꾼 100책’ 첫 방송
-https://www.aitimes.kr/news/articleView.html?idxno=39316
-
-◾ 과학·AI분야 대학생 팀전 내달 13일까지 모집…1위팀엔 3000만원
-https://www.etnews.com/20260330000278
+◾ 특정 단어에 반응하는 ‘백도어 AI’ 잡았다… UNIST, 범용 방어 기술로 IEEE 대회 2위에 올라
+https://www.aitimes.kr/news/articleView.html?idxno=39318
 
 📚 간행물
 ◾ 국가 및 지역혁신을 견인하는 AI 데이터센터, 법제상 규제특례 체계 넘어 지속가능한 혁신체계 구축이 우선
