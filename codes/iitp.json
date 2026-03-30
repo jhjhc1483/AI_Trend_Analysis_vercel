@@ -750,5 +750,29 @@
         "년": "2026",
         "월": "03",
         "일": "26"
+    },
+    {
+        "제목": "Micro-LED 디스플레이 제조 [KEIT 기술통계리포트 2026-2월 4주차]",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260330-000003&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "02",
+        "일": "27"
+    },
+    {
+        "제목": "차량용 LiDAR 신호처리_자율주행차 [KEIT 기술통계리포트 2026-2월 3주차]",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260330-000002&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "02",
+        "일": "20"
+    },
+    {
+        "제목": "AI 기반 의료영상진단(Medical Imaging) [KEIT 기술통계리포트 2026-2월 2주차]",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260330-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "02",
+        "일": "09"
     }
 ]
