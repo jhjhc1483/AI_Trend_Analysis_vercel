@@ -476,5 +476,166 @@
         }
       ]
     }
+  },
+  "26.03.31": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "글로벌 스케일업과 해외 민간투자 유치 집중 지원...중기부, AI 창업기업 20개사 모집",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39325",
+          "category": "기관"
+        },
+        {
+          "title": "〃전국 어디서나 AI 훈련 받는다〃... 고용부, 30개 인공지능 훈련지원센터 선정",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39322",
+          "category": "기관"
+        },
+        {
+          "title": "서울 AI 허브, AI 스타트업 기술 난제 해결할 연구진 모집…공동연구 성과 확산",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39315",
+          "category": "기관"
+        },
+        {
+          "title": "의료AI, 병원서 직접 검증…＇최대 4억 지원＇ 첫 실증사업 돌입",
+          "link": "https://www.etnews.com/20260330000269",
+          "category": "기관"
+        },
+        {
+          "title": "K-표준으로 글로벌 AI·미래차 주도권 쥔다…2030년까지 국제표준 누적 1950건 달성",
+          "link": "https://www.etnews.com/20260329000084",
+          "category": "기관"
+        },
+        {
+          "title": "NIA, 한국사학진흥재단과 AI 협력 위한 MOU 체결",
+          "link": "https://www.etnews.com/20260330000043",
+          "category": "기관"
+        },
+        {
+          "title": "마약류 탐지·승강기 사고‧돼지열병 대응을 위한, 현장 실증형 긴급 연구 착수",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187090&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "LG이노텍 문혁수 사장, “피지컬AI 이끄는 모빌리티∙로봇 센싱 글로벌 톱티어 될 것”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39317",
+          "category": "민간"
+        },
+        {
+          "title": "가트너 “AI 토큰 단가 하락, 기업 AI 부담은 지속〃...AI 경쟁력, 단일 모델이 아닌 ‘멀티 모델 오케스트레이션’ 전략에 달려",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39314",
+          "category": "민간"
+        },
+        {
+          "title": "채널코퍼레이션, AX 전문 기업 렛서와 고객사 ‘AI 네이티브’ 돕는다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39311",
+          "category": "민간"
+        },
+        {
+          "title": "LG전자, 전 임원 모았다…“생산성 30% 개선 등 AX 가속”",
+          "link": "https://www.etnews.com/20260330000264",
+          "category": "민간"
+        },
+        {
+          "title": "무인매장 절도 급증…에스원, ＇AI 보안 솔루션＇ 수요 늘어",
+          "link": "https://www.etnews.com/20260330000256",
+          "category": "민간"
+        },
+        {
+          "title": "삼성전자 ＇인피니트 AI 와인 냉장고＇ 출시…＇AI 와인 매니저＇ 첫 탑재",
+          "link": "https://www.etnews.com/20260330000116",
+          "category": "민간"
+        },
+        {
+          "title": "NH농협손해보험, 리벨리온에 100억원 전략적 지분투자…＇K-엔비디아＇ 육성 직원",
+          "link": "https://www.etnews.com/20260330000030",
+          "category": "민간"
+        }
+      ],
+      "기타": [
+        {
+          "title": "국내 최초 FULL AI 강의가 온다… EBS ‘AI 고전, 역사를 바꾼 100책’ 첫 방송",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39316",
+          "category": "기타"
+        },
+        {
+          "title": "과학·AI분야 대학생 팀전 내달 13일까지 모집…1위팀엔 3000만원",
+          "link": "https://www.etnews.com/20260330000278",
+          "category": "기타"
+        }
+      ],
+      "국방": [
+        {
+          "title": "대한항공, AI 기술 접목한 차세대 고속 무인표적기 개발 속도...군집제어 및 임무 자율성 극대화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39313",
+          "category": "국방"
+        },
+        {
+          "title": "KIMA, AI·과학기술까지 연구 역량 외연 넓혀",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48282&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "국방부, 국방 AX 닻 올린다…＇AI 데이터센터＇ 구축 사업 첫발",
+          "link": "https://www.etnews.com/20260330000339",
+          "category": "국방"
+        }
+      ],
+      "해외": [
+        {
+          "title": "아마존, AI 에이전트 자기 개선을 위한 범용 인프라 ＇A-이볼브＇ 발표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208524",
+          "category": "해외"
+        },
+        {
+          "title": "메타, 인간 뇌 활동 fMRI 반응 예측하는 모델 ＇트라이브 v2＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208527",
+          "category": "해외"
+        },
+        {
+          "title": "AI 트래픽, 사상 첫 인간 트래픽 추월 눈앞…에이전트 사용량 8000% 증가",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208575",
+          "category": "해외"
+        },
+        {
+          "title": "클로드, 올해 유료 사용자 두배로 증가...미 국방부 갈등이 촉매",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208551",
+          "category": "해외"
+        },
+        {
+          "title": "샤오미, 휴머노이드 로봇에 땀까지 흘리는 ＇생체공학 손＇ 탑재",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208563",
+          "category": "해외"
+        },
+        {
+          "title": "중국, 도심 전투를 위한 진화된 ＇전투 늑대 무리＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208571",
+          "category": "해외"
+        },
+        {
+          "title": "〃슈퍼마이크로 서버 밀수한 곳은 중국군 관련 블랙리스트 대학 등 4곳〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208533",
+          "category": "해외"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "국가 및 지역혁신을 견인하는 AI 데이터센터, 법제상 규제특례 체계 넘어 지속가능한 혁신체계 구축이 우선",
+          "link": "https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=65&cateCont=A0513&cbIdx=0&searchKey=",
+          "category": "간행물"
+        },
+        {
+          "title": "Use Cases of Public AI Service, Vol.2 (공공AI서비스 실증사례집 영문본 2권)",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=29181&parentSeq=29181",
+          "category": "간행물"
+        },
+        {
+          "title": "[제1283호] 3GPP 110차 기술총회",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1283%ED%98%B8%5D%203GPP%20110%EC%B0%A8%20%EA%B8%B0%EC%88%A0%EC%B4%9D%ED%9A%8C",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }

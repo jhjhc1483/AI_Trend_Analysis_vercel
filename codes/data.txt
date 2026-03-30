@@ -1,73 +1,98 @@
-📢26.03.30 AI 일일 동향📢
+📢26.03.31 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
+◾ 대한항공, AI 기술 접목한 차세대 고속 무인표적기 개발 속도...군집제어 및 임무 자율성 극대화
+https://www.aitimes.kr/news/articleView.html?idxno=39313
+
 ◾ KIMA, AI·과학기술까지 연구 역량 외연 넓혀
-https://kookbang.dema.mil.kr/newsWeb/20260330/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=5MU4nIhBEEdDzpfp8I7lRKOABv8H2U8Df1ISJFFSU-479SZTBuDH!-579096985
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48282&startDate=&endDate=&id=mnd_020101000000
+
+◾ 국방부, 국방 AX 닻 올린다…＇AI 데이터센터＇ 구축 사업 첫발
+https://www.etnews.com/20260330000339
 
 [민간]
-◾ 카카오, 컴퓨터가 대신 클릭하는 AI 개발 착수…에이전틱 AI 속도
-https://www.etnews.com/20260327000242
+◾ LG이노텍 문혁수 사장, “피지컬AI 이끄는 모빌리티∙로봇 센싱 글로벌 톱티어 될 것”
+https://www.aitimes.kr/news/articleView.html?idxno=39317
 
-◾ KT 박윤영호 31일 출범…AI 수뇌부 대거 물갈이 예고
-https://www.etnews.com/20260329000054
+◾ 가트너 “AI 토큰 단가 하락, 기업 AI 부담은 지속〃...AI 경쟁력, 단일 모델이 아닌 ‘멀티 모델 오케스트레이션’ 전략에 달려
+https://www.aitimes.kr/news/articleView.html?idxno=39314
 
-◾ 전력계통평가 발묶인 수도권 AIDC…신속 공급 타이밍 놓칠 우려도
-https://www.etnews.com/20260329000026
+◾ 채널코퍼레이션, AX 전문 기업 렛서와 고객사 ‘AI 네이티브’ 돕는다
+https://www.aitimes.kr/news/articleView.html?idxno=39311
 
-◾ 위세아이텍, 한국은행 61억 규모 ＇디지털혁신실 통합 운영용역＇ 사업 수주
-https://www.etnews.com/20260327000016
+◾ LG전자, 전 임원 모았다…“생산성 30% 개선 등 AX 가속”
+https://www.etnews.com/20260330000264
 
-◾ 세미파이브, R&D 2배 ＇베팅＇…선단 기술 선점 승부수
-https://www.etnews.com/20260327000165
+◾ 무인매장 절도 급증…에스원, ＇AI 보안 솔루션＇ 수요 늘어
+https://www.etnews.com/20260330000256
+
+◾ 삼성전자 ＇인피니트 AI 와인 냉장고＇ 출시…＇AI 와인 매니저＇ 첫 탑재
+https://www.etnews.com/20260330000116
+
+◾ NH농협손해보험, 리벨리온에 100억원 전략적 지분투자…＇K-엔비디아＇ 육성 직원
+https://www.etnews.com/20260330000030
 
 [기관]
-◾ 정보통신전략위원회, 인공지능 3대 강국 도약을 위한 디지털 토대 마련
-https://www.aitimes.kr/news/articleView.html?idxno=39305
+◾ 글로벌 스케일업과 해외 민간투자 유치 집중 지원...중기부, AI 창업기업 20개사 모집
+https://www.aitimes.kr/news/articleView.html?idxno=39325
 
-◾ 로봇 팔 걷어붙인 경기도…시흥에 피지컬 AI 실증 거점 조성
-https://www.etnews.com/20260328000002
+◾ 〃전국 어디서나 AI 훈련 받는다〃... 고용부, 30개 인공지능 훈련지원센터 선정
+https://www.aitimes.kr/news/articleView.html?idxno=39322
 
-◾ 정부, 17개 권역의료기관 의료AI 지원에 142억 투입…공공AX 가속
-https://www.etnews.com/20260327000249
+◾ 서울 AI 허브, AI 스타트업 기술 난제 해결할 연구진 모집…공동연구 성과 확산
+https://www.aitimes.kr/news/articleView.html?idxno=39315
 
-◾ 서울시, 253억 투입 AI·딥테크 스타트업 1600곳 지원
-https://www.etnews.com/20260329000048
+◾ 의료AI, 병원서 직접 검증…＇최대 4억 지원＇ 첫 실증사업 돌입
+https://www.etnews.com/20260330000269
 
-◾ ＇대·중소 상생형 스마트공장＇ 참여 기업 150곳 모집…AI트랙 첫 도입
-https://www.etnews.com/20260328000047
+◾ K-표준으로 글로벌 AI·미래차 주도권 쥔다…2030년까지 국제표준 누적 1950건 달성
+https://www.etnews.com/20260329000084
+
+◾ NIA, 한국사학진흥재단과 AI 협력 위한 MOU 체결
+https://www.etnews.com/20260330000043
+
+◾ 마약류 탐지·승강기 사고‧돼지열병 대응을 위한, 현장 실증형 긴급 연구 착수
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187090&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 일론 머스크, “테슬라 AI 자율주행 인간보다 10배 안전”… AI 주행 신뢰성 논쟁 재점화
-https://www.aitimes.kr/news/articleView.html?idxno=39304
+◾ 아마존, AI 에이전트 자기 개선을 위한 범용 인프라 ＇A-이볼브＇ 발표
+https://www.aitimes.com/news/articleView.html?idxno=208524
 
-◾ “미사일 발사기 탑재”…총·유탄 쏘며 시속 15km로 전장 누빈 ＇中 로봇늑대＇
-https://www.etnews.com/20260328000049
+◾ 메타, 인간 뇌 활동 fMRI 반응 예측하는 모델 ＇트라이브 v2＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=208527
 
-◾ 앤트로픽, 사상 최강 모델 ＇클로드 미소스＇ 출시 임박
-https://www.aitimes.com/news/articleView.html?idxno=208493
+◾ AI 트래픽, 사상 첫 인간 트래픽 추월 눈앞…에이전트 사용량 8000% 증가
+https://www.aitimes.com/news/articleView.html?idxno=208575
 
-◾ 구글의 내부용 ＇에이전트 스미스＇ 인기 폭발...〃접근 제한할 정도〃
-https://www.aitimes.com/news/articleView.html?idxno=208499
+◾ 클로드, 올해 유료 사용자 두배로 증가...미 국방부 갈등이 촉매
+https://www.aitimes.com/news/articleView.html?idxno=208551
 
-◾ 미국 의회, 정부의 중국산 로봇 사용 금지하는 법안 발의
-https://www.aitimes.com/news/articleView.html?idxno=208509
+◾ 샤오미, 휴머노이드 로봇에 땀까지 흘리는 ＇생체공학 손＇ 탑재
+https://www.aitimes.com/news/articleView.html?idxno=208563
+
+◾ 중국, 도심 전투를 위한 진화된 ＇전투 늑대 무리＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=208571
+
+◾ 〃슈퍼마이크로 서버 밀수한 곳은 중국군 관련 블랙리스트 대학 등 4곳〃
+https://www.aitimes.com/news/articleView.html?idxno=208533
 
 [기타]
-◾ “제미나이도, 챗GPT도…AI 챗봇, 인간에게 지나치게 아첨 떤다”
-https://www.etnews.com/20260327000290
+◾ 국내 최초 FULL AI 강의가 온다… EBS ‘AI 고전, 역사를 바꾼 100책’ 첫 방송
+https://www.aitimes.kr/news/articleView.html?idxno=39316
 
-◾ [이광재의 패러다임 디자인]〈26〉 AI 패권 전쟁의 골든타임, ＇망분리＇라는 낡은 성벽을 허물고 혁신의 길을 터야
-https://www.etnews.com/20260329000055
+◾ 과학·AI분야 대학생 팀전 내달 13일까지 모집…1위팀엔 3000만원
+https://www.etnews.com/20260330000278
 
-◾ [ET시론]＇200대 1＇의 비대칭 전쟁, ＇K드론＇의 주권 확보
-https://www.etnews.com/20260327000065
+📚 간행물
+◾ 국가 및 지역혁신을 견인하는 AI 데이터센터, 법제상 규제특례 체계 넘어 지속가능한 혁신체계 구축이 우선
+https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=65&cateCont=A0513&cbIdx=0&searchKey=
 
-◾ [고속도로 AI 안전혁신] 사망률 역대 최저…AI로 사고 막는다
-https://www.etnews.com/20260327000148
+◾ Use Cases of Public AI Service, Vol.2 (공공AI서비스 실증사례집 영문본 2권)
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=29181&parentSeq=29181
 
-◾ GIST 대학원생팀, 국제AI게임대회 ＇오락 게임 에이전트 챌린지＇ 우승
-https://www.etnews.com/20260329000031
+◾ [제1283호] 3GPP 110차 기술총회
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1283%ED%98%B8%5D%203GPP%20110%EC%B0%A8%20%EA%B8%B0%EC%88%A0%EC%B4%9D%ED%9A%8C
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
