@@ -1,117 +1,152 @@
 [
   {
-    "title": "LS전선 역대 최대 실적,  매출 7조5882억, 영업이익 2798억… 글로벌 전력망과 AI 전력 인프라 수요 동인",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39328",
-    "category": "민간"
+    "title": "마스오토, 美 대륙 횡단 자율주행 화물 운송 성공…‘세계 최장’ 3379km 완주",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39350",
+    "category": "해외"
   },
   {
-    "title": "글로벌 스케일업과 해외 민간투자 유치 집중 지원...중기부, AI 창업기업 20개사 모집",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39325",
+    "title": "한국연구재단, 인공지능 위원회 첫 회의… AI로 여는 연구관리 혁신 본격 추진",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39345",
     "category": "기관"
   },
   {
-    "title": "특정 단어에 반응하는 ‘백도어 AI’ 잡았다… UNIST, 범용 방어 기술로 IEEE 대회 2위에 올라",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39318",
-    "category": "기타"
-  },
-  {
-    "title": "LG이노텍 문혁수 사장, “피지컬AI 이끄는 모빌리티∙로봇 센싱 글로벌 톱티어 될 것”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39317",
+    "title": "오픈AI, 서울에서 CTO 대상 ‘코덱스 포럼’ 개최... “개발자는 이제 ‘코딩 팀메이트’와 일한다”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39341",
     "category": "민간"
   },
   {
-    "title": "대한항공, AI 기술 접목한 차세대 고속 무인표적기 개발 속도...군집제어 및 임무 자율성 극대화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39313",
-    "category": "국방"
-  },
-  {
-    "title": "＇AI 인덱스 2026＇ 보고서 4월 13일 공개… “글로벌 AI 흐름 한눈에 본다”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39331",
-    "category": "해외"
-  },
-  {
-    "title": "KIMA, AI·과학기술까지 연구 역량 외연 넓혀",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48282&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "＇UN AI 허브＇ 유치 가시권 기대…“기본사회 등 韓 AI 세계 전파 기회”",
-    "link": "https://www.etnews.com/20260330000334",
-    "category": "기관"
-  },
-  {
-    "title": "NIPA, 한국벤처투자와 MOU…AI 산업 생태계 활성화",
-    "link": "https://www.etnews.com/20260330000381",
-    "category": "기관"
-  },
-  {
-    "title": "국방부, 국방 AX 닻 올린다…＇AI 데이터센터＇ 구축 사업 첫발",
-    "link": "https://www.etnews.com/20260330000339",
-    "category": "국방"
-  },
-  {
-    "title": "LG전자, 전 임원 모았다…“생산성 30% 개선 등 AX 가속”",
-    "link": "https://www.etnews.com/20260330000264",
+    "title": "삼성전자, AI 가전에 더 똑똑해진 ＇빅스비＇ 적용...일상 대화 통해 보다 직관적이고 편리한 가전 사용 지원",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39337",
     "category": "민간"
   },
   {
-    "title": "포티넷코리아, 에이전틱 AI 시대의 새로운 보안 위협 대응하는 ＇FortiAIGate＇ 솔루션 선보여",
-    "link": "https://www.etnews.com/20260330000328",
+    "title": "SKT-NTT도코모, AI-RAN 백서 공동 발간...차세대 네트워크 핵심 기술 제시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39335",
     "category": "민간"
   },
   {
-    "title": "의료AI, 병원서 직접 검증…＇최대 4억 지원＇ 첫 실증사업 돌입",
-    "link": "https://www.etnews.com/20260330000269",
-    "category": "기관"
-  },
-  {
-    "title": "NH농협손해보험, 리벨리온에 100억원 전략적 지분투자…＇K-엔비디아＇ 육성 직원",
-    "link": "https://www.etnews.com/20260330000030",
-    "category": "민간"
-  },
-  {
-    "title": "＇Agentic AI로 진화하는 AICC＇… 제13회 AICC & CX 인사이트 2026 성황리 개최",
-    "link": "https://www.etnews.com/20260329000072",
-    "category": "민간"
-  },
-  {
-    "title": "아마존, AI 에이전트 자기 개선을 위한 범용 인프라 ＇A-이볼브＇ 발표",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208524",
-    "category": "해외"
-  },
-  {
-    "title": "메타, 인간 뇌 활동 fMRI 반응 예측하는 모델 ＇트라이브 v2＇ 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208527",
-    "category": "해외"
-  },
-  {
-    "title": "AI 트래픽, 사상 첫 인간 트래픽 추월 눈앞…에이전트 사용량 8000% 증가",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208575",
-    "category": "해외"
-  },
-  {
-    "title": "클로드, 올해 유료 사용자 두배로 증가...미 국방부 갈등이 촉매",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208551",
-    "category": "해외"
-  },
-  {
-    "title": "중국, 도심 전투를 위한 진화된 ＇전투 늑대 무리＇ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208571",
-    "category": "해외"
-  },
-  {
-    "title": "마약류 탐지·승강기 사고‧돼지열병 대응을 위한, 현장 실증형 긴급 연구 착수",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187090&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "‘24년 국내 인터넷 기반 자원 공유(클라우드) 시장 매출 9조 원 돌파",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187089&searchOpt=ALL&searchTxt=",
+    "title": "카카오, 국민연금과 AI 기반 공공서비스 접근성 및 편의성 높인다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39354",
     "category": "기관"
   },
   {
     "title": "전술비행·부품 제작…드론, 하나부터 열까지 익혔다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260331/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=jOA-ROTCzX1F166tNoYeOA6MenN0eQpsrT07YNtA9iY9CFceIBkY!-970361443",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48319&startDate=&endDate=&id=mnd_020101000000",
     "category": "육군"
+  },
+  {
+    "title": "미래 육군항공 비전 한눈에…민·관·군과 함께 날다",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48320&startDate=&endDate=&id=mnd_020101000000",
+    "category": "육군"
+  },
+  {
+    "title": "HWP·법제처와 씨름하던 공무원이 만든 ＇AI 행정 비서＇ 화제",
+    "link": "https://www.etnews.com/20260331000432",
+    "category": "기타"
+  },
+  {
+    "title": "KT 박윤영號 공식 출범 “정보보안 토대 속 ＇AX 플랫폼 기업＇ 도약”",
+    "link": "https://www.etnews.com/20260331000392",
+    "category": "민간"
+  },
+  {
+    "title": "네이버, 파파고 조직 흡수…통합 AI 에이전트 구현 ＇퍼즐＇ 확보",
+    "link": "https://www.etnews.com/20260331000347",
+    "category": "민간"
+  },
+  {
+    "title": "네이버 D2SF, 헬스케어 스타트업 사운더블헬스·누비랩에 후속 투자",
+    "link": "https://www.etnews.com/20260331000128",
+    "category": "민간"
+  },
+  {
+    "title": "“구글 딥마인드 한계 규명”…GIST, AI 예보 성능 평가 기준 재정립 필요성 제시",
+    "link": "https://www.etnews.com/20260331000040",
+    "category": "기타"
+  },
+  {
+    "title": "MS, 업무용 심층연구 에이전트에 멀티 AI 모델 활용 지원",
+    "link": "https://www.etnews.com/20260331000030",
+    "category": "해외"
+  },
+  {
+    "title": "알리바바, ＇시청각 바이브 코딩＇ 가능한 ‘큐원3.5-옴니’ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208618",
+    "category": "해외"
+  },
+  {
+    "title": "미스트랄, 데이터센터 구축 위해 1.2조 부채 조달...미국 자본은 미포함",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208641",
+    "category": "해외"
+  },
+  {
+    "title": "위성 데이터센터 스타클라우드, 1.6조 기업 가치 달성",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208643",
+    "category": "해외"
+  },
+  {
+    "title": "딥시크, 서비스 개시 이후 최장 7시간 서비스 중단 사태",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208640",
+    "category": "해외"
+  },
+  {
+    "title": "KAIST, 소형 안테나로 AI 모델 구조 파악하는 ‘모델스파이’ 기술 개발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208632",
+    "category": "기관"
+  },
+  {
+    "title": "중국, ＇토큰 경제＇ 강조...〃풍부한 전력을 토큰으로 변환해 전 세계에 수출〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208626",
+    "category": "해외"
+  },
+  {
+    "title": "리벨리온, 6000억 규모 프리 IPO 투자유치…”미국 입지 확장”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208621",
+    "category": "민간"
+  },
+  {
+    "title": "과기정통부, 2026년 공공 정보화 사업 수요 6.4조원 규모 발표…전년대비 4.2% 증가",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187099&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "한국형 기술(K-테크) 혁신 이끌 3개 국가전략기술 발굴",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187097&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "의료·생명 공학(바이오) 혁신 이끌 세계 선도형 인공지능 특화 기초 모형(파운데이션 모델) 개발 가속화",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187101&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "‘인공지능 기본법 지원 창구(지원 데스크)’, 시행 10주 차 총 552건 상담 접수, 사례집 발간으로 기업 지원 강화",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187094&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "민·군, 드론·대드론 기술협력 확대 가속",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260401/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443",
+    "category": "국방"
+  },
+  {
+    "title": "‘병력 절감 위한 AI 기술 활용방안’ 주제 창의력 겨뤄",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260401/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443",
+    "category": "국방"
+  },
+  {
+    "title": "소리로 인지하고 눈으로 탐지한다…정확히 판단하고 확실히 대응한다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260401/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443",
+    "category": "국방"
+  },
+  {
+    "title": "육군동원전력사령부, 미래전 이끌 예비전력 드론교육센터 문 열어",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260401/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443",
+    "category": "육군"
+  },
+  {
+    "title": "AX 활용 역량 강화…미래 항공우주력 선도할 인재 키운다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260401/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443",
+    "category": "국방"
   }
 ]

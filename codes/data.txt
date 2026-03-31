@@ -1,90 +1,126 @@
-📢26.03.31 AI 일일 동향📢
+📢26.04.01 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 대한항공, AI 기술 접목한 차세대 고속 무인표적기 개발 속도...군집제어 및 임무 자율성 극대화
-https://www.aitimes.kr/news/articleView.html?idxno=39313
+◾ 민·군, 드론·대드론 기술협력 확대 가속
+https://kookbang.dema.mil.kr/newsWeb/20260401/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443
 
-◾ KIMA, AI·과학기술까지 연구 역량 외연 넓혀
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48282&startDate=&endDate=&id=mnd_020101000000
+◾ ‘병력 절감 위한 AI 기술 활용방안’ 주제 창의력 겨뤄
+https://kookbang.dema.mil.kr/newsWeb/20260401/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443
 
-◾ 국방부, 국방 AX 닻 올린다…＇AI 데이터센터＇ 구축 사업 첫발
-https://www.etnews.com/20260330000339
+◾ 소리로 인지하고 눈으로 탐지한다…정확히 판단하고 확실히 대응한다
+https://kookbang.dema.mil.kr/newsWeb/20260401/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443
+
+◾ AX 활용 역량 강화…미래 항공우주력 선도할 인재 키운다
+https://kookbang.dema.mil.kr/newsWeb/20260401/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443
 
 [육군]
 ◾ 전술비행·부품 제작…드론, 하나부터 열까지 익혔다
-https://kookbang.dema.mil.kr/newsWeb/20260331/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=jOA-ROTCzX1F166tNoYeOA6MenN0eQpsrT07YNtA9iY9CFceIBkY!-970361443
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48319&startDate=&endDate=&id=mnd_020101000000
+
+◾ 미래 육군항공 비전 한눈에…민·관·군과 함께 날다
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48320&startDate=&endDate=&id=mnd_020101000000
+
+◾ 육군동원전력사령부, 미래전 이끌 예비전력 드론교육센터 문 열어
+https://kookbang.dema.mil.kr/newsWeb/20260401/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=IZ1DYNTe10sC2RZ_TnJ14RLi-G3XrmRj3MmM9yYSxdOLcTo59MoW!-970361443
 
 [민간]
-◾ LS전선 역대 최대 실적,  매출 7조5882억, 영업이익 2798억… 글로벌 전력망과 AI 전력 인프라 수요 동인
-https://www.aitimes.kr/news/articleView.html?idxno=39328
+◾ 오픈AI, 서울에서 CTO 대상 ‘코덱스 포럼’ 개최... “개발자는 이제 ‘코딩 팀메이트’와 일한다”
+https://www.aitimes.kr/news/articleView.html?idxno=39341
 
-◾ LG이노텍 문혁수 사장, “피지컬AI 이끄는 모빌리티∙로봇 센싱 글로벌 톱티어 될 것”
-https://www.aitimes.kr/news/articleView.html?idxno=39317
+◾ 삼성전자, AI 가전에 더 똑똑해진 ＇빅스비＇ 적용...일상 대화 통해 보다 직관적이고 편리한 가전 사용 지원
+https://www.aitimes.kr/news/articleView.html?idxno=39337
 
-◾ LG전자, 전 임원 모았다…“생산성 30% 개선 등 AX 가속”
-https://www.etnews.com/20260330000264
+◾ SKT-NTT도코모, AI-RAN 백서 공동 발간...차세대 네트워크 핵심 기술 제시
+https://www.aitimes.kr/news/articleView.html?idxno=39335
 
-◾ 포티넷코리아, 에이전틱 AI 시대의 새로운 보안 위협 대응하는 ＇FortiAIGate＇ 솔루션 선보여
-https://www.etnews.com/20260330000328
+◾ KT 박윤영號 공식 출범 “정보보안 토대 속 ＇AX 플랫폼 기업＇ 도약”
+https://www.etnews.com/20260331000392
 
-◾ NH농협손해보험, 리벨리온에 100억원 전략적 지분투자…＇K-엔비디아＇ 육성 직원
-https://www.etnews.com/20260330000030
+◾ 네이버, 파파고 조직 흡수…통합 AI 에이전트 구현 ＇퍼즐＇ 확보
+https://www.etnews.com/20260331000347
 
-◾ ＇Agentic AI로 진화하는 AICC＇… 제13회 AICC & CX 인사이트 2026 성황리 개최
-https://www.etnews.com/20260329000072
+◾ 네이버 D2SF, 헬스케어 스타트업 사운더블헬스·누비랩에 후속 투자
+https://www.etnews.com/20260331000128
+
+◾ 리벨리온, 6000억 규모 프리 IPO 투자유치…”미국 입지 확장”
+https://www.aitimes.com/news/articleView.html?idxno=208621
 
 [기관]
-◾ 글로벌 스케일업과 해외 민간투자 유치 집중 지원...중기부, AI 창업기업 20개사 모집
-https://www.aitimes.kr/news/articleView.html?idxno=39325
+◾ 한국연구재단, 인공지능 위원회 첫 회의… AI로 여는 연구관리 혁신 본격 추진
+https://www.aitimes.kr/news/articleView.html?idxno=39345
 
-◾ ＇UN AI 허브＇ 유치 가시권 기대…“기본사회 등 韓 AI 세계 전파 기회”
-https://www.etnews.com/20260330000334
+◾ 카카오, 국민연금과 AI 기반 공공서비스 접근성 및 편의성 높인다
+https://www.aitimes.kr/news/articleView.html?idxno=39354
 
-◾ NIPA, 한국벤처투자와 MOU…AI 산업 생태계 활성화
-https://www.etnews.com/20260330000381
+◾ KAIST, 소형 안테나로 AI 모델 구조 파악하는 ‘모델스파이’ 기술 개발
+https://www.aitimes.com/news/articleView.html?idxno=208632
 
-◾ 의료AI, 병원서 직접 검증…＇최대 4억 지원＇ 첫 실증사업 돌입
-https://www.etnews.com/20260330000269
+◾ 과기정통부, 2026년 공공 정보화 사업 수요 6.4조원 규모 발표…전년대비 4.2% 증가
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187099&searchOpt=ALL&searchTxt=
 
-◾ 마약류 탐지·승강기 사고‧돼지열병 대응을 위한, 현장 실증형 긴급 연구 착수
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187090&searchOpt=ALL&searchTxt=
+◾ 한국형 기술(K-테크) 혁신 이끌 3개 국가전략기술 발굴
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187097&searchOpt=ALL&searchTxt=
 
-◾ ‘24년 국내 인터넷 기반 자원 공유(클라우드) 시장 매출 9조 원 돌파
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187089&searchOpt=ALL&searchTxt=
+◾ 의료·생명 공학(바이오) 혁신 이끌 세계 선도형 인공지능 특화 기초 모형(파운데이션 모델) 개발 가속화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187101&searchOpt=ALL&searchTxt=
+
+◾ ‘인공지능 기본법 지원 창구(지원 데스크)’, 시행 10주 차 총 552건 상담 접수, 사례집 발간으로 기업 지원 강화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187094&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ ＇AI 인덱스 2026＇ 보고서 4월 13일 공개… “글로벌 AI 흐름 한눈에 본다”
-https://www.aitimes.kr/news/articleView.html?idxno=39331
+◾ 마스오토, 美 대륙 횡단 자율주행 화물 운송 성공…‘세계 최장’ 3379km 완주
+https://www.aitimes.kr/news/articleView.html?idxno=39350
 
-◾ 아마존, AI 에이전트 자기 개선을 위한 범용 인프라 ＇A-이볼브＇ 발표
-https://www.aitimes.com/news/articleView.html?idxno=208524
+◾ MS, 업무용 심층연구 에이전트에 멀티 AI 모델 활용 지원
+https://www.etnews.com/20260331000030
 
-◾ 메타, 인간 뇌 활동 fMRI 반응 예측하는 모델 ＇트라이브 v2＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=208527
+◾ 알리바바, ＇시청각 바이브 코딩＇ 가능한 ‘큐원3.5-옴니’ 출시
+https://www.aitimes.com/news/articleView.html?idxno=208618
 
-◾ AI 트래픽, 사상 첫 인간 트래픽 추월 눈앞…에이전트 사용량 8000% 증가
-https://www.aitimes.com/news/articleView.html?idxno=208575
+◾ 미스트랄, 데이터센터 구축 위해 1.2조 부채 조달...미국 자본은 미포함
+https://www.aitimes.com/news/articleView.html?idxno=208641
 
-◾ 클로드, 올해 유료 사용자 두배로 증가...미 국방부 갈등이 촉매
-https://www.aitimes.com/news/articleView.html?idxno=208551
+◾ 위성 데이터센터 스타클라우드, 1.6조 기업 가치 달성
+https://www.aitimes.com/news/articleView.html?idxno=208643
 
-◾ 중국, 도심 전투를 위한 진화된 ＇전투 늑대 무리＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=208571
+◾ 딥시크, 서비스 개시 이후 최장 7시간 서비스 중단 사태
+https://www.aitimes.com/news/articleView.html?idxno=208640
+
+◾ 중국, ＇토큰 경제＇ 강조...〃풍부한 전력을 토큰으로 변환해 전 세계에 수출〃
+https://www.aitimes.com/news/articleView.html?idxno=208626
 
 [기타]
-◾ 특정 단어에 반응하는 ‘백도어 AI’ 잡았다… UNIST, 범용 방어 기술로 IEEE 대회 2위에 올라
-https://www.aitimes.kr/news/articleView.html?idxno=39318
+◾ HWP·법제처와 씨름하던 공무원이 만든 ＇AI 행정 비서＇ 화제
+https://www.etnews.com/20260331000432
+
+◾ “구글 딥마인드 한계 규명”…GIST, AI 예보 성능 평가 기준 재정립 필요성 제시
+https://www.etnews.com/20260331000040
 
 📚 간행물
-◾ 국가 및 지역혁신을 견인하는 AI 데이터센터, 법제상 규제특례 체계 넘어 지속가능한 혁신체계 구축이 우선
-https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=65&cateCont=A0513&cbIdx=0&searchKey=
+◾ 산업현장 AI 확산을 위한 NPU 기반 신경망 추론 기술 동향 [주간기술동향 2208호]
+https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1393&cpage=1&rows=10&searchTarget=all
 
-◾ Use Cases of Public AI Service, Vol.2 (공공AI서비스 실증사례집 영문본 2권)
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=29181&parentSeq=29181
+◾ STI Policy Review: Mar 2026 Vol.14
+https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=16&cateCont=A0514&cbIdx=0&searchKey=
 
-◾ [제1283호] 3GPP 110차 기술총회
-https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1283%ED%98%B8%5D%203GPP%20110%EC%B0%A8%20%EA%B8%B0%EC%88%A0%EC%B4%9D%ED%9A%8C
+◾ [The LENS 2026-3] 「호라이즌 유럽」 디지털 분야 변화 동향과 한-EU 협력 시사점
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29207&parentSeq=29207
+
+◾ [The LENS 2026-2] 중국 「‘AI+ 제조’ 특별 행동계획」: AI 기반 제조 전환과 기술 자립 전략
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29206&parentSeq=29206
+
+◾ [The LENS 2026-1] 미국 AI 관련 인력개발 정책 현황_'25~'26 연방의회 발의 법안을 중심으로
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29205&parentSeq=29205
+
+◾ AI와 사회적 감지 기반의 재난 정보 공유 체계 구축을 위한 데이터 윤리
+https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1932916
+
+◾ AI 학습을 위한 저작물 이용은 공정이용인가
+https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1932897
+
+◾ 인공지능서비스 이용자보호 관련 이슈·법제 검토와 향후 과제
+https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1932896
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
