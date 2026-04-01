@@ -2648,5 +2648,265 @@
         "일": "01",
         "시": "",
         "분": ""
+    },
+    {
+        "기사명": "국방일보, 무공훈장 찾아주기 국민 참여 캠페인",
+        "분류": "국방부",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48348&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "중증응급환자 신속한 이송·치료에 역량 모은다",
+        "분류": "국방부",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48349&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "중동전쟁 사례 분석 통한 국방 AI 기술의 실전 효용성 진단·점검",
+        "분류": "국방부",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48350&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "DMZ 내 백마고지 유해발굴 재개 “마지막 한 분 찾는 날까지”",
+        "분류": "국방부",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48351&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "안보 체험 트레킹 ‘디엠지 평화의 길’ 다시 열린다",
+        "분류": "국방부",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48354&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "일상의 이웃에서 준비된 전력으로…K국방의 히든카드, 전장의 반전카드로 승리 이끈다",
+        "분류": "국방부",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48352&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "[DQ마크 인증 기업을 가다] 1년 365일 항온·항습 유지…‘불량탄 제로’ 도전",
+        "분류": "국방부",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48353&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "기계화부대 ‘미래 전장’ 생존과 혁신을 논하다",
+        "분류": "육군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48355&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "한·폴란드 육군, 방산협력 넘어 군사교류 이어간다",
+        "분류": "육군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48356&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "육군21사단 독서 문화 확산 앞장 도서관 열고 전문가 초청 강연도",
+        "분류": "육군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48357&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "국가·국민이 부여한 사명 새긴 ‘특수작전팀 명예의 전당’ 제막",
+        "분류": "육군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48358&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "자대 배치 전 어떤 마음가짐이 필요할까…",
+        "분류": "육군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48359&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "“동원 즉시 임무 수행…전투력 보강할 것”",
+        "분류": "육군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48360&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "무인기로 좌표 전송 박격포 타격",
+        "분류": "육군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48361&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "한미 육군참모총장 “연합훈련·군사혁신 지속 협력”",
+        "분류": "육군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48362&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "악천후에도 훈련 가능…드론 시뮬레이터 시동",
+        "분류": "해군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48363&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "한미 연합 항공작전 수행능력 ‘높이 더 높이’",
+        "분류": "해군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48364&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "서북도서 우발상황 대응, 작전대비태세 현장 지도",
+        "분류": "해군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48365&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "수소탱크 관통실험 등 다양한 상황 기술 숙달",
+        "분류": "해군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48366&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "해군 현존 최강 해상작전헬기 품었다",
+        "분류": "해군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48367&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "해군·방사청, 해상작전헬기 MH-60R 시호크 인수 및 작전배치 현장을 가다",
+        "분류": "해군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48368&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "‘핵추진잠수함 추진단’ 만든다",
+        "분류": "해군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48369&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "항공·우주 아우르는 ‘항공우주안전단’ 새출발",
+        "분류": "공군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48370&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "나흘간 흘린 땀방울, 전시 위기상황 막을 무기 됐다",
+        "분류": "공군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48371&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "박종헌 전 공참총장, 공군전우회장 임기 시작",
+        "분류": "공군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48372&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
+    },
+    {
+        "기사명": "날 선 눈빛, 어둠도 통제한다",
+        "분류": "공군",
+        "링크": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48373&startDate=&endDate=&id=mnd_020101000000",
+        "년": "2026",
+        "월": "04",
+        "일": "02",
+        "시": "",
+        "분": ""
     }
 ]
