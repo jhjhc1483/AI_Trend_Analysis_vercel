@@ -814,5 +814,29 @@
         "년": "2026",
         "월": "03",
         "일": "12"
+    },
+    {
+        "제목": "2025 정보보호 실태조사",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260402-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "02",
+        "일": "28"
+    },
+    {
+        "제목": "RSAC2026, 터보퀀트, 미국AI전략 [AI·ICT Brief 2026-12호]",
+        "분류": "AI · ICT Brief",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260402-000016&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "04",
+        "일": "02"
+    },
+    {
+        "제목": "중국의 AI·디지털 전환과 첨단기술 자립 전략 外 [IITP 디지털 아웃룩 2026-3월호]",
+        "분류": "IITP 디지털 아웃룩",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260402-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "03",
+        "일": "31"
     }
 ]
