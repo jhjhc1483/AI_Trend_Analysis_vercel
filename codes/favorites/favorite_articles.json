@@ -5,13 +5,13 @@
     "category": "기관"
   },
   {
-    "title": "슈나이더 일렉트릭 ‘AI 확산 속 에너지 산업, 2030년까지 자율 운영 투자 확대’ 연구 결과 발표",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39397",
-    "category": "해외"
-  },
-  {
     "title": "NIA, 공공AX 전주기 지원 전담 ‘공공AI사업지원센터’ 공식 개소",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39396",
+    "category": "기관"
+  },
+  {
+    "title": "광주, AICA ‘AI 특화 공동훈련센터’ 선정... 중소기업 AX 전환·재직자 AI 직무 역량 동시 강화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39389",
     "category": "기관"
   },
   {
@@ -22,6 +22,11 @@
   {
     "title": "구광모 대표, 美 ESS 사업 거점 버테크 찾아... AI시대 에너지 인프라 주도권 확보",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39384",
+    "category": "민간"
+  },
+  {
+    "title": "롯데이노베이트, 딥엑스와 비전 AI 기반 온디바이스 NPU 적용 및 실증",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39383",
     "category": "민간"
   },
   {
@@ -40,11 +45,6 @@
     "category": "민간"
   },
   {
-    "title": "AI 의사결정의 ‘보이지 않는 편향’ 찾는다…MIT, 윤리 평가 프레임워크 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39399",
-    "category": "해외"
-  },
-  {
     "title": "중동전쟁 사례 분석 통한 국방 AI 기술의 실전 효용성 진단·점검",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48350&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
@@ -52,12 +52,12 @@
   {
     "title": "무인기로 좌표 전송 박격포 타격",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48361&startDate=&endDate=&id=mnd_020101000000",
-    "category": "육군"
+    "category": "국방"
   },
   {
     "title": "악천후에도 훈련 가능…드론 시뮬레이터 시동",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48363&startDate=&endDate=&id=mnd_020101000000",
-    "category": "육군"
+    "category": "국방"
   },
   {
     "title": "2026년 제1차 국방AI 활용 아이디어 경연대회",
@@ -100,19 +100,14 @@
     "category": "국방"
   },
   {
-    "title": "안랩블록체인컴퍼니-콜리전스, AI 에이전트 전용 ＇에이젠틱 월렛＇ 공동 개발",
-    "link": "https://www.etnews.com/20260402000376",
-    "category": "민간"
-  },
-  {
-    "title": "엘리스그룹, 아리스타네트웍스와 차세대 AI 네트워크 협력",
-    "link": "https://www.etnews.com/20260402000334",
-    "category": "민간"
-  },
-  {
     "title": "광주시-과기정통부, 전국 첫 ＇규제프리 AI 실증도시＇ 시동 …워킹그룹 첫 회의 개최",
     "link": "https://www.etnews.com/20260402000330",
     "category": "기관"
+  },
+  {
+    "title": "화웨이, AI 비서 셀리아 고도화…中 애플 견제",
+    "link": "https://www.etnews.com/20260402000280",
+    "category": "해외"
   },
   {
     "title": "크래프톤, AI 모델 브랜드 ＇Raon＇ 출범... 첫 모델 4종 오픈소스 공개",
@@ -120,19 +115,9 @@
     "category": "민간"
   },
   {
-    "title": "혁신벤처업계 “정부 추경안 환영…창업·AI 전환 지원 의미”",
-    "link": "https://www.etnews.com/20260402000053",
-    "category": "기관"
-  },
-  {
     "title": "포스코DX, GPU 대신 국산 NPU로 제조 AI 혁신 가속화",
     "link": "https://www.etnews.com/20260402000047",
     "category": "민간"
-  },
-  {
-    "title": "산업은행, ＇재무분석 AI 에이전트＇ 구축…기업 분석 자동화",
-    "link": "https://www.etnews.com/20260402000046",
-    "category": "기관"
   },
   {
     "title": "MS, 싱가포르에 8조 투자…아태 AI 인프라 경쟁 본격화",
@@ -145,14 +130,19 @@
     "category": "해외"
   },
   {
+    "title": "오픈AI, 앤트로픽에 밀려 비상장 주식 거래 시장서 찬밥 신세",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208712",
+    "category": "해외"
+  },
+  {
+    "title": "딥핑소스 “매장관리 AI 에이전트로 ‘관리 빈틈’ 메운다…매출 증대로 직결”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208742",
+    "category": "민간"
+  },
+  {
     "title": "과기부, 국가 AI프로젝트 52개 과제 선정…GPU 3000장 지원",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=208735",
     "category": "기관"
-  },
-  {
-    "title": "바이두 로보택시, 시스템 오류로 운행 중단 사태",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208720",
-    "category": "해외"
   },
   {
     "title": "AI·데이터 기반 국방혁신 선도…첨단강군 육성 적극 이바지",
@@ -165,6 +155,11 @@
     "category": "국방"
   },
   {
+    "title": "탄약관리 디지털 전환 군수지원 강화에 박차",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260403/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=_4xNqhcQXmqAAeyNn4f-CQ8MJiPcIgxwwjLVNJmNm9IhF-nDDwwu!-970361443",
+    "category": "국방"
+  },
+  {
     "title": "업무자동화로 ‘행정 부담’ 줄이고 ‘임무 집중’ 높였다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260403/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=_4xNqhcQXmqAAeyNn4f-CQ8MJiPcIgxwwjLVNJmNm9IhF-nDDwwu!-970361443",
     "category": "국방"
@@ -172,6 +167,6 @@
   {
     "title": "“AI시대, 교관 윤리적 가치관 확립 중요”",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260403/4/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=_4xNqhcQXmqAAeyNn4f-CQ8MJiPcIgxwwjLVNJmNm9IhF-nDDwwu!-970361443",
-    "category": "국방"
+    "category": "육군"
   }
 ]
