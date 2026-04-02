@@ -1,98 +1,129 @@
-📢26.04.02 AI 일일 동향📢
+📢26.04.03 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ AX 활용 역량 강화…미래 항공우주력 선도할 인재 키운다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48345&startDate=&endDate=&id=mnd_020101000000
-
-◾ 민·군, 드론·대드론 기술협력 확대 가속
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48334&startDate=&endDate=&id=mnd_020101000000
-
-◾ ‘병력 절감 위한 AI 기술 활용방안’ 주제 창의력 겨뤄
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48330&startDate=&endDate=&id=mnd_020101000000
-
-◾ 국방혁신기술보안협회-성균관대 인공지능융합원, 국방 AI 기술 발전·보안 협력 MOU 체결
-https://www.etnews.com/20260401000425
-
 ◾ 중동전쟁 사례 분석 통한 국방 AI 기술의 실전 효용성 진단·점검
-https://kookbang.dema.mil.kr/newsWeb/20260402/4/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=m9JIh1FHmiSHj7N9X3hcjgHDB6OIJ18FtKjohy6oRDsv0mw4xzDM!-970361443
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48350&startDate=&endDate=&id=mnd_020101000000
+
+◾ 2026년 제1차 국방AI 활용 아이디어 경연대회
+https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_109902&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
+
+◾ 피지컬AI협회-국방정보통신협회, 국방 AI·ICT 융합 협력
+https://www.etnews.com/20260402000435
+
+◾ [국방AX 토론회] 김득화 펀진 대표 “미래 전장은 로봇과 ＇소프트웨어 무기＇의 결합”
+https://www.etnews.com/20260402000352
+
+◾ [국방AX 토론회] 설명·신뢰·통제 가능한 국방 AI 필요…전군 호환체계 구축해야
+https://www.etnews.com/20260402000350
+
+◾ [국방AX 토론회] 부승찬 의원 “국가 전략 차원 논의”·유용원 의원 “AI 3대 법안 추진”
+https://www.etnews.com/20260402000354
+
+◾ “국방 AI ＇골든타임＇은 지금…획득 체계·인프라 혁신 관건”
+https://www.etnews.com/20260402000324
+
+◾ AI·데이터 기반 국방혁신 선도…첨단강군 육성 적극 이바지
+https://kookbang.dema.mil.kr/newsWeb/20260403/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=_4xNqhcQXmqAAeyNn4f-CQ8MJiPcIgxwwjLVNJmNm9IhF-nDDwwu!-970361443
+
+◾ 국군화생방사, AI 기반 융합 화생방 대응체계 구축
+https://kookbang.dema.mil.kr/newsWeb/20260403/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=_4xNqhcQXmqAAeyNn4f-CQ8MJiPcIgxwwjLVNJmNm9IhF-nDDwwu!-970361443
+
+◾ 업무자동화로 ‘행정 부담’ 줄이고 ‘임무 집중’ 높였다
+https://kookbang.dema.mil.kr/newsWeb/20260403/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=_4xNqhcQXmqAAeyNn4f-CQ8MJiPcIgxwwjLVNJmNm9IhF-nDDwwu!-970361443
+
+◾ “AI시대, 교관 윤리적 가치관 확립 중요”
+https://kookbang.dema.mil.kr/newsWeb/20260403/4/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=_4xNqhcQXmqAAeyNn4f-CQ8MJiPcIgxwwjLVNJmNm9IhF-nDDwwu!-970361443
 
 [육군]
 ◾ 무인기로 좌표 전송 박격포 타격
-https://kookbang.dema.mil.kr/newsWeb/20260402/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=m9JIh1FHmiSHj7N9X3hcjgHDB6OIJ18FtKjohy6oRDsv0mw4xzDM!-970361443
-
-◾ 기계화부대 ‘미래 전장’ 생존과 혁신을 논하다
-https://kookbang.dema.mil.kr/newsWeb/20260402/7/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=m9JIh1FHmiSHj7N9X3hcjgHDB6OIJ18FtKjohy6oRDsv0mw4xzDM!-970361443
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48361&startDate=&endDate=&id=mnd_020101000000
 
 ◾ 악천후에도 훈련 가능…드론 시뮬레이터 시동
-https://kookbang.dema.mil.kr/newsWeb/20260402/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=m9JIh1FHmiSHj7N9X3hcjgHDB6OIJ18FtKjohy6oRDsv0mw4xzDM!-970361443
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48363&startDate=&endDate=&id=mnd_020101000000
 
 [민간]
-◾ 데이터브릭스 니콜라스 부사장, “AI 전환, 더 이상 선택 아니다”… ‘데이터·AI 통합 아키텍처’로 기업 혁신 촉구
-https://www.aitimes.kr/news/articleView.html?idxno=39372
+◾ 구광모 대표, 美 ESS 사업 거점 버테크 찾아... AI시대 에너지 인프라 주도권 확보
+https://www.aitimes.kr/news/articleView.html?idxno=39384
 
-◾ 삼성전자, ‘갤럭시 북6’ 출시… 49TOPS AI 성능으로 시장 재편 선언
-https://www.aitimes.kr/news/articleView.html?idxno=39360
+◾ 삼성 갤럭시 S26 울트라, 유럽 7개국 소비자 연맹 평가 ‘올킬’... AI·보안 기술 정점 찍었다
+https://www.aitimes.kr/news/articleView.html?idxno=39380
 
-◾ 루닛 “의료 특화 파운데이션 모델 1단계 실증…임상 가능성 확인”
-https://www.etnews.com/20260401000352
+◾ SK AX, 에이전틱AI 기반 운영혁신으로 ‘시스템장애’ 방지한다
+https://www.aitimes.kr/news/articleView.html?idxno=39378
 
-◾ LG CNS, ＇RX 이노베이션 랩＇ 출범…RX 전과정 지원
-https://www.etnews.com/20260401000137
+◾ 안랩블록체인컴퍼니-콜리전스, AI 에이전트 전용 ＇에이젠틱 월렛＇ 공동 개발
+https://www.etnews.com/20260402000376
 
-◾ [단독]박윤영號 신설 AX미래기술원장에 ＇독파모 1위＇ 이끈 최정규 그룹장 내정
-https://www.etnews.com/20260401000067
+◾ 엘리스그룹, 아리스타네트웍스와 차세대 AI 네트워크 협력
+https://www.etnews.com/20260402000334
 
-◾ 카카오, ＇카카오테크 캠퍼스 4기＇ 모집…에이전틱 AI 교육
-https://www.etnews.com/20260401000026
+◾ 크래프톤, AI 모델 브랜드 ＇Raon＇ 출범... 첫 모델 4종 오픈소스 공개
+https://www.etnews.com/20260402000176
+
+◾ 포스코DX, GPU 대신 국산 NPU로 제조 AI 혁신 가속화
+https://www.etnews.com/20260402000047
 
 [기관]
-◾ 국가창업시대 실현 위한 두 번째 발걸음...중기부, ＇모두의 챌린지 AX 출범＇
-https://www.aitimes.kr/news/articleView.html?idxno=39370
+◾ 한국형 AI성공 고품질 데이터에 달렸다... 국가AI전략위  국가대표 AI기업과 간담회 개최
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=469
 
-◾ NIA 김형철 신임 원장, 〃AI 3대 강국 도약 위한 핵심 싱크탱크로 발전시킬 것!〃
-https://www.aitimes.kr/news/articleView.html?idxno=39369
+◾ NIA, 공공AX 전주기 지원 전담 ‘공공AI사업지원센터’ 공식 개소
+https://www.aitimes.kr/news/articleView.html?idxno=39396
 
-◾ [보도참고] 한-인도네시아 국제 인공지능 기본사회 연대체 발표
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187107&searchOpt=ALL&searchTxt=
+◾ 기정원, ＇인공지능혁신추진단＇ 출범…중소기업 AX 지원 컨트롤타워 역할
+https://www.etnews.com/20260402000445
 
-◾ 능동적으로 행동하는 인공지능 시대, ‘능동형 인공지능 협력체 (에이전틱 AI 얼라이언스)’ 출범
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187105&searchOpt=ALL&searchTxt=
+◾ 광주시-과기정통부, 전국 첫 ＇규제프리 AI 실증도시＇ 시동 …워킹그룹 첫 회의 개최
+https://www.etnews.com/20260402000330
 
-◾ 인공지능 사고·추론 능력 강화를 위한 추론용 학습 데이터 10종 구축
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187106&searchOpt=ALL&searchTxt=
+◾ 혁신벤처업계 “정부 추경안 환영…창업·AI 전환 지원 의미”
+https://www.etnews.com/20260402000053
 
-◾ 국가 인공지능 혁신의 마중물, 국가 인공지능 사업 52개 과제 선정
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187108&searchOpt=ALL&searchTxt=
+◾ 산업은행, ＇재무분석 AI 에이전트＇ 구축…기업 분석 자동화
+https://www.etnews.com/20260402000046
+
+◾ 과기부, 국가 AI프로젝트 52개 과제 선정…GPU 3000장 지원
+https://www.aitimes.com/news/articleView.html?idxno=208735
 
 [해외]
-◾ 美 “한국 AI·클라우드 규제 장벽 여전”… 공공시장 사실상 ‘외산 차단’ 지적
-https://www.aitimes.kr/news/articleView.html?idxno=39365
+◾ 슈나이더 일렉트릭 ‘AI 확산 속 에너지 산업, 2030년까지 자율 운영 투자 확대’ 연구 결과 발표
+https://www.aitimes.kr/news/articleView.html?idxno=39397
 
-◾ 메타, 시력교정 AI 스마트안경 신제품 공개
-https://www.etnews.com/20260401000277
+◾ 알리바바, 〃이미지 AI 주권 선언〃...이미지 생성의 새로운 기준 제시, ＇완2.7＇ 오픈소스로 공개
+https://www.aitimes.kr/news/articleView.html?idxno=39388
 
-◾ 오픈AI, 1200억달러 투자 유치…실리콘밸리 역사상 최대 규모
-https://www.etnews.com/20260401000005
+◾ 인텔, MLPerf 추론 v6.0 벤치마크에서 개방형·확장형 AI 성능 입증
+https://www.aitimes.kr/news/articleView.html?idxno=39382
 
-◾ 앤트로픽 AI 개발 도구 ＇클로드 코드＇ 소스 유출
-https://www.etnews.com/20260401000004
+◾ AI 의사결정의 ‘보이지 않는 편향’ 찾는다…MIT, 윤리 평가 프레임워크 공개
+https://www.aitimes.kr/news/articleView.html?idxno=39399
 
-◾ 구글 〃양자 컴퓨터로 비트코인 암호 깨는 데 필요한 자원 20배 줄이는 데 성공〃
-https://www.aitimes.com/news/articleView.html?idxno=208668
+◾ MS, 싱가포르에 8조 투자…아태 AI 인프라 경쟁 본격화
+https://www.etnews.com/20260402000022
 
-◾ 日, 자폭 드론 도입 ‘복합 반격체계’ 추진
-https://kookbang.dema.mil.kr/newsWeb/20260402/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=m9JIh1FHmiSHj7N9X3hcjgHDB6OIJ18FtKjohy6oRDsv0mw4xzDM!-970361443
+◾ 메타, LLM ＇코드 검토＇ 능력 향상하는 ＇세미 포멀 추론＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=208708
+
+◾ 바이두 로보택시, 시스템 오류로 운행 중단 사태
+https://www.aitimes.com/news/articleView.html?idxno=208720
+
+[기타]
+◾ [ET시론] AX 2.0 시대 국가 생존 전략 ＇피지컬AI＇
+https://www.etnews.com/20260402000180
 
 📚 간행물
-◾ 기업의 인공지능(AI) 활용을 위한 데이터 플랫폼·거래소 활성화 방안
-https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=368&cateCont=A0501&cbIdx=0&searchKey=
+◾ RSAC2026, 터보퀀트, 미국AI전략 [AI·ICT Brief 2026-12호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260402-000016&cpage=1&rows=10&searchTarget=all
 
-◾ [디지털서비스 이슈리포트2026-3] 기밀 추론과 신뢰 가능한 AI 인프라
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29211&parentSeq=29211
+◾ 글로벌 디지털 산업·정책 동향(2026년 3월호)
+https://www.kisa.or.kr/20208/form?postSeq=36&page=1
 
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 3월 3주차)
-https://www.kisa.or.kr/20202/form?postSeq=468&page=1
+◾ 글로벌 디지털 산업·정책 동향(2026년 2월호)
+https://www.kisa.or.kr/20208/form?postSeq=35&page=1
+
+◾ 글로벌 디지털 산업·정책 동향(2026년 1월호)
+https://www.kisa.or.kr/20208/form?postSeq=34&page=1
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
