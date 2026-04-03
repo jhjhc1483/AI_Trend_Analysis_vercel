@@ -16,5 +16,11 @@
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48363&startDate=&endDate=&id=mnd_020101000000",
     "site": "국방부",
     "reason": "단순 드론관련 기사임"
+  },
+  {
+    "title": "무인기로 좌표 전송 박격포 타격",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48361&startDate=&endDate=&id=mnd_020101000000",
+    "site": "국방부",
+    "reason": "육군 관련 내용이지만 단순 무인기 관련 내용임"
   }
 ]
