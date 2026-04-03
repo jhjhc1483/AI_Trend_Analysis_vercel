@@ -22,39 +22,36 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 ◾ 슈퍼브에이아이, AWS와 생성형 AI 전략적 협력 협약(SCA) 체결
 https://www.aitimes.kr/news/articleView.html?idxno=39405
 
-◾ NC AI, 생성형 AI ＇바르코＇로 글로벌 크리에이터 생태계 지원
-https://www.etnews.com/20260403000075
+◾ “콘텐츠 경쟁력 완성하는 든든한 AI 파트너”...NC AI, 바르코 기반 크리에이터 상생 프로그램 운영
+https://www.aitimes.kr/news/articleView.html?idxno=39402
 
 ◾ AIWORKX(에이아이웍스), 국내 주요 카드사 ＇비대면 기업카드 심사 고도화＇ 프로젝트 수주… 생성형 AI로 심사·발급 전 과정 자동화
 https://www.etnews.com/20260403000033
 
+◾ “AI 전력난 뒤집을 빛의 혁신”…포스텍, 엑시톤 확산 8,300% 증폭 현상 최초 발견
+https://www.etnews.com/20260403000015
+
 ◾ 최수연 네이버 대표, 마크롱 佛 대통령 만나 ＇AI 협력＇ 논의
 https://www.etnews.com/20260403000324
 
-◾ [게시판] 유비파이, AI 군집비행으로 기네스 세계 신기록 4관왕 달성 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=208783
-
 ◾ 알바랩스, 국내 AI 기술 허브 구축...글로벌 확장 본격화
 https://www.aitimes.com/news/articleView.html?idxno=208769
-
-◾ “북미 빅테크 뚫었다”... LS머트리얼즈, AI 데이터센터 전력 공급망 ‘첫 진입’
-https://www.aitimes.com/news/articleView.html?idxno=208788
 
 [기관]
 ◾ 미스트랄 AI와 ‘AI G3’ 도약 협력 강화
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=476
 
+◾ 한전KDN, 국가보안기술연구소와 협력... 지능형 로봇 보안 ‘철벽 방어’ 나선다
+https://www.aitimes.kr/news/articleView.html?idxno=39408
+
 ◾ ＇기업에 AI를 더하여, 기업 경쟁력 높이고 성장 추구＇...중기부, AI 정책 통합 브랜드 모두의 “AI+”
 https://www.aitimes.kr/news/articleView.html?idxno=39413
 
-◾ 충남혁신센터, ＇제14회 충남 공공데이터·AI 활용 창업경진대회＇ 참가 모집
-https://www.etnews.com/20260403000174
+◾ 쿠도커뮤니케이션, AI 기반 지방정부 CCTV 관제지원 2차 사업 선정
+https://www.etnews.com/20260403000195
 
 ◾ 울산정보산업진흥원, 고용노동부 ＇AI 특화 공동훈련센터＇선정
 https://www.etnews.com/20260403000160
-
-◾ 나라지식정보 “근대 다문자 AI OCR로 문서 판독 공공서비스 지원할 것”
-https://www.aitimes.com/news/articleView.html?idxno=208791
 
 ◾ KAIST, 유럽 최대 연구 기관 CNRS와 MOU…”양자·AI 협력 강화”
 https://www.aitimes.com/news/articleView.html?idxno=208789
@@ -69,27 +66,20 @@ https://www.aitimes.kr/news/articleView.html?idxno=39411
 ◾ 마이크로소프트, ＇음성·이미지＇ 멀티모달 AI ‘MAI 모델 3종’ 공개...“속도·비용·현실성 모두 잡았다”
 https://www.aitimes.kr/news/articleView.html?idxno=39406
 
+◾ 오픈AI, 美 기술 팟캐스트 ＇TBPN＇ 인수…IPO 앞두고 시장과 소통 강화
+https://www.etnews.com/20260403000010
+
 ◾ 알리바바, 폐쇄형으로 확장...세번째 비공개형 모델 ‘큐원3.6-플러스’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=208757
 
 ◾ 앤트로픽 코드 유출로 중국 개발자들 분석 열풍
 https://www.aitimes.com/news/articleView.html?idxno=208766
 
-◾ 중국, 메타의 마누스 인수에 대해 부정 입장 발표...〃국제 거래, 법 준수해야〃
-https://www.aitimes.com/news/articleView.html?idxno=208777
+◾ 일레븐랩스, AI 음악 생성 앱 ‘일레븐뮤직’ 출시
+https://www.aitimes.com/news/articleView.html?idxno=208771
 
 ◾ 앤트로픽 유출 파일서 AI를 위한 OS ＇콘웨이＇ 개발 확인
 https://www.aitimes.com/news/articleView.html?idxno=208762
-
-◾ 미국 정부, 앤트로픽 제재 중단한 법원 가처분 명령에 항소
-https://www.aitimes.com/news/articleView.html?idxno=208758
-
-[기타]
-◾ [신간] 감성과 데이터의 만남… 세계 최초 향수 AI 지침서 ＇향수와 AI＇ 발간
-https://www.etnews.com/20260403000011
-
-◾ [베스트 신간]“AI가 바꾼 세상, 인간이 살아남는 유일한 무기”…＇창의·혁신·인간 출간
-https://www.etnews.com/20260403000003
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
