@@ -5,6 +5,9 @@
 ◾ 카카오모빌리티, 자율주행 승부수…R&D 역대 최대
 https://www.etnews.com/20260403000228
 
+◾ 이상훈 플래티어 대표 “DX에서 AX로 전환해 매출 반등〃
+https://www.aitimes.com/news/articleView.html?idxno=208767
+
 [기관]
 ◾ AI 합성데이터로 질병예측부터 처방·사후관리까지!...산업부, 산업융합 규제특례 심의위원회에서 26건 규제특례 부여
 https://www.aitimes.kr/news/articleView.html?idxno=39417
@@ -25,9 +28,6 @@ https://www.aitimes.com/news/articleView.html?idxno=208809
 ◾ 메타 MSL, 스마트 안경과 별개로 ＇AI 전용 장치＇ 개발 중
 https://www.aitimes.com/news/articleView.html?idxno=208807
 
-◾ 머스크, 스페이스X IPO 참여 은행에 수천만달러 규모 ＇그록＇ 구독 요구
-https://www.aitimes.com/news/articleView.html?idxno=208802
-
 ◾ 베이징, ＇통제 가능한＇ 기술 확보를 위해 AI 윤리 검토 의무화
 https://www.aitimes.com/news/articleView.html?idxno=208801
 
@@ -39,6 +39,13 @@ https://www.aitimes.com/news/articleView.html?idxno=208803
 
 ◾ AI 영상 한계를 넘으려는 구글….‘제미나이’로 만드세요
 https://www.aitimes.com/news/articleView.html?idxno=208793
+
+◾ MS, 일본 AI 시장 확대 위해 15조 투자...AI 인재 100만명 양성
+https://www.aitimes.com/news/articleView.html?idxno=208808
+
+[기타]
+◾ [ET톡]벚꽃엔딩, 리걸테크의 염원
+https://www.etnews.com/20260403000222
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
