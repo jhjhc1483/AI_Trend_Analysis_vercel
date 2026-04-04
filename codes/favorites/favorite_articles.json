@@ -15,6 +15,11 @@
     "category": "기관"
   },
   {
+    "title": "[ET톡]벚꽃엔딩, 리걸테크의 염원",
+    "link": "https://www.etnews.com/20260403000222",
+    "category": "기타"
+  },
+  {
     "title": "카카오모빌리티, 자율주행 승부수…R&D 역대 최대",
     "link": "https://www.etnews.com/20260403000228",
     "category": "민간"
@@ -32,11 +37,6 @@
   {
     "title": "메타 MSL, 스마트 안경과 별개로 ＇AI 전용 장치＇ 개발 중",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=208807",
-    "category": "해외"
-  },
-  {
-    "title": "머스크, 스페이스X IPO 참여 은행에 수천만달러 규모 ＇그록＇ 구독 요구",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208802",
     "category": "해외"
   },
   {
@@ -58,5 +58,15 @@
     "title": "AI 영상 한계를 넘으려는 구글….‘제미나이’로 만드세요",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=208793",
     "category": "해외"
+  },
+  {
+    "title": "MS, 일본 AI 시장 확대 위해 15조 투자...AI 인재 100만명 양성",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208808",
+    "category": "해외"
+  },
+  {
+    "title": "이상훈 플래티어 대표 “DX에서 AX로 전환해 매출 반등〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208767",
+    "category": "민간"
   }
 ]
