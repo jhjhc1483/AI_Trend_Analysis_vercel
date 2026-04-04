@@ -1,127 +1,62 @@
 [
   {
-    "title": "미스트랄 AI와 ‘AI G3’ 도약 협력 강화",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=476",
+    "title": "AI 합성데이터로 질병예측부터 처방·사후관리까지!...산업부, 산업융합 규제특례 심의위원회에서 26건 규제특례 부여",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39417",
     "category": "기관"
   },
   {
-    "title": "구글, “가장 강력한 오픈소스 AI 모델, ‘젬마 4’ 공개〃...파라미터당 최고 지능·에이전트 ·온디바이스까지",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39411",
-    "category": "해외"
-  },
-  {
-    "title": "한전KDN, 국가보안기술연구소와 협력... 지능형 로봇 보안 ‘철벽 방어’ 나선다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39408",
+    "title": "한-불 수교 140주년 ＇AI, 양자 등＇ 전략 과학기술 동맹 강화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39416",
     "category": "기관"
   },
   {
-    "title": "마이크로소프트, ＇음성·이미지＇ 멀티모달 AI ‘MAI 모델 3종’ 공개...“속도·비용·현실성 모두 잡았다”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39406",
-    "category": "해외"
+    "title": "보안특위, CSAP 개편 착수… ＇N2SF＇ 기반 국가 보안 패러다임 바꾼다",
+    "link": "https://www.etnews.com/20260403000245",
+    "category": "기관"
   },
   {
-    "title": "슈퍼브에이아이, AWS와 생성형 AI 전략적 협력 협약(SCA) 체결",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39405",
+    "title": "카카오모빌리티, 자율주행 승부수…R&D 역대 최대",
+    "link": "https://www.etnews.com/20260403000228",
     "category": "민간"
   },
   {
-    "title": "“콘텐츠 경쟁력 완성하는 든든한 AI 파트너”...NC AI, 바르코 기반 크리에이터 상생 프로그램 운영",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39402",
-    "category": "민간"
-  },
-  {
-    "title": "＇기업에 AI를 더하여, 기업 경쟁력 높이고 성장 추구＇...중기부, AI 정책 통합 브랜드 모두의 “AI+”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39413",
+    "title": "안산 청년창업펀드, 로봇 싣고 AI칩 품으며 미래산업 투자판 더 크게 키워",
+    "link": "https://www.etnews.com/20260404000025",
     "category": "기관"
   },
   {
-    "title": "국군화생방사, AI 기반 융합 화생방 대응체계 구축",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48376&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "AI·데이터 기반 국방혁신 선도…첨단강군 육성 적극 이바지",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48378&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "업무자동화로 ‘행정 부담’ 줄이고 ‘임무 집중’ 높였다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48382&startDate=&endDate=&id=mnd_020101000000",
-    "category": "육군"
-  },
-  {
-    "title": "탄약관리 디지털 전환 군수지원 강화에 박차",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48385&startDate=&endDate=&id=mnd_020101000000",
-    "category": "육군"
-  },
-  {
-    "title": "“AI시대, 교관 윤리적 가치관 확립 중요”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48388&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "쿠도커뮤니케이션, AI 기반 지방정부 CCTV 관제지원 2차 사업 선정",
-    "link": "https://www.etnews.com/20260403000195",
-    "category": "기관"
-  },
-  {
-    "title": "울산정보산업진흥원, 고용노동부 ＇AI 특화 공동훈련센터＇선정",
-    "link": "https://www.etnews.com/20260403000160",
-    "category": "기관"
-  },
-  {
-    "title": "AIWORKX(에이아이웍스), 국내 주요 카드사 ＇비대면 기업카드 심사 고도화＇ 프로젝트 수주… 생성형 AI로 심사·발급 전 과정 자동화",
-    "link": "https://www.etnews.com/20260403000033",
-    "category": "민간"
-  },
-  {
-    "title": "“AI 전력난 뒤집을 빛의 혁신”…포스텍, 엑시톤 확산 8,300% 증폭 현상 최초 발견",
-    "link": "https://www.etnews.com/20260403000015",
-    "category": "민간"
-  },
-  {
-    "title": "오픈AI, 美 기술 팟캐스트 ＇TBPN＇ 인수…IPO 앞두고 시장과 소통 강화",
-    "link": "https://www.etnews.com/20260403000010",
+    "title": "브록먼 오픈AI 사장 〃차세대 모델 ＇스퍼드＇로 AGI 가시권 확보〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208809",
     "category": "해외"
   },
   {
-    "title": "최수연 네이버 대표, 마크롱 佛 대통령 만나 ＇AI 협력＇ 논의",
-    "link": "https://www.etnews.com/20260403000324",
-    "category": "민간"
-  },
-  {
-    "title": "알리바바, 폐쇄형으로 확장...세번째 비공개형 모델 ‘큐원3.6-플러스’ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208757",
+    "title": "메타 MSL, 스마트 안경과 별개로 ＇AI 전용 장치＇ 개발 중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208807",
     "category": "해외"
   },
   {
-    "title": "앤트로픽 코드 유출로 중국 개발자들 분석 열풍",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208766",
+    "title": "머스크, 스페이스X IPO 참여 은행에 수천만달러 규모 ＇그록＇ 구독 요구",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208802",
     "category": "해외"
   },
   {
-    "title": "일레븐랩스, AI 음악 생성 앱 ‘일레븐뮤직’ 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208771",
+    "title": "베이징, ＇통제 가능한＇ 기술 확보를 위해 AI 윤리 검토 의무화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208801",
     "category": "해외"
   },
   {
-    "title": "KAIST, 유럽 최대 연구 기관 CNRS와 MOU…”양자·AI 협력 강화”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208789",
-    "category": "기관"
-  },
-  {
-    "title": "앤트로픽 유출 파일서 AI를 위한 OS ＇콘웨이＇ 개발 확인",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208762",
+    "title": "앤트로픽, AI 바이오 스타트업 ‘코에피션트 바이오’ 6000억에 인수",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208800",
     "category": "해외"
   },
   {
-    "title": "알바랩스, 국내 AI 기술 허브 구축...글로벌 확장 본격화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208769",
-    "category": "민간"
+    "title": "＇딥시크-V4＇, 화웨이 추론 칩에 최적화...〃중국 반도체 자립 보여줄 것〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208803",
+    "category": "해외"
   },
   {
-    "title": "한-불 수교 140주년 인공지능, 양자 등 전략 과학기술 동맹 강화",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187113&searchOpt=ALL&searchTxt=",
-    "category": "기관"
+    "title": "AI 영상 한계를 넘으려는 구글….‘제미나이’로 만드세요",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208793",
+    "category": "해외"
   }
 ]
