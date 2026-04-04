@@ -1330,5 +1330,75 @@
         }
       ]
     }
+  },
+  "26.04.05": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "AI 합성데이터로 질병예측부터 처방·사후관리까지!...산업부, 산업융합 규제특례 심의위원회에서 26건 규제특례 부여",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39417",
+          "category": "기관"
+        },
+        {
+          "title": "한-불 수교 140주년 ＇AI, 양자 등＇ 전략 과학기술 동맹 강화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39416",
+          "category": "기관"
+        },
+        {
+          "title": "보안특위, CSAP 개편 착수… ＇N2SF＇ 기반 국가 보안 패러다임 바꾼다",
+          "link": "https://www.etnews.com/20260403000245",
+          "category": "기관"
+        },
+        {
+          "title": "안산 청년창업펀드, 로봇 싣고 AI칩 품으며 미래산업 투자판 더 크게 키워",
+          "link": "https://www.etnews.com/20260404000025",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "카카오모빌리티, 자율주행 승부수…R&D 역대 최대",
+          "link": "https://www.etnews.com/20260403000228",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "브록먼 오픈AI 사장 〃차세대 모델 ＇스퍼드＇로 AGI 가시권 확보〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208809",
+          "category": "해외"
+        },
+        {
+          "title": "메타 MSL, 스마트 안경과 별개로 ＇AI 전용 장치＇ 개발 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208807",
+          "category": "해외"
+        },
+        {
+          "title": "머스크, 스페이스X IPO 참여 은행에 수천만달러 규모 ＇그록＇ 구독 요구",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208802",
+          "category": "해외"
+        },
+        {
+          "title": "베이징, ＇통제 가능한＇ 기술 확보를 위해 AI 윤리 검토 의무화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208801",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, AI 바이오 스타트업 ‘코에피션트 바이오’ 6000억에 인수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208800",
+          "category": "해외"
+        },
+        {
+          "title": "＇딥시크-V4＇, 화웨이 추론 칩에 최적화...〃중국 반도체 자립 보여줄 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208803",
+          "category": "해외"
+        },
+        {
+          "title": "AI 영상 한계를 넘으려는 구글….‘제미나이’로 만드세요",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208793",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }
