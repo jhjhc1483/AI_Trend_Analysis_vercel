@@ -11,8 +11,8 @@ https://www.etnews.com/20260403000182
 ◾ 스캐터랩, AI 챗봇 ＇제타＇ 가입자 600만 돌파…일본서 2배 성장
 https://www.etnews.com/20260403000179
 
-◾ [에듀플러스][인터뷰]앤드류 수 스픽 CTO “한국은 AI 영어학습 최적 시장…교육도 AI 네이티브 경쟁”
-https://www.etnews.com/20260403000211
+◾ [그린테크 현장을 가다]⑤ 케빈랩, AI 에너지 관리 플랫폼 ＇퍼스트홈＇ 70만 세대 구축…“글로벌 유니콘 도약할 것”
+https://www.etnews.com/20260403000239
 
 ◾ 삼성전자, 2분기 D램 가격 30% 또 인상…AI 수요 견고
 https://www.etnews.com/20260403000068
@@ -21,11 +21,8 @@ https://www.etnews.com/20260403000068
 https://www.aitimes.com/news/articleView.html?idxno=208512
 
 [기관]
-◾ 국민의 AX 아이디어, 생활 속 환경·에너지 문제 해결 이끈다...기후부, AX 아이디어 경진대회 개최 총 상금 9100만원 수여
-https://www.aitimes.kr/news/articleView.html?idxno=39419
-
-◾ 한준호 경기지사 경선후보, 경기 청년에 클라우드 6만원·생성형AI 10만원 지원 공약
-https://www.etnews.com/20260405000079
+◾ “생활 속 환경·에너지 문제 AI로 해결”…기후부 ＇AX 아이디어 경진대회＇ 내달 28일까지 개최
+https://www.etnews.com/20260405000044
 
 ◾ 국가AI전략위, 佛 미스트랄AI 만나 ＇AI 풀스택＇ 협력 모색
 https://www.etnews.com/20260405000042
@@ -39,7 +36,13 @@ https://www.etnews.com/20260405000008
 ◾ 고재준 KTR 사업단장 “국내 최초 AI 인증, 기업 경쟁력에 날개 달아줄 것”
 https://www.aitimes.com/news/articleView.html?idxno=208810
 
+◾ 민간 분야 사이버 보안 면역력 높인다 과기정통부, 상반기 사이버 위기 대응 모의훈련 실시
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187114&searchOpt=ALL&searchTxt=
+
 [해외]
+◾ [에듀플러스][인터뷰]앤드류 수 스픽 CTO “한국은 AI 영어학습 최적 시장…교육도 AI 네이티브 경쟁”
+https://www.etnews.com/20260403000211
+
 ◾ 월드 랩스, ＇세계 생성＇ 능력 강화한 월드 모델 ＇마블 1.1＇ 출시
 https://www.aitimes.com/news/articleView.html?idxno=208813
 
