@@ -1415,38 +1415,6 @@
   },
   "26.04.06": {
     "categorized": {
-      "기관": [
-        {
-          "title": "국민의 AX 아이디어, 생활 속 환경·에너지 문제 해결 이끈다...기후부, AX 아이디어 경진대회 개최 총 상금 9100만원 수여",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39419",
-          "category": "기관"
-        },
-        {
-          "title": "한준호 경기지사 경선후보, 경기 청년에 클라우드 6만원·생성형AI 10만원 지원 공약",
-          "link": "https://www.etnews.com/20260405000079",
-          "category": "기관"
-        },
-        {
-          "title": "국가AI전략위, 佛 미스트랄AI 만나 ＇AI 풀스택＇ 협력 모색",
-          "link": "https://www.etnews.com/20260405000042",
-          "category": "기관"
-        },
-        {
-          "title": "국가AI컴퓨팅센터 구축사업 ＇날개짓＇…솔라시도, 미래 AI 첨단산업 거점 본격 비상 시작",
-          "link": "https://www.etnews.com/20260403000021",
-          "category": "기관"
-        },
-        {
-          "title": "KAIST, 佛 CNRS와 MOU...양자·AI 협력 강화",
-          "link": "https://www.etnews.com/20260405000008",
-          "category": "기관"
-        },
-        {
-          "title": "고재준 KTR 사업단장 “국내 최초 AI 인증, 기업 경쟁력에 날개 달아줄 것”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=208810",
-          "category": "기관"
-        }
-      ],
       "민간": [
         {
           "title": "“병원 다녀봤자 명확한 진단 못받아”… AI 찾는 만성질환자들",
@@ -1464,8 +1432,8 @@
           "category": "민간"
         },
         {
-          "title": "[에듀플러스][인터뷰]앤드류 수 스픽 CTO “한국은 AI 영어학습 최적 시장…교육도 AI 네이티브 경쟁”",
-          "link": "https://www.etnews.com/20260403000211",
+          "title": "[그린테크 현장을 가다]⑤ 케빈랩, AI 에너지 관리 플랫폼 ＇퍼스트홈＇ 70만 세대 구축…“글로벌 유니콘 도약할 것”",
+          "link": "https://www.etnews.com/20260403000239",
           "category": "민간"
         },
         {
@@ -1479,19 +1447,12 @@
           "category": "민간"
         }
       ],
-      "기타": [
-        {
-          "title": "[전상욱의 AX시대의 고객경험] 〈9〉 AI는 행동하고 인간은 선택한다",
-          "link": "https://www.etnews.com/20260403000203",
-          "category": "기타"
-        },
-        {
-          "title": "[정유신의 핀테크스토리]AI FDS, 미래 금융 보안의 핵심 인프라로 부상",
-          "link": "https://www.etnews.com/20260405000073",
-          "category": "기타"
-        }
-      ],
       "해외": [
+        {
+          "title": "[에듀플러스][인터뷰]앤드류 수 스픽 CTO “한국은 AI 영어학습 최적 시장…교육도 AI 네이티브 경쟁”",
+          "link": "https://www.etnews.com/20260403000211",
+          "category": "해외"
+        },
         {
           "title": "월드 랩스, ＇세계 생성＇ 능력 강화한 월드 모델 ＇마블 1.1＇ 출시",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208813",
@@ -1516,6 +1477,50 @@
           "title": "클로드 월 구독제로 ＇오픈클로＇ 못 쓴다...〃시스템에 과도한 부담〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208811",
           "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[전상욱의 AX시대의 고객경험] 〈9〉 AI는 행동하고 인간은 선택한다",
+          "link": "https://www.etnews.com/20260403000203",
+          "category": "기타"
+        },
+        {
+          "title": "[정유신의 핀테크스토리]AI FDS, 미래 금융 보안의 핵심 인프라로 부상",
+          "link": "https://www.etnews.com/20260405000073",
+          "category": "기타"
+        }
+      ],
+      "기관": [
+        {
+          "title": "“생활 속 환경·에너지 문제 AI로 해결”…기후부 ＇AX 아이디어 경진대회＇ 내달 28일까지 개최",
+          "link": "https://www.etnews.com/20260405000044",
+          "category": "기관"
+        },
+        {
+          "title": "국가AI전략위, 佛 미스트랄AI 만나 ＇AI 풀스택＇ 협력 모색",
+          "link": "https://www.etnews.com/20260405000042",
+          "category": "기관"
+        },
+        {
+          "title": "국가AI컴퓨팅센터 구축사업 ＇날개짓＇…솔라시도, 미래 AI 첨단산업 거점 본격 비상 시작",
+          "link": "https://www.etnews.com/20260403000021",
+          "category": "기관"
+        },
+        {
+          "title": "KAIST, 佛 CNRS와 MOU...양자·AI 협력 강화",
+          "link": "https://www.etnews.com/20260405000008",
+          "category": "기관"
+        },
+        {
+          "title": "고재준 KTR 사업단장 “국내 최초 AI 인증, 기업 경쟁력에 날개 달아줄 것”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208810",
+          "category": "기관"
+        },
+        {
+          "title": "민간 분야 사이버 보안 면역력 높인다 과기정통부, 상반기 사이버 위기 대응 모의훈련 실시",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187114&searchOpt=ALL&searchTxt=",
+          "category": "기관"
         }
       ]
     }
