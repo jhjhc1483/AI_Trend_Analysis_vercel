@@ -1,69 +1,76 @@
-📢26.04.06 AI 일일 동향📢
+📢26.04.07 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 시스템엔지니어링-인터넷정보학회, 국방·민간 AX와 학술 협력
+https://www.etnews.com/20260406000419
+
 [민간]
-◾ “병원 다녀봤자 명확한 진단 못받아”… AI 찾는 만성질환자들
-https://www.etnews.com/20260403000268
+◾ AI로 산업 난제를 해결한다...LG, LG 에이머스 참가자 2만 명 돌파
+https://www.aitimes.kr/news/articleView.html?idxno=39429
 
-◾ 공성배 메가존클라우드 CAIO, “AI 네이티브 기업 도약…고객 AX 지원 본격화”
-https://www.etnews.com/20260403000182
+◾ 서울아산병원, ‘피지컬 AI’ 국산 1호 심혈관 중재술 로봇 본격 임상 투입...1mm 정밀 제어 기술로 협심증 치료
+https://www.aitimes.kr/news/articleView.html?idxno=39422
 
-◾ 스캐터랩, AI 챗봇 ＇제타＇ 가입자 600만 돌파…일본서 2배 성장
-https://www.etnews.com/20260403000179
+◾ 오픈AI, 신세계그룹과 함께 AI 기반 커머스 협력 추진...〃더 직관적이고 개인화 된 쇼핑 경험〃
+https://www.aitimes.kr/news/articleView.html?idxno=39432
 
-◾ [그린테크 현장을 가다]⑤ 케빈랩, AI 에너지 관리 플랫폼 ＇퍼스트홈＇ 70만 세대 구축…“글로벌 유니콘 도약할 것”
-https://www.etnews.com/20260403000239
+◾ 삼성전자, 엔비디아향 ＇소캠2＇ 기술 난제 해결… 저온납땜 승부수
+https://www.etnews.com/20260406000232
 
-◾ 삼성전자, 2분기 D램 가격 30% 또 인상…AI 수요 견고
-https://www.etnews.com/20260403000068
+◾ [단독] 피지컬 AI 월드모델, LG·마음AI 컨소 개발 유력
+https://www.etnews.com/20260406000295
 
-◾ 박정국 엘리스그룹 CTO 〃데이터센터, 규모보다 운영 역량이 더 중요〃
-https://www.aitimes.com/news/articleView.html?idxno=208512
+◾ “데이터로 질병 잡는다”…카카오헬스-사노피, RWE·AI 협력
+https://www.etnews.com/20260406000084
+
+◾ AI 미래인재 3000명 몰렸다…카카오, AI 경진대회 성료
+https://www.etnews.com/20260406000039
 
 [기관]
-◾ “생활 속 환경·에너지 문제 AI로 해결”…기후부 ＇AX 아이디어 경진대회＇ 내달 28일까지 개최
-https://www.etnews.com/20260405000044
+◾ 국가AI전략위, 대구·울산 ＇AI행동계획＇ 이행점검…창원도 간다
+https://www.etnews.com/20260406000459
 
-◾ 국가AI전략위, 佛 미스트랄AI 만나 ＇AI 풀스택＇ 협력 모색
-https://www.etnews.com/20260405000042
+◾ 산업부 ＇AI 광반도체 공모 최종 선정…아산시에 143억 투입 제조 기반 마련
+https://www.etnews.com/20260406000430
 
-◾ 국가AI컴퓨팅센터 구축사업 ＇날개짓＇…솔라시도, 미래 AI 첨단산업 거점 본격 비상 시작
-https://www.etnews.com/20260403000021
+◾ 기보, AI 기반 ＇기술혁신정보＇ 특허 출원…기술 데이터 활용 신용정보업 본격 추진
+https://www.etnews.com/20260406000280
 
-◾ KAIST, 佛 CNRS와 MOU...양자·AI 협력 강화
-https://www.etnews.com/20260405000008
+◾ 국립목포대, 피지컬 AI로 K-조선 자율제조 생태계 선도…＇AX 기반 구축사업＇ 선정
+https://www.etnews.com/20260406000191
 
-◾ 고재준 KTR 사업단장 “국내 최초 AI 인증, 기업 경쟁력에 날개 달아줄 것”
-https://www.aitimes.com/news/articleView.html?idxno=208810
+◾ 경북대, 차세대 AI 기술개발 사업 2단계 선정…추론·수정하는 AI 개발 착수
+https://www.etnews.com/20260406000133
 
-◾ 민간 분야 사이버 보안 면역력 높인다 과기정통부, 상반기 사이버 위기 대응 모의훈련 실시
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187114&searchOpt=ALL&searchTxt=
+◾ “AI로 농촌 치안 지킨다”...경북도, AI 활용 농촌 순찰 시스템 도입
+https://www.etnews.com/20260406000012
 
 [해외]
-◾ [에듀플러스][인터뷰]앤드류 수 스픽 CTO “한국은 AI 영어학습 최적 시장…교육도 AI 네이티브 경쟁”
-https://www.etnews.com/20260403000211
+◾ HPE, 엔비디아와 손잡고 ‘AI 팩토리·슈퍼컴퓨팅’ 혁신 선언...엑사스케일 AI 인프라 경쟁 본격화
+https://www.aitimes.kr/news/articleView.html?idxno=39426
 
-◾ 월드 랩스, ＇세계 생성＇ 능력 강화한 월드 모델 ＇마블 1.1＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=208813
+◾ 알리바바, 에이전틱 코딩·데이터 처리 강화 ＇AI 모델 2종＇ 공개
+https://www.etnews.com/20260406000351
 
-◾ 넷플릭스, 물리 기반 AI 영상 모델 ＇보이드＇ 오픈소스 공개
-https://www.aitimes.com/news/articleView.html?idxno=208815
+◾ 알트먼, 모델 패러다임 전환 예고...〃중요한 무언가 일어나기 직전〃
+https://www.aitimes.com/news/articleView.html?idxno=208817
 
-◾ 이란 공격으로 바레인·두바이의 AWS 데이터센터 마비
-https://www.aitimes.com/news/articleView.html?idxno=208816
+◾ 제너럴리스트, 범용 로봇을 위한 모델 ＇젠-1＇ 공개...〃평균 작업 성공률 99%〃
+https://www.aitimes.com/news/articleView.html?idxno=208847
 
-◾ 데이터 전문 머코어 해킹으로 주요 AI 기업 ＇학습 비밀＇ 유출 비상
-https://www.aitimes.com/news/articleView.html?idxno=208814
+◾ 중국 AI 기업, 이란전 미군 위치 정보 SNS에 폭로
+https://www.aitimes.com/news/articleView.html?idxno=208845
 
-◾ 클로드 월 구독제로 ＇오픈클로＇ 못 쓴다...〃시스템에 과도한 부담〃
-https://www.aitimes.com/news/articleView.html?idxno=208811
+◾ 영국, 미국 정부에서 퇴출된 앤트로픽 끌어안기에 나서
+https://www.aitimes.com/news/articleView.html?idxno=208828
 
-[기타]
-◾ [전상욱의 AX시대의 고객경험] 〈9〉 AI는 행동하고 인간은 선택한다
-https://www.etnews.com/20260403000203
+📚 간행물
+◾ 정보보호 해외진출 전략거점 월간 주요동향(2026년 3월)
+https://www.kisa.or.kr/20203/form?postSeq=216&page=1
 
-◾ [정유신의 핀테크스토리]AI FDS, 미래 금융 보안의 핵심 인프라로 부상
-https://www.etnews.com/20260405000073
+◾ [제1284호] 6G 네트워크의 지능화 패러다임 전환
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1284%ED%98%B8%5D%206G%20%EB%84%A4%ED%8A%B8%EC%9B%8C%ED%81%AC%EC%9D%98%20%EC%A7%80%EB%8A%A5%ED%99%94%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%20%EC%A0%84%ED%99%98
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
