@@ -1663,6 +1663,11 @@
           "category": "기관"
         },
         {
+          "title": "인공지능융합사업단, 최신 고성능 GPU ＇H100·B200＇ 지원 활용 기업·기관 모집…기업·대학·공공기관 등",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39444",
+          "category": "기관"
+        },
+        {
           "title": "〃글자부터 영상까지 ‘올인원’ 옴니모달 AI, 세계 최초 구현〃..서울대 도재영 교수팀, 통합 AI 파운데이션 모델 개발",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=39439",
           "category": "기관"
@@ -1678,8 +1683,8 @@
           "category": "기관"
         },
         {
-          "title": "교육부, 대입 상담 공공지원 확대…AI 챗봇·교사 500명 투입",
-          "link": "https://www.etnews.com/20260407000158",
+          "title": "조선대, ＇2026 첨단산업 인재양성 부트캠프 사업＇ 선정… AI 분야 5년간 81억 지원",
+          "link": "https://www.etnews.com/20260407000309",
           "category": "기관"
         }
       ],
@@ -1710,13 +1715,13 @@
           "category": "민간"
         },
         {
-          "title": "한국딥러닝, 금융 특화 문서 AI 솔루션 ＇딥에이전트 포 금융＇ 출시",
-          "link": "https://www.etnews.com/20260407000192",
+          "title": "와이즈넛, 韓 NPU 탑재 AI 어플라이언스 시연",
+          "link": "https://www.etnews.com/20260407000318",
           "category": "민간"
         },
         {
-          "title": "이석준 아이티아이 대표 “＇無 손상 절단＇으로 AI 반도체 패키징 기여”",
-          "link": "https://www.etnews.com/20260403000049",
+          "title": "포스코그룹, 로봇 자동화 솔루션 기업 ＇브릴스＇ 투자…AX전환 본격 추진",
+          "link": "https://www.etnews.com/20260407000231",
           "category": "민간"
         }
       ],
@@ -1737,6 +1742,11 @@
           "category": "해외"
         },
         {
+          "title": "구글, 스마트폰에서 다운받아 쓰는 음성 인식 AI 앱 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208878",
+          "category": "해외"
+        },
+        {
           "title": "오픈AI·앤트로픽·구글, 중국의 ＇모델 복제＇ 방지를 위해 협력",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208876",
           "category": "해외"
@@ -1752,27 +1762,15 @@
           "category": "해외"
         }
       ],
-      "기타": [
-        {
-          "title": "[기고] AI 시대의 경쟁력, 이제는 상호운용성에 달렸다",
-          "link": "https://www.etnews.com/20260407000078",
-          "category": "기타"
-        },
-        {
-          "title": "[ET단상] AI 시험인증, AI 유토피아 구현의 필수조건",
-          "link": "https://www.etnews.com/20260407000070",
-          "category": "기타"
-        },
-        {
-          "title": "[AI와 디지털전환] AI 시대의 넥서스: 기술을 넘어 ＇대가 구조＇와 생태계의 경쟁으로",
-          "link": "https://www.etnews.com/20260407000132",
-          "category": "기타"
-        }
-      ],
       "간행물": [
         {
           "title": "AI 기반 군 지휘결심 지원체계의 기술 동향 [주간기술동향 2209호]",
           "link": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1394&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 3월 4주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=469&page=1",
           "category": "간행물"
         }
       ]
