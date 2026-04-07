@@ -1,102 +1,122 @@
 [
   {
-    "title": "시스템엔지니어링-인터넷정보학회, 국방·민간 AX와 학술 협력",
-    "link": "https://www.etnews.com/20260406000419",
-    "category": "국방"
-  },
-  {
-    "title": "AI로 산업 난제를 해결한다...LG, LG 에이머스 참가자 2만 명 돌파",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39429",
-    "category": "민간"
-  },
-  {
-    "title": "서울아산병원, ‘피지컬 AI’ 국산 1호 심혈관 중재술 로봇 본격 임상 투입...1mm 정밀 제어 기술로 협심증 치료",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39422",
-    "category": "민간"
-  },
-  {
-    "title": "오픈AI, 신세계그룹과 함께 AI 기반 커머스 협력 추진...〃더 직관적이고 개인화 된 쇼핑 경험〃",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39432",
-    "category": "민간"
-  },
-  {
-    "title": "삼성전자, 엔비디아향 ＇소캠2＇ 기술 난제 해결… 저온납땜 승부수",
-    "link": "https://www.etnews.com/20260406000232",
-    "category": "민간"
-  },
-  {
-    "title": "[단독] 피지컬 AI 월드모델, LG·마음AI 컨소 개발 유력",
-    "link": "https://www.etnews.com/20260406000295",
-    "category": "민간"
-  },
-  {
-    "title": "“데이터로 질병 잡는다”…카카오헬스-사노피, RWE·AI 협력",
-    "link": "https://www.etnews.com/20260406000084",
-    "category": "민간"
-  },
-  {
-    "title": "AI 미래인재 3000명 몰렸다…카카오, AI 경진대회 성료",
-    "link": "https://www.etnews.com/20260406000039",
-    "category": "민간"
-  },
-  {
-    "title": "국가AI전략위, 대구·울산 ＇AI행동계획＇ 이행점검…창원도 간다",
-    "link": "https://www.etnews.com/20260406000459",
+    "title": "자율주행차 사고 보상 빨라진다… 국토부, 책임소재 명확화·보상절차 표준화 기준 마련 본격 착수",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39454",
     "category": "기관"
   },
   {
-    "title": "산업부 ＇AI 광반도체 공모 최종 선정…아산시에 143억 투입 제조 기반 마련",
-    "link": "https://www.etnews.com/20260406000430",
-    "category": "기관"
+    "title": "네이버, EBS 제작 노하우와 네이버의 AI 기술력 결합...〃지식 콘텐츠 생태계 확장 이끌 것〃",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39450",
+    "category": "민간"
   },
   {
-    "title": "기보, AI 기반 ＇기술혁신정보＇ 특허 출원…기술 데이터 활용 신용정보업 본격 추진",
-    "link": "https://www.etnews.com/20260406000280",
-    "category": "기관"
-  },
-  {
-    "title": "국립목포대, 피지컬 AI로 K-조선 자율제조 생태계 선도…＇AX 기반 구축사업＇ 선정",
-    "link": "https://www.etnews.com/20260406000191",
-    "category": "기관"
-  },
-  {
-    "title": "경북대, 차세대 AI 기술개발 사업 2단계 선정…추론·수정하는 AI 개발 착수",
-    "link": "https://www.etnews.com/20260406000133",
-    "category": "기관"
-  },
-  {
-    "title": "“AI로 농촌 치안 지킨다”...경북도, AI 활용 농촌 순찰 시스템 도입",
-    "link": "https://www.etnews.com/20260406000012",
-    "category": "기관"
-  },
-  {
-    "title": "HPE, 엔비디아와 손잡고 ‘AI 팩토리·슈퍼컴퓨팅’ 혁신 선언...엑사스케일 AI 인프라 경쟁 본격화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39426",
+    "title": "앤트로픽, 구글·브로드컴과 초대형 AI 인프라 동맹 구축…수 기가와트급 TPU 확보, 클로드 중심 프론티어 AI 확장 가속",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39449",
     "category": "해외"
   },
   {
-    "title": "알리바바, 에이전틱 코딩·데이터 처리 강화 ＇AI 모델 2종＇ 공개",
-    "link": "https://www.etnews.com/20260406000351",
+    "title": "인공지능융합사업단, 최신 고성능 GPU ＇H100·B200＇ 지원 활용 기업·기관 모집…기업·대학·공공기관 등",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39444",
+    "category": "기관"
+  },
+  {
+    "title": "구광모 대표, 실리콘밸리 찾아 AI 사업화 속도 높여 … ＇팔란티어＇와 피지컬AI 분야 선도기업 ＇스킬드AI＇ 창업자 만나",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39440",
+    "category": "민간"
+  },
+  {
+    "title": "〃글자부터 영상까지 ‘올인원’ 옴니모달 AI, 세계 최초 구현〃..서울대 도재영 교수팀, 통합 AI 파운데이션 모델 개발",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39439",
+    "category": "기타"
+  },
+  {
+    "title": "삼성SDS, ＇AI 에이전트 뱅킹＇ 구축 나선다…우리은행,  ＇AX를 위한 AI 에이전트 구축＇ 사업 수주",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39438",
+    "category": "민간"
+  },
+  {
+    "title": "KAIST, 자연 시각 원리로 초슬림·고해상도 카메라 시대 연다...두께 1mm 미만 초박형 카메라 구현",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39435",
+    "category": "기타"
+  },
+  {
+    "title": "네이버 ＇연관검색어＇, 19년 만에 종료…AI 검색에 집중",
+    "link": "https://www.etnews.com/20260407000435",
+    "category": "민간"
+  },
+  {
+    "title": "韓 AI반도체 유니콘 레이스…국민성장펀드가 불붙였다",
+    "link": "https://www.etnews.com/20260407000265",
+    "category": "기관"
+  },
+  {
+    "title": "국가인공지능전략위원회, 국립창원대서 제조 AX 확산 정책 논의",
+    "link": "https://www.etnews.com/20260407000398",
+    "category": "기관"
+  },
+  {
+    "title": "[기고] AI 시대의 경쟁력, 이제는 상호운용성에 달렸다",
+    "link": "https://www.etnews.com/20260407000078",
+    "category": "기타"
+  },
+  {
+    "title": "“로봇이 스스로 판단”…마음AI, SDR 사족보행 로봇 ＇진도봇＇ 이달 공개",
+    "link": "https://www.etnews.com/20260407000156",
+    "category": "민간"
+  },
+  {
+    "title": "경남도 “제조업 강점 살려 피지컬 AI 시대 선도”…2030년까지 3조 투입",
+    "link": "https://www.etnews.com/20260407000361",
+    "category": "기관"
+  },
+  {
+    "title": "와이즈넛, 韓 NPU 탑재 AI 어플라이언스 시연",
+    "link": "https://www.etnews.com/20260407000318",
+    "category": "민간"
+  },
+  {
+    "title": "조선대, ＇2026 첨단산업 인재양성 부트캠프 사업＇ 선정… AI 분야 5년간 81억 지원",
+    "link": "https://www.etnews.com/20260407000309",
+    "category": "기관"
+  },
+  {
+    "title": "포스코그룹, 로봇 자동화 솔루션 기업 ＇브릴스＇ 투자…AX전환 본격 추진",
+    "link": "https://www.etnews.com/20260407000231",
+    "category": "민간"
+  },
+  {
+    "title": "＇AX 파도를 타고 세계로＇… ＇2026 K-ICT 위크인부산＇ 9월 9일 개막",
+    "link": "https://www.etnews.com/20260407000123",
+    "category": "기관"
+  },
+  {
+    "title": "오라클, CFO 부활…AI 투자 가속화 속 지출·부채 대응",
+    "link": "https://www.etnews.com/20260407000045",
     "category": "해외"
   },
   {
-    "title": "알트먼, 모델 패러다임 전환 예고...〃중요한 무언가 일어나기 직전〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208817",
+    "title": "오픈AI, 주 32시간 근무·AI세 신설 등 ＇초지능 시대＇ 정책 제안",
+    "link": "https://www.etnews.com/20260407000041",
     "category": "해외"
   },
   {
-    "title": "제너럴리스트, 범용 로봇을 위한 모델 ＇젠-1＇ 공개...〃평균 작업 성공률 99%〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208847",
+    "title": "앤트로픽, 연 매출 45조 돌파...3개월 만에 3배 이상 폭증",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208882",
     "category": "해외"
   },
   {
-    "title": "중국 AI 기업, 이란전 미군 위치 정보 SNS에 폭로",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208845",
+    "title": "오픈AI·앤트로픽·구글, 중국의 ＇모델 복제＇ 방지를 위해 협력",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208876",
     "category": "해외"
   },
   {
-    "title": "영국, 미국 정부에서 퇴출된 앤트로픽 끌어안기에 나서",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208828",
+    "title": "엔비디아, 스케드MD 인수로 AI 소프트웨어 독점 우려 일으켜",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208893",
+    "category": "해외"
+  },
+  {
+    "title": "젠슨 황 〃마벨 3조 투자의 핵심은 미래 먹거리 ＇AI-RAN＇ 구축〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208877",
     "category": "해외"
   }
 ]
