@@ -1668,61 +1668,19 @@
           "category": "기관"
         },
         {
-          "title": "〃글자부터 영상까지 ‘올인원’ 옴니모달 AI, 세계 최초 구현〃..서울대 도재영 교수팀, 통합 AI 파운데이션 모델 개발",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39439",
-          "category": "기관"
-        },
-        {
-          "title": "韓 AI반도체 유니콘 레이스…국민성장펀드가 불붙였다",
-          "link": "https://www.etnews.com/20260407000265",
-          "category": "기관"
-        },
-        {
           "title": "경남도 “제조업 강점 살려 피지컬 AI 시대 선도”…2030년까지 3조 투입",
           "link": "https://www.etnews.com/20260407000361",
           "category": "기관"
         },
         {
-          "title": "조선대, ＇2026 첨단산업 인재양성 부트캠프 사업＇ 선정… AI 분야 5년간 81억 지원",
-          "link": "https://www.etnews.com/20260407000309",
+          "title": "교육부, 대입 상담 공공지원 확대…AI 챗봇·교사 500명 투입",
+          "link": "https://www.etnews.com/20260407000158",
           "category": "기관"
-        }
-      ],
-      "민간": [
-        {
-          "title": "네이버, EBS 제작 노하우와 네이버의 AI 기술력 결합...〃지식 콘텐츠 생태계 확장 이끌 것〃",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39450",
-          "category": "민간"
         },
         {
-          "title": "구광모 대표, 실리콘밸리 찾아 AI 사업화 속도 높여 … ＇팔란티어＇와 피지컬AI 분야 선도기업 ＇스킬드AI＇ 창업자 만나",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39440",
-          "category": "민간"
-        },
-        {
-          "title": "삼성SDS, ＇AI 에이전트 뱅킹＇ 구축 나선다…우리은행,  ＇AX를 위한 AI 에이전트 구축＇ 사업 수주",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39438",
-          "category": "민간"
-        },
-        {
-          "title": "네이버 ＇연관검색어＇, 19년 만에 종료…AI 검색에 집중",
-          "link": "https://www.etnews.com/20260407000435",
-          "category": "민간"
-        },
-        {
-          "title": "“로봇이 스스로 판단”…마음AI, SDR 사족보행 로봇 ＇진도봇＇ 이달 공개",
-          "link": "https://www.etnews.com/20260407000156",
-          "category": "민간"
-        },
-        {
-          "title": "와이즈넛, 韓 NPU 탑재 AI 어플라이언스 시연",
-          "link": "https://www.etnews.com/20260407000318",
-          "category": "민간"
-        },
-        {
-          "title": "포스코그룹, 로봇 자동화 솔루션 기업 ＇브릴스＇ 투자…AX전환 본격 추진",
-          "link": "https://www.etnews.com/20260407000231",
-          "category": "민간"
+          "title": "＇AX 파도를 타고 세계로＇… ＇2026 K-ICT 위크인부산＇ 9월 9일 개막",
+          "link": "https://www.etnews.com/20260407000123",
+          "category": "기관"
         }
       ],
       "해외": [
@@ -1760,6 +1718,57 @@
           "title": "젠슨 황 〃마벨 3조 투자의 핵심은 미래 먹거리 ＇AI-RAN＇ 구축〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=208877",
           "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "〃글자부터 영상까지 ‘올인원’ 옴니모달 AI, 세계 최초 구현〃..서울대 도재영 교수팀, 통합 AI 파운데이션 모델 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39439",
+          "category": "민간"
+        },
+        {
+          "title": "“로봇이 스스로 판단”…마음AI, SDR 사족보행 로봇 ＇진도봇＇ 이달 공개",
+          "link": "https://www.etnews.com/20260407000156",
+          "category": "민간"
+        },
+        {
+          "title": "삼성SDS, 우리은행 ＇AI 에이전트 뱅킹＇ 구축한다…“금융 AX 지원”",
+          "link": "https://www.etnews.com/20260407000065",
+          "category": "민간"
+        },
+        {
+          "title": "구광모 LG 대표, 실리콘 밸리서 팔란티어·스킬드AI 창립자 회동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208887",
+          "category": "민간"
+        },
+        {
+          "title": "네이버-EBS, ‘지식 영상 콘텐츠 제작’ 협력…”AI 시대 고품질 데이터 확보”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208885",
+          "category": "민간"
+        },
+        {
+          "title": "한국딥러닝, 금융 특화 문서 AI ＇딥에이전트 포 금융＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=208881",
+          "category": "민간"
+        }
+      ],
+      "국방": [
+        {
+          "title": "[첨단 강군 지원하는 군 친화 대학] AI수업으로 학습 편차 최소화...장학 혜택 다양, 학비 부담 ‘뚝’",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48418&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "전투기 조종사가 명령하면 무인기 편대가 나가 싸운다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260408/1/ATCE_CTGR_0020010001/view.do;JSESSIONID_kookbnagWEB=4rtqCYuOzkE_FZfs44UjbqxQoV1SLcMIjYKwBpsPD-n9QiX28OjC!-970361443",
+          "category": "국방"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[기고] AI 시대의 경쟁력, 이제는 상호운용성에 달렸다",
+          "link": "https://www.etnews.com/20260407000078",
+          "category": "기타"
         }
       ],
       "간행물": [
