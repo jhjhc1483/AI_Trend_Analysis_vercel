@@ -1653,13 +1653,18 @@
     "categorized": {
       "기관": [
         {
+          "title": "AI전략위  피지컬AI 기반 제조 AX 현장 행보 박차",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=492",
+          "category": "기관"
+        },
+        {
           "title": "자율주행차 사고 보상 빨라진다… 국토부, 책임소재 명확화·보상절차 표준화 기준 마련 본격 착수",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=39454",
           "category": "기관"
         },
         {
-          "title": "인공지능융합사업단, 최신 고성능 GPU ＇H100·B200＇ 지원 활용 기업·기관 모집…기업·대학·공공기관 등",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39444",
+          "title": "〃글자부터 영상까지 ‘올인원’ 옴니모달 AI, 세계 최초 구현〃..서울대 도재영 교수팀, 통합 AI 파운데이션 모델 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39439",
           "category": "기관"
         },
         {
@@ -1668,23 +1673,13 @@
           "category": "기관"
         },
         {
-          "title": "국가인공지능전략위원회, 국립창원대서 제조 AX 확산 정책 논의",
-          "link": "https://www.etnews.com/20260407000398",
-          "category": "기관"
-        },
-        {
           "title": "경남도 “제조업 강점 살려 피지컬 AI 시대 선도”…2030년까지 3조 투입",
           "link": "https://www.etnews.com/20260407000361",
           "category": "기관"
         },
         {
-          "title": "조선대, ＇2026 첨단산업 인재양성 부트캠프 사업＇ 선정… AI 분야 5년간 81억 지원",
-          "link": "https://www.etnews.com/20260407000309",
-          "category": "기관"
-        },
-        {
-          "title": "＇AX 파도를 타고 세계로＇… ＇2026 K-ICT 위크인부산＇ 9월 9일 개막",
-          "link": "https://www.etnews.com/20260407000123",
+          "title": "교육부, 대입 상담 공공지원 확대…AI 챗봇·교사 500명 투입",
+          "link": "https://www.etnews.com/20260407000158",
           "category": "기관"
         }
       ],
@@ -1715,13 +1710,13 @@
           "category": "민간"
         },
         {
-          "title": "와이즈넛, 韓 NPU 탑재 AI 어플라이언스 시연",
-          "link": "https://www.etnews.com/20260407000318",
+          "title": "한국딥러닝, 금융 특화 문서 AI 솔루션 ＇딥에이전트 포 금융＇ 출시",
+          "link": "https://www.etnews.com/20260407000192",
           "category": "민간"
         },
         {
-          "title": "포스코그룹, 로봇 자동화 솔루션 기업 ＇브릴스＇ 투자…AX전환 본격 추진",
-          "link": "https://www.etnews.com/20260407000231",
+          "title": "이석준 아이티아이 대표 “＇無 손상 절단＇으로 AI 반도체 패키징 기여”",
+          "link": "https://www.etnews.com/20260403000049",
           "category": "민간"
         }
       ],
@@ -1729,11 +1724,6 @@
         {
           "title": "앤트로픽, 구글·브로드컴과 초대형 AI 인프라 동맹 구축…수 기가와트급 TPU 확보, 클로드 중심 프론티어 AI 확장 가속",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=39449",
-          "category": "해외"
-        },
-        {
-          "title": "오라클, CFO 부활…AI 투자 가속화 속 지출·부채 대응",
-          "link": "https://www.etnews.com/20260407000045",
           "category": "해외"
         },
         {
@@ -1764,18 +1754,18 @@
       ],
       "기타": [
         {
-          "title": "〃글자부터 영상까지 ‘올인원’ 옴니모달 AI, 세계 최초 구현〃..서울대 도재영 교수팀, 통합 AI 파운데이션 모델 개발",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39439",
-          "category": "기타"
-        },
-        {
-          "title": "KAIST, 자연 시각 원리로 초슬림·고해상도 카메라 시대 연다...두께 1mm 미만 초박형 카메라 구현",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39435",
-          "category": "기타"
-        },
-        {
           "title": "[기고] AI 시대의 경쟁력, 이제는 상호운용성에 달렸다",
           "link": "https://www.etnews.com/20260407000078",
+          "category": "기타"
+        },
+        {
+          "title": "[ET단상] AI 시험인증, AI 유토피아 구현의 필수조건",
+          "link": "https://www.etnews.com/20260407000070",
+          "category": "기타"
+        },
+        {
+          "title": "[AI와 디지털전환] AI 시대의 넥서스: 기술을 넘어 ＇대가 구조＇와 생태계의 경쟁으로",
+          "link": "https://www.etnews.com/20260407000132",
           "category": "기타"
         }
       ],
@@ -1783,11 +1773,6 @@
         {
           "title": "AI 기반 군 지휘결심 지원체계의 기술 동향 [주간기술동향 2209호]",
           "link": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1394&cpage=1&rows=10&searchTarget=all",
-          "category": "간행물"
-        },
-        {
-          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 3월 4주차)",
-          "link": "https://www.kisa.or.kr/20202/form?postSeq=469&page=1",
           "category": "간행물"
         }
       ]
