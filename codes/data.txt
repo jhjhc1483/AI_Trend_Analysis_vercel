@@ -1,101 +1,101 @@
-📢26.04.09 AI 일일 동향📢
+📢26.04.10 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 국가AI전략위 해군작전사령부 방문
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=502
+◾ 국가AI전략위, KAI와 무인기 도입 등 국방AX 가속화 논의
+https://www.etnews.com/20260409000437
 
-◾ 대드론 체계 발전 위해 국내외 전문가 머리 맞대
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48455&startDate=&endDate=&id=mnd_020101000000
+◾ “피지컬 AI 국방 접목 가속화해야”…3회 미래국방 전략포럼 개최
+https://www.etnews.com/20260409000324
 
-◾ 중기부·국방부, ＇모두의 챌린지 방산＇ 추진…스타트업 혁신기술로 K-방산 경쟁력 강화
-https://www.etnews.com/20260408000420
+◾ 코난테크놀로지, LIG시스템과 공공·국방 AX 파트너십
+https://www.etnews.com/20260409000232
 
-◾ 국가AI전략위, 해군본부와 AX 가속화·기업과 국방AX 사업 활성화 추진
-https://www.etnews.com/20260408000356
+◾ 과기정통부, ｢제3회 미래 국방 전략 토론회(전략 포럼)｣ 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187122&searchOpt=ALL&searchTxt=
 
-◾ 스타트업 진출 기회 확대 ‘모두의 챌린지 방산’ 추진
-https://kookbang.dema.mil.kr/newsWeb/20260409/11/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985
+◾ 드론으로 해상구조작전 펼칠 방법 찾는다
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48483&startDate=&endDate=&id=mnd_020101000000
 
-◾ [주간 K방산 브리핑] 드론 위협 대응 전략 마련에 민·군 머리 맞댔다
-https://kookbang.dema.mil.kr/newsWeb/20260409/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985
+◾ AI·첨단기술 해양 유·무인 복합전투체계 구축 속도
+https://kookbang.dema.mil.kr/newsWeb/20260410/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=63V0BxCxFsvxgC3eb1v1gBhLitbRnVVTqb_RscsbYZp2OHsKsOEv!-579096985
 
-◾ 인간의 진화적 산물 ‘전략’, AI가 기반 무너뜨릴 수도
-https://kookbang.dema.mil.kr/newsWeb/20260409/1/ATCE_CTGR_0020010028/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985
+◾ 드론·대드론 ‘통합 TF’ 전문인력 양성 등 논의
+https://kookbang.dema.mil.kr/newsWeb/20260410/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=63V0BxCxFsvxgC3eb1v1gBhLitbRnVVTqb_RscsbYZp2OHsKsOEv!-579096985
+
+◾ 싸우지 않고 적을 압도하는 시대… 사이버전자기 융합과 국방
+https://kookbang.dema.mil.kr/newsWeb/20260410/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=63V0BxCxFsvxgC3eb1v1gBhLitbRnVVTqb_RscsbYZp2OHsKsOEv!-579096985
 
 [육군]
 ◾ 육군방공학교 대드론 체계 구축 박차
-https://kookbang.dema.mil.kr/newsWeb/20260409/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48478&startDate=&endDate=&id=mnd_020101000000
 
-◾ 안녕! AI 로봇 전우 ‘동키’…육군 미래를 여는 핵심 솔루션
-https://kookbang.dema.mil.kr/newsWeb/20260409/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985
+◾ 실전적 훈련으로 드론 이해도·대응 능력 강화
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48480&startDate=&endDate=&id=mnd_020101000000
 
 [민간]
-◾ 에이쓰리시큐리티, 고정밀 딥페이크 탐지 및 AI 제조 실행 플랫폼 공개
-https://www.aitimes.kr/news/articleView.html?idxno=39481
+◾ 박윤영 KT 대표 “AX플랫폼 기업 도약 최우선…해킹사태 송구”
+https://www.etnews.com/20260409000407
 
-◾ 에너자이, 저사양 기기서도 구현 가능한 고성능 온디바이스 AI 솔루션 공개
-https://www.aitimes.kr/news/articleView.html?idxno=39480
+◾ 네이버, 쇼핑 AI 최적화 위해 ＇팔리는 상품＇만 남긴다
+https://www.etnews.com/20260409000350
 
-◾ “말만 하면 게임이 된다”... 크래프톤 오버데어, AI 에이전트로 제작 패러다임 전환
-https://www.etnews.com/20260408000176
+◾ LG CNS, SAP와 ERP AX 박차…LG·CJ AI 적용사례 공유
+https://www.etnews.com/20260409000102
 
-◾ 사진 900만장 데이터 쓰인 벚꽃축제…SKT, AI 통합관제 빛났다
-https://www.etnews.com/20260408000048
+◾ ‘텍스트와 이미지를 동시에 이해하고 추론’...LG AI연구원, 멀티모달 AI ‘엑사원 4.5’ 오픈 웨이트 공개
+https://www.aitimes.kr/news/articleView.html?idxno=39489
 
-◾ 노타, AI 반도체 기업의 ‘최적화’ 기술 수요 증가로 매출 확대
-https://www.aitimes.com/news/articleView.html?idxno=208902
+◾ “인공지능, 농업도 완전 자율화”…대동, 국내 최초 AI트랙터 출시 ‘필드로봇 시대’ 선언
+https://www.aitimes.kr/news/articleView.html?idxno=39487
 
-◾ 네이버, 연관 검색어·클로바X 접고 AI 검색·에이전트에 총력
-https://www.aitimes.com/news/articleView.html?idxno=208901
+◾ “막 시작된 피지컬 AI, 데이터가 핵심”…국내 AI 리더들 실전 전략 공개
+https://www.aitimes.com/news/articleView.html?idxno=209045
 
 [기관]
-◾ 국가AI전략위원회 중소기업, 스타트업 간담회 개최
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=503
+◾ 문체부, AI 기반 문화 강국 방향 수립 세미나 개최
+https://www.etnews.com/20260409000408
 
-◾ 파네시아, 2026 K-클라우드 대형 국책과제 수주…CXL에 이어 UALink·이더넷까지 AI 데이터센터 인터커넥트 사업 영역 공식 확장
-https://www.aitimes.kr/news/articleView.html?idxno=39474
+◾ 배경훈 부총리·통신 3사 CEO 첫 회동...“통신망 안전·AI인프라 투자 협력 강화” 공동선언
+https://www.etnews.com/20260409000334
 
-◾ “공공데이터×AI로 창업 키운다”...행안부, 공공데이터·AI 활용 창업경진대회’ 개최, 10개 팀 선발·총 상금 1억
-https://www.aitimes.kr/news/articleView.html?idxno=39471
+◾ 중기부 “AI·딥테크 유니콘 키운다”…기업당 최대 600억원 성장자금 공급
+https://www.etnews.com/20260409000328
 
-◾ 교육부, 인공지능 기반 한국어교육 시스템 ‘모두의 한국어’ 단계적 개방
-https://www.aitimes.kr/news/articleView.html?idxno=39470
+◾ KISA-금감원, AI로 불법 금융 스팸 선제 차단
+https://www.etnews.com/20260409000159
 
-◾ 5400만건 민원에 AI 투입…건보공단, 상담·업무 혁신 나선다
-https://www.etnews.com/20260408000274
+◾ KAIST 이노코어 연구단, 노벨화학상 데이비드 베이커 교수와 ‘AI 단백질 설계’성공
+https://www.aitimes.kr/news/articleView.html?idxno=39483
 
-◾ 홍수기 대비 ＇AI 스마트댐 안전관리 시스템＇ 가동…드론·수중로봇·디지털트윈 총동원
-https://www.etnews.com/20260408000164
-
-◾ 박사급 인력-기업 잇는 전략기술 박사후 연구원 산‧학 사업(프로젝트) 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187118&searchOpt=ALL&searchTxt=
+◾ 국가AI전략위원회, ‘해커 울리는 AI시대를 연다’ 『동형암호 기반 LLM과 AI데이터 보호』 세미나 개최
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=505
 
 [해외]
-◾ 앤트로픽, ‘프로젝트 글래스윙’ 출범…AI로 사이버보안 판 바꾼다
-https://www.aitimes.kr/news/articleView.html?idxno=39468
+◾ UAE G42, 美·이란전쟁에도 “오픈AI용 데이터센터 건설 이상無”
+https://www.etnews.com/20260409000382
 
-◾ 인텔, 일론 머스크 ＇테라팹＇에 공식 합류 선언
-https://www.etnews.com/20260408000001
+◾ 메타, 초지능팀 첫 AI 모델 ＇뮤즈 스파크＇ 공개
+https://www.etnews.com/20260409000065
 
-◾ 알리바바, 완성형 영상 제작 가능한 AI ＇완2.7-비디오＇ 출시
-https://www.etnews.com/20260408000476
+◾ 구글, 제미나이에 ＇노트북＇ 기능 탑재...＇노트북LM＇과 실시간 동기화
+https://www.aitimes.com/news/articleView.html?idxno=209014
 
-◾ 역사상 드물게 일어나는 ‘전략적 순간’이 찾아왔다는 샘 알트먼
-https://www.aitimes.com/news/articleView.html?idxno=208900
+◾ 지푸도 API 가격 인상...중국 AI 업계 ‘제값 받기’ 확산
+https://www.aitimes.com/news/articleView.html?idxno=208981
 
-◾ 엔비디아도 ＇KV 캐시＇ 해결... ＇트라이어텐션＇으로 메모리 10배 절감
-https://www.aitimes.com/news/articleView.html?idxno=208924
+◾ 앤트로픽, 폭발적 성장세에 지분 품귀… 직원들 〃IPO까지 안 팔아〃
+https://www.aitimes.com/news/articleView.html?idxno=209027
 
-◾ 중국, 세계 첫 수중 데이터센터 공개...〃기술적·상업적 타당성 검증 시험〃
-https://www.aitimes.com/news/articleView.html?idxno=208941
+◾ 미국 법원, 이번에는 국방부 손 들어줘...앤트로픽 ‘공급망 위험’ 지정 유지
+https://www.aitimes.com/news/articleView.html?idxno=209013
 
-◾ 앤트로픽, AI 인프라 확장 위해 MS 출신 임원 영입
-https://www.aitimes.com/news/articleView.html?idxno=208961
+◾ 오픈AI, 알츠하이머 연구 이니셔티브 가동...연구 기관에 1500억 지원
+https://www.aitimes.com/news/articleView.html?idxno=209004
 
-[기타]
-◾ AI 혁신시대, 변화의 본질을 이해하라
-https://kookbang.dema.mil.kr/newsWeb/20260409/3/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985
+📚 간행물
+◾ CPO, 대중통신장비금지, 대만반도체 [AI·ICT Brief 2026-13호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260409-000004&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

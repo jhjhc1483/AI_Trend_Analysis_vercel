@@ -1,152 +1,147 @@
 [
   {
-    "title": "국가AI전략위원회 중소기업, 스타트업 간담회 개최",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=503",
-    "category": "기관"
-  },
-  {
-    "title": "국가AI전략위 해군작전사령부 방문",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=502",
+    "title": "국가AI전략위, KAI와 무인기 도입 등 국방AX 가속화 논의",
+    "link": "https://www.etnews.com/20260409000437",
     "category": "국방"
   },
   {
-    "title": "에이쓰리시큐리티, 고정밀 딥페이크 탐지 및 AI 제조 실행 플랫폼 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39481",
+    "title": "문체부, AI 기반 문화 강국 방향 수립 세미나 개최",
+    "link": "https://www.etnews.com/20260409000408",
+    "category": "기관"
+  },
+  {
+    "title": "박윤영 KT 대표 “AX플랫폼 기업 도약 최우선…해킹사태 송구”",
+    "link": "https://www.etnews.com/20260409000407",
     "category": "민간"
   },
   {
-    "title": "에너자이, 저사양 기기서도 구현 가능한 고성능 온디바이스 AI 솔루션 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39480",
-    "category": "민간"
-  },
-  {
-    "title": "파네시아, 2026 K-클라우드 대형 국책과제 수주…CXL에 이어 UALink·이더넷까지 AI 데이터센터 인터커넥트 사업 영역 공식 확장",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39474",
-    "category": "기관"
-  },
-  {
-    "title": "“공공데이터×AI로 창업 키운다”...행안부, 공공데이터·AI 활용 창업경진대회’ 개최, 10개 팀 선발·총 상금 1억",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39471",
-    "category": "기관"
-  },
-  {
-    "title": "교육부, 인공지능 기반 한국어교육 시스템 ‘모두의 한국어’ 단계적 개방",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39470",
-    "category": "기관"
-  },
-  {
-    "title": "앤트로픽, ‘프로젝트 글래스윙’ 출범…AI로 사이버보안 판 바꾼다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39468",
+    "title": "UAE G42, 美·이란전쟁에도 “오픈AI용 데이터센터 건설 이상無”",
+    "link": "https://www.etnews.com/20260409000382",
     "category": "해외"
   },
   {
-    "title": "대드론 체계 발전 위해 국내외 전문가 머리 맞대",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48455&startDate=&endDate=&id=mnd_020101000000",
+    "title": "네이버, 쇼핑 AI 최적화 위해 ＇팔리는 상품＇만 남긴다",
+    "link": "https://www.etnews.com/20260409000350",
+    "category": "민간"
+  },
+  {
+    "title": "배경훈 부총리·통신 3사 CEO 첫 회동...“통신망 안전·AI인프라 투자 협력 강화” 공동선언",
+    "link": "https://www.etnews.com/20260409000334",
+    "category": "기관"
+  },
+  {
+    "title": "중기부 “AI·딥테크 유니콘 키운다”…기업당 최대 600억원 성장자금 공급",
+    "link": "https://www.etnews.com/20260409000328",
+    "category": "기관"
+  },
+  {
+    "title": "“피지컬 AI 국방 접목 가속화해야”…3회 미래국방 전략포럼 개최",
+    "link": "https://www.etnews.com/20260409000324",
     "category": "국방"
   },
   {
-    "title": "인텔, 일론 머스크 ＇테라팹＇에 공식 합류 선언",
-    "link": "https://www.etnews.com/20260408000001",
-    "category": "해외"
-  },
-  {
-    "title": "알리바바, 완성형 영상 제작 가능한 AI ＇완2.7-비디오＇ 출시",
-    "link": "https://www.etnews.com/20260408000476",
-    "category": "해외"
-  },
-  {
-    "title": "중기부·국방부, ＇모두의 챌린지 방산＇ 추진…스타트업 혁신기술로 K-방산 경쟁력 강화",
-    "link": "https://www.etnews.com/20260408000420",
-    "category": "국방"
-  },
-  {
-    "title": "국가AI전략위, 해군본부와 AX 가속화·기업과 국방AX 사업 활성화 추진",
-    "link": "https://www.etnews.com/20260408000356",
-    "category": "국방"
-  },
-  {
-    "title": "5400만건 민원에 AI 투입…건보공단, 상담·업무 혁신 나선다",
-    "link": "https://www.etnews.com/20260408000274",
+    "title": "KISA-금감원, AI로 불법 금융 스팸 선제 차단",
+    "link": "https://www.etnews.com/20260409000159",
     "category": "기관"
   },
   {
-    "title": "홍수기 대비 ＇AI 스마트댐 안전관리 시스템＇ 가동…드론·수중로봇·디지털트윈 총동원",
-    "link": "https://www.etnews.com/20260408000164",
-    "category": "기관"
-  },
-  {
-    "title": "“말만 하면 게임이 된다”... 크래프톤 오버데어, AI 에이전트로 제작 패러다임 전환",
-    "link": "https://www.etnews.com/20260408000176",
-    "category": "민간"
-  },
-  {
-    "title": "사진 900만장 데이터 쓰인 벚꽃축제…SKT, AI 통합관제 빛났다",
-    "link": "https://www.etnews.com/20260408000048",
-    "category": "민간"
-  },
-  {
-    "title": "노타, AI 반도체 기업의 ‘최적화’ 기술 수요 증가로 매출 확대",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208902",
-    "category": "민간"
-  },
-  {
-    "title": "네이버, 연관 검색어·클로바X 접고 AI 검색·에이전트에 총력",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208901",
-    "category": "민간"
-  },
-  {
-    "title": "역사상 드물게 일어나는 ‘전략적 순간’이 찾아왔다는 샘 알트먼",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208900",
-    "category": "해외"
-  },
-  {
-    "title": "엔비디아도 ＇KV 캐시＇ 해결... ＇트라이어텐션＇으로 메모리 10배 절감",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208924",
-    "category": "해외"
-  },
-  {
-    "title": "중국, 세계 첫 수중 데이터센터 공개...〃기술적·상업적 타당성 검증 시험〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208941",
-    "category": "해외"
-  },
-  {
-    "title": "앤트로픽, AI 인프라 확장 위해 MS 출신 임원 영입",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=208961",
-    "category": "해외"
-  },
-  {
-    "title": "박사급 인력-기업 잇는 전략기술 박사후 연구원 산‧학 사업(프로젝트) 추진",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187118&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "스타트업 진출 기회 확대 ‘모두의 챌린지 방산’ 추진",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260409/11/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985",
+    "title": "코난테크놀로지, LIG시스템과 공공·국방 AX 파트너십",
+    "link": "https://www.etnews.com/20260409000232",
     "category": "국방"
   },
   {
-    "title": "[주간 K방산 브리핑] 드론 위협 대응 전략 마련에 민·군 머리 맞댔다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260409/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985",
+    "title": "LG CNS, SAP와 ERP AX 박차…LG·CJ AI 적용사례 공유",
+    "link": "https://www.etnews.com/20260409000102",
+    "category": "민간"
+  },
+  {
+    "title": "메타, 초지능팀 첫 AI 모델 ＇뮤즈 스파크＇ 공개",
+    "link": "https://www.etnews.com/20260409000065",
+    "category": "해외"
+  },
+  {
+    "title": "과기정통부, ｢제3회 미래 국방 전략 토론회(전략 포럼)｣ 개최",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187122&searchOpt=ALL&searchTxt=",
     "category": "국방"
   },
   {
     "title": "육군방공학교 대드론 체계 구축 박차",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260409/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48478&startDate=&endDate=&id=mnd_020101000000",
     "category": "육군"
   },
   {
-    "title": "인간의 진화적 산물 ‘전략’, AI가 기반 무너뜨릴 수도",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260409/1/ATCE_CTGR_0020010028/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985",
+    "title": "실전적 훈련으로 드론 이해도·대응 능력 강화",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48480&startDate=&endDate=&id=mnd_020101000000",
+    "category": "육군"
+  },
+  {
+    "title": "드론으로 해상구조작전 펼칠 방법 찾는다",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48483&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
   },
   {
-    "title": "AI 혁신시대, 변화의 본질을 이해하라",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260409/3/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985",
-    "category": "기타"
+    "title": "‘텍스트와 이미지를 동시에 이해하고 추론’...LG AI연구원, 멀티모달 AI ‘엑사원 4.5’ 오픈 웨이트 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39489",
+    "category": "민간"
   },
   {
-    "title": "안녕! AI 로봇 전우 ‘동키’…육군 미래를 여는 핵심 솔루션",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260409/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=BLlu11L8qP7O2fcjJEk5WcZwnhAbfhZ0F8NEpjv2shZLqSTfCe0z!-579096985",
-    "category": "육군"
+    "title": "“인공지능, 농업도 완전 자율화”…대동, 국내 최초 AI트랙터 출시 ‘필드로봇 시대’ 선언",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39487",
+    "category": "민간"
+  },
+  {
+    "title": "KAIST 이노코어 연구단, 노벨화학상 데이비드 베이커 교수와 ‘AI 단백질 설계’성공",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39483",
+    "category": "기관"
+  },
+  {
+    "title": "국가AI전략위원회, ‘해커 울리는 AI시대를 연다’ 『동형암호 기반 LLM과 AI데이터 보호』 세미나 개최",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=505",
+    "category": "기관"
+  },
+  {
+    "title": "AI·첨단기술 해양 유·무인 복합전투체계 구축 속도",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260410/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=63V0BxCxFsvxgC3eb1v1gBhLitbRnVVTqb_RscsbYZp2OHsKsOEv!-579096985",
+    "category": "국방"
+  },
+  {
+    "title": "드론·대드론 ‘통합 TF’ 전문인력 양성 등 논의",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260410/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=63V0BxCxFsvxgC3eb1v1gBhLitbRnVVTqb_RscsbYZp2OHsKsOEv!-579096985",
+    "category": "국방"
+  },
+  {
+    "title": "싸우지 않고 적을 압도하는 시대… 사이버전자기 융합과 국방",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260410/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=63V0BxCxFsvxgC3eb1v1gBhLitbRnVVTqb_RscsbYZp2OHsKsOEv!-579096985",
+    "category": "국방"
+  },
+  {
+    "title": "“막 시작된 피지컬 AI, 데이터가 핵심”…국내 AI 리더들 실전 전략 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209045",
+    "category": "민간"
+  },
+  {
+    "title": "구글, 제미나이에 ＇노트북＇ 기능 탑재...＇노트북LM＇과 실시간 동기화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209014",
+    "category": "해외"
+  },
+  {
+    "title": "지푸도 API 가격 인상...중국 AI 업계 ‘제값 받기’ 확산",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=208981",
+    "category": "해외"
+  },
+  {
+    "title": "앤트로픽, 폭발적 성장세에 지분 품귀… 직원들 〃IPO까지 안 팔아〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209027",
+    "category": "해외"
+  },
+  {
+    "title": "미국 법원, 이번에는 국방부 손 들어줘...앤트로픽 ‘공급망 위험’ 지정 유지",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209013",
+    "category": "해외"
+  },
+  {
+    "title": "오픈AI, 알츠하이머 연구 이니셔티브 가동...연구 기관에 1500억 지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209004",
+    "category": "해외"
   }
 ]
