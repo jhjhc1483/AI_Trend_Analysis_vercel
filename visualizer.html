@@ -522,13 +522,22 @@
 
         function getSourceTag(url, title) {
             // Source detection based on URL
-            if (url.includes('etnews.com')) return '전자신문';
+            if (url.includes('aikorea.go.kr')) return 'AI전략위';
+            if (url.includes('mnd.go.kr')) return '국방부';
+            if (url.includes('dapa.go.kr')) return '방사청';
+            if (url.includes('msit.go.kr')) return '과기정통부';
             if (url.includes('kookbang.dema.mil.kr')) return '국방일보';
-            if (url.includes('aitimes.com') || url.includes('aitimes.kr')) return 'AI타임스';
+            if (url.includes('etnews.com')) return '전자신문';
+            if (url.includes('aitimes.com')) return 'AI타임스';
+            if (url.includes('aitimes.kr')) return '인공지능신문';
             if (url.includes('iitp.kr')) return 'IITP';
-            if (url.includes('kisa.or.kr')) return 'KISA';
-            if (url.includes('msit.go.kr')) return '과기부';
             if (url.includes('nia.or.kr')) return 'NIA';
+            if (url.includes('stepi.re.kr')) return 'STEPI';
+            if (url.includes('nipa.kr')) return 'NIPA';
+            if (url.includes('kisdi.re.kr')) return 'KISDI';
+            if (url.includes('kisti.re.kr')) return 'KISTI';
+            if (url.includes('kisa.or.kr')) return 'KISA';
+            if (url.includes('tta.or.kr')) return 'TTA';
 
             // Extract from title bracket [Tag] Title
             const bracketMatch = title.match(/^\[(.*?)\]/);
