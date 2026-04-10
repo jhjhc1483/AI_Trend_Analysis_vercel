@@ -2121,18 +2121,23 @@
           "category": "민간"
         },
         {
-          "title": "피지컬 AI, 2035년 1억4500만대 전망…휴머노이드 급부상",
-          "link": "https://www.etnews.com/20260410000176",
+          "title": "“건물도 스스로 판단하고 움직인다”…중앙대 연구팀, ＇피지컬 AI 건축＇ 실증 성공",
+          "link": "https://www.etnews.com/20260410000225",
           "category": "민간"
         },
         {
-          "title": "마이허브-조은오산병원, AI 특화 의료기관 구축 MOU 체결",
-          "link": "https://www.etnews.com/20260410000112",
+          "title": "한경협, AI 혁신위원회 3차 회의 개최…“민관 원팀으로 AI 확산”",
+          "link": "https://www.etnews.com/20260410000191",
           "category": "민간"
         },
         {
           "title": "에임인텔리전스, 100억원 규모 시리즈A 투자 유치",
           "link": "https://www.etnews.com/20260410000082",
+          "category": "민간"
+        },
+        {
+          "title": "SK쉴더스, ＇드림핵 해킹방어대회 2026＇ 1위",
+          "link": "https://www.etnews.com/20260410000036",
           "category": "민간"
         },
         {
@@ -2144,39 +2149,22 @@
           "title": "스틸컷, 2026 서울대 졸업사진에 딥페이크 선제적 방어모델 MOU 보호 적용",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=39496",
           "category": "민간"
-        },
-        {
-          "title": "뉴로핏, 320억 규모 투자 유치…‘뇌 영상 AI’ 글로벌 사업 확장",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=209095",
-          "category": "민간"
-        }
-      ],
-      "기타": [
-        {
-          "title": "“건물도 스스로 판단하고 움직인다”…중앙대 연구팀, ＇피지컬 AI 건축＇ 실증 성공",
-          "link": "https://www.etnews.com/20260410000225",
-          "category": "기타"
-        },
-        {
-          "title": "[에듀플러스]고려대, AI로 고효율 에너지 변환 소재 초고속 발굴…개발 기간 수년에서 ＇단 몇 개월＇로 단축",
-          "link": "https://www.etnews.com/20260410000197",
-          "category": "기타"
-        },
-        {
-          "title": "ETRI, ＇생성형 AI＇로 2D 영상 3D화...영화 기원 다룬 단편영화 제작",
-          "link": "https://www.etnews.com/20260410000078",
-          "category": "기타"
         }
       ],
       "기관": [
         {
-          "title": "한경협, AI 혁신위원회 3차 회의 개최…“민관 원팀으로 AI 확산”",
-          "link": "https://www.etnews.com/20260410000191",
+          "title": "“공공 AI는 전용 인프라로 가야”…보안업계·학계 한 목소리",
+          "link": "https://www.etnews.com/20260410000214",
           "category": "기관"
         },
         {
           "title": "경남도, 제조 AI 대전환 핵심 유망산업에 2033년까지 8141억원 투입",
           "link": "https://www.etnews.com/20260410000086",
+          "category": "기관"
+        },
+        {
+          "title": "ETRI, ＇생성형 AI＇로 2D 영상 3D화...영화 기원 다룬 단편영화 제작",
+          "link": "https://www.etnews.com/20260410000078",
           "category": "기관"
         },
         {
@@ -2198,23 +2186,6 @@
           "title": "GIST, NI와 AI 반도체 테스트 전문 인력 양성...‘GIST-Arm 스쿨’에 이어 ‘GIST-NI 스쿨’까지 확장",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=39507",
           "category": "기관"
-        },
-        {
-          "title": "함양군, 1.3조 원 규모 ‘AI 데이터센터’ 인허가 완료… 사업 본격화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=209079",
-          "category": "기관"
-        }
-      ],
-      "국방": [
-        {
-          "title": "펀진, AI 전자기스펙트럼 분석 시스템 GS인증 1등급 획득",
-          "link": "https://www.etnews.com/20260410000190",
-          "category": "국방"
-        },
-        {
-          "title": "[게시판] 코난테크놀로지, LIG시스템과 공공 AX 혁신 맞손 등 단신",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=209044",
-          "category": "국방"
         }
       ],
       "해외": [
@@ -2234,11 +2205,6 @@
           "category": "해외"
         },
         {
-          "title": "미·헝가리, AI·에너지·안보 ‘전략 동맹’ 격상…디지털·AI 협력 본격화",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39502",
-          "category": "해외"
-        },
-        {
           "title": "아마존 앤디 재시 CEO, “AI는 아마존의 모든 것을 재정의한다”…전사 ‘AI 중심 체질 전환’ 가속",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=39501",
           "category": "해외"
@@ -2252,6 +2218,18 @@
           "title": "앤트로픽, ‘클로드 코워크’ 기능 강화하고 정식 서비스 시작",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209104",
           "category": "해외"
+        },
+        {
+          "title": "메타, 코어위브와 31조 추가 컴퓨팅 계약...누적 52조 규모로 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209085",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "[게시판] 코난테크놀로지, LIG시스템과 공공 AX 혁신 맞손 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209044",
+          "category": "국방"
         }
       ],
       "간행물": [

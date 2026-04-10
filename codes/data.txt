@@ -2,9 +2,6 @@
 
 📰 오늘의 기사
 [국방]
-◾ 펀진, AI 전자기스펙트럼 분석 시스템 GS인증 1등급 획득
-https://www.etnews.com/20260410000190
-
 ◾ [게시판] 코난테크놀로지, LIG시스템과 공공 AX 혁신 맞손 등 단신
 https://www.aitimes.com/news/articleView.html?idxno=209044
 
@@ -12,14 +9,17 @@ https://www.aitimes.com/news/articleView.html?idxno=209044
 ◾ 뉴엔AI ＇QuettaLLMs＇, K-AI 리더보드 1위 올라
 https://www.etnews.com/20260410000226
 
-◾ 피지컬 AI, 2035년 1억4500만대 전망…휴머노이드 급부상
-https://www.etnews.com/20260410000176
+◾ “건물도 스스로 판단하고 움직인다”…중앙대 연구팀, ＇피지컬 AI 건축＇ 실증 성공
+https://www.etnews.com/20260410000225
 
-◾ 마이허브-조은오산병원, AI 특화 의료기관 구축 MOU 체결
-https://www.etnews.com/20260410000112
+◾ 한경협, AI 혁신위원회 3차 회의 개최…“민관 원팀으로 AI 확산”
+https://www.etnews.com/20260410000191
 
 ◾ 에임인텔리전스, 100억원 규모 시리즈A 투자 유치
 https://www.etnews.com/20260410000082
+
+◾ SK쉴더스, ＇드림핵 해킹방어대회 2026＇ 1위
+https://www.etnews.com/20260410000036
 
 ◾ SKT-Arm-리벨리온, 차세대 AI 인프라 혁신 위해 전략적 파트너십...CPU·NPU 결합 AI 추론 서버 공동 개발
 https://www.aitimes.kr/news/articleView.html?idxno=39497
@@ -27,15 +27,15 @@ https://www.aitimes.kr/news/articleView.html?idxno=39497
 ◾ 스틸컷, 2026 서울대 졸업사진에 딥페이크 선제적 방어모델 MOU 보호 적용
 https://www.aitimes.kr/news/articleView.html?idxno=39496
 
-◾ 뉴로핏, 320억 규모 투자 유치…‘뇌 영상 AI’ 글로벌 사업 확장
-https://www.aitimes.com/news/articleView.html?idxno=209095
-
 [기관]
-◾ 한경협, AI 혁신위원회 3차 회의 개최…“민관 원팀으로 AI 확산”
-https://www.etnews.com/20260410000191
+◾ “공공 AI는 전용 인프라로 가야”…보안업계·학계 한 목소리
+https://www.etnews.com/20260410000214
 
 ◾ 경남도, 제조 AI 대전환 핵심 유망산업에 2033년까지 8141억원 투입
 https://www.etnews.com/20260410000086
+
+◾ ETRI, ＇생성형 AI＇로 2D 영상 3D화...영화 기원 다룬 단편영화 제작
+https://www.etnews.com/20260410000078
 
 ◾ 2026년 제1회 과기정통부 소관 추경 787억원 본회의 의결
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187136&searchOpt=ALL&searchTxt=
@@ -49,9 +49,6 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ GIST, NI와 AI 반도체 테스트 전문 인력 양성...‘GIST-Arm 스쿨’에 이어 ‘GIST-NI 스쿨’까지 확장
 https://www.aitimes.kr/news/articleView.html?idxno=39507
 
-◾ 함양군, 1.3조 원 규모 ‘AI 데이터센터’ 인허가 완료… 사업 본격화
-https://www.aitimes.com/news/articleView.html?idxno=209079
-
 [해외]
 ◾ 앤트로픽, 자체 AI 칩 개발 검토 중…“초기 단계”
 https://www.etnews.com/20260410000068
@@ -62,9 +59,6 @@ https://www.etnews.com/20260410000042
 ◾ 유럽연합, ‘AI 대륙 액션플랜’ 1년…전통 산업에서 AI 혁신 엔진으로, 〃AI 팩토리 19곳·데이터 유니온 가동〃
 https://www.aitimes.kr/news/articleView.html?idxno=39509
 
-◾ 미·헝가리, AI·에너지·안보 ‘전략 동맹’ 격상…디지털·AI 협력 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=39502
-
 ◾ 아마존 앤디 재시 CEO, “AI는 아마존의 모든 것을 재정의한다”…전사 ‘AI 중심 체질 전환’ 가속
 https://www.aitimes.kr/news/articleView.html?idxno=39501
 
@@ -74,15 +68,8 @@ https://www.aitimes.com/news/articleView.html?idxno=209093
 ◾ 앤트로픽, ‘클로드 코워크’ 기능 강화하고 정식 서비스 시작
 https://www.aitimes.com/news/articleView.html?idxno=209104
 
-[기타]
-◾ “건물도 스스로 판단하고 움직인다”…중앙대 연구팀, ＇피지컬 AI 건축＇ 실증 성공
-https://www.etnews.com/20260410000225
-
-◾ [에듀플러스]고려대, AI로 고효율 에너지 변환 소재 초고속 발굴…개발 기간 수년에서 ＇단 몇 개월＇로 단축
-https://www.etnews.com/20260410000197
-
-◾ ETRI, ＇생성형 AI＇로 2D 영상 3D화...영화 기원 다룬 단편영화 제작
-https://www.etnews.com/20260410000078
+◾ 메타, 코어위브와 31조 추가 컴퓨팅 계약...누적 52조 규모로 확대
+https://www.aitimes.com/news/articleView.html?idxno=209085
 
 📚 간행물
 ◾ 고품질 데이터의 요건과 국내외 기업 동향 및 시사점 [ICT SPOT ISSUE(2026-03호)]
