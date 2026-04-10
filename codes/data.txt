@@ -1,98 +1,92 @@
-📢26.04.10 AI 일일 동향📢
+📢26.04.11 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 국가AI전략위, KAI와 무인기 도입 등 국방AX 가속화 논의
-https://www.etnews.com/20260409000437
+◾ 펀진, AI 전자기스펙트럼 분석 시스템 GS인증 1등급 획득
+https://www.etnews.com/20260410000190
 
-◾ “피지컬 AI 국방 접목 가속화해야”…3회 미래국방 전략포럼 개최
-https://www.etnews.com/20260409000324
-
-◾ 코난테크놀로지, LIG시스템과 공공·국방 AX 파트너십
-https://www.etnews.com/20260409000232
-
-◾ 과기정통부, ｢제3회 미래 국방 전략 토론회(전략 포럼)｣ 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187122&searchOpt=ALL&searchTxt=
-
-◾ 국가AI전략위, KAI와 국방 AX 가속화를 위한  항공 AI 생태계 조성 및 군사혁신 방안 논의
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=507
-
-◾ AI·첨단기술 해양 유·무인 복합전투체계 구축 속도
-https://kookbang.dema.mil.kr/newsWeb/20260410/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=63V0BxCxFsvxgC3eb1v1gBhLitbRnVVTqb_RscsbYZp2OHsKsOEv!-579096985
-
-◾ 드론·대드론 ‘통합 TF’ 전문인력 양성 등 논의
-https://kookbang.dema.mil.kr/newsWeb/20260410/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=63V0BxCxFsvxgC3eb1v1gBhLitbRnVVTqb_RscsbYZp2OHsKsOEv!-579096985
-
-◾ 싸우지 않고 적을 압도하는 시대… 사이버전자기 융합과 국방
-https://kookbang.dema.mil.kr/newsWeb/20260410/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=63V0BxCxFsvxgC3eb1v1gBhLitbRnVVTqb_RscsbYZp2OHsKsOEv!-579096985
-
-[육군]
-◾ 육군방공학교 대드론 체계 구축 박차
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48478&startDate=&endDate=&id=mnd_020101000000
+◾ [게시판] 코난테크놀로지, LIG시스템과 공공 AX 혁신 맞손 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=209044
 
 [민간]
-◾ 박윤영 KT 대표 “AX플랫폼 기업 도약 최우선…해킹사태 송구”
-https://www.etnews.com/20260409000407
+◾ 뉴엔AI ＇QuettaLLMs＇, K-AI 리더보드 1위 올라
+https://www.etnews.com/20260410000226
 
-◾ 대동, 국내 최초 AI트랙터 출시…농업 ＇필드로봇＇ 시대 개막
-https://www.etnews.com/20260409000161
+◾ 피지컬 AI, 2035년 1억4500만대 전망…휴머노이드 급부상
+https://www.etnews.com/20260410000176
 
-◾ LG CNS, SAP와 ERP AX 박차…LG·CJ AI 적용사례 공유
-https://www.etnews.com/20260409000102
+◾ 마이허브-조은오산병원, AI 특화 의료기관 구축 MOU 체결
+https://www.etnews.com/20260410000112
 
-◾ ‘텍스트와 이미지를 동시에 이해하고 추론’...LG AI연구원, 멀티모달 AI ‘엑사원 4.5’ 오픈 웨이트 공개
-https://www.aitimes.kr/news/articleView.html?idxno=39489
+◾ 에임인텔리전스, 100억원 규모 시리즈A 투자 유치
+https://www.etnews.com/20260410000082
 
-◾ “막 시작된 피지컬 AI, 데이터가 핵심”…국내 AI 리더들 실전 전략 공개
-https://www.aitimes.com/news/articleView.html?idxno=209045
+◾ SKT-Arm-리벨리온, 차세대 AI 인프라 혁신 위해 전략적 파트너십...CPU·NPU 결합 AI 추론 서버 공동 개발
+https://www.aitimes.kr/news/articleView.html?idxno=39497
 
-◾ 베스핀글로벌, 기업 AX 최적화 플랫폼 ‘헬프나우 AI 파운드리’ 출시
-https://www.aitimes.com/news/articleView.html?idxno=209021
+◾ 스틸컷, 2026 서울대 졸업사진에 딥페이크 선제적 방어모델 MOU 보호 적용
+https://www.aitimes.kr/news/articleView.html?idxno=39496
+
+◾ 뉴로핏, 320억 규모 투자 유치…‘뇌 영상 AI’ 글로벌 사업 확장
+https://www.aitimes.com/news/articleView.html?idxno=209095
 
 [기관]
-◾ 문체부, AI 기반 문화 강국 방향 수립 세미나 개최
-https://www.etnews.com/20260409000408
+◾ 한경협, AI 혁신위원회 3차 회의 개최…“민관 원팀으로 AI 확산”
+https://www.etnews.com/20260410000191
 
-◾ 복지부, 120억 만성질환 AI전환 사업 출범…기업·의료기관·지자체 공동 추진
-https://www.etnews.com/20260409000306
+◾ 경남도, 제조 AI 대전환 핵심 유망산업에 2033년까지 8141억원 투입
+https://www.etnews.com/20260410000086
 
-◾ 류제명 과기정통부 차관, 디지털 인사이트 포럼 참석…AI와 인간 공존 논의
-https://www.etnews.com/20260409000111
+◾ 2026년 제1회 과기정통부 소관 추경 787억원 본회의 의결
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187136&searchOpt=ALL&searchTxt=
 
-◾ KAIST 이노코어 연구단, 노벨상 수상자와 ＇AI 단백질 설계＇ 성공
-https://www.etnews.com/20260409000106
+◾ 어려운 특허정보, 지능형 비서(AI Agent)와 함께라면 누구나 쉽게 활용할 수 있어요
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187128&searchOpt=ALL&searchTxt=
 
-◾ 콘진원, 서울대·KAIST·한예종과 AI 인재 양성 MOU 체결
-https://www.etnews.com/20260409000069
+◾ 인공지능 학습용데이터 보유 현황, 전 부처 대상 첫 전수조사 실시
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187129&searchOpt=ALL&searchTxt=
 
-◾ 국가AI전략위원회, ‘해커 울리는 AI시대를 연다’ 『동형암호 기반 LLM과 AI데이터 보호』 세미나 개최
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=505
+◾ GIST, NI와 AI 반도체 테스트 전문 인력 양성...‘GIST-Arm 스쿨’에 이어 ‘GIST-NI 스쿨’까지 확장
+https://www.aitimes.kr/news/articleView.html?idxno=39507
+
+◾ 함양군, 1.3조 원 규모 ‘AI 데이터센터’ 인허가 완료… 사업 본격화
+https://www.aitimes.com/news/articleView.html?idxno=209079
 
 [해외]
-◾ UAE G42, 美·이란전쟁에도 “오픈AI용 데이터센터 건설 이상無”
-https://www.etnews.com/20260409000382
+◾ 앤트로픽, 자체 AI 칩 개발 검토 중…“초기 단계”
+https://www.etnews.com/20260410000068
 
-◾ 메타, 초지능팀 첫 AI 모델 ＇뮤즈 스파크＇ 공개
-https://www.etnews.com/20260409000065
+◾ 오픈AI, 코덱스 수요 확대에 ＇챗GPT＇ 100달러 요금제 신설
+https://www.etnews.com/20260410000042
 
-◾ 영국 의약품·의료제품 규제청, ‘AI 에어락’ 확대…3년간 360만 파운드 투자
-https://www.aitimes.kr/news/articleView.html?idxno=39488
+◾ 유럽연합, ‘AI 대륙 액션플랜’ 1년…전통 산업에서 AI 혁신 엔진으로, 〃AI 팩토리 19곳·데이터 유니온 가동〃
+https://www.aitimes.kr/news/articleView.html?idxno=39509
 
-◾ 구글, 제미나이에 ＇노트북＇ 기능 탑재...＇노트북LM＇과 실시간 동기화
-https://www.aitimes.com/news/articleView.html?idxno=209014
+◾ 미·헝가리, AI·에너지·안보 ‘전략 동맹’ 격상…디지털·AI 협력 본격화
+https://www.aitimes.kr/news/articleView.html?idxno=39502
 
-◾ 앤트로픽, 폭발적 성장세에 지분 품귀… 직원들 〃IPO까지 안 팔아〃
-https://www.aitimes.com/news/articleView.html?idxno=209027
+◾ 아마존 앤디 재시 CEO, “AI는 아마존의 모든 것을 재정의한다”…전사 ‘AI 중심 체질 전환’ 가속
+https://www.aitimes.kr/news/articleView.html?idxno=39501
 
-◾ 미국 법원, 이번에는 국방부 손 들어줘...앤트로픽 ‘공급망 위험’ 지정 유지
-https://www.aitimes.com/news/articleView.html?idxno=209013
+◾ 알리바바, 새로운 AI 영상 모델로 ＇시댄스＇ 제치고 벤치마크 1위 등극
+https://www.aitimes.com/news/articleView.html?idxno=209093
+
+◾ 앤트로픽, ‘클로드 코워크’ 기능 강화하고 정식 서비스 시작
+https://www.aitimes.com/news/articleView.html?idxno=209104
+
+[기타]
+◾ “건물도 스스로 판단하고 움직인다”…중앙대 연구팀, ＇피지컬 AI 건축＇ 실증 성공
+https://www.etnews.com/20260410000225
+
+◾ [에듀플러스]고려대, AI로 고효율 에너지 변환 소재 초고속 발굴…개발 기간 수년에서 ＇단 몇 개월＇로 단축
+https://www.etnews.com/20260410000197
+
+◾ ETRI, ＇생성형 AI＇로 2D 영상 3D화...영화 기원 다룬 단편영화 제작
+https://www.etnews.com/20260410000078
 
 📚 간행물
-◾ CPO, 대중통신장비금지, 대만반도체 [AI·ICT Brief 2026-13호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260409-000004&cpage=1&rows=10&searchTarget=all
-
-◾ 2025년 가상증강현실(VR·AR)산업 실태조사 보고서
-https://www.nipa.kr/home/2-7-1-1/16702
+◾ 고품질 데이터의 요건과 국내외 기업 동향 및 시사점 [ICT SPOT ISSUE(2026-03호)]
+https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260410-000005&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
