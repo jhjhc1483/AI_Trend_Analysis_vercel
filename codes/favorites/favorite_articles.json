@@ -5,11 +5,6 @@
     "category": "기관"
   },
   {
-    "title": "최첨단 모델들이 ＇프리미어 리그＇에 베팅했더니...〃코딩은 잘하지만, 파산은 못 피해〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209118",
-    "category": "민간"
-  },
-  {
     "title": "〃작은 모델이 주도하고 대형 모델은 조언〃... 앤트로픽, 가성비 높인 ＇어드바이저＇ 전략 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209112",
     "category": "해외"
@@ -30,6 +25,11 @@
     "category": "해외"
   },
   {
+    "title": "스페이스X, xAI 합병으로 7.4조 손실 기록...〃우주에서 번 돈, AI에 투자〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209111",
+    "category": "해외"
+  },
+  {
     "title": "[피지컬 AI 2026] NC·리얼월드, 차세대 RFM·월드모델 전략 제시",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209102",
     "category": "민간"
@@ -42,11 +42,6 @@
   {
     "title": "[4월10일] 기대 끝에 등장한 메타의 새 모델...〃그래서 이걸로 무엇을 할 건데?〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209071",
-    "category": "해외"
-  },
-  {
-    "title": "구글이 ‘제미나이’에 ‘노트북LM’를 실시간 동기화한 이유",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209097",
     "category": "해외"
   }
 ]
