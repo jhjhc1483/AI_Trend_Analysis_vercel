@@ -2295,5 +2295,129 @@
         }
       ]
     }
+  },
+  "26.04.13": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "“기업 AI 교육, 2주 반짝 효과”…리터러시 캠페인 지속해야",
+          "link": "https://www.etnews.com/20260410000184",
+          "category": "민간"
+        },
+        {
+          "title": "삼성전기, 베트남에 ＇MLCC 임베디드 기판＇ 라인 신설…AI 시장 공세",
+          "link": "https://www.etnews.com/20260410000174",
+          "category": "민간"
+        },
+        {
+          "title": "AI 학습 필수재 ＇합성 데이터＇ 시장 뜬다…연평균 35% 성장",
+          "link": "https://www.etnews.com/20260410000179",
+          "category": "민간"
+        },
+        {
+          "title": "올리브영, AI 기반 배송 최적화 시스템 구축…물류 효율화 속도",
+          "link": "https://www.etnews.com/20260410000173",
+          "category": "민간"
+        },
+        {
+          "title": "마드라스체크, ＇AI 중심 협업툴＇ 앞세워 글로벌 시장 정조준",
+          "link": "https://www.etnews.com/20260410000162",
+          "category": "민간"
+        },
+        {
+          "title": "이정수 플리토 대표 “AI 데이터 해외 공급으로 ＇1000만 달러 수출＇ 목표”",
+          "link": "https://www.etnews.com/20260410000178",
+          "category": "민간"
+        },
+        {
+          "title": "[피지컬 AI 2026] 슈퍼브에이아이 “피지컬 AI OS ‘통합 관제’로 비즈니스 확장”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209130",
+          "category": "민간"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[ET시론]AI 전환 시대 새로운 상거래 질서:UNCITRAL 자동화 계약 모델법",
+          "link": "https://www.etnews.com/20260410000168",
+          "category": "기타"
+        }
+      ],
+      "기관": [
+        {
+          "title": "서울시, 인공지능 도시 청사진 그린다…＇AI 기본계획＇ 수립 착수",
+          "link": "https://www.etnews.com/20260410000172",
+          "category": "기관"
+        },
+        {
+          "title": "유가 폭등에 재생에너지가 해답?…KIET, “AI 전력난·비용 한계부터 풀어야”",
+          "link": "https://www.etnews.com/20260410000074",
+          "category": "기관"
+        },
+        {
+          "title": "불모지서 꽃피운 韓 시험인증…60돌 맞은 ＇KTL＇, AI 신뢰성 국제 표준 이끈다",
+          "link": "https://www.etnews.com/20260412000029",
+          "category": "기관"
+        },
+        {
+          "title": "GIST, ＇AI 반도체 설계-검증-평가＇ 트라이앵글 완성…Arm에 이어 NI와 MOU",
+          "link": "https://www.etnews.com/20260410000110",
+          "category": "기관"
+        },
+        {
+          "title": "연구개발특구 규제 유예제(규제샌드박스)로 동물복지․자원순환․첨단로봇 규제의 빗장을 푼다",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187135&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "기반 기술(딥테크) 창업·기술사업화의 전략 거점, 연구개발특구 - 「제5차 연구개발특구육성 종합계획(‘26~’30)」 수립 -",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187131&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "UNIST, 조선업 AI 전환 이끌 초거대 산업 AI 개발 본격화...403억원 규모, 조선업 AX 선도",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39515",
+          "category": "기관"
+        }
+      ],
+      "국방": [
+        {
+          "title": "노동부담 0으로 줄이고 업무능력 350% 높이고 '技막힌 물류' 승리를 보급하다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260413/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=hrKDbX2lxVvbfg-Late15k-vXKZrQD_GEntmAVqih3a1_wkDuzdl!-579096985",
+          "category": "국방"
+        }
+      ],
+      "해외": [
+        {
+          "title": "〃대형 모델은 조언자〃... 앤트로픽, 가성비 높인 ＇어드바이저＇ 전략 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209112",
+          "category": "해외"
+        },
+        {
+          "title": "일본, ＇반도체 자립＇ 위해 국가 주도 라피더스에 24조 투자",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209127",
+          "category": "해외"
+        },
+        {
+          "title": "딥시크, 내몽골 데이터센터에 엔지니어 모집...자체 시설 구축 나서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209126",
+          "category": "해외"
+        },
+        {
+          "title": "테슬라의 자율주행 FSD, 유럽 최초로 네덜란드 승인 받아",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209121",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, ＇클로드 포 워드＇ 출시… MS 오피스서 ＇코파일럿＇과 경쟁",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209123",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI 〃머스크의 전략 변화는 재판 혼란 노린 ＇교란 작전＇에 불과〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209122",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }

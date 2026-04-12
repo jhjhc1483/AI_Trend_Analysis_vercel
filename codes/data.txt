@@ -1,35 +1,76 @@
-📢26.04.12 AI 일일 동향📢
+📢26.04.13 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 노동부담 0으로 줄이고 업무능력 350% 높이고 '技막힌 물류' 승리를 보급하다
+https://kookbang.dema.mil.kr/newsWeb/20260413/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=hrKDbX2lxVvbfg-Late15k-vXKZrQD_GEntmAVqih3a1_wkDuzdl!-579096985
+
 [민간]
-◾ [피지컬 AI 2026] NC·리얼월드, 차세대 RFM·월드모델 전략 제시
-https://www.aitimes.com/news/articleView.html?idxno=209102
+◾ “기업 AI 교육, 2주 반짝 효과”…리터러시 캠페인 지속해야
+https://www.etnews.com/20260410000184
+
+◾ 삼성전기, 베트남에 ＇MLCC 임베디드 기판＇ 라인 신설…AI 시장 공세
+https://www.etnews.com/20260410000174
+
+◾ AI 학습 필수재 ＇합성 데이터＇ 시장 뜬다…연평균 35% 성장
+https://www.etnews.com/20260410000179
+
+◾ 올리브영, AI 기반 배송 최적화 시스템 구축…물류 효율화 속도
+https://www.etnews.com/20260410000173
+
+◾ 마드라스체크, ＇AI 중심 협업툴＇ 앞세워 글로벌 시장 정조준
+https://www.etnews.com/20260410000162
+
+◾ 이정수 플리토 대표 “AI 데이터 해외 공급으로 ＇1000만 달러 수출＇ 목표”
+https://www.etnews.com/20260410000178
+
+◾ [피지컬 AI 2026] 슈퍼브에이아이 “피지컬 AI OS ‘통합 관제’로 비즈니스 확장”
+https://www.aitimes.com/news/articleView.html?idxno=209130
 
 [기관]
-◾ 김병욱 성남시장 예비후보, 양자·AI 클러스터로 성남 미래산업 재편 시동
-https://www.etnews.com/20260411000017
+◾ 서울시, 인공지능 도시 청사진 그린다…＇AI 기본계획＇ 수립 착수
+https://www.etnews.com/20260410000172
+
+◾ 유가 폭등에 재생에너지가 해답?…KIET, “AI 전력난·비용 한계부터 풀어야”
+https://www.etnews.com/20260410000074
+
+◾ 불모지서 꽃피운 韓 시험인증…60돌 맞은 ＇KTL＇, AI 신뢰성 국제 표준 이끈다
+https://www.etnews.com/20260412000029
+
+◾ GIST, ＇AI 반도체 설계-검증-평가＇ 트라이앵글 완성…Arm에 이어 NI와 MOU
+https://www.etnews.com/20260410000110
+
+◾ 연구개발특구 규제 유예제(규제샌드박스)로 동물복지․자원순환․첨단로봇 규제의 빗장을 푼다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187135&searchOpt=ALL&searchTxt=
+
+◾ 기반 기술(딥테크) 창업·기술사업화의 전략 거점, 연구개발특구 - 「제5차 연구개발특구육성 종합계획(‘26~’30)」 수립 -
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187131&searchOpt=ALL&searchTxt=
+
+◾ UNIST, 조선업 AI 전환 이끌 초거대 산업 AI 개발 본격화...403억원 규모, 조선업 AX 선도
+https://www.aitimes.kr/news/articleView.html?idxno=39515
 
 [해외]
-◾ 〃작은 모델이 주도하고 대형 모델은 조언〃... 앤트로픽, 가성비 높인 ＇어드바이저＇ 전략 공개
+◾ 〃대형 모델은 조언자〃... 앤트로픽, 가성비 높인 ＇어드바이저＇ 전략 공개
 https://www.aitimes.com/news/articleView.html?idxno=209112
 
-◾ ＇제미나이＇에 인터랙티브 3D 모델·시뮬레이션 생성 기능 추가
-https://www.aitimes.com/news/articleView.html?idxno=209099
+◾ 일본, ＇반도체 자립＇ 위해 국가 주도 라피더스에 24조 투자
+https://www.aitimes.com/news/articleView.html?idxno=209127
 
-◾ 알리바바, 화제의 영상 모델 ＇해피호스＇ 개발 확인...AI 조직 개편 후 첫 성과
-https://www.aitimes.com/news/articleView.html?idxno=209109
+◾ 딥시크, 내몽골 데이터센터에 엔지니어 모집...자체 시설 구축 나서
+https://www.aitimes.com/news/articleView.html?idxno=209126
 
-◾ 텐센트, 로봇 파운데이션 모델 ‘HY-임바디드-0.5’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=209113
+◾ 테슬라의 자율주행 FSD, 유럽 최초로 네덜란드 승인 받아
+https://www.aitimes.com/news/articleView.html?idxno=209121
 
-◾ 스페이스X, xAI 합병으로 7.4조 손실 기록...〃우주에서 번 돈, AI에 투자〃
-https://www.aitimes.com/news/articleView.html?idxno=209111
+◾ 앤트로픽, ＇클로드 포 워드＇ 출시… MS 오피스서 ＇코파일럿＇과 경쟁
+https://www.aitimes.com/news/articleView.html?idxno=209123
 
-◾ 미국 정부, 월가 은행에 ＇미소스＇ 보안 테스트 촉구...앤트로픽과도 논의
-https://www.aitimes.com/news/articleView.html?idxno=209108
+◾ 오픈AI 〃머스크의 전략 변화는 재판 혼란 노린 ＇교란 작전＇에 불과〃
+https://www.aitimes.com/news/articleView.html?idxno=209122
 
-◾ [4월10일] 기대 끝에 등장한 메타의 새 모델...〃그래서 이걸로 무엇을 할 건데?〃
-https://www.aitimes.com/news/articleView.html?idxno=209071
+[기타]
+◾ [ET시론]AI 전환 시대 새로운 상거래 질서:UNCITRAL 자동화 계약 모델법
+https://www.etnews.com/20260410000168
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
