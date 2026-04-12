@@ -1,7 +1,7 @@
 📢26.04.13 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
+[육군]
 ◾ 노동부담 0으로 줄이고 업무능력 350% 높이고 '技막힌 물류' 승리를 보급하다
 https://kookbang.dema.mil.kr/newsWeb/20260413/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=hrKDbX2lxVvbfg-Late15k-vXKZrQD_GEntmAVqih3a1_wkDuzdl!-579096985
 
@@ -18,11 +18,11 @@ https://www.etnews.com/20260410000179
 ◾ 올리브영, AI 기반 배송 최적화 시스템 구축…물류 효율화 속도
 https://www.etnews.com/20260410000173
 
-◾ 마드라스체크, ＇AI 중심 협업툴＇ 앞세워 글로벌 시장 정조준
-https://www.etnews.com/20260410000162
+◾ AI 의료기기 허가 ＇연간 100개 시대＇…고난도 진료 파고든다
+https://www.etnews.com/20260410000195
 
-◾ 이정수 플리토 대표 “AI 데이터 해외 공급으로 ＇1000만 달러 수출＇ 목표”
-https://www.etnews.com/20260410000178
+◾ [피지컬 AI 2026] 스퀴즈비츠 “에이전트 ‘로부스트’로 데이터 지원”
+https://www.aitimes.com/news/articleView.html?idxno=209131
 
 ◾ [피지컬 AI 2026] 슈퍼브에이아이 “피지컬 AI OS ‘통합 관제’로 비즈니스 확장”
 https://www.aitimes.com/news/articleView.html?idxno=209130
@@ -31,8 +31,8 @@ https://www.aitimes.com/news/articleView.html?idxno=209130
 ◾ 서울시, 인공지능 도시 청사진 그린다…＇AI 기본계획＇ 수립 착수
 https://www.etnews.com/20260410000172
 
-◾ 유가 폭등에 재생에너지가 해답?…KIET, “AI 전력난·비용 한계부터 풀어야”
-https://www.etnews.com/20260410000074
+◾ 수공 ＇AI 정수장 운영기술＇ 베트남 첫 수출…“K-물테크 해외 상용화”
+https://www.etnews.com/20260412000034
 
 ◾ 불모지서 꽃피운 韓 시험인증…60돌 맞은 ＇KTL＇, AI 신뢰성 국제 표준 이끈다
 https://www.etnews.com/20260412000029
@@ -53,8 +53,14 @@ https://www.aitimes.kr/news/articleView.html?idxno=39515
 ◾ 〃대형 모델은 조언자〃... 앤트로픽, 가성비 높인 ＇어드바이저＇ 전략 공개
 https://www.aitimes.com/news/articleView.html?idxno=209112
 
+◾ 프랑스 정부, 윈도우 버리고 리눅스 도입 발표…〃디지털 주권 강화 차원〃
+https://www.aitimes.com/news/articleView.html?idxno=209119
+
 ◾ 일본, ＇반도체 자립＇ 위해 국가 주도 라피더스에 24조 투자
 https://www.aitimes.com/news/articleView.html?idxno=209127
+
+◾ 중국 셰어트로닉, 슈퍼마이크로 밀수한 AI 서버 문제로 주가 20% 폭락
+https://www.aitimes.com/news/articleView.html?idxno=209128
 
 ◾ 딥시크, 내몽골 데이터센터에 엔지니어 모집...자체 시설 구축 나서
 https://www.aitimes.com/news/articleView.html?idxno=209126
@@ -65,12 +71,12 @@ https://www.aitimes.com/news/articleView.html?idxno=209121
 ◾ 앤트로픽, ＇클로드 포 워드＇ 출시… MS 오피스서 ＇코파일럿＇과 경쟁
 https://www.aitimes.com/news/articleView.html?idxno=209123
 
-◾ 오픈AI 〃머스크의 전략 변화는 재판 혼란 노린 ＇교란 작전＇에 불과〃
-https://www.aitimes.com/news/articleView.html?idxno=209122
-
 [기타]
 ◾ [ET시론]AI 전환 시대 새로운 상거래 질서:UNCITRAL 자동화 계약 모델법
 https://www.etnews.com/20260410000168
+
+◾ 유가 폭등에 재생에너지가 해답?…KIET, “AI 전력난·비용 한계부터 풀어야”
+https://www.etnews.com/20260410000074
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
