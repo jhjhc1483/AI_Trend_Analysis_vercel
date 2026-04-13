@@ -2429,5 +2429,163 @@
         }
       ]
     }
+  },
+  "26.04.14": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "＇올해 첫 AI 상장＇ 마키나락스, 현장 중심 AX로 글로벌 기업 도전",
+          "link": "https://www.etnews.com/20260413000253",
+          "category": "민간"
+        },
+        {
+          "title": "김연수 한컴 대표 “AX 효과 수치화 중요…연내 규모 있는 M&A”",
+          "link": "https://www.etnews.com/20260413000181",
+          "category": "민간"
+        },
+        {
+          "title": "정의선 회장 “로보틱스·AI·수소 등 미래 성장 핵심축”…美에 260억달러 투자 재확인",
+          "link": "https://www.etnews.com/20260413000140",
+          "category": "민간"
+        },
+        {
+          "title": "“생성형 AI, 과학 연구를 재설계하다”… ‘엑사원 디스커버리’ 기반 특허가 여는 신약·신소재 혁신 시대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39540",
+          "category": "민간"
+        },
+        {
+          "title": "차량 내 AI 주행 경험 선도, 〃에이닷 품은 티맵〃...대화형 ‘모빌리티 AI’로 진화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39528",
+          "category": "민간"
+        },
+        {
+          "title": "엔비디아, ‘네모트론 디벨로퍼 데이즈 서울 2026’ 한국 첫 개최...소버린 AI 위한 네모트론 비전 공유",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39523",
+          "category": "민간"
+        },
+        {
+          "title": "이스트소프트, 실시간 AI 휴먼 서비스 ‘페르소 인터랙티브’ 동남아 거점 확보… 글로벌 확장에 속도 낼 것",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39521",
+          "category": "민간"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[2026 디지털 정책포럼] AI가 흔든 SW산업… “위기보다 전환 기회”",
+          "link": "https://www.etnews.com/20260413000209",
+          "category": "기타"
+        },
+        {
+          "title": "“비지도 한계 넘어선 차세대 시각 AI 기술 개발”...서울대 김경수 교수팀, 라벨링 없이 객체 경계 추출·81배 속도 향상",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39533",
+          "category": "기타"
+        }
+      ],
+      "기관": [
+        {
+          "title": "관세청, AX 전략 수립 착수…국경위험 대응, 기업지원 등 적용",
+          "link": "https://www.etnews.com/20260413000354",
+          "category": "기관"
+        },
+        {
+          "title": "KTR, NHN클라우드·업스테이지와 맞손… AI 생태계 ＇검증 인프라＇ 구축",
+          "link": "https://www.etnews.com/20260413000319",
+          "category": "기관"
+        },
+        {
+          "title": "천안시, ＇중부권 AI 산업 거점＇ 선포…AX 실증산단조성 등 4대 AX 전략 수립",
+          "link": "https://www.etnews.com/20260413000054",
+          "category": "기관"
+        },
+        {
+          "title": "“피지컬 AI, 일자리 대체 아닌 재편”…당정, ＇노동 공존 전략＇ 공론화",
+          "link": "https://www.etnews.com/20260413000272",
+          "category": "기관"
+        },
+        {
+          "title": "“한국형 AI 도시, 해외 6곳서 실증”…교통·재난·물관리 패키지 수출 시동",
+          "link": "https://www.etnews.com/20260413000091",
+          "category": "기관"
+        },
+        {
+          "title": "정부 그래픽 처리 장치(GPU) 확보·구축·운용지원 사업(2.08조 원 규모) 참여 사업자 공모 결과",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187145&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "뉴엔AI , 과기부-NIA의 ‘K-AI 리더보드’에서 1위 등극",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209186",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "괴물급 AI ＇미토스＇ 등장에…美 ·英 사이버 보안 대응 태세 강화",
+          "link": "https://www.etnews.com/20260413000299",
+          "category": "해외"
+        },
+        {
+          "title": "테슬라, 네덜란드서 감독형 완전자율주행 승인",
+          "link": "https://www.etnews.com/20260413000261",
+          "category": "해외"
+        },
+        {
+          "title": "애플, 2027년 첫 스마트 안경 나오나…“카메라 구조, 4가지 디자인 실험 중”",
+          "link": "https://www.etnews.com/20260413000170",
+          "category": "해외"
+        },
+        {
+          "title": "리퀴드 AI, ＇갤럭시 S25 울트라＇에서 작동하는 450M VLM 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209148",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바 ＇큐원＇, 전 세계 오픈소스 다운로드 50% 이상 차지...〃사실상 글로벌 표준〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209163",
+          "category": "해외"
+        },
+        {
+          "title": "미국 기업 앤트로픽 채택률 급증...오픈AI 5% 차로 추격",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209168",
+          "category": "해외"
+        },
+        {
+          "title": "유니트리 로봇, 10초 만에 100m 주파...우사인 볼트 속도에 근접",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209178",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "‘스마트 국방 물류혁신’ 이론·현장 경험 축적",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260414/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=DTOIpI1u6u6dFQLclUKFUIt6FHFtbLS4jbJZjOgyFNS4UHID0OXF!-970361443",
+          "category": "국방"
+        },
+        {
+          "title": "“미래 이끌 국방부 대표 창업 인재에 도전하세요”",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260414/13/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=DTOIpI1u6u6dFQLclUKFUIt6FHFtbLS4jbJZjOgyFNS4UHID0OXF!-970361443",
+          "category": "국방"
+        }
+      ],
+      "육군": [
+        {
+          "title": "AX 시대, 육군의 ‘다시 배우기’가 시작돼야 할 때",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260414/2/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=DTOIpI1u6u6dFQLclUKFUIt6FHFtbLS4jbJZjOgyFNS4UHID0OXF!-970361443",
+          "category": "육군"
+        },
+        {
+          "title": "인공지능, 육군 감찰의 새로운 ‘게임체인저’",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260414/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=DTOIpI1u6u6dFQLclUKFUIt6FHFtbLS4jbJZjOgyFNS4UHID0OXF!-970361443",
+          "category": "육군"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[제1285호] AI 생성물 표시 의무제 도입에 따른 방송미디어 산업의 주요 쟁점",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1285%ED%98%B8%5D%20AI%20%EC%83%9D%EC%84%B1%EB%AC%BC%20%ED%91%9C%EC%8B%9C%20%EC%9D%98%EB%AC%B4%EC%A0%9C%20%EB%8F%84%EC%9E%85%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%B0%A9%EC%86%A1%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%82%B0%EC%97%85%EC%9D%98%20%EC%A3%BC%EC%9A%94%20%EC%9F%81%EC%A0%90",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
