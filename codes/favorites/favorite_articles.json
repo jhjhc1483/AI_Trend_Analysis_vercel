@@ -1,5 +1,10 @@
 [
   {
+    "title": "코어라인소프트, 서울성심병원에 흉부 진단 플랫폼 ＇에이뷰 LCS 플러스＇ 공급…“다질환 동시 관리”",
+    "link": "https://www.etnews.com/20260413000400",
+    "category": "민간"
+  },
+  {
     "title": "＇올해 첫 AI 상장＇ 마키나락스, 현장 중심 AX로 글로벌 기업 도전",
     "link": "https://www.etnews.com/20260413000253",
     "category": "민간"
@@ -7,7 +12,7 @@
   {
     "title": "[2026 디지털 정책포럼] AI가 흔든 SW산업… “위기보다 전환 기회”",
     "link": "https://www.etnews.com/20260413000209",
-    "category": "기타"
+    "category": "기관"
   },
   {
     "title": "관세청, AX 전략 수립 착수…국경위험 대응, 기업지원 등 적용",
@@ -17,11 +22,6 @@
   {
     "title": "KTR, NHN클라우드·업스테이지와 맞손… AI 생태계 ＇검증 인프라＇ 구축",
     "link": "https://www.etnews.com/20260413000319",
-    "category": "기관"
-  },
-  {
-    "title": "천안시, ＇중부권 AI 산업 거점＇ 선포…AX 실증산단조성 등 4대 AX 전략 수립",
-    "link": "https://www.etnews.com/20260413000054",
     "category": "기관"
   },
   {
@@ -38,11 +38,6 @@
     "title": "테슬라, 네덜란드서 감독형 완전자율주행 승인",
     "link": "https://www.etnews.com/20260413000261",
     "category": "해외"
-  },
-  {
-    "title": "김연수 한컴 대표 “AX 효과 수치화 중요…연내 규모 있는 M&A”",
-    "link": "https://www.etnews.com/20260413000181",
-    "category": "민간"
   },
   {
     "title": "애플, 2027년 첫 스마트 안경 나오나…“카메라 구조, 4가지 디자인 실험 중”",
@@ -65,14 +60,19 @@
     "category": "기관"
   },
   {
+    "title": "대한민국 드론 공방전 예선 참가 21개 팀 선발",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48490&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
+  },
+  {
+    "title": "노동부담 0으로 줄이고 업무능력 350% 높이고 '技막힌 물류' 승리를 보급하다",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48503&startDate=&endDate=&id=mnd_020101000000",
+    "category": "육군"
+  },
+  {
     "title": "“생성형 AI, 과학 연구를 재설계하다”… ‘엑사원 디스커버리’ 기반 특허가 여는 신약·신소재 혁신 시대",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39540",
     "category": "민간"
-  },
-  {
-    "title": "“비지도 한계 넘어선 차세대 시각 AI 기술 개발”...서울대 김경수 교수팀, 라벨링 없이 객체 경계 추출·81배 속도 향상",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39533",
-    "category": "기타"
   },
   {
     "title": "차량 내 AI 주행 경험 선도, 〃에이닷 품은 티맵〃...대화형 ‘모빌리티 AI’로 진화",
@@ -82,21 +82,11 @@
   {
     "title": "엔비디아, ‘네모트론 디벨로퍼 데이즈 서울 2026’ 한국 첫 개최...소버린 AI 위한 네모트론 비전 공유",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39523",
-    "category": "민간"
-  },
-  {
-    "title": "이스트소프트, 실시간 AI 휴먼 서비스 ‘페르소 인터랙티브’ 동남아 거점 확보… 글로벌 확장에 속도 낼 것",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39521",
-    "category": "민간"
+    "category": "해외"
   },
   {
     "title": "‘스마트 국방 물류혁신’ 이론·현장 경험 축적",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260414/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=DTOIpI1u6u6dFQLclUKFUIt6FHFtbLS4jbJZjOgyFNS4UHID0OXF!-970361443",
-    "category": "국방"
-  },
-  {
-    "title": "“미래 이끌 국방부 대표 창업 인재에 도전하세요”",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260414/13/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=DTOIpI1u6u6dFQLclUKFUIt6FHFtbLS4jbJZjOgyFNS4UHID0OXF!-970361443",
     "category": "국방"
   },
   {
@@ -110,14 +100,9 @@
     "category": "육군"
   },
   {
-    "title": "리퀴드 AI, ＇갤럭시 S25 울트라＇에서 작동하는 450M VLM 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209148",
+    "title": "중국 뒤흔든 ＇동료 복제 AI＇...인간 능력을 AI ＇스킬＇로 추출",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209150",
     "category": "해외"
-  },
-  {
-    "title": "뉴엔AI , 과기부-NIA의 ‘K-AI 리더보드’에서 1위 등극",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209186",
-    "category": "기관"
   },
   {
     "title": "알리바바 ＇큐원＇, 전 세계 오픈소스 다운로드 50% 이상 차지...〃사실상 글로벌 표준〃",
@@ -125,13 +110,8 @@
     "category": "해외"
   },
   {
-    "title": "미국 기업 앤트로픽 채택률 급증...오픈AI 5% 차로 추격",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209168",
-    "category": "해외"
-  },
-  {
-    "title": "유니트리 로봇, 10초 만에 100m 주파...우사인 볼트 속도에 근접",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209178",
-    "category": "해외"
+    "title": "데이원컴퍼니 “피지컬 AI 교육 콘텐츠 확장…로보틱스 기업과 협력논의”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209187",
+    "category": "민간"
   }
 ]
