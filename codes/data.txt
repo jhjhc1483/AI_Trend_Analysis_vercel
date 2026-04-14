@@ -19,11 +19,17 @@ https://www.etnews.com/20260414000299
 ◾ 딥엑스, 2027년 2나노 AI칩 ＇DX-M2＇양산 로드맵 공개
 https://www.etnews.com/20260414000262
 
-◾ LG, 런던증권거래소그룹-키움증권과 ＇금융 AI 에이전트＇ 사업화 추진
-https://www.etnews.com/20260414000214
+◾ 한국형 AI 기지국 개발, 통신3사 주도 드림팀 출격
+https://www.etnews.com/20260414000236
 
-◾ 정의선 회장, “28년까지 제조 시설에 ‘아틀라스’ 배치, ‘30년까지 연간 최대 3만 대 아틀라스 생산”
-https://www.aitimes.kr/news/articleView.html?idxno=39557
+◾ 크라우드웍스, UNIST 컨소로 조선 특화 초거대 AI 개발 참여
+https://www.etnews.com/20260414000163
+
+◾ ‘AI가 분석은 물론 인사이트까지’...LG, 런던증권거래소그룹-키움증권과 ‘설명 가능한 AI 투자’ 서비스 국내 첫 출시 추진
+https://www.aitimes.kr/news/articleView.html?idxno=39546
+
+◾ KAIST-마이크로소프트연구소, AI ‘시간 오류’ 잡았다...믿고 쓰는 AI 시대 앞당긴다
+https://www.aitimes.kr/news/articleView.html?idxno=39544
 
 ◾ [피지컬 AI 2026] 베슬AI·베스핀글로벌 〃데이터·클라우드 성패 좌우〃
 https://www.aitimes.com/news/articleView.html?idxno=209133
@@ -34,6 +40,9 @@ https://www.etnews.com/20260414000440
 
 ◾ 국민성장펀드 50조원+@ 확대…＇소버린 AI＇로 첨단산업 재편
 https://www.etnews.com/20260414000061
+
+◾ 과기정통부, 세계적 인공지능 기업의 사이버보안 사업(프로젝트) 관련, 연속(릴레이) 현안 점검 회의 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187152&searchOpt=ALL&searchTxt=
 
 ◾ 대한민국, 세계 인공지능 3대 강국 향해 순항...스탠퍼드대 ＇AI 지수 2026＇서 AI 모델 수 3위, 인구 대비 AI 특허 수 2년 연속 세계 1위 기록
 https://www.aitimes.kr/news/articleView.html?idxno=39554
@@ -63,8 +72,18 @@ https://www.aitimes.com/news/articleView.html?idxno=209247
 ◾ 소프트뱅크, 일본 대기업들과 피지컬 AI 회사 설립...〃소버린 AI 목적〃
 https://www.aitimes.com/news/articleView.html?idxno=209224
 
+◾ 미니맥스, AI 에이전트용 명령줄 인터페이스 ‘MMX-CLI’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=209229
+
 ◾ 알트먼, 화염병 이어 자택에 총격 사건 발생
 https://www.aitimes.com/news/articleView.html?idxno=209206
+
+[기타]
+◾ [ET단상] AI 시대, 우리는 정말 멍청해지고 있는가
+https://www.etnews.com/20260414000049
+
+◾ AI 벤치마크 점수를 믿지 마라, 버클리 연구팀이 8개를 모두 뚫었다
+https://www.etnews.com/20260414000200
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

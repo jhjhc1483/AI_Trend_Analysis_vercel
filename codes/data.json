@@ -2568,6 +2568,25 @@
   },
   "26.04.15": {
     "categorized": {
+      "국방": [
+        {
+          "title": "마키나락스-LIG D&A, 국방 인공지능 협력...AI OS ‘런웨이’ 통해 국방 현장 특유의 폐쇄망·보안 환경 대응 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39549",
+          "category": "국방"
+        },
+        {
+          "title": "잠들어 있던 고대 군사사, AI로 되살아난다면…",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260415/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=wiKNyOVv_cKfyQuRVyISNOG9UKfGZ6KA3C-cR3mm7RbNdSNRWdko!-970361443",
+          "category": "국방"
+        }
+      ],
+      "육군": [
+        {
+          "title": "육군 4.0 주도할 미래 국방혁신 리더 키운다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260415/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=wiKNyOVv_cKfyQuRVyISNOG9UKfGZ6KA3C-cR3mm7RbNdSNRWdko!-970361443",
+          "category": "육군"
+        }
+      ],
       "기관": [
         {
           "title": "＇AIDC 특별법＇ 과방위 전체회의 통과…입법 논의 속도",
@@ -2577,6 +2596,11 @@
         {
           "title": "국민성장펀드 50조원+@ 확대…＇소버린 AI＇로 첨단산업 재편",
           "link": "https://www.etnews.com/20260414000061",
+          "category": "기관"
+        },
+        {
+          "title": "과기정통부, 세계적 인공지능 기업의 사이버보안 사업(프로젝트) 관련, 연속(릴레이) 현안 점검 회의 개최",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187152&searchOpt=ALL&searchTxt=",
           "category": "기관"
         },
         {
@@ -2612,13 +2636,23 @@
           "category": "민간"
         },
         {
-          "title": "LG, 런던증권거래소그룹-키움증권과 ＇금융 AI 에이전트＇ 사업화 추진",
-          "link": "https://www.etnews.com/20260414000214",
+          "title": "한국형 AI 기지국 개발, 통신3사 주도 드림팀 출격",
+          "link": "https://www.etnews.com/20260414000236",
           "category": "민간"
         },
         {
-          "title": "정의선 회장, “28년까지 제조 시설에 ‘아틀라스’ 배치, ‘30년까지 연간 최대 3만 대 아틀라스 생산”",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39557",
+          "title": "크라우드웍스, UNIST 컨소로 조선 특화 초거대 AI 개발 참여",
+          "link": "https://www.etnews.com/20260414000163",
+          "category": "민간"
+        },
+        {
+          "title": "‘AI가 분석은 물론 인사이트까지’...LG, 런던증권거래소그룹-키움증권과 ‘설명 가능한 AI 투자’ 서비스 국내 첫 출시 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39546",
+          "category": "민간"
+        },
+        {
+          "title": "KAIST-마이크로소프트연구소, AI ‘시간 오류’ 잡았다...믿고 쓰는 AI 시대 앞당긴다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39544",
           "category": "민간"
         },
         {
@@ -2654,28 +2688,26 @@
           "category": "해외"
         },
         {
+          "title": "미니맥스, AI 에이전트용 명령줄 인터페이스 ‘MMX-CLI’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209229",
+          "category": "해외"
+        },
+        {
           "title": "알트먼, 화염병 이어 자택에 총격 사건 발생",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209206",
           "category": "해외"
         }
       ],
-      "국방": [
+      "기타": [
         {
-          "title": "마키나락스-LIG D&A, 국방 인공지능 협력...AI OS ‘런웨이’ 통해 국방 현장 특유의 폐쇄망·보안 환경 대응 가속",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39549",
-          "category": "국방"
+          "title": "[ET단상] AI 시대, 우리는 정말 멍청해지고 있는가",
+          "link": "https://www.etnews.com/20260414000049",
+          "category": "기타"
         },
         {
-          "title": "잠들어 있던 고대 군사사, AI로 되살아난다면…",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20260415/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=wiKNyOVv_cKfyQuRVyISNOG9UKfGZ6KA3C-cR3mm7RbNdSNRWdko!-970361443",
-          "category": "국방"
-        }
-      ],
-      "육군": [
-        {
-          "title": "육군 4.0 주도할 미래 국방혁신 리더 키운다",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20260415/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=wiKNyOVv_cKfyQuRVyISNOG9UKfGZ6KA3C-cR3mm7RbNdSNRWdko!-970361443",
-          "category": "육군"
+          "title": "AI 벤치마크 점수를 믿지 마라, 버클리 연구팀이 8개를 모두 뚫었다",
+          "link": "https://www.etnews.com/20260414000200",
+          "category": "기타"
         }
       ]
     }

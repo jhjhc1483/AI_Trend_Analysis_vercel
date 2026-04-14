@@ -1,68 +1,8 @@
 [
   {
-    "title": "＇AIDC 특별법＇ 과방위 전체회의 통과…입법 논의 속도",
-    "link": "https://www.etnews.com/20260414000440",
-    "category": "기관"
-  },
-  {
-    "title": "LG, 차세대 ＇AI 스마트글래스＇ 만든다",
-    "link": "https://www.etnews.com/20260414000299",
-    "category": "민간"
-  },
-  {
-    "title": "국민성장펀드 50조원+@ 확대…＇소버린 AI＇로 첨단산업 재편",
-    "link": "https://www.etnews.com/20260414000061",
-    "category": "기관"
-  },
-  {
-    "title": "딥엑스, 2027년 2나노 AI칩 ＇DX-M2＇양산 로드맵 공개",
-    "link": "https://www.etnews.com/20260414000262",
-    "category": "민간"
-  },
-  {
-    "title": "LG, 런던증권거래소그룹-키움증권과 ＇금융 AI 에이전트＇ 사업화 추진",
-    "link": "https://www.etnews.com/20260414000214",
-    "category": "민간"
-  },
-  {
-    "title": "스탠퍼드 HAI, ‘AI 인덱스 2026’...〃생성형 AI, 이제 기술이 아니라 지배 인프라”, 산업·과학·국가 시스템까지 재편",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39542",
-    "category": "해외"
-  },
-  {
-    "title": "영국, AI로 법정 기록 자동화 추진…“피해자 사법 접근성 획기적 개선”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39558",
-    "category": "해외"
-  },
-  {
-    "title": "정의선 회장, “28년까지 제조 시설에 ‘아틀라스’ 배치, ‘30년까지 연간 최대 3만 대 아틀라스 생산”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39557",
-    "category": "민간"
-  },
-  {
-    "title": "대한민국, 세계 인공지능 3대 강국 향해 순항...스탠퍼드대 ＇AI 지수 2026＇서 AI 모델 수 3위, 인구 대비 AI 특허 수 2년 연속 세계 1위 기록",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39554",
-    "category": "기관"
-  },
-  {
-    "title": "정부, 2.08조 GPU 인프라 사업 본격화…AI ‘고속도로’ 구축 시동, 5개 사업자 제안 접수",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39553",
-    "category": "기관"
-  },
-  {
     "title": "마키나락스-LIG D&A, 국방 인공지능 협력...AI OS ‘런웨이’ 통해 국방 현장 특유의 폐쇄망·보안 환경 대응 가속",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39549",
     "category": "국방"
-  },
-  {
-    "title": "＇AI 국회＇ 공식 오픈... 삼성SDS, ＇국회AI의정지원플랫폼＇으로 지능형 의정지원 체계 구현",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39545",
-    "category": "기관"
-  },
-  {
-    "title": "[국가AI전략위] 대한민국 인공지능 행동계획",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=523",
-    "category": "기관"
   },
   {
     "title": "잠들어 있던 고대 군사사, AI로 되살아난다면…",
@@ -75,9 +15,84 @@
     "category": "육군"
   },
   {
+    "title": "＇AIDC 특별법＇ 과방위 전체회의 통과…입법 논의 속도",
+    "link": "https://www.etnews.com/20260414000440",
+    "category": "기관"
+  },
+  {
+    "title": "국민성장펀드 50조원+@ 확대…＇소버린 AI＇로 첨단산업 재편",
+    "link": "https://www.etnews.com/20260414000061",
+    "category": "기관"
+  },
+  {
+    "title": "과기정통부, 세계적 인공지능 기업의 사이버보안 사업(프로젝트) 관련, 연속(릴레이) 현안 점검 회의 개최",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187152&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "대한민국, 세계 인공지능 3대 강국 향해 순항...스탠퍼드대 ＇AI 지수 2026＇서 AI 모델 수 3위, 인구 대비 AI 특허 수 2년 연속 세계 1위 기록",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39554",
+    "category": "기관"
+  },
+  {
+    "title": "정부, 2.08조 GPU 인프라 사업 본격화…AI ‘고속도로’ 구축 시동, 5개 사업자 제안 접수",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39553",
+    "category": "기관"
+  },
+  {
+    "title": "＇AI 국회＇ 공식 오픈... 삼성SDS, ＇국회AI의정지원플랫폼＇으로 지능형 의정지원 체계 구현",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39545",
+    "category": "기관"
+  },
+  {
+    "title": "[국가AI전략위] 대한민국 인공지능 행동계획",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=523",
+    "category": "기관"
+  },
+  {
+    "title": "LG, 차세대 ＇AI 스마트글래스＇ 만든다",
+    "link": "https://www.etnews.com/20260414000299",
+    "category": "민간"
+  },
+  {
+    "title": "딥엑스, 2027년 2나노 AI칩 ＇DX-M2＇양산 로드맵 공개",
+    "link": "https://www.etnews.com/20260414000262",
+    "category": "민간"
+  },
+  {
+    "title": "한국형 AI 기지국 개발, 통신3사 주도 드림팀 출격",
+    "link": "https://www.etnews.com/20260414000236",
+    "category": "민간"
+  },
+  {
+    "title": "크라우드웍스, UNIST 컨소로 조선 특화 초거대 AI 개발 참여",
+    "link": "https://www.etnews.com/20260414000163",
+    "category": "민간"
+  },
+  {
+    "title": "‘AI가 분석은 물론 인사이트까지’...LG, 런던증권거래소그룹-키움증권과 ‘설명 가능한 AI 투자’ 서비스 국내 첫 출시 추진",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39546",
+    "category": "민간"
+  },
+  {
+    "title": "KAIST-마이크로소프트연구소, AI ‘시간 오류’ 잡았다...믿고 쓰는 AI 시대 앞당긴다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39544",
+    "category": "민간"
+  },
+  {
     "title": "[피지컬 AI 2026] 베슬AI·베스핀글로벌 〃데이터·클라우드 성패 좌우〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209133",
     "category": "민간"
+  },
+  {
+    "title": "스탠퍼드 HAI, ‘AI 인덱스 2026’...〃생성형 AI, 이제 기술이 아니라 지배 인프라”, 산업·과학·국가 시스템까지 재편",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39542",
+    "category": "해외"
+  },
+  {
+    "title": "영국, AI로 법정 기록 자동화 추진…“피해자 사법 접근성 획기적 개선”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39558",
+    "category": "해외"
   },
   {
     "title": "메타, 저커버그 대신할 ＇AI 페르소나＇ 개발 중",
@@ -95,8 +110,23 @@
     "category": "해외"
   },
   {
+    "title": "미니맥스, AI 에이전트용 명령줄 인터페이스 ‘MMX-CLI’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209229",
+    "category": "해외"
+  },
+  {
     "title": "알트먼, 화염병 이어 자택에 총격 사건 발생",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209206",
     "category": "해외"
+  },
+  {
+    "title": "[ET단상] AI 시대, 우리는 정말 멍청해지고 있는가",
+    "link": "https://www.etnews.com/20260414000049",
+    "category": "기타"
+  },
+  {
+    "title": "AI 벤치마크 점수를 믿지 마라, 버클리 연구팀이 8개를 모두 뚫었다",
+    "link": "https://www.etnews.com/20260414000200",
+    "category": "기타"
   }
 ]
