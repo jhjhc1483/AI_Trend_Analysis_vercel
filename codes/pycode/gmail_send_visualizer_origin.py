@@ -96,7 +96,7 @@ def send_email():
             print(f"수신자 파일 읽기 오류: {e}. 기본 수신자를 사용합니다.")
 
     try:
-        # 1. 정보 및 데이터 준비
+        # 1. 이메일 메시지 구성
         url = "https://ai-trend-analysis.vercel.app/visualizer.html"
         
         # KST 시간으로 오늘 날짜 가져오기
@@ -104,6 +104,11 @@ def send_email():
         date_str = now_kst.strftime("%Y년 %m월 %d일")
         subject = f"{date_str} AI 동향 브리핑"
         
+        msg = MIMEMultipart('mixed')
+        msg['From'] = sender_email
+        msg['To'] = ", ".join(receivers)
+        msg['Subject'] = subject
+
         # 2. 데이터 파일 읽기
         report_text = "일일 동향 데이터를 읽을 수 없습니다."
         if os.path.exists(file_path):
@@ -131,34 +136,25 @@ def send_email():
         </html>
         """
 
-        # 3. SMTP 서버 연결
-        print("SMTP 서버에 연결 중...")
+
+        # Alternative 파트로 HTML 카드와 기본 텍스트 요약 묶기
+        msg_alt = MIMEMultipart('alternative')
+        msg_alt.attach(MIMEText(text_body, 'plain'))
+        msg_alt.attach(MIMEText(html_body, 'html'))
+        msg.attach(msg_alt)
+
+        # HTML '밖'에 data.txt 원본 내용을 평문으로 추가
+        msg.attach(MIMEText(f"\n----------------\n[상세 내용]\n{report_text}", 'plain'))
+
+        # 3. SMTP 서버 연결 및 이메일 전송
+        print(f"SMTP 서버에 연결 중... (수신자: {msg['To']})")
         server = smtplib.SMTP('smtp.gmail.com', 587)
         server.starttls() # TLS 보안 연결 시작
         
         server.login(sender_email, app_password) # 로그인
-
-        # 4. 각 수신자별로 개별 메일 생성 및 전송
-        print(f"총 {len(receivers)}명의 수신자에게 메일을 발송합니다...")
-        for receiver in receivers:
-            msg = MIMEMultipart('mixed')
-            msg['From'] = sender_email
-            msg['To'] = receiver
-            msg['Subject'] = subject
-
-            # Alternative 파트로 HTML 카드와 기본 텍스트 요약 묶기
-            msg_alt = MIMEMultipart('alternative')
-            msg_alt.attach(MIMEText(text_body, 'plain'))
-            msg_alt.attach(MIMEText(html_body, 'html'))
-            msg.attach(msg_alt)
-
-            # HTML '밖'에 data.txt 원본 내용을 평문으로 추가
-            msg.attach(MIMEText(f"\n----------------\n[상세 내용]\n{report_text}", 'plain'))
-
-            server.send_message(msg)                 # 개별 메일 전송
-            print(f" -> 발송 완료: {receiver}")
+        server.send_message(msg)                 # 메일 전송
         
-        print("모든 이메일 전송이 성공적으로 완료되었습니다!")
+        print("이메일 전송이 성공적으로 완료되었습니다!")
 
     except FileNotFoundError:
         print(f"오류: '{file_path}' 경로에서 파일을 찾을 수 없습니다.")
