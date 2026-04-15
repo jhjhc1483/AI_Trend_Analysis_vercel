@@ -2714,135 +2714,15 @@
   },
   "26.04.16": {
     "categorized": {
-      "민간": [
-        {
-          "title": "IT 리더 - AI의 다음 단계, 공간지능 만드는 ＇월드 랩스＇",
-          "link": "https://www.etnews.com/20260406000374",
-          "category": "민간"
-        },
-        {
-          "title": "서울대병원, 의사국시 96점 받은 의료AI 에이전트 ＇케이메드＇ 도입…GPU 부족은 한계",
-          "link": "https://www.etnews.com/20260415000191",
-          "category": "민간"
-        },
-        {
-          "title": "삼성전자, TV 전 라인업 AI 탑재…“일상 동반자” 선언",
-          "link": "https://www.etnews.com/20260415000256",
-          "category": "민간"
-        },
-        {
-          "title": "리벨리온 ＇3조원 유니콘＇ 도약…모태펀드 초기 모험자본 역할 주목",
-          "link": "https://www.etnews.com/20260415000203",
-          "category": "민간"
-        },
-        {
-          "title": "삼성SDS, KKR서 1.2조 수혈… 7.6조 실탄으로 ＇글로벌 AI 승부수＇",
-          "link": "https://www.etnews.com/20260415000069",
-          "category": "민간"
-        },
-        {
-          "title": "“국산 기술로 AI 인프라 구축부터 GPU 활용까지 고도화”...엘리스그룹, K-PMDC 기반의 AI 풀스택 전략 공개",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39570",
-          "category": "민간"
-        },
-        {
-          "title": "업스테이지, 1,800억 투자 유치…창업 5년 7개월 만에 국내 생성형 AI 첫 ‘유니콘’ 등극",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39563",
-          "category": "민간"
-        }
-      ],
-      "기관": [
-        {
-          "title": "미토스發 사이버 안보 비상…정부부처, 전방위 긴급점검",
-          "link": "https://www.etnews.com/20260415000459",
-          "category": "기관"
-        },
-        {
-          "title": "[보도그후] 금융당국, AI 모델 변경 ＇심사 간소화＇",
-          "link": "https://www.etnews.com/20260415000420",
-          "category": "기관"
-        },
-        {
-          "title": "교육부, AI·지역인재 양성 본격화…거점국립대 3곳 ＇집중 지원＇",
-          "link": "https://www.etnews.com/20260415000319",
-          "category": "기관"
-        },
-        {
-          "title": "코딩 몰라도 AI 도구 만드는 공무원, 정부가 뒷받침한다",
-          "link": "https://www.etnews.com/20260415000041",
-          "category": "기관"
-        },
-        {
-          "title": "[보도참고] 국민 성장 기금(국민 성장 펀드), 네이버에 인공지능 데이터센터, 그래픽 처리 장치(GPU) 도입 자금 4,000억 원 저리 대출 승인",
-          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187163&searchOpt=ALL&searchTxt=",
-          "category": "기관"
-        },
-        {
-          "title": "과기정통부, ‘AI 3대 강국(G3)’ 도약을 위한 ICT 연구개발 기획‧관리의 진용을 갖춘다.",
-          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187157&searchOpt=ALL&searchTxt=",
-          "category": "기관"
-        },
-        {
-          "title": "국가AI전략위, 전북서 ‘피지컬AI’ 혁신 거점 조성 점검",
-          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=528",
-          "category": "기관"
-        }
-      ],
-      "기타": [
-        {
-          "title": "[ET단상] AI시대, SW개발 코딩 종말론을 넘어 ＇AI융합 개발자＇로",
-          "link": "https://www.etnews.com/20260415000056",
-          "category": "기타"
-        },
-        {
-          "title": "왜 글로벌 기업은 로봇에 사활을 거는가",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20260416/3/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=O56S-Qr9PHlatz1KbJhPgeBOvL2FU8UkPuECuH6N2KOeMjL-b_qk!-579096985",
-          "category": "기타"
-        }
-      ],
-      "육군": [
-        {
-          "title": "[에듀플러스]광운대, 육군사관학교와 국방·첨단과학기술 분야 전문인재 양성 및 공동 연구 협력 위한 MOU 체결",
-          "link": "https://www.etnews.com/20260415000303",
-          "category": "육군"
-        },
-        {
-          "title": "육군 4.0 주도할 미래 국방혁신 리더 키운다",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48520&startDate=&endDate=&id=mnd_020101000000",
-          "category": "육군"
-        }
-      ],
-      "국방": [
-        {
-          "title": "미래 방공작전 변화 대응…한미 대드론 협력 강화",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48516&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        },
-        {
-          "title": "잠들어 있던 고대 군사사, AI로 되살아난다면…",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48522&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        },
-        {
-          "title": "“우주통신 핵심 수요군으로 산·학·연 협력체계 강화”",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48523&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        },
-        {
-          "title": "해병대·KIST 손잡고 미래 전장 최적화 무기 연구",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48528&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        }
-      ],
       "해외": [
         {
-          "title": "무인기로 달라진 전쟁 양상…호주군, 드론에 5조 원대 투자",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20260416/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=O56S-Qr9PHlatz1KbJhPgeBOvL2FU8UkPuECuH6N2KOeMjL-b_qk!-579096985",
+          "title": "“퇴사한 내가 계속 일하는 중?”…中 기업, 퇴사자 데이터 학습 ＇AI 복제 직원＇ 논란",
+          "link": "https://www.etnews.com/20260414000419",
           "category": "해외"
         },
         {
-          "title": "스탠포드, 국내 AI 도입률·정책 최상위 평가...투자·인재·인프라는 미흡",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=209249",
+          "title": "보스턴다이내믹스 ＇스팟＇ 제미나이 탑재…생각하는 로봇으로 진화",
+          "link": "https://www.etnews.com/20260415000150",
           "category": "해외"
         },
         {
@@ -2866,9 +2746,112 @@
           "category": "해외"
         },
         {
-          "title": "메타, 브로드컴과 1GW 규모 맞춤형 자체 칩 설계 계약",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=209302",
+          "title": "엔비디아, 음성·소리·음악 통합 이해 가능한 ‘오디오 플라밍고 넥스트’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209288",
           "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[이슈플러스] ＇꿈의 보안 기술＇ 동형암호, 美 대규모 R&D…韓, 실수 연산 알고리즘 ＇CKKS＇ 선도",
+          "link": "https://www.etnews.com/20260415000414",
+          "category": "민간"
+        },
+        {
+          "title": "[뉴스줌인] ＇TV를 AI 허브로＇…삼성전자 전략 전면 재편",
+          "link": "https://www.etnews.com/20260415000281",
+          "category": "민간"
+        },
+        {
+          "title": "리벨리온 ＇3조원 유니콘＇ 도약…모태펀드 초기 모험자본 역할 주목",
+          "link": "https://www.etnews.com/20260415000203",
+          "category": "민간"
+        },
+        {
+          "title": "삼성SDS, KKR서 1.2조 수혈… 7.6조 실탄으로 ＇글로벌 AI 승부수＇",
+          "link": "https://www.etnews.com/20260415000069",
+          "category": "민간"
+        },
+        {
+          "title": "“국산 기술로 AI 인프라 구축부터 GPU 활용까지 고도화”...엘리스그룹, K-PMDC 기반의 AI 풀스택 전략 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39570",
+          "category": "민간"
+        },
+        {
+          "title": "업스테이지, 1,800억 투자 유치…창업 5년 7개월 만에 국내 생성형 AI 첫 ‘유니콘’ 등극",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39563",
+          "category": "민간"
+        },
+        {
+          "title": "파수AI “보안 문제 해결한 AX로 국내 넘어 미국·유럽 시장 조준”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209308",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "김성환 기후부 장관 “디지털트윈, 홍수대응 첫 투입…AI 접목, 피해 최소화”",
+          "link": "https://www.etnews.com/20260415000261",
+          "category": "기관"
+        },
+        {
+          "title": "NIPA, 국무조정실과 손잡고 ＇AX 가속화를 위한 SW 발주기술지원＇ MOU",
+          "link": "https://www.etnews.com/20260415000243",
+          "category": "기관"
+        },
+        {
+          "title": "세종시, AI 활용 행정·도시 혁신…첫 경진대회 개최",
+          "link": "https://www.etnews.com/20260415000158",
+          "category": "기관"
+        },
+        {
+          "title": "[보도참고] 국민 성장 기금(국민 성장 펀드), 네이버에 인공지능 데이터센터, 그래픽 처리 장치(GPU) 도입 자금 4,000억 원 저리 대출 승인",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187163&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "과기정통부, ‘AI 3대 강국(G3)’ 도약을 위한 ICT 연구개발 기획‧관리의 진용을 갖춘다.",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187157&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "국가AI전략위, 전북서 ‘피지컬AI’ 혁신 거점 조성 점검",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=528",
+          "category": "기관"
+        },
+        {
+          "title": "스탠포드, 국내 AI 도입률·정책 최상위 평가...투자·인재·인프라는 미흡",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209249",
+          "category": "기관"
+        }
+      ],
+      "육군": [
+        {
+          "title": "[에듀플러스]광운대, 육군사관학교와 국방·첨단과학기술 분야 전문인재 양성 및 공동 연구 협력 위한 MOU 체결",
+          "link": "https://www.etnews.com/20260415000303",
+          "category": "육군"
+        },
+        {
+          "title": "육군 4.0 주도할 미래 국방혁신 리더 키운다",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48520&startDate=&endDate=&id=mnd_020101000000",
+          "category": "육군"
+        },
+        {
+          "title": "‘미래 장교 양성체계 혁신’ 국회·군·학계 머리 맞댔다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260416/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=O56S-Qr9PHlatz1KbJhPgeBOvL2FU8UkPuECuH6N2KOeMjL-b_qk!-579096985",
+          "category": "육군"
+        }
+      ],
+      "국방": [
+        {
+          "title": "잠들어 있던 고대 군사사, AI로 되살아난다면…",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48522&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "해병대·KIST 손잡고 미래 전장 최적화 무기 연구",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48528&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
         }
       ]
     }
