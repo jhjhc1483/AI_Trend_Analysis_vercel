@@ -1,89 +1,98 @@
-📢26.04.15 AI 일일 동향📢
+📢26.04.16 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 마키나락스-LIG D&A, 국방 인공지능 협력...AI OS ‘런웨이’ 통해 국방 현장 특유의 폐쇄망·보안 환경 대응 가속
-https://www.aitimes.kr/news/articleView.html?idxno=39549
+◾ 미래 방공작전 변화 대응…한미 대드론 협력 강화
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48516&startDate=&endDate=&id=mnd_020101000000
 
 ◾ 잠들어 있던 고대 군사사, AI로 되살아난다면…
-https://kookbang.dema.mil.kr/newsWeb/20260415/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=wiKNyOVv_cKfyQuRVyISNOG9UKfGZ6KA3C-cR3mm7RbNdSNRWdko!-970361443
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48522&startDate=&endDate=&id=mnd_020101000000
+
+◾ “우주통신 핵심 수요군으로 산·학·연 협력체계 강화”
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48523&startDate=&endDate=&id=mnd_020101000000
+
+◾ 해병대·KIST 손잡고 미래 전장 최적화 무기 연구
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48528&startDate=&endDate=&id=mnd_020101000000
 
 [육군]
+◾ [에듀플러스]광운대, 육군사관학교와 국방·첨단과학기술 분야 전문인재 양성 및 공동 연구 협력 위한 MOU 체결
+https://www.etnews.com/20260415000303
+
 ◾ 육군 4.0 주도할 미래 국방혁신 리더 키운다
-https://kookbang.dema.mil.kr/newsWeb/20260415/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=wiKNyOVv_cKfyQuRVyISNOG9UKfGZ6KA3C-cR3mm7RbNdSNRWdko!-970361443
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48520&startDate=&endDate=&id=mnd_020101000000
 
 [민간]
-◾ LG, 차세대 ＇AI 스마트글래스＇ 만든다
-https://www.etnews.com/20260414000299
+◾ IT 리더 - AI의 다음 단계, 공간지능 만드는 ＇월드 랩스＇
+https://www.etnews.com/20260406000374
 
-◾ 딥엑스, 2027년 2나노 AI칩 ＇DX-M2＇양산 로드맵 공개
-https://www.etnews.com/20260414000262
+◾ 서울대병원, 의사국시 96점 받은 의료AI 에이전트 ＇케이메드＇ 도입…GPU 부족은 한계
+https://www.etnews.com/20260415000191
 
-◾ 한국형 AI 기지국 개발, 통신3사 주도 드림팀 출격
-https://www.etnews.com/20260414000236
+◾ 삼성전자, TV 전 라인업 AI 탑재…“일상 동반자” 선언
+https://www.etnews.com/20260415000256
 
-◾ 크라우드웍스, UNIST 컨소로 조선 특화 초거대 AI 개발 참여
-https://www.etnews.com/20260414000163
+◾ 리벨리온 ＇3조원 유니콘＇ 도약…모태펀드 초기 모험자본 역할 주목
+https://www.etnews.com/20260415000203
 
-◾ ‘AI가 분석은 물론 인사이트까지’...LG, 런던증권거래소그룹-키움증권과 ‘설명 가능한 AI 투자’ 서비스 국내 첫 출시 추진
-https://www.aitimes.kr/news/articleView.html?idxno=39546
+◾ 삼성SDS, KKR서 1.2조 수혈… 7.6조 실탄으로 ＇글로벌 AI 승부수＇
+https://www.etnews.com/20260415000069
 
-◾ KAIST-마이크로소프트연구소, AI ‘시간 오류’ 잡았다...믿고 쓰는 AI 시대 앞당긴다
-https://www.aitimes.kr/news/articleView.html?idxno=39544
+◾ “국산 기술로 AI 인프라 구축부터 GPU 활용까지 고도화”...엘리스그룹, K-PMDC 기반의 AI 풀스택 전략 공개
+https://www.aitimes.kr/news/articleView.html?idxno=39570
 
-◾ [피지컬 AI 2026] 베슬AI·베스핀글로벌 〃데이터·클라우드 성패 좌우〃
-https://www.aitimes.com/news/articleView.html?idxno=209133
+◾ 업스테이지, 1,800억 투자 유치…창업 5년 7개월 만에 국내 생성형 AI 첫 ‘유니콘’ 등극
+https://www.aitimes.kr/news/articleView.html?idxno=39563
 
 [기관]
-◾ ＇AIDC 특별법＇ 과방위 전체회의 통과…입법 논의 속도
-https://www.etnews.com/20260414000440
+◾ 미토스發 사이버 안보 비상…정부부처, 전방위 긴급점검
+https://www.etnews.com/20260415000459
 
-◾ 국민성장펀드 50조원+@ 확대…＇소버린 AI＇로 첨단산업 재편
-https://www.etnews.com/20260414000061
+◾ [보도그후] 금융당국, AI 모델 변경 ＇심사 간소화＇
+https://www.etnews.com/20260415000420
 
-◾ 과기정통부, 세계적 인공지능 기업의 사이버보안 사업(프로젝트) 관련, 연속(릴레이) 현안 점검 회의 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187152&searchOpt=ALL&searchTxt=
+◾ 교육부, AI·지역인재 양성 본격화…거점국립대 3곳 ＇집중 지원＇
+https://www.etnews.com/20260415000319
 
-◾ 대한민국, 세계 인공지능 3대 강국 향해 순항...스탠퍼드대 ＇AI 지수 2026＇서 AI 모델 수 3위, 인구 대비 AI 특허 수 2년 연속 세계 1위 기록
-https://www.aitimes.kr/news/articleView.html?idxno=39554
+◾ 코딩 몰라도 AI 도구 만드는 공무원, 정부가 뒷받침한다
+https://www.etnews.com/20260415000041
 
-◾ 정부, 2.08조 GPU 인프라 사업 본격화…AI ‘고속도로’ 구축 시동, 5개 사업자 제안 접수
-https://www.aitimes.kr/news/articleView.html?idxno=39553
+◾ [보도참고] 국민 성장 기금(국민 성장 펀드), 네이버에 인공지능 데이터센터, 그래픽 처리 장치(GPU) 도입 자금 4,000억 원 저리 대출 승인
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187163&searchOpt=ALL&searchTxt=
 
-◾ ＇AI 국회＇ 공식 오픈... 삼성SDS, ＇국회AI의정지원플랫폼＇으로 지능형 의정지원 체계 구현
-https://www.aitimes.kr/news/articleView.html?idxno=39545
+◾ 과기정통부, ‘AI 3대 강국(G3)’ 도약을 위한 ICT 연구개발 기획‧관리의 진용을 갖춘다.
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187157&searchOpt=ALL&searchTxt=
 
-◾ [국가AI전략위] 대한민국 인공지능 행동계획
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=523
+◾ 국가AI전략위, 전북서 ‘피지컬AI’ 혁신 거점 조성 점검
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=528
 
 [해외]
-◾ 스탠퍼드 HAI, ‘AI 인덱스 2026’...〃생성형 AI, 이제 기술이 아니라 지배 인프라”, 산업·과학·국가 시스템까지 재편
-https://www.aitimes.kr/news/articleView.html?idxno=39542
+◾ 무인기로 달라진 전쟁 양상…호주군, 드론에 5조 원대 투자
+https://kookbang.dema.mil.kr/newsWeb/20260416/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=O56S-Qr9PHlatz1KbJhPgeBOvL2FU8UkPuECuH6N2KOeMjL-b_qk!-579096985
 
-◾ 영국, AI로 법정 기록 자동화 추진…“피해자 사법 접근성 획기적 개선”
-https://www.aitimes.kr/news/articleView.html?idxno=39558
+◾ 스탠포드, 국내 AI 도입률·정책 최상위 평가...투자·인재·인프라는 미흡
+https://www.aitimes.com/news/articleView.html?idxno=209249
 
-◾ 메타, 저커버그 대신할 ＇AI 페르소나＇ 개발 중
-https://www.aitimes.com/news/articleView.html?idxno=209218
+◾ MS, ＇오픈클로＇와 유사한 기업용 에이전트 개발 중...〃24시간 작동 목표〃
+https://www.aitimes.com/news/articleView.html?idxno=209220
 
-◾ 캐나다의 케플러, 세계 최대 규모 ＇우주 컴퓨팅 클러스터＇ 가동 시작
-https://www.aitimes.com/news/articleView.html?idxno=209247
+◾ 메타, 신개념 ‘AI 컴퓨터’ 공개...〃앱·OS 필요 없는 단일 신경망 체제〃
+https://www.aitimes.com/news/articleView.html?idxno=209172
 
-◾ 소프트뱅크, 일본 대기업들과 피지컬 AI 회사 설립...〃소버린 AI 목적〃
-https://www.aitimes.com/news/articleView.html?idxno=209224
+◾ 구글, ‘제미나이 로보틱스-ER 1.6’ 공개...〃물리적 세계 추론 가능〃
+https://www.aitimes.com/news/articleView.html?idxno=209263
 
-◾ 미니맥스, AI 에이전트용 명령줄 인터페이스 ‘MMX-CLI’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=209229
+◾ AI가 AI를 정렬한다면…앤트로픽 ”일부 방법에서 인간보다 정확”
+https://www.aitimes.com/news/articleView.html?idxno=209280
 
-◾ 알트먼, 화염병 이어 자택에 총격 사건 발생
-https://www.aitimes.com/news/articleView.html?idxno=209206
+◾ 메타, 브로드컴과 1GW 규모 맞춤형 자체 칩 설계 계약
+https://www.aitimes.com/news/articleView.html?idxno=209302
 
 [기타]
-◾ [ET단상] AI 시대, 우리는 정말 멍청해지고 있는가
-https://www.etnews.com/20260414000049
+◾ [ET단상] AI시대, SW개발 코딩 종말론을 넘어 ＇AI융합 개발자＇로
+https://www.etnews.com/20260415000056
 
-◾ AI 벤치마크 점수를 믿지 마라, 버클리 연구팀이 8개를 모두 뚫었다
-https://www.etnews.com/20260414000200
+◾ 왜 글로벌 기업은 로봇에 사활을 거는가
+https://kookbang.dema.mil.kr/newsWeb/20260416/3/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=O56S-Qr9PHlatz1KbJhPgeBOvL2FU8UkPuECuH6N2KOeMjL-b_qk!-579096985
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
