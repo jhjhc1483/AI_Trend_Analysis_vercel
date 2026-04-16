@@ -5,20 +5,15 @@
 ◾ 마키나락스, 제조·국방 AI 강화…FD 엔지니어 등 채용 확대
 https://www.etnews.com/20260416000036
 
-◾ GIST-기아, 자율주행·센서 기반 군용 모빌리티 협력 방안 논의
-https://www.etnews.com/20260416000014
-
-◾ 국방부, 「국방 대드론체계 구축방향 토론회」 개최
-https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_110579&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
-
-◾ “가성비 높은 대드론 전력 야전 신속 배치 위해 협력”
-https://kookbang.dema.mil.kr/newsWeb/20260417/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=XEOXSAMWWFMUkoi_rNcJqEreC8bjJaplGxGF6R7CBaqvPCZMIEVW!-970361443
-
 ◾ 실제 전장 사례 분석…드론 위협 대응 구체안 도출
 https://kookbang.dema.mil.kr/newsWeb/20260417/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=XEOXSAMWWFMUkoi_rNcJqEreC8bjJaplGxGF6R7CBaqvPCZMIEVW!-970361443
 
 ◾ 미래 전장 대비…한미 해군 정보공유 체계 발전 노력
 https://kookbang.dema.mil.kr/newsWeb/20260417/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=XEOXSAMWWFMUkoi_rNcJqEreC8bjJaplGxGF6R7CBaqvPCZMIEVW!-970361443
+
+[육군]
+◾ GIST-기아, 자율주행·센서 기반 군용 모빌리티 협력 방안 논의
+https://www.etnews.com/20260416000014
 
 ◾ 예비군훈련의 전환점, 과학화예비군훈련장의 의미와 미래
 https://kookbang.dema.mil.kr/newsWeb/20260417/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=XEOXSAMWWFMUkoi_rNcJqEreC8bjJaplGxGF6R7CBaqvPCZMIEVW!-970361443
@@ -30,14 +25,20 @@ https://www.etnews.com/20260416000003
 ◾ NH농협은행, AI 기반 여신 프로세스 혁신...전담 TF 가동
 https://www.etnews.com/20260416000357
 
+◾ 아이엘, 텔스타와 제조 AI 협력…＇아이엘봇＇ 외부 현장 투입
+https://www.etnews.com/20260416000257
+
+◾ [마켓트렌드] “AI 이용자 잡아라”…이커머스 업계, AI 생태계 합류
+https://www.etnews.com/20260416000155
+
+◾ 네이버, 오프라인 사업자 성장 프로그램 가동…온라인 AX 지원도 확대
+https://www.etnews.com/20260416000138
+
 ◾ 마음AI, 월드IT쇼 참가…피지컬 AI 로봇 ＇진도봇＇ 소개
 https://www.etnews.com/20260416000077
 
 ◾ 파네시아, PCIe 6.4·CXL 3.2 ‘퓨전 스위치’ 공개…세계 최초 PBR 구현, AI 인프라 연결 구조 판 바꾼다
 https://www.aitimes.kr/news/articleView.html?idxno=39590
-
-◾ 혜움, 업스테이지 국가대표 AI 컨소시엄 신규 참여…’금융 서비스 확산’ 담당
-https://www.aitimes.com/news/articleView.html?idxno=209367
 
 [기관]
 ◾ 국가AI전략위, 호남권 AI 행동계획 점검…“글로벌 제조 AX 거점 육성”
@@ -46,14 +47,14 @@ https://www.etnews.com/20260416000001
 ◾ 7회 과기장관회의서 ＇AI 돌봄·공공 AX와 보안 강화＇ 확정
 https://www.etnews.com/20260416000411
 
-◾ 복지부-과기정통부, ＇AI 돌봄기술 전 주기 지원＇ 시동
-https://www.etnews.com/20260416000270
-
 ◾ “로그인 한 번에 지원사업 신청”…중기부, AI 기반 ＇공공 AX 전환＇ 본격화
 https://www.etnews.com/20260416000065
 
-◾ 고성능 AI 네트워크 선도망 구축…피지컬AI 실증 추진
-https://www.etnews.com/20260416000246
+◾ AI·데이터 기반 공무원 업무 방식 바꾼다…인사업무 특화 모델 개발
+https://www.etnews.com/20260415000412
+
+◾ 국민 돌봄부터 지역 혁신 생태계 조성까지, 과학기술·인공지능 기반의 성과 창출 본격 추진
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187177&searchOpt=ALL&searchTxt=
 
 ◾ “현장의 작은 불편부터 인공지능으로 해결“ 범정부 인공지능 전환 자문(컨설팅) 본격 착수
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187164&searchOpt=ALL&searchTxt=
@@ -74,14 +75,27 @@ https://www.aitimes.kr/news/articleView.html?idxno=39576
 ◾ 앤트로픽, ＇클로드 코드＇ 업데이트...〃바이브 코딩→에이전틱 코딩〃
 https://www.aitimes.com/news/articleView.html?idxno=209268
 
-◾ 오픈AI, ＇하네스·샌드박스＇ 포함한 에이전트 구축용 SDK 업데이트
-https://www.aitimes.com/news/articleView.html?idxno=209332
-
 ◾ 우버, 로보택시에 15조 투자...자율주행 생태계 핵심 축으로 부상
 https://www.aitimes.com/news/articleView.html?idxno=209361
 
+◾ AMD·퀄컴·Arm, 엔비디아 이어 자율주행 웨이브에 880억 투자
+https://www.aitimes.com/news/articleView.html?idxno=209358
+
 ◾ 앤트로픽, 두달 만에 몸값 두배 이상 폭등...1180조 가치 투자 제안 거절
 https://www.aitimes.com/news/articleView.html?idxno=209323
+
+[기타]
+◾ [ET단상] AI시대 데이터센터 ＇전력-공조-RE100＇ 통합 설계해야
+https://www.etnews.com/20260416000073
+
+◾ [리더스포럼] 우리나라 AI 정책:1등을 목표로 전면 개편 필요
+https://www.etnews.com/20260416000070
+
+◾ [정구민의 테크읽기]AI가 정의하는 자동차, AIDV 진화
+https://www.etnews.com/20260416000091
+
+◾ AI發 보안 위협 확산…전문가 “한계 직면, 전면 재정비해야”
+https://www.etnews.com/20260416000231
 
 📚 간행물
 ◾ AI 인재 조건, 일본 피지컬 AI전략, 미국수출통제 [AI·ICT Brief 2026-14호]
