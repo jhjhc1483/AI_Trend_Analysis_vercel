@@ -1,105 +1,86 @@
-📢26.04.17 AI 일일 동향📢
+📢26.04.18 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 마키나락스, 제조·국방 AI 강화…FD 엔지니어 등 채용 확대
-https://www.etnews.com/20260416000036
-
-◾ 실제 전장 사례 분석…드론 위협 대응 구체안 도출
-https://kookbang.dema.mil.kr/newsWeb/20260417/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=XEOXSAMWWFMUkoi_rNcJqEreC8bjJaplGxGF6R7CBaqvPCZMIEVW!-970361443
-
-◾ 미래 전장 대비…한미 해군 정보공유 체계 발전 노력
-https://kookbang.dema.mil.kr/newsWeb/20260417/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=XEOXSAMWWFMUkoi_rNcJqEreC8bjJaplGxGF6R7CBaqvPCZMIEVW!-970361443
-
-[육군]
-◾ GIST-기아, 자율주행·센서 기반 군용 모빌리티 협력 방안 논의
-https://www.etnews.com/20260416000014
-
-◾ 예비군훈련의 전환점, 과학화예비군훈련장의 의미와 미래
-https://kookbang.dema.mil.kr/newsWeb/20260417/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=XEOXSAMWWFMUkoi_rNcJqEreC8bjJaplGxGF6R7CBaqvPCZMIEVW!-970361443
+◾ 국방혁신기술보안협회-한국해군과학기술학회, 국방 AI·보안 협력 MOU 체결
+https://www.etnews.com/20260417000147
 
 [민간]
-◾ LG CNS, 영하 26도서 움직이는 ＇AI 물류 로봇＇ 글로벌 출격
-https://www.etnews.com/20260416000003
+◾ 코빗, ＇AI 퍼스트＇ 조직 전환 선언…클로드·제미나이 전직원 제공
+https://www.etnews.com/20260417000243
 
-◾ NH농협은행, AI 기반 여신 프로세스 혁신...전담 TF 가동
-https://www.etnews.com/20260416000357
+◾ 뉴로메카, 피지컬 AI로 산업 자동화 앞장…“로봇 제조 TSMC 목표”
+https://www.etnews.com/20260417000208
 
-◾ 아이엘, 텔스타와 제조 AI 협력…＇아이엘봇＇ 외부 현장 투입
-https://www.etnews.com/20260416000257
+◾ 삼성전자, 북미서 AI 가전 기반 홈 라이프스타일 제시
+https://www.etnews.com/20260417000124
 
-◾ [마켓트렌드] “AI 이용자 잡아라”…이커머스 업계, AI 생태계 합류
-https://www.etnews.com/20260416000155
+◾ 이글루, AI 원천기술 특허 4건 취득…자율형 SOC 고도화
+https://www.etnews.com/20260417000094
 
-◾ 네이버, 오프라인 사업자 성장 프로그램 가동…온라인 AX 지원도 확대
-https://www.etnews.com/20260416000138
+◾ 신세계, 리플렉션 AI와 ＇리테일 혁신＇ 본격화…오픈AI 협업 논의는 중단
+https://www.etnews.com/20260417000038
 
-◾ 마음AI, 월드IT쇼 참가…피지컬 AI 로봇 ＇진도봇＇ 소개
-https://www.etnews.com/20260416000077
+◾ 루닛, 美 켄터키주 중부 최대 의료그룹 ＇렉싱턴 클리닉＇에 유방암 진단 통합 솔루션 공급
+https://www.aitimes.kr/news/articleView.html?idxno=39600
 
-◾ 파네시아, PCIe 6.4·CXL 3.2 ‘퓨전 스위치’ 공개…세계 최초 PBR 구현, AI 인프라 연결 구조 판 바꾼다
-https://www.aitimes.kr/news/articleView.html?idxno=39590
+◾ “대한민국 산업 AX 성공 공식, 이제 아시아 전역으로!”...NC AI, 아시아 고위급 대상 AX 비전 발표
+https://www.aitimes.kr/news/articleView.html?idxno=39592
 
 [기관]
-◾ 국가AI전략위, 호남권 AI 행동계획 점검…“글로벌 제조 AX 거점 육성”
-https://www.etnews.com/20260416000001
+◾ AI 전문가·기업 한눈에 찾는다…＇서울AI플랫폼＇ 오픈
+https://www.etnews.com/20260417000299
 
-◾ 7회 과기장관회의서 ＇AI 돌봄·공공 AX와 보안 강화＇ 확정
-https://www.etnews.com/20260416000411
+◾ [에듀플러스]동국대학교, 고용노동부 ＇AI 캠퍼스＇ 운영기관 선정
+https://www.etnews.com/20260417000079
 
-◾ “로그인 한 번에 지원사업 신청”…중기부, AI 기반 ＇공공 AX 전환＇ 본격화
-https://www.etnews.com/20260416000065
+◾ 인공지능 기반 연구개발 인식 체계(R&D 패러다임) 전환을 위한「K-문샷 정책추진 전략 발표회(세미나)」 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187179&searchOpt=ALL&searchTxt=
 
-◾ AI·데이터 기반 공무원 업무 방식 바꾼다…인사업무 특화 모델 개발
-https://www.etnews.com/20260415000412
+◾ 순찰 로봇이 국민의 안전 지킨다...조달청, AI 자율주행 기반의 순찰로봇 임대서비스 나라장터서 공급
+https://www.aitimes.kr/news/articleView.html?idxno=39602
 
-◾ 국민 돌봄부터 지역 혁신 생태계 조성까지, 과학기술·인공지능 기반의 성과 창출 본격 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187177&searchOpt=ALL&searchTxt=
+◾ AI+로그인 한 번에...AI 에이전트가 지원사업 추천부터 서류작성 보조까지
+https://www.aitimes.kr/news/articleView.html?idxno=39595
 
-◾ “현장의 작은 불편부터 인공지능으로 해결“ 범정부 인공지능 전환 자문(컨설팅) 본격 착수
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187164&searchOpt=ALL&searchTxt=
+◾ 우주청, 우주 데이터센터 구축 논의...〃누리호에 AI 핵심기술 탑재·실증〃
+https://www.aitimes.com/news/articleView.html?idxno=209399
 
-◾ ‘클로드 미토스 동향 점검’에서부터 ‘금융분야 설치형 보안 소프트웨어 철폐 논의’까지, 보안특위 본격 가동
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=533
+◾ 국가AI전략위, ＇미소스＇ 맞서 보안특별위원회 가동
+https://www.aitimes.com/news/articleView.html?idxno=209395
 
 [해외]
-◾ 엔비디아, 세계 첫 개방형 양자 AI 모델 ＇아이징＇ 공개
-https://www.etnews.com/20260416000021
+◾ 오픈AI, 코딩 에이전트 ＇코덱스＇ 업뎃…챗GPT는 한글파일 인식
+https://www.etnews.com/20260417000066
 
-◾ 구글, 차세대 AI 음성 모델 ‘제미나이 3.1 플래시 TTS’ 공개…음성 “연출 가능한 시대” 진입, 말의 감정까지 조절한다
-https://www.aitimes.kr/news/articleView.html?idxno=39587
+◾ ＇미토스 여파＇ 앤트로픽, 보안 위험성 낮춘 ＇오퍼스 4.7＇ 공개
+https://www.etnews.com/20260417000060
 
-◾ 일론 머스크, ‘AI5’ 칩 테이프아웃 공개…테슬라 AI 반도체 로드맵 가속
-https://www.aitimes.kr/news/articleView.html?idxno=39576
+◾ 구글, 크롬에 ‘AI 모드’ 전격 도입… “탭 이동 없는 혁신적 웹 탐색 시대 열린다”
+https://www.aitimes.kr/news/articleView.html?idxno=39604
 
-◾ 앤트로픽, ＇클로드 코드＇ 업데이트...〃바이브 코딩→에이전틱 코딩〃
-https://www.aitimes.com/news/articleView.html?idxno=209268
+◾ 알리바바, ＇에이전틱 코딩＇ 강화한 고효율 오픈소스 ＇큐원3.6-35B-A3B＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=209406
 
-◾ 우버, 로보택시에 15조 투자...자율주행 생태계 핵심 축으로 부상
-https://www.aitimes.com/news/articleView.html?idxno=209361
+◾ ＇챗GPT＇에 한글 문서 지원 추가…”공공기관 업무 활용 극대화”
+https://www.aitimes.com/news/articleView.html?idxno=209415
 
-◾ AMD·퀄컴·Arm, 엔비디아 이어 자율주행 웨이브에 880억 투자
-https://www.aitimes.com/news/articleView.html?idxno=209358
+◾ 구글, 미 국방부 기밀 분야에 ＇제미나이＇ 도입 논의
+https://www.aitimes.com/news/articleView.html?idxno=209388
 
-◾ 앤트로픽, 두달 만에 몸값 두배 이상 폭등...1180조 가치 투자 제안 거절
-https://www.aitimes.com/news/articleView.html?idxno=209323
+◾ 오픈AI, 생명과학 연구를 위한 AI 모델 ‘GPT-로절린드’ 출시
+https://www.aitimes.com/news/articleView.html?idxno=209384
 
 [기타]
-◾ [ET단상] AI시대 데이터센터 ＇전력-공조-RE100＇ 통합 설계해야
-https://www.etnews.com/20260416000073
+◾ 광주대-디케이, 광주·전남 AX 실증 활성화 업무협약 체결
+https://www.etnews.com/20260417000167
 
-◾ [리더스포럼] 우리나라 AI 정책:1등을 목표로 전면 개편 필요
-https://www.etnews.com/20260416000070
-
-◾ [정구민의 테크읽기]AI가 정의하는 자동차, AIDV 진화
-https://www.etnews.com/20260416000091
-
-◾ AI發 보안 위협 확산…전문가 “한계 직면, 전면 재정비해야”
-https://www.etnews.com/20260416000231
+◾ [4월16일] 구글이 AI 활용에 뒤처졌다는 비판...다시 부각된 ＇20-60-20＇의 법칙
+https://www.aitimes.com/news/articleView.html?idxno=209333
 
 📚 간행물
-◾ AI 인재 조건, 일본 피지컬 AI전략, 미국수출통제 [AI·ICT Brief 2026-14호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260416-000009&cpage=1&rows=10&searchTarget=all
+◾ 글로벌 AI·디지털 전략 경쟁 : 주요국 정책 동향 분석(2022~2025)
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29279&parentSeq=29279
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
