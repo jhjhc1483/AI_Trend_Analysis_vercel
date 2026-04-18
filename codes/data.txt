@@ -5,9 +5,6 @@
 ◾ 한성자동차, AI 상담 플랫폼 구축
 https://www.etnews.com/20260417000316
 
-◾ [무엇이든 리뷰] 꽃 이름이 궁금하면 ＇찰칵＇…상품 가격 검색까지, 일상이 된 AI 이미지 검색
-https://www.etnews.com/20260417000213
-
 ◾ [게시판] NC AI, 아시아 주요국 대상 산업 맞춤형 AX 전략 소개 등 단신
 https://www.aitimes.com/news/articleView.html?idxno=209426
 
@@ -18,10 +15,16 @@ https://www.etnews.com/20260417000275
 ◾ 산학연·지방정부 AI 협력…＇K-소버린 AX 얼라이언스＇ 뜬다
 https://www.etnews.com/20260417000261
 
+◾ “학기중 AI 집중 교육”…전남대, ＇제2기 교수 AI 어드밴스드 과정＇ 개설
+https://www.etnews.com/20260417000023
+
 ◾ [게시판] 에이아이웍스, KOICA 캄보디아 AI 에이전트 구축 사업 선정 등 단신
 https://www.aitimes.com/news/articleView.html?idxno=209424
 
 [해외]
+◾ “핵보다 위험한 AI?” 미토스 공포 확산…백악관도 결국 움직였다
+https://www.etnews.com/20260418000034
+
 ◾ “코드 주면 취약점 자동 탐지”…‘클로드 미토스’가 촉발한 AI 보안 패러다임 변화
 https://www.aitimes.kr/news/articleView.html?idxno=39612
 
@@ -30,9 +33,6 @@ https://www.aitimes.kr/news/articleView.html?idxno=39606
 
 ◾ 젠슨 황, 미국 기술 규제에 직격탄...〃패배주의이자 광기〃
 https://www.aitimes.com/news/articleView.html?idxno=209440
-
-◾ 세계로 번지는 ＇미소스＇ 경계령...영국·인도, 모델 조기 접근 권한 요구
-https://www.aitimes.com/news/articleView.html?idxno=209414
 
 ◾ 딥시크, 100억달러 가치로 투자 협상 중...설립 이후 첫 외부 자금 유치
 https://www.aitimes.com/news/articleView.html?idxno=209437
@@ -44,8 +44,14 @@ https://www.aitimes.com/news/articleView.html?idxno=209432
 https://www.aitimes.com/news/articleView.html?idxno=209428
 
 [기타]
-◾ [AI 리뷰] “시각장애인 돕는 AI, 아직은 반쪽”…코넬대 연구진 “정확성·맥락 이해 개선 시급”
-https://www.aitimes.kr/news/articleView.html?idxno=39611
+◾ [에듀플러스] 정보교육, 사회 변화 못 따라가… AI 활용 넘치는데, 초등과정 정보교육 공백·중고등 연계 부족하다
+https://www.etnews.com/20260418000055
+
+◾ [무엇이든 리뷰] 꽃 이름이 궁금하면 ＇찰칵＇…상품 가격 검색까지, 일상이 된 AI 이미지 검색
+https://www.etnews.com/20260417000213
+
+◾ [4월17일] ＇인지적 항복＇의 경고...〃유능한 AI가 인간의 사고를 멈추게 한다〃
+https://www.aitimes.com/news/articleView.html?idxno=209393
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
