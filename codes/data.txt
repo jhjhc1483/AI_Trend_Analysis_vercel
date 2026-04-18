@@ -1,73 +1,51 @@
-📢26.04.18 AI 일일 동향📢
+📢26.04.19 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 국방혁신기술보안협회-한국해군과학기술학회, 국방 AI·보안 협력 MOU 체결
-https://www.etnews.com/20260417000147
-
 [민간]
-◾ 코빗, ＇AI 퍼스트＇ 조직 전환 선언…클로드·제미나이 전직원 제공
-https://www.etnews.com/20260417000243
+◾ 한성자동차, AI 상담 플랫폼 구축
+https://www.etnews.com/20260417000316
 
-◾ 뉴로메카, 피지컬 AI로 산업 자동화 앞장…“로봇 제조 TSMC 목표”
-https://www.etnews.com/20260417000208
+◾ [무엇이든 리뷰] 꽃 이름이 궁금하면 ＇찰칵＇…상품 가격 검색까지, 일상이 된 AI 이미지 검색
+https://www.etnews.com/20260417000213
 
-◾ 라이너, AI 검색결과 바로 PPT화…＇슬라이드 생성＇ 지원
-https://www.etnews.com/20260417000158
-
-◾ 삼성전자, 북미서 AI 가전 기반 홈 라이프스타일 제시
-https://www.etnews.com/20260417000124
-
-◾ 이글루, AI 원천기술 특허 4건 취득…자율형 SOC 고도화
-https://www.etnews.com/20260417000094
-
-◾ 신세계, 리플렉션 AI와 ＇리테일 혁신＇ 본격화…오픈AI 협업 논의는 중단
-https://www.etnews.com/20260417000038
+◾ [게시판] NC AI, 아시아 주요국 대상 산업 맞춤형 AX 전략 소개 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=209426
 
 [기관]
-◾ AI 전문가·기업 한눈에 찾는다…＇서울AI플랫폼＇ 오픈
-https://www.etnews.com/20260417000299
+◾ 서초구, 전국 최초 ＇엣지형 AI＇ CCTV 도입
+https://www.etnews.com/20260417000275
 
-◾ KOSA 풀스택 AI 컨소시엄, ADB 무대서 개발도상국 AX 해법 제시
-https://www.etnews.com/20260417000056
+◾ 산학연·지방정부 AI 협력…＇K-소버린 AX 얼라이언스＇ 뜬다
+https://www.etnews.com/20260417000261
 
-◾ 인공지능 기반 연구개발 인식 체계(R&D 패러다임) 전환을 위한「K-문샷 정책추진 전략 발표회(세미나)」 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187179&searchOpt=ALL&searchTxt=
-
-◾ 순찰 로봇이 국민의 안전 지킨다...조달청, AI 자율주행 기반의 순찰로봇 임대서비스 나라장터서 공급
-https://www.aitimes.kr/news/articleView.html?idxno=39602
-
-◾ 우주청, 우주 데이터센터 구축 논의...〃누리호에 AI 핵심기술 탑재·실증〃
-https://www.aitimes.com/news/articleView.html?idxno=209399
-
-◾ 국가AI전략위, ＇미소스＇ 맞서 보안특별위원회 가동
-https://www.aitimes.com/news/articleView.html?idxno=209395
+◾ [게시판] 에이아이웍스, KOICA 캄보디아 AI 에이전트 구축 사업 선정 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=209424
 
 [해외]
-◾ 오픈AI, 코딩 에이전트 ＇코덱스＇ 업뎃…챗GPT는 한글파일 인식
-https://www.etnews.com/20260417000066
+◾ “코드 주면 취약점 자동 탐지”…‘클로드 미토스’가 촉발한 AI 보안 패러다임 변화
+https://www.aitimes.kr/news/articleView.html?idxno=39612
 
-◾ ＇미토스 여파＇ 앤트로픽, 보안 위험성 낮춘 ＇오퍼스 4.7＇ 공개
-https://www.etnews.com/20260417000060
+◾ 오픈AI, 생명과학 특화 AI 모델 ＇GPT-로잘린드＇ 공개...“신약 개발 10년 벽 무너뜨린다”
+https://www.aitimes.kr/news/articleView.html?idxno=39606
 
-◾ 구글, 美 국방부와 ＇맞손＇…기밀업무 AI 활용 협의
-https://www.etnews.com/20260417000029
+◾ 젠슨 황, 미국 기술 규제에 직격탄...〃패배주의이자 광기〃
+https://www.aitimes.com/news/articleView.html?idxno=209440
 
-◾ 구글, 크롬에 ‘AI 모드’ 전격 도입… “탭 이동 없는 혁신적 웹 탐색 시대 열린다”
-https://www.aitimes.kr/news/articleView.html?idxno=39604
+◾ 세계로 번지는 ＇미소스＇ 경계령...영국·인도, 모델 조기 접근 권한 요구
+https://www.aitimes.com/news/articleView.html?idxno=209414
 
-◾ 허사비스 CEO, 29일 행사 참석 위해 방한…바둑 친선 대국도 예정
-https://www.aitimes.com/news/articleView.html?idxno=209404
+◾ 딥시크, 100억달러 가치로 투자 협상 중...설립 이후 첫 외부 자금 유치
+https://www.aitimes.com/news/articleView.html?idxno=209437
 
-◾ 백악관, 미국 정부 기관에 앤트로픽 ＇미소스＇ 테스트 허용 예정
-https://www.aitimes.com/news/articleView.html?idxno=209386
+◾ ＇바이브 코딩＇ 커서, 73조 기업 가치 평가로 AI 스타트업 최상위권 도약
+https://www.aitimes.com/news/articleView.html?idxno=209432
 
-◾ 오픈AI, 생명과학 연구를 위한 AI 모델 ‘GPT-로절린드’ 출시
-https://www.aitimes.com/news/articleView.html?idxno=209384
+◾ 앤트로픽, 올인원 디자인 도구 ‘클로드 디자인’ 공개...어도비·캔바 위협
+https://www.aitimes.com/news/articleView.html?idxno=209428
 
-📚 간행물
-◾ 글로벌 AI·디지털 전략 경쟁 : 주요국 정책 동향 분석(2022~2025)
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29279&parentSeq=29279
+[기타]
+◾ [AI 리뷰] “시각장애인 돕는 AI, 아직은 반쪽”…코넬대 연구진 “정확성·맥락 이해 개선 시급”
+https://www.aitimes.kr/news/articleView.html?idxno=39611
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
