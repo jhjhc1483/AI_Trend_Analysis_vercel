@@ -3239,5 +3239,132 @@
         }
       ]
     }
+  },
+  "26.04.20": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "AI 교실 문 두드린 융기원, 교육연구원과 미래교육 협력 맞손 시동",
+          "link": "https://www.etnews.com/20260419000002",
+          "category": "기관"
+        },
+        {
+          "title": "李대통령 부부, 인도 뉴델리로 출국…조선·AI·방산 협력 강화 기대",
+          "link": "https://www.etnews.com/20260419000066",
+          "category": "기관"
+        },
+        {
+          "title": "과기정통부, 직접 개발한 ＇에이전틱 AI＇ 업무에 활용한다",
+          "link": "https://www.etnews.com/20260417000330",
+          "category": "기관"
+        },
+        {
+          "title": "서울시, ＇비전2030 펀드＇에 600억 출자…피지컬AI·엔터테크 강화",
+          "link": "https://www.etnews.com/20260419000007",
+          "category": "기관"
+        },
+        {
+          "title": "수출입은행, 130억원 규모 자체 생성형 AI 플랫폼 ＇KEXIM AI＇ 구축 착수",
+          "link": "https://www.etnews.com/20260419000017",
+          "category": "기관"
+        },
+        {
+          "title": "GIST, 인간처럼 감정 읽는 AI 기술 개발… 데이터 수집 부담 획기적 개선",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39617",
+          "category": "기관"
+        },
+        {
+          "title": "ETRI, ＇제작 혁신·접근성＇ 높일 AI 미디어 기술 공개... AI 기반 VFX 자동 생성·편집 등 3대 핵심기술",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39615",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[이진호의 퓨처로그]AI에 묻지 않고, 일자리 만들기",
+          "link": "https://www.etnews.com/20260419000054",
+          "category": "기타"
+        },
+        {
+          "title": "[ET시론]AI라는 ＇곱셈기＇와 미래 교육: 왜 다시 ＇기본＇인가",
+          "link": "https://www.etnews.com/20260417000142",
+          "category": "기타"
+        }
+      ],
+      "민간": [
+        {
+          "title": "SCL, 글로벌 병리 솔루션 도입 추진…“암세포, AI가 찾는다”",
+          "link": "https://www.etnews.com/20260417000227",
+          "category": "민간"
+        },
+        {
+          "title": "JB금융, 전 계열사 ＇AI 에이전트화＇ 착수…업무·시스템 동시 재편",
+          "link": "https://www.etnews.com/20260417000091",
+          "category": "민간"
+        },
+        {
+          "title": "리벨리온 AI 반도체 ＇리벨100＇, 글로벌 오픈소스 AI 추론 모델에서 성능 입증",
+          "link": "https://www.etnews.com/20260417000095",
+          "category": "민간"
+        },
+        {
+          "title": "“AI로 음식 사진 설명”…배민, 시각장애인 지원 기능 개발",
+          "link": "https://www.etnews.com/20260419000052",
+          "category": "민간"
+        },
+        {
+          "title": "[FDE 급부상] 팔란티어 시작하고 오픈AI·구글 가세…채용공고 800% 증가",
+          "link": "https://www.etnews.com/20260419000009",
+          "category": "민간"
+        },
+        {
+          "title": "삼성전자, 美 ＇에디슨 어워즈＇에서 수상...혁신 기술력 인정받아 금상 2개, 은상 2개 수상",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39616",
+          "category": "민간"
+        },
+        {
+          "title": "파수AI “데이터 역량과 ‘컨테이너’ 기술로 AX 보안 표준 정립”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209447",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "실리콘밸리마저 ＇스톱＇… 전력·용수난에 데이터센터 제동",
+          "link": "https://www.etnews.com/20260419000071",
+          "category": "해외"
+        },
+        {
+          "title": "〃두배 크기 트랜스포머 모델과 같은 성능 제공〃...새로운 아키텍처 ‘파르카에’ 등장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209435",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바, 실시간으로 가상 세계 생성하는 월드 모델 ‘해피 오이스터’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209444",
+          "category": "해외"
+        },
+        {
+          "title": "xAI, ＇그록＇ 음성 API 출시...〃테슬라·스타링크가 쓰던 기술 그대로〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209445",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 독립형 AI 음악 생성 플랫폼 ‘플로우 뮤직’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209446",
+          "category": "해외"
+        },
+        {
+          "title": "＇자기학습 AI＇로 설립 4개월 만에 7300억 투자 유치한 슈퍼 스타트업 등장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209443",
+          "category": "해외"
+        },
+        {
+          "title": "테슬라, 로보택시 서비스 댈러스·휴스턴으로 확대...〃등록 차량 1대뿐?〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209441",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }

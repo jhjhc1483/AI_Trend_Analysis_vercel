@@ -1,57 +1,78 @@
-📢26.04.19 AI 일일 동향📢
+📢26.04.20 AI 일일 동향📢
 
 📰 오늘의 기사
 [민간]
-◾ 한성자동차, AI 상담 플랫폼 구축
-https://www.etnews.com/20260417000316
+◾ SCL, 글로벌 병리 솔루션 도입 추진…“암세포, AI가 찾는다”
+https://www.etnews.com/20260417000227
 
-◾ [게시판] NC AI, 아시아 주요국 대상 산업 맞춤형 AX 전략 소개 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=209426
+◾ JB금융, 전 계열사 ＇AI 에이전트화＇ 착수…업무·시스템 동시 재편
+https://www.etnews.com/20260417000091
+
+◾ 리벨리온 AI 반도체 ＇리벨100＇, 글로벌 오픈소스 AI 추론 모델에서 성능 입증
+https://www.etnews.com/20260417000095
+
+◾ “AI로 음식 사진 설명”…배민, 시각장애인 지원 기능 개발
+https://www.etnews.com/20260419000052
+
+◾ [FDE 급부상] 팔란티어 시작하고 오픈AI·구글 가세…채용공고 800% 증가
+https://www.etnews.com/20260419000009
+
+◾ 삼성전자, 美 ＇에디슨 어워즈＇에서 수상...혁신 기술력 인정받아 금상 2개, 은상 2개 수상
+https://www.aitimes.kr/news/articleView.html?idxno=39616
+
+◾ 파수AI “데이터 역량과 ‘컨테이너’ 기술로 AX 보안 표준 정립”
+https://www.aitimes.com/news/articleView.html?idxno=209447
 
 [기관]
-◾ 서초구, 전국 최초 ＇엣지형 AI＇ CCTV 도입
-https://www.etnews.com/20260417000275
+◾ AI 교실 문 두드린 융기원, 교육연구원과 미래교육 협력 맞손 시동
+https://www.etnews.com/20260419000002
 
-◾ 산학연·지방정부 AI 협력…＇K-소버린 AX 얼라이언스＇ 뜬다
-https://www.etnews.com/20260417000261
+◾ 李대통령 부부, 인도 뉴델리로 출국…조선·AI·방산 협력 강화 기대
+https://www.etnews.com/20260419000066
 
-◾ “학기중 AI 집중 교육”…전남대, ＇제2기 교수 AI 어드밴스드 과정＇ 개설
-https://www.etnews.com/20260417000023
+◾ 과기정통부, 직접 개발한 ＇에이전틱 AI＇ 업무에 활용한다
+https://www.etnews.com/20260417000330
 
-◾ [게시판] 에이아이웍스, KOICA 캄보디아 AI 에이전트 구축 사업 선정 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=209424
+◾ 서울시, ＇비전2030 펀드＇에 600억 출자…피지컬AI·엔터테크 강화
+https://www.etnews.com/20260419000007
+
+◾ 수출입은행, 130억원 규모 자체 생성형 AI 플랫폼 ＇KEXIM AI＇ 구축 착수
+https://www.etnews.com/20260419000017
+
+◾ GIST, 인간처럼 감정 읽는 AI 기술 개발… 데이터 수집 부담 획기적 개선
+https://www.aitimes.kr/news/articleView.html?idxno=39617
+
+◾ ETRI, ＇제작 혁신·접근성＇ 높일 AI 미디어 기술 공개... AI 기반 VFX 자동 생성·편집 등 3대 핵심기술
+https://www.aitimes.kr/news/articleView.html?idxno=39615
 
 [해외]
-◾ “핵보다 위험한 AI?” 미토스 공포 확산…백악관도 결국 움직였다
-https://www.etnews.com/20260418000034
+◾ 실리콘밸리마저 ＇스톱＇… 전력·용수난에 데이터센터 제동
+https://www.etnews.com/20260419000071
 
-◾ “코드 주면 취약점 자동 탐지”…‘클로드 미토스’가 촉발한 AI 보안 패러다임 변화
-https://www.aitimes.kr/news/articleView.html?idxno=39612
+◾ 〃두배 크기 트랜스포머 모델과 같은 성능 제공〃...새로운 아키텍처 ‘파르카에’ 등장
+https://www.aitimes.com/news/articleView.html?idxno=209435
 
-◾ 오픈AI, 생명과학 특화 AI 모델 ＇GPT-로잘린드＇ 공개...“신약 개발 10년 벽 무너뜨린다”
-https://www.aitimes.kr/news/articleView.html?idxno=39606
+◾ 알리바바, 실시간으로 가상 세계 생성하는 월드 모델 ‘해피 오이스터’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=209444
 
-◾ 젠슨 황, 미국 기술 규제에 직격탄...〃패배주의이자 광기〃
-https://www.aitimes.com/news/articleView.html?idxno=209440
+◾ xAI, ＇그록＇ 음성 API 출시...〃테슬라·스타링크가 쓰던 기술 그대로〃
+https://www.aitimes.com/news/articleView.html?idxno=209445
 
-◾ 딥시크, 100억달러 가치로 투자 협상 중...설립 이후 첫 외부 자금 유치
-https://www.aitimes.com/news/articleView.html?idxno=209437
+◾ 구글, 독립형 AI 음악 생성 플랫폼 ‘플로우 뮤직’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=209446
 
-◾ ＇바이브 코딩＇ 커서, 73조 기업 가치 평가로 AI 스타트업 최상위권 도약
-https://www.aitimes.com/news/articleView.html?idxno=209432
+◾ ＇자기학습 AI＇로 설립 4개월 만에 7300억 투자 유치한 슈퍼 스타트업 등장
+https://www.aitimes.com/news/articleView.html?idxno=209443
 
-◾ 앤트로픽, 올인원 디자인 도구 ‘클로드 디자인’ 공개...어도비·캔바 위협
-https://www.aitimes.com/news/articleView.html?idxno=209428
+◾ 테슬라, 로보택시 서비스 댈러스·휴스턴으로 확대...〃등록 차량 1대뿐?〃
+https://www.aitimes.com/news/articleView.html?idxno=209441
 
 [기타]
-◾ [에듀플러스] 정보교육, 사회 변화 못 따라가… AI 활용 넘치는데, 초등과정 정보교육 공백·중고등 연계 부족하다
-https://www.etnews.com/20260418000055
+◾ [이진호의 퓨처로그]AI에 묻지 않고, 일자리 만들기
+https://www.etnews.com/20260419000054
 
-◾ [무엇이든 리뷰] 꽃 이름이 궁금하면 ＇찰칵＇…상품 가격 검색까지, 일상이 된 AI 이미지 검색
-https://www.etnews.com/20260417000213
-
-◾ [4월17일] ＇인지적 항복＇의 경고...〃유능한 AI가 인간의 사고를 멈추게 한다〃
-https://www.aitimes.com/news/articleView.html?idxno=209393
+◾ [ET시론]AI라는 ＇곱셈기＇와 미래 교육: 왜 다시 ＇기본＇인가
+https://www.etnews.com/20260417000142
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
