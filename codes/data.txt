@@ -1,7 +1,14 @@
 📢26.04.20 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 李대통령 부부, 인도 뉴델리로 출국…조선·AI·방산 협력 강화 기대
+https://www.etnews.com/20260419000066
+
 [민간]
+◾ LG전자, 9년 만에 빌트인 식기세척기 전면 개편...＇AI+미세기포＇로 유럽 잡는다
+https://www.etnews.com/20260417000224
+
 ◾ SCL, 글로벌 병리 솔루션 도입 추진…“암세포, AI가 찾는다”
 https://www.etnews.com/20260417000227
 
@@ -14,21 +21,15 @@ https://www.etnews.com/20260417000095
 ◾ “AI로 음식 사진 설명”…배민, 시각장애인 지원 기능 개발
 https://www.etnews.com/20260419000052
 
-◾ [FDE 급부상] 팔란티어 시작하고 오픈AI·구글 가세…채용공고 800% 증가
-https://www.etnews.com/20260419000009
+◾ 삼성전자, 美 ＇에디슨 어워즈＇ 금상·은상 등 4개 수상
+https://www.etnews.com/20260419000031
 
-◾ 삼성전자, 美 ＇에디슨 어워즈＇에서 수상...혁신 기술력 인정받아 금상 2개, 은상 2개 수상
-https://www.aitimes.kr/news/articleView.html?idxno=39616
-
-◾ 파수AI “데이터 역량과 ‘컨테이너’ 기술로 AX 보안 표준 정립”
-https://www.aitimes.com/news/articleView.html?idxno=209447
+◾ [체험기] “20대인 내가 왜 웨어러블 로봇을?”…몇분 만에 깨진 선입견
+https://www.aitimes.com/news/articleView.html?idxno=209449
 
 [기관]
 ◾ AI 교실 문 두드린 융기원, 교육연구원과 미래교육 협력 맞손 시동
 https://www.etnews.com/20260419000002
-
-◾ 李대통령 부부, 인도 뉴델리로 출국…조선·AI·방산 협력 강화 기대
-https://www.etnews.com/20260419000066
 
 ◾ 과기정통부, 직접 개발한 ＇에이전틱 AI＇ 업무에 활용한다
 https://www.etnews.com/20260417000330
@@ -39,8 +40,8 @@ https://www.etnews.com/20260419000007
 ◾ 수출입은행, 130억원 규모 자체 생성형 AI 플랫폼 ＇KEXIM AI＇ 구축 착수
 https://www.etnews.com/20260419000017
 
-◾ GIST, 인간처럼 감정 읽는 AI 기술 개발… 데이터 수집 부담 획기적 개선
-https://www.aitimes.kr/news/articleView.html?idxno=39617
+◾ “＇핵심＇으로 전체 감정 흐름 복원”…GIST, 인간처럼 감정 읽는 AI 기술 개발
+https://www.etnews.com/20260419000020
 
 ◾ ETRI, ＇제작 혁신·접근성＇ 높일 AI 미디어 기술 공개... AI 기반 VFX 자동 생성·편집 등 3대 핵심기술
 https://www.aitimes.kr/news/articleView.html?idxno=39615
@@ -68,8 +69,11 @@ https://www.aitimes.com/news/articleView.html?idxno=209443
 https://www.aitimes.com/news/articleView.html?idxno=209441
 
 [기타]
-◾ [이진호의 퓨처로그]AI에 묻지 않고, 일자리 만들기
-https://www.etnews.com/20260419000054
+◾ BCG, AI로 사라지는 일자리 10% 남짓
+https://www.etnews.com/20260419000084
+
+◾ [BEYOND Expo 2026] 개최 한달 앞으로...＇AI:Digital to Physical＇ 주제로 아시아 AI 방향 제시
+https://www.etnews.com/20260416000026
 
 ◾ [ET시론]AI라는 ＇곱셈기＇와 미래 교육: 왜 다시 ＇기본＇인가
 https://www.etnews.com/20260417000142
