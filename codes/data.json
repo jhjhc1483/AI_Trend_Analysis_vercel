@@ -3249,11 +3249,6 @@
           "category": "기관"
         },
         {
-          "title": "李대통령 부부, 인도 뉴델리로 출국…조선·AI·방산 협력 강화 기대",
-          "link": "https://www.etnews.com/20260419000066",
-          "category": "기관"
-        },
-        {
           "title": "과기정통부, 직접 개발한 ＇에이전틱 AI＇ 업무에 활용한다",
           "link": "https://www.etnews.com/20260417000330",
           "category": "기관"
@@ -3269,8 +3264,8 @@
           "category": "기관"
         },
         {
-          "title": "GIST, 인간처럼 감정 읽는 AI 기술 개발… 데이터 수집 부담 획기적 개선",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39617",
+          "title": "“＇핵심＇으로 전체 감정 흐름 복원”…GIST, 인간처럼 감정 읽는 AI 기술 개발",
+          "link": "https://www.etnews.com/20260419000020",
           "category": "기관"
         },
         {
@@ -3281,8 +3276,13 @@
       ],
       "기타": [
         {
-          "title": "[이진호의 퓨처로그]AI에 묻지 않고, 일자리 만들기",
-          "link": "https://www.etnews.com/20260419000054",
+          "title": "BCG, AI로 사라지는 일자리 10% 남짓",
+          "link": "https://www.etnews.com/20260419000084",
+          "category": "기타"
+        },
+        {
+          "title": "[BEYOND Expo 2026] 개최 한달 앞으로...＇AI:Digital to Physical＇ 주제로 아시아 AI 방향 제시",
+          "link": "https://www.etnews.com/20260416000026",
           "category": "기타"
         },
         {
@@ -3292,6 +3292,11 @@
         }
       ],
       "민간": [
+        {
+          "title": "LG전자, 9년 만에 빌트인 식기세척기 전면 개편...＇AI+미세기포＇로 유럽 잡는다",
+          "link": "https://www.etnews.com/20260417000224",
+          "category": "민간"
+        },
         {
           "title": "SCL, 글로벌 병리 솔루션 도입 추진…“암세포, AI가 찾는다”",
           "link": "https://www.etnews.com/20260417000227",
@@ -3313,18 +3318,13 @@
           "category": "민간"
         },
         {
-          "title": "[FDE 급부상] 팔란티어 시작하고 오픈AI·구글 가세…채용공고 800% 증가",
-          "link": "https://www.etnews.com/20260419000009",
+          "title": "삼성전자, 美 ＇에디슨 어워즈＇ 금상·은상 등 4개 수상",
+          "link": "https://www.etnews.com/20260419000031",
           "category": "민간"
         },
         {
-          "title": "삼성전자, 美 ＇에디슨 어워즈＇에서 수상...혁신 기술력 인정받아 금상 2개, 은상 2개 수상",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39616",
-          "category": "민간"
-        },
-        {
-          "title": "파수AI “데이터 역량과 ‘컨테이너’ 기술로 AX 보안 표준 정립”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=209447",
+          "title": "[체험기] “20대인 내가 왜 웨어러블 로봇을?”…몇분 만에 깨진 선입견",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209449",
           "category": "민간"
         }
       ],
@@ -3363,6 +3363,13 @@
           "title": "테슬라, 로보택시 서비스 댈러스·휴스턴으로 확대...〃등록 차량 1대뿐?〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209441",
           "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "李대통령 부부, 인도 뉴델리로 출국…조선·AI·방산 협력 강화 기대",
+          "link": "https://www.etnews.com/20260419000066",
+          "category": "국방"
         }
       ]
     }
