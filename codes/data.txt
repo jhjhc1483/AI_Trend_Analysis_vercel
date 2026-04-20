@@ -11,8 +11,18 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 ◾ 전력화 추진 ‘LINK-22’ 상호운용성 평가 능력 갖춘다
 https://kookbang.dema.mil.kr/newsWeb/20260421/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
 
+◾ 해상 드론으로 기뢰 제거작전
+https://kookbang.dema.mil.kr/newsWeb/20260421/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
+
 ◾ 한·인도, 방산·조선해양·AI 분야 전방위 협력 강화
 https://kookbang.dema.mil.kr/newsWeb/20260421/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
+
+[육군]
+◾ “드론을 개인화기처럼, 전 장병 운용력 확보”
+https://kookbang.dema.mil.kr/newsWeb/20260421/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
+
+◾ 미래 군 정보통신 주역들, 주특기 향상 기회
+https://kookbang.dema.mil.kr/newsWeb/20260421/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
 
 [민간]
 ◾ 네이버, 印 타타 컨설팅 서비스와 파트너십…인도 AX 사업 발굴
@@ -21,24 +31,18 @@ https://www.etnews.com/20260420000453
 ◾ [단독]아몬 퀄컴 CEO 방한…삼성 이어 SK하이닉스까지 만난다
 https://www.etnews.com/20260420000411
 
-◾ SK하이닉스, 동반성장협의회 개최…AI 시대 협력 전략 공유
-https://www.etnews.com/20260420000388
-
 ◾ 로보티즈, 휴머노이드 ＇AI 사피엔스＇ 공개
 https://www.etnews.com/20260420000219
-
-◾ 베이스스톤 박유신 대표, “AI기반 공격, 예측 불가능한 ‘양자엔트로피’로 막는다”
-https://www.aitimes.kr/news/articleView.html?idxno=39646
 
 ◾ SK하이닉스, 〃AI 서버 메모리 성능의 새로운 기준 수립〃...SOCAMM2 192GB 본격 양산 시작
 https://www.aitimes.kr/news/articleView.html?idxno=39641
 
-◾ 롯데이노베이트, ‘2026 롯데월드타워 스카이런’서 휴머노이드 로봇 ‘로이’ 투입… ‘피지컬 AI’ 현장 검증
-https://www.aitimes.kr/news/articleView.html?idxno=39629
+◾ 챗GPT, 한글(HWP·HWPX) 문서 지원…한국 사용자 업무 방식과 수요 반영
+https://www.aitimes.kr/news/articleView.html?idxno=39637
 
 [기관]
-◾ 개인정보위, 기본계획 수립 막바지…부처 CPO 의견 수렴
-https://www.etnews.com/20260420000395
+◾ ＇교역 규모 500억달러＇ 위해 손잡은 韓-인도 정상…AI·조선·문화 교류 확대
+https://www.etnews.com/20260420000468
 
 ◾ 과기정통부, 5대 핵심 이슈 협업체계 ＇다함께 스프린트＇ 신설
 https://www.etnews.com/20260420000317
@@ -46,24 +50,24 @@ https://www.etnews.com/20260420000317
 ◾ 국제기구 ＇피지컬 AI＇ 표준화 리더 다수 배출…한국 주도권 기대
 https://www.etnews.com/20260420000351
 
+◾ 과기정통부, 의료 AX 지원 ＇AI특화병원＇ 시범사업 공모
+https://www.etnews.com/20260420000180
+
 ◾ 금융권 내부망 SaaS 활용 ＇빗장＇ 풀린다… 20일부터 망분리 예외 적용
 https://www.etnews.com/20260419000092
 
 ◾ 과기정통부, 에이전틱 AI 직접 개발·활용에 나선다
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187192&searchOpt=ALL&searchTxt=
 
-◾ 과기정통부, 의료현장 인공지능 전환 가속화를 위한 「인공지능 특화병원 인공지능 전환 준비(AX-Ready) 시범사업」 공모
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187191&searchOpt=ALL&searchTxt=
-
 [해외]
+◾ 미국 NSA, ＇블랙리스트＇ 앤트로픽 최첨단 AI 사용설 제기
+https://www.etnews.com/20260420000377
+
 ◾ 오픈AI, 맥락 강화한 ＇GPT-5.5＇ 이르면 4월 공개…모델 경쟁 심화
 https://www.etnews.com/20260420000323
 
 ◾ 로바예프 암즈, 〃사격수 없는 저격, 모순된 개념을 AI로 실현〃...AI 저격 소총 ‘드보이닉’ 양산 돌입
 https://www.aitimes.kr/news/articleView.html?idxno=39640
-
-◾ 챗GPT, 한글(HWP·HWPX) 문서 지원…한국 사용자 업무 방식과 수요 반영
-https://www.aitimes.kr/news/articleView.html?idxno=39637
 
 ◾ 바이트댄스, 인간-사물 상호작용까지 반영하는 영상 AI ‘옴니쇼’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=209496
@@ -74,8 +78,8 @@ https://www.aitimes.com/news/articleView.html?idxno=209507
 ◾ 피지컬 인텔리전스, 훈련받지 않은 일까지 처리하는 로봇 모델 ‘파이0.7’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=209497
 
-◾ 미 국가안보국, 블랙리스트 지정된 앤트로픽 ＇미소스＇ 이미 사용 중
-https://www.aitimes.com/news/articleView.html?idxno=209494
+◾ 구글, 마벨과 AI 칩 2종 개발 논의 중...추론 수요 확대 대비
+https://www.aitimes.com/news/articleView.html?idxno=209477
 
 📚 간행물
 ◾ 국가연구개발사업 예비타당성조사 2025 연차보고서
@@ -83,6 +87,9 @@ https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI
 
 ◾ 과학기술 혁신 전환기에 대응한 입법영향평가 체계의 구축 방안
 https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=369&cateCont=A0501&cbIdx=0&searchKey=
+
+◾ [제1286호] ITU-T TSAG 국제회의 참가
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1286%ED%98%B8%5D%20ITU-T%20TSAG%20%EA%B5%AD%EC%A0%9C%ED%9A%8C%EC%9D%98%20%EC%B0%B8%EA%B0%80
 
 ◾ [26-7] 미국 연방조달청(GSA), AI 조달 관련 표준 계약조건 의견수렴 ('26.3.6~4.3)
 https://www.kisa.or.kr/20201/form?postSeq=275&page=1
