@@ -1,82 +1,91 @@
-📢26.04.20 AI 일일 동향📢
+📢26.04.21 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 李대통령 부부, 인도 뉴델리로 출국…조선·AI·방산 협력 강화 기대
-https://www.etnews.com/20260419000066
+◾ 첨단 방산기술, 산불 대응 판도 바꾼다! 방위사업청·산림청 협력 본격화
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58467&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
+
+◾ 기름때 대신 데이터 입었다, 망치소리 대신 클릭소리 늘었다... DX 정비현장, 세계 최고를 초연결한다
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48587&startDate=&endDate=&id=mnd_020101000000
+
+◾ 전력화 추진 ‘LINK-22’ 상호운용성 평가 능력 갖춘다
+https://kookbang.dema.mil.kr/newsWeb/20260421/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
+
+◾ 한·인도, 방산·조선해양·AI 분야 전방위 협력 강화
+https://kookbang.dema.mil.kr/newsWeb/20260421/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
 
 [민간]
-◾ LG전자, 9년 만에 빌트인 식기세척기 전면 개편...＇AI+미세기포＇로 유럽 잡는다
-https://www.etnews.com/20260417000224
+◾ 네이버, 印 타타 컨설팅 서비스와 파트너십…인도 AX 사업 발굴
+https://www.etnews.com/20260420000453
 
-◾ SCL, 글로벌 병리 솔루션 도입 추진…“암세포, AI가 찾는다”
-https://www.etnews.com/20260417000227
+◾ [단독]아몬 퀄컴 CEO 방한…삼성 이어 SK하이닉스까지 만난다
+https://www.etnews.com/20260420000411
 
-◾ JB금융, 전 계열사 ＇AI 에이전트화＇ 착수…업무·시스템 동시 재편
-https://www.etnews.com/20260417000091
+◾ SK하이닉스, 동반성장협의회 개최…AI 시대 협력 전략 공유
+https://www.etnews.com/20260420000388
 
-◾ 리벨리온 AI 반도체 ＇리벨100＇, 글로벌 오픈소스 AI 추론 모델에서 성능 입증
-https://www.etnews.com/20260417000095
+◾ 로보티즈, 휴머노이드 ＇AI 사피엔스＇ 공개
+https://www.etnews.com/20260420000219
 
-◾ “AI로 음식 사진 설명”…배민, 시각장애인 지원 기능 개발
-https://www.etnews.com/20260419000052
+◾ 베이스스톤 박유신 대표, “AI기반 공격, 예측 불가능한 ‘양자엔트로피’로 막는다”
+https://www.aitimes.kr/news/articleView.html?idxno=39646
 
-◾ 삼성전자, 美 ＇에디슨 어워즈＇ 금상·은상 등 4개 수상
-https://www.etnews.com/20260419000031
+◾ SK하이닉스, 〃AI 서버 메모리 성능의 새로운 기준 수립〃...SOCAMM2 192GB 본격 양산 시작
+https://www.aitimes.kr/news/articleView.html?idxno=39641
 
-◾ [체험기] “20대인 내가 왜 웨어러블 로봇을?”…몇분 만에 깨진 선입견
-https://www.aitimes.com/news/articleView.html?idxno=209449
+◾ 롯데이노베이트, ‘2026 롯데월드타워 스카이런’서 휴머노이드 로봇 ‘로이’ 투입… ‘피지컬 AI’ 현장 검증
+https://www.aitimes.kr/news/articleView.html?idxno=39629
 
 [기관]
-◾ AI 교실 문 두드린 융기원, 교육연구원과 미래교육 협력 맞손 시동
-https://www.etnews.com/20260419000002
+◾ 개인정보위, 기본계획 수립 막바지…부처 CPO 의견 수렴
+https://www.etnews.com/20260420000395
 
-◾ 과기정통부, 직접 개발한 ＇에이전틱 AI＇ 업무에 활용한다
-https://www.etnews.com/20260417000330
+◾ 과기정통부, 5대 핵심 이슈 협업체계 ＇다함께 스프린트＇ 신설
+https://www.etnews.com/20260420000317
 
-◾ 서울시, ＇비전2030 펀드＇에 600억 출자…피지컬AI·엔터테크 강화
-https://www.etnews.com/20260419000007
+◾ 국제기구 ＇피지컬 AI＇ 표준화 리더 다수 배출…한국 주도권 기대
+https://www.etnews.com/20260420000351
 
-◾ 수출입은행, 130억원 규모 자체 생성형 AI 플랫폼 ＇KEXIM AI＇ 구축 착수
-https://www.etnews.com/20260419000017
+◾ 금융권 내부망 SaaS 활용 ＇빗장＇ 풀린다… 20일부터 망분리 예외 적용
+https://www.etnews.com/20260419000092
 
-◾ “＇핵심＇으로 전체 감정 흐름 복원”…GIST, 인간처럼 감정 읽는 AI 기술 개발
-https://www.etnews.com/20260419000020
+◾ 과기정통부, 에이전틱 AI 직접 개발·활용에 나선다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187192&searchOpt=ALL&searchTxt=
 
-◾ ETRI, ＇제작 혁신·접근성＇ 높일 AI 미디어 기술 공개... AI 기반 VFX 자동 생성·편집 등 3대 핵심기술
-https://www.aitimes.kr/news/articleView.html?idxno=39615
+◾ 과기정통부, 의료현장 인공지능 전환 가속화를 위한 「인공지능 특화병원 인공지능 전환 준비(AX-Ready) 시범사업」 공모
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187191&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 실리콘밸리마저 ＇스톱＇… 전력·용수난에 데이터센터 제동
-https://www.etnews.com/20260419000071
+◾ 오픈AI, 맥락 강화한 ＇GPT-5.5＇ 이르면 4월 공개…모델 경쟁 심화
+https://www.etnews.com/20260420000323
 
-◾ 〃두배 크기 트랜스포머 모델과 같은 성능 제공〃...새로운 아키텍처 ‘파르카에’ 등장
-https://www.aitimes.com/news/articleView.html?idxno=209435
+◾ 로바예프 암즈, 〃사격수 없는 저격, 모순된 개념을 AI로 실현〃...AI 저격 소총 ‘드보이닉’ 양산 돌입
+https://www.aitimes.kr/news/articleView.html?idxno=39640
 
-◾ 알리바바, 실시간으로 가상 세계 생성하는 월드 모델 ‘해피 오이스터’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=209444
+◾ 챗GPT, 한글(HWP·HWPX) 문서 지원…한국 사용자 업무 방식과 수요 반영
+https://www.aitimes.kr/news/articleView.html?idxno=39637
 
-◾ xAI, ＇그록＇ 음성 API 출시...〃테슬라·스타링크가 쓰던 기술 그대로〃
-https://www.aitimes.com/news/articleView.html?idxno=209445
+◾ 바이트댄스, 인간-사물 상호작용까지 반영하는 영상 AI ‘옴니쇼’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=209496
 
-◾ 구글, 독립형 AI 음악 생성 플랫폼 ‘플로우 뮤직’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=209446
+◾ 〃딥시크-V4, 이번 주 출시〃 예측 등장...하드웨어 한계 돌파 가능성
+https://www.aitimes.com/news/articleView.html?idxno=209507
 
-◾ ＇자기학습 AI＇로 설립 4개월 만에 7300억 투자 유치한 슈퍼 스타트업 등장
-https://www.aitimes.com/news/articleView.html?idxno=209443
+◾ 피지컬 인텔리전스, 훈련받지 않은 일까지 처리하는 로봇 모델 ‘파이0.7’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=209497
 
-◾ 테슬라, 로보택시 서비스 댈러스·휴스턴으로 확대...〃등록 차량 1대뿐?〃
-https://www.aitimes.com/news/articleView.html?idxno=209441
+◾ 미 국가안보국, 블랙리스트 지정된 앤트로픽 ＇미소스＇ 이미 사용 중
+https://www.aitimes.com/news/articleView.html?idxno=209494
 
-[기타]
-◾ BCG, AI로 사라지는 일자리 10% 남짓
-https://www.etnews.com/20260419000084
+📚 간행물
+◾ 국가연구개발사업 예비타당성조사 2025 연차보고서
+https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=85&cateCont=A0206&cbIdx=0&searchKey=
 
-◾ [BEYOND Expo 2026] 개최 한달 앞으로...＇AI:Digital to Physical＇ 주제로 아시아 AI 방향 제시
-https://www.etnews.com/20260416000026
+◾ 과학기술 혁신 전환기에 대응한 입법영향평가 체계의 구축 방안
+https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=369&cateCont=A0501&cbIdx=0&searchKey=
 
-◾ [ET시론]AI라는 ＇곱셈기＇와 미래 교육: 왜 다시 ＇기본＇인가
-https://www.etnews.com/20260417000142
+◾ [26-7] 미국 연방조달청(GSA), AI 조달 관련 표준 계약조건 의견수렴 ('26.3.6~4.3)
+https://www.kisa.or.kr/20201/form?postSeq=275&page=1
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
