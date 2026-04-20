@@ -5,24 +5,24 @@
     "category": "민간"
   },
   {
-    "title": "[단독]아몬 퀄컴 CEO 방한…삼성 이어 SK하이닉스까지 만난다",
-    "link": "https://www.etnews.com/20260420000411",
-    "category": "민간"
-  },
-  {
-    "title": "개인정보위, 기본계획 수립 막바지…부처 CPO 의견 수렴",
-    "link": "https://www.etnews.com/20260420000395",
+    "title": "＇교역 규모 500억달러＇ 위해 손잡은 韓-인도 정상…AI·조선·문화 교류 확대",
+    "link": "https://www.etnews.com/20260420000468",
     "category": "기관"
   },
   {
-    "title": "SK하이닉스, 동반성장협의회 개최…AI 시대 협력 전략 공유",
-    "link": "https://www.etnews.com/20260420000388",
+    "title": "[단독]아몬 퀄컴 CEO 방한…삼성 이어 SK하이닉스까지 만난다",
+    "link": "https://www.etnews.com/20260420000411",
     "category": "민간"
   },
   {
     "title": "과기정통부, 5대 핵심 이슈 협업체계 ＇다함께 스프린트＇ 신설",
     "link": "https://www.etnews.com/20260420000317",
     "category": "기관"
+  },
+  {
+    "title": "미국 NSA, ＇블랙리스트＇ 앤트로픽 최첨단 AI 사용설 제기",
+    "link": "https://www.etnews.com/20260420000377",
+    "category": "해외"
   },
   {
     "title": "국제기구 ＇피지컬 AI＇ 표준화 리더 다수 배출…한국 주도권 기대",
@@ -40,6 +40,11 @@
     "category": "민간"
   },
   {
+    "title": "과기정통부, 의료 AX 지원 ＇AI특화병원＇ 시범사업 공모",
+    "link": "https://www.etnews.com/20260420000180",
+    "category": "기관"
+  },
+  {
     "title": "금융권 내부망 SaaS 활용 ＇빗장＇ 풀린다… 20일부터 망분리 예외 적용",
     "link": "https://www.etnews.com/20260419000092",
     "category": "기관"
@@ -47,11 +52,6 @@
   {
     "title": "과기정통부, 에이전틱 AI 직접 개발·활용에 나선다",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187192&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "과기정통부, 의료현장 인공지능 전환 가속화를 위한 「인공지능 특화병원 인공지능 전환 준비(AX-Ready) 시범사업」 공모",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187191&searchOpt=ALL&searchTxt=",
     "category": "기관"
   },
   {
@@ -63,11 +63,6 @@
     "title": "기름때 대신 데이터 입었다, 망치소리 대신 클릭소리 늘었다... DX 정비현장, 세계 최고를 초연결한다",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48587&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
-  },
-  {
-    "title": "베이스스톤 박유신 대표, “AI기반 공격, 예측 불가능한 ‘양자엔트로피’로 막는다”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39646",
-    "category": "민간"
   },
   {
     "title": "SK하이닉스, 〃AI 서버 메모리 성능의 새로운 기준 수립〃...SOCAMM2 192GB 본격 양산 시작",
@@ -82,16 +77,26 @@
   {
     "title": "챗GPT, 한글(HWP·HWPX) 문서 지원…한국 사용자 업무 방식과 수요 반영",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39637",
-    "category": "해외"
-  },
-  {
-    "title": "롯데이노베이트, ‘2026 롯데월드타워 스카이런’서 휴머노이드 로봇 ‘로이’ 투입… ‘피지컬 AI’ 현장 검증",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39629",
     "category": "민간"
   },
   {
     "title": "전력화 추진 ‘LINK-22’ 상호운용성 평가 능력 갖춘다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260421/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985",
+    "category": "국방"
+  },
+  {
+    "title": "“드론을 개인화기처럼, 전 장병 운용력 확보”",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260421/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985",
+    "category": "육군"
+  },
+  {
+    "title": "미래 군 정보통신 주역들, 주특기 향상 기회",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260421/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985",
+    "category": "육군"
+  },
+  {
+    "title": "해상 드론으로 기뢰 제거작전",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260421/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985",
     "category": "국방"
   },
   {
@@ -115,8 +120,8 @@
     "category": "해외"
   },
   {
-    "title": "미 국가안보국, 블랙리스트 지정된 앤트로픽 ＇미소스＇ 이미 사용 중",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209494",
+    "title": "구글, 마벨과 AI 칩 2종 개발 논의 중...추론 수요 확대 대비",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209477",
     "category": "해외"
   }
 ]
