@@ -934,5 +934,29 @@
         "년": "2026",
         "월": "04",
         "일": "16"
+    },
+    {
+        "제목": "(2026년 2월 말 기준) 유·무선통신서비스 가입 현황 및 무선데이터 트래픽 통계",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260421-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "04",
+        "일": "17"
+    },
+    {
+        "제목": "지식재산 통계 FOCUS 27호",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260421-000003&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "03",
+        "일": "31"
+    },
+    {
+        "제목": "AI 반도체 혁신을 위한 시스템 아키텍처 기반 소프트웨어 기술 전략 [주간기술동향 2210호]",
+        "분류": "주간기술동향",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1395&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "04",
+        "일": "21"
     }
 ]
