@@ -1,98 +1,77 @@
-📢26.04.21 AI 일일 동향📢
+📢26.04.22 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 첨단 방산기술, 산불 대응 판도 바꾼다! 방위사업청·산림청 협력 본격화
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58467&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
+◾ 펀진의 AI지휘결심지원체계 KWM, 연합지휘통제체계 성능개량 체계개발에 공급
+https://www.aitimes.kr/news/articleView.html?idxno=39666
 
-◾ 기름때 대신 데이터 입었다, 망치소리 대신 클릭소리 늘었다... DX 정비현장, 세계 최고를 초연결한다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48587&startDate=&endDate=&id=mnd_020101000000
+◾ ‘윙맨 1호, 우측방 경계하라’ 마음의 소리 듣고 따르는 드론
+https://kookbang.dema.mil.kr/newsWeb/20260422/1/ATCE_CTGR_0020010001/view.do;JSESSIONID_kookbnagWEB=fQ-w-V1iJ5HNHY58Rqoe5nx02HNS8gGLTsY2zPZUz8KFhmbqWscs!-970361443
 
-◾ 전력화 추진 ‘LINK-22’ 상호운용성 평가 능력 갖춘다
-https://kookbang.dema.mil.kr/newsWeb/20260421/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
-
-◾ 해상 드론으로 기뢰 제거작전
-https://kookbang.dema.mil.kr/newsWeb/20260421/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
-
-◾ 한·인도, 방산·조선해양·AI 분야 전방위 협력 강화
-https://kookbang.dema.mil.kr/newsWeb/20260421/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
+◾ 드론, 보조 병기에서 전장의 주인공으로
+https://kookbang.dema.mil.kr/newsWeb/20260422/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=fQ-w-V1iJ5HNHY58Rqoe5nx02HNS8gGLTsY2zPZUz8KFhmbqWscs!-970361443
 
 [육군]
 ◾ “드론을 개인화기처럼, 전 장병 운용력 확보”
-https://kookbang.dema.mil.kr/newsWeb/20260421/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
-
-◾ 미래 군 정보통신 주역들, 주특기 향상 기회
-https://kookbang.dema.mil.kr/newsWeb/20260421/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=I-ar1-htip-dCIcXOjvZZI4fp5pC7wL9sAlMFk1Nb3oADqA7fHfr!-579096985
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48619&startDate=&endDate=&id=mnd_020101000000
 
 [민간]
-◾ 네이버, 印 타타 컨설팅 서비스와 파트너십…인도 AX 사업 발굴
-https://www.etnews.com/20260420000453
+◾ 엔비디아 “한국 개발자 생태계 수용성 높아”…＇네모트론＇ AI 거점으로 낙점
+https://www.etnews.com/20260421000387
 
-◾ [단독]아몬 퀄컴 CEO 방한…삼성 이어 SK하이닉스까지 만난다
-https://www.etnews.com/20260420000411
+◾ [WIS 2026] 삼성SDS ＇실무형 AI 에이전트＇
+https://www.etnews.com/20260414000458
 
-◾ 로보티즈, 휴머노이드 ＇AI 사피엔스＇ 공개
-https://www.etnews.com/20260420000219
+◾ 트웰브랩스, 영상 AI ＇페가수스 1.5＇ 공개…〃장면 넘어 ‘영상 구조’ 검색”
+https://www.aitimes.com/news/articleView.html?idxno=209565
 
-◾ SK하이닉스, 〃AI 서버 메모리 성능의 새로운 기준 수립〃...SOCAMM2 192GB 본격 양산 시작
-https://www.aitimes.kr/news/articleView.html?idxno=39641
+◾ SK하이닉스, AI 서버 메모리 ＇SOCAMM2 192GB＇ 본격 양산
+https://www.aitimes.com/news/articleView.html?idxno=209546
 
-◾ 챗GPT, 한글(HWP·HWPX) 문서 지원…한국 사용자 업무 방식과 수요 반영
-https://www.aitimes.kr/news/articleView.html?idxno=39637
+◾ LG, ＇암 치료＇ 에이전트 연구 성과 공개…”글로벌 제약사 등과 협업 추진”
+https://www.aitimes.com/news/articleView.html?idxno=209523
 
 [기관]
-◾ ＇교역 규모 500억달러＇ 위해 손잡은 韓-인도 정상…AI·조선·문화 교류 확대
-https://www.etnews.com/20260420000468
+◾ 중기부, 중소제조·스타트업에 GPU 264장 공급…“물량 부족” 업계 지적도
+https://www.etnews.com/20260421000264
 
-◾ 과기정통부, 5대 핵심 이슈 협업체계 ＇다함께 스프린트＇ 신설
-https://www.etnews.com/20260420000317
+◾ 지식재산처, 부정경쟁방지법 제도개선위원회 출범…AI 시대 IP 보호 강화 논의
+https://www.etnews.com/20260421000155
 
-◾ 국제기구 ＇피지컬 AI＇ 표준화 리더 다수 배출…한국 주도권 기대
-https://www.etnews.com/20260420000351
+◾ 추경 60억 투입…연구개발특구 ＇딥테크 창업＇ 본격 지원
+https://www.etnews.com/20260421000064
 
-◾ 과기정통부, 의료 AX 지원 ＇AI특화병원＇ 시범사업 공모
-https://www.etnews.com/20260420000180
+◾ 과기정통부 x 엔비디아, AI 개발자 위한 기술 공유의 장 공동 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187202&searchOpt=ALL&searchTxt=
 
-◾ 금융권 내부망 SaaS 활용 ＇빗장＇ 풀린다… 20일부터 망분리 예외 적용
-https://www.etnews.com/20260419000092
+◾ 과기정통부, 보건복지부와 함께 ‘AI-SaaS 전환 지원’으로 공공의료 AX 혁신 앞당긴다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187201&searchOpt=ALL&searchTxt=
 
-◾ 과기정통부, 에이전틱 AI 직접 개발·활용에 나선다
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187192&searchOpt=ALL&searchTxt=
+◾ 국가AI전략위 〃자율주행·휴머노이느 소분과 신설...산업 AX 확산 지원〃
+https://www.aitimes.com/news/articleView.html?idxno=209563
 
 [해외]
-◾ 미국 NSA, ＇블랙리스트＇ 앤트로픽 최첨단 AI 사용설 제기
-https://www.etnews.com/20260420000377
+◾ 안두릴, HD현대와 ‘자율 수상함’ 본격 생산…미 해군 AI 전력 재편 가속
+https://www.aitimes.kr/news/articleView.html?idxno=39673
 
-◾ 오픈AI, 맥락 강화한 ＇GPT-5.5＇ 이르면 4월 공개…모델 경쟁 심화
-https://www.etnews.com/20260420000323
+◾ 아마존·앤트로픽, 10년간 1000억 달러 AI 동맹…“트레이니움으로 패권 경쟁 가속”
+https://www.aitimes.kr/news/articleView.html?idxno=39672
 
-◾ 로바예프 암즈, 〃사격수 없는 저격, 모순된 개념을 AI로 실현〃...AI 저격 소총 ‘드보이닉’ 양산 돌입
-https://www.aitimes.kr/news/articleView.html?idxno=39640
+◾ 구글, 앤트로픽 추격 위해 ＇코딩 특별팀＇ 구성...세르게이 브린 직접 지휘
+https://www.aitimes.com/news/articleView.html?idxno=209522
 
-◾ 바이트댄스, 인간-사물 상호작용까지 반영하는 영상 AI ‘옴니쇼’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=209496
+◾ 알리바바, 중국 모델 최고 성능 ＇큐원3.6-맥스-프리뷰＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=209526
 
-◾ 〃딥시크-V4, 이번 주 출시〃 예측 등장...하드웨어 한계 돌파 가능성
-https://www.aitimes.com/news/articleView.html?idxno=209507
+◾ 오픈AI, 코덱스의 메모리 기능 ＇크로니클＇ 공개...〃리콜보다 위험〃 경고도
+https://www.aitimes.com/news/articleView.html?idxno=209540
 
-◾ 피지컬 인텔리전스, 훈련받지 않은 일까지 처리하는 로봇 모델 ‘파이0.7’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=209497
-
-◾ 구글, 마벨과 AI 칩 2종 개발 논의 중...추론 수요 확대 대비
-https://www.aitimes.com/news/articleView.html?idxno=209477
+◾ 샤오미, 3초짜리 녹음 파일로 600개 언어 복제하는 ＇옴니보이스＇ 오픈 출시
+https://www.aitimes.com/news/articleView.html?idxno=209553
 
 📚 간행물
-◾ 국가연구개발사업 예비타당성조사 2025 연차보고서
-https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=85&cateCont=A0206&cbIdx=0&searchKey=
-
-◾ 과학기술 혁신 전환기에 대응한 입법영향평가 체계의 구축 방안
-https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=369&cateCont=A0501&cbIdx=0&searchKey=
-
-◾ [제1286호] ITU-T TSAG 국제회의 참가
-https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1286%ED%98%B8%5D%20ITU-T%20TSAG%20%EA%B5%AD%EC%A0%9C%ED%9A%8C%EC%9D%98%20%EC%B0%B8%EA%B0%80
-
-◾ [26-7] 미국 연방조달청(GSA), AI 조달 관련 표준 계약조건 의견수렴 ('26.3.6~4.3)
-https://www.kisa.or.kr/20201/form?postSeq=275&page=1
+◾ AI 반도체 혁신을 위한 시스템 아키텍처 기반 소프트웨어 기술 전략 [주간기술동향 2210호]
+https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1395&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
