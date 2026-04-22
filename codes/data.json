@@ -3552,5 +3552,149 @@
         }
       ]
     }
+  },
+  "26.04.23": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "AI 활용 사이버 공격 대응과 국방통합데이터센터의 역할",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260423/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=DH22IEDZBGW35az7QQloPkb4_WYiX9E_x5rH3NyL16qRnLeYyrmN!-579096985",
+          "category": "국방"
+        },
+        {
+          "title": "국방정보통신협회-공군 AI 신기술융합센터, ＇차세대 C5I 체계＇ 협력 논의",
+          "link": "https://www.etnews.com/20260422000423",
+          "category": "국방"
+        },
+        {
+          "title": "멀티캠퍼스·한국국방기술학회, K-방산 리더 위한 ‘국방산업 최고위 과정 3기’ 운영",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39688",
+          "category": "국방"
+        },
+        {
+          "title": "펀진, 군 지휘결심 지원 ‘KWM’ 국가 연합작전 체계에 도입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209600",
+          "category": "국방"
+        }
+      ],
+      "민간": [
+        {
+          "title": "목암생명과학연구소-아주대의료원, AI 신약개발 연구 협약",
+          "link": "https://www.etnews.com/20260422000439",
+          "category": "민간"
+        },
+        {
+          "title": "[WIS 2026] ＇풀스택 AI＇ 체험관 꾸린 SK텔레콤, AI를 오감으로 즐긴다",
+          "link": "https://www.etnews.com/20260422000253",
+          "category": "민간"
+        },
+        {
+          "title": "[WIS 2026] “일상 어디서나 AI”…삼성전자, ＇AI 동반자＇ 환경 구축",
+          "link": "https://www.etnews.com/20260422000264",
+          "category": "민간"
+        },
+        {
+          "title": "[WIS 2026] 삼성SDS, 실무형 AI 에이전트 사례 소개…기업 AX 미래 제시",
+          "link": "https://www.etnews.com/20260422000359",
+          "category": "민간"
+        },
+        {
+          "title": "[WIS 2026] 카카오, 월드IT쇼서 ＇카나나＇ 부스 운영…일상 속 에이전틱 AI 구현",
+          "link": "https://www.etnews.com/20260422000333",
+          "category": "민간"
+        },
+        {
+          "title": "LG-엔비디아, 기술 동맹 격상…＇엑사원 생태계＇ 넓힌다",
+          "link": "https://www.etnews.com/20260422000174",
+          "category": "민간"
+        },
+        {
+          "title": "퓨리오사AI, 엔비디아 출신 핵심 인재 ‘찰리 푸’ 영입…RNGD 글로벌 상용화 및 생태계 확장에 박차",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39692",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "생각을 넘어 행동으로 : 인공지능, 현실을 움직이다” 2026 월드 IT 쇼(WIS2026) 개막",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187210&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "ETRI, ＇에지 컴퓨팅＇ 국제표준 완성...자율주행·원격의료 등 핵심 기반 활용 기대",
+          "link": "https://www.etnews.com/20260422000440",
+          "category": "기관"
+        },
+        {
+          "title": "과총, ＇AI 위원회＇ 출범했다...과기계 의견 국가 AI 제도로 연결",
+          "link": "https://www.etnews.com/20260422000434",
+          "category": "기관"
+        },
+        {
+          "title": "중기부, ＇K-스타트업 AI리그＇ 신설…차세대 AI 창업기업 발굴 나선다",
+          "link": "https://www.etnews.com/20260422000222",
+          "category": "기관"
+        },
+        {
+          "title": "공학한림원·AI전략위·미래연구원, “글로벌 AI 패권 경쟁, 핵심은 인재”",
+          "link": "https://www.etnews.com/20260422000155",
+          "category": "기관"
+        },
+        {
+          "title": "AI로 물류 배차·경로 최적화…국토부, 신기술 제9호 지정",
+          "link": "https://www.etnews.com/20260422000151",
+          "category": "기관"
+        },
+        {
+          "title": "지식재산처, ＇AI·데이터와 지식재산＇ 웹페이지 개설…글로벌 IP 동향 한눈에",
+          "link": "https://www.etnews.com/20260422000057",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI, 실무용 이미지 생성 ＇챗GPT 이미지 2.0＇ 공개",
+          "link": "https://www.etnews.com/20260422000293",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 스티치 핵심 포맷 ‘DESIGN md’ 오픈소스로 공개…AI 기반 UI 디자인 표준화 나선다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39698",
+          "category": "해외"
+        },
+        {
+          "title": "세계 최대 AI 칩 ＇세레브라스＇ 나스닥 입성 가시화...증권신고서 제출, IPO 본격 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39696",
+          "category": "해외"
+        },
+        {
+          "title": "메타, 美 털사에 AI 특화 데이터센터 착공…1.4조원 투자, 글로벌 32번째 거점 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39695",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 자율 연구 에이전트 ＇딥 리서치 맥스＇ 출시...기업 데이터·웹 통합 분석 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209579",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 챗GPT에 24시간 작동 에이전트 기능 ＇에르메스＇ 테스트 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209616",
+          "category": "해외"
+        },
+        {
+          "title": "알트먼, 앤트로픽에 역대급 직격탄...〃미소스는 ＇공포 마케팅＇에 불과〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209608",
+          "category": "해외"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "신흥안보 분야 국내외 법제의 중요기술 정보보호 이슈와 함의",
+          "link": "https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=370&cateCont=A0501&cbIdx=0&searchKey=",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
