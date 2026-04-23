@@ -3708,5 +3708,154 @@
         }
       ]
     }
+  },
+  "26.04.24": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "＇3년간 150일＇ 전투실험으로 다져진 실전적 기술력 보유 기업 아리온, 글로벌 AI 드론시장 본격 출격",
+          "link": "https://www.etnews.com/20260423000027",
+          "category": "민간"
+        },
+        {
+          "title": "삼성SDS, 2031년까지 10조 원 통 큰 투자… ＇AI 풀스택＇ 기업으로 도약",
+          "link": "https://www.etnews.com/20260423000490",
+          "category": "민간"
+        },
+        {
+          "title": "테슬라 ＇AI4＇ 칩 업그레이드 버전, 삼성전자 파운드리가 생산한다",
+          "link": "https://www.etnews.com/20260423000369",
+          "category": "민간"
+        },
+        {
+          "title": "마키나락스, 현대차 SDF 로봇 1400대에 AI 예지보전 입힌다",
+          "link": "https://www.etnews.com/20260423000099",
+          "category": "민간"
+        },
+        {
+          "title": "한컴, 국내 최초 ＇트윈형 에이전틱 OS＇ 상용화…AX 시장 선점",
+          "link": "https://www.etnews.com/20260423000041",
+          "category": "민간"
+        },
+        {
+          "title": "＇카카오톡에서 AI가 먼저 말을 걸어 온다＇...에이전틱 AI ＇카나나＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209618",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "[단독] 산학연 망라 ＇K-AI 연합＇ 출범한다…국가 AX 지도 운영",
+          "link": "https://www.etnews.com/20260423000463",
+          "category": "기관"
+        },
+        {
+          "title": "K-소버린 AX 얼라이언스 출범…“AI 수요-기술 가교역할”",
+          "link": "https://www.etnews.com/20260423000354",
+          "category": "기관"
+        },
+        {
+          "title": "[WIS 2026]K-AI 챔피언, ＇투자 연결 실전 무대＇... 정부 1.2조원 지원",
+          "link": "https://www.etnews.com/20260423000308",
+          "category": "기관"
+        },
+        {
+          "title": "‘월드IT쇼 2026’ 한국형 물리적 인공지능(K-피지컬AI) 선도 ...56개국 외교사절 한자리에",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187214&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "[보도참고] ‘25년 출시된 한국의 주목할 만한 인공지능 모델 8개",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187221&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "과기부, 1조9800억 투입해 ＇AI 유니콘 기업＇ 집중 육성한다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209654",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[ET시론]의료데이터 표준화로 ＇AI 고속도로＇ 잇는다",
+          "link": "https://www.etnews.com/20260423000166",
+          "category": "기타"
+        },
+        {
+          "title": "[김주한 교수의 정보의료·디지털 사피엔스]챗GPT를 위한 최후 변론",
+          "link": "https://www.etnews.com/20260423000307",
+          "category": "기타"
+        },
+        {
+          "title": "[김동현의 AI 시대와 한국의 선택] 〈1〉글로벌 AI 경쟁 구도와 한국의 대응 방향",
+          "link": "https://www.etnews.com/20260423000032",
+          "category": "기타"
+        }
+      ],
+      "해외": [
+        {
+          "title": "앤트로픽, ＇클로드 미토스＇ 무단 접근 조사…보안 통제 도마",
+          "link": "https://www.etnews.com/20260423000014",
+          "category": "해외"
+        },
+        {
+          "title": "록히드마틴, 저가 드론이 만든 새로운 전장 위협 대처....AI 기반 드론 대응 플랫폼 ＇포템＇에 2,500만 달러 투자",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39716",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 8세대 TPU ‘TPU 8t·8i’ 전격 공개…에이전틱 AI 시대 겨냥한 초고성능 인프라 제시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39702",
+          "category": "해외"
+        },
+        {
+          "title": "트럼프 〃앤트로픽과 국방부 계약 가능〃...강경 입장서 급선회",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209597",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 챗GPT에 ＇워크스페이스 에이전트＇ 도입...〃조직형 AI로 전환〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209646",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 미국 정보기관·파이브 아이즈에 ‘GPT-5.4-사이버’ 시연",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209658",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "‘폐쇄형 보안서 활용으로’ 국방데이터 접근성 높인다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260424/2/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985",
+          "category": "국방"
+        },
+        {
+          "title": "휴머노이드 로봇 선제 도입해 미래 해양 주도권 확보",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260424/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985",
+          "category": "국방"
+        },
+        {
+          "title": "민·군 협력으로 특수작전 과학화·첨단화 촉진",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260424/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985",
+          "category": "국방"
+        },
+        {
+          "title": "군 수사관들 “AI 기반 범죄 대응역량 키우자”",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260424/2/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985",
+          "category": "국방"
+        },
+        {
+          "title": "“미래 전장 압도적 ‘방패’ 만들 양자기술 이해해야”",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260424/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985",
+          "category": "국방"
+        },
+        {
+          "title": "유·무인 복합전투체계와 합동작전 간 드론 합동교리 발전방향",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260424/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985",
+          "category": "국방"
+        }
+      ]
+    }
   }
 }
