@@ -3728,6 +3728,11 @@
           "category": "민간"
         },
         {
+          "title": "한국형 AI 기지국 개발, 통신 3사 드림팀 출격",
+          "link": "https://www.etnews.com/20260423000039",
+          "category": "민간"
+        },
+        {
           "title": "마키나락스, 현대차 SDF 로봇 1400대에 AI 예지보전 입힌다",
           "link": "https://www.etnews.com/20260423000099",
           "category": "민간"
@@ -3750,13 +3755,8 @@
           "category": "기관"
         },
         {
-          "title": "K-소버린 AX 얼라이언스 출범…“AI 수요-기술 가교역할”",
-          "link": "https://www.etnews.com/20260423000354",
-          "category": "기관"
-        },
-        {
-          "title": "[WIS 2026]K-AI 챔피언, ＇투자 연결 실전 무대＇... 정부 1.2조원 지원",
-          "link": "https://www.etnews.com/20260423000308",
+          "title": "“AI가 ＇일자리 길＇ 찾아준다…고용정보원, 130억 투입 ＇고용 내비게이션＇ 선언”",
+          "link": "https://www.etnews.com/20260423000370",
           "category": "기관"
         },
         {
@@ -3770,32 +3770,20 @@
           "category": "기관"
         },
         {
+          "title": "[경향신문] “AI로 일자리 사라진다? 과도한 공포”…임문영 국가AI전략위 부위원장 인터뷰",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=557",
+          "category": "기관"
+        },
+        {
           "title": "과기부, 1조9800억 투입해 ＇AI 유니콘 기업＇ 집중 육성한다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209654",
           "category": "기관"
         }
       ],
-      "기타": [
-        {
-          "title": "[ET시론]의료데이터 표준화로 ＇AI 고속도로＇ 잇는다",
-          "link": "https://www.etnews.com/20260423000166",
-          "category": "기타"
-        },
-        {
-          "title": "[김주한 교수의 정보의료·디지털 사피엔스]챗GPT를 위한 최후 변론",
-          "link": "https://www.etnews.com/20260423000307",
-          "category": "기타"
-        },
-        {
-          "title": "[김동현의 AI 시대와 한국의 선택] 〈1〉글로벌 AI 경쟁 구도와 한국의 대응 방향",
-          "link": "https://www.etnews.com/20260423000032",
-          "category": "기타"
-        }
-      ],
       "해외": [
         {
-          "title": "앤트로픽, ＇클로드 미토스＇ 무단 접근 조사…보안 통제 도마",
-          "link": "https://www.etnews.com/20260423000014",
+          "title": "마이크로소프트, 호주에 26조원 ‘AI 풀스택’ 투자…인프라·보안·인재까지 국가 단위 전략 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39719",
           "category": "해외"
         },
         {
@@ -3811,6 +3799,11 @@
         {
           "title": "트럼프 〃앤트로픽과 국방부 계약 가능〃...강경 입장서 급선회",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=209597",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바, 15배나 큰 모델보다 코딩 앞선 ＇큐원3.6-27B＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209657",
           "category": "해외"
         },
         {
@@ -3848,11 +3841,6 @@
         {
           "title": "“미래 전장 압도적 ‘방패’ 만들 양자기술 이해해야”",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260424/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985",
-          "category": "국방"
-        },
-        {
-          "title": "유·무인 복합전투체계와 합동작전 간 드론 합동교리 발전방향",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20260424/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985",
           "category": "국방"
         }
       ]
