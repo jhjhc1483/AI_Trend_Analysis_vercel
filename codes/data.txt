@@ -1,84 +1,95 @@
-📢26.04.24 AI 일일 동향📢
+📢26.04.25 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ ‘폐쇄형 보안서 활용으로’ 국방데이터 접근성 높인다
-https://kookbang.dema.mil.kr/newsWeb/20260424/2/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985
+◾ [국방 AI 리더스 포럼] 국방 AI, ＇전력의 핵심＇으로···민간 기술-군 접목 본격화
+https://www.etnews.com/20260424000187
 
-◾ 휴머노이드 로봇 선제 도입해 미래 해양 주도권 확보
-https://kookbang.dema.mil.kr/newsWeb/20260424/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985
+◾ ‘폐쇄형 보안서 활용으로’ 국방데이터 접근성 높인다
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48673&startDate=&endDate=&id=mnd_020101000000
 
 ◾ 민·군 협력으로 특수작전 과학화·첨단화 촉진
-https://kookbang.dema.mil.kr/newsWeb/20260424/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48688&startDate=&endDate=&id=mnd_020101000000
 
-◾ 군 수사관들 “AI 기반 범죄 대응역량 키우자”
-https://kookbang.dema.mil.kr/newsWeb/20260424/2/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985
+◾ 휴머노이드 로봇 선제 도입해 미래 해양 주도권 확보
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48689&startDate=&endDate=&id=mnd_020101000000
 
 ◾ “미래 전장 압도적 ‘방패’ 만들 양자기술 이해해야”
-https://kookbang.dema.mil.kr/newsWeb/20260424/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=g_q7WO1gUaIiCMZV87Jl1TInIw0sHbtfAlwpQ5QjoP-qOsdCq5q3!-579096985
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48695&startDate=&endDate=&id=mnd_020101000000
+
+◾ 군 수사관들 “AI 기반 범죄 대응역량 키우자”
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48696&startDate=&endDate=&id=mnd_020101000000
+
+[육군]
+◾ 포티투마루, 육군과 ＇군수 특화 AI 파운데이션 모델＇ 구축 나선다
+https://www.aitimes.com/news/articleView.html?idxno=209727
 
 [민간]
-◾ ＇3년간 150일＇ 전투실험으로 다져진 실전적 기술력 보유 기업 아리온, 글로벌 AI 드론시장 본격 출격
-https://www.etnews.com/20260423000027
+◾ 엘리스그룹, AI 모듈형 데이터센터 기술 특허 4종 취득
+https://www.etnews.com/20260424000297
 
-◾ 삼성SDS, 2031년까지 10조 원 통 큰 투자… ＇AI 풀스택＇ 기업으로 도약
-https://www.etnews.com/20260423000490
+◾ 젠슨 황 장녀 매디슨 황, 서울대·LG 방문 추진…피지컬 AI 논의
+https://www.etnews.com/20260424000213
 
-◾ 테슬라 ＇AI4＇ 칩 업그레이드 버전, 삼성전자 파운드리가 생산한다
-https://www.etnews.com/20260423000369
+◾ SK, 베트남에 데이터센터 구축·전력 공급…＇AI 풀스택＇ 모델 해외 확장
+https://www.etnews.com/20260424000141
 
-◾ 한국형 AI 기지국 개발, 통신 3사 드림팀 출격
-https://www.etnews.com/20260423000039
+◾ [WIS 2026] KT, AI 기반 기업보안 솔루션 공개
+https://www.etnews.com/20260424000106
 
-◾ 마키나락스, 현대차 SDF 로봇 1400대에 AI 예지보전 입힌다
-https://www.etnews.com/20260423000099
+◾ LG U+, 웰컴저축은행과 ＇AI 금융비서＇ 출시…업계 최초
+https://www.etnews.com/20260424000066
 
-◾ 한컴, 국내 최초 ＇트윈형 에이전틱 OS＇ 상용화…AX 시장 선점
-https://www.etnews.com/20260423000041
-
-◾ ＇카카오톡에서 AI가 먼저 말을 걸어 온다＇...에이전틱 AI ＇카나나＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=209618
+◾ 한국앤컴퍼니, 제미나이 엔터프라이즈 기반 단일 AI 플랫폼 구축...글로벌 운영 프로세스 전면 혁신
+https://www.aitimes.kr/news/articleView.html?idxno=39737
 
 [기관]
-◾ [단독] 산학연 망라 ＇K-AI 연합＇ 출범한다…국가 AX 지도 운영
-https://www.etnews.com/20260423000463
+◾ 래블업, 정보통신 유공 대통령 표창 수상…“AI 인프라 기술 인정”
+https://www.etnews.com/20260424000299
 
-◾ “AI가 ＇일자리 길＇ 찾아준다…고용정보원, 130억 투입 ＇고용 내비게이션＇ 선언”
-https://www.etnews.com/20260423000370
+◾ 李대통령, 27일 구글 딥마인드 CEO 만난다…AI 기반 과학기술 혁신 주제
+https://www.etnews.com/20260424000234
 
-◾ ‘월드IT쇼 2026’ 한국형 물리적 인공지능(K-피지컬AI) 선도 ...56개국 외교사절 한자리에
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187214&searchOpt=ALL&searchTxt=
+◾ 정부 문서 첨부, AI 학습 가능한 hwpx 한글파일만 허용
+https://www.etnews.com/20260423000325
 
-◾ [보도참고] ‘25년 출시된 한국의 주목할 만한 인공지능 모델 8개
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187221&searchOpt=ALL&searchTxt=
+◾ 과기정통부–교육부, 인공지능(AI) 인재양성 전담반(전담 TF) 출범
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187230&searchOpt=ALL&searchTxt=
 
-◾ [경향신문] “AI로 일자리 사라진다? 과도한 공포”…임문영 국가AI전략위 부위원장 인터뷰
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=557
+◾ 국내 최초 과학기술 AI 경진대회, ｢2026 AI Co-Scientist Challenge Korea｣ 시상식 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187224&searchOpt=ALL&searchTxt=
 
-◾ 과기부, 1조9800억 투입해 ＇AI 유니콘 기업＇ 집중 육성한다
-https://www.aitimes.com/news/articleView.html?idxno=209654
+◾ 새만금, ‘AI 혁신 스마트도시’로 도약한다...＇새만금 스마트도시계획＇, 국토부 최종 승인
+https://www.aitimes.kr/news/articleView.html?idxno=39759
 
 [해외]
-◾ 마이크로소프트, 호주에 26조원 ‘AI 풀스택’ 투자…인프라·보안·인재까지 국가 단위 전략 가속
-https://www.aitimes.kr/news/articleView.html?idxno=39719
+◾ 딥시크, 새 가성비 AI ＇V4＇ 공개…최강 에이전트·100만자 기억
+https://www.etnews.com/20260424000373
 
-◾ 록히드마틴, 저가 드론이 만든 새로운 전장 위협 대처....AI 기반 드론 대응 플랫폼 ＇포템＇에 2,500만 달러 투자
-https://www.aitimes.kr/news/articleView.html?idxno=39716
+◾ 오픈AI, 에이전틱·코딩·맥락 강화한 ＇GPT-5.5＇ 출시
+https://www.etnews.com/20260424000020
 
-◾ 구글, 8세대 TPU ‘TPU 8t·8i’ 전격 공개…에이전틱 AI 시대 겨냥한 초고성능 인프라 제시
-https://www.aitimes.kr/news/articleView.html?idxno=39702
+◾ 美 공군부, AI 중심 군사 전략 본격화...데이터·AI 전략 전격 공개, ‘AI 퍼스트 군대’ 전환 선언
+https://www.aitimes.kr/news/articleView.html?idxno=39747
 
-◾ 트럼프 〃앤트로픽과 국방부 계약 가능〃...강경 입장서 급선회
-https://www.aitimes.com/news/articleView.html?idxno=209597
+◾ 문샷, 300개 에이전트 동시 운영하는 ＇키미 K2.6 에이전트 스웜＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=209726
 
-◾ 알리바바, 15배나 큰 모델보다 코딩 앞선 ＇큐원3.6-27B＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=209657
+◾ 백악관, 중국의 AI 기술 ＇베끼기＇ 비난...〃AI 기업과 정보 공유할 것〃
+https://www.aitimes.com/news/articleView.html?idxno=209721
 
-◾ 오픈AI, 챗GPT에 ＇워크스페이스 에이전트＇ 도입...〃조직형 AI로 전환〃
-https://www.aitimes.com/news/articleView.html?idxno=209646
+◾ 테슬라, 올해 투자액 37조로 상향 조정...〃AI·로보택시·로봇에 집중〃
+https://www.aitimes.com/news/articleView.html?idxno=209697
 
-◾ 오픈AI, 미국 정보기관·파이브 아이즈에 ‘GPT-5.4-사이버’ 시연
-https://www.aitimes.com/news/articleView.html?idxno=209658
+📚 간행물
+◾ 변혁적 시기의 포용적 혁신 외교, 글로벌 사우스와의 공동 창출 혁신 파트너십 추진 방안
+https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=371&cateCont=A0501&cbIdx=0&searchKey=
+
+◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 4월 2주차)
+https://www.kisa.or.kr/20202/form?postSeq=471&page=1
+
+◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 4월 1주차)
+https://www.kisa.or.kr/20202/form?postSeq=470&page=1
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
