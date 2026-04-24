@@ -3865,8 +3865,8 @@
           "category": "해외"
         },
         {
-          "title": "문샷, 300개 에이전트 동시 운영하는 ＇키미 K2.6 에이전트 스웜＇ 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=209726",
+          "title": "텐센트, 오픈AI 연구원 영입 후 첫 모델 ＇Hy3＇ 출시...〃작지만 강력〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209709",
           "category": "해외"
         },
         {
@@ -3880,15 +3880,54 @@
           "category": "해외"
         }
       ],
-      "기관": [
+      "국방": [
         {
-          "title": "래블업, 정보통신 유공 대통령 표창 수상…“AI 인프라 기술 인정”",
-          "link": "https://www.etnews.com/20260424000299",
-          "category": "기관"
+          "title": "전북대, 피지컬AI 국방·항공우주·로봇·자율제조 분야 최신 기술 공유",
+          "link": "https://www.etnews.com/20260424000322",
+          "category": "국방"
         },
+        {
+          "title": "[국방 AI 리더스 포럼] 국방 AI, ＇전력의 핵심＇으로···민간 기술-군 접목 본격화",
+          "link": "https://www.etnews.com/20260424000187",
+          "category": "국방"
+        },
+        {
+          "title": "‘폐쇄형 보안서 활용으로’ 국방데이터 접근성 높인다",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48673&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "휴머노이드 로봇 선제 도입해 미래 해양 주도권 확보",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48689&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "군 수사관들 “AI 기반 범죄 대응역량 키우자”",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48696&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        }
+      ],
+      "육군": [
+        {
+          "title": "포티투마루, 육군 군수사령부와 국방 군수 AI 전환 지원",
+          "link": "https://www.etnews.com/20260424000272",
+          "category": "육군"
+        },
+        {
+          "title": "포티투마루, 육군과 ＇군수 특화 AI 파운데이션 모델＇ 구축 나선다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209727",
+          "category": "육군"
+        }
+      ],
+      "기관": [
         {
           "title": "李대통령, 27일 구글 딥마인드 CEO 만난다…AI 기반 과학기술 혁신 주제",
           "link": "https://www.etnews.com/20260424000234",
+          "category": "기관"
+        },
+        {
+          "title": "원주시, AI 특화 시범도시 도전…민간 컨소시엄과 ＇K-AI 시티＇ 구축",
+          "link": "https://www.etnews.com/20260424000082",
           "category": "기관"
         },
         {
@@ -3907,17 +3946,12 @@
           "category": "기관"
         },
         {
-          "title": "새만금, ‘AI 혁신 스마트도시’로 도약한다...＇새만금 스마트도시계획＇, 국토부 최종 승인",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39759",
+          "title": "AIIA, ‘AI 안전·신뢰 표준화 포럼’ 출범…”산업 적용형 표준 마련”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209719",
           "category": "기관"
         }
       ],
       "민간": [
-        {
-          "title": "엘리스그룹, AI 모듈형 데이터센터 기술 특허 4종 취득",
-          "link": "https://www.etnews.com/20260424000297",
-          "category": "민간"
-        },
         {
           "title": "젠슨 황 장녀 매디슨 황, 서울대·LG 방문 추진…피지컬 AI 논의",
           "link": "https://www.etnews.com/20260424000213",
@@ -3929,8 +3963,13 @@
           "category": "민간"
         },
         {
-          "title": "[WIS 2026] KT, AI 기반 기업보안 솔루션 공개",
-          "link": "https://www.etnews.com/20260424000106",
+          "title": "김택진 엔씨 대표 “AI 시대 경쟁력은 통찰력”",
+          "link": "https://www.etnews.com/20260424000112",
+          "category": "민간"
+        },
+        {
+          "title": "카카오, 광고 콘퍼런스 개최…AI 기반 광고 플랫폼 확장 방향 제시",
+          "link": "https://www.etnews.com/20260424000094",
           "category": "민간"
         },
         {
@@ -3942,45 +3981,6 @@
           "title": "한국앤컴퍼니, 제미나이 엔터프라이즈 기반 단일 AI 플랫폼 구축...글로벌 운영 프로세스 전면 혁신",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=39737",
           "category": "민간"
-        }
-      ],
-      "국방": [
-        {
-          "title": "[국방 AI 리더스 포럼] 국방 AI, ＇전력의 핵심＇으로···민간 기술-군 접목 본격화",
-          "link": "https://www.etnews.com/20260424000187",
-          "category": "국방"
-        },
-        {
-          "title": "‘폐쇄형 보안서 활용으로’ 국방데이터 접근성 높인다",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48673&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        },
-        {
-          "title": "민·군 협력으로 특수작전 과학화·첨단화 촉진",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48688&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        },
-        {
-          "title": "휴머노이드 로봇 선제 도입해 미래 해양 주도권 확보",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48689&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        },
-        {
-          "title": "“미래 전장 압도적 ‘방패’ 만들 양자기술 이해해야”",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48695&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        },
-        {
-          "title": "군 수사관들 “AI 기반 범죄 대응역량 키우자”",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48696&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        }
-      ],
-      "육군": [
-        {
-          "title": "포티투마루, 육군과 ＇군수 특화 AI 파운데이션 모델＇ 구축 나선다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=209727",
-          "category": "육군"
         }
       ],
       "간행물": [
