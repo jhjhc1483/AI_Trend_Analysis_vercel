@@ -4001,5 +4001,72 @@
         }
       ]
     }
+  },
+  "26.04.26": {
+    "categorized": {
+      "기타": [
+        {
+          "title": "[ET시선] 서울시 AI 정책, ＇조직의 격＇을 높일 때",
+          "link": "https://www.etnews.com/20260424000193",
+          "category": "기타"
+        },
+        {
+          "title": "AI와의 대화, 법정에선 어디까지 ＇증거＇로 인정될까",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209505",
+          "category": "기타"
+        }
+      ],
+      "기관": [
+        {
+          "title": "교육부-과기부, AI 인재양성 협력과제의 실행을 위한 전담팀 첫 회의 개최",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39761",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "메타, ‘에이전틱 AI’ 인프라에 CPU 대규모 확장… AWS, 수천만 개 ＇그라비톤 칩＇ 도입",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39760",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아, 시총 5조달러 탈환...＇딥시크-V4＇ 출시에도 상승",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209744",
+          "category": "해외"
+        },
+        {
+          "title": "중국, 기술 유출 차단 위해 AI 기업의 미국 투자 유치 제한",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209739",
+          "category": "해외"
+        },
+        {
+          "title": "xAI, 에이전트 환경 특화 음성 모델 공개...〃사전 추론으로 오류 줄여〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209741",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 앤트로픽에 최대 59조 추가 투자 예정...5GW 컴퓨팅 자원 제공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209736",
+          "category": "해외"
+        },
+        {
+          "title": "딥시크-V4, 세계 10위에 그쳐...〃기대 이하 성능에 미국은 안도〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209735",
+          "category": "해외"
+        },
+        {
+          "title": "10년 베테랑 엘리트 선수도 이겼다… 로봇의 놀라운 탁구 실력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209732",
+          "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "플리토 “한국인 AI 통·번역 75%는 영·일어...비즈니스 넘어 일상 활용도 증가”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209743",
+          "category": "민간"
+        }
+      ]
+    }
   }
 }

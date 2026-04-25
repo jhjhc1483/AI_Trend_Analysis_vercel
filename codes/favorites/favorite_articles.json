@@ -1,127 +1,57 @@
 [
   {
-    "title": "딥시크, 새 가성비 AI ＇V4＇ 공개…최강 에이전트·100만자 기억",
-    "link": "https://www.etnews.com/20260424000373",
+    "title": "[ET시선] 서울시 AI 정책, ＇조직의 격＇을 높일 때",
+    "link": "https://www.etnews.com/20260424000193",
+    "category": "기타"
+  },
+  {
+    "title": "교육부-과기부, AI 인재양성 협력과제의 실행을 위한 전담팀 첫 회의 개최",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39761",
+    "category": "기관"
+  },
+  {
+    "title": "메타, ‘에이전틱 AI’ 인프라에 CPU 대규모 확장… AWS, 수천만 개 ＇그라비톤 칩＇ 도입",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39760",
     "category": "해외"
   },
   {
-    "title": "전북대, 피지컬AI 국방·항공우주·로봇·자율제조 분야 최신 기술 공유",
-    "link": "https://www.etnews.com/20260424000322",
-    "category": "국방"
-  },
-  {
-    "title": "포티투마루, 육군 군수사령부와 국방 군수 AI 전환 지원",
-    "link": "https://www.etnews.com/20260424000272",
-    "category": "육군"
-  },
-  {
-    "title": "李대통령, 27일 구글 딥마인드 CEO 만난다…AI 기반 과학기술 혁신 주제",
-    "link": "https://www.etnews.com/20260424000234",
-    "category": "기관"
-  },
-  {
-    "title": "젠슨 황 장녀 매디슨 황, 서울대·LG 방문 추진…피지컬 AI 논의",
-    "link": "https://www.etnews.com/20260424000213",
-    "category": "민간"
-  },
-  {
-    "title": "[국방 AI 리더스 포럼] 국방 AI, ＇전력의 핵심＇으로···민간 기술-군 접목 본격화",
-    "link": "https://www.etnews.com/20260424000187",
-    "category": "국방"
-  },
-  {
-    "title": "SK, 베트남에 데이터센터 구축·전력 공급…＇AI 풀스택＇ 모델 해외 확장",
-    "link": "https://www.etnews.com/20260424000141",
-    "category": "민간"
-  },
-  {
-    "title": "김택진 엔씨 대표 “AI 시대 경쟁력은 통찰력”",
-    "link": "https://www.etnews.com/20260424000112",
-    "category": "민간"
-  },
-  {
-    "title": "카카오, 광고 콘퍼런스 개최…AI 기반 광고 플랫폼 확장 방향 제시",
-    "link": "https://www.etnews.com/20260424000094",
-    "category": "민간"
-  },
-  {
-    "title": "원주시, AI 특화 시범도시 도전…민간 컨소시엄과 ＇K-AI 시티＇ 구축",
-    "link": "https://www.etnews.com/20260424000082",
-    "category": "기관"
-  },
-  {
-    "title": "LG U+, 웰컴저축은행과 ＇AI 금융비서＇ 출시…업계 최초",
-    "link": "https://www.etnews.com/20260424000066",
-    "category": "민간"
-  },
-  {
-    "title": "정부 문서 첨부, AI 학습 가능한 hwpx 한글파일만 허용",
-    "link": "https://www.etnews.com/20260423000325",
-    "category": "기관"
-  },
-  {
-    "title": "오픈AI, 에이전틱·코딩·맥락 강화한 ＇GPT-5.5＇ 출시",
-    "link": "https://www.etnews.com/20260424000020",
+    "title": "엔비디아, 시총 5조달러 탈환...＇딥시크-V4＇ 출시에도 상승",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209744",
     "category": "해외"
   },
   {
-    "title": "과기정통부–교육부, 인공지능(AI) 인재양성 전담반(전담 TF) 출범",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187230&searchOpt=ALL&searchTxt=",
-    "category": "기관"
+    "title": "AI와의 대화, 법정에선 어디까지 ＇증거＇로 인정될까",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209505",
+    "category": "기타"
   },
   {
-    "title": "국내 최초 과학기술 AI 경진대회, ｢2026 AI Co-Scientist Challenge Korea｣ 시상식 개최",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187224&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "‘폐쇄형 보안서 활용으로’ 국방데이터 접근성 높인다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48673&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "휴머노이드 로봇 선제 도입해 미래 해양 주도권 확보",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48689&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "군 수사관들 “AI 기반 범죄 대응역량 키우자”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48696&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "美 공군부, AI 중심 군사 전략 본격화...데이터·AI 전략 전격 공개, ‘AI 퍼스트 군대’ 전환 선언",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39747",
+    "title": "중국, 기술 유출 차단 위해 AI 기업의 미국 투자 유치 제한",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209739",
     "category": "해외"
   },
   {
-    "title": "한국앤컴퍼니, 제미나이 엔터프라이즈 기반 단일 AI 플랫폼 구축...글로벌 운영 프로세스 전면 혁신",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39737",
+    "title": "플리토 “한국인 AI 통·번역 75%는 영·일어...비즈니스 넘어 일상 활용도 증가”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209743",
     "category": "민간"
   },
   {
-    "title": "텐센트, 오픈AI 연구원 영입 후 첫 모델 ＇Hy3＇ 출시...〃작지만 강력〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209709",
+    "title": "xAI, 에이전트 환경 특화 음성 모델 공개...〃사전 추론으로 오류 줄여〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209741",
     "category": "해외"
   },
   {
-    "title": "백악관, 중국의 AI 기술 ＇베끼기＇ 비난...〃AI 기업과 정보 공유할 것〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209721",
+    "title": "구글, 앤트로픽에 최대 59조 추가 투자 예정...5GW 컴퓨팅 자원 제공",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209736",
     "category": "해외"
   },
   {
-    "title": "포티투마루, 육군과 ＇군수 특화 AI 파운데이션 모델＇ 구축 나선다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209727",
-    "category": "육군"
+    "title": "딥시크-V4, 세계 10위에 그쳐...〃기대 이하 성능에 미국은 안도〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209735",
+    "category": "해외"
   },
   {
-    "title": "AIIA, ‘AI 안전·신뢰 표준화 포럼’ 출범…”산업 적용형 표준 마련”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209719",
-    "category": "기관"
-  },
-  {
-    "title": "테슬라, 올해 투자액 37조로 상향 조정...〃AI·로보택시·로봇에 집중〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209697",
+    "title": "10년 베테랑 엘리트 선수도 이겼다… 로봇의 놀라운 탁구 실력",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209732",
     "category": "해외"
   }
 ]
