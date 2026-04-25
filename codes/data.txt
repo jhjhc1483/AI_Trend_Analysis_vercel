@@ -2,19 +2,25 @@
 
 📰 오늘의 기사
 [민간]
+◾ [무엇이든 리뷰] ＇찰칵＇ 몇번에 피부 나이부터 화장품 추천까지…올리브영 피부진단 해보니
+https://www.etnews.com/20260424000276
+
 ◾ 플리토 “한국인 AI 통·번역 75%는 영·일어...비즈니스 넘어 일상 활용도 증가”
 https://www.aitimes.com/news/articleView.html?idxno=209743
+
+◾ 10년 베테랑 엘리트 선수도 이겼다… 로봇의 놀라운 탁구 실력
+https://www.aitimes.com/news/articleView.html?idxno=209732
 
 [기관]
 ◾ 교육부-과기부, AI 인재양성 협력과제의 실행을 위한 전담팀 첫 회의 개최
 https://www.aitimes.kr/news/articleView.html?idxno=39761
 
 [해외]
+◾ 세계 최대 규모 올림피아드 수학 데이터셋 ‘매스넷(MathNet)’ 오픈소스로 공개...MIT, AI 추론 능력 검증과 교육 민주화
+https://www.aitimes.kr/news/articleView.html?idxno=39762
+
 ◾ 메타, ‘에이전틱 AI’ 인프라에 CPU 대규모 확장… AWS, 수천만 개 ＇그라비톤 칩＇ 도입
 https://www.aitimes.kr/news/articleView.html?idxno=39760
-
-◾ 엔비디아, 시총 5조달러 탈환...＇딥시크-V4＇ 출시에도 상승
-https://www.aitimes.com/news/articleView.html?idxno=209744
 
 ◾ 중국, 기술 유출 차단 위해 AI 기업의 미국 투자 유치 제한
 https://www.aitimes.com/news/articleView.html?idxno=209739
@@ -28,8 +34,8 @@ https://www.aitimes.com/news/articleView.html?idxno=209736
 ◾ 딥시크-V4, 세계 10위에 그쳐...〃기대 이하 성능에 미국은 안도〃
 https://www.aitimes.com/news/articleView.html?idxno=209735
 
-◾ 10년 베테랑 엘리트 선수도 이겼다… 로봇의 놀라운 탁구 실력
-https://www.aitimes.com/news/articleView.html?idxno=209732
+◾ [4월24일] 〃GPT-5.5가 더 정직해서 클로드 4.7를 이겼다?〃...＇벤딩벤치＇가 보여준 전략의 차이
+https://www.aitimes.com/news/articleView.html?idxno=209711
 
 [기타]
 ◾ [ET시선] 서울시 AI 정책, ＇조직의 격＇을 높일 때
