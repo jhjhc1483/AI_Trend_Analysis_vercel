@@ -5,6 +5,16 @@
     "category": "기타"
   },
   {
+    "title": "[무엇이든 리뷰] ＇찰칵＇ 몇번에 피부 나이부터 화장품 추천까지…올리브영 피부진단 해보니",
+    "link": "https://www.etnews.com/20260424000276",
+    "category": "민간"
+  },
+  {
+    "title": "세계 최대 규모 올림피아드 수학 데이터셋 ‘매스넷(MathNet)’ 오픈소스로 공개...MIT, AI 추론 능력 검증과 교육 민주화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39762",
+    "category": "해외"
+  },
+  {
     "title": "교육부-과기부, AI 인재양성 협력과제의 실행을 위한 전담팀 첫 회의 개최",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39761",
     "category": "기관"
@@ -12,11 +22,6 @@
   {
     "title": "메타, ‘에이전틱 AI’ 인프라에 CPU 대규모 확장… AWS, 수천만 개 ＇그라비톤 칩＇ 도입",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39760",
-    "category": "해외"
-  },
-  {
-    "title": "엔비디아, 시총 5조달러 탈환...＇딥시크-V4＇ 출시에도 상승",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209744",
     "category": "해외"
   },
   {
@@ -50,8 +55,13 @@
     "category": "해외"
   },
   {
+    "title": "[4월24일] 〃GPT-5.5가 더 정직해서 클로드 4.7를 이겼다?〃...＇벤딩벤치＇가 보여준 전략의 차이",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209711",
+    "category": "해외"
+  },
+  {
     "title": "10년 베테랑 엘리트 선수도 이겼다… 로봇의 놀라운 탁구 실력",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209732",
-    "category": "해외"
+    "category": "민간"
   }
 ]
