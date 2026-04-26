@@ -4078,5 +4078,127 @@
         }
       ]
     }
+  },
+  "26.04.27": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "구글, 앤트로픽에 최대 59조원 투자",
+          "link": "https://www.etnews.com/20260426000100",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, ＇HBM 20개＇ 괴물 칩 특허 공개…물리적 제약 돌파",
+          "link": "https://www.etnews.com/20260424000207",
+          "category": "해외"
+        },
+        {
+          "title": "AI가 ＇MS 보안취약점＇ 수초만에 찾았다",
+          "link": "https://www.etnews.com/20260424000280",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽이 증명한 ‘에이전트 거래’의 실체...〃반려견 산책까지 성사〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209748",
+          "category": "해외"
+        },
+        {
+          "title": "미국, 전 세계에 중국 기업 ＇AI 도용＇ 경고 발령",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209746",
+          "category": "해외"
+        },
+        {
+          "title": "머스크, 오픈AI 소송에서 ＇사기＇ 혐의 제외...〃본질에만 집중〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209747",
+          "category": "해외"
+        }
+      ],
+      "기관": [
+        {
+          "title": "＇한의약AX＇ 중장기 전략 세운다",
+          "link": "https://www.etnews.com/20260424000246",
+          "category": "기관"
+        },
+        {
+          "title": "＇WIS 2026＇ 역대 최대 규모 성료…AI·산업 융합 미래상 제시한 글로벌 ICT 무대",
+          "link": "https://www.etnews.com/20260426000069",
+          "category": "기관"
+        },
+        {
+          "title": "전남자치경찰위, AI 기반 현장 중심 통합 안전망 구축",
+          "link": "https://www.etnews.com/20260426000091",
+          "category": "기관"
+        },
+        {
+          "title": "[에듀플러스]＇학생 창업, 투자시장과 글로벌 무대로 확장＇…110억 모은 KAIST 학생 창업 ＇SW중심대학 사업 일환＇",
+          "link": "https://www.etnews.com/20260424000110",
+          "category": "기관"
+        },
+        {
+          "title": "투비유니콘, 윤진욱 대표 공공 AI 정책 자문 활동 활발…기업 현장 목소리 전달",
+          "link": "https://www.etnews.com/20260424000149",
+          "category": "기관"
+        },
+        {
+          "title": "위세아이텍, 56억 규모 ＇中企 데이터 플랫폼 구축＇ 사업 수주… 생성형 AI 기반 AX 추진",
+          "link": "https://www.etnews.com/20260424000129",
+          "category": "기관"
+        },
+        {
+          "title": "데이터 기반 농업기술 보급 확산…농진청, 현장 대응력 높인다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39757",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[단독] SK, AI 연합군 ＇K-AI 얼라이언스＇ 그룹서 직접 챙긴다",
+          "link": "https://www.etnews.com/20260424000266",
+          "category": "민간"
+        },
+        {
+          "title": "IBK기업은행, 정책금융 틀 바꾼다…AI 기반 조직 재편 착수",
+          "link": "https://www.etnews.com/20260424000157",
+          "category": "민간"
+        },
+        {
+          "title": "효성重, ＇반도체 변압기＇ 앞세워 AI데이터센터 시장 정조준",
+          "link": "https://www.etnews.com/20260424000214",
+          "category": "민간"
+        },
+        {
+          "title": "황선영 NHN와플랫 대표 “AI 기술로 새로운 돌봄 표준 제시”",
+          "link": "https://www.etnews.com/20260424000231",
+          "category": "민간"
+        },
+        {
+          "title": "현대차·기아, 통학길 교통안전 지키는 ‘비전 펄스’ 기술 캠페인으로 국제 광고제 수상",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39766",
+          "category": "민간"
+        },
+        {
+          "title": "한컴 〃깃허브 1위는 35년 문서 기술의 결실...글로벌 표준 될 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209568",
+          "category": "민간"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[뉴스줌인] AI 보안 분석, 이미 실현된 위협…＇AI 대(對) AI＇ 경쟁 대비해야",
+          "link": "https://www.etnews.com/20260426000040",
+          "category": "기타"
+        },
+        {
+          "title": "[사설] AI 공격 막을 AI 보안기술 확보 시급하다",
+          "link": "https://www.etnews.com/20260426000075",
+          "category": "기타"
+        },
+        {
+          "title": "반도체 열 확산과 응력 예측 AI 알고리즘 개발",
+          "link": "https://www.etnews.com/20260426000002",
+          "category": "기타"
+        }
+      ]
+    }
   }
 }
