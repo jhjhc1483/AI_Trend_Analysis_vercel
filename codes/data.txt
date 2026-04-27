@@ -11,65 +11,54 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 ◾ AX 연계 MRO 분야 실증형 기술 발굴 나서
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48715&startDate=&endDate=&id=mnd_020101000000
 
-◾ 데이터·무인체계 결합 정밀 화력지원 가능성 점검
-https://kookbang.dema.mil.kr/newsWeb/20260428/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985
-
 ◾ AI 시대, 인간의 군사전략은 여전히 유효한가
 https://kookbang.dema.mil.kr/newsWeb/20260428/1/ATCE_CTGR_0050060000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985
 
+[육군]
+◾ 데이터·무인체계 결합 정밀 화력지원 가능성 점검
+https://kookbang.dema.mil.kr/newsWeb/20260428/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985
+
 [민간]
-◾ [포토] 스틸리언, AI 기반 취약점 분석 솔루션 디퓨토 시연
-https://www.etnews.com/20260427000438
+◾ 李대통령, ＇알파고 父＇ 접견…구글 딥마인드 ＇AI 선물꾸러미＇ 받았다
+https://www.etnews.com/20260427000443
 
-◾ 세일포인트 “80% 기업서 ＇AI 에이전트 이상행동＇…통합 관리 필요”
-https://www.etnews.com/20260427000281
-
-◾ [AX 베스트 프랙티스] 마키나락스 “에이전트로 제조 등 현장 중심 피지컬 AI 구현”
-https://www.etnews.com/20260427000087
+◾ [人사이트]로봇이 현장으로 간다…김효영 한국공학대 교수 “피지컬AI, 산업 경쟁력 가르는 핵심 축”
+https://www.etnews.com/20260427000065
 
 ◾ 삼성SDS·LG CNS, ＇챗GPT 에듀＇ 판매권 확보…오픈AI와 협력 확대
 https://www.etnews.com/20260427000291
 
-◾ 어드밴텍, AI EXPO 2026에서 산업 현장 혁신 ＇피지컬 AI＇ 솔루션 ＇공개＇
-https://www.etnews.com/20260427000064
+◾ KAIST, ＇모른다＇고 말하는 AI 구현...高신뢰성 AI 구현 길 열어
+https://www.etnews.com/20260427000255
 
-◾ 삼성서울병원, 낙상 감지·원격 소통까지…AI 기반 ＇스마트병실＇ 가동
-https://www.etnews.com/20260427000048
+◾ 네이버 최수연 대표, ＇스시테크 도쿄 2026＇서 사회적 인프라로서의 AI 비전 제시
+https://www.aitimes.kr/news/articleView.html?idxno=39780
 
 ◾ SKT 에이닷 전화 ＇가족 케어＇ 기능 선보여, AI가 보이스피싱 탐지 시 가족에게 즉시 알린다
 https://www.aitimes.kr/news/articleView.html?idxno=39777
 
 [기관]
-◾ 李대통령, ＇알파고 父＇ 접견…구글 딥마인드 ＇AI 선물꾸러미＇ 받았다
-https://www.etnews.com/20260427000443
+◾ 조달청, 자율주행 드론 등 ＇2026년 2차 혁신제품 시범구매＇ 92개 제품 선정
+https://www.etnews.com/20260427000178
 
-◾ 과기정통부-구글 딥마인드 맞손, ＇K-문샷＇ 협력 본격화
-https://www.etnews.com/20260427000283
+◾ 과기정통부-구글 딥마인드 맞손, ｢K-문샷｣ 협력 본격화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187234&searchOpt=ALL&searchTxt=
 
-◾ ＇AI 사회정책 포럼＇ 출범…“AI發 사회 변화 선제 대응”
-https://www.etnews.com/20260427000348
-
-◾ 국가전략기술 전면 재편…55개 기술에 60조 집중 투입한다
-https://www.etnews.com/20260427000326
-
-◾ KAIST, ＇모른다＇고 말하는 AI 구현...高신뢰성 AI 구현 길 열어
-https://www.etnews.com/20260427000255
+◾ [보도참고] 범부처·민간 협업으로 NEXT 국가전략기술 체계 고도화, 기술패권 경쟁에 대응한다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187241&searchOpt=ALL&searchTxt=
 
 ◾ 과기정통부, 올해 상반기 내 ‘자율형 인공지능(에이전틱 AI) 생태계 발전 전략’ 수립 예정
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187235&searchOpt=ALL&searchTxt=
+
+◾ 인공지능 확산으로 인한 다양한 쟁점을 함께 논의하고 사회적 합의를 이끌 「인공지능(A)I 사회정책 포럼」 출범
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187232&searchOpt=ALL&searchTxt=
 
 ◾ AI 전환기, 인재와 교육체계 대전환 논의 본격화
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=574
 
 [해외]
-◾ AWS, 코엑스서 ＇AWS 서밋 서울 2026＇ 개최…AI 에이전트 비전 제시
-https://www.etnews.com/20260427000363
-
 ◾ NEC-앤트로픽, 전략적 파트너십 체결… 일본 최대 규모 ‘AI 엔지니어링 군단’ 구축
 https://www.aitimes.kr/news/articleView.html?idxno=39783
-
-◾ 日서 美 드론 대량 생산…‘방산밀월’ 속도낸다
-https://kookbang.dema.mil.kr/newsWeb/20260428/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985
 
 ◾ 사카나 AI, 단순 모델 호출 넘어 모델 가중치 섞는 ‘진화형 오케스트레이션’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=209787
@@ -79,6 +68,9 @@ https://www.aitimes.com/news/articleView.html?idxno=209779
 
 ◾ 구글, MS 제치고 ＇AI 컴퓨팅＇ 세계 1위 올라...〃자체 칩 TPU의 힘〃
 https://www.aitimes.com/news/articleView.html?idxno=209792
+
+◾ xAI, ＇그록＇ 글쓰기 성능 향상 위해 최상급 전문 작가 채용
+https://www.aitimes.com/news/articleView.html?idxno=209802
 
 ◾ 중국, 딥시크 띄우기에 나서...〃V4 출시 지연은 ＇기술 굴기＇ 위한 것〃
 https://www.aitimes.com/news/articleView.html?idxno=209785
