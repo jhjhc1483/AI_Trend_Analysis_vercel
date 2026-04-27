@@ -4215,5 +4215,154 @@
         }
       ]
     }
+  },
+  "26.04.28": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "李대통령, ＇알파고 父＇ 접견…구글 딥마인드 ＇AI 선물꾸러미＇ 받았다",
+          "link": "https://www.etnews.com/20260427000443",
+          "category": "기관"
+        },
+        {
+          "title": "과기정통부-구글 딥마인드 맞손, ＇K-문샷＇ 협력 본격화",
+          "link": "https://www.etnews.com/20260427000283",
+          "category": "기관"
+        },
+        {
+          "title": "＇AI 사회정책 포럼＇ 출범…“AI發 사회 변화 선제 대응”",
+          "link": "https://www.etnews.com/20260427000348",
+          "category": "기관"
+        },
+        {
+          "title": "국가전략기술 전면 재편…55개 기술에 60조 집중 투입한다",
+          "link": "https://www.etnews.com/20260427000326",
+          "category": "기관"
+        },
+        {
+          "title": "KAIST, ＇모른다＇고 말하는 AI 구현...高신뢰성 AI 구현 길 열어",
+          "link": "https://www.etnews.com/20260427000255",
+          "category": "기관"
+        },
+        {
+          "title": "과기정통부, 올해 상반기 내 ‘자율형 인공지능(에이전틱 AI) 생태계 발전 전략’ 수립 예정",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187235&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "AI 전환기, 인재와 교육체계 대전환 논의 본격화",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=574",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[포토] 스틸리언, AI 기반 취약점 분석 솔루션 디퓨토 시연",
+          "link": "https://www.etnews.com/20260427000438",
+          "category": "민간"
+        },
+        {
+          "title": "세일포인트 “80% 기업서 ＇AI 에이전트 이상행동＇…통합 관리 필요”",
+          "link": "https://www.etnews.com/20260427000281",
+          "category": "민간"
+        },
+        {
+          "title": "[AX 베스트 프랙티스] 마키나락스 “에이전트로 제조 등 현장 중심 피지컬 AI 구현”",
+          "link": "https://www.etnews.com/20260427000087",
+          "category": "민간"
+        },
+        {
+          "title": "삼성SDS·LG CNS, ＇챗GPT 에듀＇ 판매권 확보…오픈AI와 협력 확대",
+          "link": "https://www.etnews.com/20260427000291",
+          "category": "민간"
+        },
+        {
+          "title": "어드밴텍, AI EXPO 2026에서 산업 현장 혁신 ＇피지컬 AI＇ 솔루션 ＇공개＇",
+          "link": "https://www.etnews.com/20260427000064",
+          "category": "민간"
+        },
+        {
+          "title": "삼성서울병원, 낙상 감지·원격 소통까지…AI 기반 ＇스마트병실＇ 가동",
+          "link": "https://www.etnews.com/20260427000048",
+          "category": "민간"
+        },
+        {
+          "title": "SKT 에이닷 전화 ＇가족 케어＇ 기능 선보여, AI가 보이스피싱 탐지 시 가족에게 즉시 알린다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39777",
+          "category": "민간"
+        }
+      ],
+      "국방": [
+        {
+          "title": "[전파칼럼] 국방반도체 MMIC, 전략자산으로 키워야",
+          "link": "https://www.etnews.com/20260427000154",
+          "category": "국방"
+        },
+        {
+          "title": "“첨단기술 기반 감시체계 구축은 선택이 아닌 필수”",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48706&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "AX 연계 MRO 분야 실증형 기술 발굴 나서",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48715&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "데이터·무인체계 결합 정밀 화력지원 가능성 점검",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260428/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985",
+          "category": "국방"
+        },
+        {
+          "title": "AI 시대, 인간의 군사전략은 여전히 유효한가",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260428/1/ATCE_CTGR_0050060000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985",
+          "category": "국방"
+        }
+      ],
+      "해외": [
+        {
+          "title": "AWS, 코엑스서 ＇AWS 서밋 서울 2026＇ 개최…AI 에이전트 비전 제시",
+          "link": "https://www.etnews.com/20260427000363",
+          "category": "해외"
+        },
+        {
+          "title": "NEC-앤트로픽, 전략적 파트너십 체결… 일본 최대 규모 ‘AI 엔지니어링 군단’ 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39783",
+          "category": "해외"
+        },
+        {
+          "title": "日서 美 드론 대량 생산…‘방산밀월’ 속도낸다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260428/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985",
+          "category": "해외"
+        },
+        {
+          "title": "사카나 AI, 단순 모델 호출 넘어 모델 가중치 섞는 ‘진화형 오케스트레이션’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209787",
+          "category": "해외"
+        },
+        {
+          "title": "구글, AI가 학습 데이터 스스로 설계하는 ＇시뮬라＇ 공개...〃단순 베끼기는 끝나〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209779",
+          "category": "해외"
+        },
+        {
+          "title": "구글, MS 제치고 ＇AI 컴퓨팅＇ 세계 1위 올라...〃자체 칩 TPU의 힘〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209792",
+          "category": "해외"
+        },
+        {
+          "title": "중국, 딥시크 띄우기에 나서...〃V4 출시 지연은 ＇기술 굴기＇ 위한 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209785",
+          "category": "해외"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[제1287호] 네이티브 AIㆍ시맨틱 커뮤니케이션의 부상",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1287%ED%98%B8%5D%20%EB%84%A4%EC%9D%B4%ED%8B%B0%EB%B8%8C%20AI%E3%86%8D%EC%8B%9C%EB%A7%A8%ED%8B%B1%20%EC%BB%A4%EB%AE%A4%EB%8B%88%EC%BC%80%EC%9D%B4%EC%85%98%EC%9D%98%20%EB%B6%80%EC%83%81",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }

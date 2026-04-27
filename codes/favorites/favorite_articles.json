@@ -1,127 +1,132 @@
 [
   {
-    "title": "구글, 앤트로픽에 최대 59조원 투자",
-    "link": "https://www.etnews.com/20260426000100",
+    "title": "李대통령, ＇알파고 父＇ 접견…구글 딥마인드 ＇AI 선물꾸러미＇ 받았다",
+    "link": "https://www.etnews.com/20260427000443",
+    "category": "기관"
+  },
+  {
+    "title": "[포토] 스틸리언, AI 기반 취약점 분석 솔루션 디퓨토 시연",
+    "link": "https://www.etnews.com/20260427000438",
+    "category": "민간"
+  },
+  {
+    "title": "세일포인트 “80% 기업서 ＇AI 에이전트 이상행동＇…통합 관리 필요”",
+    "link": "https://www.etnews.com/20260427000281",
+    "category": "민간"
+  },
+  {
+    "title": "[AX 베스트 프랙티스] 마키나락스 “에이전트로 제조 등 현장 중심 피지컬 AI 구현”",
+    "link": "https://www.etnews.com/20260427000087",
+    "category": "민간"
+  },
+  {
+    "title": "과기정통부-구글 딥마인드 맞손, ＇K-문샷＇ 협력 본격화",
+    "link": "https://www.etnews.com/20260427000283",
+    "category": "기관"
+  },
+  {
+    "title": "[전파칼럼] 국방반도체 MMIC, 전략자산으로 키워야",
+    "link": "https://www.etnews.com/20260427000154",
+    "category": "국방"
+  },
+  {
+    "title": "AWS, 코엑스서 ＇AWS 서밋 서울 2026＇ 개최…AI 에이전트 비전 제시",
+    "link": "https://www.etnews.com/20260427000363",
     "category": "해외"
   },
   {
-    "title": "＇한의약AX＇ 중장기 전략 세운다",
-    "link": "https://www.etnews.com/20260424000246",
+    "title": "＇AI 사회정책 포럼＇ 출범…“AI發 사회 변화 선제 대응”",
+    "link": "https://www.etnews.com/20260427000348",
     "category": "기관"
   },
   {
-    "title": "[단독] SK, AI 연합군 ＇K-AI 얼라이언스＇ 그룹서 직접 챙긴다",
-    "link": "https://www.etnews.com/20260424000266",
+    "title": "국가전략기술 전면 재편…55개 기술에 60조 집중 투입한다",
+    "link": "https://www.etnews.com/20260427000326",
+    "category": "기관"
+  },
+  {
+    "title": "삼성SDS·LG CNS, ＇챗GPT 에듀＇ 판매권 확보…오픈AI와 협력 확대",
+    "link": "https://www.etnews.com/20260427000291",
     "category": "민간"
   },
   {
-    "title": "오픈AI, ＇HBM 20개＇ 괴물 칩 특허 공개…물리적 제약 돌파",
-    "link": "https://www.etnews.com/20260424000207",
+    "title": "KAIST, ＇모른다＇고 말하는 AI 구현...高신뢰성 AI 구현 길 열어",
+    "link": "https://www.etnews.com/20260427000255",
+    "category": "기관"
+  },
+  {
+    "title": "어드밴텍, AI EXPO 2026에서 산업 현장 혁신 ＇피지컬 AI＇ 솔루션 ＇공개＇",
+    "link": "https://www.etnews.com/20260427000064",
+    "category": "민간"
+  },
+  {
+    "title": "삼성서울병원, 낙상 감지·원격 소통까지…AI 기반 ＇스마트병실＇ 가동",
+    "link": "https://www.etnews.com/20260427000048",
+    "category": "민간"
+  },
+  {
+    "title": "과기정통부, 올해 상반기 내 ‘자율형 인공지능(에이전틱 AI) 생태계 발전 전략’ 수립 예정",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187235&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "“첨단기술 기반 감시체계 구축은 선택이 아닌 필수”",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48706&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
+  },
+  {
+    "title": "AX 연계 MRO 분야 실증형 기술 발굴 나서",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48715&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
+  },
+  {
+    "title": "NEC-앤트로픽, 전략적 파트너십 체결… 일본 최대 규모 ‘AI 엔지니어링 군단’ 구축",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39783",
     "category": "해외"
   },
   {
-    "title": "AI가 ＇MS 보안취약점＇ 수초만에 찾았다",
-    "link": "https://www.etnews.com/20260424000280",
+    "title": "SKT 에이닷 전화 ＇가족 케어＇ 기능 선보여, AI가 보이스피싱 탐지 시 가족에게 즉시 알린다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39777",
+    "category": "민간"
+  },
+  {
+    "title": "AI 전환기, 인재와 교육체계 대전환 논의 본격화",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=574",
+    "category": "기관"
+  },
+  {
+    "title": "데이터·무인체계 결합 정밀 화력지원 가능성 점검",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260428/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985",
+    "category": "국방"
+  },
+  {
+    "title": "日서 美 드론 대량 생산…‘방산밀월’ 속도낸다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260428/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985",
     "category": "해외"
   },
   {
-    "title": "[뉴스줌인] AI 보안 분석, 이미 실현된 위협…＇AI 대(對) AI＇ 경쟁 대비해야",
-    "link": "https://www.etnews.com/20260426000040",
-    "category": "기타"
+    "title": "AI 시대, 인간의 군사전략은 여전히 유효한가",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260428/1/ATCE_CTGR_0050060000/view.do;JSESSIONID_kookbnagWEB=DnvP96KF1zyb5ufQ1SU4VKrgPfIrGeQi6TnOjxFdQSEnijnL6DkK!-579096985",
+    "category": "국방"
   },
   {
-    "title": "보험개발원, AI 적용범위 확대한다…개발 인프라 구축 ＇착수＇",
-    "link": "https://www.etnews.com/20260424000269",
-    "category": "기관"
-  },
-  {
-    "title": "[사설] AI 공격 막을 AI 보안기술 확보 시급하다",
-    "link": "https://www.etnews.com/20260426000075",
-    "category": "기타"
-  },
-  {
-    "title": "＇WIS 2026＇ 역대 최대 규모 성료…AI·산업 융합 미래상 제시한 글로벌 ICT 무대",
-    "link": "https://www.etnews.com/20260426000069",
-    "category": "기관"
-  },
-  {
-    "title": "전남자치경찰위, AI 기반 현장 중심 통합 안전망 구축",
-    "link": "https://www.etnews.com/20260426000091",
-    "category": "기관"
-  },
-  {
-    "title": "투비유니콘, 윤진욱 대표 공공 AI 정책 자문 활동 활발…기업 현장 목소리 전달",
-    "link": "https://www.etnews.com/20260424000149",
-    "category": "기관"
-  },
-  {
-    "title": "IBK기업은행, 정책금융 틀 바꾼다…AI 기반 조직 재편 착수",
-    "link": "https://www.etnews.com/20260424000157",
-    "category": "민간"
-  },
-  {
-    "title": "효성重, ＇반도체 변압기＇ 앞세워 AI데이터센터 시장 정조준",
-    "link": "https://www.etnews.com/20260424000214",
-    "category": "민간"
-  },
-  {
-    "title": "가스공사, LNG 기지 혁신에 AI 심는다",
-    "link": "https://www.etnews.com/20260426000046",
-    "category": "기관"
-  },
-  {
-    "title": "위세아이텍, 56억 규모 ＇中企 데이터 플랫폼 구축＇ 사업 수주… 생성형 AI 기반 AX 추진",
-    "link": "https://www.etnews.com/20260424000129",
-    "category": "민간"
-  },
-  {
-    "title": "반도체 열 확산과 응력 예측 AI 알고리즘 개발",
-    "link": "https://www.etnews.com/20260426000002",
-    "category": "기타"
-  },
-  {
-    "title": "황선영 NHN와플랫 대표 “AI 기술로 새로운 돌봄 표준 제시”",
-    "link": "https://www.etnews.com/20260424000231",
-    "category": "민간"
-  },
-  {
-    "title": "현대차·기아, 통학길 교통안전 지키는 ‘비전 펄스’ 기술 캠페인으로 국제 광고제 수상",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39766",
-    "category": "민간"
-  },
-  {
-    "title": "UNIST 정창욱 교수팀, 입력 데이터 보정해 AI 예측 정확도 높이는 알고리즘 개발",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39764",
-    "category": "기타"
-  },
-  {
-    "title": "데이터 기반 농업기술 보급 확산…농진청, 현장 대응력 높인다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39757",
-    "category": "기관"
-  },
-  {
-    "title": "앤트로픽이 증명한 ‘에이전트 거래’의 실체...〃반려견 산책까지 성사〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209748",
+    "title": "사카나 AI, 단순 모델 호출 넘어 모델 가중치 섞는 ‘진화형 오케스트레이션’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209787",
     "category": "해외"
   },
   {
-    "title": "완벽한 온프레미스 환경에서 ＇제미나이＇ 구동하는 시스템 등장",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209678",
+    "title": "구글, AI가 학습 데이터 스스로 설계하는 ＇시뮬라＇ 공개...〃단순 베끼기는 끝나〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209779",
     "category": "해외"
   },
   {
-    "title": "한컴 〃깃허브 1위는 35년 문서 기술의 결실...글로벌 표준 될 것〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209568",
-    "category": "민간"
-  },
-  {
-    "title": "〃그리는 것이 곧 이해하는 것〃…구글, 생성 AI로 비전 AI 역할까지 하는 ＇비전 바나나＇ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209749",
+    "title": "구글, MS 제치고 ＇AI 컴퓨팅＇ 세계 1위 올라...〃자체 칩 TPU의 힘〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209792",
     "category": "해외"
   },
   {
-    "title": "미국, 전 세계에 중국 기업 ＇AI 도용＇ 경고 발령",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209746",
+    "title": "중국, 딥시크 띄우기에 나서...〃V4 출시 지연은 ＇기술 굴기＇ 위한 것〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209785",
     "category": "해외"
   }
 ]
