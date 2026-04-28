@@ -4351,5 +4351,163 @@
         }
       ]
     }
+  },
+  "26.04.29": {
+    "categorized": {
+      "기타": [
+        {
+          "title": "[기고] AI 전환의 시대, 나침반 없이 항해할 것인가?",
+          "link": "https://www.etnews.com/20260428000108",
+          "category": "기타"
+        },
+        {
+          "title": "[ET시론] 대한민국이 생태계를 판다: K-AI 풀스택 수출 시대의 개막",
+          "link": "https://www.etnews.com/20260428000073",
+          "category": "기타"
+        }
+      ],
+      "민간": [
+        {
+          "title": "허사비스 구글 딥마인드 CEO, 이재용·정의선·구광모 연쇄 회동",
+          "link": "https://www.etnews.com/20260428000371",
+          "category": "민간"
+        },
+        {
+          "title": "최태원 “AI 인프라 없이 AI 강국 없다”…30GW 데이터센터 구축 촉구",
+          "link": "https://www.etnews.com/20260428000297",
+          "category": "민간"
+        },
+        {
+          "title": "[생활물류 혁신] 쿠팡, AI 유통·물류 전방위 투자… 특허 3900건 돌파",
+          "link": "https://www.etnews.com/20260424000153",
+          "category": "민간"
+        },
+        {
+          "title": "SKT, 대표적 국제 AI 학회 ICLR 2026서 진짜 선호’ 찾아내는 AI 추론 모델 기술 발표",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39794",
+          "category": "민간"
+        },
+        {
+          "title": "네이버, AI 검색 서비스 ‘AI탭’ 베타 출시… ‘에이전틱 검색 경험의 시작’",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39791",
+          "category": "민간"
+        },
+        {
+          "title": "NC AI, 세계 최고 권위 스웨덴 한림원 내방... AI 기술력 및 산업 적용 사례 확인",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39789",
+          "category": "민간"
+        },
+        {
+          "title": "삼성, AI 안경 ＇진주＇ 하반기 출시...〃7월 언팩 행사서 공개〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209848",
+          "category": "민간"
+        }
+      ],
+      "국방": [
+        {
+          "title": "동국대 강장묵 교수, 불가리아서 ＇K-ADA＇ 국방 AI 안보 전략 발표… 한-불 기술 동맹 강화",
+          "link": "https://www.etnews.com/20260428000315",
+          "category": "국방"
+        },
+        {
+          "title": "데이터·무인체계 결합 정밀 화력지원 가능성 점검",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48733&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "S2W-텔레픽스, 사이버·위성 데이터 교차분석으로 안보 인텔리전스 고도화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209855",
+          "category": "국방"
+        }
+      ],
+      "기관": [
+        {
+          "title": "금감원, AI로 불법 핀플루언서 24시간 추적한다",
+          "link": "https://www.etnews.com/20260428000149",
+          "category": "기관"
+        },
+        {
+          "title": "AI농업 전환 첫발…국가 농업AX플랫폼, 전남 컨소시엄 선정",
+          "link": "https://www.etnews.com/20260428000137",
+          "category": "기관"
+        },
+        {
+          "title": "대한민국 인공지능 국가대표팀, ‘한국형 인공지능 동반관계(K-AI Partnership)’ 출범",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187242&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "산업부, 산업단지 M.AX·GX 지원사업 본격 추진...26년 스마트그린산단 지원사업 통합공모, 9개 사업에 900억원 지원",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39797",
+          "category": "기관"
+        },
+        {
+          "title": "KAIST, ‘2026 리서치데이’ 연구대상...＇공간 AI 기반 자율 이동 로봇 기술＇ 명현 교수 선정",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39793",
+          "category": "기관"
+        },
+        {
+          "title": "KIST, 인공지능 전환 선포 ... ‘직접 만들고 활용하는’ 실전 교육 돌입",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39787",
+          "category": "기관"
+        },
+        {
+          "title": "국가AI전략위, 대전서 'K-문샷' × 오송서 '바이오 AX'… 충청권 AX 시동",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=581",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "구글 딥마인드, 한국과 AI 전략 파트너십 체결…“과학 혁신·국가 경쟁력 동시 견인”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39786",
+          "category": "해외"
+        },
+        {
+          "title": "메타, 우주 태양광·초장기 저장에너지 투자 확대…“AI 시대 전력 인프라 직접 구축 나선다”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39802",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아, ‘네모트론-페르소나-코리아’ 오픈소스 공개… 한국형 AI 데이터 활용 기반 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39788",
+          "category": "해외"
+        },
+        {
+          "title": "인간 개입 없이 AI가 AI 개발 전 과정 수행...〃인간 설계 일부 뛰어 넘어〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209871",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 국방부 기밀 업무 AI 계약 추진에 직원 560명 반발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209847",
+          "category": "해외"
+        },
+        {
+          "title": "딥시크, AI 모델 가격 파격 인하...＇GPT-5.5＇보다 97%까지 낮아",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209837",
+          "category": "해외"
+        },
+        {
+          "title": "EU, 구글에 안드로이드 AI 서비스 개방 지시...〃타사 AI도 제미나이와 같은 권한 제공〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209854",
+          "category": "해외"
+        }
+      ],
+      "육군": [
+        {
+          "title": "펀진, 제39보병사단과 국방 AI 협력...국방 AI의 실질적인 적용과 고도화 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39795",
+          "category": "육군"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[디지털서비스 이슈리포트2026-4] AI 수직통합이 시장을 지배한다.",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29327&parentSeq=29327",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
