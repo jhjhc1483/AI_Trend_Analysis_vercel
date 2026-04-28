@@ -25,14 +25,24 @@
     "category": "민간"
   },
   {
+    "title": "KB국민은행, 핵심 데이터 AWS로 이전…AI 인프라 전환 ＇분기점＇",
+    "link": "https://www.etnews.com/20260427000264",
+    "category": "민간"
+  },
+  {
+    "title": "펀진, 제39보병사단과 국방 AI 협력 MOU 체결",
+    "link": "https://www.etnews.com/20260428000283",
+    "category": "육군"
+  },
+  {
+    "title": "HP, 온디바이스 AI 플랫폼 ＇HP IQ＇ 공개…차세대 AI PC 및 워크스테이션에 싣는다",
+    "link": "https://www.etnews.com/20260428000227",
+    "category": "민간"
+  },
+  {
     "title": "금감원, AI로 불법 핀플루언서 24시간 추적한다",
     "link": "https://www.etnews.com/20260428000149",
     "category": "기관"
-  },
-  {
-    "title": "[생활물류 혁신] 쿠팡, AI 유통·물류 전방위 투자… 특허 3900건 돌파",
-    "link": "https://www.etnews.com/20260424000153",
-    "category": "민간"
   },
   {
     "title": "AI농업 전환 첫발…국가 농업AX플랫폼, 전남 컨소시엄 선정",
@@ -45,14 +55,14 @@
     "category": "기관"
   },
   {
+    "title": "[연구행정 혁신+-①] 연구비 자율성 대폭 강화",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187245&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
     "title": "데이터·무인체계 결합 정밀 화력지원 가능성 점검",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48733&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
-  },
-  {
-    "title": "구글 딥마인드, 한국과 AI 전략 파트너십 체결…“과학 혁신·국가 경쟁력 동시 견인”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39786",
-    "category": "해외"
   },
   {
     "title": "메타, 우주 태양광·초장기 저장에너지 투자 확대…“AI 시대 전력 인프라 직접 구축 나선다”",
@@ -70,23 +80,8 @@
     "category": "육군"
   },
   {
-    "title": "SKT, 대표적 국제 AI 학회 ICLR 2026서 진짜 선호’ 찾아내는 AI 추론 모델 기술 발표",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39794",
-    "category": "민간"
-  },
-  {
-    "title": "KAIST, ‘2026 리서치데이’ 연구대상...＇공간 AI 기반 자율 이동 로봇 기술＇ 명현 교수 선정",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39793",
-    "category": "기관"
-  },
-  {
     "title": "네이버, AI 검색 서비스 ‘AI탭’ 베타 출시… ‘에이전틱 검색 경험의 시작’",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=39791",
-    "category": "민간"
-  },
-  {
-    "title": "NC AI, 세계 최고 권위 스웨덴 한림원 내방... AI 기술력 및 산업 적용 사례 확인",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39789",
     "category": "민간"
   },
   {
@@ -110,6 +105,11 @@
     "category": "해외"
   },
   {
+    "title": "＇알파제로＇ 만든 딥마인드 수석 연구원, 유럽 사상 최대 1.6조 시드 투자 유치",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209841",
+    "category": "해외"
+  },
+  {
     "title": "구글, 국방부 기밀 업무 AI 계약 추진에 직원 560명 반발",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209847",
     "category": "해외"
@@ -120,9 +120,9 @@
     "category": "해외"
   },
   {
-    "title": "EU, 구글에 안드로이드 AI 서비스 개방 지시...〃타사 AI도 제미나이와 같은 권한 제공〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209854",
-    "category": "해외"
+    "title": "엑스와이지, 서비스 특화 양팔형 로봇 ‘듀스’ 공개...〃카페 알바·고객 응대도 척척〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209761",
+    "category": "민간"
   },
   {
     "title": "S2W-텔레픽스, 사이버·위성 데이터 교차분석으로 안보 인텔리전스 고도화",
@@ -133,5 +133,10 @@
     "title": "삼성, AI 안경 ＇진주＇ 하반기 출시...〃7월 언팩 행사서 공개〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209848",
     "category": "민간"
+  },
+  {
+    "title": "〃오픈AI, AI 스마트폰 2028년 출시...퀄컴 등 프로세서 개발〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209833",
+    "category": "해외"
   }
 ]

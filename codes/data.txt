@@ -12,6 +12,9 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 https://www.aitimes.com/news/articleView.html?idxno=209855
 
 [육군]
+◾ 펀진, 제39보병사단과 국방 AI 협력 MOU 체결
+https://www.etnews.com/20260428000283
+
 ◾ 펀진, 제39보병사단과 국방 AI 협력...국방 AI의 실질적인 적용과 고도화 추진
 https://www.aitimes.kr/news/articleView.html?idxno=39795
 
@@ -22,17 +25,17 @@ https://www.etnews.com/20260428000371
 ◾ 최태원 “AI 인프라 없이 AI 강국 없다”…30GW 데이터센터 구축 촉구
 https://www.etnews.com/20260428000297
 
-◾ [생활물류 혁신] 쿠팡, AI 유통·물류 전방위 투자… 특허 3900건 돌파
-https://www.etnews.com/20260424000153
+◾ KB국민은행, 핵심 데이터 AWS로 이전…AI 인프라 전환 ＇분기점＇
+https://www.etnews.com/20260427000264
 
-◾ SKT, 대표적 국제 AI 학회 ICLR 2026서 진짜 선호’ 찾아내는 AI 추론 모델 기술 발표
-https://www.aitimes.kr/news/articleView.html?idxno=39794
+◾ HP, 온디바이스 AI 플랫폼 ＇HP IQ＇ 공개…차세대 AI PC 및 워크스테이션에 싣는다
+https://www.etnews.com/20260428000227
 
 ◾ 네이버, AI 검색 서비스 ‘AI탭’ 베타 출시… ‘에이전틱 검색 경험의 시작’
 https://www.aitimes.kr/news/articleView.html?idxno=39791
 
-◾ NC AI, 세계 최고 권위 스웨덴 한림원 내방... AI 기술력 및 산업 적용 사례 확인
-https://www.aitimes.kr/news/articleView.html?idxno=39789
+◾ 엑스와이지, 서비스 특화 양팔형 로봇 ‘듀스’ 공개...〃카페 알바·고객 응대도 척척〃
+https://www.aitimes.com/news/articleView.html?idxno=209761
 
 ◾ 삼성, AI 안경 ＇진주＇ 하반기 출시...〃7월 언팩 행사서 공개〃
 https://www.aitimes.com/news/articleView.html?idxno=209848
@@ -47,11 +50,11 @@ https://www.etnews.com/20260428000137
 ◾ 대한민국 인공지능 국가대표팀, ‘한국형 인공지능 동반관계(K-AI Partnership)’ 출범
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187242&searchOpt=ALL&searchTxt=
 
+◾ [연구행정 혁신+-①] 연구비 자율성 대폭 강화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187245&searchOpt=ALL&searchTxt=
+
 ◾ 산업부, 산업단지 M.AX·GX 지원사업 본격 추진...26년 스마트그린산단 지원사업 통합공모, 9개 사업에 900억원 지원
 https://www.aitimes.kr/news/articleView.html?idxno=39797
-
-◾ KAIST, ‘2026 리서치데이’ 연구대상...＇공간 AI 기반 자율 이동 로봇 기술＇ 명현 교수 선정
-https://www.aitimes.kr/news/articleView.html?idxno=39793
 
 ◾ KIST, 인공지능 전환 선포 ... ‘직접 만들고 활용하는’ 실전 교육 돌입
 https://www.aitimes.kr/news/articleView.html?idxno=39787
@@ -60,9 +63,6 @@ https://www.aitimes.kr/news/articleView.html?idxno=39787
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=581
 
 [해외]
-◾ 구글 딥마인드, 한국과 AI 전략 파트너십 체결…“과학 혁신·국가 경쟁력 동시 견인”
-https://www.aitimes.kr/news/articleView.html?idxno=39786
-
 ◾ 메타, 우주 태양광·초장기 저장에너지 투자 확대…“AI 시대 전력 인프라 직접 구축 나선다”
 https://www.aitimes.kr/news/articleView.html?idxno=39802
 
@@ -72,14 +72,17 @@ https://www.aitimes.kr/news/articleView.html?idxno=39788
 ◾ 인간 개입 없이 AI가 AI 개발 전 과정 수행...〃인간 설계 일부 뛰어 넘어〃
 https://www.aitimes.com/news/articleView.html?idxno=209871
 
+◾ ＇알파제로＇ 만든 딥마인드 수석 연구원, 유럽 사상 최대 1.6조 시드 투자 유치
+https://www.aitimes.com/news/articleView.html?idxno=209841
+
 ◾ 구글, 국방부 기밀 업무 AI 계약 추진에 직원 560명 반발
 https://www.aitimes.com/news/articleView.html?idxno=209847
 
 ◾ 딥시크, AI 모델 가격 파격 인하...＇GPT-5.5＇보다 97%까지 낮아
 https://www.aitimes.com/news/articleView.html?idxno=209837
 
-◾ EU, 구글에 안드로이드 AI 서비스 개방 지시...〃타사 AI도 제미나이와 같은 권한 제공〃
-https://www.aitimes.com/news/articleView.html?idxno=209854
+◾ 〃오픈AI, AI 스마트폰 2028년 출시...퀄컴 등 프로세서 개발〃
+https://www.aitimes.com/news/articleView.html?idxno=209833
 
 [기타]
 ◾ [기고] AI 전환의 시대, 나침반 없이 항해할 것인가?
