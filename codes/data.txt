@@ -8,9 +8,6 @@ https://www.etnews.com/20260429000169
 ◾ AI가 항공기 정비 품질 예측·관리해 준다면…
 https://kookbang.dema.mil.kr/newsWeb/20260430/4/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=Tq3aRzNnF-TDPMAOW_Ec7xzXCBq4-d7E-QMCGic5G9XWohTgTxIo!415924974
 
-◾ 급변하는 전쟁 양상, 미래전 대비한 올바른 정책 방향은…
-https://kookbang.dema.mil.kr/newsWeb/20260430/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=Tq3aRzNnF-TDPMAOW_Ec7xzXCBq4-d7E-QMCGic5G9XWohTgTxIo!415924974
-
 [육군]
 ◾ ‘AX 시대’ 미래 전장 선도할 육군 정예장교 양성 매진
 https://kookbang.dema.mil.kr/newsWeb/20260430/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=Tq3aRzNnF-TDPMAOW_Ec7xzXCBq4-d7E-QMCGic5G9XWohTgTxIo!415924974
@@ -22,17 +19,17 @@ https://www.etnews.com/20260429000466
 ◾ 레인보우로보틱스, 판교서 SW 인재 확보전…피지컬 AI 내재화 가속
 https://www.etnews.com/20260429000283
 
-◾ AI가 응급환자 조기 예측…정확도 84%·88% 수준
-https://www.etnews.com/20260429000402
-
 ◾ SK텔레콤 ＇에이닷 비즈＇ 나만의 에이전트 적용…한국형 클로드 노린다
 https://www.etnews.com/20260429000339
 
 ◾ 네이버클라우드, ＇K-AI 파트너십＇ 공동의장사 선임…“AI 생태계 확장 이끈다”
 https://www.etnews.com/20260429000052
 
-◾ 버즈빌, 인터랙션 AI 에이전트 공개...〃단순 광고·고객 타겟팅 한계 해결할 것〃
-https://www.aitimes.com/news/articleView.html?idxno=209939
+◾ 네이버, ＇AI 클린봇 3.0＇ 업그레이드…악성 댓글 차단 강화
+https://www.etnews.com/20260429000030
+
+◾ 하드웨어·소프트웨어 통합으로 AI 데이터 병목 푼다. 망고부스트 풀스택 인프라 공개
+https://www.aitimes.kr/news/articleView.html?idxno=39843
 
 [기관]
 ◾ ＇연봉 상한까지 없앤다＇…靑, ＇AI 전문가 공무원＇ 양성한다
@@ -40,9 +37,6 @@ https://www.etnews.com/20260429000398
 
 ◾ 제조 현장에 AI 입혀 산업 기초체력 키운다…527억 규모 ＇AI 팩토리＇ 시동
 https://www.etnews.com/20260429000328
-
-◾ 美 실리콘밸리 ＇한미AI반도체혁신센터＇ 2배 확장 개소
-https://www.etnews.com/20260429000134
 
 ◾ 과기정통부, 국산 인공지능 반도체 상용화 현장 점검
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187251&searchOpt=ALL&searchTxt=
@@ -66,18 +60,17 @@ https://www.etnews.com/20260429000360
 ◾ 구글, 임직원 반대에도 美국방부 기밀 업무에 AI 제공 계약
 https://www.etnews.com/20260429000015
 
-◾ 중국, GPU 없이 국산 CPU만으로 엑사스케일 슈퍼컴퓨터 개발…〃역대 최고 성능 목표〃
-https://www.aitimes.com/news/articleView.html?idxno=209927
-
 ◾ 엔트로픽, 창작 소프트웨어 제어하는 ＇클로드 커넥터＇ 출시...〃어도비·블렌더와 연동〃
 https://www.aitimes.com/news/articleView.html?idxno=209904
 
+◾ 메타, 인간 형체·움직임 정밀하게 읽어내는 비전 모델 개발
+https://www.aitimes.com/news/articleView.html?idxno=209874
+
+◾ 미스트랄, 기업용 AI 운영 인프라 ＇워크플로우＇ 공개...〃에이전트 실패율 낮춰〃
+https://www.aitimes.com/news/articleView.html?idxno=209921
+
 ◾ 엔비디아, 통합형 멀티모달 모델 ＇네모트론 3 나노 옴니＇ 공개...〃파편화된 AI는 끝〃
 https://www.aitimes.com/news/articleView.html?idxno=209895
-
-[기타]
-◾ [혁신플랫폼톡] AI 시대의 규제합리화, ＇사후 대응＇에서 ＇사전 탐지＇로
-https://www.etnews.com/20260429000066
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
