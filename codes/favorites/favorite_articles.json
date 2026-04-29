@@ -1,142 +1,122 @@
 [
   {
-    "title": "[기고] AI 전환의 시대, 나침반 없이 항해할 것인가?",
-    "link": "https://www.etnews.com/20260428000108",
+    "title": "백악관, 앤트로픽 AI 재도입 추진…갈등 봉합 수순 밟나",
+    "link": "https://www.etnews.com/20260429000484",
+    "category": "해외"
+  },
+  {
+    "title": "두산로보틱스-엔비디아, 피지컬 AI 로봇 협력…2028년 산업용 휴머노이드 선보인다",
+    "link": "https://www.etnews.com/20260429000466",
+    "category": "민간"
+  },
+  {
+    "title": "레인보우로보틱스, 판교서 SW 인재 확보전…피지컬 AI 내재화 가속",
+    "link": "https://www.etnews.com/20260429000283",
+    "category": "민간"
+  },
+  {
+    "title": "[혁신플랫폼톡] AI 시대의 규제합리화, ＇사후 대응＇에서 ＇사전 탐지＇로",
+    "link": "https://www.etnews.com/20260429000066",
     "category": "기타"
   },
   {
-    "title": "[ET시론] 대한민국이 생태계를 판다: K-AI 풀스택 수출 시대의 개막",
-    "link": "https://www.etnews.com/20260428000073",
-    "category": "기타"
-  },
-  {
-    "title": "허사비스 구글 딥마인드 CEO, 이재용·정의선·구광모 연쇄 회동",
-    "link": "https://www.etnews.com/20260428000371",
+    "title": "AI가 응급환자 조기 예측…정확도 84%·88% 수준",
+    "link": "https://www.etnews.com/20260429000402",
     "category": "민간"
   },
   {
-    "title": "동국대 강장묵 교수, 불가리아서 ＇K-ADA＇ 국방 AI 안보 전략 발표… 한-불 기술 동맹 강화",
-    "link": "https://www.etnews.com/20260428000315",
+    "title": "＇연봉 상한까지 없앤다＇…靑, ＇AI 전문가 공무원＇ 양성한다",
+    "link": "https://www.etnews.com/20260429000398",
+    "category": "기관"
+  },
+  {
+    "title": "10년 만에 이세돌 만난 하사비스 “10년 뒤 AGI로 질병 정복”",
+    "link": "https://www.etnews.com/20260429000360",
+    "category": "해외"
+  },
+  {
+    "title": "SK텔레콤 ＇에이닷 비즈＇ 나만의 에이전트 적용…한국형 클로드 노린다",
+    "link": "https://www.etnews.com/20260429000339",
+    "category": "민간"
+  },
+  {
+    "title": "제조 현장에 AI 입혀 산업 기초체력 키운다…527억 규모 ＇AI 팩토리＇ 시동",
+    "link": "https://www.etnews.com/20260429000328",
+    "category": "기관"
+  },
+  {
+    "title": "엘리스그룹·마키나락스, AI 풀스택 기반 국방·산업 AX 협력",
+    "link": "https://www.etnews.com/20260429000169",
     "category": "국방"
   },
   {
-    "title": "최태원 “AI 인프라 없이 AI 강국 없다”…30GW 데이터센터 구축 촉구",
-    "link": "https://www.etnews.com/20260428000297",
+    "title": "美 실리콘밸리 ＇한미AI반도체혁신센터＇ 2배 확장 개소",
+    "link": "https://www.etnews.com/20260429000134",
+    "category": "기관"
+  },
+  {
+    "title": "네이버클라우드, ＇K-AI 파트너십＇ 공동의장사 선임…“AI 생태계 확장 이끈다”",
+    "link": "https://www.etnews.com/20260429000052",
     "category": "민간"
   },
   {
-    "title": "KB국민은행, 핵심 데이터 AWS로 이전…AI 인프라 전환 ＇분기점＇",
-    "link": "https://www.etnews.com/20260427000264",
-    "category": "민간"
+    "title": "구글, 임직원 반대에도 美국방부 기밀 업무에 AI 제공 계약",
+    "link": "https://www.etnews.com/20260429000015",
+    "category": "해외"
   },
   {
-    "title": "펀진, 제39보병사단과 국방 AI 협력 MOU 체결",
-    "link": "https://www.etnews.com/20260428000283",
+    "title": "과기정통부, 국산 인공지능 반도체 상용화 현장 점검",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187251&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "AI·디지털 스타트업 ‘왕중왕전’ 본격 시동, ｢2026년 K-디지털 그랜드 챔피언십｣ 추진",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187257&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "과기정통부, 국내 AI·디지털 핵심기술의 국제표준화를 통해 AI 3대 강국을 뒷받침한다",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187254&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "[국가AI전략위]  대한민국 인공지능 행동계획 (영문, 인쇄본)",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=586",
+    "category": "기관"
+  },
+  {
+    "title": "‘AX 시대’ 미래 전장 선도할 육군 정예장교 양성 매진",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260430/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=Tq3aRzNnF-TDPMAOW_Ec7xzXCBq4-d7E-QMCGic5G9XWohTgTxIo!415924974",
     "category": "육군"
   },
   {
-    "title": "HP, 온디바이스 AI 플랫폼 ＇HP IQ＇ 공개…차세대 AI PC 및 워크스테이션에 싣는다",
-    "link": "https://www.etnews.com/20260428000227",
-    "category": "민간"
-  },
-  {
-    "title": "금감원, AI로 불법 핀플루언서 24시간 추적한다",
-    "link": "https://www.etnews.com/20260428000149",
-    "category": "기관"
-  },
-  {
-    "title": "AI농업 전환 첫발…국가 농업AX플랫폼, 전남 컨소시엄 선정",
-    "link": "https://www.etnews.com/20260428000137",
-    "category": "기관"
-  },
-  {
-    "title": "대한민국 인공지능 국가대표팀, ‘한국형 인공지능 동반관계(K-AI Partnership)’ 출범",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187242&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "[연구행정 혁신+-①] 연구비 자율성 대폭 강화",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187245&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "데이터·무인체계 결합 정밀 화력지원 가능성 점검",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48733&startDate=&endDate=&id=mnd_020101000000",
+    "title": "AI가 항공기 정비 품질 예측·관리해 준다면…",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260430/4/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=Tq3aRzNnF-TDPMAOW_Ec7xzXCBq4-d7E-QMCGic5G9XWohTgTxIo!415924974",
     "category": "국방"
   },
   {
-    "title": "메타, 우주 태양광·초장기 저장에너지 투자 확대…“AI 시대 전력 인프라 직접 구축 나선다”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39802",
-    "category": "해외"
-  },
-  {
-    "title": "산업부, 산업단지 M.AX·GX 지원사업 본격 추진...26년 스마트그린산단 지원사업 통합공모, 9개 사업에 900억원 지원",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39797",
-    "category": "기관"
-  },
-  {
-    "title": "펀진, 제39보병사단과 국방 AI 협력...국방 AI의 실질적인 적용과 고도화 추진",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39795",
-    "category": "육군"
-  },
-  {
-    "title": "네이버, AI 검색 서비스 ‘AI탭’ 베타 출시… ‘에이전틱 검색 경험의 시작’",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39791",
-    "category": "민간"
-  },
-  {
-    "title": "엔비디아, ‘네모트론-페르소나-코리아’ 오픈소스 공개… 한국형 AI 데이터 활용 기반 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39788",
-    "category": "해외"
-  },
-  {
-    "title": "KIST, 인공지능 전환 선포 ... ‘직접 만들고 활용하는’ 실전 교육 돌입",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39787",
-    "category": "기관"
-  },
-  {
-    "title": "국가AI전략위, 대전서 'K-문샷' × 오송서 '바이오 AX'… 충청권 AX 시동",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=581",
-    "category": "기관"
-  },
-  {
-    "title": "인간 개입 없이 AI가 AI 개발 전 과정 수행...〃인간 설계 일부 뛰어 넘어〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209871",
-    "category": "해외"
-  },
-  {
-    "title": "＇알파제로＇ 만든 딥마인드 수석 연구원, 유럽 사상 최대 1.6조 시드 투자 유치",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209841",
-    "category": "해외"
-  },
-  {
-    "title": "구글, 국방부 기밀 업무 AI 계약 추진에 직원 560명 반발",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209847",
-    "category": "해외"
-  },
-  {
-    "title": "딥시크, AI 모델 가격 파격 인하...＇GPT-5.5＇보다 97%까지 낮아",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209837",
-    "category": "해외"
-  },
-  {
-    "title": "엑스와이지, 서비스 특화 양팔형 로봇 ‘듀스’ 공개...〃카페 알바·고객 응대도 척척〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209761",
-    "category": "민간"
-  },
-  {
-    "title": "S2W-텔레픽스, 사이버·위성 데이터 교차분석으로 안보 인텔리전스 고도화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209855",
+    "title": "급변하는 전쟁 양상, 미래전 대비한 올바른 정책 방향은…",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260430/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=Tq3aRzNnF-TDPMAOW_Ec7xzXCBq4-d7E-QMCGic5G9XWohTgTxIo!415924974",
     "category": "국방"
   },
   {
-    "title": "삼성, AI 안경 ＇진주＇ 하반기 출시...〃7월 언팩 행사서 공개〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209848",
+    "title": "중국, GPU 없이 국산 CPU만으로 엑사스케일 슈퍼컴퓨터 개발…〃역대 최고 성능 목표〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209927",
+    "category": "해외"
+  },
+  {
+    "title": "엔트로픽, 창작 소프트웨어 제어하는 ＇클로드 커넥터＇ 출시...〃어도비·블렌더와 연동〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209904",
+    "category": "해외"
+  },
+  {
+    "title": "버즈빌, 인터랙션 AI 에이전트 공개...〃단순 광고·고객 타겟팅 한계 해결할 것〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209939",
     "category": "민간"
   },
   {
-    "title": "〃오픈AI, AI 스마트폰 2028년 출시...퀄컴 등 프로세서 개발〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209833",
+    "title": "엔비디아, 통합형 멀티모달 모델 ＇네모트론 3 나노 옴니＇ 공개...〃파편화된 AI는 끝〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209895",
     "category": "해외"
   }
 ]
