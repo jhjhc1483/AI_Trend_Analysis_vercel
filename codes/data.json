@@ -4638,5 +4638,146 @@
         }
       ]
     }
+  },
+  "26.05.01": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "금감원, 금융권 모의해킹 연 2회 확대…＇AI 레드티밍＇ 첫 도입",
+          "link": "https://www.etnews.com/20260429000297",
+          "category": "기관"
+        },
+        {
+          "title": "행안부, ＇온AI＇ 모바일 서비스 개시…“휴대폰으로 보고·결재 가능”",
+          "link": "https://www.etnews.com/20260430000351",
+          "category": "기관"
+        },
+        {
+          "title": "배경훈 부총리, 카타르 통상담당 국무장관과 면담",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187262&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "과기정통부, ‘인공지능 비서(AI 에이전트)’로 행정은 더 가볍게, 정책은 더 날카롭게",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187263&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "인공지능 조작 영상(딥페이크) 대응 연구개발(R&D) 민·관 실무협의체 발족",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187264&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "「소재 인공지능(소재 AI)」이 설계, 「연구 로봇」이 실험... 반도체‧이차전지‧우주항공 신소재 개발 가속화",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187261&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "데이터·인공지능 기반 부처 협업과 산업 확산으로국가 인공지능 전환(AX) 선도, 미래 기술혁신 가속화",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187260&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "구글, 서울에 첫 해외 AI 캠퍼스 만든다",
+          "link": "https://www.etnews.com/20260430000222",
+          "category": "민간"
+        },
+        {
+          "title": "문혁수 사장, 어플라이드 인튜이션 CEO 회동…“로봇·드론 등 피지컬 AI 협력 확대”",
+          "link": "https://www.etnews.com/20260430000216",
+          "category": "민간"
+        },
+        {
+          "title": "네이버, 1분기 역대 최대 매출…AI·커머스가 살렸다",
+          "link": "https://www.etnews.com/20260430000042",
+          "category": "민간"
+        },
+        {
+          "title": "LG-KETI, ‘엑사원 4.5’로 ‘AI 안전신문고’ 시범 서비스 연내 시작",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209994",
+          "category": "민간"
+        },
+        {
+          "title": "네이버 “하반기부터 AI브리핑·AI 탭 수익화에 나서”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209993",
+          "category": "민간"
+        },
+        {
+          "title": "크래프톤 “멀티모달 AI 모델, 게임 적용해 나갈 것”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209995",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "MS, 3분기 매출 123조원…시장 예상치 웃돌아",
+          "link": "https://www.etnews.com/20260430000021",
+          "category": "해외"
+        },
+        {
+          "title": "슈퍼마이크로, DCBBS 기반 실리콘밸리 최대 규모 캠퍼스 확장…차세대 AI 데이터센터 구축 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39885",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, ＇클로드 코드＇ 비용 추정치 두배로 올려…종량제 전환 예고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209929",
+          "category": "해외"
+        },
+        {
+          "title": "미국 하원, 커서·에어비앤비의 중국 AI 모델 활용 조사 착수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209986",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, 오픈AI 몸값 제치나...1337조 가치로 투자 유치 검토",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209981",
+          "category": "해외"
+        },
+        {
+          "title": "딥시크에 ＇눈＇ 달렸다...이미지 인식 기능 소비자에 첫 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209960",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "전장환경 변화 대응 위한 민간 기술과 협력 중점",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48758&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "AI가 항공기 정비 품질 예측·관리해 준다면…",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48773&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "국방부, AI 응용제품 신속 상용화 지원사업",
+          "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_111334&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
+          "category": "국방"
+        },
+        {
+          "title": "국방부, 민간 AI 기술의 군 도입을 위해 속도 낸다...’27년까지 4대 분야 20개 과제에 총 정부출연금 400억 투자",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39888",
+          "category": "국방"
+        }
+      ],
+      "육군": [
+        {
+          "title": "‘AX 시대’ 미래 전장 선도할 육군 정예장교 양성 매진",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48764&startDate=&endDate=&id=mnd_020101000000",
+          "category": "육군"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "AI풀스택, 미토스, 중국자동차산업 [AI·ICT Brief 2026-16호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260430-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
