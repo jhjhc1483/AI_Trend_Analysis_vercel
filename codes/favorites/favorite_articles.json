@@ -1,65 +1,5 @@
 [
   {
-    "title": "금감원, 금융권 모의해킹 연 2회 확대…＇AI 레드티밍＇ 첫 도입",
-    "link": "https://www.etnews.com/20260429000297",
-    "category": "기관"
-  },
-  {
-    "title": "행안부, ＇온AI＇ 모바일 서비스 개시…“휴대폰으로 보고·결재 가능”",
-    "link": "https://www.etnews.com/20260430000351",
-    "category": "기관"
-  },
-  {
-    "title": "구글, 서울에 첫 해외 AI 캠퍼스 만든다",
-    "link": "https://www.etnews.com/20260430000222",
-    "category": "민간"
-  },
-  {
-    "title": "문혁수 사장, 어플라이드 인튜이션 CEO 회동…“로봇·드론 등 피지컬 AI 협력 확대”",
-    "link": "https://www.etnews.com/20260430000216",
-    "category": "민간"
-  },
-  {
-    "title": "네이버, 1분기 역대 최대 매출…AI·커머스가 살렸다",
-    "link": "https://www.etnews.com/20260430000042",
-    "category": "민간"
-  },
-  {
-    "title": "MS, 3분기 매출 123조원…시장 예상치 웃돌아",
-    "link": "https://www.etnews.com/20260430000021",
-    "category": "해외"
-  },
-  {
-    "title": "배경훈 부총리, 카타르 통상담당 국무장관과 면담",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187262&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "과기정통부, ‘인공지능 비서(AI 에이전트)’로 행정은 더 가볍게, 정책은 더 날카롭게",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187263&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "인공지능 조작 영상(딥페이크) 대응 연구개발(R&D) 민·관 실무협의체 발족",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187264&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "「소재 인공지능(소재 AI)」이 설계, 「연구 로봇」이 실험... 반도체‧이차전지‧우주항공 신소재 개발 가속화",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187261&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "데이터·인공지능 기반 부처 협업과 산업 확산으로국가 인공지능 전환(AX) 선도, 미래 기술혁신 가속화",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187260&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "전장환경 변화 대응 위한 민간 기술과 협력 중점",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48758&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
     "title": "‘AX 시대’ 미래 전장 선도할 육군 정예장교 양성 매진",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48764&startDate=&endDate=&id=mnd_020101000000",
     "category": "육군"
@@ -80,8 +20,73 @@
     "category": "국방"
   },
   {
-    "title": "슈퍼마이크로, DCBBS 기반 실리콘밸리 최대 규모 캠퍼스 확장…차세대 AI 데이터센터 구축 가속",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39885",
+    "title": "금감원, 금융권 모의해킹 연 2회 확대…＇AI 레드티밍＇ 첫 도입",
+    "link": "https://www.etnews.com/20260429000297",
+    "category": "기관"
+  },
+  {
+    "title": "행안부, ＇온AI＇ 모바일 서비스 개시…“휴대폰으로 보고·결재 가능”",
+    "link": "https://www.etnews.com/20260430000351",
+    "category": "기관"
+  },
+  {
+    "title": "[에듀플러스]5단계 BK21 사업, AI 인재 트랙 신설·지원단가 현실화 추진",
+    "link": "https://www.etnews.com/20260430000302",
+    "category": "기관"
+  },
+  {
+    "title": "LG-KETI, ＇엑사원＇으로 ＇연 1000만건＇ 안전 신고 처리한다",
+    "link": "https://www.etnews.com/20260430000136",
+    "category": "기관"
+  },
+  {
+    "title": "2027년도 연구개발 예산전략회의 개최, 전략적 재원 배분을 통한 기술주도 성장을 위해 과학기술정보통신부와 기획예산처가 손 잡았다",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187266&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "배경훈 부총리, 카타르 통상담당 국무장관과 면담",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187262&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "데이터·인공지능 기반 부처 협업과 산업 확산으로국가 인공지능 전환(AX) 선도, 미래 기술혁신 가속화",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187260&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "NH농협은행-LG CNS, ＇에이전틱 AI＇ 발굴…금융 서비스 고도화",
+    "link": "https://www.etnews.com/20260430000275",
+    "category": "민간"
+  },
+  {
+    "title": "구글, 서울에 첫 해외 AI 캠퍼스 만든다",
+    "link": "https://www.etnews.com/20260430000222",
+    "category": "민간"
+  },
+  {
+    "title": "문혁수 사장, 어플라이드 인튜이션 CEO 회동…“로봇·드론 등 피지컬 AI 협력 확대”",
+    "link": "https://www.etnews.com/20260430000216",
+    "category": "민간"
+  },
+  {
+    "title": "현대차, 제조 SW·AI 경력직 집중 채용…미래 경쟁력 확보",
+    "link": "https://www.etnews.com/20260430000139",
+    "category": "민간"
+  },
+  {
+    "title": "네이버, 1분기 역대 최대 매출…AI·커머스가 살렸다",
+    "link": "https://www.etnews.com/20260430000042",
+    "category": "민간"
+  },
+  {
+    "title": "매니코어소프트, OE솔루션·모티프테크놀로지스와 한국형 소버린 데이터센터 모델 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39882",
+    "category": "민간"
+  },
+  {
+    "title": "아마존, 1분기 매출 269조원…클라우드·AI 성장이 견인",
+    "link": "https://www.etnews.com/20260430000024",
     "category": "해외"
   },
   {
@@ -90,33 +95,28 @@
     "category": "해외"
   },
   {
+    "title": "소프트뱅크, 신설 AI 기업 미국 상장 추진 중...〃데이터센터가 핵심〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209989",
+    "category": "해외"
+  },
+  {
     "title": "미국 하원, 커서·에어비앤비의 중국 AI 모델 활용 조사 착수",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209986",
     "category": "해외"
   },
   {
-    "title": "LG-KETI, ‘엑사원 4.5’로 ‘AI 안전신문고’ 시범 서비스 연내 시작",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209994",
-    "category": "민간"
-  },
-  {
-    "title": "네이버 “하반기부터 AI브리핑·AI 탭 수익화에 나서”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209993",
-    "category": "민간"
-  },
-  {
-    "title": "크래프톤 “멀티모달 AI 모델, 게임 적용해 나갈 것”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209995",
-    "category": "민간"
-  },
-  {
-    "title": "앤트로픽, 오픈AI 몸값 제치나...1337조 가치로 투자 유치 검토",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=209981",
+    "title": "백악관, 앤트로픽 ＇공급망 위험＇ 지정 해제 행정명령 준비 중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=209978",
     "category": "해외"
   },
   {
     "title": "딥시크에 ＇눈＇ 달렸다...이미지 인식 기능 소비자에 첫 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=209960",
     "category": "해외"
+  },
+  {
+    "title": "SAS 수석 아키텍트 “양자·AI 결합, 적은 데이터로 머신러닝 가능”",
+    "link": "https://www.etnews.com/20260430000013",
+    "category": "기타"
   }
 ]
