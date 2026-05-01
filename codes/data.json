@@ -4781,5 +4781,87 @@
         }
       ]
     }
+  },
+  "26.05.02": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "부산 AI기업, 해군·해병대와 국방 AX 협력",
+          "link": "https://www.etnews.com/20260501000004",
+          "category": "국방"
+        }
+      ],
+      "민간": [
+        {
+          "title": "야놀자, 글로벌 AI 개발자 커뮤니티 ＇클로드 코드 밋업＇ 개최",
+          "link": "https://www.etnews.com/20260501000046",
+          "category": "민간"
+        },
+        {
+          "title": "카카오, ＇플레이MCP＇에 오픈클로 연동 지원...〃나만의 AI 비서 직접 만든다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210009",
+          "category": "민간"
+        },
+        {
+          "title": "인핸스, 서비스명 ＇에이전트 OS＇로 변경...〃커머스 넘어 전방위 산업 확장 목표〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210008",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "오산 미래지도 꺼낸 이권재…반도체·AI 공약 들고 재선 시동 본격화",
+          "link": "https://www.etnews.com/20260501000041",
+          "category": "기관"
+        },
+        {
+          "title": "성남시, 오리역세권 57만㎡ 개발 본격화…AI·미래모빌리티 산업거점",
+          "link": "https://www.etnews.com/20260501000039",
+          "category": "기관"
+        },
+        {
+          "title": "6G포럼, ＇AI 네트워크＇ 이슈리포트 발간…표준·생태계 변화 분석",
+          "link": "https://www.etnews.com/20260430000418",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "〃GPT-5.5 사이버보안 능력, 미소스와 동등...타 모델도 곧 따라올 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210015",
+          "category": "해외"
+        },
+        {
+          "title": "미국 상원 ＇AI 챗봇 미성년자 규제＇ 시동...입법까지는 ＇첩첩산중＇",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210013",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, 1325조 몸값으로 2주 내 투자 마무리 예정...〃조달액은 73조〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210006",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 컴퓨팅 용량 10GW 돌파...예정보다 3년 앞서 목표 도달",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210003",
+          "category": "해외"
+        },
+        {
+          "title": "백악관, 앤트로픽의 ＇미소스＇ 접근 70여곳 확대 계획에 반대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210002",
+          "category": "해외"
+        },
+        {
+          "title": "중국서 엔비디아 ＇B300＇ 서버 가격 2배 급등…규제·수요 폭증이 촉발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210005",
+          "category": "해외"
+        },
+        {
+          "title": "제미나이 ＇파일 생성＇ 기능 확대…채팅 만으로 문서·엑셀·PDF 제작",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210007",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }
