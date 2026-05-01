@@ -16,9 +16,6 @@ https://www.aitimes.com/news/articleView.html?idxno=210009
 https://www.aitimes.com/news/articleView.html?idxno=210008
 
 [기관]
-◾ 오산 미래지도 꺼낸 이권재…반도체·AI 공약 들고 재선 시동 본격화
-https://www.etnews.com/20260501000041
-
 ◾ 성남시, 오리역세권 57만㎡ 개발 본격화…AI·미래모빌리티 산업거점
 https://www.etnews.com/20260501000039
 
@@ -26,26 +23,26 @@ https://www.etnews.com/20260501000039
 https://www.etnews.com/20260430000418
 
 [해외]
+◾ 다우 1.62% 급등·S&P500·나스닥 최고치 경신…AI 열풍에 빅테크 ＇폭등 랠리＇
+https://www.etnews.com/20260501000015
+
+◾ 구글도 ‘제미나이’ 앱 광고 검토…AI 챗봇 수익, 광고 중심으로 전환하나
+https://www.aitimes.com/news/articleView.html?idxno=210000
+
 ◾ 〃GPT-5.5 사이버보안 능력, 미소스와 동등...타 모델도 곧 따라올 것〃
 https://www.aitimes.com/news/articleView.html?idxno=210015
+
+◾ 애플, ＇맥 미니＇ 수요 급증에 놀라...〃에이전트 워크로드 기대 이상〃
+https://www.aitimes.com/news/articleView.html?idxno=210014
 
 ◾ 미국 상원 ＇AI 챗봇 미성년자 규제＇ 시동...입법까지는 ＇첩첩산중＇
 https://www.aitimes.com/news/articleView.html?idxno=210013
 
-◾ 앤트로픽, 1325조 몸값으로 2주 내 투자 마무리 예정...〃조달액은 73조〃
-https://www.aitimes.com/news/articleView.html?idxno=210006
-
-◾ 오픈AI, 컴퓨팅 용량 10GW 돌파...예정보다 3년 앞서 목표 도달
-https://www.aitimes.com/news/articleView.html?idxno=210003
+◾ 머스크, 소송서 오픈AI 모델 ＇증류＇ 시인...판사는 〃AI 종말론 거론하지 말라〃
+https://www.aitimes.com/news/articleView.html?idxno=210012
 
 ◾ 백악관, 앤트로픽의 ＇미소스＇ 접근 70여곳 확대 계획에 반대
 https://www.aitimes.com/news/articleView.html?idxno=210002
-
-◾ 중국서 엔비디아 ＇B300＇ 서버 가격 2배 급등…규제·수요 폭증이 촉발
-https://www.aitimes.com/news/articleView.html?idxno=210005
-
-◾ 제미나이 ＇파일 생성＇ 기능 확대…채팅 만으로 문서·엑셀·PDF 제작
-https://www.aitimes.com/news/articleView.html?idxno=210007
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
