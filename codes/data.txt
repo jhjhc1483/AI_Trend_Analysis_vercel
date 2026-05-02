@@ -5,6 +5,9 @@
 ◾ 국내 최초 휴머노이드 로봇 쇼룸 문 연다…로봇이 춤추고 커피도 내려
 https://www.etnews.com/20260430000310
 
+◾ “카메라 2개 달고 등장”… 애플 스마트 글래스, ＇손 제스처＇로 조작한다
+https://www.etnews.com/20260430000232
+
 ◾ 달파 “AI 에이전트로 마케팅 효율 극대화… 커머스 운영 패러다임 바꾼다”
 https://www.aitimes.com/news/articleView.html?idxno=210029
 
@@ -36,6 +39,13 @@ https://www.aitimes.com/news/articleView.html?idxno=210017
 
 ◾ 메타, 로봇 파운데이션 모델 스타트업 인수...〃휴머노이드·AGI에 기여〃
 https://www.aitimes.com/news/articleView.html?idxno=210021
+
+[기타]
+◾ [ET시선] ＇AI 기반 의료체계 수출＇로 패러다임 바꾸자
+https://www.etnews.com/20260430000295
+
+◾ [기고] 한국딥러닝 〃 금융 AI 실체는 데이터 저장(DX)이 아니라 인지적 자동화(AX)의 완성도에 있다〃
+https://www.aitimes.com/news/articleView.html?idxno=210027
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
