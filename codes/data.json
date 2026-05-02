@@ -4858,5 +4858,70 @@
         }
       ]
     }
+  },
+  "26.05.03": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "국내 최초 휴머노이드 로봇 쇼룸 문 연다…로봇이 춤추고 커피도 내려",
+          "link": "https://www.etnews.com/20260430000310",
+          "category": "민간"
+        },
+        {
+          "title": "달파 “AI 에이전트로 마케팅 효율 극대화… 커머스 운영 패러다임 바꾼다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210029",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "＇미토스 쇼크＇에 금융권 통합 AI 가이드라인 ＇답보＇",
+          "link": "https://www.etnews.com/20260430000268",
+          "category": "기관"
+        },
+        {
+          "title": "광주시, 캔디옵틱스 등 유망 창업기업 5곳 ＇유니콘＇ 키운다",
+          "link": "https://www.etnews.com/20260430000080",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "〃챗GPT 이미지 2.0 글로벌 초기 반응 미미〃...국내에서는 〃폭발적〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210031",
+          "category": "해외"
+        },
+        {
+          "title": "메타 〃AI 투자로 인건비 줄여야 해〃...추가 해고·업무량 폭증 예고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210030",
+          "category": "해외"
+        },
+        {
+          "title": "화웨이, 엔비디아 중국 공백 틈타 AI 칩 판매 60% 증가 예상",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210019",
+          "category": "해외"
+        },
+        {
+          "title": "구글 ＇AI 공동 의사＇ 발표…〃시뮬레이션 성과는 합격점, 실제 도입은 ＇신중＇〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210022",
+          "category": "해외"
+        },
+        {
+          "title": "xAI, ‘상시 추론’ 앞세운 ‘그록 4.3’ 공개…저가 공세에도 ‘수학·코딩’은 숙제",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210018",
+          "category": "해외"
+        },
+        {
+          "title": "미국 국방부, 앤트로픽 제외한 기업 8곳과 기밀 네트워크 AI 공급 계약",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210017",
+          "category": "해외"
+        },
+        {
+          "title": "메타, 로봇 파운데이션 모델 스타트업 인수...〃휴머노이드·AGI에 기여〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210021",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }
