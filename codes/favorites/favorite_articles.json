@@ -1,5 +1,15 @@
 [
   {
+    "title": "[기고] 범용 모델 경쟁을 넘어, 엔터프라이즈 AI가 이끄는 ＇현장 구현형 AI＇로 승부해야 한다",
+    "link": "https://www.etnews.com/20260503000012",
+    "category": "기타"
+  },
+  {
+    "title": "차세대 통신 시장 선점 위한 ＇부총리급＇ 전략위 6월 가동",
+    "link": "https://www.etnews.com/20260430000304",
+    "category": "기관"
+  },
+  {
     "title": "[뉴스줌인] 정책금융 축, ＇자금 공급＇서 ＇전략 투자＇로…AI·공급망 주권 겨냥",
     "link": "https://www.etnews.com/20260503000058",
     "category": "기관"
@@ -50,11 +60,6 @@
     "category": "기관"
   },
   {
-    "title": "“소버린 AI 본격 시동”…업스테이지, 국민성장펀드 ‘AI 모델 부문 1호 직접투자’ 1000억 포함 ＇5600억＇ 유치",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39892",
-    "category": "민간"
-  },
-  {
     "title": "국방부, 민간 AI 기술 도입 속도…4개 분야 400억 투입",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260504/10/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=zp7uvSlziafGhFe5SWx8K9YYasXj7xWle4GjVnHgp1UtXPkZ27Pq!917432377",
     "category": "국방"
@@ -70,9 +75,9 @@
     "category": "해외"
   },
   {
-    "title": "〃딱딱한 담당자 같던 말투 벗어나〃... GPT-5.5, ＇4o＇의 매력 되찾나",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210038",
-    "category": "해외"
+    "title": "＇AI 교육＇ 프리윌린이 우간다로 간 이유는...〃진정성에 기술을 더하다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210028",
+    "category": "민간"
   },
   {
     "title": "1X, 미국 공장 가동...〃연내 가정용 휴머노이드 1만대 생산〃",
@@ -80,13 +85,18 @@
     "category": "해외"
   },
   {
-    "title": "중국 전기차 시장, 가격 경쟁 넘어 ‘AI 경쟁’으로 확대",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210036",
-    "category": "해외"
-  },
-  {
     "title": "오픈AI, 코덱스에 ‘AI 펫’ 깜짝 도입...“코딩에 감성 UX 입힌다”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=210034",
     "category": "해외"
+  },
+  {
+    "title": "중국 법원, AI 도입 이유로 직원 해고한 기업에 ＇위법＇ 판결",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210032",
+    "category": "해외"
+  },
+  {
+    "title": "[양현상 칼럼] 석유에서 반도체로, ‘융합혁명’이 바꾸는 패권의 질서",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210011",
+    "category": "기타"
   }
 ]
