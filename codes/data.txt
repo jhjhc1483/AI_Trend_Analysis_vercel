@@ -15,13 +15,16 @@ https://www.etnews.com/20260429000458
 ◾ 카카오 ‘PlayMCP’, 오픈소스 AI 에이전트 ＇오픈클로＇ 연동 지원...200여 개 MCP 서버 등
 https://www.aitimes.kr/news/articleView.html?idxno=39897
 
-◾ “소버린 AI 본격 시동”…업스테이지, 국민성장펀드 ‘AI 모델 부문 1호 직접투자’ 1000억 포함 ＇5600억＇ 유치
-https://www.aitimes.kr/news/articleView.html?idxno=39892
-
 ◾ 달파 “에이전트로 마케팅 효율 극대화… 커머스 운영 패러다임 바꾼다”
 https://www.aitimes.com/news/articleView.html?idxno=210029
 
+◾ ＇AI 교육＇ 프리윌린이 우간다로 간 이유는...〃진정성에 기술을 더하다〃
+https://www.aitimes.com/news/articleView.html?idxno=210028
+
 [기관]
+◾ 차세대 통신 시장 선점 위한 ＇부총리급＇ 전략위 6월 가동
+https://www.etnews.com/20260430000304
+
 ◾ [뉴스줌인] 정책금융 축, ＇자금 공급＇서 ＇전략 투자＇로…AI·공급망 주권 겨냥
 https://www.etnews.com/20260503000058
 
@@ -47,17 +50,21 @@ https://www.aitimes.kr/news/articleView.html?idxno=39898
 ◾ 뉴럴링크, ＇디지털＇ 넘어 ＇물리적 제어＇ 성공...마비 환자 드론 조종까지
 https://www.aitimes.com/news/articleView.html?idxno=210040
 
-◾ 〃딱딱한 담당자 같던 말투 벗어나〃... GPT-5.5, ＇4o＇의 매력 되찾나
-https://www.aitimes.com/news/articleView.html?idxno=210038
-
 ◾ 1X, 미국 공장 가동...〃연내 가정용 휴머노이드 1만대 생산〃
 https://www.aitimes.com/news/articleView.html?idxno=210037
 
-◾ 중국 전기차 시장, 가격 경쟁 넘어 ‘AI 경쟁’으로 확대
-https://www.aitimes.com/news/articleView.html?idxno=210036
-
 ◾ 오픈AI, 코덱스에 ‘AI 펫’ 깜짝 도입...“코딩에 감성 UX 입힌다”
 https://www.aitimes.com/news/articleView.html?idxno=210034
+
+◾ 중국 법원, AI 도입 이유로 직원 해고한 기업에 ＇위법＇ 판결
+https://www.aitimes.com/news/articleView.html?idxno=210032
+
+[기타]
+◾ [기고] 범용 모델 경쟁을 넘어, 엔터프라이즈 AI가 이끄는 ＇현장 구현형 AI＇로 승부해야 한다
+https://www.etnews.com/20260503000012
+
+◾ [양현상 칼럼] 석유에서 반도체로, ‘융합혁명’이 바꾸는 패권의 질서
+https://www.aitimes.com/news/articleView.html?idxno=210011
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
