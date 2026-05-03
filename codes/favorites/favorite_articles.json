@@ -1,72 +1,92 @@
 [
   {
-    "title": "국내 최초 휴머노이드 로봇 쇼룸 문 연다…로봇이 춤추고 커피도 내려",
-    "link": "https://www.etnews.com/20260430000310",
-    "category": "민간"
-  },
-  {
-    "title": "＇미토스 쇼크＇에 금융권 통합 AI 가이드라인 ＇답보＇",
-    "link": "https://www.etnews.com/20260430000268",
+    "title": "[뉴스줌인] 정책금융 축, ＇자금 공급＇서 ＇전략 투자＇로…AI·공급망 주권 겨냥",
+    "link": "https://www.etnews.com/20260503000058",
     "category": "기관"
   },
   {
-    "title": "“카메라 2개 달고 등장”… 애플 스마트 글래스, ＇손 제스처＇로 조작한다",
-    "link": "https://www.etnews.com/20260430000232",
-    "category": "민간"
-  },
-  {
-    "title": "[ET시선] ＇AI 기반 의료체계 수출＇로 패러다임 바꾸자",
-    "link": "https://www.etnews.com/20260430000295",
-    "category": "기타"
-  },
-  {
-    "title": "광주시, 캔디옵틱스 등 유망 창업기업 5곳 ＇유니콘＇ 키운다",
-    "link": "https://www.etnews.com/20260430000080",
+    "title": "전남창조경제혁신센터, ＇전남형 AI·AX 생태계 조성 제1차 AX위원회＇ 개최",
+    "link": "https://www.etnews.com/20260503000034",
     "category": "기관"
   },
   {
-    "title": "〃챗GPT 이미지 2.0 글로벌 초기 반응 미미〃...국내에서는 〃폭발적〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210031",
+    "title": "광주, 하반기부터 자율주행 실증 무대로…＇AI 모빌리티 국가시범도시＇ 조성 본격화",
+    "link": "https://www.etnews.com/20260430000093",
+    "category": "기관"
+  },
+  {
+    "title": "CJ올리브영, 사내 ＇AI 샌드박스＇ 신설…AI 내재화 조직 문화로 확산",
+    "link": "https://www.etnews.com/20260430000311",
+    "category": "민간"
+  },
+  {
+    "title": "美 국방부, 앤트로픽 뺀 오픈AI·AWS 등 8개사와 기밀용 AI 협약",
+    "link": "https://www.etnews.com/20260503000003",
     "category": "해외"
   },
   {
-    "title": "메타 〃AI 투자로 인건비 줄여야 해〃...추가 해고·업무량 폭증 예고",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210030",
+    "title": "라우드랩스, 뷰티 AI 기획 플랫폼 ＇프로 모드＇ 6월 출시…마케팅 전략 기능까지 확대",
+    "link": "https://www.etnews.com/20260429000458",
+    "category": "민간"
+  },
+  {
+    "title": "국민성장펀드가 “소버린 AI”경쟁력 강화와 바이오·이차전지의 실질적 성과창출을 지원합니다",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187268&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "“차 안에서도 제미나이”…구글, 차량용 AI 어시스턴트 전면 업그레이드",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39898",
     "category": "해외"
   },
   {
-    "title": "달파 “AI 에이전트로 마케팅 효율 극대화… 커머스 운영 패러다임 바꾼다”",
+    "title": "카카오 ‘PlayMCP’, 오픈소스 AI 에이전트 ＇오픈클로＇ 연동 지원...200여 개 MCP 서버 등",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39897",
+    "category": "민간"
+  },
+  {
+    "title": "“AI 고속도로 구축 본격화”…국가 AI컴퓨팅센터, 1.5만장 반도체 기반 ‘소버린 인프라’ 시동",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39891",
+    "category": "기관"
+  },
+  {
+    "title": "“소버린 AI 본격 시동”…업스테이지, 국민성장펀드 ‘AI 모델 부문 1호 직접투자’ 1000억 포함 ＇5600억＇ 유치",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=39892",
+    "category": "민간"
+  },
+  {
+    "title": "국방부, 민간 AI 기술 도입 속도…4개 분야 400억 투입",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260504/10/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=zp7uvSlziafGhFe5SWx8K9YYasXj7xWle4GjVnHgp1UtXPkZ27Pq!917432377",
+    "category": "국방"
+  },
+  {
+    "title": "달파 “에이전트로 마케팅 효율 극대화… 커머스 운영 패러다임 바꾼다”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=210029",
     "category": "민간"
   },
   {
-    "title": "[기고] 한국딥러닝 〃 금융 AI 실체는 데이터 저장(DX)이 아니라 인지적 자동화(AX)의 완성도에 있다〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210027",
-    "category": "기타"
-  },
-  {
-    "title": "화웨이, 엔비디아 중국 공백 틈타 AI 칩 판매 60% 증가 예상",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210019",
+    "title": "뉴럴링크, ＇디지털＇ 넘어 ＇물리적 제어＇ 성공...마비 환자 드론 조종까지",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210040",
     "category": "해외"
   },
   {
-    "title": "구글 ＇AI 공동 의사＇ 발표…〃시뮬레이션 성과는 합격점, 실제 도입은 ＇신중＇〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210022",
+    "title": "〃딱딱한 담당자 같던 말투 벗어나〃... GPT-5.5, ＇4o＇의 매력 되찾나",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210038",
     "category": "해외"
   },
   {
-    "title": "xAI, ‘상시 추론’ 앞세운 ‘그록 4.3’ 공개…저가 공세에도 ‘수학·코딩’은 숙제",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210018",
+    "title": "1X, 미국 공장 가동...〃연내 가정용 휴머노이드 1만대 생산〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210037",
     "category": "해외"
   },
   {
-    "title": "미국 국방부, 앤트로픽 제외한 기업 8곳과 기밀 네트워크 AI 공급 계약",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210017",
+    "title": "중국 전기차 시장, 가격 경쟁 넘어 ‘AI 경쟁’으로 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210036",
     "category": "해외"
   },
   {
-    "title": "메타, 로봇 파운데이션 모델 스타트업 인수...〃휴머노이드·AGI에 기여〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210021",
+    "title": "오픈AI, 코덱스에 ‘AI 펫’ 깜짝 도입...“코딩에 감성 UX 입힌다”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210034",
     "category": "해외"
   }
 ]
