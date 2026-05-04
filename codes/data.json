@@ -5054,5 +5054,153 @@
         }
       ]
     }
+  },
+  "26.05.05": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "한미동맹·합동우주작전·국방 AI 발전 방안 모색",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48778&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "국방부, 민간 AI 기술 도입 속도…4개 분야 400억 투입",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48783&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "군의 수요·민간 기술 연결… AI 실증사업 아이디어 ‘봇물’",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48797&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        }
+      ],
+      "육군": [
+        {
+          "title": "“드론은 이제 개인화기…AI·로봇 결합 전투체계 구축”",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48789&startDate=&endDate=&id=mnd_020101000000",
+          "category": "육군"
+        }
+      ],
+      "민간": [
+        {
+          "title": "모레, 텐스토렌트 갤럭시 기반 LLM 추론 성능 입증",
+          "link": "https://www.etnews.com/20260504000206",
+          "category": "민간"
+        },
+        {
+          "title": "메가존클라우드, ＇AWS 에이전틱 AI 게임데이＇ 공식 운영 파트너 선정",
+          "link": "https://www.etnews.com/20260504000133",
+          "category": "민간"
+        },
+        {
+          "title": "“어린이날 선물 뭐 사지?”…네이버 AI가 골라준다",
+          "link": "https://www.etnews.com/20260504000086",
+          "category": "민간"
+        },
+        {
+          "title": "김진규 카카오모빌리티 부문장 “자율주행 고도화, 피지컬 AI 기업 도약”",
+          "link": "https://www.etnews.com/20260504000052",
+          "category": "민간"
+        },
+        {
+          "title": "인텔리빅스, AI EXPO 참가…＇자율주행 순찰 로봇＇ 공개",
+          "link": "https://www.etnews.com/20260504000043",
+          "category": "민간"
+        },
+        {
+          "title": "한컴 자회사 ＇씽크프리＇, ‘AI EXPO KOREA 2026’ 참가...‘AI 웹 오피스’ 선보인다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39901",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "기획예산처, AI 기반 모바일 메신저 도입…업무 방식 전환 가속",
+          "link": "https://www.etnews.com/20260504000171",
+          "category": "기관"
+        },
+        {
+          "title": "한국사이버안보학회, ＇이란 전쟁 사이버·AI戰＇ 세미나 개최",
+          "link": "https://www.etnews.com/20260504000132",
+          "category": "기관"
+        },
+        {
+          "title": "여름철 녹조, 인공지능으로 정밀 예측...상수원 조류경보제 지점 9곳에서 13곳으로 확대, 촘촘한 감시 체계 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39905",
+          "category": "기관"
+        },
+        {
+          "title": "국민성장펀드, 업스테이지에 5600억 투자...〃소버린 AI 개발 지원〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210071",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "AI만 믿었다가…“살인용병 집단이냐” 日 자위대, 부대 마크 결국 퇴출",
+          "link": "https://www.etnews.com/20260504000135",
+          "category": "해외"
+        },
+        {
+          "title": "美 국방부, ‘AI 퍼스트’ 군대 전환 가속… 8개 빅테크와 기밀 네트워크 계약 체결",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39911",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, GPT-5.5 프롬프트 가이드 공개...〃길게 지시하지 않아도 충분〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210050",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바, 호퍼 GPU에서 모델 속도 3배 향상하는 ‘플래시QLA’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=209983",
+          "category": "해외"
+        },
+        {
+          "title": "미국 1000조 투자에 압박 커진 중국… 〃컴퓨팅 파워 확보에 총력〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210047",
+          "category": "해외"
+        },
+        {
+          "title": "구글, AI 음성 비서 겨냥한 ＇제미나이 플래시＇·＇옴니＇ 모델 테스트 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210044",
+          "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "인공지능의 모든 것 한눈에, 제9회 국제인공지능대전(AI EXPO KOREA 2026) 개최...“AI 기술과 산업의 현재와 미래를 그리다”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39910",
+          "category": "기타"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "강유전체 메모리 소자와 인메모리 컴퓨팅의 최근 연구 동향 [주간기술동향 2211호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1396&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        },
+        {
+          "title": "[The LENS 2026-6] 영국 「스마트 데이터 2035」 주요 내용 및 시사점",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29346&parentSeq=29346",
+          "category": "간행물"
+        },
+        {
+          "title": "[The LENS 2026-5] 중국 AI-에너지 통합 인프라 정책 현황: 컴퓨팅·전력 협동 전략을 중심으로",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29345&parentSeq=29345",
+          "category": "간행물"
+        },
+        {
+          "title": "[The LENS 2026-4] AI 주도권 확보를 위한 미국의 조달 전략 : 조달 지침 및 표준 계약 조항 분석을 중심으로",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29344&parentSeq=29344",
+          "category": "간행물"
+        },
+        {
+          "title": "정보보호 해외진출 전략거점 월간 주요동향(2026년 4월)",
+          "link": "https://www.kisa.or.kr/20203/form?postSeq=217&page=1",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
