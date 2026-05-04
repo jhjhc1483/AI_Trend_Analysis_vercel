@@ -2,6 +2,9 @@
 
 📰 오늘의 기사
 [국방]
+◾ 한국사이버안보학회, ＇이란 전쟁 사이버·AI戰＇ 세미나 개최
+https://www.etnews.com/20260504000132
+
 ◾ 한미동맹·합동우주작전·국방 AI 발전 방안 모색
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48778&startDate=&endDate=&id=mnd_020101000000
 
@@ -12,15 +15,18 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48797&startDate=&endDate=&id=mnd_020101000000
 
 [육군]
+◾ 육군방공학교, 폴란드와 대드론체계 발전 모색
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48779&startDate=&endDate=&id=mnd_020101000000
+
+◾ 최신 드론·대드론 전투 양상 공유 통해 운용 전문가 육성
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48786&startDate=&endDate=&id=mnd_020101000000
+
 ◾ “드론은 이제 개인화기…AI·로봇 결합 전투체계 구축”
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48789&startDate=&endDate=&id=mnd_020101000000
 
 [민간]
 ◾ 모레, 텐스토렌트 갤럭시 기반 LLM 추론 성능 입증
 https://www.etnews.com/20260504000206
-
-◾ 메가존클라우드, ＇AWS 에이전틱 AI 게임데이＇ 공식 운영 파트너 선정
-https://www.etnews.com/20260504000133
 
 ◾ “어린이날 선물 뭐 사지?”…네이버 AI가 골라준다
 https://www.etnews.com/20260504000086
@@ -31,6 +37,12 @@ https://www.etnews.com/20260504000052
 ◾ 인텔리빅스, AI EXPO 참가…＇자율주행 순찰 로봇＇ 공개
 https://www.etnews.com/20260504000043
 
+◾ 인공지능의 모든 것 한눈에, 제9회 국제인공지능대전(AI EXPO KOREA 2026) 개최...“AI 기술과 산업의 현재와 미래를 그리다”
+https://www.aitimes.kr/news/articleView.html?idxno=39910
+
+◾ 카카오, ‘2026 찾아가는 시니어 디지털 스쿨’ 본격 운영...AI 교육 도입·지역 확대
+https://www.aitimes.kr/news/articleView.html?idxno=39907
+
 ◾ 한컴 자회사 ＇씽크프리＇, ‘AI EXPO KOREA 2026’ 참가...‘AI 웹 오피스’ 선보인다
 https://www.aitimes.kr/news/articleView.html?idxno=39901
 
@@ -38,8 +50,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=39901
 ◾ 기획예산처, AI 기반 모바일 메신저 도입…업무 방식 전환 가속
 https://www.etnews.com/20260504000171
 
-◾ 한국사이버안보학회, ＇이란 전쟁 사이버·AI戰＇ 세미나 개최
-https://www.etnews.com/20260504000132
+◾ 행안부, 〃내 앱에서 바로 신분 확인〃...삼성카드 추가 선정, 모바일 신분증 12개 앱으로 확대
+https://www.aitimes.kr/news/articleView.html?idxno=39906
 
 ◾ 여름철 녹조, 인공지능으로 정밀 예측...상수원 조류경보제 지점 9곳에서 13곳으로 확대, 촘촘한 감시 체계 구축
 https://www.aitimes.kr/news/articleView.html?idxno=39905
@@ -63,12 +75,18 @@ https://www.aitimes.com/news/articleView.html?idxno=209983
 ◾ 미국 1000조 투자에 압박 커진 중국… 〃컴퓨팅 파워 확보에 총력〃
 https://www.aitimes.com/news/articleView.html?idxno=210047
 
+◾ 우버 〃모빌리티 넘어 AI·데이터·여행 플랫폼으로 대폭 확장〃
+https://www.aitimes.com/news/articleView.html?idxno=210067
+
 ◾ 구글, AI 음성 비서 겨냥한 ＇제미나이 플래시＇·＇옴니＇ 모델 테스트 중
 https://www.aitimes.com/news/articleView.html?idxno=210044
 
 [기타]
-◾ 인공지능의 모든 것 한눈에, 제9회 국제인공지능대전(AI EXPO KOREA 2026) 개최...“AI 기술과 산업의 현재와 미래를 그리다”
-https://www.aitimes.kr/news/articleView.html?idxno=39910
+◾ [에듀플러스]초등학생 72% AI 사용…10명 중 4명 “스마트기기 멈추기 어려워”
+https://www.etnews.com/20260504000225
+
+◾ AI 생성 ＇팟캐스트 슬롭＇ 폭증에 콘텐츠 업계 고심...〃이틀 만에 방송 800개 생성〃
+https://www.aitimes.com/news/articleView.html?idxno=210065
 
 📚 간행물
 ◾ 강유전체 메모리 소자와 인메모리 컴퓨팅의 최근 연구 동향 [주간기술동향 2211호]
