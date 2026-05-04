@@ -5059,6 +5059,11 @@
     "categorized": {
       "국방": [
         {
+          "title": "한국사이버안보학회, ＇이란 전쟁 사이버·AI戰＇ 세미나 개최",
+          "link": "https://www.etnews.com/20260504000132",
+          "category": "국방"
+        },
+        {
           "title": "한미동맹·합동우주작전·국방 AI 발전 방안 모색",
           "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48778&startDate=&endDate=&id=mnd_020101000000",
           "category": "국방"
@@ -5076,6 +5081,16 @@
       ],
       "육군": [
         {
+          "title": "육군방공학교, 폴란드와 대드론체계 발전 모색",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48779&startDate=&endDate=&id=mnd_020101000000",
+          "category": "육군"
+        },
+        {
+          "title": "최신 드론·대드론 전투 양상 공유 통해 운용 전문가 육성",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48786&startDate=&endDate=&id=mnd_020101000000",
+          "category": "육군"
+        },
+        {
           "title": "“드론은 이제 개인화기…AI·로봇 결합 전투체계 구축”",
           "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48789&startDate=&endDate=&id=mnd_020101000000",
           "category": "육군"
@@ -5085,11 +5100,6 @@
         {
           "title": "모레, 텐스토렌트 갤럭시 기반 LLM 추론 성능 입증",
           "link": "https://www.etnews.com/20260504000206",
-          "category": "민간"
-        },
-        {
-          "title": "메가존클라우드, ＇AWS 에이전틱 AI 게임데이＇ 공식 운영 파트너 선정",
-          "link": "https://www.etnews.com/20260504000133",
           "category": "민간"
         },
         {
@@ -5108,6 +5118,16 @@
           "category": "민간"
         },
         {
+          "title": "인공지능의 모든 것 한눈에, 제9회 국제인공지능대전(AI EXPO KOREA 2026) 개최...“AI 기술과 산업의 현재와 미래를 그리다”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39910",
+          "category": "민간"
+        },
+        {
+          "title": "카카오, ‘2026 찾아가는 시니어 디지털 스쿨’ 본격 운영...AI 교육 도입·지역 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39907",
+          "category": "민간"
+        },
+        {
           "title": "한컴 자회사 ＇씽크프리＇, ‘AI EXPO KOREA 2026’ 참가...‘AI 웹 오피스’ 선보인다",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=39901",
           "category": "민간"
@@ -5120,8 +5140,8 @@
           "category": "기관"
         },
         {
-          "title": "한국사이버안보학회, ＇이란 전쟁 사이버·AI戰＇ 세미나 개최",
-          "link": "https://www.etnews.com/20260504000132",
+          "title": "행안부, 〃내 앱에서 바로 신분 확인〃...삼성카드 추가 선정, 모바일 신분증 12개 앱으로 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39906",
           "category": "기관"
         },
         {
@@ -5162,6 +5182,11 @@
           "category": "해외"
         },
         {
+          "title": "우버 〃모빌리티 넘어 AI·데이터·여행 플랫폼으로 대폭 확장〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210067",
+          "category": "해외"
+        },
+        {
           "title": "구글, AI 음성 비서 겨냥한 ＇제미나이 플래시＇·＇옴니＇ 모델 테스트 중",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210044",
           "category": "해외"
@@ -5169,8 +5194,13 @@
       ],
       "기타": [
         {
-          "title": "인공지능의 모든 것 한눈에, 제9회 국제인공지능대전(AI EXPO KOREA 2026) 개최...“AI 기술과 산업의 현재와 미래를 그리다”",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39910",
+          "title": "[에듀플러스]초등학생 72% AI 사용…10명 중 4명 “스마트기기 멈추기 어려워”",
+          "link": "https://www.etnews.com/20260504000225",
+          "category": "기타"
+        },
+        {
+          "title": "AI 생성 ＇팟캐스트 슬롭＇ 폭증에 콘텐츠 업계 고심...〃이틀 만에 방송 800개 생성〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210065",
           "category": "기타"
         }
       ],
