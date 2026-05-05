@@ -6,23 +6,17 @@
 https://www.etnews.com/20260430000016
 
 [민간]
-◾ 마이허브, 의료 AI 통합 플랫폼 1500개 의료기관 공급 눈앞
-https://www.etnews.com/20260430000320
-
-◾ 이주영 신보 전무 “AI는 정책금융 게임체인저”…보증 구조 바꾼다
-https://www.etnews.com/20260504000231
-
-◾ 오모션, ＇3D 디지털 휴먼＇ 기반 AI 에이전트 시장 공략
-https://www.etnews.com/20260504000259
-
-◾ 이큐포올 수어·쉬운정보 기술, 글로벌 AI 무대서 인정
-https://www.etnews.com/20260430000349
-
 ◾ ＇판독문 써주는 AI＇ 2호 임박…하반기 병원 시장 달군다
 https://www.etnews.com/20260430000373
 
+◾ [ICT 시사용어] 프레데터 봇(Predator Bot)
+https://www.etnews.com/20260430000281
+
 ◾ SKT, 클라우드 AIOps 사업 착수…최대어 ＇삼성＇ 노린다
 https://www.etnews.com/20260430000309
+
+◾ 반도체 설계 AI로 ＇하루＇만에
+https://www.etnews.com/20260505000012
 
 ◾ S2W “AI 에이전트의 성패, LLM 성능 넘어 ＇온톨로지＇ 설계에 달려”
 https://www.aitimes.com/news/articleView.html?idxno=210100
@@ -31,14 +25,11 @@ https://www.aitimes.com/news/articleView.html?idxno=210100
 ◾ 국정원, ＇사이버보안 기본지침＇ 개정…N2SF 기준 반영
 https://www.etnews.com/20260505000110
 
-◾ 공공 SaaS 계약 전년 比 116% 증가…올해도 성장세 이어간다
-https://www.etnews.com/20260430000238
+◾ 국정자원, 올해 ＇범정부 정보자원 통합사업＇ 추진…약 2417억원 규모
+https://www.etnews.com/20260505000078
 
-◾ 수출입은행, AI 워크스페이스 도입...업무 자동화 본격화
-https://www.etnews.com/20260504000261
-
-◾ AI가 한 번 더 본다…단국대, AI 적대적 공격 방어 기술 개발
-https://www.etnews.com/20260505000100
+◾ 전북도, 새만금에 ＇AX 기반 자이언트 스마트팜＇ 추진…인구 소멸·식량 안보 위기 대응
+https://www.etnews.com/20260430000203
 
 ◾ 전북도, ＇AI 농업로봇 실증사업＇ 선정…5년간 300억 투입
 https://www.etnews.com/20260504000207
@@ -46,10 +37,10 @@ https://www.etnews.com/20260504000207
 ◾ 대학 인공지능 인재 양성을 주도할 인공지능 중심대학 7개교 선정
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187270&searchOpt=ALL&searchTxt=
 
-◾ 수개월 걸리던 반도체 설계, AI가 ‘단 하루’ 만에 끝낸다!...UNIST·경북대, RL 기반 회로-레이아웃 전 과정 통합 자동화 솔루션
-https://www.aitimes.kr/news/articleView.html?idxno=39912
-
 [해외]
+◾ 인텔, ＇클라이언트 컴퓨팅·AI＇ 혁신 이끌 리더십 재편...알렉스 카투지안 영입·푸슈카르 라나데 CTO 선임
+https://www.aitimes.kr/news/articleView.html?idxno=39916
+
 ◾ 앤트로픽, 블랙스톤·골드만삭스·헬만 앤 프리드먼과 ‘AI 서비스 합작사’ 출범
 https://www.aitimes.kr/news/articleView.html?idxno=39914
 
@@ -59,9 +50,6 @@ https://www.aitimes.kr/news/articleView.html?idxno=39913
 ◾ 메타, ＇더 오래 생각＇하며 고품질 데이터 생성하는 ‘오토데이터’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=210084
 
-◾ 미스트랄, ＇바이브＇ 통해 원격 에이전트·미스트랄 미디엄 3.5 출시
-https://www.aitimes.com/news/articleView.html?idxno=210097
-
 ◾ 〃로봇 없는 AGI는 악몽〃...알트먼, 휴머노이드 넘어 ＇범용 로봇 공장＇ 강조
 https://www.aitimes.com/news/articleView.html?idxno=210098
 
@@ -70,6 +58,13 @@ https://www.aitimes.com/news/articleView.html?idxno=210095
 
 ◾ 백악관, ＇미소스＇ 계기로 AI 모델 출시 전 국가 검증 추진 중
 https://www.aitimes.com/news/articleView.html?idxno=210092
+
+[기타]
+◾ [김경진의 AI전략노트] 〈27〉전남대에서 멈출 이유가 없다, 모든 대학생에게 AI를 쥐여줘야 한다
+https://www.etnews.com/20260505000067
+
+◾ [양현상 칼럼] 방산·우주 통합 전략, 더 미룰 수 없다
+https://www.aitimes.com/news/articleView.html?idxno=210088
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
