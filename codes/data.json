@@ -5232,5 +5232,127 @@
         }
       ]
     }
+  },
+  "26.05.06": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "마이허브, 의료 AI 통합 플랫폼 1500개 의료기관 공급 눈앞",
+          "link": "https://www.etnews.com/20260430000320",
+          "category": "민간"
+        },
+        {
+          "title": "이주영 신보 전무 “AI는 정책금융 게임체인저”…보증 구조 바꾼다",
+          "link": "https://www.etnews.com/20260504000231",
+          "category": "민간"
+        },
+        {
+          "title": "오모션, ＇3D 디지털 휴먼＇ 기반 AI 에이전트 시장 공략",
+          "link": "https://www.etnews.com/20260504000259",
+          "category": "민간"
+        },
+        {
+          "title": "이큐포올 수어·쉬운정보 기술, 글로벌 AI 무대서 인정",
+          "link": "https://www.etnews.com/20260430000349",
+          "category": "민간"
+        },
+        {
+          "title": "＇판독문 써주는 AI＇ 2호 임박…하반기 병원 시장 달군다",
+          "link": "https://www.etnews.com/20260430000373",
+          "category": "민간"
+        },
+        {
+          "title": "SKT, 클라우드 AIOps 사업 착수…최대어 ＇삼성＇ 노린다",
+          "link": "https://www.etnews.com/20260430000309",
+          "category": "민간"
+        },
+        {
+          "title": "S2W “AI 에이전트의 성패, LLM 성능 넘어 ＇온톨로지＇ 설계에 달려”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210100",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "국정원, ＇사이버보안 기본지침＇ 개정…N2SF 기준 반영",
+          "link": "https://www.etnews.com/20260505000110",
+          "category": "기관"
+        },
+        {
+          "title": "공공 SaaS 계약 전년 比 116% 증가…올해도 성장세 이어간다",
+          "link": "https://www.etnews.com/20260430000238",
+          "category": "기관"
+        },
+        {
+          "title": "수출입은행, AI 워크스페이스 도입...업무 자동화 본격화",
+          "link": "https://www.etnews.com/20260504000261",
+          "category": "기관"
+        },
+        {
+          "title": "AI가 한 번 더 본다…단국대, AI 적대적 공격 방어 기술 개발",
+          "link": "https://www.etnews.com/20260505000100",
+          "category": "기관"
+        },
+        {
+          "title": "전북도, ＇AI 농업로봇 실증사업＇ 선정…5년간 300억 투입",
+          "link": "https://www.etnews.com/20260504000207",
+          "category": "기관"
+        },
+        {
+          "title": "대학 인공지능 인재 양성을 주도할 인공지능 중심대학 7개교 선정",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187270&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "수개월 걸리던 반도체 설계, AI가 ‘단 하루’ 만에 끝낸다!...UNIST·경북대, RL 기반 회로-레이아웃 전 과정 통합 자동화 솔루션",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39912",
+          "category": "기관"
+        }
+      ],
+      "육군": [
+        {
+          "title": "지오로봇, 조달청 ＇혁신제품 시범구매 사업＇ 최종 선정… 육군 4개 부대 동시 배치",
+          "link": "https://www.etnews.com/20260430000016",
+          "category": "육군"
+        }
+      ],
+      "해외": [
+        {
+          "title": "앤트로픽, 블랙스톤·골드만삭스·헬만 앤 프리드먼과 ‘AI 서비스 합작사’ 출범",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39914",
+          "category": "해외"
+        },
+        {
+          "title": "제미나이 API에 ＇웹훅(Webhooks)＇ 도입… 에이전틱 워크플로우 지연 시간 최소화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39913",
+          "category": "해외"
+        },
+        {
+          "title": "메타, ＇더 오래 생각＇하며 고품질 데이터 생성하는 ‘오토데이터’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210084",
+          "category": "해외"
+        },
+        {
+          "title": "미스트랄, ＇바이브＇ 통해 원격 에이전트·미스트랄 미디엄 3.5 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210097",
+          "category": "해외"
+        },
+        {
+          "title": "〃로봇 없는 AGI는 악몽〃...알트먼, 휴머노이드 넘어 ＇범용 로봇 공장＇ 강조",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210098",
+          "category": "해외"
+        },
+        {
+          "title": "“통제 불능 섀도우 AI 막는다”...MS, 사내 거버넌스 플랫폼 ‘에이전트 365’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210095",
+          "category": "해외"
+        },
+        {
+          "title": "백악관, ＇미소스＇ 계기로 AI 모델 출시 전 국가 검증 추진 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210092",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }
