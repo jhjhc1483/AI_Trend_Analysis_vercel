@@ -5361,13 +5361,8 @@
           "category": "해외"
         },
         {
-          "title": "애플, 시리 AI 지연 후폭풍…美 소비자에 3400억원 배상",
-          "link": "https://www.etnews.com/20260506000205",
-          "category": "해외"
-        },
-        {
-          "title": "Arm, AI 에이전트 시대에 맞춘 성능 최적화 역량 강화... ‘Performix’ 출시",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39928",
+          "title": "AI 도입한 中 법원, 사건 50% 더 처리…“최종 결정 권한은 판사에게 있어”",
+          "link": "https://www.etnews.com/20260506000381",
           "category": "해외"
         },
         {
@@ -5381,44 +5376,22 @@
           "category": "해외"
         },
         {
+          "title": "RAG 시대 끝나나...＇1200만 토큰＇ 컨텍스트 창 제공하는 모델 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210137",
+          "category": "해외"
+        },
+        {
           "title": "구글에 첫 ＇AI 노조＇ 등장하나...딥마인드, 미 국방부 계약에 반발해 노조 결성",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210155",
           "category": "해외"
         }
       ],
-      "민간": [
-        {
-          "title": "[단독] 업스테이지, 포털 ＇다음＇ 인수 초읽기…카카오 이사회 승인",
-          "link": "https://www.etnews.com/20260506000461",
-          "category": "민간"
-        },
-        {
-          "title": "최정일 피아이이 대표, “검사·AI·로봇 풀스택으로 제조 자동화 전환”",
-          "link": "https://www.etnews.com/20260504000266",
-          "category": "민간"
-        },
-        {
-          "title": "마키나락스, AI OS ＇런웨이＇로 글로벌 표준 선도…20일 코스닥 상장",
-          "link": "https://www.etnews.com/20260506000343",
-          "category": "민간"
-        },
-        {
-          "title": "인공지능의 모든 것 한눈에, “제9회 국제인공지능대전”개최...“AI 기술과 산업의 현재와 미래를 그리다”",
-          "link": "https://www.etnews.com/20260506000114",
-          "category": "민간"
-        },
-        {
-          "title": "플래티어, 오픈AI ＇100억 토큰＇ 실버 어워드 수상…글로벌 AI 혁신 선도 기업 입증",
-          "link": "https://www.etnews.com/20260506000021",
-          "category": "민간"
-        },
-        {
-          "title": "이스트소프트, 〃산업현장에서 일상 속까지 들어온 AI 아바타〃...AI EXPO KOREA 2026서 ‘페르소 인터랙티브’ 혁신 사례 대거 공개",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39931",
-          "category": "민간"
-        }
-      ],
       "기관": [
+        {
+          "title": "＇클로드 미토스＇ 앤트로픽 정책 총괄 방한…정부와 AI 보안 협의",
+          "link": "https://www.etnews.com/20260506000463",
+          "category": "기관"
+        },
         {
           "title": "정부, 소형 AI 데이터센터 키운다…지역·산업 AX 확산 지원",
           "link": "https://www.etnews.com/20260506000305",
@@ -5445,14 +5418,58 @@
           "category": "기관"
         },
         {
-          "title": "과기정통부, 산업융합형 인공지능 인재양성을 위한 “인공지능 활용형 인재(AI 네이티브)” 교육 본격 추진",
-          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187274&searchOpt=ALL&searchTxt=",
-          "category": "기관"
-        },
-        {
           "title": "김민석 총리, “AI는 국가 안보와 경제 좌우하는 핵심 자산”…AI EXPO KOREA 2026서 ‘AI 3대 강국’ 의지 강조",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=39930",
           "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[단독] 업스테이지, 포털 ＇다음＇ 인수 초읽기…카카오 이사회 승인",
+          "link": "https://www.etnews.com/20260506000461",
+          "category": "민간"
+        },
+        {
+          "title": "최정일 피아이이 대표, “검사·AI·로봇 풀스택으로 제조 자동화 전환”",
+          "link": "https://www.etnews.com/20260504000266",
+          "category": "민간"
+        },
+        {
+          "title": "포티넷 “취약점 공개 24시간 내 공격”… AI發 사이버 위협 급증",
+          "link": "https://www.etnews.com/20260506000410",
+          "category": "민간"
+        },
+        {
+          "title": "마키나락스, AI OS ＇런웨이＇로 글로벌 표준 선도…20일 코스닥 상장",
+          "link": "https://www.etnews.com/20260506000343",
+          "category": "민간"
+        },
+        {
+          "title": "[포토] 국산 4족 보행 로봇 ＇진도봇＇",
+          "link": "https://www.etnews.com/20260506000264",
+          "category": "민간"
+        },
+        {
+          "title": "슈어소프트테크, ＇AI 기본법＇ 신뢰성 검증 체계 강화… KOLAS 공인시험성적서와 ＇AI MASTER＇ 인증 지원",
+          "link": "https://www.etnews.com/20260504000213",
+          "category": "민간"
+        },
+        {
+          "title": "플래티어, 오픈AI ＇100억 토큰＇ 실버 어워드 수상…글로벌 AI 혁신 선도 기업 입증",
+          "link": "https://www.etnews.com/20260506000021",
+          "category": "민간"
+        }
+      ],
+      "기타": [
+        {
+          "title": "인공지능의 모든 것 한눈에, “제9회 국제인공지능대전”개최...“AI 기술과 산업의 현재와 미래를 그리다”",
+          "link": "https://www.etnews.com/20260506000114",
+          "category": "기타"
+        },
+        {
+          "title": "수천 년 걸리던 컴퓨터 난제를 반도체로 푼다...KAIST, 실리콘 기반 차세대 최적화 연산 하드웨어 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39920",
+          "category": "기타"
         }
       ],
       "국방": [
@@ -5472,13 +5489,23 @@
           "category": "국방"
         },
         {
-          "title": "차세대 웨어러블 로봇 야전서 실증 추진한다",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20260507/7/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=tSj-WyR0kJjLZpm49QsiOr7Lhq-mbWxe0_95HdTXHzcR6OAI7Dff!415924974",
+          "title": "드론 활용 미래 의무지원체계 발전 방향 모색",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260507/10/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=tSj-WyR0kJjLZpm49QsiOr7Lhq-mbWxe0_95HdTXHzcR6OAI7Dff!415924974",
+          "category": "국방"
+        },
+        {
+          "title": "눈앞에 펼쳐진 잠수함 내부…“VR로 실전적 교육”",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260507/6/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=tSj-WyR0kJjLZpm49QsiOr7Lhq-mbWxe0_95HdTXHzcR6OAI7Dff!415924974",
           "category": "국방"
         },
         {
           "title": "“인간과 AI 시너지 극대화 위한 인적자원 양성 필요”",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260507/8/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=tSj-WyR0kJjLZpm49QsiOr7Lhq-mbWxe0_95HdTXHzcR6OAI7Dff!415924974",
+          "category": "국방"
+        },
+        {
+          "title": "군수는 단순한 전투 지원 아닌 ‘전쟁의 운영체계’",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260507/1/ATCE_CTGR_0020010028/view.do;JSESSIONID_kookbnagWEB=tSj-WyR0kJjLZpm49QsiOr7Lhq-mbWxe0_95HdTXHzcR6OAI7Dff!415924974",
           "category": "국방"
         }
       ],
@@ -5486,6 +5513,11 @@
         {
           "title": "육군군수사에 ‘군수인공지능발전과’ 신설",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260507/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=tSj-WyR0kJjLZpm49QsiOr7Lhq-mbWxe0_95HdTXHzcR6OAI7Dff!415924974",
+          "category": "육군"
+        },
+        {
+          "title": "차세대 웨어러블 로봇 야전서 실증 추진한다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260507/7/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=tSj-WyR0kJjLZpm49QsiOr7Lhq-mbWxe0_95HdTXHzcR6OAI7Dff!415924974",
           "category": "육군"
         }
       ],
