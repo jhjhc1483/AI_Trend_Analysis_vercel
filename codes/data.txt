@@ -5,9 +5,6 @@
 ◾ 마키나락스, 국방 무기체계용 AI 참모 에이전트 개발환경 구축 사업 수주
 https://www.etnews.com/20260507000243
 
-◾ 드론 활용 미래 의무지원체계 발전 방향 모색
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48826&startDate=&endDate=&id=mnd_020101000000
-
 ◾ 국방 디지털 시대 상호운용성 발전 방향 머리 맞댔다
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48829&startDate=&endDate=&id=mnd_020101000000
 
@@ -17,14 +14,11 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 ◾ “인간과 AI 시너지 극대화 위한 인적자원 양성 필요”
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48839&startDate=&endDate=&id=mnd_020101000000
 
-◾ 눈앞에 펼쳐진 잠수함 내부…“VR로 실전적 교육”
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48845&startDate=&endDate=&id=mnd_020101000000
+◾ 국방 공급망 단종 위험 예측·식별 능력 키웠다
+https://kookbang.dema.mil.kr/newsWeb/20260508/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974
 
 ◾ “AI 기반 자주국방력으로 확고한 영공방위태세 확립”
 https://kookbang.dema.mil.kr/newsWeb/20260508/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974
-
-◾ 글로벌 기업 기술 연계…스마트 강군으로 도약
-https://kookbang.dema.mil.kr/newsWeb/20260508/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974
 
 ◾ AI 전문가가 들려주는 ‘사이버보안’ 중요성
 https://kookbang.dema.mil.kr/newsWeb/20260508/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974
@@ -33,19 +27,19 @@ https://kookbang.dema.mil.kr/newsWeb/20260508/1/ATCE_CTGR_0010050000/view.do;JSE
 ◾ 차세대 웨어러블 로봇 야전서 실증 추진한다
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48833&startDate=&endDate=&id=mnd_020101000000
 
-◾ 대학과 손잡고 ‘드론전사 양성’ 날개 편다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48837&startDate=&endDate=&id=mnd_020101000000
-
 ◾ 육군군수사에 ‘군수인공지능발전과’ 신설
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48838&startDate=&endDate=&id=mnd_020101000000
 
 ◾ “아미타이거 플러스 시범부대, 속도감 있게 추진”
 https://kookbang.dema.mil.kr/newsWeb/20260508/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974
 
-◾ ‘토이 드론’ 조종하며 실전 전투감각 키우다
-https://kookbang.dema.mil.kr/newsWeb/20260508/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974
+◾ 글로벌 기업 기술 연계…스마트 강군으로 도약
+https://kookbang.dema.mil.kr/newsWeb/20260508/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974
 
 [민간]
+◾ SK AX, 채용 연계 AI 교육 4기 모집…광주·울산 지원 가능
+https://www.etnews.com/20260507000422
+
 ◾ [카&테크] 티맵모빌리티가 바꾸는 이동의 판…＇티맵 AI 에이전트＇
 https://www.etnews.com/20260507000079
 
@@ -55,17 +49,14 @@ https://www.etnews.com/20260507000310
 ◾ 리얼월드, 독자 로보틱스 파운데이션 모델 ＇RLDX-1＇ 공식 공개
 https://www.etnews.com/20260507000267
 
-◾ 대동, 2030년 매출 3.59조 청사진…‘농업 피지컬 AI’ 기업 전환
-https://www.aitimes.kr/news/articleView.html?idxno=39945
+◾ AI회사가 만드는 피지컬AI 로봇 공개, 페르소나AI 행사장 부스에 인파 몰려
+https://www.etnews.com/20260507000231
 
 ◾ LG CNS, 생각하고 스스로 움직이는 ‘로봇시대’ 연다...로봇 학습·운영 플랫폼 ‘피지컬웍스’ 공개
 https://www.aitimes.kr/news/articleView.html?idxno=39942
 
 ◾ 포털 ‘다음’, 국내 대표 AI 플랫폼 업스테이지가 인수...〃AI로 재구성한 차세대 포털로 거듭 날 것!〃
 https://www.aitimes.kr/news/articleView.html?idxno=39940
-
-◾ 달파, 오픈AI의 ‘MLE-벤치’서 글로벌 최고 수준 에이전트 성능 입증
-https://www.aitimes.com/news/articleView.html?idxno=210214
 
 [기관]
 ◾ AIDC 특별법 본회의 통과…배경훈 부총리 “AI고속도로 구축 핵심 기반 마련”
@@ -74,8 +65,14 @@ https://www.etnews.com/20260507000421
 ◾ “사망재해 포착률 10% 상승”…국가AI전략위, 민·관 AX 우수사례 공유
 https://www.etnews.com/20260507000417
 
-◾ 국가 R&D 연구데이터의 관리·활용 체계를 마련하는 ｢국가연구데이터법｣ 제정
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187286&searchOpt=ALL&searchTxt=
+◾ “피지컬 AI 규제 거버넌스 수립 시급… 한국, ＇기준 제안국＇으로 거듭나야”
+https://www.etnews.com/20260507000391
+
+◾ ＇AI허브＇ 데이터 30종 업사이클링…추론 학습용 고도화
+https://www.etnews.com/20260507000340
+
+◾ UAE 국부펀드·MGX·G42 서울 집결…韓 AI 투자처 찾는다
+https://www.etnews.com/20260507000287
 
 ◾ 물리적 인공지능(피지컬 AI) 기술과 결합한 인공지능 전환 기기(AX 디바이스)를 통해 국민의 일상과 산업을 혁신한다!
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187281&searchOpt=ALL&searchTxt=
@@ -83,18 +80,15 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ NIA, AI윤리 기반 공공 AX 선도...기보 AI윤리 준수기관 확인마크 수여, 중소·벤처기업 AI윤리 확산 협력 강화
 https://www.aitimes.kr/news/articleView.html?idxno=39935
 
-◾ 국가AI전략위, “AI, 국민 삶 속으로” 민ㆍ관 세미나 개최
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=622
-
-◾ ‘AI교육 전면개편’...광주AI사관학교 7기 대장정
-https://www.aitimes.com/news/articleView.html?idxno=210161
-
 [해외]
-◾ 일론 머스크, 美 텍사스에 초대형 반도체공장 건설…최소 80조 투자
-https://www.etnews.com/20260507000382
-
 ◾ 엔비디아-코닝, 4.6조원 규모 AI 인프라용 광 연결 솔루션 협력
 https://www.etnews.com/20260507000248
+
+◾ 앤트로픽, 머스크 데이터센터 임차…AI 사용 한도 대폭 확대
+https://www.etnews.com/20260507000003
+
+◾ 마이크로소프트, AI 에이전트 보안·거버넌스 통합 관제 플랫폼 ‘에이전트 365’ 정식 출시
+https://www.aitimes.kr/news/articleView.html?idxno=39936
 
 ◾ “자다가 깨면 더 똑똑해진다”...앤트로픽, AI 자기 개선 기능 ‘드리밍’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=210194
@@ -105,18 +99,8 @@ https://www.aitimes.com/news/articleView.html?idxno=210210
 ◾ ＇AI 추격＇ 절박한 애플, 사상 처음으로 R&D에 매출 10% 이상 투자
 https://www.aitimes.com/news/articleView.html?idxno=210206
 
-◾ 딥시크, 기업 가치 72조 ＇수직 상승＇...〃몇주 만에 몸값 2배 껑충〃
-https://www.aitimes.com/news/articleView.html?idxno=210181
-
-◾ 오픈AI, GPU 병목 해결하는 슈퍼컴퓨터 네트워크 규격 ＇MCR＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=210192
-
-[기타]
-◾ “피지컬 AI 규제 거버넌스 수립 시급… 한국, ＇기준 제안국＇으로 거듭나야”
-https://www.etnews.com/20260507000391
-
-◾ KOSA, 기업 AX 사례집 발간 “기술 도입 넘어 운영 재설계가 핵심“
-https://www.etnews.com/20260507000082
+◾ 머스크의 ＇테라팹＇, 사상 최대 규모인 172조 투자 계획으로 밝혀져
+https://www.aitimes.com/news/articleView.html?idxno=210182
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
