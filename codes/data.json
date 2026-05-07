@@ -5529,5 +5529,206 @@
         }
       ]
     }
+  },
+  "26.05.08": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "AIDC 특별법 본회의 통과…배경훈 부총리 “AI고속도로 구축 핵심 기반 마련”",
+          "link": "https://www.etnews.com/20260507000421",
+          "category": "기관"
+        },
+        {
+          "title": "“사망재해 포착률 10% 상승”…국가AI전략위, 민·관 AX 우수사례 공유",
+          "link": "https://www.etnews.com/20260507000417",
+          "category": "기관"
+        },
+        {
+          "title": "국가 R&D 연구데이터의 관리·활용 체계를 마련하는 ｢국가연구데이터법｣ 제정",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187286&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "물리적 인공지능(피지컬 AI) 기술과 결합한 인공지능 전환 기기(AX 디바이스)를 통해 국민의 일상과 산업을 혁신한다!",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187281&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "NIA, AI윤리 기반 공공 AX 선도...기보 AI윤리 준수기관 확인마크 수여, 중소·벤처기업 AI윤리 확산 협력 강화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39935",
+          "category": "기관"
+        },
+        {
+          "title": "국가AI전략위, “AI, 국민 삶 속으로” 민ㆍ관 세미나 개최",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=622",
+          "category": "기관"
+        },
+        {
+          "title": "‘AI교육 전면개편’...광주AI사관학교 7기 대장정",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210161",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "“피지컬 AI 규제 거버넌스 수립 시급… 한국, ＇기준 제안국＇으로 거듭나야”",
+          "link": "https://www.etnews.com/20260507000391",
+          "category": "기타"
+        },
+        {
+          "title": "KOSA, 기업 AX 사례집 발간 “기술 도입 넘어 운영 재설계가 핵심“",
+          "link": "https://www.etnews.com/20260507000082",
+          "category": "기타"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[카&테크] 티맵모빌리티가 바꾸는 이동의 판…＇티맵 AI 에이전트＇",
+          "link": "https://www.etnews.com/20260507000079",
+          "category": "민간"
+        },
+        {
+          "title": "SK텔레콤, 1년 만에 영업익 5000억 회복…AIDC·B2B 사업 가속",
+          "link": "https://www.etnews.com/20260507000310",
+          "category": "민간"
+        },
+        {
+          "title": "리얼월드, 독자 로보틱스 파운데이션 모델 ＇RLDX-1＇ 공식 공개",
+          "link": "https://www.etnews.com/20260507000267",
+          "category": "민간"
+        },
+        {
+          "title": "대동, 2030년 매출 3.59조 청사진…‘농업 피지컬 AI’ 기업 전환",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39945",
+          "category": "민간"
+        },
+        {
+          "title": "LG CNS, 생각하고 스스로 움직이는 ‘로봇시대’ 연다...로봇 학습·운영 플랫폼 ‘피지컬웍스’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39942",
+          "category": "민간"
+        },
+        {
+          "title": "포털 ‘다음’, 국내 대표 AI 플랫폼 업스테이지가 인수...〃AI로 재구성한 차세대 포털로 거듭 날 것!〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39940",
+          "category": "민간"
+        },
+        {
+          "title": "달파, 오픈AI의 ‘MLE-벤치’서 글로벌 최고 수준 에이전트 성능 입증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210214",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "일론 머스크, 美 텍사스에 초대형 반도체공장 건설…최소 80조 투자",
+          "link": "https://www.etnews.com/20260507000382",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아-코닝, 4.6조원 규모 AI 인프라용 광 연결 솔루션 협력",
+          "link": "https://www.etnews.com/20260507000248",
+          "category": "해외"
+        },
+        {
+          "title": "“자다가 깨면 더 똑똑해진다”...앤트로픽, AI 자기 개선 기능 ‘드리밍’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210194",
+          "category": "해외"
+        },
+        {
+          "title": "보스턴 다이내믹스, ＇양산형 아틀라스＇ 공개…＇L-시트＇로 압도적 균형감 입증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210210",
+          "category": "해외"
+        },
+        {
+          "title": "＇AI 추격＇ 절박한 애플, 사상 처음으로 R&D에 매출 10% 이상 투자",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210206",
+          "category": "해외"
+        },
+        {
+          "title": "딥시크, 기업 가치 72조 ＇수직 상승＇...〃몇주 만에 몸값 2배 껑충〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210181",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, GPU 병목 해결하는 슈퍼컴퓨터 네트워크 규격 ＇MCR＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210192",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "마키나락스, 국방 무기체계용 AI 참모 에이전트 개발환경 구축 사업 수주",
+          "link": "https://www.etnews.com/20260507000243",
+          "category": "국방"
+        },
+        {
+          "title": "드론 활용 미래 의무지원체계 발전 방향 모색",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48826&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "국방 디지털 시대 상호운용성 발전 방향 머리 맞댔다",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48829&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "AI·드론 화생방작전 접목할 창의적 제안 발굴",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48831&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "“인간과 AI 시너지 극대화 위한 인적자원 양성 필요”",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48839&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "눈앞에 펼쳐진 잠수함 내부…“VR로 실전적 교육”",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48845&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "“AI 기반 자주국방력으로 확고한 영공방위태세 확립”",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260508/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974",
+          "category": "국방"
+        },
+        {
+          "title": "글로벌 기업 기술 연계…스마트 강군으로 도약",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260508/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974",
+          "category": "국방"
+        },
+        {
+          "title": "AI 전문가가 들려주는 ‘사이버보안’ 중요성",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260508/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974",
+          "category": "국방"
+        }
+      ],
+      "육군": [
+        {
+          "title": "차세대 웨어러블 로봇 야전서 실증 추진한다",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48833&startDate=&endDate=&id=mnd_020101000000",
+          "category": "육군"
+        },
+        {
+          "title": "대학과 손잡고 ‘드론전사 양성’ 날개 편다",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48837&startDate=&endDate=&id=mnd_020101000000",
+          "category": "육군"
+        },
+        {
+          "title": "육군군수사에 ‘군수인공지능발전과’ 신설",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48838&startDate=&endDate=&id=mnd_020101000000",
+          "category": "육군"
+        },
+        {
+          "title": "“아미타이거 플러스 시범부대, 속도감 있게 추진”",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260508/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974",
+          "category": "육군"
+        },
+        {
+          "title": "‘토이 드론’ 조종하며 실전 전투감각 키우다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260508/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=NHQDlBPLr2WBhSZ91YGeUcQ2XuOvJFbFuEoqo04krv0Inv1gkTXZ!415924974",
+          "category": "육군"
+        }
+      ]
+    }
   }
 }
