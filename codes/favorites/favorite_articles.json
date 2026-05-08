@@ -5,16 +5,6 @@
     "category": "해외"
   },
   {
-    "title": "[에듀플러스]숭실대 AI안전성연구센터, 음성 복제 방지 기술 ＇RoCo＇ 개발…ICASSP 2026 채택",
-    "link": "https://www.etnews.com/20260508000264",
-    "category": "기타"
-  },
-  {
-    "title": "피씨엔, 소멸 위기 ＇제주어＇ AI 번역 모델 개발…오픈소스로 전면 공개",
-    "link": "https://www.etnews.com/20260508000200",
-    "category": "기타"
-  },
-  {
     "title": "유라클, AI 코딩 솔루션 ＇아테나 코드 어시스턴트＇ 이클립스 버전 출시",
     "link": "https://www.etnews.com/20260508000192",
     "category": "민간"
@@ -30,24 +20,14 @@
     "category": "민간"
   },
   {
-    "title": "정부, 글로벌 AI 사이버보안 프로젝트 대응 산학연 간담회",
-    "link": "https://www.etnews.com/20260508000164",
-    "category": "기관"
-  },
-  {
-    "title": "KOSA, 지란지교소프트와 맞손…“회원사 보안 강화·AX 지원”",
-    "link": "https://www.etnews.com/20260508000184",
-    "category": "기타"
-  },
-  {
-    "title": "[에듀플러스]팀모노리스, 학교 맞춤형 ＇올인원 AI 해커톤＇ 운영 서비스 출시",
-    "link": "https://www.etnews.com/20260508000169",
-    "category": "기타"
-  },
-  {
     "title": "“자연어 입력하면 결제 연동” NHN KCP, ＇MCP＇ 도입",
     "link": "https://www.etnews.com/20260508000150",
     "category": "민간"
+  },
+  {
+    "title": "한국인공지능협회, 창립 10주년 맞아 새로운 AI 문명의 기준 선언",
+    "link": "https://www.etnews.com/20260508000130",
+    "category": "기관"
   },
   {
     "title": "AIWORKX(에이아이웍스), 업무 완결형 AI 에이전트 기술 ＇AxDC™＇ 적용 솔루션 4종 발표",
@@ -80,18 +60,13 @@
     "category": "기관"
   },
   {
-    "title": "테슬라 모델Y, 美 새 자율주행 안전시험 첫 통과",
-    "link": "https://www.etnews.com/20260508000018",
-    "category": "해외"
-  },
-  {
     "title": "오픈AI, 실시간 음성 AI모델 공개…“자연스러운 대화 행태 반영”",
     "link": "https://www.etnews.com/20260508000002",
     "category": "해외"
   },
   {
-    "title": "국내 개발 육상·해상·공중 무인이동체, 해안 경비 임무에 투입된다.",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187290&searchOpt=ALL&searchTxt=",
+    "title": "세계적 인공지능 기업의 사이버보안 사업(프로젝트) 대응 관련 산학연 전문가와 간담회",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187291&searchOpt=ALL&searchTxt=",
     "category": "기관"
   },
   {
@@ -113,16 +88,6 @@
     "title": "“아미타이거 플러스 시범부대, 속도감 있게 추진”",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48861&startDate=&endDate=&id=mnd_020101000000",
     "category": "육군"
-  },
-  {
-    "title": "도하 작전부터 드론 대응까지…기계화부대의 제병협동전투 발전 도모",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48862&startDate=&endDate=&id=mnd_020101000000",
-    "category": "육군"
-  },
-  {
-    "title": "대학 교육·연구 역량 동원…드론 전문인력 양성",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48872&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
   },
   {
     "title": "AI 전문가가 들려주는 ‘사이버보안’ 중요성",
@@ -150,8 +115,8 @@
     "category": "해외"
   },
   {
-    "title": "문샷 AI, 메이투안 주도 투자 유치로 기업 가치 29조 평가받아",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210264",
+    "title": "〃알트먼에 테슬라 이사 제안〃… 머스크, 2018년 오픈AI 흡수 시도 드러나",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210283",
     "category": "해외"
   },
   {
@@ -160,13 +125,18 @@
     "category": "해외"
   },
   {
+    "title": "플래티어, 오픈AI API 사용량 세계 140위에 포함...”링크드인·넷플릭스 수준”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210266",
+    "category": "민간"
+  },
+  {
     "title": "[기고] 딥페이크 영상을 올린 유튜버는 AI 기본법을 위반한 것인가",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=210249",
     "category": "기타"
   },
   {
-    "title": "〃AI는 스페인, 전문가는 프랑스〃...월드컵 우승 놓고 ＇동상이몽＇",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210241",
-    "category": "기타"
+    "title": "프랑스, X·그록 관련으로 머스크 소환...〃형사 수사로 격상〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210239",
+    "category": "해외"
   }
 ]
