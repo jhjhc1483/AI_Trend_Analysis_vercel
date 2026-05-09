@@ -1,102 +1,62 @@
-📢26.05.09 AI 일일 동향📢
+📢26.05.10 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ “AI 기반 자주국방력으로 확고한 영공방위태세 확립”
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48851&startDate=&endDate=&id=mnd_020101000000
-
-◾ 국방 공급망 단종 위험 예측·식별 능력 키웠다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48852&startDate=&endDate=&id=mnd_020101000000
-
-◾ 글로벌 기업 기술 연계…스마트 강군으로 도약
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48858&startDate=&endDate=&id=mnd_020101000000
-
-◾ AI 전문가가 들려주는 ‘사이버보안’ 중요성
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48874&startDate=&endDate=&id=mnd_020101000000
-
-◾ 현대로템, 안두릴과 AI 지휘통제체계 구축...유무인복합 지휘통제 고도화
-https://www.aitimes.kr/news/articleView.html?idxno=39949
-
-[육군]
-◾ “아미타이거 플러스 시범부대, 속도감 있게 추진”
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=48861&startDate=&endDate=&id=mnd_020101000000
-
 [민간]
-◾ 유라클, AI 코딩 솔루션 ＇아테나 코드 어시스턴트＇ 이클립스 버전 출시
-https://www.etnews.com/20260508000192
+◾ 코딩 한줄 없이 ＇뉴스 에이전트＇ 뚝딱…더존 메이커톤이 보여준 바이브 코딩의 미래
+https://www.etnews.com/20260508000214
 
-◾ 오케스트로, 국산 AI 반도체 클라우드 R&D 사업 수주…총 112.5억 규모
-https://www.etnews.com/20260508000191
+◾ 미토스發 취약점 홍수…“보안 솔루션 수요 더 커진다”
+https://www.etnews.com/20260508000222
 
-◾ “자연어 입력하면 결제 연동” NHN KCP, ＇MCP＇ 도입
-https://www.etnews.com/20260508000150
+◾ “전화 한마디에 털린다?”…AI가 목소리까지 훔치는 신종 사기 등장
+https://www.etnews.com/20260508000175
 
-◾ AIWORKX(에이아이웍스), 업무 완결형 AI 에이전트 기술 ＇AxDC™＇ 적용 솔루션 4종 발표
-https://www.etnews.com/20260508000124
+◾ 아이엘, 휴머노이드 ‘아이엘봇’ 적용 공정서 작업시간 28% 단축 확인... 생산 처리량 38.8% 증가
+https://www.aitimes.kr/news/articleView.html?idxno=39959
 
-◾ 뉴엔AI, 차세대 AI 분석 플랫폼 2종 전격 공개… AI EXPO KOREA 2026＇ 참가 성료
-https://www.etnews.com/20260508000104
-
-◾ KB금융, 금융권 최초 시니어 돌봄 휴머노이드 ＇젠피＇ 공개
-https://www.etnews.com/20260508000085
-
-◾ 플래티어, 오픈AI API 사용량 세계 140위에 포함...”링크드인·넷플릭스 수준”
-https://www.aitimes.com/news/articleView.html?idxno=210266
+◾ LG CNS 로봇 플랫폼 ＇피지컬 웍스＇ 엔비디아 아이작과 차별점은
+https://www.aitimes.com/news/articleView.html?idxno=210285
 
 [기관]
-◾ 피지컬 AI 시대 안전 과제 논의…AI안전포럼 1차 간담회 개최 [영상]
-https://www.etnews.com/20260508000194
+◾ 경과원, AI 중소기업 10곳 글로벌 진출 지원 사업 가동
+https://www.etnews.com/20260509000116
 
-◾ 한국인공지능협회, 창립 10주년 맞아 새로운 AI 문명의 기준 선언
-https://www.etnews.com/20260508000130
+◾ 성남시, 모란전통시장에 AI 짐꾼 로봇 실증 본격화
+https://www.etnews.com/20260509000079
 
-◾ 경기도교육청, 직업계고 19곳서 AI 실무인재 양성 사업 본격화
-https://www.etnews.com/20260508000106
+◾ 경북대 SW교육원, 어린이 포용 AI중심 디지털 생태계 확장
+https://www.etnews.com/20260509000001
 
-◾ AI 보안·제로트러스트 키운다…KISA, 18개 과제 선정
-https://www.etnews.com/20260508000063
+◾ 롯데이노베이트, 피지컬 AI 인재 양성 위한 ＇생성AI 선도 인재 양성＇ 주관기관 선정
+https://www.aitimes.kr/news/articleView.html?idxno=39958
 
-◾ 춘천시, 생성형 AI 행정 도입…＇AI 주무관＇ 운영 시작
-https://www.etnews.com/20260508000056
+◾ 한전, 전력산업 AX 선도할 ‘KEPCO Energy AI Partners’공식 출범
+https://www.aitimes.kr/news/articleView.html?idxno=39956
 
-◾ 세계적 인공지능 기업의 사이버보안 사업(프로젝트) 대응 관련 산학연 전문가와 간담회
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187291&searchOpt=ALL&searchTxt=
-
-◾ 국가인공지능전략위원회는 국가 AI 정책 총괄 역할을 차질 없이 수행하고 있습니다.
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=626
+◾ 이언주 민주당 수석최고위원, 10월 ＇국제 피지컬AI 표준포럼＇ 추진...AI EXPO KOREA 2026서 한국피지컬AI협회와 정책 간담회
+https://www.aitimes.kr/news/articleView.html?idxno=39955
 
 [해외]
-◾ 오픈AI, 신뢰 기반 GPT-5.5 사이버 보안 접근성 확대
-https://www.etnews.com/20260508000281
+◾ 오픈AI, 미소스 대항마 ‘GPT-5.5-사이버’ 공개...전용·범용 ＇투트랙＇ 가동
+https://www.aitimes.com/news/articleView.html?idxno=210280
 
-◾ 오픈AI, 실시간 음성 AI모델 공개…“자연스러운 대화 행태 반영”
-https://www.etnews.com/20260508000002
+◾ 딥시크 창립자 량원펑, 사재 4조 투자 예정...＇V4.1＇은 6월 출시
+https://www.aitimes.com/news/articleView.html?idxno=210296
 
-◾ 트럼프 방중, 엔비디아·보잉 CEO 동행…＇역대급 경제협력＇ 나오나
-https://www.aitimes.com/news/articleView.html?idxno=210274
+◾ 앤트로픽, 세계 최대 CDN 업체 아카마이와 2.6조 컴퓨팅 계약
+https://www.aitimes.com/news/articleView.html?idxno=210294
 
-◾ 소프트뱅크, 엔비디아·폭스콘과 ＇일본산＇ AI 서버 구축 추진
-https://www.aitimes.com/news/articleView.html?idxno=210272
+◾ 사카나 AI, 거대 모델 지휘하는 ‘7B 지휘자’ 공개…〃오케스트레이션 완전 자동화〃
+https://www.aitimes.com/news/articleView.html?idxno=210290
 
-◾ 〃알트먼에 테슬라 이사 제안〃… 머스크, 2018년 오픈AI 흡수 시도 드러나
-https://www.aitimes.com/news/articleView.html?idxno=210283
+◾ 앤트로픽, AI ＇속마음＇ 읽는 기술 공개...〃테스트 상황 알아채고도 숨겨〃
+https://www.aitimes.com/news/articleView.html?idxno=210289
 
-◾ 애플의 첫 AI 기기는 ＇카메라 탑재＇ 에어팟...〃막바지 테스트 중〃
-https://www.aitimes.com/news/articleView.html?idxno=210235
+◾ 오픈AI, ＇코덱스＇에 크롬 확장 프로그램 출시…“브라우저 직접 제어”
+https://www.aitimes.com/news/articleView.html?idxno=210286
 
-◾ 프랑스, X·그록 관련으로 머스크 소환...〃형사 수사로 격상〃
-https://www.aitimes.com/news/articleView.html?idxno=210239
-
-[기타]
-◾ [기고] 딥페이크 영상을 올린 유튜버는 AI 기본법을 위반한 것인가
-https://www.aitimes.com/news/articleView.html?idxno=210249
-
-📚 간행물
-◾ 세계지식재산기구 혁신역량전망 2026 분석 [KISTEP 브리프]
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260508-000001&cpage=1&rows=10&searchTarget=all
-
-◾ [AI Policy Insights] 美 AI 활용 사례 목록을 통한 공공 AX 현황 분석 및 정책 시사점
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29360&parentSeq=29360
+◾ xAI, ＇커서＇ 인수로 10여명 추가 이탈...법인 해체하고 ＇스페이스XAI＇로 통합
+https://www.aitimes.com/news/articleView.html?idxno=210288
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
