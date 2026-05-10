@@ -1,65 +1,48 @@
-📢26.05.10 AI 일일 동향📢
+📢26.05.11 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 펀진 “전쟁 승패는 속도…AI 참모 ＇킬웹매칭＇, SDW로 고도화”
+https://www.etnews.com/20260508000243
+
 [민간]
-◾ 코딩 한줄 없이 ＇뉴스 에이전트＇ 뚝딱…더존 메이커톤이 보여준 바이브 코딩의 미래
-https://www.etnews.com/20260508000214
+◾ 류재철 LG전자 대표 “문제 드러내고 이기는 실행으로 1등 만들어야”
+https://www.etnews.com/20260510000051
 
-◾ 미토스發 취약점 홍수…“보안 솔루션 수요 더 커진다”
-https://www.etnews.com/20260508000222
+◾ “민감 데이터도 안심하고, 현장에서 바로 AI 추론”
+https://www.etnews.com/20260508000117
 
-◾ “전화 한마디에 털린다?”…AI가 목소리까지 훔치는 신종 사기 등장
-https://www.etnews.com/20260508000175
-
-◾ 아이엘, 휴머노이드 ‘아이엘봇’ 적용 공정서 작업시간 28% 단축 확인... 생산 처리량 38.8% 증가
-https://www.aitimes.kr/news/articleView.html?idxno=39959
-
-◾ 마키나락스, 공모가 상단 15,000원 확정…의무보유 확약률 ‘코스닥 역대 최고 기록’
-https://www.aitimes.kr/news/articleView.html?idxno=39957
-
-◾ LG CNS 로봇 플랫폼 ＇피지컬 웍스＇ 엔비디아 아이작과 차별점은
-https://www.aitimes.com/news/articleView.html?idxno=210285
+◾ 비즈크러시 〃음성 인식 AI로 실리콘 밸리 공략...미팅 데이터 자산화 시대 열 것〃
+https://www.aitimes.com/news/articleView.html?idxno=210077
 
 [기관]
-◾ 경과원, AI 중소기업 10곳 글로벌 진출 지원 사업 가동
-https://www.etnews.com/20260509000116
+◾ 한국마사회, AI 마필 식별 기술 국제표준 추진
+https://www.etnews.com/20260510000041
 
-◾ 성남시, 모란전통시장에 AI 짐꾼 로봇 실증 본격화
-https://www.etnews.com/20260509000079
+◾ AI 사이버보안 연구회, 인터넷정보학회 춘계학술발표대회 참가
+https://www.etnews.com/20260510000037
 
-◾ 경북대 SW교육원, 어린이 포용 AI중심 디지털 생태계 확장
-https://www.etnews.com/20260509000001
+◾ 공공 AI 시장 ＇3조원 시대＇ 성큼…대형 사업·대기업 수주 쏠림은 과제
+https://www.etnews.com/20260510000035
 
-◾ 롯데이노베이트, 피지컬 AI 인재 양성 위한 ＇생성AI 선도 인재 양성＇ 주관기관 선정
-https://www.aitimes.kr/news/articleView.html?idxno=39958
+◾ 국세청, AI 기반 가상자산 통합분석 시스템 구축…탈세·자금세탁 추적 강화
+https://www.etnews.com/20260510000028
 
-◾ 한전, 전력산업 AX 선도할 ‘KEPCO Energy AI Partners’공식 출범
-https://www.aitimes.kr/news/articleView.html?idxno=39956
-
-◾ 이언주 민주당 수석최고위원, 10월 ＇국제 피지컬AI 표준포럼＇ 추진...AI EXPO KOREA 2026서 한국피지컬AI협회와 정책 간담회
-https://www.aitimes.kr/news/articleView.html?idxno=39955
+◾ 정부, 美 AI 보안 동맹 참여 추진…AI안전연구소·KISA 전면에
+https://www.etnews.com/20260510000022
 
 [해외]
-◾ 오픈AI, 미소스 대항마 ‘GPT-5.5-사이버’ 공개...전용·범용 ＇투트랙＇ 가동
-https://www.aitimes.com/news/articleView.html?idxno=210280
+◾ 브록먼 〃에이전트 코딩 비중 80%...이제는 비개발자까지 확산〃
+https://www.aitimes.com/news/articleView.html?idxno=210305
 
-◾ 딥시크 창립자 량원펑, 사재 4조 투자 예정...＇V4.1＇은 6월 출시
-https://www.aitimes.com/news/articleView.html?idxno=210296
+◾ 앤트로픽이 ＇클로드＇의 협박을 막기 위해 사용한 방법은
+https://www.aitimes.com/news/articleView.html?idxno=210303
 
-◾ 앤트로픽, 세계 최대 CDN 업체 아카마이와 2.6조 컴퓨팅 계약
-https://www.aitimes.com/news/articleView.html?idxno=210294
+◾ 피규어 AI, 휴머노이드 2대가 ＇눈치＇로 2분 만에 침실 정리...〃로봇 협업 새 지평〃
+https://www.aitimes.com/news/articleView.html?idxno=210299
 
-◾ 사카나 AI, 거대 모델 지휘하는 ‘7B 지휘자’ 공개…〃오케스트레이션 완전 자동화〃
-https://www.aitimes.com/news/articleView.html?idxno=210290
-
-◾ 앤트로픽, AI ＇속마음＇ 읽는 기술 공개...〃테스트 상황 알아채고도 숨겨〃
-https://www.aitimes.com/news/articleView.html?idxno=210289
-
-◾ 오픈AI, ＇코덱스＇에 크롬 확장 프로그램 출시…“브라우저 직접 제어”
-https://www.aitimes.com/news/articleView.html?idxno=210286
-
-◾ xAI, ＇커서＇ 인수로 10여명 추가 이탈...법인 해체하고 ＇스페이스XAI＇로 통합
-https://www.aitimes.com/news/articleView.html?idxno=210288
+◾ 중국 암시장에서 ＇클로드＇ 10% 가격으로 유통...〃모델 증류의 온상〃
+https://www.aitimes.com/news/articleView.html?idxno=210298
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
