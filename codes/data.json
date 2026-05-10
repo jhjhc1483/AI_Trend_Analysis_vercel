@@ -5976,5 +5976,82 @@
         }
       ]
     }
+  },
+  "26.05.11": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "펀진 “전쟁 승패는 속도…AI 참모 ＇킬웹매칭＇, SDW로 고도화”",
+          "link": "https://www.etnews.com/20260508000243",
+          "category": "국방"
+        }
+      ],
+      "민간": [
+        {
+          "title": "류재철 LG전자 대표 “문제 드러내고 이기는 실행으로 1등 만들어야”",
+          "link": "https://www.etnews.com/20260510000051",
+          "category": "민간"
+        },
+        {
+          "title": "“민감 데이터도 안심하고, 현장에서 바로 AI 추론”",
+          "link": "https://www.etnews.com/20260508000117",
+          "category": "민간"
+        },
+        {
+          "title": "비즈크러시 〃음성 인식 AI로 실리콘 밸리 공략...미팅 데이터 자산화 시대 열 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210077",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "한국마사회, AI 마필 식별 기술 국제표준 추진",
+          "link": "https://www.etnews.com/20260510000041",
+          "category": "기관"
+        },
+        {
+          "title": "AI 사이버보안 연구회, 인터넷정보학회 춘계학술발표대회 참가",
+          "link": "https://www.etnews.com/20260510000037",
+          "category": "기관"
+        },
+        {
+          "title": "공공 AI 시장 ＇3조원 시대＇ 성큼…대형 사업·대기업 수주 쏠림은 과제",
+          "link": "https://www.etnews.com/20260510000035",
+          "category": "기관"
+        },
+        {
+          "title": "국세청, AI 기반 가상자산 통합분석 시스템 구축…탈세·자금세탁 추적 강화",
+          "link": "https://www.etnews.com/20260510000028",
+          "category": "기관"
+        },
+        {
+          "title": "정부, 美 AI 보안 동맹 참여 추진…AI안전연구소·KISA 전면에",
+          "link": "https://www.etnews.com/20260510000022",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "브록먼 〃에이전트 코딩 비중 80%...이제는 비개발자까지 확산〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210305",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽이 ＇클로드＇의 협박을 막기 위해 사용한 방법은",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210303",
+          "category": "해외"
+        },
+        {
+          "title": "피규어 AI, 휴머노이드 2대가 ＇눈치＇로 2분 만에 침실 정리...〃로봇 협업 새 지평〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210299",
+          "category": "해외"
+        },
+        {
+          "title": "중국 암시장에서 ＇클로드＇ 10% 가격으로 유통...〃모델 증류의 온상〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210298",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }
