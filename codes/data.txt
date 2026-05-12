@@ -2,12 +2,6 @@
 
 📰 오늘의 기사
 [국방]
-◾ 한화에어로·한화시스템, 루마니아서 차세대 무인화 통합 솔루션 선보여
-https://www.etnews.com/20260512000340
-
-◾ 펀진, ＇월드 파운데이션 모델＇ 공개…“국방 데이터 부족 해결”
-https://www.etnews.com/20260512000214
-
 ◾ 펀진, 월드 파운데이션 모델 선보여…물리 기반 가상환경으로 국방 AI 고도화
 https://www.aitimes.kr/news/articleView.html?idxno=39993
 
@@ -20,21 +14,21 @@ https://kookbang.dema.mil.kr/newsWeb/20260513/2/ATCE_CTGR_0010060000/view.do;JSE
 ◾ 가상전장에서 수천 번 싸워보고 실전에 나선다면…
 https://kookbang.dema.mil.kr/newsWeb/20260513/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=uYQdXmb-O7LaD8ZNBi-XoKR7QhjkSh0OJAciB9gd1cAomeAmaq9Y!415924974
 
-◾ 펀진 〃물리 세계 이해하는 AI로 국방 데이터 부족 해결할 것〃
-https://www.aitimes.com/news/articleView.html?idxno=210414
-
 [민간]
+◾ [단독] 홍범식 LG U+ 대표, 빌 게이츠·나델라 MS CEO 만난다
+https://www.etnews.com/20260512000389
+
 ◾ LGU+ ＇익시오＇ 말레이 간다…“AI SW 첫 수출 성과”
 https://www.etnews.com/20260512000113
-
-◾ 이노그리드, GPU 국책과제 4건 수행…AI 인프라 ＇풀스택 사업자＇ 도약
-https://www.etnews.com/20260512000056
 
 ◾ 시맨틱스 적용한 조직, 에이전틱 AI 정확도 최대 80% 향상 및 비용 최대 60% 절감
 https://www.aitimes.kr/news/articleView.html?idxno=39998
 
-◾ AI 개발 ‘제로데이 취약점’ 공격 첫 탐지…구글, “AI 방어 체계로 맞불”
-https://www.aitimes.kr/news/articleView.html?idxno=39978
+◾ 솔트웨어, 31억 규모 반도체 제조 AI 사업 수주… AI 데이터 플랫폼 기업으로 전환 가속
+https://www.aitimes.kr/news/articleView.html?idxno=39985
+
+◾ 솔트룩스, 온톨로지+LLM 결합 ＇온톨로지 파운드리＇로 산업형 AI 시장 본격 공략
+https://www.aitimes.kr/news/articleView.html?idxno=39979
 
 ◾ 통역 전문 플리토, 피지컬 AI 시장 정조준...〃언어 데이터 노하우 이식〃
 https://www.aitimes.com/news/articleView.html?idxno=210419
@@ -42,34 +36,34 @@ https://www.aitimes.com/news/articleView.html?idxno=210419
 ◾ MS 〃한국 AI 사용률 37% 돌파...세계 최고 수준 성장세〃
 https://www.aitimes.com/news/articleView.html?idxno=210392
 
-◾ IBM “글로벌 기업 76% CAIO 선임…AI 실행 격차 해소 위해 조직 재설계”
-https://www.aitimes.com/news/articleView.html?idxno=210397
-
 [기관]
-◾ AI가 읽는 행정문서 시대 개막...＇개방형 문서 형식＇ 준수 의무화
-https://www.etnews.com/20260512000338
-
-◾ 정부, 국산 반도체·모델 묶어 소버린 AI 키운다
-https://www.etnews.com/20260512000320
-
-◾ 정부, 해외직구 조사 두 배 확대…AI로 ＇상시 감시＇
-https://www.etnews.com/20260512000088
-
-◾ “물그릇 10억톤 더 확보”…기후부, AI·DT 기반 ＇지능형 홍수대응＇ 가동
-https://www.etnews.com/20260512000266
+◾ 김용범 “AI 반도체 호황→국민배당금제”에…靑 “개인 의견” 선 그어
+https://www.etnews.com/20260512000500
 
 ◾ 인공지능 데이터센터와 에너지 정책 협력 본격화
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187299&searchOpt=ALL&searchTxt=
 
+◾ 금융위원회, 첨단산업과 손잡고 우리 AI의 미래를 함께 설계한다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187303&searchOpt=ALL&searchTxt=
+
 ◾ 과기정통부, 국산 온디바이스 인공지능 반도체 활용 현장 점검
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187301&searchOpt=ALL&searchTxt=
 
-◾ 데이터·AI 인재 발굴 본격화, ‘2026 데이터+AI 혁신 챌린지’ 첫 부문 ‘데이터+AI 크리에이터 캠프’ 공고
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187305&searchOpt=ALL&searchTxt=
+◾ “오픈소스로 여는 미래, 코드 한 줄로 글로벌 개발자로 도약!” ‘ 2026년 오픈소스 컨트리뷰션 아카데미’ 멘티 모집 시작
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187304&searchOpt=ALL&searchTxt=
+
+◾ 교육부, 전문대학의 인공지능·디지털 전환 선도할 24개 사업단 신규 선정...2026년 ‘에이아이디 전환 중점 전문대학 지원사업’
+https://www.aitimes.kr/news/articleView.html?idxno=39983
+
+◾ 데이터·AI 인재 발굴 본격화, ‘2026 데이터+AI 혁신 챌린지’ 첫 부문...‘데이터+AI 크리에이터 캠프’ 공고
+https://www.aitimes.kr/news/articleView.html?idxno=39982
 
 [해외]
 ◾ 록히드마틴, 차세대 요격미사일 ‘쿼드스타’ 시험 성공…AI 기반 탐색 기술도 검증
 https://www.aitimes.kr/news/articleView.html?idxno=39990
+
+◾ AI 개발 ‘제로데이 취약점’ 공격 첫 탐지…구글, “AI 방어 체계로 맞불”
+https://www.aitimes.kr/news/articleView.html?idxno=39978
 
 ◾ 무라티의 TML, 실시간 답변 멀티모달 모델 공개...〃응답 지연 0.4초 벽 깨뜨려〃
 https://www.aitimes.com/news/articleView.html?idxno=210399
@@ -86,10 +80,10 @@ https://www.aitimes.com/news/articleView.html?idxno=210415
 ◾ 중국, 앤트로픽·오픈AI와 AI 보안 격차 해소에 총력…〃중국판 ＇미소스＇는 등장 불가피〃
 https://www.aitimes.com/news/articleView.html?idxno=210406
 
-◾ 〃베드록 한계 넘었다〃...앤트로픽, 에이전트 기능 탑재 ＇AWS 전용 클로드 플랫폼＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=210413
-
 [기타]
+◾ [ET시론] 대한민국 재난·안전, 이제 ＇AI기반국가운영체계(GovAX)＇로 전환해야 한다
+https://www.etnews.com/20260512000185
+
 ◾ 인간이 AI보다 나은 것은
 https://kookbang.dema.mil.kr/newsWeb/20260513/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=uYQdXmb-O7LaD8ZNBi-XoKR7QhjkSh0OJAciB9gd1cAomeAmaq9Y!415924974
 
