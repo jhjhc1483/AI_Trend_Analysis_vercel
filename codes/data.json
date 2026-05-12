@@ -6182,5 +6182,171 @@
         }
       ]
     }
+  },
+  "26.05.13": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "한화에어로·한화시스템, 루마니아서 차세대 무인화 통합 솔루션 선보여",
+          "link": "https://www.etnews.com/20260512000340",
+          "category": "국방"
+        },
+        {
+          "title": "펀진, ＇월드 파운데이션 모델＇ 공개…“국방 데이터 부족 해결”",
+          "link": "https://www.etnews.com/20260512000214",
+          "category": "국방"
+        },
+        {
+          "title": "펀진, 월드 파운데이션 모델 선보여…물리 기반 가상환경으로 국방 AI 고도화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39993",
+          "category": "국방"
+        },
+        {
+          "title": "한화, 루마니아 방산 전시회 참가… AI 등 첨단 무인화 솔루션 제시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39986",
+          "category": "국방"
+        },
+        {
+          "title": "한결같은 AI 연구…한국연구재단 과제 수행자 3회 연속 선정",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260513/2/ATCE_CTGR_0010060000/view.do;JSESSIONID_kookbnagWEB=uYQdXmb-O7LaD8ZNBi-XoKR7QhjkSh0OJAciB9gd1cAomeAmaq9Y!415924974",
+          "category": "국방"
+        },
+        {
+          "title": "가상전장에서 수천 번 싸워보고 실전에 나선다면…",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260513/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=uYQdXmb-O7LaD8ZNBi-XoKR7QhjkSh0OJAciB9gd1cAomeAmaq9Y!415924974",
+          "category": "국방"
+        },
+        {
+          "title": "펀진 〃물리 세계 이해하는 AI로 국방 데이터 부족 해결할 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210414",
+          "category": "국방"
+        }
+      ],
+      "기관": [
+        {
+          "title": "AI가 읽는 행정문서 시대 개막...＇개방형 문서 형식＇ 준수 의무화",
+          "link": "https://www.etnews.com/20260512000338",
+          "category": "기관"
+        },
+        {
+          "title": "정부, 국산 반도체·모델 묶어 소버린 AI 키운다",
+          "link": "https://www.etnews.com/20260512000320",
+          "category": "기관"
+        },
+        {
+          "title": "정부, 해외직구 조사 두 배 확대…AI로 ＇상시 감시＇",
+          "link": "https://www.etnews.com/20260512000088",
+          "category": "기관"
+        },
+        {
+          "title": "“물그릇 10억톤 더 확보”…기후부, AI·DT 기반 ＇지능형 홍수대응＇ 가동",
+          "link": "https://www.etnews.com/20260512000266",
+          "category": "기관"
+        },
+        {
+          "title": "인공지능 데이터센터와 에너지 정책 협력 본격화",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187299&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "과기정통부, 국산 온디바이스 인공지능 반도체 활용 현장 점검",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187301&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "데이터·AI 인재 발굴 본격화, ‘2026 데이터+AI 혁신 챌린지’ 첫 부문 ‘데이터+AI 크리에이터 캠프’ 공고",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187305&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "LGU+ ＇익시오＇ 말레이 간다…“AI SW 첫 수출 성과”",
+          "link": "https://www.etnews.com/20260512000113",
+          "category": "민간"
+        },
+        {
+          "title": "이노그리드, GPU 국책과제 4건 수행…AI 인프라 ＇풀스택 사업자＇ 도약",
+          "link": "https://www.etnews.com/20260512000056",
+          "category": "민간"
+        },
+        {
+          "title": "시맨틱스 적용한 조직, 에이전틱 AI 정확도 최대 80% 향상 및 비용 최대 60% 절감",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39998",
+          "category": "민간"
+        },
+        {
+          "title": "AI 개발 ‘제로데이 취약점’ 공격 첫 탐지…구글, “AI 방어 체계로 맞불”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39978",
+          "category": "민간"
+        },
+        {
+          "title": "통역 전문 플리토, 피지컬 AI 시장 정조준...〃언어 데이터 노하우 이식〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210419",
+          "category": "민간"
+        },
+        {
+          "title": "MS 〃한국 AI 사용률 37% 돌파...세계 최고 수준 성장세〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210392",
+          "category": "민간"
+        },
+        {
+          "title": "IBM “글로벌 기업 76% CAIO 선임…AI 실행 격차 해소 위해 조직 재설계”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210397",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "록히드마틴, 차세대 요격미사일 ‘쿼드스타’ 시험 성공…AI 기반 탐색 기술도 검증",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=39990",
+          "category": "해외"
+        },
+        {
+          "title": "무라티의 TML, 실시간 답변 멀티모달 모델 공개...〃응답 지연 0.4초 벽 깨뜨려〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210399",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 보안 플랫폼 ＇데이브레이크＇ 공개...〃AI로 사이버 방어 가속〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210386",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, ‘클로드 코드’에 멀티 에이전트 관리 기능 추가",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210412",
+          "category": "해외"
+        },
+        {
+          "title": "메타, ‘토큰화’ 없애고 추론 효율 2배 높인 바이트 언어모델 ＇BLT＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210415",
+          "category": "해외"
+        },
+        {
+          "title": "중국, 앤트로픽·오픈AI와 AI 보안 격차 해소에 총력…〃중국판 ＇미소스＇는 등장 불가피〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210406",
+          "category": "해외"
+        },
+        {
+          "title": "〃베드록 한계 넘었다〃...앤트로픽, 에이전트 기능 탑재 ＇AWS 전용 클로드 플랫폼＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210413",
+          "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "인간이 AI보다 나은 것은",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260513/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=uYQdXmb-O7LaD8ZNBi-XoKR7QhjkSh0OJAciB9gd1cAomeAmaq9Y!415924974",
+          "category": "기타"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[AX ISSUE BLENDER 2026-01] Transformer 모델 혁신과 AI Full Stack 중심의 공공 AX 전략",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=29373&parentSeq=29373",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
