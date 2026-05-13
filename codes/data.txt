@@ -11,38 +11,31 @@ https://kookbang.dema.mil.kr/newsWeb/20260514/3/ATCE_CTGR_0010010000/view.do;JSE
 ◾ 미래전 전투력 만드는 AI
 https://kookbang.dema.mil.kr/newsWeb/20260514/1/ATCE_CTGR_0050070000/view.do;JSESSIONID_kookbnagWEB=gggihZo46tG5CjazvQBhSCwXg8AgGDMffC2c_m_wd9Bbzw_Vjk4y!415924974
 
-[육군]
-◾ 민간 첨단기술에 군 작전 경험 더하다
-https://kookbang.dema.mil.kr/newsWeb/20260514/14/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=gggihZo46tG5CjazvQBhSCwXg8AgGDMffC2c_m_wd9Bbzw_Vjk4y!415924974
-
 [민간]
 ◾ 카카오, 카인톡에 ＇화면 내 결제＇ 심었다…외부 연동 AI 에이전트 예고
 https://www.etnews.com/20260513000299
 
-◾ 한컴, 1Q 영업익 ＇2.7%＇ 증가 176억...AI 사업 가속
-https://www.etnews.com/20260513000263
-
 ◾ ＇국산 뉴로모픽 반도체 나온다＇ 엣지AI, MDS인텔리전스와 첫 상용화
 https://www.etnews.com/20260513000257
 
-◾ 대동, AI 트랙터 국내 농가 첫 공급
-https://www.etnews.com/20260513000221
+◾ KT, AI 실습 앱 ＇AIDU＇ 무상 배포
+https://www.etnews.com/20260513000078
 
-◾ NHN클라우드, 서울 양평데이터센터 가동 개시…고성능 GPU 서비스 시작
-https://www.etnews.com/20260513000079
+◾ 사람 대신 AI가 농사짓는 시대로…대동, 국내 첫 ‘AI트랙터’ 고객 인도
+https://www.aitimes.kr/news/articleView.html?idxno=40009
 
 ◾ 카카오모빌리티, 로봇 통합 플랫폼 공개...〃택시 플랫폼 운영 노하우 접목〃
 https://www.aitimes.com/news/articleView.html?idxno=210474
 
 [기관]
-◾ 배경훈 부총리 “한국형 ＇미토스＇ 검토…코스피 8000 걸맞은 투자 고민해야”
-https://www.etnews.com/20260513000393
-
 ◾ 안보 3차장 주재, AI 시대 사이버안보 현안점검회의 개최
 https://www.etnews.com/20260513000288
 
 ◾ AGI·초지능 시대 대비…＇과학기술·AI 미래전략회의＇ 출범
 https://www.etnews.com/20260513000321
+
+◾ 국회서 피지컬AI 포럼 개최…“중국 공세 대응, 국산 로봇 쓸 수 있는 생태계 필요”
+https://www.etnews.com/20260513000289
 
 ◾ 전남도, 국가 AI컴퓨팅센터 유치 확정…삼성SDS 컨소시엄 최종 선정
 https://www.etnews.com/20260513000286
@@ -52,6 +45,9 @@ https://www.etnews.com/20260513000096
 
 ◾ 韓-UAE, AI 동맹 본격화…반도체·데이터센터 투자 협력
 https://www.etnews.com/20260513000153
+
+◾ 루닛-국민건강보험 일산병원, 의료 AI 전환 MOU 체결... “공공의료 AX 시대 연다”
+https://www.aitimes.kr/news/articleView.html?idxno=40005
 
 [해외]
 ◾ 美 국방부, 앤트로픽 퇴출 추진하면서 ＇미토스＇는 도입
@@ -66,14 +62,18 @@ https://www.aitimes.kr/news/articleView.html?idxno=40015
 ◾ ＇시리＇의 대변신... 애플, iOS 27서 ＇AI 에이전트＇로 전면 재설계
 https://www.aitimes.com/news/articleView.html?idxno=210464
 
-◾ 메타 AI에 보고 듣는 기능 추가...＇뮤즈 스파크＇ 기반 라이브 인식 탑재
-https://www.aitimes.com/news/articleView.html?idxno=210462
+◾ 앤트로픽, 법률 AI 생태계 점령하나... ＇클로드＇ 전용 플러그인 12종 출시
+https://www.aitimes.com/news/articleView.html?idxno=210449
 
 ◾ 〃AI 신약 개발 가속〃...구글의 아이소모픽, 3조 투자 유치
 https://www.aitimes.com/news/articleView.html?idxno=210466
 
 ◾ 유니트리, 두 발에서 네 발로 변신하는 메카 로봇 공개...〃현실판 트랜스포머〃
 https://www.aitimes.com/news/articleView.html?idxno=210461
+
+[기타]
+◾ [ET시론] AI 혁신과 보안 위협 속 ＇AX 대전환＇ 균형 있게 추진한다
+https://www.etnews.com/20260513000047
 
 📚 간행물
 ◾ [Digital Security Law Focus (2026. Vol1)] 최근 EU 사이버보안 입법동향과 시사점
