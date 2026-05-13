@@ -1,95 +1,83 @@
-📢26.05.13 AI 일일 동향📢
+📢26.05.14 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 펀진, 월드 파운데이션 모델 선보여…물리 기반 가상환경으로 국방 AI 고도화
-https://www.aitimes.kr/news/articleView.html?idxno=39993
+◾ 긴트, 한화에어로스페이스 피지컬 AI 사업 참여…스마트 농업에서 방산 로봇 진입
+https://www.etnews.com/20260513000158
 
-◾ 한화, 루마니아 방산 전시회 참가… AI 등 첨단 무인화 솔루션 제시
-https://www.aitimes.kr/news/articleView.html?idxno=39986
+◾ 고성능 AI 기반 사이버 위협 대응 방안 논의
+https://kookbang.dema.mil.kr/newsWeb/20260514/3/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=gggihZo46tG5CjazvQBhSCwXg8AgGDMffC2c_m_wd9Bbzw_Vjk4y!415924974
 
-◾ 한결같은 AI 연구…한국연구재단 과제 수행자 3회 연속 선정
-https://kookbang.dema.mil.kr/newsWeb/20260513/2/ATCE_CTGR_0010060000/view.do;JSESSIONID_kookbnagWEB=uYQdXmb-O7LaD8ZNBi-XoKR7QhjkSh0OJAciB9gd1cAomeAmaq9Y!415924974
+◾ 미래전 전투력 만드는 AI
+https://kookbang.dema.mil.kr/newsWeb/20260514/1/ATCE_CTGR_0050070000/view.do;JSESSIONID_kookbnagWEB=gggihZo46tG5CjazvQBhSCwXg8AgGDMffC2c_m_wd9Bbzw_Vjk4y!415924974
 
-◾ 가상전장에서 수천 번 싸워보고 실전에 나선다면…
-https://kookbang.dema.mil.kr/newsWeb/20260513/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=uYQdXmb-O7LaD8ZNBi-XoKR7QhjkSh0OJAciB9gd1cAomeAmaq9Y!415924974
+[육군]
+◾ 민간 첨단기술에 군 작전 경험 더하다
+https://kookbang.dema.mil.kr/newsWeb/20260514/14/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=gggihZo46tG5CjazvQBhSCwXg8AgGDMffC2c_m_wd9Bbzw_Vjk4y!415924974
 
 [민간]
-◾ [단독] 홍범식 LG U+ 대표, 빌 게이츠·나델라 MS CEO 만난다
-https://www.etnews.com/20260512000389
+◾ 카카오, 카인톡에 ＇화면 내 결제＇ 심었다…외부 연동 AI 에이전트 예고
+https://www.etnews.com/20260513000299
 
-◾ LGU+ ＇익시오＇ 말레이 간다…“AI SW 첫 수출 성과”
-https://www.etnews.com/20260512000113
+◾ 한컴, 1Q 영업익 ＇2.7%＇ 증가 176억...AI 사업 가속
+https://www.etnews.com/20260513000263
 
-◾ 시맨틱스 적용한 조직, 에이전틱 AI 정확도 최대 80% 향상 및 비용 최대 60% 절감
-https://www.aitimes.kr/news/articleView.html?idxno=39998
+◾ ＇국산 뉴로모픽 반도체 나온다＇ 엣지AI, MDS인텔리전스와 첫 상용화
+https://www.etnews.com/20260513000257
 
-◾ 솔트웨어, 31억 규모 반도체 제조 AI 사업 수주… AI 데이터 플랫폼 기업으로 전환 가속
-https://www.aitimes.kr/news/articleView.html?idxno=39985
+◾ 대동, AI 트랙터 국내 농가 첫 공급
+https://www.etnews.com/20260513000221
 
-◾ 솔트룩스, 온톨로지+LLM 결합 ＇온톨로지 파운드리＇로 산업형 AI 시장 본격 공략
-https://www.aitimes.kr/news/articleView.html?idxno=39979
+◾ NHN클라우드, 서울 양평데이터센터 가동 개시…고성능 GPU 서비스 시작
+https://www.etnews.com/20260513000079
 
-◾ 통역 전문 플리토, 피지컬 AI 시장 정조준...〃언어 데이터 노하우 이식〃
-https://www.aitimes.com/news/articleView.html?idxno=210419
-
-◾ MS 〃한국 AI 사용률 37% 돌파...세계 최고 수준 성장세〃
-https://www.aitimes.com/news/articleView.html?idxno=210392
+◾ 카카오모빌리티, 로봇 통합 플랫폼 공개...〃택시 플랫폼 운영 노하우 접목〃
+https://www.aitimes.com/news/articleView.html?idxno=210474
 
 [기관]
-◾ 김용범 “AI 반도체 호황→국민배당금제”에…靑 “개인 의견” 선 그어
-https://www.etnews.com/20260512000500
+◾ 배경훈 부총리 “한국형 ＇미토스＇ 검토…코스피 8000 걸맞은 투자 고민해야”
+https://www.etnews.com/20260513000393
 
-◾ 인공지능 데이터센터와 에너지 정책 협력 본격화
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187299&searchOpt=ALL&searchTxt=
+◾ 안보 3차장 주재, AI 시대 사이버안보 현안점검회의 개최
+https://www.etnews.com/20260513000288
 
-◾ 금융위원회, 첨단산업과 손잡고 우리 AI의 미래를 함께 설계한다
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187303&searchOpt=ALL&searchTxt=
+◾ AGI·초지능 시대 대비…＇과학기술·AI 미래전략회의＇ 출범
+https://www.etnews.com/20260513000321
 
-◾ 과기정통부, 국산 온디바이스 인공지능 반도체 활용 현장 점검
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187301&searchOpt=ALL&searchTxt=
+◾ 전남도, 국가 AI컴퓨팅센터 유치 확정…삼성SDS 컨소시엄 최종 선정
+https://www.etnews.com/20260513000286
 
-◾ “오픈소스로 여는 미래, 코드 한 줄로 글로벌 개발자로 도약!” ‘ 2026년 오픈소스 컨트리뷰션 아카데미’ 멘티 모집 시작
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187304&searchOpt=ALL&searchTxt=
+◾ 과기정통부, AI기반 특화행정서비스 구축…업무혁신 가속화
+https://www.etnews.com/20260513000096
 
-◾ 교육부, 전문대학의 인공지능·디지털 전환 선도할 24개 사업단 신규 선정...2026년 ‘에이아이디 전환 중점 전문대학 지원사업’
-https://www.aitimes.kr/news/articleView.html?idxno=39983
-
-◾ 데이터·AI 인재 발굴 본격화, ‘2026 데이터+AI 혁신 챌린지’ 첫 부문...‘데이터+AI 크리에이터 캠프’ 공고
-https://www.aitimes.kr/news/articleView.html?idxno=39982
+◾ 韓-UAE, AI 동맹 본격화…반도체·데이터센터 투자 협력
+https://www.etnews.com/20260513000153
 
 [해외]
-◾ 록히드마틴, 차세대 요격미사일 ‘쿼드스타’ 시험 성공…AI 기반 탐색 기술도 검증
-https://www.aitimes.kr/news/articleView.html?idxno=39990
+◾ 美 국방부, 앤트로픽 퇴출 추진하면서 ＇미토스＇는 도입
+https://www.etnews.com/20260513000034
 
-◾ AI 개발 ‘제로데이 취약점’ 공격 첫 탐지…구글, “AI 방어 체계로 맞불”
-https://www.aitimes.kr/news/articleView.html?idxno=39978
+◾ 실드 AI, 대만 썬더 타이거와 협력…해양 자율운항 AI ‘하이브마인드’ 확대 적용
+https://www.aitimes.kr/news/articleView.html?idxno=40017
 
-◾ 무라티의 TML, 실시간 답변 멀티모달 모델 공개...〃응답 지연 0.4초 벽 깨뜨려〃
-https://www.aitimes.com/news/articleView.html?idxno=210399
+◾ 구글, AI 네이티브 노트북 ‘구글북’ 공개…“노트북이 스스로 이해하고 돕는 시대”
+https://www.aitimes.kr/news/articleView.html?idxno=40015
 
-◾ 오픈AI, 보안 플랫폼 ＇데이브레이크＇ 공개...〃AI로 사이버 방어 가속〃
-https://www.aitimes.com/news/articleView.html?idxno=210386
+◾ ＇시리＇의 대변신... 애플, iOS 27서 ＇AI 에이전트＇로 전면 재설계
+https://www.aitimes.com/news/articleView.html?idxno=210464
 
-◾ 앤트로픽, ‘클로드 코드’에 멀티 에이전트 관리 기능 추가
-https://www.aitimes.com/news/articleView.html?idxno=210412
+◾ 메타 AI에 보고 듣는 기능 추가...＇뮤즈 스파크＇ 기반 라이브 인식 탑재
+https://www.aitimes.com/news/articleView.html?idxno=210462
 
-◾ 메타, ‘토큰화’ 없애고 추론 효율 2배 높인 바이트 언어모델 ＇BLT＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=210415
+◾ 〃AI 신약 개발 가속〃...구글의 아이소모픽, 3조 투자 유치
+https://www.aitimes.com/news/articleView.html?idxno=210466
 
-◾ 중국, 앤트로픽·오픈AI와 AI 보안 격차 해소에 총력…〃중국판 ＇미소스＇는 등장 불가피〃
-https://www.aitimes.com/news/articleView.html?idxno=210406
-
-[기타]
-◾ [ET시론] 대한민국 재난·안전, 이제 ＇AI기반국가운영체계(GovAX)＇로 전환해야 한다
-https://www.etnews.com/20260512000185
-
-◾ 인간이 AI보다 나은 것은
-https://kookbang.dema.mil.kr/newsWeb/20260513/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=uYQdXmb-O7LaD8ZNBi-XoKR7QhjkSh0OJAciB9gd1cAomeAmaq9Y!415924974
+◾ 유니트리, 두 발에서 네 발로 변신하는 메카 로봇 공개...〃현실판 트랜스포머〃
+https://www.aitimes.com/news/articleView.html?idxno=210461
 
 📚 간행물
-◾ [AX ISSUE BLENDER 2026-01] Transformer 모델 혁신과 AI Full Stack 중심의 공공 AX 전략
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=29373&parentSeq=29373
+◾ [Digital Security Law Focus (2026. Vol1)] 최근 EU 사이버보안 입법동향과 시사점
+https://www.kisa.or.kr/20201/form?postSeq=277&page=1
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
