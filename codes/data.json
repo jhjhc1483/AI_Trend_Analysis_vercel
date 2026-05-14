@@ -6489,23 +6489,23 @@
           "category": "기관"
         },
         {
-          "title": "서초구, ＇AI 침수 계측·경보 시스템＇ 본격 가동",
-          "link": "https://www.etnews.com/20260514000321",
+          "title": "〃주민등록등본 발급해줘〃...AI 국민비서, 이제 말로 하세요",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40026",
           "category": "기관"
         },
         {
-          "title": "피씨엔, 서울시 ＇AI 재정통합시스템 구축＇ 사업 수주…약 11억원 규모",
-          "link": "https://www.etnews.com/20260514000317",
+          "title": "코스포, AI·방산 스타트업 모은 ＇방위산업협의회＇ 출범",
+          "link": "https://www.etnews.com/20260514000230",
           "category": "기관"
         },
         {
-          "title": "배경훈 부총리, 국가AI전략위 당분간 총괄…AI행동계획 88% 시작",
-          "link": "https://www.etnews.com/20260514000010",
+          "title": "“소상공인을 AI 시대 주역으로”… 대구경북, 대한민국 AI 혁신 모델 만든다",
+          "link": "https://www.etnews.com/20260514000155",
           "category": "기관"
         },
         {
-          "title": "전남도, 철강·금속 AI 전환 실증센터 구축…국비 140억 확보",
-          "link": "https://www.etnews.com/20260514000040",
+          "title": "경기도, AI 인재양성 946억원 규모 확대…가천대·성균관대 거점화",
+          "link": "https://www.etnews.com/20260514000025",
           "category": "기관"
         },
         {
@@ -6536,18 +6536,8 @@
           "category": "국방"
         },
         {
-          "title": "코스포, AI·방산 스타트업 모은 ＇방위산업협의회＇ 출범",
-          "link": "https://www.etnews.com/20260514000230",
-          "category": "국방"
-        },
-        {
           "title": "오케스트로, 미래전 대응 유·무인체계 자율협업 지능체계 개발 착수",
           "link": "https://www.etnews.com/20260514000043",
-          "category": "국방"
-        },
-        {
-          "title": "SKT, 국방부와 손잡고 국방 특화 AI 모델 개발 나선다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210534",
           "category": "국방"
         },
         {
@@ -6562,11 +6552,6 @@
         }
       ],
       "해외": [
-        {
-          "title": "아마존, ‘알렉사+’ 기반 에코 쇼 쇼핑 경험 공개…“음성·터치 결합한 AI 커머스 강화”",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40040",
-          "category": "해외"
-        },
         {
           "title": "앤트로픽, 중소기업용 AI 패키지 ‘클로드 포 스몰 비즈니스’ 전격 출시",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40039",
@@ -6588,8 +6573,8 @@
           "category": "해외"
         },
         {
-          "title": "애플, 앱스토어에 ＇AI 에이전트＇ 승인 검토...〃앱 사라져도 수익 구조 고수〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210523",
+          "title": "소프트뱅크, ＇오픈AI 효과＇로 역대급 실적...〃일본 기업 사상 최대 순이익〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210530",
           "category": "해외"
         },
         {
@@ -6600,13 +6585,23 @@
       ],
       "민간": [
         {
+          "title": "여의시스템, 덴마크 산업사절단에 피지컬 AI 솔루션 기반 자율 제조 비전 알렸다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40036",
+          "category": "민간"
+        },
+        {
           "title": "3세대 AI OCR ‘빅스’ 등 신기술 대거 공개한 미소정보기술, ‘멀티모달 AI 풀스택’ 역량 입증",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40033",
           "category": "민간"
         },
         {
-          "title": "DGIST 창업기업 ＇유니바＇, 46억 원 규모 국가 연구 수행… AI 신약 파운데이션 모델 구축",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40027",
+          "title": "디에스앤지, ＇AI EXPO KOREA 2026＇ 참가 성료… AI 전 생애주기 아우르는 통합 솔루션 선봬 [영상]",
+          "link": "https://www.etnews.com/20260514000370",
+          "category": "민간"
+        },
+        {
+          "title": "메가존클라우드, AI 오케스트레이터 전략 본격화…“AI 도입 혼란 해결”",
+          "link": "https://www.etnews.com/20260514000313",
           "category": "민간"
         },
         {
@@ -6620,11 +6615,6 @@
           "category": "민간"
         },
         {
-          "title": "＇메타 AI＇ 1년 만에 국내 출시...＇뮤즈 스파크＇ 기반",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210484",
-          "category": "민간"
-        },
-        {
           "title": "메가존클라우드 〃MSP 너머 ＇AI OS＇로...FDE 앞세워 AX 시장 정조준〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=210527",
           "category": "민간"
@@ -6632,8 +6622,8 @@
       ],
       "기타": [
         {
-          "title": "[최은수의 AI와 뉴비즈] 〈41〉＇행동하는 AI＇ 통제권에 비즈니스 명운 달렸다",
-          "link": "https://www.etnews.com/20260514000039",
+          "title": "정보통신법학회, 21일 춘계학술대회…AI 안보·미디어·플랫폼 규율 논의",
+          "link": "https://www.etnews.com/20260514000488",
           "category": "기타"
         },
         {
