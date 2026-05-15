@@ -6647,5 +6647,154 @@
         }
       ]
     }
+  },
+  "26.05.16": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "“터미널 안으로 들어온 AI 개발자”…xAI, 코딩 에이전트 ‘그록 빌드’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40051",
+          "category": "해외"
+        },
+        {
+          "title": "“AI 반도체 판 바뀌나”…세레브라스, 상장 첫날 시총 950억달러 돌파",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40041",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽 AI 미토스, 5년 걸린 애플 최첨단 보안 무력화",
+          "link": "https://www.etnews.com/20260515000120",
+          "category": "해외"
+        },
+        {
+          "title": "MS, ＇미소스＇ 성능 넘은 사이버보안용 ＇멀티 에이전트＇ 시스템 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210536",
+          "category": "해외"
+        },
+        {
+          "title": "30개월 만에 IQ 60 급등... GPT-5.5, ＇AI IQ＇ 테스트서 136으로 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210571",
+          "category": "해외"
+        },
+        {
+          "title": "미국, 중국과 AI 안전 논의 개시...〃AI 협상 우위는 기술 격차 덕분〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210585",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 차세대 에이전트 ＇제미나이 스파크＇ 유출...〃24시간 상시 가동〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210556",
+          "category": "해외"
+        }
+      ],
+      "기관": [
+        {
+          "title": "“AI가 운영하는 초연결 도시”… 국가인공지능위, ＇K-AI 시티＇ 로드맵 논의",
+          "link": "https://www.etnews.com/20260515000354",
+          "category": "기관"
+        },
+        {
+          "title": "공공 SW 어워즈 9개 솔루션 선정…“AI 네이티브 시대 선도”",
+          "link": "https://www.etnews.com/20260515000233",
+          "category": "기관"
+        },
+        {
+          "title": "[에듀플러스]서울대, 내년 3월 AI 대학원 개원 추진…학내 심의 완료·AI+X 연구 강화 구체화",
+          "link": "https://www.etnews.com/20260515000206",
+          "category": "기관"
+        },
+        {
+          "title": "서울AI재단, 英케임브리지대와 공공부문 AI 현황 진단 모델 개발",
+          "link": "https://www.etnews.com/20260515000106",
+          "category": "기관"
+        },
+        {
+          "title": "서울AI허브, 체코 인공지능협회와 스타트업 유럽 진출·교류 협력",
+          "link": "https://www.etnews.com/20260515000043",
+          "category": "기관"
+        },
+        {
+          "title": "2026년 병무청·방위사업청·질병관리청 합동 공공데이터·AI 활용 경진대회 실시",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58616&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "기관"
+        }
+      ],
+      "국방": [
+        {
+          "title": "“미래 방산, 광반도체가 답”…한국광융합산업진흥회, 광반도체 생태계 구축 본격 논의",
+          "link": "https://www.etnews.com/20260514000452",
+          "category": "국방"
+        },
+        {
+          "title": "민간과 국방특화 AI 모델 개발…‘국방 AX’ 가속도",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48976&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "‘해병대의 AI 전환’ 대학과 교육·연구 협력 속도낸다",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48991&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "공군, 2030년대 초 ‘한국판 MSS’ 구축",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=48995&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "국방부-SK텔레콤, ‘국방특화 AI 모델’ 개발을 위한 업무협약 체결",
+          "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112107&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
+          "category": "국방"
+        }
+      ],
+      "민간": [
+        {
+          "title": "플래티어, AX 솔루션 24.6% 급증에 1분기 매출 10%↑…＇에이전틱 AI＇로 실적 견인",
+          "link": "https://www.etnews.com/20260515000299",
+          "category": "민간"
+        },
+        {
+          "title": "딥엑스, YOLO 개발한 울트라리틱스 파트너십 체결…AI 모델에 하드웨어 통합",
+          "link": "https://www.etnews.com/20260515000252",
+          "category": "민간"
+        },
+        {
+          "title": "[알림]6월 17일 테크데이 : AI 반도체 시대, ＇판＇이 바뀐다 컨퍼런스 개최",
+          "link": "https://www.etnews.com/20260515000194",
+          "category": "민간"
+        },
+        {
+          "title": "GC녹십자, 과기부 주관 ＇AI 신약 개발＇ 생태계 구축…플랫폼 실증 맡는다",
+          "link": "https://www.etnews.com/20260515000050",
+          "category": "민간"
+        },
+        {
+          "title": "어드밴텍, AI 엑스포 2026서 ＇피지컬AI＇ 기반 산업 자율화 혁신 솔루션 선보여 ＇이목＇",
+          "link": "https://www.etnews.com/20260515000027",
+          "category": "민간"
+        },
+        {
+          "title": "위로보틱스,1000억 시리즈B 투자 유치…”휴머노이드 시대 앞당길 것”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210591",
+          "category": "민간"
+        },
+        {
+          "title": "메가존클라우드, 사우디 아람코서 국산 NPU 인프라 실증 나선다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210552",
+          "category": "민간"
+        }
+      ],
+      "기타": [
+        {
+          "title": "신종철 연세대 객원교수, ＇인공지능기본법＇ 출간",
+          "link": "https://www.etnews.com/20260515000133",
+          "category": "기타"
+        },
+        {
+          "title": "영상 속 얼굴, 음성 속 이름… AI가 맥락으로 개인정보 찾아낸다",
+          "link": "https://www.etnews.com/20260515000056",
+          "category": "기타"
+        }
+      ]
+    }
   }
 }
