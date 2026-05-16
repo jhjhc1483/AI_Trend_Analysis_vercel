@@ -1,75 +1,51 @@
-📢26.05.16 AI 일일 동향📢
+📢26.05.17 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 2026년 병무청·방위사업청·질병관리청 합동 공공데이터·AI 활용 경진대회 실시
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58616&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
-
-◾ 민간과 국방특화 AI 모델 개발…‘국방 AX’ 가속도
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=48976&startDate=&endDate=&id=mnd_020101000000
-
-◾ ‘해병대의 AI 전환’ 대학과 교육·연구 협력 속도낸다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=48991&startDate=&endDate=&id=mnd_020101000000
-
-◾ 국방부-SK텔레콤, ‘국방특화 AI 모델’ 개발을 위한 업무협약 체결
-https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112107&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
-
 [민간]
-◾ 제논-링크알파, APAC 금융 시장 공동 진출 나선다…‘글로벌 금융 특화 AI 사업 확대’
-https://www.aitimes.kr/news/articleView.html?idxno=40048
+◾ 한국모빌리티고, LG디스커버리랩과 AI 교육 협력 체계 구축
+https://www.etnews.com/20260516000077
 
-◾ 딥엑스, YOLO 개발한 울트라리틱스 파트너십 체결…AI 모델에 하드웨어 통합
-https://www.etnews.com/20260515000252
+◾ 장수지 원티드랩 PO 〃AI 시대의 ＇프로덕트 오너＇, 정답 대신 시험지를 설계해야〃
+https://www.aitimes.com/news/articleView.html?idxno=210603
 
-◾ 어드밴텍, AI 엑스포 2026서 ＇피지컬AI＇ 기반 산업 자율화 혁신 솔루션 선보여 ＇이목＇
-https://www.etnews.com/20260515000027
+◾ ＇데이터 병목 해결＇ 그래폰 투자 유치...GS 건설·스포츠 현장에서 실전 증명
+https://www.aitimes.com/news/articleView.html?idxno=210602
 
-◾ ＇AI, 이제는 성과다＇…AI 실전 컨퍼런스 ‘엔터프라이즈 AI 서울 2026’ 개최
-https://www.aitimes.com/news/articleView.html?idxno=210548
+◾ 〃엔비디아도 인정한 기술력〃...리얼월드, 실리콘 밸리서 로봇 모델 ＇RLDX-1＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=210594
 
-◾ 위로보틱스,1000억 시리즈B 투자 유치…”휴머노이드 시대 앞당길 것”
-https://www.aitimes.com/news/articleView.html?idxno=210591
-
-◾ 메가존클라우드, 사우디 아람코서 국산 NPU 인프라 실증 나선다
-https://www.aitimes.com/news/articleView.html?idxno=210552
+◾ 영화 속에서나 보던 ‘거대 로봇 조종’ 이제 현실로!
+https://www.aitimes.com/news/articleView.html?idxno=210588
 
 [기관]
-◾ “AI가 운영하는 초연결 도시”… 국가인공지능위, ＇K-AI 시티＇ 로드맵 논의
-https://www.etnews.com/20260515000354
-
-◾ 공공 SW 어워즈 9개 솔루션 선정…“AI 네이티브 시대 선도”
-https://www.etnews.com/20260515000233
-
-◾ [에듀플러스]서울대, 내년 3월 AI 대학원 개원 추진…학내 심의 완료·AI+X 연구 강화 구체화
-https://www.etnews.com/20260515000206
-
-◾ 경기도, 10월까지 풍수해·낙뢰 대책…AI 감지·대피체계 강화 나서
-https://www.etnews.com/20260515000134
-
-◾ GC녹십자, 과기부 주관 ＇AI 신약 개발＇ 생태계 구축…플랫폼 실증 맡는다
-https://www.etnews.com/20260515000050
+◾ 〃녹색전환, 기업 부담 아닌 기회로〃…정부·대한상의 ＇K-GX＇ 선도과제 조율
+https://www.aitimes.com/news/articleView.html?idxno=210583
 
 [해외]
-◾ “터미널 안으로 들어온 AI 개발자”…xAI, 코딩 에이전트 ‘그록 빌드’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40051
+◾ 英 국방부 ‘아파치 협업 AI 무인기’ 개발 본격화”…안두릴, 차세대 자율 전투 플랫폼 사업 선정
+https://www.aitimes.kr/news/articleView.html?idxno=40057
 
-◾ 전 세계 더 많은 사람들이 AI 활용할 수 있도록....앤트로픽-게이츠 재단, 2억달러 규모 AI 공익 파트너십
-https://www.aitimes.kr/news/articleView.html?idxno=40049
+◾ “AI·로봇·자율시스템이 러시아 산업 미래”…푸틴 대통령, 기술주권·AI 산업 육성 전면 강조
+https://www.aitimes.kr/news/articleView.html?idxno=40056
 
-◾ “AI 반도체 판 바뀌나”…세레브라스, 상장 첫날 시총 950억달러 돌파
-https://www.aitimes.kr/news/articleView.html?idxno=40041
+◾ “인공지능, 파일럿 넘어 실전으로”…앤트로픽·PwC, 클로드 기반 엔터프라이즈 AI 대전환 선언
+https://www.aitimes.kr/news/articleView.html?idxno=40053
 
-◾ MS, ＇미소스＇ 성능 넘은 사이버보안용 ＇멀티 에이전트＇ 시스템 공개
-https://www.aitimes.com/news/articleView.html?idxno=210536
-
-◾ 30개월 만에 IQ 60 급등... GPT-5.5, ＇AI IQ＇ 테스트서 136으로 1위
+◾ 30개월 만에 ＇AI IQ＇ 60 급등... GPT-5.5, 136으로 1위
 https://www.aitimes.com/news/articleView.html?idxno=210571
 
-◾ 미국, 중국과 AI 안전 논의 개시...〃AI 협상 우위는 기술 격차 덕분〃
-https://www.aitimes.com/news/articleView.html?idxno=210585
+◾ ＇미소스＇ 최신 버전, AI 해킹 역량 〃4.7개월마다 2배 성장〃마저 추월
+https://www.aitimes.com/news/articleView.html?idxno=210578
 
-◾ 구글, 차세대 에이전트 ＇제미나이 스파크＇ 유출...〃24시간 상시 가동〃
-https://www.aitimes.com/news/articleView.html?idxno=210556
+◾ 설립 6개월 만에 몸값 7조...리커시브, 스스로 진화하는 ＇재귀적 AI＇ 도전
+https://www.aitimes.com/news/articleView.html?idxno=210601
+
+◾ 오픈AI, 챗GPT에 ‘개인 금융 관리’ 기능 도입...은행·증권 계좌 실시간 연동
+https://www.aitimes.com/news/articleView.html?idxno=210595
+
+[기타]
+◾ [5월15일] ＇AI 해고＇는 어떻게 진화하나…투자형과 부인형, 그리고 교체형
+https://www.aitimes.com/news/articleView.html?idxno=210562
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
