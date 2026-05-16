@@ -6769,5 +6769,87 @@
         }
       ]
     }
+  },
+  "26.05.17": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "英 국방부 ‘아파치 협업 AI 무인기’ 개발 본격화”…안두릴, 차세대 자율 전투 플랫폼 사업 선정",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40057",
+          "category": "해외"
+        },
+        {
+          "title": "“AI·로봇·자율시스템이 러시아 산업 미래”…푸틴 대통령, 기술주권·AI 산업 육성 전면 강조",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40056",
+          "category": "해외"
+        },
+        {
+          "title": "“인공지능, 파일럿 넘어 실전으로”…앤트로픽·PwC, 클로드 기반 엔터프라이즈 AI 대전환 선언",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40053",
+          "category": "해외"
+        },
+        {
+          "title": "30개월 만에 ＇AI IQ＇ 60 급등... GPT-5.5, 136으로 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210571",
+          "category": "해외"
+        },
+        {
+          "title": "＇미소스＇ 최신 버전, AI 해킹 역량 〃4.7개월마다 2배 성장〃마저 추월",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210578",
+          "category": "해외"
+        },
+        {
+          "title": "설립 6개월 만에 몸값 7조...리커시브, 스스로 진화하는 ＇재귀적 AI＇ 도전",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210601",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 챗GPT에 ‘개인 금융 관리’ 기능 도입...은행·증권 계좌 실시간 연동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210595",
+          "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "한국모빌리티고, LG디스커버리랩과 AI 교육 협력 체계 구축",
+          "link": "https://www.etnews.com/20260516000077",
+          "category": "민간"
+        },
+        {
+          "title": "장수지 원티드랩 PO 〃AI 시대의 ＇프로덕트 오너＇, 정답 대신 시험지를 설계해야〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210603",
+          "category": "민간"
+        },
+        {
+          "title": "＇데이터 병목 해결＇ 그래폰 투자 유치...GS 건설·스포츠 현장에서 실전 증명",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210602",
+          "category": "민간"
+        },
+        {
+          "title": "〃엔비디아도 인정한 기술력〃...리얼월드, 실리콘 밸리서 로봇 모델 ＇RLDX-1＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210594",
+          "category": "민간"
+        },
+        {
+          "title": "영화 속에서나 보던 ‘거대 로봇 조종’ 이제 현실로!",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210588",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "〃녹색전환, 기업 부담 아닌 기회로〃…정부·대한상의 ＇K-GX＇ 선도과제 조율",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210583",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[5월15일] ＇AI 해고＇는 어떻게 진화하나…투자형과 부인형, 그리고 교체형",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210562",
+          "category": "기타"
+        }
+      ]
+    }
   }
 }
