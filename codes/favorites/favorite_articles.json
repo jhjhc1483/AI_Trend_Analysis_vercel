@@ -1,5 +1,15 @@
 [
   {
+    "title": "〃인공지능·위성·드론까지 총동원 한다〃...정부, 농지 전수 조사 시작",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40061",
+    "category": "기관"
+  },
+  {
+    "title": "“애플 보안도 뚫렸다”…앤트로픽 ＇미토스＇가 촉발한 AI 해킹 시대의 공포",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40060",
+    "category": "해외"
+  },
+  {
     "title": "오픈AI ＇GPT-5.5＇, 英 AI 보안 평가서 앤트로픽 ＇미토스＇ 제쳤다",
     "link": "https://www.etnews.com/20260517000089",
     "category": "해외"
@@ -22,7 +32,7 @@
   {
     "title": "[기획]이진원 하이퍼엑셀 CTO “단기 과제·실패 용인, AI 반도체 성공 요소”",
     "link": "https://www.etnews.com/20260515000265",
-    "category": "민간"
+    "category": "기타"
   },
   {
     "title": "[기획]1000억원 이상 R&D 지원 속 AI 반도체 기술자립 가속화…AI주권 확보 ＇마중물＇",
@@ -32,7 +42,12 @@
   {
     "title": "[이내찬교수의 광고로 보는 통신역사] 〈58〉AI의 그림자: 드론이 낮춘 전쟁의 문턱",
     "link": "https://www.etnews.com/20260515000176",
-    "category": "국방"
+    "category": "기타"
+  },
+  {
+    "title": "[이슈플러스] 韓, 스마트글래스·드론 등 미래 먹거리에서 이미 늦었다",
+    "link": "https://www.etnews.com/20260515000199",
+    "category": "기타"
   },
   {
     "title": "국방AX 속도 낸다…대신정보통신, 국방부 통합 AI 데이터센터 사업 낙찰",
@@ -43,6 +58,11 @@
     "title": "[ET시론] ＇모두의 AI＇ 시대, K-AI 도시의 전환",
     "link": "https://www.etnews.com/20260515000085",
     "category": "기타"
+  },
+  {
+    "title": "공공병원 AI 클라우드 개발 사업 논란…“범위·기간 모두 과중”",
+    "link": "https://www.etnews.com/20260515000190",
+    "category": "기관"
   },
   {
     "title": "네이버 R&D 6000억 첫 돌파…카카오는 비용 줄이고 AI 협력 강화",
@@ -60,29 +80,14 @@
     "category": "민간"
   },
   {
-    "title": "강원TP, AI·ICT 기반 산업 AX 전환 본격화…디지털 혁신기업 육성 속도",
-    "link": "https://www.etnews.com/20260515000067",
-    "category": "기관"
-  },
-  {
-    "title": "춘천 기업혁신파크, 하이퍼스케일 AI클러스터 부상",
-    "link": "https://www.etnews.com/20260515000137",
-    "category": "기관"
+    "title": "[에듀플러스][EDIX Tokyo 2026]“기가스쿨 이후 달라진 일본 교육시장…K-에듀테크, 플랫폼 강화 전략”",
+    "link": "https://www.etnews.com/20260515000197",
+    "category": "해외"
   },
   {
     "title": "벤처펀드 결성 4.4조원 ＇역대 최대＇…AI 타고 ICT 투자 다시 뛴다",
     "link": "https://www.etnews.com/20260515000239",
     "category": "민간"
-  },
-  {
-    "title": "[에듀플러스]“AI 교육, 기술 넘어 데이터·표준 기반 생태계로”",
-    "link": "https://www.etnews.com/20260516000001",
-    "category": "기타"
-  },
-  {
-    "title": "“AI·드론 총동원”…77년 만 농지 전수조사 시작",
-    "link": "https://www.etnews.com/20260517000042",
-    "category": "기관"
   },
   {
     "title": "수도권 기축 DC, AIDC 전환시 총비용 23% 줄고 기간 3년 단축",
@@ -113,15 +118,5 @@
     "title": "수퍼톤, 온디바이스 TTS ‘수퍼토닉 3’ 공개…〃CPU만으로 31개 언어 실시간 합성〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=210611",
     "category": "민간"
-  },
-  {
-    "title": "오픈AI, ＇유명인 음성 복제＇ 스타트업 인수해 폐쇄...〃상장 전 논란 제거 의도〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210607",
-    "category": "해외"
-  },
-  {
-    "title": "구글, ‘플래시’ 모델로 버셀 사용량 1위...〃가성비로 기업 점유율 경쟁〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210608",
-    "category": "해외"
   }
 ]
