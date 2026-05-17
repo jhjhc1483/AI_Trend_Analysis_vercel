@@ -1,47 +1,85 @@
-📢26.05.17 AI 일일 동향📢
+📢26.05.18 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ [이내찬교수의 광고로 보는 통신역사] 〈58〉AI의 그림자: 드론이 낮춘 전쟁의 문턱
+https://www.etnews.com/20260515000176
+
+◾ 국방AX 속도 낸다…대신정보통신, 국방부 통합 AI 데이터센터 사업 낙찰
+https://www.etnews.com/20260515000240
+
 [민간]
-◾ 한국모빌리티고, LG디스커버리랩과 AI 교육 협력 체계 구축
-https://www.etnews.com/20260516000077
+◾ 로민, 우리은행 ＇다큐먼트 AI＇ 지원…통합 플랫폼 기반 SaaS 시동
+https://www.etnews.com/20260515000217
 
-◾ 장수지 원티드랩 PO 〃AI 시대의 ＇프로덕트 오너＇, 정답 대신 시험지를 설계해야〃
-https://www.aitimes.com/news/articleView.html?idxno=210603
+◾ [기획]이진원 하이퍼엑셀 CTO “단기 과제·실패 용인, AI 반도체 성공 요소”
+https://www.etnews.com/20260515000265
 
-◾ ＇데이터 병목 해결＇ 그래폰 투자 유치...GS 건설·스포츠 현장에서 실전 증명
-https://www.aitimes.com/news/articleView.html?idxno=210602
+◾ 네이버 R&D 6000억 첫 돌파…카카오는 비용 줄이고 AI 협력 강화
+https://www.etnews.com/20260517000069
 
-◾ 〃엔비디아도 인정한 기술력〃...리얼월드, 실리콘 밸리서 로봇 모델 ＇RLDX-1＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=210594
+◾ 래블업, 애플 맥북 특화 ＇AI 추론 엔진＇ 오픈소스로 공개
+https://www.etnews.com/20260515000174
 
-◾ 영화 속에서나 보던 ‘거대 로봇 조종’ 이제 현실로!
-https://www.aitimes.com/news/articleView.html?idxno=210588
+◾ 벤처펀드 결성 4.4조원 ＇역대 최대＇…AI 타고 ICT 투자 다시 뛴다
+https://www.etnews.com/20260515000239
+
+◾ 수도권 기축 DC, AIDC 전환시 총비용 23% 줄고 기간 3년 단축
+https://www.etnews.com/20260515000243
+
+◾ 수퍼톤, 온디바이스 TTS ‘수퍼토닉 3’ 공개…〃CPU만으로 31개 언어 실시간 합성〃
+https://www.aitimes.com/news/articleView.html?idxno=210611
 
 [기관]
-◾ 〃녹색전환, 기업 부담 아닌 기회로〃…정부·대한상의 ＇K-GX＇ 선도과제 조율
-https://www.aitimes.com/news/articleView.html?idxno=210583
+◾ 단순 탐지 넘어 상황 추론…서울시, 생성형 AI CCTV 관제 구축 돌입
+https://www.etnews.com/20260515000229
+
+◾ 행안부, UN과 7개국 초청 AI 역량 강화 연수
+https://www.etnews.com/20260517000082
+
+◾ [기획]1000억원 이상 R&D 지원 속 AI 반도체 기술자립 가속화…AI주권 확보 ＇마중물＇
+https://www.etnews.com/20260515000210
+
+◾ 수출입은행-NIA, 개도국 AI 영토 넓힌다…스리랑카에 첫 K-ODA 모델 구축
+https://www.etnews.com/20260517000075
+
+◾ 강원TP, AI·ICT 기반 산업 AX 전환 본격화…디지털 혁신기업 육성 속도
+https://www.etnews.com/20260515000067
+
+◾ 춘천 기업혁신파크, 하이퍼스케일 AI클러스터 부상
+https://www.etnews.com/20260515000137
+
+◾ “AI·드론 총동원”…77년 만 농지 전수조사 시작
+https://www.etnews.com/20260517000042
 
 [해외]
-◾ 英 국방부 ‘아파치 협업 AI 무인기’ 개발 본격화”…안두릴, 차세대 자율 전투 플랫폼 사업 선정
-https://www.aitimes.kr/news/articleView.html?idxno=40057
+◾ 오픈AI ＇GPT-5.5＇, 英 AI 보안 평가서 앤트로픽 ＇미토스＇ 제쳤다
+https://www.etnews.com/20260517000089
 
-◾ “AI·로봇·자율시스템이 러시아 산업 미래”…푸틴 대통령, 기술주권·AI 산업 육성 전면 강조
-https://www.aitimes.kr/news/articleView.html?idxno=40056
+◾ AI에 ＇라디오 DJ＇ 맡겼더니...〃클로드, 강제 노동 반발로 파업 선언〃
+https://www.aitimes.com/news/articleView.html?idxno=210614
 
-◾ “인공지능, 파일럿 넘어 실전으로”…앤트로픽·PwC, 클로드 기반 엔터프라이즈 AI 대전환 선언
-https://www.aitimes.kr/news/articleView.html?idxno=40053
+◾ 엔비디아, ＇RTX 5090＇ 한장으로 1분 영상 생성하는 월드 모델 오픈 공개
+https://www.aitimes.com/news/articleView.html?idxno=210609
 
-◾ 30개월 만에 ＇AI IQ＇ 60 급등... GPT-5.5, 136으로 1위
-https://www.aitimes.com/news/articleView.html?idxno=210571
+◾ 누스 리서치, ‘토큰 중첩 학습’으로 사전훈련 시간 2.5배 단축
+https://www.aitimes.com/news/articleView.html?idxno=210584
 
-◾ IPO로 수익 압박 커진 xAI, ＇그록＇ 금융권 도입 위해 총력전
-https://www.aitimes.com/news/articleView.html?idxno=210600
+◾ 미 FTC, ＇직접 칩 설계＇ 나선 Arm 반독점 조사 착수
+https://www.aitimes.com/news/articleView.html?idxno=210612
 
-◾ 오픈AI, 챗GPT에 ‘개인 금융 관리’ 기능 도입...은행·증권 계좌 실시간 연동
-https://www.aitimes.com/news/articleView.html?idxno=210595
+◾ 오픈AI, ＇유명인 음성 복제＇ 스타트업 인수해 폐쇄...〃상장 전 논란 제거 의도〃
+https://www.aitimes.com/news/articleView.html?idxno=210607
 
-◾ 오픈AI, ＇슈퍼 앱＇ 체제로 경영진 전면 개편…브록먼이 제품 총괄
-https://www.aitimes.com/news/articleView.html?idxno=210597
+◾ 구글, ‘플래시’ 모델로 버셀 사용량 1위...〃가성비로 기업 점유율 경쟁〃
+https://www.aitimes.com/news/articleView.html?idxno=210608
+
+[기타]
+◾ [ET시론] ＇모두의 AI＇ 시대, K-AI 도시의 전환
+https://www.etnews.com/20260515000085
+
+◾ [에듀플러스]“AI 교육, 기술 넘어 데이터·표준 기반 생태계로”
+https://www.etnews.com/20260516000001
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
