@@ -1,82 +1,92 @@
-📢26.05.18 AI 일일 동향📢
+📢26.05.19 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 국방AX 속도 낸다…대신정보통신, 국방부 통합 AI 데이터센터 사업 낙찰
-https://www.etnews.com/20260515000240
+◾ 한미동맹, ‘드론동맹’으로 진화한다
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49000&startDate=&endDate=&id=mnd_020101000000
+
+◾ 병무청 “공공데이터·AI 활용 아이디어 찾아요”
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49001&startDate=&endDate=&id=mnd_020101000000
+
+◾ 데이터 분석해 함정 정비지원 했더니…1분기 장비고장 22건 예방
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=49018&startDate=&endDate=&id=mnd_020101000000
+
+◾ 국방부, 「국방 정보화 신기술 제안발표회」 개최
+https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112207&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
 
 [민간]
-◾ 로민, 우리은행 ＇다큐먼트 AI＇ 지원…통합 플랫폼 기반 SaaS 시동
-https://www.etnews.com/20260515000217
+◾ “AI 전환, 기술보다 현장이 문제였다”··· LG전자·SKT·K증권, AX 실전 해법 공개
+https://www.aitimes.kr/news/articleView.html?idxno=40081
 
-◾ 네이버 R&D 6000억 첫 돌파…카카오는 비용 줄이고 AI 협력 강화
-https://www.etnews.com/20260517000069
+◾ LG CNS-컬리, 물류센터 휴머노이드 로봇 도입 맞손...물류센터 고도화 위한 휴머노이드 PoC
+https://www.aitimes.kr/news/articleView.html?idxno=40069
 
-◾ 래블업, 애플 맥북 특화 ＇AI 추론 엔진＇ 오픈소스로 공개
-https://www.etnews.com/20260515000174
+◾ SBS, 오픈AI와 사상 최초 ‘실시간 AI 선거방송’... 6·3 개표방송 ‘2026 국민의 선택’ 통해 전격 공개
+https://www.aitimes.kr/news/articleView.html?idxno=40068
 
-◾ 벤처펀드 결성 4.4조원 ＇역대 최대＇…AI 타고 ICT 투자 다시 뛴다
-https://www.etnews.com/20260515000239
+◾ 머크, ＇실리콘포토닉스＇ 사업 추진…삼성·엔비디아 협력 전망
+https://www.etnews.com/20260518000139
 
-◾ 수도권 기축 DC, AIDC 전환시 총비용 23% 줄고 기간 3년 단축
-https://www.etnews.com/20260515000243
+◾ [ESG경영 우수사례]시스원, 국산 NPU 기반 ＇저전력 AX＇ 시장 정조준…ESG 경영 가속화
+https://www.etnews.com/20260518000367
 
-◾ 수퍼톤, 온디바이스 TTS ‘수퍼토닉 3’ 공개…〃CPU만으로 31개 언어 실시간 합성〃
-https://www.aitimes.com/news/articleView.html?idxno=210611
+◾ 가온전선, 美 빅테크 AI 데이터센터에 4조원대 버스덕트 공급
+https://www.etnews.com/20260518000315
+
+◾ 업스테이지 모델 적용한 AI 법률 서비스, 정부 기관 대상 베타테스트 진행
+https://www.aitimes.com/news/articleView.html?idxno=210668
 
 [기관]
-◾ 〃인공지능·위성·드론까지 총동원 한다〃...정부, 농지 전수 조사 시작
-https://www.aitimes.kr/news/articleView.html?idxno=40061
+◾ 문체부, 생성형 AI 저작물 학습에 대한 저작권법상 ‘공정이용’ 안내서 영문본 발간
+https://www.aitimes.kr/news/articleView.html?idxno=40073
 
-◾ 단순 탐지 넘어 상황 추론…서울시, 생성형 AI CCTV 관제 구축 돌입
-https://www.etnews.com/20260515000229
+◾ “사람이 곧 기술경쟁력”…중기부, AI 인재 실증형 창업패키지 신설
+https://www.etnews.com/20260518000272
 
-◾ 행안부, UN과 7개국 초청 AI 역량 강화 연수
-https://www.etnews.com/20260517000082
+◾ “M.AX에 5000억 쏜다”…산업부, 1조 규모 ＇산업성장펀드＇ 출범
+https://www.etnews.com/20260518000092
 
-◾ [기획]1000억원 이상 R&D 지원 속 AI 반도체 기술자립 가속화…AI주권 확보 ＇마중물＇
-https://www.etnews.com/20260515000210
+◾ NIA, 한국수출입은행과 MOU…AI·디지털 분야 국제개발협력
+https://www.etnews.com/20260518000070
 
-◾ 공공병원 AI 클라우드 개발 사업 논란…“범위·기간 모두 과중”
-https://www.etnews.com/20260515000190
+◾ “2035년, AI가 은행·사무직 대체”…고용정보원, 10년 일자리 지형도 공개
+https://www.etnews.com/20260518000032
 
-◾ 수출입은행-NIA, 개도국 AI 영토 넓힌다…스리랑카에 첫 K-ODA 모델 구축
-https://www.etnews.com/20260517000075
+◾ 과기정통부-오픈AI, 신뢰 기반 사이버 접근 프로그램 (TAC, Trusted Access for Cyber) 등 사이버 보안 협력을 위한 연수회(워크숍) 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187327&searchOpt=ALL&searchTxt=
+
+◾ 민관 한 팀으로 ‘한국형 인공지능 인간형 로봇(AI 휴머노이드)’ 개발 본격 착수
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187326&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ “애플 보안도 뚫렸다”…앤트로픽 ＇미토스＇가 촉발한 AI 해킹 시대의 공포
-https://www.aitimes.kr/news/articleView.html?idxno=40060
+◾ “AI는 이제 인력 경쟁 아닌 운영모델 경쟁”…IBM, 차세대 딜리버리 모델 ‘FDU’ 전격 도입
+https://www.aitimes.kr/news/articleView.html?idxno=40079
 
-◾ 오픈AI ＇GPT-5.5＇, 英 AI 보안 평가서 앤트로픽 ＇미토스＇ 제쳤다
-https://www.etnews.com/20260517000089
+◾ 구글 딥마인드, 아태 지역 기후 위기 극복 위한 ＇액셀러레이터 프로그램＇ 출범
+https://www.aitimes.kr/news/articleView.html?idxno=40078
 
-◾ [에듀플러스][EDIX Tokyo 2026]“기가스쿨 이후 달라진 일본 교육시장…K-에듀테크, 플랫폼 강화 전략”
-https://www.etnews.com/20260515000197
+◾ 마이크로소프트, AI 기반 에이전틱 보안 시스템 ‘MDASH’ 공개... ‘발견–검증–증명’ 전 과정 엔드투엔드로 수행
+https://www.aitimes.kr/news/articleView.html?idxno=40064
 
-◾ AI에 ＇라디오 DJ＇ 맡겼더니...〃클로드, 강제 노동 반발로 파업 선언〃
-https://www.aitimes.com/news/articleView.html?idxno=210614
+◾ 〃24시간 동안 쉬지 않고 택배 분류〃...피규어의 휴머노이드 생중계 화제
+https://www.aitimes.com/news/articleView.html?idxno=210610
 
-◾ 엔비디아, ＇RTX 5090＇ 한장으로 1분 영상 생성하는 월드 모델 오픈 공개
-https://www.aitimes.com/news/articleView.html?idxno=210609
+◾ 구글 클라우드 콘솔에 ＇미소스＇ 등장...B2B 출시설 확산
+https://www.aitimes.com/news/articleView.html?idxno=210617
 
-◾ 누스 리서치, ‘토큰 중첩 학습’으로 사전훈련 시간 2.5배 단축
-https://www.aitimes.com/news/articleView.html?idxno=210584
+◾ 애플, 시리에 업계 최초 ＇채팅 자동 삭제＇ 도입...〃개인 정보보호 우선〃
+https://www.aitimes.com/news/articleView.html?idxno=210637
 
-◾ 미 FTC, ＇직접 칩 설계＇ 나선 Arm 반독점 조사 착수
-https://www.aitimes.com/news/articleView.html?idxno=210612
+◾ 앤트로픽·오픈AI, AI 스타트업 매출 89% 독식...〃승자는 모델 개발사〃
+https://www.aitimes.com/news/articleView.html?idxno=210622
 
 [기타]
-◾ [기획]이진원 하이퍼엑셀 CTO “단기 과제·실패 용인, AI 반도체 성공 요소”
-https://www.etnews.com/20260515000265
+◾ [이상직 변호사의 생성과 소멸] 〈19〉AI시대, 사람의 언어는 어떻게 해야 살아남을까
+https://www.etnews.com/20260518000067
 
-◾ [이내찬교수의 광고로 보는 통신역사] 〈58〉AI의 그림자: 드론이 낮춘 전쟁의 문턱
-https://www.etnews.com/20260515000176
-
-◾ [이슈플러스] 韓, 스마트글래스·드론 등 미래 먹거리에서 이미 늦었다
-https://www.etnews.com/20260515000199
-
-◾ [ET시론] ＇모두의 AI＇ 시대, K-AI 도시의 전환
-https://www.etnews.com/20260515000085
+📚 간행물
+◾ [제1290호] 사이버 위협의 초기 액세스 기술 동향
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1290%ED%98%B8%5D%20%EC%82%AC%EC%9D%B4%EB%B2%84%20%EC%9C%84%ED%98%91%EC%9D%98%20%EC%B4%88%EA%B8%B0%20%EC%95%A1%EC%84%B8%EC%8A%A4%20%EA%B8%B0%EC%88%A0%20%EB%8F%99%ED%96%A5
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
