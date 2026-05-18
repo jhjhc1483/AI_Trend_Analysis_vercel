@@ -2,6 +2,9 @@
 
 📰 오늘의 기사
 [국방]
+◾ 민간 우수 정보화 신기술 국방 분야 도입 추진한다
+https://kookbang.dema.mil.kr/newsWeb/20260519/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=xPE8Qn8l85FNzDOImTdwQ0gx9DpSDReksYuaiIJnt8YIZcLQ4cDQ!917432377
+
 ◾ 한미동맹, ‘드론동맹’으로 진화한다
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49000&startDate=&endDate=&id=mnd_020101000000
 
@@ -18,27 +21,30 @@ https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_66
 ◾ “AI 전환, 기술보다 현장이 문제였다”··· LG전자·SKT·K증권, AX 실전 해법 공개
 https://www.aitimes.kr/news/articleView.html?idxno=40081
 
+◾ 롯데이노베이트, 피지컬 AI 경쟁력 강화… AI 국제표준 인증 확대
+https://www.aitimes.kr/news/articleView.html?idxno=40076
+
 ◾ LG CNS-컬리, 물류센터 휴머노이드 로봇 도입 맞손...물류센터 고도화 위한 휴머노이드 PoC
 https://www.aitimes.kr/news/articleView.html?idxno=40069
 
 ◾ SBS, 오픈AI와 사상 최초 ‘실시간 AI 선거방송’... 6·3 개표방송 ‘2026 국민의 선택’ 통해 전격 공개
 https://www.aitimes.kr/news/articleView.html?idxno=40068
 
-◾ 머크, ＇실리콘포토닉스＇ 사업 추진…삼성·엔비디아 협력 전망
-https://www.etnews.com/20260518000139
+◾ 유진로봇, 밀레그룹서 173억 규모 투자 유치
+https://www.etnews.com/20260518000312
 
-◾ [ESG경영 우수사례]시스원, 국산 NPU 기반 ＇저전력 AX＇ 시장 정조준…ESG 경영 가속화
-https://www.etnews.com/20260518000367
+◾ 메가존클라우드, ＇AWS 서밋 서울＇ 참가…에이전틱 AI 활용 전략 제시
+https://www.etnews.com/20260518000091
 
-◾ 가온전선, 美 빅테크 AI 데이터센터에 4조원대 버스덕트 공급
-https://www.etnews.com/20260518000315
-
-◾ 업스테이지 모델 적용한 AI 법률 서비스, 정부 기관 대상 베타테스트 진행
-https://www.aitimes.com/news/articleView.html?idxno=210668
+◾ 사람인, AI 이력서 코칭 서비스 출시 예고
+https://www.etnews.com/20260518000022
 
 [기관]
 ◾ 문체부, 생성형 AI 저작물 학습에 대한 저작권법상 ‘공정이용’ 안내서 영문본 발간
 https://www.aitimes.kr/news/articleView.html?idxno=40073
+
+◾ NIA-한국수출입은행, AI·디지털 분야 국제개발협력 및 국내기업 해외진출 확대
+https://www.aitimes.kr/news/articleView.html?idxno=40066
 
 ◾ “사람이 곧 기술경쟁력”…중기부, AI 인재 실증형 창업패키지 신설
 https://www.etnews.com/20260518000272
@@ -46,11 +52,8 @@ https://www.etnews.com/20260518000272
 ◾ “M.AX에 5000억 쏜다”…산업부, 1조 규모 ＇산업성장펀드＇ 출범
 https://www.etnews.com/20260518000092
 
-◾ NIA, 한국수출입은행과 MOU…AI·디지털 분야 국제개발협력
-https://www.etnews.com/20260518000070
-
-◾ “2035년, AI가 은행·사무직 대체”…고용정보원, 10년 일자리 지형도 공개
-https://www.etnews.com/20260518000032
+◾ 광주시, AI기업에 공원·주차장 등 3375곳 실증 무대 대여…상시 접수
+https://www.etnews.com/20260518000045
 
 ◾ 과기정통부-오픈AI, 신뢰 기반 사이버 접근 프로그램 (TAC, Trusted Access for Cyber) 등 사이버 보안 협력을 위한 연수회(워크숍) 개최
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187327&searchOpt=ALL&searchTxt=
@@ -59,9 +62,6 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187326&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ “AI는 이제 인력 경쟁 아닌 운영모델 경쟁”…IBM, 차세대 딜리버리 모델 ‘FDU’ 전격 도입
-https://www.aitimes.kr/news/articleView.html?idxno=40079
-
 ◾ 구글 딥마인드, 아태 지역 기후 위기 극복 위한 ＇액셀러레이터 프로그램＇ 출범
 https://www.aitimes.kr/news/articleView.html?idxno=40078
 
@@ -74,6 +74,9 @@ https://www.aitimes.com/news/articleView.html?idxno=210610
 ◾ 구글 클라우드 콘솔에 ＇미소스＇ 등장...B2B 출시설 확산
 https://www.aitimes.com/news/articleView.html?idxno=210617
 
+◾ 〃잠 좀 자라〃 권유하는 클로드...AI가 ＇잔소리꾼＇이 된 이유
+https://www.aitimes.com/news/articleView.html?idxno=210635
+
 ◾ 애플, 시리에 업계 최초 ＇채팅 자동 삭제＇ 도입...〃개인 정보보호 우선〃
 https://www.aitimes.com/news/articleView.html?idxno=210637
 
@@ -81,8 +84,8 @@ https://www.aitimes.com/news/articleView.html?idxno=210637
 https://www.aitimes.com/news/articleView.html?idxno=210622
 
 [기타]
-◾ [이상직 변호사의 생성과 소멸] 〈19〉AI시대, 사람의 언어는 어떻게 해야 살아남을까
-https://www.etnews.com/20260518000067
+◾ 30억 작은 AI가 720억 거대 모델을 눌렀다, 비결은 옆에 앉힌 ＇잔소리꾼＇ 한 명이었다
+https://www.etnews.com/20260518000167
 
 📚 간행물
 ◾ [제1290호] 사이버 위협의 초기 액세스 기술 동향
