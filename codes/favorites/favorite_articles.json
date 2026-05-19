@@ -1,137 +1,142 @@
 [
   {
-    "title": "민간 우수 정보화 신기술 국방 분야 도입 추진한다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260519/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=xPE8Qn8l85FNzDOImTdwQ0gx9DpSDReksYuaiIJnt8YIZcLQ4cDQ!917432377",
+    "title": "의무작전에 AI·ICT 접목 창의적 아이디어 발굴",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260520/3/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=ulBBbPPp1Z0gabnT9aYLyd-hq4t3U4gxDKNsIj8C-eUCBaCFMYS4!415924974",
     "category": "국방"
   },
   {
-    "title": "“AI 전환, 기술보다 현장이 문제였다”··· LG전자·SKT·K증권, AX 실전 해법 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40081",
-    "category": "민간"
+    "title": "전장의 판 바꾼 AI…“소부대 전투도 바뀌어야”",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260520/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=ulBBbPPp1Z0gabnT9aYLyd-hq4t3U4gxDKNsIj8C-eUCBaCFMYS4!415924974",
+    "category": "육군"
   },
   {
-    "title": "구글 딥마인드, 아태 지역 기후 위기 극복 위한 ＇액셀러레이터 프로그램＇ 출범",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40078",
+    "title": "VR 모의훈련 거쳐 실제 수류탄 투척…두려움 격파",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260520/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=ulBBbPPp1Z0gabnT9aYLyd-hq4t3U4gxDKNsIj8C-eUCBaCFMYS4!415924974",
+    "category": "국방"
+  },
+  {
+    "title": "AI를 통한 철조망 너머 우리가 함께 그리는 미래",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260520/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=ulBBbPPp1Z0gabnT9aYLyd-hq4t3U4gxDKNsIj8C-eUCBaCFMYS4!415924974",
+    "category": "국방"
+  },
+  {
+    "title": "국방 AX(인공지능 전환)의 심장, ‘AI 데이터센터’와 인프라 주권",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260520/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=ulBBbPPp1Z0gabnT9aYLyd-hq4t3U4gxDKNsIj8C-eUCBaCFMYS4!415924974",
+    "category": "국방"
+  },
+  {
+    "title": "앤트로픽, SDK 전문기업 ＇스테인리스＇ 인수… AI 에이전트 연결성 강화, ＇답하는 AI에서 행동하는 AI로 전환＇",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40107",
     "category": "해외"
   },
   {
-    "title": "롯데이노베이트, 피지컬 AI 경쟁력 강화… AI 국제표준 인증 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40076",
-    "category": "민간"
-  },
-  {
-    "title": "문체부, 생성형 AI 저작물 학습에 대한 저작권법상 ‘공정이용’ 안내서 영문본 발간",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40073",
+    "title": "〃기밀 유출 걱정 없는 LLM 구축 및 활용〃…고려대 임희석 교수, 프라이버시 보존 대형언어모델 기술 개발",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40105",
     "category": "기관"
   },
   {
-    "title": "LG CNS-컬리, 물류센터 휴머노이드 로봇 도입 맞손...물류센터 고도화 위한 휴머노이드 PoC",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40069",
-    "category": "민간"
-  },
-  {
-    "title": "SBS, 오픈AI와 사상 최초 ‘실시간 AI 선거방송’... 6·3 개표방송 ‘2026 국민의 선택’ 통해 전격 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40068",
-    "category": "민간"
-  },
-  {
-    "title": "NIA-한국수출입은행, AI·디지털 분야 국제개발협력 및 국내기업 해외진출 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40066",
+    "title": "민관 협력으로 진화하는 ＇표준프레임워크＇, AI 활용 위한 신규 기능 발굴 나선다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40104",
     "category": "기관"
   },
   {
-    "title": "마이크로소프트, AI 기반 에이전틱 보안 시스템 ‘MDASH’ 공개... ‘발견–검증–증명’ 전 과정 엔드투엔드로 수행",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40064",
-    "category": "해외"
-  },
-  {
-    "title": "유진로봇, 밀레그룹서 173억 규모 투자 유치",
-    "link": "https://www.etnews.com/20260518000312",
+    "title": "한컴, 사명 변경하고 ＇소버린 에이전틱 OS＇ 기업으로 전환 선언...AI 실적 첫 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40103",
     "category": "민간"
   },
   {
-    "title": "“사람이 곧 기술경쟁력”…중기부, AI 인재 실증형 창업패키지 신설",
-    "link": "https://www.etnews.com/20260518000272",
+    "title": "HD현대사이트솔루션, 카카오모빌리티와 물류 자동화 및 피지컬 AI 생태계 이끈다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40099",
+    "category": "민간"
+  },
+  {
+    "title": "국립암센터, 496만 암데이터 활용…＇AI 실증·차세대 신약＇ 투트랙 가동",
+    "link": "https://www.etnews.com/20260519000311",
     "category": "기관"
   },
   {
-    "title": "“M.AX에 5000억 쏜다”…산업부, 1조 규모 ＇산업성장펀드＇ 출범",
-    "link": "https://www.etnews.com/20260518000092",
+    "title": "생성형 AI 궁금증 해소…개인정보위, ＇정보 보호 가이드＇ 발간",
+    "link": "https://www.etnews.com/20260519000354",
     "category": "기관"
   },
   {
-    "title": "30억 작은 AI가 720억 거대 모델을 눌렀다, 비결은 옆에 앉힌 ＇잔소리꾼＇ 한 명이었다",
-    "link": "https://www.etnews.com/20260518000167",
+    "title": "국제인공지능윤리협회, ＇2026 ASC＇ 개최…＇AI 에이전트＇ 신뢰성 논의",
+    "link": "https://www.etnews.com/20260519000291",
     "category": "기타"
   },
   {
-    "title": "메가존클라우드, ＇AWS 서밋 서울＇ 참가…에이전틱 AI 활용 전략 제시",
-    "link": "https://www.etnews.com/20260518000091",
+    "title": "[한국IT리더스포럼] 임우형 LG AI 연구원장 “AI 빅테크 한국 제조 데이터 탐내…고유 경쟁력 키워야”",
+    "link": "https://www.etnews.com/20260519000286",
     "category": "민간"
   },
   {
-    "title": "광주시, AI기업에 공원·주차장 등 3375곳 실증 무대 대여…상시 접수",
-    "link": "https://www.etnews.com/20260518000045",
-    "category": "기관"
-  },
-  {
-    "title": "사람인, AI 이력서 코칭 서비스 출시 예고",
-    "link": "https://www.etnews.com/20260518000022",
+    "title": "OpenAI·팔란티어·엔비디아·앤트로픽·구글 등 ＇AI 올스타＇ 韓 집결",
+    "link": "https://www.etnews.com/20260519000252",
     "category": "민간"
   },
   {
-    "title": "〃24시간 동안 쉬지 않고 택배 분류〃...피규어의 휴머노이드 생중계 화제",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210610",
-    "category": "해외"
-  },
-  {
-    "title": "구글 클라우드 콘솔에 ＇미소스＇ 등장...B2B 출시설 확산",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210617",
-    "category": "해외"
-  },
-  {
-    "title": "〃잠 좀 자라〃 권유하는 클로드...AI가 ＇잔소리꾼＇이 된 이유",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210635",
-    "category": "해외"
-  },
-  {
-    "title": "애플, 시리에 업계 최초 ＇채팅 자동 삭제＇ 도입...〃개인 정보보호 우선〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210637",
-    "category": "해외"
-  },
-  {
-    "title": "앤트로픽·오픈AI, AI 스타트업 매출 89% 독식...〃승자는 모델 개발사〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210622",
-    "category": "해외"
-  },
-  {
-    "title": "과기정통부-오픈AI, 신뢰 기반 사이버 접근 프로그램 (TAC, Trusted Access for Cyber) 등 사이버 보안 협력을 위한 연수회(워크숍) 개최",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187327&searchOpt=ALL&searchTxt=",
+    "title": "교육부, AI 평생학습 확대…제조AX·로봇융합 강좌 신설",
+    "link": "https://www.etnews.com/20260519000105",
     "category": "기관"
   },
   {
-    "title": "민관 한 팀으로 ‘한국형 인공지능 인간형 로봇(AI 휴머노이드)’ 개발 본격 착수",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187326&searchOpt=ALL&searchTxt=",
+    "title": "애플, WWDC 내달 8일 개막…AI 완성도 시험대",
+    "link": "https://www.etnews.com/20260519000198",
+    "category": "해외"
+  },
+  {
+    "title": "[DTW 2026] 삼성전자, 반도체 제조 ＇AI 팩토리＇로 전환…델 인프라 도입",
+    "link": "https://www.etnews.com/20260519000125",
+    "category": "민간"
+  },
+  {
+    "title": "[기고] AI 해킹 시대, 낡은 인증으로는 국가를 지킬 수 없다",
+    "link": "https://www.etnews.com/20260519000099",
+    "category": "기타"
+  },
+  {
+    "title": "페스카로, CSMS-Portal 기반 AI 보안 엔지니어링 워크플로우 혁신 추진",
+    "link": "https://www.etnews.com/20260519000095",
+    "category": "민간"
+  },
+  {
+    "title": "[DTW 2026]델, 엔비디아 손잡고 ＇AI 팩토리＇ 전략 강화…젠슨 황 깜짝 등장",
+    "link": "https://www.etnews.com/20260519000023",
+    "category": "해외"
+  },
+  {
+    "title": "퓨처이모텍, AI 탑재한 감성 표현 휴머노이드 ＇하론＇ 개발",
+    "link": "https://www.etnews.com/20260519000021",
+    "category": "민간"
+  },
+  {
+    "title": "앤트로픽, ＇미토스＇ AI 사이버 위협 정보 외부 공유 허용",
+    "link": "https://www.etnews.com/20260519000020",
+    "category": "해외"
+  },
+  {
+    "title": "MS 내부의 경고 〃AI 에이전트, 깃허브 저장소 역할 대체할 수도〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210696",
+    "category": "해외"
+  },
+  {
+    "title": "구글-블랙스톤, 37조 투입해 ＇TPU 전용＇ AI 클라우드 기업 설립",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210688",
+    "category": "해외"
+  },
+  {
+    "title": "과기정통부, 침해사고 선제 대응을 위한 ‘침해사고 조사 심의위원회’ 사전 가동",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187331&searchOpt=ALL&searchTxt=",
     "category": "기관"
   },
   {
-    "title": "한미동맹, ‘드론동맹’으로 진화한다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49000&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
+    "title": "「인공지능(AI) Hack Camp 2026」 : 63일간 치열한 혁신의 여정 끝, 영예의 주인공 탄생",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187333&searchOpt=ALL&searchTxt=",
+    "category": "기관"
   },
   {
-    "title": "병무청 “공공데이터·AI 활용 아이디어 찾아요”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49001&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "데이터 분석해 함정 정비지원 했더니…1분기 장비고장 22건 예방",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=49018&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "국방부, 「국방 정보화 신기술 제안발표회」 개최",
-    "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112207&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
+    "title": "민간 우수 정보화 신기술 국방 분야 도입 추진한다",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49036&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
   }
 ]
