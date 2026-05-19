@@ -12,12 +12,12 @@
   {
     "title": "VR 모의훈련 거쳐 실제 수류탄 투척…두려움 격파",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260520/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=ulBBbPPp1Z0gabnT9aYLyd-hq4t3U4gxDKNsIj8C-eUCBaCFMYS4!415924974",
-    "category": "국방"
+    "category": "육군"
   },
   {
     "title": "AI를 통한 철조망 너머 우리가 함께 그리는 미래",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260520/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=ulBBbPPp1Z0gabnT9aYLyd-hq4t3U4gxDKNsIj8C-eUCBaCFMYS4!415924974",
-    "category": "국방"
+    "category": "기타"
   },
   {
     "title": "국방 AX(인공지능 전환)의 심장, ‘AI 데이터센터’와 인프라 주권",
@@ -27,6 +27,11 @@
   {
     "title": "앤트로픽, SDK 전문기업 ＇스테인리스＇ 인수… AI 에이전트 연결성 강화, ＇답하는 AI에서 행동하는 AI로 전환＇",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40107",
+    "category": "해외"
+  },
+  {
+    "title": "“엔비디아 GPU 독점 흔든다”… 블랙스톤·구글, 7.5조원 규모 ＇TPU 클라우드＇ 합작사 설립",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40106",
     "category": "해외"
   },
   {
@@ -50,6 +55,56 @@
     "category": "민간"
   },
   {
+    "title": "현대모비스, 美 실리콘밸리서 로보틱스 기술 동맹 찾는다!...오픈이노베이션 행사 개최",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40097",
+    "category": "민간"
+  },
+  {
+    "title": "〃AI 비전을 성과로〃... 델 테크놀로지스, AI 인프라 솔루션 대거 공개, 엔터프라이즈 규모의 AI 및 HPC 워크로드 가속",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40092",
+    "category": "해외"
+  },
+  {
+    "title": "네이버 D2SF, 사용자 판단 예측하는 AI 스타트업 ＇클론랩스＇에 신규 투자",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40090",
+    "category": "민간"
+  },
+  {
+    "title": "이글루코퍼레이션, 자율형 SOC 구현 위한 AI·SOAR 핵심 특허 2건 확보",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40089",
+    "category": "민간"
+  },
+  {
+    "title": "지멘스-Arm, AGI CPU 검증 협력...에이전틱 AI 대규모 상용화 인프라 구현 지원",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40087",
+    "category": "해외"
+  },
+  {
+    "title": "[김경진의 AI전략노트] 〈28〉투표용지 위의 미래",
+    "link": "https://www.etnews.com/20260519000162",
+    "category": "기타"
+  },
+  {
+    "title": "과기정통부, ＇침해사고 조사 심의위원회＇ 사전 가동…사이버 위협 선제 대응",
+    "link": "https://www.etnews.com/20260519000367",
+    "category": "기관"
+  },
+  {
+    "title": "[미래포럼] 로봇 없는 제조업, 미래는 없다",
+    "link": "https://www.etnews.com/20260519000055",
+    "category": "기타"
+  },
+  {
+    "title": "[ET단상] 글로벌 AI 패권의 승부수 ＇AI 네트워크 펜타슬론＇",
+    "link": "https://www.etnews.com/20260519000097",
+    "category": "기타"
+  },
+  {
+    "title": "[김경환 변호사의 IT법] 〈9〉AI 개발 계약은 SW 개발 계약과 달리 접근해야 한다",
+    "link": "https://www.etnews.com/20260519000122",
+    "category": "기타"
+  },
+  {
     "title": "국립암센터, 496만 암데이터 활용…＇AI 실증·차세대 신약＇ 투트랙 가동",
     "link": "https://www.etnews.com/20260519000311",
     "category": "기관"
@@ -62,7 +117,7 @@
   {
     "title": "국제인공지능윤리협회, ＇2026 ASC＇ 개최…＇AI 에이전트＇ 신뢰성 논의",
     "link": "https://www.etnews.com/20260519000291",
-    "category": "기타"
+    "category": "기관"
   },
   {
     "title": "[한국IT리더스포럼] 임우형 LG AI 연구원장 “AI 빅테크 한국 제조 데이터 탐내…고유 경쟁력 키워야”",
@@ -75,19 +130,9 @@
     "category": "민간"
   },
   {
-    "title": "교육부, AI 평생학습 확대…제조AX·로봇융합 강좌 신설",
-    "link": "https://www.etnews.com/20260519000105",
-    "category": "기관"
-  },
-  {
     "title": "애플, WWDC 내달 8일 개막…AI 완성도 시험대",
     "link": "https://www.etnews.com/20260519000198",
     "category": "해외"
-  },
-  {
-    "title": "[DTW 2026] 삼성전자, 반도체 제조 ＇AI 팩토리＇로 전환…델 인프라 도입",
-    "link": "https://www.etnews.com/20260519000125",
-    "category": "민간"
   },
   {
     "title": "[기고] AI 해킹 시대, 낡은 인증으로는 국가를 지킬 수 없다",
@@ -95,39 +140,14 @@
     "category": "기타"
   },
   {
-    "title": "페스카로, CSMS-Portal 기반 AI 보안 엔지니어링 워크플로우 혁신 추진",
-    "link": "https://www.etnews.com/20260519000095",
-    "category": "민간"
-  },
-  {
     "title": "[DTW 2026]델, 엔비디아 손잡고 ＇AI 팩토리＇ 전략 강화…젠슨 황 깜짝 등장",
     "link": "https://www.etnews.com/20260519000023",
-    "category": "해외"
-  },
-  {
-    "title": "퓨처이모텍, AI 탑재한 감성 표현 휴머노이드 ＇하론＇ 개발",
-    "link": "https://www.etnews.com/20260519000021",
-    "category": "민간"
-  },
-  {
-    "title": "앤트로픽, ＇미토스＇ AI 사이버 위협 정보 외부 공유 허용",
-    "link": "https://www.etnews.com/20260519000020",
     "category": "해외"
   },
   {
     "title": "MS 내부의 경고 〃AI 에이전트, 깃허브 저장소 역할 대체할 수도〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=210696",
     "category": "해외"
-  },
-  {
-    "title": "구글-블랙스톤, 37조 투입해 ＇TPU 전용＇ AI 클라우드 기업 설립",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210688",
-    "category": "해외"
-  },
-  {
-    "title": "과기정통부, 침해사고 선제 대응을 위한 ‘침해사고 조사 심의위원회’ 사전 가동",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187331&searchOpt=ALL&searchTxt=",
-    "category": "기관"
   },
   {
     "title": "「인공지능(AI) Hack Camp 2026」 : 63일간 치열한 혁신의 여정 끝, 영예의 주인공 탄생",
