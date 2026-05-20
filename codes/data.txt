@@ -8,9 +8,6 @@ https://kookbang.dema.mil.kr/newsWeb/20260521/24/ATCE_CTGR_0010010000/view.do;JS
 ◾ AI·무인항공기 등 신기술 분야 협력 가속화 ‘한·인도 방산혁신 플랫폼’ 논의
 https://kookbang.dema.mil.kr/newsWeb/20260521/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=BN5GnyNHfWu4dCpj2UGAQNtJl2pj_W7wqS5SVLHWiNvgX4aNpZ7f!917432377
 
-◾ 사이버는 억제·강압의 공간 아닌 경쟁·수탈의 공간
-https://kookbang.dema.mil.kr/newsWeb/20260521/1/ATCE_CTGR_0020010028/view.do;JSESSIONID_kookbnagWEB=BN5GnyNHfWu4dCpj2UGAQNtJl2pj_W7wqS5SVLHWiNvgX4aNpZ7f!917432377
-
 ◾ AI 지능화 전쟁, 인류의 통제권을 진단하다
 https://kookbang.dema.mil.kr/newsWeb/20260521/5/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=BN5GnyNHfWu4dCpj2UGAQNtJl2pj_W7wqS5SVLHWiNvgX4aNpZ7f!917432377
 
@@ -28,14 +25,11 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=49061&startDate=&endDate=&id=mnd_020101000000
 
 [민간]
-◾ “보지 못한 이상까지 잡아낸다”… 연세대, 차세대 AI ‘제로샷 이상 탐지’ 새 패러다임 제시
-https://www.aitimes.kr/news/articleView.html?idxno=40129
-
 ◾ LG CNS, 북미 제조 AX 시장 확대…중소·중견 제조기업 공장 지능화 지원
 https://www.aitimes.kr/news/articleView.html?idxno=40128
 
-◾ SBS·오픈AI, ＇AI상황실·선거비서·영상아트＇ 3대 프로젝트로 AI 선거방송 초격차 구현
-https://www.aitimes.kr/news/articleView.html?idxno=40125
+◾ 카카오, 구글 딥마인드의 디지털 워터마킹 솔루션 ‘신스ID’도입 … AI 모델 ‘카나나’에 적용
+https://www.aitimes.kr/news/articleView.html?idxno=40122
 
 ◾ “스마트폰 없이 말로 길 찾고 번역한다”… 삼성전자·구글, 음성 기반 AI 경험 강화한 ＇AI 글라스＇ 첫 공개
 https://www.aitimes.kr/news/articleView.html?idxno=40114
@@ -43,24 +37,33 @@ https://www.aitimes.kr/news/articleView.html?idxno=40114
 ◾ 누구나 AI 에이전트를 만들고 수익 창출하는 시대...솔트룩스, AI 서비스 ＇구버＇ 에이전트 플랫폼으로 전면 진화
 https://www.aitimes.kr/news/articleView.html?idxno=40111
 
-[기관]
-◾ 해수부, K-스마트수산업 인공지능 대전환 이끌 민간 참여자 공모
-https://www.aitimes.kr/news/articleView.html?idxno=40121
+◾ 다음 매각한 카카오, ＇카나나 검색＇ 고도화 박차…AI 검색 경쟁 가세
+https://www.etnews.com/20260520000303
 
-◾ KT-서울대, AI 시대 융합보안 인재 육성 협력...대한민국 융합 보안 경쟁력 강화 기여
-https://www.aitimes.kr/news/articleView.html?idxno=40119
+◾ [DTW 2026] 네이버클라우드 “하이퍼클로바X, 하반기 성능 대폭 개선”
+https://www.etnews.com/20260520000317
+
+◾ AI 버블은 없다…마키나락스, 상장 첫날 시총 1조원 돌파
+https://www.etnews.com/20260520000305
+
+[기관]
+◾ “보지 못한 이상까지 잡아낸다”… 연세대, 차세대 AI ‘제로샷 이상 탐지’ 새 패러다임 제시
+https://www.aitimes.kr/news/articleView.html?idxno=40129
 
 ◾ ETRI ＇박세웅 원장＇ 취임...〃전주기적 AI·ICT R&D 플랫폼으로서 국가 지능화 혁신 엔진 역할 다할 것〃
 https://www.aitimes.kr/news/articleView.html?idxno=40115
-
-◾ 코난테크놀로지·동서발전·퓨리오사, 국산 AI 인프라 실증 협력
-https://www.etnews.com/20260520000225
 
 ◾ 정부, 6·3 지선 앞두고 ＇3대 선거범죄＇ 엄단…AI 딥페이크도 철퇴
 https://www.etnews.com/20260520000220
 
 ◾ 반도체·조선 제조 ＇효율 30%↑＇…산업부, M.AX 성과 전국 확산 고삐
 https://www.etnews.com/20260519000489
+
+◾ 충남 공무원 혁신 아이디어 대회에서 ＇응급실 뺑뺑이 막는 AI 시스템＇ 최우수 선정
+https://www.etnews.com/20260520000134
+
+◾ 지식재산처, AI 시대 대응 조직 출범…지식재산 행정 혁신  추진
+https://www.etnews.com/20260520000112
 
 ◾ 인공지능으로 연결되는 K-과학기술의 모든 것 과학 소통 강연 '2026 선을 넘는 과학자들' 개최
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187337&searchOpt=ALL&searchTxt=
@@ -69,17 +72,8 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ [스페셜리포트] 〃인공지능, 인프라부터 개인 비서까지“... 구글, ＇구글 I/O 2026＇서 ＇에이전틱 제미나이＇ 시대 선언
 https://www.aitimes.kr/news/articleView.html?idxno=40120
 
-◾ 오픈AI, YC 스타트업 대상 200만 달러 규모 토큰 기반 지분교환·투자 발표… 웨인힐스브라이언트 AI “지분교환  논의 예정”
-https://www.etnews.com/20260520000383
-
-◾ 구글, 25년 만에 ＇검색창＇ 대개편…차세대 AI 모델 대거 공개
-https://www.etnews.com/20260520000342
-
-◾ AWS, “한국은 핵심 AI 전략 시장”…피지컬 AI·에이전틱 AI 지원 강화
-https://www.etnews.com/20260520000301
-
-◾ 中 로봇 부품 생산 급증…AI·휴머노이드 수요 확대
-https://www.etnews.com/20260520000284
+◾ 구글, 차세대 AI 모델 ＇제미나이 3.5 플래시＇ 공개
+https://www.etnews.com/20260520000282
 
 ◾ 알리바바, 에이전트용 ‘큐원3.7-맥스’ 공개...“35시간 자율 작업 달성”
 https://www.aitimes.com/news/articleView.html?idxno=210745
@@ -87,9 +81,21 @@ https://www.aitimes.com/news/articleView.html?idxno=210745
 ◾ 중국 ＇일대일로＇에 맞불... 미 상원, 동맹국에 AI·반도체 파격 지원 입법 추진
 https://www.aitimes.com/news/articleView.html?idxno=210761
 
+◾ 앤트로픽, ＇블랙리스트＇ 지정 두고 미 정부와 정면 충돌
+https://www.aitimes.com/news/articleView.html?idxno=210756
+
+◾ 메타 ＇AI 안경＇ 25일 출시...불법 촬영·정보 문제 대응책은
+https://www.aitimes.com/news/articleView.html?idxno=210748
+
+◾ 애플, AI 하드웨어 부서 전면 배치...차세대 기기 출시 앞당긴다
+https://www.aitimes.com/news/articleView.html?idxno=210753
+
 [기타]
 ◾ AI 안면인식 기술과 ‘빅브라더’
 https://kookbang.dema.mil.kr/newsWeb/20260521/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=BN5GnyNHfWu4dCpj2UGAQNtJl2pj_W7wqS5SVLHWiNvgX4aNpZ7f!917432377
+
+◾ [사설] 검색창→AI창, 대변화 잘 짚어야
+https://www.etnews.com/20260520000410
 
 📚 간행물
 ◾ LLM 추론 메모리 병목 해소를 위한 극저 비트 KV 캐시 양자화 기술 동향 [주간기술동향 2212호]
