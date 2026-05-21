@@ -18,6 +18,9 @@ https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&fi
 https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112432&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
 
 [민간]
+◾ 스텔란티스-퀄컴, 차세대 SDV 협력 확대…“AI 기반 통합 차량 아키텍처 구축”
+https://www.aitimes.kr/news/articleView.html?idxno=40152
+
 ◾ “피지컬 AI 시대 핵심은 하이브리드 엣지”…어드밴텍 최수혁 부사장, 산업 자율화 전략 제시
 https://www.aitimes.kr/news/articleView.html?idxno=40151
 
@@ -36,18 +39,12 @@ https://www.etnews.com/20260521000125
 ◾ [카&테크] 포티투닷, 차량용 음성 AI ＇글레오 AI＇ 공개...맥락 이해해 차량 제어까지
 https://www.etnews.com/20260521000105
 
-◾ 아우토크립트, ＇피지컬 AI＇ 보안으로 사업 영역 확장
-https://www.etnews.com/20260521000031
-
 [기관]
-◾ 정부, 인공지능 산업 육성 강화 위한 AI기본법 시행령 개정안 입법예고
-https://www.aitimes.kr/news/articleView.html?idxno=40149
+◾ 식품연, AI 로봇 시스템 구현...자동화 불모지 ＇김부각＇ 정복
+https://www.etnews.com/20260521000460
 
-◾ [CAIO 포럼]공공·민간 AI 리더 28인 집결…첫발 뗀 ＇CAIO 포럼＇ 뜨거운 열기
-https://www.etnews.com/20260521000412
-
-◾ 한국피지컬AI협회·IACT·마음AI, 대구 피지컬AI 기술확산·산단AX 가속화 협력
-https://www.etnews.com/20260521000011
+◾ AI시대 ＇디지털 기본권＇ 보장 한 목소리…“사회참여 기본 인프라로 재정의 필요”
+https://www.etnews.com/20260521000433
 
 ◾ 李대통령, ＇AI 표시 의무 확대＇ 지시…“가짜 전문가·허위광고로 큰 피해”
 https://www.etnews.com/20260521000364
@@ -61,27 +58,34 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ ｢전 국민 인공지능 경진대회｣, ‘인공지능 챔피언’･‘인공지능 신인(루키)’ 성황리 개막, 총 1,124팀이 도전, 최고의 인공지능 기술개발 경쟁에 돌입
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187339&searchOpt=ALL&searchTxt=
 
+◾ AI 산업 육성 강화를 위한 「AI기본법 시행령」 개정안 입법예고
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187340&searchOpt=ALL&searchTxt=
+
 [해외]
 ◾ 알리바바, 에이전틱 시대 위한 AI 풀스택 업그레이드...최신 모델 ＇큐웬3.7-Max＇, ＇AI 칩＇ 등 공개
 https://www.aitimes.kr/news/articleView.html?idxno=40141
 
-◾ 마이크로소프트, AI 기반 ＇프론티어 트랜스포메이션＇ 글로벌 사례 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40136
-
-◾ 테슬라, 中 감독형 완전자율주행 사용 승인
-https://www.etnews.com/20260521000473
-
-◾ 12분기 연속 매출 신기록…엔비디아, 2분기 전망은 더 밝다
-https://www.etnews.com/20260521000098
+◾ “3000억개 파라미터 AI 로컬 구동”…AMD, 차세대 ‘에이전트 컴퓨터’ 플랫폼 공개
+https://www.aitimes.kr/news/articleView.html?idxno=40139
 
 ◾ 오픈AI, 추론 모델로 80년 된 기하학 난제 해결...〃수학계 검증 거쳐〃
 https://www.aitimes.com/news/articleView.html?idxno=210785
 
+◾ 백악관, 첨단 모델 ＇90일 사전심사＇ 추진...업계는 14일 단축 요청
+https://www.aitimes.com/news/articleView.html?idxno=210791
+
 ◾ 앤트로픽, 2분기 16조 매출에 ＇첫 흑자＇... 수익성으론 오픈AI 추월
 https://www.aitimes.com/news/articleView.html?idxno=210792
 
+◾ 엔비디아, 사업 다각화 강조...〃GPU 이어 ＇베라＇ CPU로 성장 기대〃
+https://www.aitimes.com/news/articleView.html?idxno=210796
+
 ◾ 〃오픈AI, 22일 IPO 신청...9월 상장 예정〃
 https://www.aitimes.com/news/articleView.html?idxno=210779
+
+[기타]
+◾ [ET단상] 피지컬 AI시대 집의 역할 변화
+https://www.etnews.com/20260521000112
 
 📚 간행물
 ◾ 메모리산업, 주파수승인, 대만AI반도체 [AI·ICT Brief 2026-18호]
