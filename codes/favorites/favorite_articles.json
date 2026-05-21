@@ -1,152 +1,132 @@
 [
   {
+    "title": "현장서 로봇·AI 민간기술 확인…군 적용 추진한다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260522/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=c3hLtiFpNdTC4dWLvsd1dYymJMq3LIEWy9ZJthm9bZw0O5HL0vGT!917432377",
+    "category": "국방"
+  },
+  {
+    "title": "“피지컬 AI 시대 핵심은 하이브리드 엣지”…어드밴텍 최수혁 부사장, 산업 자율화 전략 제시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40151",
+    "category": "민간"
+  },
+  {
+    "title": "정부, 인공지능 산업 육성 강화 위한 AI기본법 시행령 개정안 입법예고",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40149",
+    "category": "기관"
+  },
+  {
+    "title": "화웨이코리아, 국내 파트너와 AI 인프라 생태계 협력 본격화, AI·스토리지·데이터센터 비전 공유",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40142",
+    "category": "민간"
+  },
+  {
+    "title": "알리바바, 에이전틱 시대 위한 AI 풀스택 업그레이드...최신 모델 ＇큐웬3.7-Max＇, ＇AI 칩＇ 등 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40141",
+    "category": "해외"
+  },
+  {
+    "title": "마이크로소프트, AI 기반 ＇프론티어 트랜스포메이션＇ 글로벌 사례 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40136",
+    "category": "해외"
+  },
+  {
+    "title": "테슬라, 中 감독형 완전자율주행 사용 승인",
+    "link": "https://www.etnews.com/20260521000473",
+    "category": "해외"
+  },
+  {
+    "title": "국방정보통신협회, 육군협회·조지메이슨대와 ＇2026 국방 C5I & AI 융합 콘퍼런스＇ 개최",
+    "link": "https://www.etnews.com/20260521000439",
+    "category": "국방"
+  },
+  {
+    "title": "[CAIO 포럼]공공·민간 AI 리더 28인 집결…첫발 뗀 ＇CAIO 포럼＇ 뜨거운 열기",
+    "link": "https://www.etnews.com/20260521000412",
+    "category": "기관"
+  },
+  {
+    "title": "한국피지컬AI협회·IACT·마음AI, 대구 피지컬AI 기술확산·산단AX 가속화 협력",
+    "link": "https://www.etnews.com/20260521000011",
+    "category": "기관"
+  },
+  {
+    "title": "[김동현의 AI 시대와 한국의 선택] 〈3〉방위산업분야 AI 기술적 발전과 국내외 현황",
+    "link": "https://www.etnews.com/20260521000068",
+    "category": "국방"
+  },
+  {
+    "title": "[人사이트] 박재형 KT 프론티어AI랩장 “믿:음 K, 실사용성으로 외산 AI와 차별화”",
+    "link": "https://www.etnews.com/20260521000262",
+    "category": "민간"
+  },
+  {
+    "title": "李대통령, ＇AI 표시 의무 확대＇ 지시…“가짜 전문가·허위광고로 큰 피해”",
+    "link": "https://www.etnews.com/20260521000364",
+    "category": "기관"
+  },
+  {
+    "title": "HP, 업스테이지와 AI 에이전트 확대·생태계 구축 협력",
+    "link": "https://www.etnews.com/20260521000139",
+    "category": "민간"
+  },
+  {
+    "title": "KT, 피지컬 AI 대응 본격화…실증 인프라 구축",
+    "link": "https://www.etnews.com/20260521000125",
+    "category": "민간"
+  },
+  {
+    "title": "[카&테크] 포티투닷, 차량용 음성 AI ＇글레오 AI＇ 공개...맥락 이해해 차량 제어까지",
+    "link": "https://www.etnews.com/20260521000105",
+    "category": "민간"
+  },
+  {
+    "title": "12분기 연속 매출 신기록…엔비디아, 2분기 전망은 더 밝다",
+    "link": "https://www.etnews.com/20260521000098",
+    "category": "해외"
+  },
+  {
+    "title": "강릉시, 국토부 ＇AI 특화 시범도시＇ 도전…“AI로 도시문제 해결”",
+    "link": "https://www.etnews.com/20260521000082",
+    "category": "기관"
+  },
+  {
+    "title": "아우토크립트, ＇피지컬 AI＇ 보안으로 사업 영역 확장",
+    "link": "https://www.etnews.com/20260521000031",
+    "category": "민간"
+  },
+  {
+    "title": "오픈AI, 추론 모델로 80년 된 기하학 난제 해결...〃수학계 검증 거쳐〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210785",
+    "category": "해외"
+  },
+  {
+    "title": "앤트로픽, 2분기 16조 매출에 ＇첫 흑자＇... 수익성으론 오픈AI 추월",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210792",
+    "category": "해외"
+  },
+  {
+    "title": "〃오픈AI, 22일 IPO 신청...9월 상장 예정〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210779",
+    "category": "해외"
+  },
+  {
+    "title": "인공지능으로 전 인류의 난제를 해결”… ｢ㄱ구제 인공지능 거점(글로벌 AI 허브)｣ 미래상(비전) 선포",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187345&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "｢전 국민 인공지능 경진대회｣, ‘인공지능 챔피언’･‘인공지능 신인(루키)’ 성황리 개막, 총 1,124팀이 도전, 최고의 인공지능 기술개발 경쟁에 돌입",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187339&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
     "title": "AI·로봇 등 군 도입 민간 우수 상용품 미리 만나다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260521/24/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=BN5GnyNHfWu4dCpj2UGAQNtJl2pj_W7wqS5SVLHWiNvgX4aNpZ7f!917432377",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49078&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
   },
   {
-    "title": "AI·무인항공기 등 신기술 분야 협력 가속화 ‘한·인도 방산혁신 플랫폼’ 논의",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260521/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=BN5GnyNHfWu4dCpj2UGAQNtJl2pj_W7wqS5SVLHWiNvgX4aNpZ7f!917432377",
+    "title": "국방부, 2026년 제3차 첨단국방 피치데이 개최",
+    "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112432&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
     "category": "국방"
-  },
-  {
-    "title": "AI 지능화 전쟁, 인류의 통제권을 진단하다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260521/5/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=BN5GnyNHfWu4dCpj2UGAQNtJl2pj_W7wqS5SVLHWiNvgX4aNpZ7f!917432377",
-    "category": "국방"
-  },
-  {
-    "title": "AI 전쟁 시대, 인간 책임을 지키는 군종장교의 전략적 가치",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260521/2/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=BN5GnyNHfWu4dCpj2UGAQNtJl2pj_W7wqS5SVLHWiNvgX4aNpZ7f!917432377",
-    "category": "국방"
-  },
-  {
-    "title": "AI 안면인식 기술과 ‘빅브라더’",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260521/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=BN5GnyNHfWu4dCpj2UGAQNtJl2pj_W7wqS5SVLHWiNvgX4aNpZ7f!917432377",
-    "category": "기타"
-  },
-  {
-    "title": "“보지 못한 이상까지 잡아낸다”… 연세대, 차세대 AI ‘제로샷 이상 탐지’ 새 패러다임 제시",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40129",
-    "category": "기관"
-  },
-  {
-    "title": "LG CNS, 북미 제조 AX 시장 확대…중소·중견 제조기업 공장 지능화 지원",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40128",
-    "category": "민간"
-  },
-  {
-    "title": "카카오, 구글 딥마인드의 디지털 워터마킹 솔루션 ‘신스ID’도입 … AI 모델 ‘카나나’에 적용",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40122",
-    "category": "민간"
-  },
-  {
-    "title": "[스페셜리포트] 〃인공지능, 인프라부터 개인 비서까지“... 구글, ＇구글 I/O 2026＇서 ＇에이전틱 제미나이＇ 시대 선언",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40120",
-    "category": "해외"
-  },
-  {
-    "title": "ETRI ＇박세웅 원장＇ 취임...〃전주기적 AI·ICT R&D 플랫폼으로서 국가 지능화 혁신 엔진 역할 다할 것〃",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40115",
-    "category": "기관"
-  },
-  {
-    "title": "“스마트폰 없이 말로 길 찾고 번역한다”… 삼성전자·구글, 음성 기반 AI 경험 강화한 ＇AI 글라스＇ 첫 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40114",
-    "category": "민간"
-  },
-  {
-    "title": "누구나 AI 에이전트를 만들고 수익 창출하는 시대...솔트룩스, AI 서비스 ＇구버＇ 에이전트 플랫폼으로 전면 진화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40111",
-    "category": "민간"
-  },
-  {
-    "title": "[사설] 검색창→AI창, 대변화 잘 짚어야",
-    "link": "https://www.etnews.com/20260520000410",
-    "category": "기타"
-  },
-  {
-    "title": "다음 매각한 카카오, ＇카나나 검색＇ 고도화 박차…AI 검색 경쟁 가세",
-    "link": "https://www.etnews.com/20260520000303",
-    "category": "민간"
-  },
-  {
-    "title": "[DTW 2026] 네이버클라우드 “하이퍼클로바X, 하반기 성능 대폭 개선”",
-    "link": "https://www.etnews.com/20260520000317",
-    "category": "민간"
-  },
-  {
-    "title": "AI 버블은 없다…마키나락스, 상장 첫날 시총 1조원 돌파",
-    "link": "https://www.etnews.com/20260520000305",
-    "category": "민간"
-  },
-  {
-    "title": "구글, 차세대 AI 모델 ＇제미나이 3.5 플래시＇ 공개",
-    "link": "https://www.etnews.com/20260520000282",
-    "category": "해외"
-  },
-  {
-    "title": "한화오션, MS·구글과 AI 기반 함정 기술 논의",
-    "link": "https://www.etnews.com/20260520000275",
-    "category": "국방"
-  },
-  {
-    "title": "정부, 6·3 지선 앞두고 ＇3대 선거범죄＇ 엄단…AI 딥페이크도 철퇴",
-    "link": "https://www.etnews.com/20260520000220",
-    "category": "기관"
-  },
-  {
-    "title": "반도체·조선 제조 ＇효율 30%↑＇…산업부, M.AX 성과 전국 확산 고삐",
-    "link": "https://www.etnews.com/20260519000489",
-    "category": "기관"
-  },
-  {
-    "title": "충남 공무원 혁신 아이디어 대회에서 ＇응급실 뺑뺑이 막는 AI 시스템＇ 최우수 선정",
-    "link": "https://www.etnews.com/20260520000134",
-    "category": "기관"
-  },
-  {
-    "title": "지식재산처, AI 시대 대응 조직 출범…지식재산 행정 혁신  추진",
-    "link": "https://www.etnews.com/20260520000112",
-    "category": "기관"
-  },
-  {
-    "title": "알리바바, 에이전트용 ‘큐원3.7-맥스’ 공개...“35시간 자율 작업 달성”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210745",
-    "category": "해외"
-  },
-  {
-    "title": "중국 ＇일대일로＇에 맞불... 미 상원, 동맹국에 AI·반도체 파격 지원 입법 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210761",
-    "category": "해외"
-  },
-  {
-    "title": "앤트로픽, ＇블랙리스트＇ 지정 두고 미 정부와 정면 충돌",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210756",
-    "category": "해외"
-  },
-  {
-    "title": "메타 ＇AI 안경＇ 25일 출시...불법 촬영·정보 문제 대응책은",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210748",
-    "category": "해외"
-  },
-  {
-    "title": "애플, AI 하드웨어 부서 전면 배치...차세대 기기 출시 앞당긴다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210753",
-    "category": "해외"
-  },
-  {
-    "title": "인공지능으로 연결되는 K-과학기술의 모든 것 과학 소통 강연 '2026 선을 넘는 과학자들' 개최",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187337&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "의무작전에 AI·ICT 접목 창의적 아이디어 발굴",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49055&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "전장의 판 바꾼 AI…“소부대 전투도 바뀌어야”",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=49061&startDate=&endDate=&id=mnd_020101000000",
-    "category": "육군"
   }
 ]
