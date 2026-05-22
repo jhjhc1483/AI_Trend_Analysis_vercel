@@ -1,27 +1,7 @@
 [
   {
-    "title": "한국AI교육협회 회장 문형남 숙대 교수, 미래 전략서 ‘AI와 청색기술’ 출간",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40171",
-    "category": "기타"
-  },
-  {
     "title": "딥 로보틱스, AI 기반 산업용 소형 휠-레그 로봇 ‘린크스 S10’ 공개…“경량 지능형 작업 새 기준 제시”",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40170",
-    "category": "민간"
-  },
-  {
-    "title": "GC녹십자, 세계 최초 AI 기반 ‘혈우병 관절병증 예측 임상 의사결정 시스템’ 개발 추진",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40169",
-    "category": "민간"
-  },
-  {
-    "title": "“중국에 뒤처질 수 없다”…美 트럼프, 인공지능 행정명령 전격 철회",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40167",
-    "category": "해외"
-  },
-  {
-    "title": "EY·마이크로소프트, 1.5조원 규모 AI 동맹 강화…“실험 넘어 전사적 AI 전환 시대 연다”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40166",
     "category": "해외"
   },
   {
@@ -35,19 +15,14 @@
     "category": "기관"
   },
   {
-    "title": "인공지능 시대 디지털 문해력 어떻게 키울까?...전국 장학사 한 자리에,  ‘AI 리터러시 교육 전략 협의회’ 개최",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40161",
-    "category": "기관"
-  },
-  {
     "title": "한컴, LG ‘챗엑사원’에 AI 에이전트 공급…LG AI연구원과 전략적 파트너십",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40157",
     "category": "민간"
   },
   {
-    "title": "피지컬 AI 시대의 핵심은 ‘로봇 손’이 아니라 ‘판단력’이다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40155",
-    "category": "기타"
+    "title": "SKT, 사내 해커톤 ‘AX 챌린지’로 구성원 변화 DNA 일깨웠다...‘일상을 바꾸는 AI’",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40154",
+    "category": "민간"
   },
   {
     "title": "“수도권 이남 최대 로봇·AX창업 영토”…동대구벤처밸리, 국가 AX창업 혁신전략의 심장으로 대도약하다.",
@@ -57,17 +32,7 @@
   {
     "title": "NIA, KIDA와 특별세미나 개최…공공 AX·국방 AX 전략적 연계",
     "link": "https://www.etnews.com/20260522000310",
-    "category": "국방"
-  },
-  {
-    "title": "[박세용의 AI 인텐트] 〈1〉 AI 시대, 당신의 브랜드가 ＇소환＇되지 않는 진짜 이유",
-    "link": "https://www.etnews.com/20260522000307",
-    "category": "기타"
-  },
-  {
-    "title": "현대홈쇼핑, 스타트업 5곳과 기술 협업…AI 전환·신사업 발굴 속도",
-    "link": "https://www.etnews.com/20260522000245",
-    "category": "민간"
+    "category": "기관"
   },
   {
     "title": "인사혁신처, 공무원 교육훈련 보고서 AI 윤리 기준 세운다…＇생성형 AI 활용 지침＇ 첫 배포",
@@ -75,9 +40,9 @@
     "category": "기관"
   },
   {
-    "title": "경남도 “창원국가산단을 제조 AX 확산 실증 거점 산단으로”",
-    "link": "https://www.etnews.com/20260522000145",
-    "category": "기관"
+    "title": "[원에이AI 반도체 연구개발에 1000억대 뭉칫돈",
+    "link": "https://www.etnews.com/20260521000443",
+    "category": "민간"
   },
   {
     "title": "두나무, 업비트 스킬 출시…AI 에이전트로 API 사용 간소화",
@@ -85,18 +50,13 @@
     "category": "민간"
   },
   {
-    "title": "서울경제진흥원, 생성형 AI 기반 상담봇 ＇AI 사업알리미＇ 가동",
-    "link": "https://www.etnews.com/20260522000108",
-    "category": "기관"
+    "title": "최수혁 어드밴텍 부사장 “피지컬 AI 구현 ＇하이브리드 아키덱처＇ 필수”",
+    "link": "https://www.etnews.com/20260522000083",
+    "category": "민간"
   },
   {
-    "title": "IT서비스학회, ＇2026 통합 국제학술대회＇ 개최…K-AX 생태계 비전 논의",
-    "link": "https://www.etnews.com/20260522000055",
-    "category": "기타"
-  },
-  {
-    "title": "“MRI 한장으로 뇌종양 유전자까지 들여다본다” 포스텍·DGIST·세브란스병원, 뇌종양 변이 예측 AI 개발",
-    "link": "https://www.etnews.com/20260522000049",
+    "title": "＇학습＇ 넘어 ＇추론＇으로… 차세대 AI 반도체 아키텍처 기술 워크숍 ＇성료＇",
+    "link": "https://www.etnews.com/20260522000074",
     "category": "민간"
   },
   {
@@ -105,8 +65,13 @@
     "category": "해외"
   },
   {
-    "title": "코히어, H100 2장으로 구동하는 에이전트용 모델 ＇커맨드 A+＇ 오픈 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210841",
+    "title": "앤트로픽, 데이터센터 임대료로 스페이스X에 매달 1.9조 지불",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210783",
+    "category": "해외"
+  },
+  {
+    "title": "주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210854",
     "category": "해외"
   },
   {
@@ -120,13 +85,8 @@
     "category": "해외"
   },
   {
-    "title": "베어로보틱스, 협업형 AI 서빙로봇 ‘서비 큐’ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210855",
-    "category": "민간"
-  },
-  {
-    "title": "미국 정부, IBM 등 양자컴퓨팅 기업에 3조 투자 예정...〃보조금 넘어 지분까지〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210838",
+    "title": "트럼프, ＇AI 사전검증＇ 행정명령 전격 보류… 〃미국 우위에 방해〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210827",
     "category": "해외"
   },
   {
