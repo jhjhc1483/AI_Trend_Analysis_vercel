@@ -1,95 +1,97 @@
-📢26.05.22 AI 일일 동향📢
+📢26.05.23 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
+◾ 총 대신 알고리즘…국방부 ‘AI 브레인 병사’ 뽑는다
+https://www.aitimes.kr/news/articleView.html?idxno=40163
+
+◾ NIA, KIDA와 특별세미나 개최…공공 AX·국방 AX 전략적 연계
+https://www.etnews.com/20260522000310
+
 ◾ 현장서 로봇·AI 민간기술 확인…군 적용 추진한다
-https://kookbang.dema.mil.kr/newsWeb/20260522/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=c3hLtiFpNdTC4dWLvsd1dYymJMq3LIEWy9ZJthm9bZw0O5HL0vGT!917432377
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49110&startDate=&endDate=&id=mnd_020101000000
 
-◾ 국방정보통신협회, 육군협회·조지메이슨대와 ＇2026 국방 C5I & AI 융합 콘퍼런스＇ 개최
-https://www.etnews.com/20260521000439
-
-◾ [김동현의 AI 시대와 한국의 선택] 〈3〉방위산업분야 AI 기술적 발전과 국내외 현황
-https://www.etnews.com/20260521000068
-
-◾ AI·로봇 등 군 도입 민간 우수 상용품 미리 만나다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49078&startDate=&endDate=&id=mnd_020101000000
-
-◾ 국방부, 2026년 제3차 첨단국방 피치데이 개최
-https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112432&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
+◾ ‘AI 강군’ 등 국방 첨단 과학기술을 이끌  과학기술 분야 전문특기병 모집
+https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112502&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=
 
 [민간]
-◾ 스텔란티스-퀄컴, 차세대 SDV 협력 확대…“AI 기반 통합 차량 아키텍처 구축”
-https://www.aitimes.kr/news/articleView.html?idxno=40152
+◾ 딥 로보틱스, AI 기반 산업용 소형 휠-레그 로봇 ‘린크스 S10’ 공개…“경량 지능형 작업 새 기준 제시”
+https://www.aitimes.kr/news/articleView.html?idxno=40170
 
-◾ “피지컬 AI 시대 핵심은 하이브리드 엣지”…어드밴텍 최수혁 부사장, 산업 자율화 전략 제시
-https://www.aitimes.kr/news/articleView.html?idxno=40151
+◾ GC녹십자, 세계 최초 AI 기반 ‘혈우병 관절병증 예측 임상 의사결정 시스템’ 개발 추진
+https://www.aitimes.kr/news/articleView.html?idxno=40169
 
-◾ 화웨이코리아, 국내 파트너와 AI 인프라 생태계 협력 본격화, AI·스토리지·데이터센터 비전 공유
-https://www.aitimes.kr/news/articleView.html?idxno=40142
+◾ 한컴, LG ‘챗엑사원’에 AI 에이전트 공급…LG AI연구원과 전략적 파트너십
+https://www.aitimes.kr/news/articleView.html?idxno=40157
 
-◾ [人사이트] 박재형 KT 프론티어AI랩장 “믿:음 K, 실사용성으로 외산 AI와 차별화”
-https://www.etnews.com/20260521000262
+◾ 현대홈쇼핑, 스타트업 5곳과 기술 협업…AI 전환·신사업 발굴 속도
+https://www.etnews.com/20260522000245
 
-◾ HP, 업스테이지와 AI 에이전트 확대·생태계 구축 협력
-https://www.etnews.com/20260521000139
+◾ 두나무, 업비트 스킬 출시…AI 에이전트로 API 사용 간소화
+https://www.etnews.com/20260522000133
 
-◾ KT, 피지컬 AI 대응 본격화…실증 인프라 구축
-https://www.etnews.com/20260521000125
+◾ “MRI 한장으로 뇌종양 유전자까지 들여다본다” 포스텍·DGIST·세브란스병원, 뇌종양 변이 예측 AI 개발
+https://www.etnews.com/20260522000049
 
-◾ [카&테크] 포티투닷, 차량용 음성 AI ＇글레오 AI＇ 공개...맥락 이해해 차량 제어까지
-https://www.etnews.com/20260521000105
+◾ 베어로보틱스, 협업형 AI 서빙로봇 ‘서비 큐’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=210855
 
 [기관]
-◾ 식품연, AI 로봇 시스템 구현...자동화 불모지 ＇김부각＇ 정복
-https://www.etnews.com/20260521000460
+◾ 경사노위, AI 전환에 따른 노사상생 위원회 발족...〃AX에 따른 산업·노동 변화 대응〃
+https://www.aitimes.kr/news/articleView.html?idxno=40162
 
-◾ AI시대 ＇디지털 기본권＇ 보장 한 목소리…“사회참여 기본 인프라로 재정의 필요”
-https://www.etnews.com/20260521000433
+◾ 인공지능 시대 디지털 문해력 어떻게 키울까?...전국 장학사 한 자리에,  ‘AI 리터러시 교육 전략 협의회’ 개최
+https://www.aitimes.kr/news/articleView.html?idxno=40161
 
-◾ 李대통령, ＇AI 표시 의무 확대＇ 지시…“가짜 전문가·허위광고로 큰 피해”
-https://www.etnews.com/20260521000364
+◾ “수도권 이남 최대 로봇·AX창업 영토”…동대구벤처밸리, 국가 AX창업 혁신전략의 심장으로 대도약하다.
+https://www.etnews.com/20260522000063
 
-◾ 강릉시, 국토부 ＇AI 특화 시범도시＇ 도전…“AI로 도시문제 해결”
-https://www.etnews.com/20260521000082
+◾ 인사혁신처, 공무원 교육훈련 보고서 AI 윤리 기준 세운다…＇생성형 AI 활용 지침＇ 첫 배포
+https://www.etnews.com/20260521000475
 
-◾ 인공지능으로 전 인류의 난제를 해결”… ｢ㄱ구제 인공지능 거점(글로벌 AI 허브)｣ 미래상(비전) 선포
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187345&searchOpt=ALL&searchTxt=
+◾ 경남도 “창원국가산단을 제조 AX 확산 실증 거점 산단으로”
+https://www.etnews.com/20260522000145
 
-◾ ｢전 국민 인공지능 경진대회｣, ‘인공지능 챔피언’･‘인공지능 신인(루키)’ 성황리 개막, 총 1,124팀이 도전, 최고의 인공지능 기술개발 경쟁에 돌입
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187339&searchOpt=ALL&searchTxt=
+◾ 서울경제진흥원, 생성형 AI 기반 상담봇 ＇AI 사업알리미＇ 가동
+https://www.etnews.com/20260522000108
 
-◾ AI 산업 육성 강화를 위한 「AI기본법 시행령」 개정안 입법예고
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187340&searchOpt=ALL&searchTxt=
+◾ 식약처, ‘첨단AI 의료제품 레드팀 챌린지’ 9월 개최…의료 AI 검증 체계 고도화 추진
+https://www.aitimes.com/news/articleView.html?idxno=210839
 
 [해외]
-◾ 알리바바, 에이전틱 시대 위한 AI 풀스택 업그레이드...최신 모델 ＇큐웬3.7-Max＇, ＇AI 칩＇ 등 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40141
+◾ “중국에 뒤처질 수 없다”…美 트럼프, 인공지능 행정명령 전격 철회
+https://www.aitimes.kr/news/articleView.html?idxno=40167
 
-◾ “3000억개 파라미터 AI 로컬 구동”…AMD, 차세대 ‘에이전트 컴퓨터’ 플랫폼 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40139
+◾ EY·마이크로소프트, 1.5조원 규모 AI 동맹 강화…“실험 넘어 전사적 AI 전환 시대 연다”
+https://www.aitimes.kr/news/articleView.html?idxno=40166
 
-◾ 오픈AI, 추론 모델로 80년 된 기하학 난제 해결...〃수학계 검증 거쳐〃
-https://www.aitimes.com/news/articleView.html?idxno=210785
+◾ MS, 앤트로픽에 자체 AI칩 공급 논의…첫 외부 공급
+https://www.etnews.com/20260522000041
 
-◾ 백악관, 첨단 모델 ＇90일 사전심사＇ 추진...업계는 14일 단축 요청
-https://www.aitimes.com/news/articleView.html?idxno=210791
+◾ 코히어, H100 2장으로 구동하는 에이전트용 모델 ＇커맨드 A+＇ 오픈 출시
+https://www.aitimes.com/news/articleView.html?idxno=210841
 
-◾ 앤트로픽, 2분기 16조 매출에 ＇첫 흑자＇... 수익성으론 오픈AI 추월
-https://www.aitimes.com/news/articleView.html?idxno=210792
+◾ 미 국방부, 앤트로픽 공백 메우기 착수… 오픈AI·구글 모델 실전 테스트
+https://www.aitimes.com/news/articleView.html?idxno=210846
 
-◾ 엔비디아, 사업 다각화 강조...〃GPU 이어 ＇베라＇ CPU로 성장 기대〃
-https://www.aitimes.com/news/articleView.html?idxno=210796
+◾ 테슬라 FSD, 3년 만에 만리장성 넘었다...중국서 공식 출시
+https://www.aitimes.com/news/articleView.html?idxno=210843
 
-◾ 〃오픈AI, 22일 IPO 신청...9월 상장 예정〃
-https://www.aitimes.com/news/articleView.html?idxno=210779
+◾ 미국 정부, IBM 등 양자컴퓨팅 기업에 3조 투자 예정...〃보조금 넘어 지분까지〃
+https://www.aitimes.com/news/articleView.html?idxno=210838
 
 [기타]
-◾ [ET단상] 피지컬 AI시대 집의 역할 변화
-https://www.etnews.com/20260521000112
+◾ 한국AI교육협회 회장 문형남 숙대 교수, 미래 전략서 ‘AI와 청색기술’ 출간
+https://www.aitimes.kr/news/articleView.html?idxno=40171
 
-📚 간행물
-◾ 메모리산업, 주파수승인, 대만AI반도체 [AI·ICT Brief 2026-18호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260521-000010&cpage=1&rows=10&searchTarget=all
+◾ 피지컬 AI 시대의 핵심은 ‘로봇 손’이 아니라 ‘판단력’이다
+https://www.aitimes.kr/news/articleView.html?idxno=40155
+
+◾ [박세용의 AI 인텐트] 〈1〉 AI 시대, 당신의 브랜드가 ＇소환＇되지 않는 진짜 이유
+https://www.etnews.com/20260522000307
+
+◾ IT서비스학회, ＇2026 통합 국제학술대회＇ 개최…K-AX 생태계 비전 논의
+https://www.etnews.com/20260522000055
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
