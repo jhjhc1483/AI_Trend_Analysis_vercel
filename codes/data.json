@@ -7661,5 +7661,164 @@
         }
       ]
     }
+  },
+  "26.05.23": {
+    "categorized": {
+      "기타": [
+        {
+          "title": "한국AI교육협회 회장 문형남 숙대 교수, 미래 전략서 ‘AI와 청색기술’ 출간",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40171",
+          "category": "기타"
+        },
+        {
+          "title": "피지컬 AI 시대의 핵심은 ‘로봇 손’이 아니라 ‘판단력’이다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40155",
+          "category": "기타"
+        },
+        {
+          "title": "[박세용의 AI 인텐트] 〈1〉 AI 시대, 당신의 브랜드가 ＇소환＇되지 않는 진짜 이유",
+          "link": "https://www.etnews.com/20260522000307",
+          "category": "기타"
+        },
+        {
+          "title": "IT서비스학회, ＇2026 통합 국제학술대회＇ 개최…K-AX 생태계 비전 논의",
+          "link": "https://www.etnews.com/20260522000055",
+          "category": "기타"
+        }
+      ],
+      "민간": [
+        {
+          "title": "딥 로보틱스, AI 기반 산업용 소형 휠-레그 로봇 ‘린크스 S10’ 공개…“경량 지능형 작업 새 기준 제시”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40170",
+          "category": "민간"
+        },
+        {
+          "title": "GC녹십자, 세계 최초 AI 기반 ‘혈우병 관절병증 예측 임상 의사결정 시스템’ 개발 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40169",
+          "category": "민간"
+        },
+        {
+          "title": "한컴, LG ‘챗엑사원’에 AI 에이전트 공급…LG AI연구원과 전략적 파트너십",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40157",
+          "category": "민간"
+        },
+        {
+          "title": "현대홈쇼핑, 스타트업 5곳과 기술 협업…AI 전환·신사업 발굴 속도",
+          "link": "https://www.etnews.com/20260522000245",
+          "category": "민간"
+        },
+        {
+          "title": "두나무, 업비트 스킬 출시…AI 에이전트로 API 사용 간소화",
+          "link": "https://www.etnews.com/20260522000133",
+          "category": "민간"
+        },
+        {
+          "title": "“MRI 한장으로 뇌종양 유전자까지 들여다본다” 포스텍·DGIST·세브란스병원, 뇌종양 변이 예측 AI 개발",
+          "link": "https://www.etnews.com/20260522000049",
+          "category": "민간"
+        },
+        {
+          "title": "베어로보틱스, 협업형 AI 서빙로봇 ‘서비 큐’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210855",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "“중국에 뒤처질 수 없다”…美 트럼프, 인공지능 행정명령 전격 철회",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40167",
+          "category": "해외"
+        },
+        {
+          "title": "EY·마이크로소프트, 1.5조원 규모 AI 동맹 강화…“실험 넘어 전사적 AI 전환 시대 연다”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40166",
+          "category": "해외"
+        },
+        {
+          "title": "MS, 앤트로픽에 자체 AI칩 공급 논의…첫 외부 공급",
+          "link": "https://www.etnews.com/20260522000041",
+          "category": "해외"
+        },
+        {
+          "title": "코히어, H100 2장으로 구동하는 에이전트용 모델 ＇커맨드 A+＇ 오픈 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210841",
+          "category": "해외"
+        },
+        {
+          "title": "미 국방부, 앤트로픽 공백 메우기 착수… 오픈AI·구글 모델 실전 테스트",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210846",
+          "category": "해외"
+        },
+        {
+          "title": "테슬라 FSD, 3년 만에 만리장성 넘었다...중국서 공식 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210843",
+          "category": "해외"
+        },
+        {
+          "title": "미국 정부, IBM 등 양자컴퓨팅 기업에 3조 투자 예정...〃보조금 넘어 지분까지〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210838",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "총 대신 알고리즘…국방부 ‘AI 브레인 병사’ 뽑는다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40163",
+          "category": "국방"
+        },
+        {
+          "title": "NIA, KIDA와 특별세미나 개최…공공 AX·국방 AX 전략적 연계",
+          "link": "https://www.etnews.com/20260522000310",
+          "category": "국방"
+        },
+        {
+          "title": "현장서 로봇·AI 민간기술 확인…군 적용 추진한다",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49110&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
+          "title": "‘AI 강군’ 등 국방 첨단 과학기술을 이끌  과학기술 분야 전문특기병 모집",
+          "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112502&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
+          "category": "국방"
+        }
+      ],
+      "기관": [
+        {
+          "title": "경사노위, AI 전환에 따른 노사상생 위원회 발족...〃AX에 따른 산업·노동 변화 대응〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40162",
+          "category": "기관"
+        },
+        {
+          "title": "인공지능 시대 디지털 문해력 어떻게 키울까?...전국 장학사 한 자리에,  ‘AI 리터러시 교육 전략 협의회’ 개최",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40161",
+          "category": "기관"
+        },
+        {
+          "title": "“수도권 이남 최대 로봇·AX창업 영토”…동대구벤처밸리, 국가 AX창업 혁신전략의 심장으로 대도약하다.",
+          "link": "https://www.etnews.com/20260522000063",
+          "category": "기관"
+        },
+        {
+          "title": "인사혁신처, 공무원 교육훈련 보고서 AI 윤리 기준 세운다…＇생성형 AI 활용 지침＇ 첫 배포",
+          "link": "https://www.etnews.com/20260521000475",
+          "category": "기관"
+        },
+        {
+          "title": "경남도 “창원국가산단을 제조 AX 확산 실증 거점 산단으로”",
+          "link": "https://www.etnews.com/20260522000145",
+          "category": "기관"
+        },
+        {
+          "title": "서울경제진흥원, 생성형 AI 기반 상담봇 ＇AI 사업알리미＇ 가동",
+          "link": "https://www.etnews.com/20260522000108",
+          "category": "기관"
+        },
+        {
+          "title": "식약처, ‘첨단AI 의료제품 레드팀 챌린지’ 9월 개최…의료 AI 검증 체계 고도화 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210839",
+          "category": "기관"
+        }
+      ]
+    }
   }
 }
