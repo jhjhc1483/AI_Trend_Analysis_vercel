@@ -1,73 +1,23 @@
 [
   {
-    "title": "딥 로보틱스, AI 기반 산업용 소형 휠-레그 로봇 ‘린크스 S10’ 공개…“경량 지능형 작업 새 기준 제시”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40170",
+    "title": "미스트랄, ‘피지컬 AI’ 스타트업 ＇엠미 AI＇ 인수…“AI 엔지니어 시대 연다”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40174",
     "category": "해외"
   },
   {
-    "title": "총 대신 알고리즘…국방부 ‘AI 브레인 병사’ 뽑는다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40163",
-    "category": "국방"
-  },
-  {
-    "title": "경사노위, AI 전환에 따른 노사상생 위원회 발족...〃AX에 따른 산업·노동 변화 대응〃",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40162",
-    "category": "기관"
-  },
-  {
-    "title": "한컴, LG ‘챗엑사원’에 AI 에이전트 공급…LG AI연구원과 전략적 파트너십",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40157",
-    "category": "민간"
-  },
-  {
-    "title": "SKT, 사내 해커톤 ‘AX 챌린지’로 구성원 변화 DNA 일깨웠다...‘일상을 바꾸는 AI’",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40154",
-    "category": "민간"
-  },
-  {
-    "title": "“수도권 이남 최대 로봇·AX창업 영토”…동대구벤처밸리, 국가 AX창업 혁신전략의 심장으로 대도약하다.",
-    "link": "https://www.etnews.com/20260522000063",
-    "category": "기관"
-  },
-  {
-    "title": "NIA, KIDA와 특별세미나 개최…공공 AX·국방 AX 전략적 연계",
-    "link": "https://www.etnews.com/20260522000310",
-    "category": "기관"
-  },
-  {
-    "title": "인사혁신처, 공무원 교육훈련 보고서 AI 윤리 기준 세운다…＇생성형 AI 활용 지침＇ 첫 배포",
-    "link": "https://www.etnews.com/20260521000475",
-    "category": "기관"
-  },
-  {
-    "title": "[원에이AI 반도체 연구개발에 1000억대 뭉칫돈",
-    "link": "https://www.etnews.com/20260521000443",
-    "category": "민간"
-  },
-  {
-    "title": "두나무, 업비트 스킬 출시…AI 에이전트로 API 사용 간소화",
-    "link": "https://www.etnews.com/20260522000133",
-    "category": "민간"
-  },
-  {
-    "title": "최수혁 어드밴텍 부사장 “피지컬 AI 구현 ＇하이브리드 아키덱처＇ 필수”",
-    "link": "https://www.etnews.com/20260522000083",
-    "category": "민간"
-  },
-  {
-    "title": "＇학습＇ 넘어 ＇추론＇으로… 차세대 AI 반도체 아키텍처 기술 워크숍 ＇성료＇",
-    "link": "https://www.etnews.com/20260522000074",
-    "category": "민간"
-  },
-  {
-    "title": "MS, 앤트로픽에 자체 AI칩 공급 논의…첫 외부 공급",
-    "link": "https://www.etnews.com/20260522000041",
+    "title": "미국·스웨덴, 인공지능과 양자·6G·우주까지 손잡았다…‘기술 번영 협정’ 체결",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40173",
     "category": "해외"
   },
   {
-    "title": "앤트로픽, 데이터센터 임대료로 스페이스X에 매달 1.9조 지불",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210783",
-    "category": "해외"
+    "title": "네카오, ＇챗GPT+클로드＇ 멀티 AI 전략…업무 생산성 향상 ＇집중 투자＇",
+    "link": "https://www.etnews.com/20260522000251",
+    "category": "민간"
+  },
+  {
+    "title": "한국정보통신학회, ＇2026 제1회 AX신뢰연구회 워크숍＇ 성료",
+    "link": "https://www.etnews.com/20260523000008",
+    "category": "기관"
   },
   {
     "title": "주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위",
@@ -75,33 +25,23 @@
     "category": "해외"
   },
   {
-    "title": "미 국방부, 앤트로픽 공백 메우기 착수… 오픈AI·구글 모델 실전 테스트",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210846",
+    "title": "오픈AI, ＇코덱스＇ 업데이트로 맥락 파악·자율성 강화...〃맥북 닫아도 작동〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210864",
     "category": "해외"
   },
   {
-    "title": "테슬라 FSD, 3년 만에 만리장성 넘었다...중국서 공식 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210843",
+    "title": "앤트로픽, FDE 담당할 스타트업 인수로 기업용 AI 시장 공략",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210860",
     "category": "해외"
   },
   {
-    "title": "트럼프, ＇AI 사전검증＇ 행정명령 전격 보류… 〃미국 우위에 방해〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210827",
+    "title": "[5월22일] SF 소설 같은 스페이스X IPO 서류…로켓 넘어 ‘우주 AI 플랫폼’ 선언",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210840",
     "category": "해외"
   },
   {
-    "title": "식약처, ‘첨단AI 의료제품 레드팀 챌린지’ 9월 개최…의료 AI 검증 체계 고도화 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210839",
-    "category": "기관"
-  },
-  {
-    "title": "현장서 로봇·AI 민간기술 확인…군 적용 추진한다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49110&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "‘AI 강군’ 등 국방 첨단 과학기술을 이끌  과학기술 분야 전문특기병 모집",
-    "link": "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_112502&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq=",
-    "category": "국방"
+    "title": "무려 2800억장… 구글이 스트리트뷰 이용해 만든 AI 기술",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210858",
+    "category": "해외"
   }
 ]
