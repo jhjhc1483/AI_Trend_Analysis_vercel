@@ -16,20 +16,20 @@ https://www.aitimes.kr/news/articleView.html?idxno=40174
 ◾ 미국·스웨덴, 인공지능과 양자·6G·우주까지 손잡았다…‘기술 번영 협정’ 체결
 https://www.aitimes.kr/news/articleView.html?idxno=40173
 
-◾ 주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위
-https://www.aitimes.com/news/articleView.html?idxno=210854
-
 ◾ 오픈AI, ＇코덱스＇ 업데이트로 맥락 파악·자율성 강화...〃맥북 닫아도 작동〃
 https://www.aitimes.com/news/articleView.html?idxno=210864
+
+◾ 엔비디아 차세대 AI 서버 한대에 ＇118억＇... 메모리 값만 30억 육박
+https://www.aitimes.com/news/articleView.html?idxno=210866
 
 ◾ 앤트로픽, FDE 담당할 스타트업 인수로 기업용 AI 시장 공략
 https://www.aitimes.com/news/articleView.html?idxno=210860
 
+◾ EU, ‘미소스’ 공유 압박에도 진전 없어…〃미국의 보안 기술 독점에 우려〃
+https://www.aitimes.com/news/articleView.html?idxno=210859
+
 ◾ [5월22일] SF 소설 같은 스페이스X IPO 서류…로켓 넘어 ‘우주 AI 플랫폼’ 선언
 https://www.aitimes.com/news/articleView.html?idxno=210840
-
-◾ 무려 2800억장… 구글이 스트리트뷰 이용해 만든 AI 기술
-https://www.aitimes.com/news/articleView.html?idxno=210858
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
