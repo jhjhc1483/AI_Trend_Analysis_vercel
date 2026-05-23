@@ -7778,5 +7778,60 @@
         }
       ]
     }
+  },
+  "26.05.24": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "미스트랄, ‘피지컬 AI’ 스타트업 ＇엠미 AI＇ 인수…“AI 엔지니어 시대 연다”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40174",
+          "category": "해외"
+        },
+        {
+          "title": "미국·스웨덴, 인공지능과 양자·6G·우주까지 손잡았다…‘기술 번영 협정’ 체결",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40173",
+          "category": "해외"
+        },
+        {
+          "title": "주요 AI 기업, 전 세계 컴퓨팅 절반 장악...구글이 25%로 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210854",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, ＇코덱스＇ 업데이트로 맥락 파악·자율성 강화...〃맥북 닫아도 작동〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210864",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, FDE 담당할 스타트업 인수로 기업용 AI 시장 공략",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210860",
+          "category": "해외"
+        },
+        {
+          "title": "[5월22일] SF 소설 같은 스페이스X IPO 서류…로켓 넘어 ‘우주 AI 플랫폼’ 선언",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210840",
+          "category": "해외"
+        },
+        {
+          "title": "무려 2800억장… 구글이 스트리트뷰 이용해 만든 AI 기술",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210858",
+          "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "네카오, ＇챗GPT+클로드＇ 멀티 AI 전략…업무 생산성 향상 ＇집중 투자＇",
+          "link": "https://www.etnews.com/20260522000251",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "한국정보통신학회, ＇2026 제1회 AX신뢰연구회 워크숍＇ 성료",
+          "link": "https://www.etnews.com/20260523000008",
+          "category": "기관"
+        }
+      ]
+    }
   }
 }
