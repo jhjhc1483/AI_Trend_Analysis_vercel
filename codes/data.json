@@ -7833,5 +7833,87 @@
         }
       ]
     }
+  },
+  "26.05.25": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "서울투자진흥재단, 글로벌 산업 AI 선도기업 ‘코그나이트’ 품는다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40177",
+          "category": "기관"
+        },
+        {
+          "title": "“의사 만나기 전 AI와 먼저 대화”...KAIST-강남세브란스 , 정신과 초진 면담 지원 기술 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40172",
+          "category": "기관"
+        },
+        {
+          "title": "금융 망분리 규제 푼다…AI 보안체계 구축 속도",
+          "link": "https://www.etnews.com/20260522000097",
+          "category": "기관"
+        },
+        {
+          "title": "배경훈 부총리 “AI 시대, 이익 공유가 핵심 과제 될 것”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210878",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "“외로움 채우는 AI 반려 로봇 시대 연다”...올로봇, 기계 아닌 감정 연결 지향",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40175",
+          "category": "민간"
+        },
+        {
+          "title": "마인드트리, 판교 창업존 입주…AI 기반 EAP 서비스 확대 본격화",
+          "link": "https://www.etnews.com/20260524000054",
+          "category": "민간"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[미리보는 데이터센터 서밋]〈1〉 고밀도 AI 워크로드 시대, 데이터센터 해법은…＇2026 데이터센터 서밋＇ 개최",
+          "link": "https://www.etnews.com/20260522000287",
+          "category": "기타"
+        }
+      ],
+      "해외": [
+        {
+          "title": "허사비스 〃진정한 AGI는 ＇아인슈타인 테스트＇ 통과해야〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210883",
+          "category": "해외"
+        },
+        {
+          "title": "딥시크, ＇V4-프로＇ 가격 75% 인하 영구화...〃중국 AI 가격 경쟁 가속〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210880",
+          "category": "해외"
+        },
+        {
+          "title": "MS, 차세대 브라우저 에이전트 ‘파라1.5’ 공개…〃오픈AI·구글 성능 추월〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210879",
+          "category": "해외"
+        },
+        {
+          "title": "＇소라＇로 제작하던 AI 영화, 칸 상영 불발...〃하지만 AI 도입은 거부 못할 현실〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210876",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 검색 독점 판결에 항소…“앞선 기술로 얻은 결과일 뿐”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210875",
+          "category": "해외"
+        },
+        {
+          "title": "웨이모, ＇침수 도로＇ 인식 오류로 6개 도시 로보택시 서비스 중단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210874",
+          "category": "해외"
+        },
+        {
+          "title": "구글 ＇AI 개요＇ 또 논란...동사 검색어를 명령어로 오인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210873",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }

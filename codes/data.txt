@@ -1,35 +1,51 @@
-📢26.05.24 AI 일일 동향📢
+📢26.05.25 AI 일일 동향📢
 
 📰 오늘의 기사
 [민간]
-◾ 네카오, ＇챗GPT+클로드＇ 멀티 AI 전략…업무 생산성 향상 ＇집중 투자＇
-https://www.etnews.com/20260522000251
+◾ “외로움 채우는 AI 반려 로봇 시대 연다”...올로봇, 기계 아닌 감정 연결 지향
+https://www.aitimes.kr/news/articleView.html?idxno=40175
+
+◾ 마인드트리, 판교 창업존 입주…AI 기반 EAP 서비스 확대 본격화
+https://www.etnews.com/20260524000054
 
 [기관]
-◾ 한국정보통신학회, ＇2026 제1회 AX신뢰연구회 워크숍＇ 성료
-https://www.etnews.com/20260523000008
+◾ 서울투자진흥재단, 글로벌 산업 AI 선도기업 ‘코그나이트’ 품는다
+https://www.aitimes.kr/news/articleView.html?idxno=40177
+
+◾ “의사 만나기 전 AI와 먼저 대화”...KAIST-강남세브란스 , 정신과 초진 면담 지원 기술 개발
+https://www.aitimes.kr/news/articleView.html?idxno=40172
+
+◾ 금융 망분리 규제 푼다…AI 보안체계 구축 속도
+https://www.etnews.com/20260522000097
+
+◾ 배경훈 부총리 “AI 시대, 이익 공유가 핵심 과제 될 것”
+https://www.aitimes.com/news/articleView.html?idxno=210878
 
 [해외]
-◾ 미스트랄, ‘피지컬 AI’ 스타트업 ＇엠미 AI＇ 인수…“AI 엔지니어 시대 연다”
-https://www.aitimes.kr/news/articleView.html?idxno=40174
+◾ 허사비스 〃진정한 AGI는 ＇아인슈타인 테스트＇ 통과해야〃
+https://www.aitimes.com/news/articleView.html?idxno=210883
 
-◾ 미국·스웨덴, 인공지능과 양자·6G·우주까지 손잡았다…‘기술 번영 협정’ 체결
-https://www.aitimes.kr/news/articleView.html?idxno=40173
+◾ 딥시크, ＇V4-프로＇ 가격 75% 인하 영구화...〃중국 AI 가격 경쟁 가속〃
+https://www.aitimes.com/news/articleView.html?idxno=210880
 
-◾ 오픈AI, ＇코덱스＇ 업데이트로 맥락 파악·자율성 강화...〃맥북 닫아도 작동〃
-https://www.aitimes.com/news/articleView.html?idxno=210864
+◾ MS, 차세대 브라우저 에이전트 ‘파라1.5’ 공개…〃오픈AI·구글 성능 추월〃
+https://www.aitimes.com/news/articleView.html?idxno=210879
 
-◾ 엔비디아 차세대 AI 서버 한대에 ＇118억＇... 메모리 값만 30억 육박
-https://www.aitimes.com/news/articleView.html?idxno=210866
+◾ ＇소라＇로 제작하던 AI 영화, 칸 상영 불발...〃하지만 AI 도입은 거부 못할 현실〃
+https://www.aitimes.com/news/articleView.html?idxno=210876
 
-◾ 앤트로픽, FDE 담당할 스타트업 인수로 기업용 AI 시장 공략
-https://www.aitimes.com/news/articleView.html?idxno=210860
+◾ 구글, 검색 독점 판결에 항소…“앞선 기술로 얻은 결과일 뿐”
+https://www.aitimes.com/news/articleView.html?idxno=210875
 
-◾ EU, ‘미소스’ 공유 압박에도 진전 없어…〃미국의 보안 기술 독점에 우려〃
-https://www.aitimes.com/news/articleView.html?idxno=210859
+◾ 웨이모, ＇침수 도로＇ 인식 오류로 6개 도시 로보택시 서비스 중단
+https://www.aitimes.com/news/articleView.html?idxno=210874
 
-◾ [5월22일] SF 소설 같은 스페이스X IPO 서류…로켓 넘어 ‘우주 AI 플랫폼’ 선언
-https://www.aitimes.com/news/articleView.html?idxno=210840
+◾ 구글 ＇AI 개요＇ 또 논란...동사 검색어를 명령어로 오인
+https://www.aitimes.com/news/articleView.html?idxno=210873
+
+[기타]
+◾ [미리보는 데이터센터 서밋]〈1〉 고밀도 AI 워크로드 시대, 데이터센터 해법은…＇2026 데이터센터 서밋＇ 개최
+https://www.etnews.com/20260522000287
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
