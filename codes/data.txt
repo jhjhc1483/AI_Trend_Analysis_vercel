@@ -5,8 +5,14 @@
 ◾ “외로움 채우는 AI 반려 로봇 시대 연다”...올로봇, 기계 아닌 감정 연결 지향
 https://www.aitimes.kr/news/articleView.html?idxno=40175
 
+◾ [미리보는 데이터센터 서밋]〈1〉 고밀도 AI 워크로드 시대, 데이터센터 해법은…＇2026 데이터센터 서밋＇ 개최
+https://www.etnews.com/20260522000287
+
 ◾ 마인드트리, 판교 창업존 입주…AI 기반 EAP 서비스 확대 본격화
 https://www.etnews.com/20260524000054
+
+◾ 배경훈 부총리 “AI 시대, 이익 공유가 핵심 과제 될 것”
+https://www.aitimes.com/news/articleView.html?idxno=210878
 
 [기관]
 ◾ 서울투자진흥재단, 글로벌 산업 AI 선도기업 ‘코그나이트’ 품는다
@@ -17,9 +23,6 @@ https://www.aitimes.kr/news/articleView.html?idxno=40172
 
 ◾ 금융 망분리 규제 푼다…AI 보안체계 구축 속도
 https://www.etnews.com/20260522000097
-
-◾ 배경훈 부총리 “AI 시대, 이익 공유가 핵심 과제 될 것”
-https://www.aitimes.com/news/articleView.html?idxno=210878
 
 [해외]
 ◾ 허사비스 〃진정한 AGI는 ＇아인슈타인 테스트＇ 통과해야〃
@@ -42,10 +45,6 @@ https://www.aitimes.com/news/articleView.html?idxno=210874
 
 ◾ 구글 ＇AI 개요＇ 또 논란...동사 검색어를 명령어로 오인
 https://www.aitimes.com/news/articleView.html?idxno=210873
-
-[기타]
-◾ [미리보는 데이터센터 서밋]〈1〉 고밀도 AI 워크로드 시대, 데이터센터 해법은…＇2026 데이터센터 서밋＇ 개최
-https://www.etnews.com/20260522000287
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
