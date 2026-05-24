@@ -7851,11 +7851,6 @@
           "title": "금융 망분리 규제 푼다…AI 보안체계 구축 속도",
           "link": "https://www.etnews.com/20260522000097",
           "category": "기관"
-        },
-        {
-          "title": "배경훈 부총리 “AI 시대, 이익 공유가 핵심 과제 될 것”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210878",
-          "category": "기관"
         }
       ],
       "민간": [
@@ -7865,16 +7860,19 @@
           "category": "민간"
         },
         {
+          "title": "[미리보는 데이터센터 서밋]〈1〉 고밀도 AI 워크로드 시대, 데이터센터 해법은…＇2026 데이터센터 서밋＇ 개최",
+          "link": "https://www.etnews.com/20260522000287",
+          "category": "민간"
+        },
+        {
           "title": "마인드트리, 판교 창업존 입주…AI 기반 EAP 서비스 확대 본격화",
           "link": "https://www.etnews.com/20260524000054",
           "category": "민간"
-        }
-      ],
-      "기타": [
+        },
         {
-          "title": "[미리보는 데이터센터 서밋]〈1〉 고밀도 AI 워크로드 시대, 데이터센터 해법은…＇2026 데이터센터 서밋＇ 개최",
-          "link": "https://www.etnews.com/20260522000287",
-          "category": "기타"
+          "title": "배경훈 부총리 “AI 시대, 이익 공유가 핵심 과제 될 것”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210878",
+          "category": "민간"
         }
       ],
       "해외": [
