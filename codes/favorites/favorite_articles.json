@@ -5,49 +5,9 @@
     "category": "국방"
   },
   {
-    "title": "[AI 리뷰] 화웨이, 그리드 연동형 AIDC 전략 공개...“전기가 곧 AI 경쟁력”, 전력·냉각·운영·건설 전면 재설계 선언",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40178",
-    "category": "해외"
-  },
-  {
-    "title": "“AI가 찾는 취약점, 인간이 못 막는다”… 앤트로픽, 미토스 충격과 ‘프로젝트 글래스윙’ 첫 성과 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40187",
-    "category": "해외"
-  },
-  {
-    "title": "에이수스, 하이브리드 에이전틱 AI 인프라 공개…추론 비용 최대 70% 절감",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40186",
-    "category": "해외"
-  },
-  {
-    "title": "영국·호주, “AI 보안 위험 공동 대응”… AI 안전 연구 협력 강화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40182",
-    "category": "해외"
-  },
-  {
-    "title": "대·중소기업 협력 기반 기술사업화 R&D 지원…총 100억원 규모, 105개 과제 선정·과제당 최대 6억 지원",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40181",
+    "title": "AI 인과추론 스타트업 ＇자블리＇,TIPS 선정 행정 자동화 플랫폼으로 글로벌 시장 공략",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40180",
     "category": "기관"
-  },
-  {
-    "title": "삼성전자, 세계 최초 ＇900단 V낸드＇ 구현…1000단 시대 초읽기",
-    "link": "https://www.etnews.com/20260522000306",
-    "category": "민간"
-  },
-  {
-    "title": "[ET단상] 마법사의 제자와 AI 교육",
-    "link": "https://www.etnews.com/20260525000043",
-    "category": "기타"
-  },
-  {
-    "title": "현대차그룹, 기아 PBV 자율주행 로보택시 개발 착수",
-    "link": "https://www.etnews.com/20260522000308",
-    "category": "민간"
-  },
-  {
-    "title": "아드반테스트, AI 시대 반도체 개발 혁신 가속… ＇Velocity™＇ 통합 솔루션 공개",
-    "link": "https://www.etnews.com/20260522000294",
-    "category": "민간"
   },
   {
     "title": "심평원 “AI·클라우드 동시 드라이브”…전략적 평가기관 전환 총력",
@@ -60,28 +20,18 @@
     "category": "기관"
   },
   {
-    "title": "[포토] ＇스마트폰 대신 안경?＇…이제 AI 안경 시대",
-    "link": "https://www.etnews.com/20260525000090",
-    "category": "민간"
-  },
-  {
     "title": "서울시, 공공 정보화사업 21단계 절차 AI로 쉽게 안내",
     "link": "https://www.etnews.com/20260525000069",
     "category": "기관"
   },
   {
-    "title": "하이퍼이지, 기업 AI OS ＇Company OS＇ 공개…대기업 DX 현장 노하우 집약",
-    "link": "https://www.etnews.com/20260522000246",
-    "category": "민간"
+    "title": "산기원, 글로벌 석학 손잡고 ＇M.AX＇ 가속",
+    "link": "https://www.etnews.com/20260525000063",
+    "category": "기관"
   },
   {
     "title": "공공SW 발주 AI 에이전트가 지원…조달청, 공공조달 AX 본격화",
     "link": "https://www.etnews.com/20260522000281",
-    "category": "기관"
-  },
-  {
-    "title": "수학자 64명이 직접 만든 ＇연구급 수학＇ AI 벤치마크 공개",
-    "link": "https://www.etnews.com/20260522000284",
     "category": "기관"
   },
   {
@@ -90,8 +40,33 @@
     "category": "기관"
   },
   {
+    "title": "현대차그룹, 기아 PBV 자율주행 로보택시 개발 착수",
+    "link": "https://www.etnews.com/20260522000308",
+    "category": "민간"
+  },
+  {
+    "title": "[포토] ＇메타 AI 글라스＇ 국내 출시",
+    "link": "https://www.etnews.com/20260525000092",
+    "category": "민간"
+  },
+  {
+    "title": "대한항공, 국내 최초 2만4000여명 규모 ＇구글 워크스페이스 데이터 클리닝＇ 체계 구축",
+    "link": "https://www.etnews.com/20260522000288",
+    "category": "민간"
+  },
+  {
+    "title": "하이퍼이지, 기업 AI OS ＇Company OS＇ 공개…대기업 DX 현장 노하우 집약",
+    "link": "https://www.etnews.com/20260522000246",
+    "category": "민간"
+  },
+  {
     "title": "“아틀라스 도입” 현대차그룹, SW 공장·로봇 부품 조직 신설",
     "link": "https://www.etnews.com/20260525000044",
+    "category": "민간"
+  },
+  {
+    "title": "아이서티-네오트랜스, 신분당선 전주기 영상보안·지능형 AI 실증사업 추진",
+    "link": "https://www.etnews.com/20260522000095",
     "category": "민간"
   },
   {
@@ -100,9 +75,24 @@
     "category": "민간"
   },
   {
-    "title": "“만들긴 쉬운데 관리는 어려워”...기업 위협하는 ‘에이전트 스프롤’",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210892",
-    "category": "기타"
+    "title": "[AI 리뷰] 화웨이, 그리드 연동형 AIDC 전략 공개...“전기가 곧 AI 경쟁력”, 전력·냉각·운영·건설 전면 재설계 선언",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40178",
+    "category": "해외"
+  },
+  {
+    "title": "“AI가 찾는 취약점, 인간이 못 막는다”… 앤트로픽, 미토스 충격과 ‘프로젝트 글래스윙’ 첫 성과 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40187",
+    "category": "해외"
+  },
+  {
+    "title": "영국·호주, “AI 보안 위험 공동 대응”… AI 안전 연구 협력 강화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40182",
+    "category": "해외"
+  },
+  {
+    "title": "아드반테스트, AI 시대 반도체 개발 혁신 가속… ＇Velocity™＇ 통합 솔루션 공개",
+    "link": "https://www.etnews.com/20260522000294",
+    "category": "해외"
   },
   {
     "title": "오픈AI·앤트로픽, 해외 거점 확장…싱가포르·밀라노에 신규 기지 마련",
@@ -110,13 +100,13 @@
     "category": "해외"
   },
   {
-    "title": "〃집안일은 어렵지만 길 안내는 척척〃…UB테크, ＇반구조화 공간＇ 노린 휴머노이드 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210887",
+    "title": "〃코딩은 29배, 추론은 7배〃…세레브라스, ＇키미＇ 서비스로 GPU 압도",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210890",
     "category": "해외"
   },
   {
-    "title": "〃코딩은 29배, 추론은 7배〃…세레브라스, ＇키미＇ 서비스로 GPU 압도",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=210890",
+    "title": "＇AI 전용 장치＇ 개발 중인 하크, 1조 규모 시리즈A 투자 유치",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=210891",
     "category": "해외"
   }
 ]
