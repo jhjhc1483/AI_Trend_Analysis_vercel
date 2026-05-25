@@ -1,50 +1,86 @@
-📢26.05.25 AI 일일 동향📢
+📢26.05.26 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 국가 AI 경쟁력 위한 ‘공공·국방 AX 전략적 연계’ 모색
+https://kookbang.dema.mil.kr/newsWeb/20260526/3/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=vBpgNyPhE4HNNVlWhR1sJrxldGoSJ5LIy28O3zV2M6tw0Hd1CZm6!917432377
+
 [민간]
-◾ “외로움 채우는 AI 반려 로봇 시대 연다”...올로봇, 기계 아닌 감정 연결 지향
-https://www.aitimes.kr/news/articleView.html?idxno=40175
+◾ 삼성전자, 세계 최초 ＇900단 V낸드＇ 구현…1000단 시대 초읽기
+https://www.etnews.com/20260522000306
 
-◾ [미리보는 데이터센터 서밋]〈1〉 고밀도 AI 워크로드 시대, 데이터센터 해법은…＇2026 데이터센터 서밋＇ 개최
-https://www.etnews.com/20260522000287
+◾ 현대차그룹, 기아 PBV 자율주행 로보택시 개발 착수
+https://www.etnews.com/20260522000308
 
-◾ 마인드트리, 판교 창업존 입주…AI 기반 EAP 서비스 확대 본격화
-https://www.etnews.com/20260524000054
+◾ 아드반테스트, AI 시대 반도체 개발 혁신 가속… ＇Velocity™＇ 통합 솔루션 공개
+https://www.etnews.com/20260522000294
 
-◾ 배경훈 부총리 “AI 시대, 이익 공유가 핵심 과제 될 것”
-https://www.aitimes.com/news/articleView.html?idxno=210878
+◾ [포토] ＇스마트폰 대신 안경?＇…이제 AI 안경 시대
+https://www.etnews.com/20260525000090
+
+◾ 하이퍼이지, 기업 AI OS ＇Company OS＇ 공개…대기업 DX 현장 노하우 집약
+https://www.etnews.com/20260522000246
+
+◾ “아틀라스 도입” 현대차그룹, SW 공장·로봇 부품 조직 신설
+https://www.etnews.com/20260525000044
+
+◾ 에이아이매틱스 〃차량 52만대 검증 온디바이스AI, 산업 표준 될 것〃
+https://www.aitimes.com/news/articleView.html?idxno=210894
 
 [기관]
-◾ 서울투자진흥재단, 글로벌 산업 AI 선도기업 ‘코그나이트’ 품는다
-https://www.aitimes.kr/news/articleView.html?idxno=40177
+◾ 대·중소기업 협력 기반 기술사업화 R&D 지원…총 100억원 규모, 105개 과제 선정·과제당 최대 6억 지원
+https://www.aitimes.kr/news/articleView.html?idxno=40181
 
-◾ “의사 만나기 전 AI와 먼저 대화”...KAIST-강남세브란스 , 정신과 초진 면담 지원 기술 개발
-https://www.aitimes.kr/news/articleView.html?idxno=40172
+◾ 심평원 “AI·클라우드 동시 드라이브”…전략적 평가기관 전환 총력
+https://www.etnews.com/20260522000181
 
-◾ 금융 망분리 규제 푼다…AI 보안체계 구축 속도
-https://www.etnews.com/20260522000097
+◾ 정부, 글로벌 AI 허브 내년 가동 추진…개도국 물관리·교통체계 혁신
+https://www.etnews.com/20260525000016
+
+◾ 서울시, 공공 정보화사업 21단계 절차 AI로 쉽게 안내
+https://www.etnews.com/20260525000069
+
+◾ 공공SW 발주 AI 에이전트가 지원…조달청, 공공조달 AX 본격화
+https://www.etnews.com/20260522000281
+
+◾ 수학자 64명이 직접 만든 ＇연구급 수학＇ AI 벤치마크 공개
+https://www.etnews.com/20260522000284
+
+◾ KAIST, ＇정신과 초진＇ 지원 기술 구현...AI로 의료진 업무 부담 경감
+https://www.etnews.com/20260522000178
 
 [해외]
-◾ 허사비스 〃진정한 AGI는 ＇아인슈타인 테스트＇ 통과해야〃
-https://www.aitimes.com/news/articleView.html?idxno=210883
+◾ [AI 리뷰] 화웨이, 그리드 연동형 AIDC 전략 공개...“전기가 곧 AI 경쟁력”, 전력·냉각·운영·건설 전면 재설계 선언
+https://www.aitimes.kr/news/articleView.html?idxno=40178
 
-◾ 딥시크, ＇V4-프로＇ 가격 75% 인하 영구화...〃중국 AI 가격 경쟁 가속〃
-https://www.aitimes.com/news/articleView.html?idxno=210880
+◾ “AI가 찾는 취약점, 인간이 못 막는다”… 앤트로픽, 미토스 충격과 ‘프로젝트 글래스윙’ 첫 성과 공개
+https://www.aitimes.kr/news/articleView.html?idxno=40187
 
-◾ MS, 차세대 브라우저 에이전트 ‘파라1.5’ 공개…〃오픈AI·구글 성능 추월〃
-https://www.aitimes.com/news/articleView.html?idxno=210879
+◾ 에이수스, 하이브리드 에이전틱 AI 인프라 공개…추론 비용 최대 70% 절감
+https://www.aitimes.kr/news/articleView.html?idxno=40186
 
-◾ ＇소라＇로 제작하던 AI 영화, 칸 상영 불발...〃하지만 AI 도입은 거부 못할 현실〃
-https://www.aitimes.com/news/articleView.html?idxno=210876
+◾ 영국·호주, “AI 보안 위험 공동 대응”… AI 안전 연구 협력 강화
+https://www.aitimes.kr/news/articleView.html?idxno=40182
 
-◾ 구글, 검색 독점 판결에 항소…“앞선 기술로 얻은 결과일 뿐”
-https://www.aitimes.com/news/articleView.html?idxno=210875
+◾ 오픈AI·앤트로픽, 해외 거점 확장…싱가포르·밀라노에 신규 기지 마련
+https://www.aitimes.com/news/articleView.html?idxno=210895
 
-◾ 웨이모, ＇침수 도로＇ 인식 오류로 6개 도시 로보택시 서비스 중단
-https://www.aitimes.com/news/articleView.html?idxno=210874
+◾ 〃집안일은 어렵지만 길 안내는 척척〃…UB테크, ＇반구조화 공간＇ 노린 휴머노이드 공개
+https://www.aitimes.com/news/articleView.html?idxno=210887
 
-◾ 구글 ＇AI 개요＇ 또 논란...동사 검색어를 명령어로 오인
-https://www.aitimes.com/news/articleView.html?idxno=210873
+◾ 〃코딩은 29배, 추론은 7배〃…세레브라스, ＇키미＇ 서비스로 GPU 압도
+https://www.aitimes.com/news/articleView.html?idxno=210890
+
+[기타]
+◾ [ET단상] 마법사의 제자와 AI 교육
+https://www.etnews.com/20260525000043
+
+◾ “만들긴 쉬운데 관리는 어려워”...기업 위협하는 ‘에이전트 스프롤’
+https://www.aitimes.com/news/articleView.html?idxno=210892
+
+📚 간행물
+◾ [제1291호] 6G와 NTN：TN의 한계를 극복하는 초공간 통신
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1291%ED%98%B8%5D%206G%EC%99%80%20NTN%EF%BC%9ATN%EC%9D%98%20%ED%95%9C%EA%B3%84%EB%A5%BC%20%EA%B7%B9%EB%B3%B5%ED%95%98%EB%8A%94%20%EC%B4%88%EA%B3%B5%EA%B0%84%20%ED%86%B5%EC%8B%A0
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
