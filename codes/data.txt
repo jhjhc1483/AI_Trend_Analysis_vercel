@@ -2,12 +2,6 @@
 
 📰 오늘의 기사
 [국방]
-◾ 공군, 파스토로보틱스와 군수혁신 업무 협약
-https://kookbang.dema.mil.kr/newsWeb/20260527/4/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=zE5ljJs2Ui8Dq9wM15x7UhHognDmOs8X5ymfFot4Gol07y6sRAO0!730580237
-
-◾ 며칠 걸리던 타격 결재선, 몇 분으로 줄어든다
-https://kookbang.dema.mil.kr/newsWeb/20260527/1/ATCE_CTGR_0020010001/view.do;JSESSIONID_kookbnagWEB=zE5ljJs2Ui8Dq9wM15x7UhHognDmOs8X5ymfFot4Gol07y6sRAO0!730580237
-
 ◾ 현대로템, K-방산 피지컬 AI 기술 주권 본격화...무인로봇 핵심 국책개발 과제 수주
 https://www.aitimes.kr/news/articleView.html?idxno=40204
 
@@ -17,8 +11,11 @@ https://www.aitimes.kr/news/articleView.html?idxno=40199
 ◾ 전북대-탈레스코리아, 글로벌 방산·우주 인재양성 협력 ＇속도＇
 https://www.etnews.com/20260526000329
 
-◾ 육·해·공군, 우수한 이공계 인재에 문 활짝 ~
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49135&startDate=&endDate=&id=mnd_020101000000
+◾ 공군, 파스토로보틱스와 군수혁신 업무 협약
+https://kookbang.dema.mil.kr/newsWeb/20260527/4/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=zE5ljJs2Ui8Dq9wM15x7UhHognDmOs8X5ymfFot4Gol07y6sRAO0!730580237
+
+◾ 며칠 걸리던 타격 결재선, 몇 분으로 줄어든다
+https://kookbang.dema.mil.kr/newsWeb/20260527/1/ATCE_CTGR_0020010001/view.do;JSESSIONID_kookbnagWEB=zE5ljJs2Ui8Dq9wM15x7UhHognDmOs8X5ymfFot4Gol07y6sRAO0!730580237
 
 [육군]
 ◾ AI·드론봇 전투발전 각계 전문가 한자리에
@@ -34,17 +31,14 @@ https://www.aitimes.kr/news/articleView.html?idxno=40195
 ◾ 삼성전자, 내년 칩렛 기반 ＇피지컬 AI 반도체＇ 플랫폼 파운드리 추진
 https://www.etnews.com/20260526000274
 
-◾ ＇따상＇ 마키나락스 이어 엘리스·래블업·제논 등 AI 상장 출격
-https://www.etnews.com/20260526000321
-
 ◾ NHN클라우드, AI 풀스택 브랜드 ＇팩토리X＇ 공개…“내년 AI 매출 비중 50%”
 https://www.etnews.com/20260526000311
 
-◾ 포티투닷, 엔비디아 출신 첫 임원 영입…자율주행 기술 내재화
-https://www.etnews.com/20260526000118
+◾ 셀트리온, 신약 개발·제조·사무 업무에 AI 도입
+https://www.etnews.com/20260526000054
 
-◾ 시스트란, ＇AI EXPO Korea 2026＇서 폐쇄망 맞춤형 AI 솔루션 4종 공개
-https://www.etnews.com/20260522000276
+◾ 한컴위드, AI 제로트러스트 인증 솔루션 ‘한컴 엑스씨오스＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=210907
 
 [기관]
 ◾ 광주 국가AI데이터센터 하반기 이용자 모집…국내 AI 기업·대학·연구기관 대상 GPU·HPC 자원 제공
@@ -56,39 +50,34 @@ https://www.aitimes.kr/news/articleView.html?idxno=40194
 ◾ KAIST·포스텍·소니 AI, 영상 속 물체의 질량·속도 추론해 장면 맞춤형 효과음 생성 AI 개발
 https://www.aitimes.kr/news/articleView.html?idxno=40189
 
-◾ 서울시, KAIST와 ＇서울런＇…초·중생 AI 핵심인재 양성
-https://www.etnews.com/20260526000354
+◾ [보도 참고] 우리 K-AI 모델이 현장에 펼쳐지고 있습니다 ➂
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187355&searchOpt=ALL&searchTxt=
 
-◾ 산업부, LG ＇디지털 트윈＇ 성과 확산한다…M.AX로 선도기술 이식
-https://www.etnews.com/20260525000113
+◾ KTC, 국제표준 기반 ＇TrustAI＇ 인증 론칭…＇피지컬 AI＇ 전문성 대폭 강화
+https://www.etnews.com/20260526000345
 
 ◾ 조달청, 물품·용역 낙찰하한율 2%p 상향…AI 제품 가점 신설
 https://www.etnews.com/20260526000080
 
-◾ [보도 참고] 우리 K-AI 모델이 현장에 펼쳐지고 있습니다 ➂
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187355&searchOpt=ALL&searchTxt=
-
 [해외]
-◾ AMD, 대만 생태계에 100억달러 투자… “AI 인프라 패권 경쟁 본격화”
-https://www.aitimes.kr/news/articleView.html?idxno=40201
-
 ◾ “AI는 단순한 기술 문제가 아니다”… 앤트로픽 공동창업자 크리스 올라, 교황 회칙 발표 자리서 ‘AI 윤리’ 경고
 https://www.aitimes.kr/news/articleView.html?idxno=40198
 
 ◾ AI 드론·극초음속 미사일 총출동…우크라·중동 전쟁터  ＇첨단신무기 실험장＇
 https://www.etnews.com/20260526000007
 
-◾ 바클레이즈 “휴머노이드 로봇, 중국 노동력 감소분 60% 메운다”
-https://www.aitimes.com/news/articleView.html?idxno=210934
+◾ 구글 AI 스튜디오, 일주일 만에 앱 25만개 쏟아져...〃99%가 초보자〃
+https://www.aitimes.com/news/articleView.html?idxno=210915
+
+◾ 소프트뱅크, 오픈AI IPO 기대감 힘입어 주가 사상 최고치 경신
+https://www.aitimes.com/news/articleView.html?idxno=210931
 
 ◾ 중국, 모든 휴머노이드 로봇에 디지털 ID 부여...〃전 생애주기 추적〃
 https://www.aitimes.com/news/articleView.html?idxno=210914
 
-◾ 구글, 에이전트 장시간 문제 해결하는 런타임 플랫폼 오픈 공개
-https://www.aitimes.com/news/articleView.html?idxno=210930
-
-◾ EU, 구글에 역대 최대 반독점 벌금 부과 계획
-https://www.aitimes.com/news/articleView.html?idxno=210912
+[기타]
+◾ 레오 14세 교황 “인류 보호 위해 AI ＇무장해제＇해야”…첫 회칙 발표
+https://www.etnews.com/20260526000006
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
