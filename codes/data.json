@@ -8042,5 +8042,159 @@
         }
       ]
     }
+  },
+  "26.05.27": {
+    "categorized": {
+      "육군": [
+        {
+          "title": "AI·드론봇 전투발전 각계 전문가 한자리에",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260527/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=zE5ljJs2Ui8Dq9wM15x7UhHognDmOs8X5ymfFot4Gol07y6sRAO0!730580237",
+          "category": "육군"
+        }
+      ],
+      "국방": [
+        {
+          "title": "공군, 파스토로보틱스와 군수혁신 업무 협약",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260527/4/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=zE5ljJs2Ui8Dq9wM15x7UhHognDmOs8X5ymfFot4Gol07y6sRAO0!730580237",
+          "category": "국방"
+        },
+        {
+          "title": "며칠 걸리던 타격 결재선, 몇 분으로 줄어든다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260527/1/ATCE_CTGR_0020010001/view.do;JSESSIONID_kookbnagWEB=zE5ljJs2Ui8Dq9wM15x7UhHognDmOs8X5ymfFot4Gol07y6sRAO0!730580237",
+          "category": "국방"
+        },
+        {
+          "title": "현대로템, K-방산 피지컬 AI 기술 주권 본격화...무인로봇 핵심 국책개발 과제 수주",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40204",
+          "category": "국방"
+        },
+        {
+          "title": "디노티시아, 창신대와 방산 AI 실무 인재 양성…방산 제조 현장 중심 산학협력 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40199",
+          "category": "국방"
+        },
+        {
+          "title": "전북대-탈레스코리아, 글로벌 방산·우주 인재양성 협력 ＇속도＇",
+          "link": "https://www.etnews.com/20260526000329",
+          "category": "국방"
+        },
+        {
+          "title": "육·해·공군, 우수한 이공계 인재에 문 활짝 ~",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49135&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        }
+      ],
+      "해외": [
+        {
+          "title": "AMD, 대만 생태계에 100억달러 투자… “AI 인프라 패권 경쟁 본격화”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40201",
+          "category": "해외"
+        },
+        {
+          "title": "“AI는 단순한 기술 문제가 아니다”… 앤트로픽 공동창업자 크리스 올라, 교황 회칙 발표 자리서 ‘AI 윤리’ 경고",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40198",
+          "category": "해외"
+        },
+        {
+          "title": "AI 드론·극초음속 미사일 총출동…우크라·중동 전쟁터  ＇첨단신무기 실험장＇",
+          "link": "https://www.etnews.com/20260526000007",
+          "category": "해외"
+        },
+        {
+          "title": "바클레이즈 “휴머노이드 로봇, 중국 노동력 감소분 60% 메운다”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210934",
+          "category": "해외"
+        },
+        {
+          "title": "중국, 모든 휴머노이드 로봇에 디지털 ID 부여...〃전 생애주기 추적〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210914",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 에이전트 장시간 문제 해결하는 런타임 플랫폼 오픈 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210930",
+          "category": "해외"
+        },
+        {
+          "title": "EU, 구글에 역대 최대 반독점 벌금 부과 계획",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210912",
+          "category": "해외"
+        }
+      ],
+      "기관": [
+        {
+          "title": "광주 국가AI데이터센터 하반기 이용자 모집…국내 AI 기업·대학·연구기관 대상 GPU·HPC 자원 제공",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40200",
+          "category": "기관"
+        },
+        {
+          "title": "‘미토스 쇼크’에 금융 AX 전환 가속… 금융위, 금융권 망분리 규제 대폭 완화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40194",
+          "category": "기관"
+        },
+        {
+          "title": "KAIST·포스텍·소니 AI, 영상 속 물체의 질량·속도 추론해 장면 맞춤형 효과음 생성 AI 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40189",
+          "category": "기관"
+        },
+        {
+          "title": "서울시, KAIST와 ＇서울런＇…초·중생 AI 핵심인재 양성",
+          "link": "https://www.etnews.com/20260526000354",
+          "category": "기관"
+        },
+        {
+          "title": "산업부, LG ＇디지털 트윈＇ 성과 확산한다…M.AX로 선도기술 이식",
+          "link": "https://www.etnews.com/20260525000113",
+          "category": "기관"
+        },
+        {
+          "title": "조달청, 물품·용역 낙찰하한율 2%p 상향…AI 제품 가점 신설",
+          "link": "https://www.etnews.com/20260526000080",
+          "category": "기관"
+        },
+        {
+          "title": "[보도 참고] 우리 K-AI 모델이 현장에 펼쳐지고 있습니다 ➂",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187355&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "KB금융, AI 기반 사이버 보안위협에 ＇AI 대 AI＇ 방어체계로 대응",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40196",
+          "category": "민간"
+        },
+        {
+          "title": "삼성전자, ‘제미나이·챗GPT·클로드’ 외부 생성형 AI 공식 도입…‘삼성 가우스’와 투트랙 전략 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40195",
+          "category": "민간"
+        },
+        {
+          "title": "삼성전자, 내년 칩렛 기반 ＇피지컬 AI 반도체＇ 플랫폼 파운드리 추진",
+          "link": "https://www.etnews.com/20260526000274",
+          "category": "민간"
+        },
+        {
+          "title": "＇따상＇ 마키나락스 이어 엘리스·래블업·제논 등 AI 상장 출격",
+          "link": "https://www.etnews.com/20260526000321",
+          "category": "민간"
+        },
+        {
+          "title": "NHN클라우드, AI 풀스택 브랜드 ＇팩토리X＇ 공개…“내년 AI 매출 비중 50%”",
+          "link": "https://www.etnews.com/20260526000311",
+          "category": "민간"
+        },
+        {
+          "title": "포티투닷, 엔비디아 출신 첫 임원 영입…자율주행 기술 내재화",
+          "link": "https://www.etnews.com/20260526000118",
+          "category": "민간"
+        },
+        {
+          "title": "시스트란, ＇AI EXPO Korea 2026＇서 폐쇄망 맞춤형 AI 솔루션 4종 공개",
+          "link": "https://www.etnews.com/20260522000276",
+          "category": "민간"
+        }
+      ]
+    }
   }
 }
