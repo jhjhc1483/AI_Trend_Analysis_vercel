@@ -8,6 +8,9 @@ https://kookbang.dema.mil.kr/newsWeb/20260528/2/ATCE_CTGR_0010010000/view.do;JSE
 ◾ 딥인사이트, 차세대 디멘뷰 기반 국방 ＇현실 기반 시뮬레이션＇ 기술 선보여
 https://www.aitimes.kr/news/articleView.html?idxno=40221
 
+◾ AI·드론봇 전투발전 각계 전문가 한자리에
+https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=49162&startDate=&endDate=&id=mnd_020101000000
+
 ◾ 공군, 파스토로보틱스와 군수혁신 업무 협약
 https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=49178&startDate=&endDate=&id=mnd_020101000000
 
@@ -18,46 +21,40 @@ https://kookbang.dema.mil.kr/newsWeb/20260528/14/ATCE_CTGR_0010010000/view.do;JS
 ◾ 첨단기술 연계 ‘스마트 육군’ 전력화 방안 논의
 https://kookbang.dema.mil.kr/newsWeb/20260528/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=HydqtOCbRiWM84LxxzzX6kbwPK7MbiUIx8JCQyLYeddIOWVk8gr2!1823254677
 
-◾ AI·드론봇 전투발전 각계 전문가 한자리에
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=49162&startDate=&endDate=&id=mnd_020101000000
-
 [민간]
-◾ 삼성전자 임금협약 타결…‘AI 반도체 슈퍼사이클’ 속 노사 안정이 경쟁력 된다
-https://www.aitimes.kr/news/articleView.html?idxno=40220
+◾ LG이노텍, 글로벌 빅테크에 추론 워크로드에 기반한 차세대 반도체 기판 기술 선보여
+https://www.aitimes.kr/news/articleView.html?idxno=40228
 
-◾ “대한민국에서 벌어진 AI 모델 삼국지”…구글 출신 리더들, 오픈AI·앤트로픽 이끌고 한국 격돌
-https://www.aitimes.kr/news/articleView.html?idxno=40217
+◾ KB금융, 리벨리온과 ＇차세대 AI·금융 생태계 구축＇ 위한 전략적 업무 제휴
+https://www.aitimes.kr/news/articleView.html?idxno=40225
 
-◾ ‘양자 AI’, 의료·제조의 다음 세대 표준 인프라로…SDT-미소정보기술, 의료·제조 분야 공동 사업
-https://www.aitimes.kr/news/articleView.html?idxno=40215
+◾ AI 시대, 〃콘텐츠가 답을 찾는 자리〃...2026 프롬 컨퍼런스 ＇콘텐츠 엔지니어링＇ 개최
+https://www.aitimes.kr/news/articleView.html?idxno=40223
 
 ◾ LG CNS “AI 미래 아닌 현실”…기업 AX 실행 전략 공개
 https://www.etnews.com/20260527000356
 
-◾ LG이노텍, 美 전시회서 대면적 FC-BGA 등 차세대 반도체 기판 선봬
-https://www.etnews.com/20260527000282
-
 ◾ 카카오, AI 연구 교류 행사서 자체 파운데이션 모델 고도화 계획 공개
 https://www.etnews.com/20260527000244
 
-◾ KB금융, 리벨리온과 맞손…국산 NPU 기반 차세대 AI 금융 인프라 구축
-https://www.etnews.com/20260527000238
+◾ 앤트로픽, 최기영 한국 대표 선임…국내 사업 본격화
+https://www.etnews.com/20260527000146
+
+◾ SK하이닉스, 시총 ＇1조달러 클럽＇ 진입...삼성전자 이어 국내 2번째
+https://www.aitimes.com/news/articleView.html?idxno=210990
 
 [기관]
-◾ 네이버 1784에 김윤덕 국토부 장관 찾았다…이동 로봇 산업 활성화 방안 논의
-https://www.etnews.com/20260527000450
+◾ IITP, ＇테스트 베드＇ 역할 해 기업 AI 검증...로봇·AI 반도체 토론 무대서 사례 소개
+https://www.etnews.com/20260527000457
 
-◾ 독자 AI 생태계 조성에 재정역량 집중…기획처-과기정통부 협력
-https://www.etnews.com/20260527000402
+◾ 정부, AI 국제개발협력 드라이브…UN·WB와 글로벌 허브 구축
+https://www.etnews.com/20260527000365
 
-◾ AI가 굽는 성심당 튀김소보로…산업부, M.AX 확산 총력
-https://www.etnews.com/20260527000254
+◾ 인공지능 3대 강국 도약을 위한 적기(골든타임), 독자적 인공지능 생태계 조성에 재정역량을 집중한다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187368&searchOpt=ALL&searchTxt=
 
-◾ “AI로 과학기술 대전환”…범부처 ＇K-문샷 추진단＇ 출범
-https://www.etnews.com/20260527000084
-
-◾ 기술보증기금, 오픈AI와 손잡고 AI 스타트업 지원 나선다
-https://www.etnews.com/20260527000174
+◾ 인공지능으로 앞당기고 과학 기술로 완성하는 미래 한국, ‘K-문샷 사업(프로젝트)’ 개시
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187359&searchOpt=ALL&searchTxt=
 
 ◾ 「전 국민 인공지능 경진대회」, 100만 명 이상 참여 기대되는 온라인 인공지능 체험 축제 “클릭 온 인공지능(AI) 시즌1” 시작(오픈)
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187363&searchOpt=ALL&searchTxt=
@@ -66,26 +63,26 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187356&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 샘 올트먼 오픈AI CEO “AI로 일자리 종말 없을 것”
-https://www.etnews.com/20260527000004
+◾ 구글, 디스플레이 광고 ‘디맨드 젠’으로 통합…“AI 기반 광고 자동화 시대 본격화”
+https://www.aitimes.kr/news/articleView.html?idxno=40224
+
+◾ AI 메모리 열풍 폭발…나스닥 또 최고치, 마이크론 시총 1조달러 돌파
+https://www.etnews.com/20260527000010
+
+◾ 거물 개발자들의 경고 〃클로드 코드는 망가진 도구...＇바이브 슬롭＇ 위기 다가와〃
+https://www.aitimes.com/news/articleView.html?idxno=210924
 
 ◾ 엔비디아 ＇베라 CPU＇, 벤치마크서 인텔·AMD 최신 서버 칩 압도
 https://www.aitimes.com/news/articleView.html?idxno=210971
 
+◾ 알트먼 〃AI ＇일자리 대란＇ 예측 틀려서 다행…인간 교감은 AI로 대체 불가능〃
+https://www.aitimes.com/news/articleView.html?idxno=210969
+
 ◾ MS, 코딩으로 웹 움직이는 에이전트 ‘웹라이트’ 공개…“클릭 대신 터미널로 제어”
 https://www.aitimes.com/news/articleView.html?idxno=210980
 
-◾ 대만 검찰, ＇일본 경유＇ 엔비디아 AI 칩 중국 밀반출 첫 적발
-https://www.aitimes.com/news/articleView.html?idxno=210991
-
-◾ 젠슨 황 〃대만은 AI 혁명 진원지...매년 225조 투자할 것〃
-https://www.aitimes.com/news/articleView.html?idxno=210992
-
 ◾ 미스트랄-BNP 파리바, 유럽판 ＇미소스＇ 개발 협력
 https://www.aitimes.com/news/articleView.html?idxno=210965
-
-◾ 앤트로픽, 최기영 한국 대표 선임…〃서울 오피스 곧 개소〃
-https://www.aitimes.com/news/articleView.html?idxno=210976
 
 [기타]
 ◾ ‘손자병법’과 에이전트 전쟁의 고찰
