@@ -8193,6 +8193,11 @@
           "category": "국방"
         },
         {
+          "title": "AI·드론봇 전투발전 각계 전문가 한자리에",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=49162&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
           "title": "공군, 파스토로보틱스와 군수혁신 업무 협약",
           "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=49178&startDate=&endDate=&id=mnd_020101000000",
           "category": "국방"
@@ -8207,11 +8212,6 @@
         {
           "title": "첨단기술 연계 ‘스마트 육군’ 전력화 방안 논의",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260528/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=HydqtOCbRiWM84LxxzzX6kbwPK7MbiUIx8JCQyLYeddIOWVk8gr2!1823254677",
-          "category": "육군"
-        },
-        {
-          "title": "AI·드론봇 전투발전 각계 전문가 한자리에",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=49162&startDate=&endDate=&id=mnd_020101000000",
           "category": "육군"
         }
       ],
@@ -8229,18 +8229,18 @@
       ],
       "민간": [
         {
-          "title": "삼성전자 임금협약 타결…‘AI 반도체 슈퍼사이클’ 속 노사 안정이 경쟁력 된다",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40220",
+          "title": "LG이노텍, 글로벌 빅테크에 추론 워크로드에 기반한 차세대 반도체 기판 기술 선보여",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40228",
           "category": "민간"
         },
         {
-          "title": "“대한민국에서 벌어진 AI 모델 삼국지”…구글 출신 리더들, 오픈AI·앤트로픽 이끌고 한국 격돌",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40217",
+          "title": "KB금융, 리벨리온과 ＇차세대 AI·금융 생태계 구축＇ 위한 전략적 업무 제휴",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40225",
           "category": "민간"
         },
         {
-          "title": "‘양자 AI’, 의료·제조의 다음 세대 표준 인프라로…SDT-미소정보기술, 의료·제조 분야 공동 사업",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40215",
+          "title": "AI 시대, 〃콘텐츠가 답을 찾는 자리〃...2026 프롬 컨퍼런스 ＇콘텐츠 엔지니어링＇ 개최",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40223",
           "category": "민간"
         },
         {
@@ -8249,45 +8249,77 @@
           "category": "민간"
         },
         {
-          "title": "LG이노텍, 美 전시회서 대면적 FC-BGA 등 차세대 반도체 기판 선봬",
-          "link": "https://www.etnews.com/20260527000282",
-          "category": "민간"
-        },
-        {
           "title": "카카오, AI 연구 교류 행사서 자체 파운데이션 모델 고도화 계획 공개",
           "link": "https://www.etnews.com/20260527000244",
           "category": "민간"
         },
         {
-          "title": "KB금융, 리벨리온과 맞손…국산 NPU 기반 차세대 AI 금융 인프라 구축",
-          "link": "https://www.etnews.com/20260527000238",
+          "title": "앤트로픽, 최기영 한국 대표 선임…국내 사업 본격화",
+          "link": "https://www.etnews.com/20260527000146",
           "category": "민간"
+        },
+        {
+          "title": "SK하이닉스, 시총 ＇1조달러 클럽＇ 진입...삼성전자 이어 국내 2번째",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210990",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "구글, 디스플레이 광고 ‘디맨드 젠’으로 통합…“AI 기반 광고 자동화 시대 본격화”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40224",
+          "category": "해외"
+        },
+        {
+          "title": "AI 메모리 열풍 폭발…나스닥 또 최고치, 마이크론 시총 1조달러 돌파",
+          "link": "https://www.etnews.com/20260527000010",
+          "category": "해외"
+        },
+        {
+          "title": "거물 개발자들의 경고 〃클로드 코드는 망가진 도구...＇바이브 슬롭＇ 위기 다가와〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210924",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아 ＇베라 CPU＇, 벤치마크서 인텔·AMD 최신 서버 칩 압도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210971",
+          "category": "해외"
+        },
+        {
+          "title": "알트먼 〃AI ＇일자리 대란＇ 예측 틀려서 다행…인간 교감은 AI로 대체 불가능〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210969",
+          "category": "해외"
+        },
+        {
+          "title": "MS, 코딩으로 웹 움직이는 에이전트 ‘웹라이트’ 공개…“클릭 대신 터미널로 제어”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210980",
+          "category": "해외"
+        },
+        {
+          "title": "미스트랄-BNP 파리바, 유럽판 ＇미소스＇ 개발 협력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=210965",
+          "category": "해외"
         }
       ],
       "기관": [
         {
-          "title": "네이버 1784에 김윤덕 국토부 장관 찾았다…이동 로봇 산업 활성화 방안 논의",
-          "link": "https://www.etnews.com/20260527000450",
+          "title": "IITP, ＇테스트 베드＇ 역할 해 기업 AI 검증...로봇·AI 반도체 토론 무대서 사례 소개",
+          "link": "https://www.etnews.com/20260527000457",
           "category": "기관"
         },
         {
-          "title": "독자 AI 생태계 조성에 재정역량 집중…기획처-과기정통부 협력",
-          "link": "https://www.etnews.com/20260527000402",
+          "title": "정부, AI 국제개발협력 드라이브…UN·WB와 글로벌 허브 구축",
+          "link": "https://www.etnews.com/20260527000365",
           "category": "기관"
         },
         {
-          "title": "AI가 굽는 성심당 튀김소보로…산업부, M.AX 확산 총력",
-          "link": "https://www.etnews.com/20260527000254",
+          "title": "인공지능 3대 강국 도약을 위한 적기(골든타임), 독자적 인공지능 생태계 조성에 재정역량을 집중한다",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187368&searchOpt=ALL&searchTxt=",
           "category": "기관"
         },
         {
-          "title": "“AI로 과학기술 대전환”…범부처 ＇K-문샷 추진단＇ 출범",
-          "link": "https://www.etnews.com/20260527000084",
-          "category": "기관"
-        },
-        {
-          "title": "기술보증기금, 오픈AI와 손잡고 AI 스타트업 지원 나선다",
-          "link": "https://www.etnews.com/20260527000174",
+          "title": "인공지능으로 앞당기고 과학 기술로 완성하는 미래 한국, ‘K-문샷 사업(프로젝트)’ 개시",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187359&searchOpt=ALL&searchTxt=",
           "category": "기관"
         },
         {
@@ -8299,43 +8331,6 @@
           "title": "과기정통부 인공지능 보안대응을 위한 전방위 협력 결실 오픈 AI 정부 ‧기관 대상 신뢰 기반 접근(GTAC) 프로그램에 참여하기로",
           "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187356&searchOpt=ALL&searchTxt=",
           "category": "기관"
-        }
-      ],
-      "해외": [
-        {
-          "title": "샘 올트먼 오픈AI CEO “AI로 일자리 종말 없을 것”",
-          "link": "https://www.etnews.com/20260527000004",
-          "category": "해외"
-        },
-        {
-          "title": "엔비디아 ＇베라 CPU＇, 벤치마크서 인텔·AMD 최신 서버 칩 압도",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210971",
-          "category": "해외"
-        },
-        {
-          "title": "MS, 코딩으로 웹 움직이는 에이전트 ‘웹라이트’ 공개…“클릭 대신 터미널로 제어”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210980",
-          "category": "해외"
-        },
-        {
-          "title": "대만 검찰, ＇일본 경유＇ 엔비디아 AI 칩 중국 밀반출 첫 적발",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210991",
-          "category": "해외"
-        },
-        {
-          "title": "젠슨 황 〃대만은 AI 혁명 진원지...매년 225조 투자할 것〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210992",
-          "category": "해외"
-        },
-        {
-          "title": "미스트랄-BNP 파리바, 유럽판 ＇미소스＇ 개발 협력",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210965",
-          "category": "해외"
-        },
-        {
-          "title": "앤트로픽, 최기영 한국 대표 선임…〃서울 오피스 곧 개소〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=210976",
-          "category": "해외"
         }
       ],
       "간행물": [
