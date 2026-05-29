@@ -1,10 +1,5 @@
 [
   {
-    "title": "“AI 기능 품은 300달러 노트북 시대 연다”...퀄컴, ‘스냅드래곤 C’ 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40249",
-    "category": "해외"
-  },
-  {
     "title": "〃휴머노이드 ＇아틀라스＇, 패스·슈팅·라보나까지〃…현대차 로봇, 축구 예능 찍으며 피지컬 AI 증명",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40267",
     "category": "민간"
@@ -35,11 +30,6 @@
     "category": "기관"
   },
   {
-    "title": "첨단 과학기술강군, 미래전도 압도한다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49209&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
     "title": "군·산·학·연 전문가 모여…국방M&S 발전방향 찾다",
     "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49210&startDate=&endDate=&id=mnd_020101000000",
     "category": "국방"
@@ -60,6 +50,11 @@
     "category": "국방"
   },
   {
+    "title": "안정적·효율적 ‘항공엔진 수명관리’ 경험 나누다",
+    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=49233&startDate=&endDate=&id=mnd_020101000000",
+    "category": "국방"
+  },
+  {
     "title": "피지컬·제조 AI와 정부 AX로 성과 창출 확대,연구 자율성·창의성 제고를 위한 범부처 협력 강화",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187380&searchOpt=ALL&searchTxt=",
     "category": "기관"
@@ -70,14 +65,24 @@
     "category": "기관"
   },
   {
-    "title": "최태원 SK 회장 “AI 시대, 인재 정의 달라질 것…제너럴리스트 필요”",
-    "link": "https://www.etnews.com/20260529000185",
+    "title": "울산에 AI 특화 공동훈련센터 개소",
+    "link": "https://www.etnews.com/20260529000001",
+    "category": "기관"
+  },
+  {
+    "title": "[기고]ISMS-P 인증받고도 뚫린다… 미토스 시대, 실전 사이버보안으로 가야 한다",
+    "link": "https://www.etnews.com/20260529000334",
+    "category": "기타"
+  },
+  {
+    "title": "카카오골프예약, 챗GPT로 티타임 잡는다",
+    "link": "https://www.etnews.com/20260529000250",
     "category": "민간"
   },
   {
-    "title": "＇미토스 충격＇ 대응…정부, 2027년 독자 AI 보안체계 구축",
-    "link": "https://www.etnews.com/20260529000173",
-    "category": "기관"
+    "title": "노타, 퀄컴 최신 엣지 AI 디바이스에서 피지컬 AI 모델 최적화 성공",
+    "link": "https://www.etnews.com/20260529000208",
+    "category": "민간"
   },
   {
     "title": "경상국립대-UNIST ＇2026 우주항공·방산 기술교류회＇ 성료",
@@ -85,9 +90,14 @@
     "category": "국방"
   },
   {
-    "title": "앤트로픽, 오픈AI 몸값 추월...IPO 앞두고 기업 가치 1443조 기록",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211065",
-    "category": "해외"
+    "title": "KOIIA, 팁스(TIPS) 연계 ＇산업AX 배치 프로그램 2기＇ 모집 본격 가동",
+    "link": "https://www.etnews.com/20260529000116",
+    "category": "기관"
+  },
+  {
+    "title": "혁신클러스터학회, ＇2026 춘계학술대회＇ 개최...＇AX 전환 시대＇ 혁신클러스터 변화 대응 모색",
+    "link": "https://www.etnews.com/20260529000011",
+    "category": "기타"
   },
   {
     "title": "구글·메타, AI가 스스로 추론 최적화하는 기술 개발...〃토큰 비용 69.5% 절감〃",
@@ -115,8 +125,8 @@
     "category": "기관"
   },
   {
-    "title": "노타, 퀄컴 엣지 AI 디바이스서 피지컬 AI 모델 최적화 구현",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211080",
-    "category": "민간"
+    "title": "MS, 2일 ‘빌드’서 자체 코딩 모델 공개 예정…〃가성비로 승부〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211075",
+    "category": "해외"
   }
 ]
