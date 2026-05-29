@@ -8500,43 +8500,6 @@
   },
   "26.05.30": {
     "categorized": {
-      "해외": [
-        {
-          "title": "“AI 기능 품은 300달러 노트북 시대 연다”...퀄컴, ‘스냅드래곤 C’ 공개",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40249",
-          "category": "해외"
-        },
-        {
-          "title": "인공지능, ‘근거 없는 과신’ 잡았다… 앤트로픽, 차세대 플래그십 AI ‘클로드 오푸스 4.8’ 전격 출시",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40262",
-          "category": "해외"
-        },
-        {
-          "title": "오픈AI, 한국 첫 ‘이그젝 서밋’서 국내 기업 경영진들과 엔터프라이즈 AI 확대 논의",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40259",
-          "category": "해외"
-        },
-        {
-          "title": "앤트로픽, 오픈AI 몸값 추월...IPO 앞두고 기업 가치 1443조 기록",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211065",
-          "category": "해외"
-        },
-        {
-          "title": "구글·메타, AI가 스스로 추론 최적화하는 기술 개발...〃토큰 비용 69.5% 절감〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211087",
-          "category": "해외"
-        },
-        {
-          "title": "애플, WWDC서 ‘엣지 AI’ 전면 선언…데이터센터 의존 줄여 ＇비용 절감＇",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211107",
-          "category": "해외"
-        },
-        {
-          "title": "바이트댄스, 추론 인프라용 CPU 독자 개발…빅테크 ＇자체 칩＇ 대열 합류",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211113",
-          "category": "해외"
-        }
-      ],
       "민간": [
         {
           "title": "〃휴머노이드 ＇아틀라스＇, 패스·슈팅·라보나까지〃…현대차 로봇, 축구 예능 찍으며 피지컬 AI 증명",
@@ -8554,19 +8517,51 @@
           "category": "민간"
         },
         {
-          "title": "최태원 SK 회장 “AI 시대, 인재 정의 달라질 것…제너럴리스트 필요”",
-          "link": "https://www.etnews.com/20260529000185",
+          "title": "카카오골프예약, 챗GPT로 티타임 잡는다",
+          "link": "https://www.etnews.com/20260529000250",
+          "category": "민간"
+        },
+        {
+          "title": "노타, 퀄컴 최신 엣지 AI 디바이스에서 피지컬 AI 모델 최적화 성공",
+          "link": "https://www.etnews.com/20260529000208",
           "category": "민간"
         },
         {
           "title": "코난테크놀로지, 산업 특화 AI 안경 ＇비전플로우＇ 연내 출시 목표",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211103",
           "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "인공지능, ‘근거 없는 과신’ 잡았다… 앤트로픽, 차세대 플래그십 AI ‘클로드 오푸스 4.8’ 전격 출시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40262",
+          "category": "해외"
         },
         {
-          "title": "노타, 퀄컴 엣지 AI 디바이스서 피지컬 AI 모델 최적화 구현",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211080",
-          "category": "민간"
+          "title": "오픈AI, 한국 첫 ‘이그젝 서밋’서 국내 기업 경영진들과 엔터프라이즈 AI 확대 논의",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40259",
+          "category": "해외"
+        },
+        {
+          "title": "구글·메타, AI가 스스로 추론 최적화하는 기술 개발...〃토큰 비용 69.5% 절감〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211087",
+          "category": "해외"
+        },
+        {
+          "title": "애플, WWDC서 ‘엣지 AI’ 전면 선언…데이터센터 의존 줄여 ＇비용 절감＇",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211107",
+          "category": "해외"
+        },
+        {
+          "title": "바이트댄스, 추론 인프라용 CPU 독자 개발…빅테크 ＇자체 칩＇ 대열 합류",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211113",
+          "category": "해외"
+        },
+        {
+          "title": "MS, 2일 ‘빌드’서 자체 코딩 모델 공개 예정…〃가성비로 승부〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211075",
+          "category": "해외"
         }
       ],
       "기관": [
@@ -8586,8 +8581,13 @@
           "category": "기관"
         },
         {
-          "title": "＇미토스 충격＇ 대응…정부, 2027년 독자 AI 보안체계 구축",
-          "link": "https://www.etnews.com/20260529000173",
+          "title": "울산에 AI 특화 공동훈련센터 개소",
+          "link": "https://www.etnews.com/20260529000001",
+          "category": "기관"
+        },
+        {
+          "title": "KOIIA, 팁스(TIPS) 연계 ＇산업AX 배치 프로그램 2기＇ 모집 본격 가동",
+          "link": "https://www.etnews.com/20260529000116",
           "category": "기관"
         },
         {
@@ -8597,11 +8597,6 @@
         }
       ],
       "국방": [
-        {
-          "title": "첨단 과학기술강군, 미래전도 압도한다",
-          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49209&startDate=&endDate=&id=mnd_020101000000",
-          "category": "국방"
-        },
         {
           "title": "군·산·학·연 전문가 모여…국방M&S 발전방향 찾다",
           "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49210&startDate=&endDate=&id=mnd_020101000000",
@@ -8623,9 +8618,26 @@
           "category": "국방"
         },
         {
+          "title": "안정적·효율적 ‘항공엔진 수명관리’ 경험 나누다",
+          "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=49233&startDate=&endDate=&id=mnd_020101000000",
+          "category": "국방"
+        },
+        {
           "title": "경상국립대-UNIST ＇2026 우주항공·방산 기술교류회＇ 성료",
           "link": "https://www.etnews.com/20260529000148",
           "category": "국방"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[기고]ISMS-P 인증받고도 뚫린다… 미토스 시대, 실전 사이버보안으로 가야 한다",
+          "link": "https://www.etnews.com/20260529000334",
+          "category": "기타"
+        },
+        {
+          "title": "혁신클러스터학회, ＇2026 춘계학술대회＇ 개최...＇AX 전환 시대＇ 혁신클러스터 변화 대응 모색",
+          "link": "https://www.etnews.com/20260529000011",
+          "category": "기타"
         }
       ],
       "간행물": [
