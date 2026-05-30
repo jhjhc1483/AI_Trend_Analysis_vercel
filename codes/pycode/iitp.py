@@ -85,11 +85,11 @@ for i in range(0, 9):
         # 메인 카테고리 제목 추출
         category_element = soup.select_one(MAIN_TITLE_SELECTOR)
         category_text = category_element.text.strip() if category_element else "카테고리 없음"
-        print(f"   ✅ 메인 카테고리: {category_text}")
+        print(f"   [O] 메인 카테고리: {category_text}")
 
         # 목록 항목 추출
         item_list = soup.select(LIST_ITEM_SELECTOR)
-        print(f"   ✅ 항목 수: {len(item_list)}개")
+        print(f"   [O] 항목 수: {len(item_list)}개")
 
         # 기본 URL (상대 경로 해결용)
         base_url = array_2d[i, 1]
@@ -126,7 +126,7 @@ for i in range(0, 9):
                 data.append([title, category_text, absolute_link, year, month, day])
                 
     except Exception as e:
-        print(f"   ❌ 에러 발생: {e}")
+        print(f"   [X] 에러 발생: {e}")
         
     finally:
         if driver:
@@ -172,13 +172,8 @@ for item in combined_data:
         final_data.append(item)
         seen_links.add(link)
 
-print("-" * 50)
-print(f"기존 데이터: {len(existing_data)}개")
-print(f"신규 데이터: {len(new_data)}개")
-print(f"중복 제거 후 최종: {len(final_data)}개")
-
 # 4. 저장
 with open(full_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, indent=4, ensure_ascii=False)
 
-print(f"최종 데이터가 '{full_path}'에 저장되었습니다.")
+print(f"[IITP] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")

@@ -45,77 +45,117 @@ session = get_safe_session()
 TIMEOUT_SEC = 30 # 우회 API를 거치므로 타임아웃을 넉넉히 설정
 data = []
 
-for i in range(3, 8):    
-    if i > 6:
-        target_url = "https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&handle=I_669&id=mnd_020500000000"
+# ===== 새로운 국방부 홈페이지 구조 (2025년 리뉴얼) =====
+# 국방뉴스 카테고리별 URL 매핑
+# 159: 국방부, 160: 육군, 161: 해군/해병대, 162: 공군, 167: 보도자료
+news_pages = [
+    {"url": "https://www.mnd.go.kr/mnd/159/subview.do", "category": "국방부"},
+    {"url": "https://www.mnd.go.kr/mnd/160/subview.do", "category": "육군"},
+    {"url": "https://www.mnd.go.kr/mnd/161/subview.do", "category": "해군"},
+    {"url": "https://www.mnd.go.kr/mnd/162/subview.do", "category": "공군"},
+    {"url": "https://www.mnd.go.kr/mnd/167/subview.do", "category": "국방부 보도자료"},
+]
+
+for page_info in news_pages:
+    target_url = page_info["url"]
+    category = page_info["category"]
+
+    payload = {
+        'api_key': next(key_cycle),
+        'url': target_url,
+        'country_code': 'kr'  # 한국 IP 지정
+    }
+
+    try:
+        print(f"--- {category} 수집 중 ({target_url}) ---")
+        # 타겟 URL 대신 ScraperAPI 서버로 요청
+        response = session.get(SCRAPER_URL, params=payload, timeout=TIMEOUT_SEC)
+        response.raise_for_status()
+
+        html = response.text
+        soup = BeautifulSoup(html, 'html.parser')
+
+        # 새 BBS 구조: .thumnailWrap.webzine > ul > li 형태
+        items = soup.select(".thumnailWrap.webzine li")
         
-        payload = {
-            'api_key': next(key_cycle),
-            'url': target_url,
-            'country_code': 'kr' # 한국 IP 지정
-        }
-        
-        try:
-            # 타겟 URL 대신 ScraperAPI 서버로 요청
-            response = session.get(SCRAPER_URL, params=payload, timeout=TIMEOUT_SEC)
-            response.raise_for_status()
-            
-            html = response.text
-            soup = BeautifulSoup(html, 'html.parser')
-            items = soup.select(".post")
-            category = "국방부 보도자료"
-            
-            for item in items:
-                name = item.select_one(".post > div").text.strip()
-                code_temp = item.select_one(".title > a").attrs['href']
-                pattern = r"_(.*?)&"
-                code_list = re.findall(pattern, code_temp)
-                
-                if len(code_list) > 1:
-                    link = f'https://www.mnd.go.kr/user/newsInUserRecord.action?siteId=mnd&page=1&newsId=I_669&newsSeq=I_{code_list[1]}&command=view&id=mnd_020500000000&findStartDate=&findEndDate=&findType=title&findWord=&findOrganSeq='
-                    date = item.select_one(".post_info > dl").select_one('dd').text.strip()
-                    years, month, day = date.split('-')
-                    data.append([name, category, link, years, month, day, "", ""])
-            time.sleep(1)
-        except Exception as e:
-            print(f"보도자료 크롤링 중 오류: {e}")
+        if not items:
+            # 대체 시도: 일반 게시판 목록 형태 (.board-list 내부의 테이블)
+            items = soup.select(".board-list tbody tr")
 
-    else:
-        categories = {3: "국방부", 4: "육군", 5: "해군", 6: "공군"}
-        category = categories.get(i, "기타")
+        print(f"  발견된 게시글 수: {len(items)}")
 
-        for p in range(1, 3):
-            target_url = f"https://www.mnd.go.kr/cop/kookbang/kookbangIlboList.do?siteId=mnd&pageIndex={p}&findType=&findWord=&categoryCode=dema000{i}&boardSeq=&startDate=&endDate=&id=mnd_020101000000"
-            
-            payload = {
-                'api_key': next(key_cycle),
-                'url': target_url,
-                'country_code': 'kr'
-            }
-
+        for item in items:
             try:
-                # 타겟 URL 대신 ScraperAPI 서버로 요청
-                response = session.get(SCRAPER_URL, params=payload, timeout=TIMEOUT_SEC)
-                response.raise_for_status()
-                
-                html = response.text
-                soup = BeautifulSoup(html, 'html.parser')
-                items = soup.select(".post")
+                # 웹진(카드) 형태 파싱
+                anchor = item.select_one("a[href*='artclView']")
+                if not anchor:
+                    anchor = item.select_one("a[href*='/bbs/']")
+                if not anchor:
+                    # 테이블 형태의 게시판에서 링크 찾기
+                    anchor = item.select_one("td.title a, td a.title")
+                if not anchor:
+                    continue
 
-                for item in items:
-                    name = item.select_one(".post > div").text.strip()
-                    code_temp = item.select_one(".title > a").attrs['href']
-                    pattern = r"'(.*?)'"
-                    code_list = re.findall(pattern, code_temp)
-                    
-                    if len(code_list) > 1:
-                        link = f'https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode={code_list[0]}&boardSeq={code_list[1]}&startDate=&endDate=&id=mnd_020101000000'
-                        date = item.select_one(".post_info > dl").select_one('dd').text.strip()
-                        years, month, day = date.split('.')
+                # 제목 추출
+                title_tag = anchor.select_one(".title span span")
+                if not title_tag:
+                    title_tag = anchor.select_one(".title span")
+                if not title_tag:
+                    title_tag = anchor.select_one("strong.title")
+                if not title_tag:
+                    title_tag = anchor
+                name = title_tag.text.strip()
+                # "새글" 태그 제거
+                name = re.sub(r'\s*새글\s*$', '', name).strip()
+
+                if not name:
+                    continue
+
+                # 링크 추출
+                href = anchor.get('href', '')
+                if href.startswith('/'):
+                    link = f'https://www.mnd.go.kr{href}'
+                elif href.startswith('http'):
+                    link = href
+                else:
+                    continue
+
+                # 날짜 추출 (등록일 : YYYY.MM.DD 형태)
+                date_text = ""
+                detail_items = item.select(".detail li")
+                for detail_li in detail_items:
+                    strong = detail_li.select_one("strong")
+                    if strong and "등록일" in strong.text:
+                        date_text = detail_li.text.replace(strong.text, "").strip()
+                        break
+
+                # 테이블 형태에서 날짜 찾기
+                if not date_text:
+                    date_td = item.select_one("td.date, td:nth-of-type(4)")
+                    if date_td:
+                        date_text = date_td.text.strip()
+
+                if date_text:
+                    # YYYY.MM.DD 또는 YYYY-MM-DD 형태 파싱
+                    date_parts = re.split(r'[.\-/]', date_text)
+                    date_parts = [d.strip() for d in date_parts if d.strip()]
+                    if len(date_parts) >= 3:
+                        years = date_parts[0]
+                        month = date_parts[1]
+                        day = date_parts[2]
                         data.append([name, category, link, years, month, day, "", ""])
-                time.sleep(2)
+                    else:
+                        data.append([name, category, link, "", "", "", "", ""])
+                else:
+                    data.append([name, category, link, "", "", "", "", ""])
+
             except Exception as e:
-                print(f"국방일보({category}, {p}페이지) 크롤링 중 오류: {e}")
+                print(f"  항목 파싱 중 오류: {e}")
+                continue
+
+        time.sleep(2)
+    except Exception as e:
+        print(f"국방뉴스({category}) 크롤링 중 오류: {e}")
 
 df5 = pd.DataFrame(data, columns=['기사명','분류','링크','년','월','일','시','분'])
 os.makedirs('codes', exist_ok=True)
@@ -145,4 +185,4 @@ for item in combined_data:
 with open(full_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, indent=4, ensure_ascii=False)
 
-print(f"성공: 기존 {len(existing_data)}개 + 신규 {len(new_data)}개 -> 합계(중복제거 후) {len(final_data)}개 저장 완료.")
+print(f"[국방부] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")

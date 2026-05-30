@@ -128,4 +128,4 @@ for item in combined_data:
 with open(full_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, indent=4, ensure_ascii=False)
 
-print(f"저장 완료. 총 {len(final_data)}개")
+print(f"[과기정통부] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
