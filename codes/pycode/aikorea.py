@@ -112,10 +112,8 @@ for item in combined_data:
         final_data.append(item)
         seen_links.add(link)
 
-print(f"총 {len(final_data)}개의 데이터가 준비되었습니다.")
-
 # 저장
 with open(full_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, indent=4, ensure_ascii=False)
 
-print(f"저장 완료: {full_path}")
+print(f"[aikorea] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")

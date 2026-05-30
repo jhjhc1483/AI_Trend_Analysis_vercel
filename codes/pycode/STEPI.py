@@ -76,12 +76,9 @@ for item in combined_data:
         final_data.append(item)
         seen_links.add(link)
         
-print(f"총 {len(existing_data)}개의 기존 데이터와 {len(new_data)}개의 새 데이터를 합쳤습니다.")
-print(f"중복을 제거한 후 최종 데이터는 총 {len(final_data)}개입니다.")
-
 # 4. 최종 데이터를 JSON 파일로 저장 (덮어쓰기)
 # indent=4와 force_ascii=False 옵션을 유지하여 가독성 및 한글 보존
 with open(full_path, 'w', encoding='utf-8') as f:
     json.dump(final_data, f, indent=4, ensure_ascii=False)
 
-print(f"\n최종 데이터가 '{full_path}'에 성공적으로 저장되었습니다.")
+print(f"[STEPI] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")

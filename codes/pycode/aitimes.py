@@ -146,7 +146,7 @@ try:
     with open(full_path, 'w', encoding='utf-8') as f:
         json.dump(final_data, f, indent=4, ensure_ascii=False)
 
-    print(f"최종 데이터가 '{full_path}'에 성공적으로 저장되었습니다.")
+    print(f"[aitimes] 완료: 신규 {total_new}건 수집 | 기존 {total_existing}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
 
 except Exception as e:
     print(f"크롤링/스크래핑 중 치명적인 오류 발생: {e}")
