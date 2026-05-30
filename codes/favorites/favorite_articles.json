@@ -1,5 +1,10 @@
 [
   {
+    "title": "〃AI 보안에 사활 걸었다〃 IBM·레드햇, 오픈소스 보안 위해 50억달러 투자…‘프로젝트 라이트웰’ 출범",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40268",
+    "category": "해외"
+  },
+  {
     "title": "〃휴머노이드 ＇아틀라스＇, 패스·슈팅·라보나까지〃…현대차 로봇, 축구 예능 찍으며 피지컬 AI 증명",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40267",
     "category": "민간"
@@ -20,39 +25,24 @@
     "category": "해외"
   },
   {
+    "title": "네이버 커넥트재단,서울대와 국내 AI 인재 양성... AI 커리큘럼 공동 개발 등 AI 교육 생태계 확장",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40257",
+    "category": "민간"
+  },
+  {
     "title": "〃차세대 AI 메모리 시장 판도 바꾼다!〃...삼성전자, 세계 최초 HBM4E 12단 샘플 출하",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40253",
     "category": "민간"
   },
   {
+    "title": "세계경제포럼, “중동 충격에 글로벌 성장 급속 둔화”…AI는 유일한 성장 버팀목",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40251",
+    "category": "기타"
+  },
+  {
     "title": "교육부, 초·중등 인공지능 교육 담당교원 역량강화 연수 본격 운영",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40250",
     "category": "기관"
-  },
-  {
-    "title": "군·산·학·연 전문가 모여…국방M&S 발전방향 찾다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49210&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "한·스웨덴, AI·우주 등 국방기술· 방산협력 확대",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49213&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "AI·데이터 활용한 효율적 업무 혁신방안 눈길",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=49217&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "해병대 ‘AI 대전환’ 방향은…포특사 장병·군무원 대상 초빙 강연",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=49227&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
-  },
-  {
-    "title": "안정적·효율적 ‘항공엔진 수명관리’ 경험 나누다",
-    "link": "https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=49233&startDate=&endDate=&id=mnd_020101000000",
-    "category": "국방"
   },
   {
     "title": "피지컬·제조 AI와 정부 AX로 성과 창출 확대,연구 자율성·창의성 제고를 위한 범부처 협력 강화",
@@ -65,14 +55,9 @@
     "category": "기관"
   },
   {
-    "title": "울산에 AI 특화 공동훈련센터 개소",
-    "link": "https://www.etnews.com/20260529000001",
-    "category": "기관"
-  },
-  {
-    "title": "[기고]ISMS-P 인증받고도 뚫린다… 미토스 시대, 실전 사이버보안으로 가야 한다",
-    "link": "https://www.etnews.com/20260529000334",
-    "category": "기타"
+    "title": "앤트로픽, 기업가치 1440조원…오픈AI 넘었다",
+    "link": "https://www.etnews.com/20260529000002",
+    "category": "해외"
   },
   {
     "title": "카카오골프예약, 챗GPT로 티타임 잡는다",
@@ -80,24 +65,24 @@
     "category": "민간"
   },
   {
+    "title": "서울AI재단, 중국 쓰촨성·세르비아 과기부와 글로벌 AI 협력",
+    "link": "https://www.etnews.com/20260529000230",
+    "category": "기관"
+  },
+  {
     "title": "노타, 퀄컴 최신 엣지 AI 디바이스에서 피지컬 AI 모델 최적화 성공",
     "link": "https://www.etnews.com/20260529000208",
     "category": "민간"
   },
   {
-    "title": "경상국립대-UNIST ＇2026 우주항공·방산 기술교류회＇ 성료",
-    "link": "https://www.etnews.com/20260529000148",
-    "category": "국방"
-  },
-  {
-    "title": "KOIIA, 팁스(TIPS) 연계 ＇산업AX 배치 프로그램 2기＇ 모집 본격 가동",
-    "link": "https://www.etnews.com/20260529000116",
+    "title": "＇미토스 충격＇ 대응…정부, 2027년 독자 AI 보안체계 구축",
+    "link": "https://www.etnews.com/20260529000173",
     "category": "기관"
   },
   {
-    "title": "혁신클러스터학회, ＇2026 춘계학술대회＇ 개최...＇AX 전환 시대＇ 혁신클러스터 변화 대응 모색",
-    "link": "https://www.etnews.com/20260529000011",
-    "category": "기타"
+    "title": "[에듀플러스]가천대, 과기정통부 생성AI 선도인재양성사업 참여대학 선정",
+    "link": "https://www.etnews.com/20260529000170",
+    "category": "기관"
   },
   {
     "title": "구글·메타, AI가 스스로 추론 최적화하는 기술 개발...〃토큰 비용 69.5% 절감〃",
@@ -125,8 +110,8 @@
     "category": "기관"
   },
   {
-    "title": "MS, 2일 ‘빌드’서 자체 코딩 모델 공개 예정…〃가성비로 승부〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211075",
-    "category": "해외"
+    "title": "STT GDC 〃한국 AI 도입 ROI 효과 독보적이나 인프라는 하위권〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211062",
+    "category": "기타"
   }
 ]

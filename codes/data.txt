@@ -1,31 +1,15 @@
 📢26.05.30 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 군·산·학·연 전문가 모여…국방M&S 발전방향 찾다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49210&startDate=&endDate=&id=mnd_020101000000
-
-◾ 한·스웨덴, AI·우주 등 국방기술· 방산협력 확대
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0003&boardSeq=49213&startDate=&endDate=&id=mnd_020101000000
-
-◾ AI·데이터 활용한 효율적 업무 혁신방안 눈길
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0004&boardSeq=49217&startDate=&endDate=&id=mnd_020101000000
-
-◾ 해병대 ‘AI 대전환’ 방향은…포특사 장병·군무원 대상 초빙 강연
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0005&boardSeq=49227&startDate=&endDate=&id=mnd_020101000000
-
-◾ 안정적·효율적 ‘항공엔진 수명관리’ 경험 나누다
-https://www.mnd.go.kr/cop/kookbang/kookbangIlboView.do?siteId=mnd&pageIndex=1&findType=&findWord=&categoryCode=dema0006&boardSeq=49233&startDate=&endDate=&id=mnd_020101000000
-
-◾ 경상국립대-UNIST ＇2026 우주항공·방산 기술교류회＇ 성료
-https://www.etnews.com/20260529000148
-
 [민간]
 ◾ 〃휴머노이드 ＇아틀라스＇, 패스·슈팅·라보나까지〃…현대차 로봇, 축구 예능 찍으며 피지컬 AI 증명
 https://www.aitimes.kr/news/articleView.html?idxno=40267
 
 ◾ 삼성SDS ‘AX 서밋’ 개최, AI 네이티브 기업 전환 위한 전략·기술 로드맵 공개
 https://www.aitimes.kr/news/articleView.html?idxno=40263
+
+◾ 네이버 커넥트재단,서울대와 국내 AI 인재 양성... AI 커리큘럼 공동 개발 등 AI 교육 생태계 확장
+https://www.aitimes.kr/news/articleView.html?idxno=40257
 
 ◾ 〃차세대 AI 메모리 시장 판도 바꾼다!〃...삼성전자, 세계 최초 HBM4E 12단 샘플 출하
 https://www.aitimes.kr/news/articleView.html?idxno=40253
@@ -49,21 +33,30 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ [보도참고] 해커수준의 AI 사이버위협, 민관이 함께 대응 과기정통부, 「AI 기반 사이버위협 대응 민간 정보보호추진계획 발표」
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187377&searchOpt=ALL&searchTxt=
 
-◾ 울산에 AI 특화 공동훈련센터 개소
-https://www.etnews.com/20260529000001
+◾ 서울AI재단, 중국 쓰촨성·세르비아 과기부와 글로벌 AI 협력
+https://www.etnews.com/20260529000230
 
-◾ KOIIA, 팁스(TIPS) 연계 ＇산업AX 배치 프로그램 2기＇ 모집 본격 가동
-https://www.etnews.com/20260529000116
+◾ ＇미토스 충격＇ 대응…정부, 2027년 독자 AI 보안체계 구축
+https://www.etnews.com/20260529000173
+
+◾ [에듀플러스]가천대, 과기정통부 생성AI 선도인재양성사업 참여대학 선정
+https://www.etnews.com/20260529000170
 
 ◾ 산업부, ＇AI 로봇 얼라이언스＇ 1년 성과 점검...〃현장 확산·국산화 가시화〃
 https://www.aitimes.com/news/articleView.html?idxno=211100
 
 [해외]
+◾ 〃AI 보안에 사활 걸었다〃 IBM·레드햇, 오픈소스 보안 위해 50억달러 투자…‘프로젝트 라이트웰’ 출범
+https://www.aitimes.kr/news/articleView.html?idxno=40268
+
 ◾ 인공지능, ‘근거 없는 과신’ 잡았다… 앤트로픽, 차세대 플래그십 AI ‘클로드 오푸스 4.8’ 전격 출시
 https://www.aitimes.kr/news/articleView.html?idxno=40262
 
 ◾ 오픈AI, 한국 첫 ‘이그젝 서밋’서 국내 기업 경영진들과 엔터프라이즈 AI 확대 논의
 https://www.aitimes.kr/news/articleView.html?idxno=40259
+
+◾ 앤트로픽, 기업가치 1440조원…오픈AI 넘었다
+https://www.etnews.com/20260529000002
 
 ◾ 구글·메타, AI가 스스로 추론 최적화하는 기술 개발...〃토큰 비용 69.5% 절감〃
 https://www.aitimes.com/news/articleView.html?idxno=211087
@@ -74,15 +67,12 @@ https://www.aitimes.com/news/articleView.html?idxno=211107
 ◾ 바이트댄스, 추론 인프라용 CPU 독자 개발…빅테크 ＇자체 칩＇ 대열 합류
 https://www.aitimes.com/news/articleView.html?idxno=211113
 
-◾ MS, 2일 ‘빌드’서 자체 코딩 모델 공개 예정…〃가성비로 승부〃
-https://www.aitimes.com/news/articleView.html?idxno=211075
-
 [기타]
-◾ [기고]ISMS-P 인증받고도 뚫린다… 미토스 시대, 실전 사이버보안으로 가야 한다
-https://www.etnews.com/20260529000334
+◾ 세계경제포럼, “중동 충격에 글로벌 성장 급속 둔화”…AI는 유일한 성장 버팀목
+https://www.aitimes.kr/news/articleView.html?idxno=40251
 
-◾ 혁신클러스터학회, ＇2026 춘계학술대회＇ 개최...＇AX 전환 시대＇ 혁신클러스터 변화 대응 모색
-https://www.etnews.com/20260529000011
+◾ STT GDC 〃한국 AI 도입 ROI 효과 독보적이나 인프라는 하위권〃
+https://www.aitimes.com/news/articleView.html?idxno=211062
 
 📚 간행물
 ◾ 국가연구개발사업 예비타당성 조사 폐지 이후의 과제: 숙의에 기반한 수요기반 사업기획 고도화
