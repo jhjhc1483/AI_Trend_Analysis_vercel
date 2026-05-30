@@ -63,6 +63,45 @@ async def main():
         
         print(f">>> 오디오 파일 생성 완료! ({output_file})")
 
+        # 6. 카카오톡 공유용 브리핑 텍스트 생성 (추가됨)
+        print(">>> Gemini에게 카카오톡 공유용 브리핑 텍스트를 요청합니다...")
+        import json
+        from datetime import datetime
+
+        today_str = datetime.now().strftime("%Y.%m.%d")
+        
+        briefing_prompt = f"""
+        너는 IT/AI 트렌드를 사람들에게 전달하는 뉴스 큐레이터야.
+        아래 [데이터]를 바탕으로, 오늘 가장 중요한 핵심 기사 3개만 골라서 아래의 [출력 양식]에 맞춰 작성해줘.
+        
+        [출력 양식]
+        - [기사 요약 1 (간결하게 한 줄로)]
+        - [기사 요약 2 (간결하게 한 줄로)]
+        - [기사 요약 3 (간결하게 한 줄로)]
+        
+        [주의사항]
+        - [출력 양식] 텍스트 구조를 그대로 유지해.
+        - 제목이나 부연설명 없이 오직 '- '로 시작하는 리스트 3줄만 출력해.
+
+        [데이터]
+        {raw_text}
+        """
+
+        briefing_response = model.generate_content(briefing_prompt)
+        briefing_text = briefing_response.text.strip()
+        
+        # 결과를 JSON으로 저장 (visualizer_brief.html에서 읽어서 쓰기 위함)
+        briefing_data = {
+            "date": today_str,
+            "text": briefing_text
+        }
+        
+        briefing_file = "public/briefing.json"
+        with open(briefing_file, "w", encoding="utf-8") as bf:
+            json.dump(briefing_data, bf, ensure_ascii=False, indent=2)
+            
+        print(">>> 카톡 공유용 브리핑 JSON 생성 완료!")
+
     except Exception as e:
         print(f"오류 발생: {e}")
         exit(1)
