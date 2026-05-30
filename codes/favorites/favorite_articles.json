@@ -1,117 +1,52 @@
 [
   {
-    "title": "〃AI 보안에 사활 걸었다〃 IBM·레드햇, 오픈소스 보안 위해 50억달러 투자…‘프로젝트 라이트웰’ 출범",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40268",
+    "title": "중국 엔진AI, 휴머노이드 양산 체제 돌입…“15분마다 로봇 1대 생산”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40271",
     "category": "해외"
   },
   {
-    "title": "〃휴머노이드 ＇아틀라스＇, 패스·슈팅·라보나까지〃…현대차 로봇, 축구 예능 찍으며 피지컬 AI 증명",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40267",
+    "title": "류제명 제2차관, 주요 7개국(G7) 디지털 기술 장관회의 참석",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187386&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "[무엇이든 리뷰] AI가 방송 기획부터 제작 현장까지 파고든다…＇KT알파 쇼핑 미디어센터＇ 탐방",
+    "link": "https://www.etnews.com/20260529000256",
     "category": "민간"
   },
   {
-    "title": "삼성SDS ‘AX 서밋’ 개최, AI 네이티브 기업 전환 위한 전략·기술 로드맵 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40263",
-    "category": "민간"
-  },
-  {
-    "title": "인공지능, ‘근거 없는 과신’ 잡았다… 앤트로픽, 차세대 플래그십 AI ‘클로드 오푸스 4.8’ 전격 출시",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40262",
+    "title": "리퀴드 AI, 온디바이스용 모델 ‘LFM2.5’ 공개…환각 줄고 추론 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211132",
     "category": "해외"
   },
   {
-    "title": "오픈AI, 한국 첫 ‘이그젝 서밋’서 국내 기업 경영진들과 엔터프라이즈 AI 확대 논의",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40259",
+    "title": "스텝펀, ‘스텝 3.7 플래시’ 공개...〃클로드 97% 성능인데 비용은 1/9〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211130",
     "category": "해외"
   },
   {
-    "title": "네이버 커넥트재단,서울대와 국내 AI 인재 양성... AI 커리큘럼 공동 개발 등 AI 교육 생태계 확장",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40257",
-    "category": "민간"
-  },
-  {
-    "title": "〃차세대 AI 메모리 시장 판도 바꾼다!〃...삼성전자, 세계 최초 HBM4E 12단 샘플 출하",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40253",
-    "category": "민간"
-  },
-  {
-    "title": "세계경제포럼, “중동 충격에 글로벌 성장 급속 둔화”…AI는 유일한 성장 버팀목",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40251",
-    "category": "기타"
-  },
-  {
-    "title": "교육부, 초·중등 인공지능 교육 담당교원 역량강화 연수 본격 운영",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40250",
-    "category": "기관"
-  },
-  {
-    "title": "피지컬·제조 AI와 정부 AX로 성과 창출 확대,연구 자율성·창의성 제고를 위한 범부처 협력 강화",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187380&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "[보도참고] 해커수준의 AI 사이버위협, 민관이 함께 대응 과기정통부, 「AI 기반 사이버위협 대응 민간 정보보호추진계획 발표」",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187377&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "앤트로픽, 기업가치 1440조원…오픈AI 넘었다",
-    "link": "https://www.etnews.com/20260529000002",
+    "title": "오픈AI, 윈도우용 코덱스에 ‘컴퓨터 유즈’ 도입…모바일 원격 제어 지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211135",
     "category": "해외"
   },
   {
-    "title": "카카오골프예약, 챗GPT로 티타임 잡는다",
-    "link": "https://www.etnews.com/20260529000250",
-    "category": "민간"
-  },
-  {
-    "title": "서울AI재단, 중국 쓰촨성·세르비아 과기부와 글로벌 AI 협력",
-    "link": "https://www.etnews.com/20260529000230",
-    "category": "기관"
-  },
-  {
-    "title": "노타, 퀄컴 최신 엣지 AI 디바이스에서 피지컬 AI 모델 최적화 성공",
-    "link": "https://www.etnews.com/20260529000208",
-    "category": "민간"
-  },
-  {
-    "title": "＇미토스 충격＇ 대응…정부, 2027년 독자 AI 보안체계 구축",
-    "link": "https://www.etnews.com/20260529000173",
-    "category": "기관"
-  },
-  {
-    "title": "[에듀플러스]가천대, 과기정통부 생성AI 선도인재양성사업 참여대학 선정",
-    "link": "https://www.etnews.com/20260529000170",
-    "category": "기관"
-  },
-  {
-    "title": "구글·메타, AI가 스스로 추론 최적화하는 기술 개발...〃토큰 비용 69.5% 절감〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211087",
+    "title": "구글, ‘나노 바나나 2·프로’ 정식 출시…〃동영상 보고 이미지 만든다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211134",
     "category": "해외"
   },
   {
-    "title": "애플, WWDC서 ‘엣지 AI’ 전면 선언…데이터센터 의존 줄여 ＇비용 절감＇",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211107",
+    "title": "오픈AI는 동맹국 확장, 앤트로픽은 제한…엇갈리는 사이버보안 전략",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211131",
     "category": "해외"
   },
   {
-    "title": "바이트댄스, 추론 인프라용 CPU 독자 개발…빅테크 ＇자체 칩＇ 대열 합류",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211113",
+    "title": "메타, ‘AI 펜던트’ 개발 착수…AI 안경 라인업도 대폭 추가",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211141",
     "category": "해외"
   },
   {
-    "title": "코난테크놀로지, 산업 특화 AI 안경 ＇비전플로우＇ 연내 출시 목표",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211103",
+    "title": "〃페인트 모션 후 라보나 킥〃…현대차, RL로 구현한 휴머노이드 제어 기술 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211138",
     "category": "민간"
-  },
-  {
-    "title": "산업부, ＇AI 로봇 얼라이언스＇ 1년 성과 점검...〃현장 확산·국산화 가시화〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211100",
-    "category": "기관"
-  },
-  {
-    "title": "STT GDC 〃한국 AI 도입 ROI 효과 독보적이나 인프라는 하위권〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211062",
-    "category": "기타"
   }
 ]

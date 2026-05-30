@@ -8651,5 +8651,65 @@
         }
       ]
     }
+  },
+  "26.05.31": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "중국 엔진AI, 휴머노이드 양산 체제 돌입…“15분마다 로봇 1대 생산”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40271",
+          "category": "해외"
+        },
+        {
+          "title": "리퀴드 AI, 온디바이스용 모델 ‘LFM2.5’ 공개…환각 줄고 추론 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211132",
+          "category": "해외"
+        },
+        {
+          "title": "스텝펀, ‘스텝 3.7 플래시’ 공개...〃클로드 97% 성능인데 비용은 1/9〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211130",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 윈도우용 코덱스에 ‘컴퓨터 유즈’ 도입…모바일 원격 제어 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211135",
+          "category": "해외"
+        },
+        {
+          "title": "구글, ‘나노 바나나 2·프로’ 정식 출시…〃동영상 보고 이미지 만든다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211134",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI는 동맹국 확장, 앤트로픽은 제한…엇갈리는 사이버보안 전략",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211131",
+          "category": "해외"
+        },
+        {
+          "title": "메타, ‘AI 펜던트’ 개발 착수…AI 안경 라인업도 대폭 추가",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211141",
+          "category": "해외"
+        }
+      ],
+      "기관": [
+        {
+          "title": "류제명 제2차관, 주요 7개국(G7) 디지털 기술 장관회의 참석",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187386&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[무엇이든 리뷰] AI가 방송 기획부터 제작 현장까지 파고든다…＇KT알파 쇼핑 미디어센터＇ 탐방",
+          "link": "https://www.etnews.com/20260529000256",
+          "category": "민간"
+        },
+        {
+          "title": "〃페인트 모션 후 라보나 킥〃…현대차, RL로 구현한 휴머노이드 제어 기술 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211138",
+          "category": "민간"
+        }
+      ]
+    }
   }
 }

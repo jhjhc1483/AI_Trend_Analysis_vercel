@@ -1,94 +1,38 @@
-📢26.05.30 AI 일일 동향📢
+📢26.05.31 AI 일일 동향📢
 
 📰 오늘의 기사
 [민간]
-◾ 〃휴머노이드 ＇아틀라스＇, 패스·슈팅·라보나까지〃…현대차 로봇, 축구 예능 찍으며 피지컬 AI 증명
-https://www.aitimes.kr/news/articleView.html?idxno=40267
+◾ [무엇이든 리뷰] AI가 방송 기획부터 제작 현장까지 파고든다…＇KT알파 쇼핑 미디어센터＇ 탐방
+https://www.etnews.com/20260529000256
 
-◾ 삼성SDS ‘AX 서밋’ 개최, AI 네이티브 기업 전환 위한 전략·기술 로드맵 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40263
-
-◾ 네이버 커넥트재단,서울대와 국내 AI 인재 양성... AI 커리큘럼 공동 개발 등 AI 교육 생태계 확장
-https://www.aitimes.kr/news/articleView.html?idxno=40257
-
-◾ 〃차세대 AI 메모리 시장 판도 바꾼다!〃...삼성전자, 세계 최초 HBM4E 12단 샘플 출하
-https://www.aitimes.kr/news/articleView.html?idxno=40253
-
-◾ 카카오골프예약, 챗GPT로 티타임 잡는다
-https://www.etnews.com/20260529000250
-
-◾ 노타, 퀄컴 최신 엣지 AI 디바이스에서 피지컬 AI 모델 최적화 성공
-https://www.etnews.com/20260529000208
-
-◾ 코난테크놀로지, 산업 특화 AI 안경 ＇비전플로우＇ 연내 출시 목표
-https://www.aitimes.com/news/articleView.html?idxno=211103
+◾ 〃페인트 모션 후 라보나 킥〃…현대차, RL로 구현한 휴머노이드 제어 기술 공개
+https://www.aitimes.com/news/articleView.html?idxno=211138
 
 [기관]
-◾ 교육부, 초·중등 인공지능 교육 담당교원 역량강화 연수 본격 운영
-https://www.aitimes.kr/news/articleView.html?idxno=40250
-
-◾ 피지컬·제조 AI와 정부 AX로 성과 창출 확대,연구 자율성·창의성 제고를 위한 범부처 협력 강화
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187380&searchOpt=ALL&searchTxt=
-
-◾ [보도참고] 해커수준의 AI 사이버위협, 민관이 함께 대응 과기정통부, 「AI 기반 사이버위협 대응 민간 정보보호추진계획 발표」
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187377&searchOpt=ALL&searchTxt=
-
-◾ 서울AI재단, 중국 쓰촨성·세르비아 과기부와 글로벌 AI 협력
-https://www.etnews.com/20260529000230
-
-◾ ＇미토스 충격＇ 대응…정부, 2027년 독자 AI 보안체계 구축
-https://www.etnews.com/20260529000173
-
-◾ [에듀플러스]가천대, 과기정통부 생성AI 선도인재양성사업 참여대학 선정
-https://www.etnews.com/20260529000170
-
-◾ 산업부, ＇AI 로봇 얼라이언스＇ 1년 성과 점검...〃현장 확산·국산화 가시화〃
-https://www.aitimes.com/news/articleView.html?idxno=211100
+◾ 류제명 제2차관, 주요 7개국(G7) 디지털 기술 장관회의 참석
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187386&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 〃AI 보안에 사활 걸었다〃 IBM·레드햇, 오픈소스 보안 위해 50억달러 투자…‘프로젝트 라이트웰’ 출범
-https://www.aitimes.kr/news/articleView.html?idxno=40268
+◾ 중국 엔진AI, 휴머노이드 양산 체제 돌입…“15분마다 로봇 1대 생산”
+https://www.aitimes.kr/news/articleView.html?idxno=40271
 
-◾ 인공지능, ‘근거 없는 과신’ 잡았다… 앤트로픽, 차세대 플래그십 AI ‘클로드 오푸스 4.8’ 전격 출시
-https://www.aitimes.kr/news/articleView.html?idxno=40262
+◾ 리퀴드 AI, 온디바이스용 모델 ‘LFM2.5’ 공개…환각 줄고 추론 강화
+https://www.aitimes.com/news/articleView.html?idxno=211132
 
-◾ 오픈AI, 한국 첫 ‘이그젝 서밋’서 국내 기업 경영진들과 엔터프라이즈 AI 확대 논의
-https://www.aitimes.kr/news/articleView.html?idxno=40259
+◾ 스텝펀, ‘스텝 3.7 플래시’ 공개...〃클로드 97% 성능인데 비용은 1/9〃
+https://www.aitimes.com/news/articleView.html?idxno=211130
 
-◾ 앤트로픽, 기업가치 1440조원…오픈AI 넘었다
-https://www.etnews.com/20260529000002
+◾ 오픈AI, 윈도우용 코덱스에 ‘컴퓨터 유즈’ 도입…모바일 원격 제어 지원
+https://www.aitimes.com/news/articleView.html?idxno=211135
 
-◾ 구글·메타, AI가 스스로 추론 최적화하는 기술 개발...〃토큰 비용 69.5% 절감〃
-https://www.aitimes.com/news/articleView.html?idxno=211087
+◾ 구글, ‘나노 바나나 2·프로’ 정식 출시…〃동영상 보고 이미지 만든다〃
+https://www.aitimes.com/news/articleView.html?idxno=211134
 
-◾ 애플, WWDC서 ‘엣지 AI’ 전면 선언…데이터센터 의존 줄여 ＇비용 절감＇
-https://www.aitimes.com/news/articleView.html?idxno=211107
+◾ 오픈AI는 동맹국 확장, 앤트로픽은 제한…엇갈리는 사이버보안 전략
+https://www.aitimes.com/news/articleView.html?idxno=211131
 
-◾ 바이트댄스, 추론 인프라용 CPU 독자 개발…빅테크 ＇자체 칩＇ 대열 합류
-https://www.aitimes.com/news/articleView.html?idxno=211113
-
-[기타]
-◾ 세계경제포럼, “중동 충격에 글로벌 성장 급속 둔화”…AI는 유일한 성장 버팀목
-https://www.aitimes.kr/news/articleView.html?idxno=40251
-
-◾ STT GDC 〃한국 AI 도입 ROI 효과 독보적이나 인프라는 하위권〃
-https://www.aitimes.com/news/articleView.html?idxno=211062
-
-📚 간행물
-◾ 국가연구개발사업 예비타당성 조사 폐지 이후의 과제: 숙의에 기반한 수요기반 사업기획 고도화
-https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=68&cateCont=A0513&cbIdx=0&searchKey=
-
-◾ 2025년 한국인터넷백서
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99871&bcIdx=29464&parentSeq=29464
-
-◾ 「AI.GOV 해외동향」 2026-2호
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=29463&parentSeq=29463
-
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 5월 2주차)
-https://www.kisa.or.kr/20202/form?postSeq=475&page=1
-
-◾ 2025 데이터산업 현황조사
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260529-000001&cpage=1&rows=10&searchTarget=all
+◾ 메타, ‘AI 펜던트’ 개발 착수…AI 안경 라인업도 대폭 추가
+https://www.aitimes.com/news/articleView.html?idxno=211141
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
