@@ -79,8 +79,8 @@ for page_info in news_pages:
         items = soup.select(".thumnailWrap.webzine li")
         
         if not items:
-            # 대체 시도: 일반 게시판 목록 형태 (.board-list 내부의 테이블)
-            items = soup.select(".board-list tbody tr")
+            # 대체 시도: 일반 게시판 목록 형태 (.board-list 또는 .board-table 내부의 테이블)
+            items = soup.select(".board-list tbody tr, .board-table tbody tr")
 
         print(f"  발견된 게시글 수: {len(items)}")
 
@@ -131,9 +131,13 @@ for page_info in news_pages:
 
                 # 테이블 형태에서 날짜 찾기
                 if not date_text:
-                    date_td = item.select_one("td.date, td:nth-of-type(4)")
-                    if date_td:
-                        date_text = date_td.text.strip()
+                    # 모든 td를 가져와서 텍스트 중 YYYY.MM.DD 형태가 있는지 찾음
+                    all_tds = item.select("td")
+                    for td in all_tds:
+                        date_match = re.search(r'(202\d[.\-/]\d{2}[.\-/]\d{2})', td.text)
+                        if date_match:
+                            date_text = date_match.group(1)
+                            break
 
                 if date_text:
                     # YYYY.MM.DD 또는 YYYY-MM-DD 형태 파싱
