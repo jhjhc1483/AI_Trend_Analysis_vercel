@@ -2,7 +2,7 @@
 import os
 import asyncio
 import google.generativeai as genai
-from google.cloud import texttospeech # 구글 클라우드 TTS 라이브러리
+import edge_tts # Edge-TTS 라이브러리
 
 # 1. 환경 변수 설정
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
@@ -51,45 +51,24 @@ async def main():
         script = script.replace("*", "").replace("#", "").replace("-", "").replace('"', "")
         print(f">>> 생성된 대본:\n{script[:100]}...")
 
-        # 5. Google Cloud TTS 생성
-        print(">>> Google Cloud TTS(Neural2)로 변환 시작...")
-
-        client = texttospeech.TextToSpeechClient()
-
-        synthesis_input = texttospeech.SynthesisInput(text=script)
-        # ko-KR-Neural2-A: 여성 (차분함, 추천)
-        # ko-KR-Neural2-C: 남성 (중후함)
-        # ko-KR-Neural2-B: 여성 (약간 높은 톤)
-        voice = texttospeech.VoiceSelectionParams(
-            language_code="ko-KR",
-            name="ko-KR-Neural2-A" 
-        )
-
-        # 오디오 설정
-        audio_config = texttospeech.AudioConfig(
-            audio_encoding=texttospeech.AudioEncoding.MP3,
-            speaking_rate=1.0,
-            pitch=0.0        
-        )
-
-        # API 요청
-        response = client.synthesize_speech(
-            input=synthesis_input, voice=voice, audio_config=audio_config
-        )
-
-        # 파일 저장
+        # 5. Edge-TTS 생성
+        print(">>> Edge-TTS(ko-KR-SunHiNeural)로 변환 시작...")
+        
+        voice = "ko-KR-SunHiNeural"
         output_file = "public/audio.mp3"
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
-
-        with open(output_file, "wb") as out:
-            out.write(response.audio_content)
-            print(">>> 오디오 파일 생성 완료!")
+        
+        communicate = edge_tts.Communicate(script, voice, rate="+0%")
+        await communicate.save(output_file)
+        
+        print(f">>> 오디오 파일 생성 완료! ({output_file})")
 
     except Exception as e:
         print(f"오류 발생: {e}")
-        if "DefaultCredentialsError" in str(e):
-            print("Tip: GCP_SA_KEY 시크릿이 올바른 JSON 형식이 맞는지 확인하세요.")
         exit(1)
 
 if __name__ == "__main__":
+    # 윈도우 환경에서 발생할 수 있는 asyncio 에러 방지
+    if os.name == 'nt':
+        asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
     asyncio.run(main())
