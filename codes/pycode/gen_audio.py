@@ -71,8 +71,8 @@ async def main():
         today_str = datetime.now().strftime("%Y.%m.%d")
         
         briefing_prompt = f"""
-        너는 IT/AI 트렌드를 사람들에게 전달하는 뉴스 큐레이터야.
-        아래 [데이터]를 바탕으로, 오늘 가장 중요한 핵심 기사 3개만 골라서 아래의 [출력 양식]에 맞춰 작성해줘.
+        너는 IT/AI 트렌드를 사람들에게 전달하는 뉴스 큐레이터야. 
+        아래 [데이터]를 바탕으로, 오늘 가장 육군 간부들이 관심 갖을만한 AI 관련 주요 핵심 기사 3개만 골라서 아래의 [출력 양식]에 맞춰 작성해줘.
         
         [출력 양식]
         - [기사 요약 1 (간결하게 한 줄로)]
@@ -110,4 +110,4 @@ if __name__ == "__main__":
     # 윈도우 환경에서 발생할 수 있는 asyncio 에러 방지
     if os.name == 'nt':
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-    asyncio.run(main())
+    asyncio.run(main()) 
