@@ -30,10 +30,11 @@ jobs:
       run: |
         python codes/pycode/gen_audio.py
 
-    - name: 결과물(mp3) 커밋 및 푸시
+    - name: 결과물(mp3, json) 커밋 및 푸시
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
         git add public/audio.mp3
-        git commit -m "Update audio (Edge-TTS)" || echo "No changes to commit"
+        git add public/briefing.json
+        git commit -m "Update audio and briefing (Edge-TTS)" || echo "No changes to commit"
         git push
