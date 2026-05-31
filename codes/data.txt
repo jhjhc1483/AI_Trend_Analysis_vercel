@@ -1,41 +1,85 @@
-📢26.05.31 AI 일일 동향📢
+📢26.06.01 AI 일일 동향📢
 
 📰 오늘의 기사
-[민간]
-◾ [무엇이든 리뷰] AI가 방송 기획부터 제작 현장까지 파고든다…＇KT알파 쇼핑 미디어센터＇ 탐방
-https://www.etnews.com/20260529000256
+[국방]
+◾ 네이버클라우드, 국방AX 전담  조직 신설…“초기 시장 주도권 확보한다”
+https://www.etnews.com/20260531000108
 
-◾ 〃페인트 모션 후 라보나 킥〃…현대차, RL로 구현한 휴머노이드 제어 기술 공개
-https://www.aitimes.com/news/articleView.html?idxno=211138
+[민간]
+◾ [AI 이슈] “AI 팩토리, 제조업 판을 뒤집는다”…생산성 60% 혁신 성장, 글로벌 산업지도 재편
+https://www.aitimes.kr/news/articleView.html?idxno=40284
+
+◾ LG화학, CEO 포함 리더 1000 명 등 AX 교육 3000명 돌파
+https://www.aitimes.kr/news/articleView.html?idxno=40276
+
+◾ NC AI-포스코DX, 로봇 AI브레인 공동 개발 맞손
+https://www.aitimes.kr/news/articleView.html?idxno=40266
+
+◾ 삼성·LG 제조 자동화 속도…계열 로봇사 성장세
+https://www.etnews.com/20260529000199
+
+◾ [뉴스줌인] 농협은행, AI ＇내재화＇로 승부수 띄웠다
+https://www.etnews.com/20260531000080
+
+◾ 구글, 국내 지도 시장 본격 공략 채비…네카오, 지도 편의 기능 고도화로 견제
+https://www.etnews.com/20260531000021
+
+◾ “단순 감지 넘어 맥락까지 본다”…그렙, 시험감독 기술에 ‘에이전트’ 도입
+https://www.aitimes.com/news/articleView.html?idxno=211152
 
 [기관]
-◾ 류제명 제2차관, 주요 7개국(G7) 디지털 기술 장관회의 참석
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187386&searchOpt=ALL&searchTxt=
+◾ 개인정보위, 네이버 검색 AI 에이전트 서비스 ‘AI Tab’ 사전적정성 검토 결과 의결
+https://www.aitimes.kr/news/articleView.html?idxno=40273
 
-◾ 국립목포대, 5년 연속 ＇소상공인 디지털 특성화대학＇ 선정
-https://www.etnews.com/20260529000043
+◾ [국가과학기술자문회의] 국가과학기술자문회의, 자문의제 발굴을 위한 대국민 제안 수렴
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187385&searchOpt=ALL&searchTxt=
+
+◾ 세계 최고 과학자 유치 본격화… '톱티어[Top-Tier] 비자' 교수·연구원까지 확대
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187384&searchOpt=ALL&searchTxt=
+
+◾ 이재명 정부 AI 정책 1년, “강국 토대 확보…응용·AX·규제혁신 본격화해야”
+https://www.etnews.com/20260529000281
+
+◾ 진료정보교류 AX, 전국으로 뻗는다…복지부, 이달 AI의료 전략 발표
+https://www.etnews.com/20260531000081
+
+◾ 의사결정형 농업 AI 발굴…농식품부, ＇스마트농업 AI 경진대회＇ 참가자 모집
+https://www.etnews.com/20260531000060
+
+◾ “AI 서버 구축 전 미리 성능 검증”…KAIST, LLM 인프라 시뮬레이터 개발
+https://www.aitimes.com/news/articleView.html?idxno=211151
 
 [해외]
-◾ 중국 엔진AI, 휴머노이드 양산 체제 돌입…“15분마다 로봇 1대 생산”
-https://www.aitimes.kr/news/articleView.html?idxno=40271
+◾ [AI 리뷰] 아마존, “AI는 이제 행동한다”…현실 세계 업무 수행하는 에이전트 AI 전략 공개
+https://www.aitimes.kr/news/articleView.html?idxno=40282
 
-◾ 리퀴드 AI, 온디바이스용 모델 ‘LFM2.5’ 공개…환각 줄고 추론 강화
-https://www.aitimes.com/news/articleView.html?idxno=211132
+◾ 앤트로픽, 시리즈 H로  98조원 투자 유치…기업가치 1454조원으로 급등
+https://www.aitimes.kr/news/articleView.html?idxno=40281
 
-◾ 스텝펀, ‘스텝 3.7 플래시’ 공개...〃클로드 97% 성능인데 비용은 1/9〃
-https://www.aitimes.com/news/articleView.html?idxno=211130
+◾ 우크라, 드론 이어 ‘지상 킬러 로봇’ 대거 투입…전쟁 판도 바꿨다
+https://kookbang.dema.mil.kr/newsWeb/20260601/2/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=Led_AB1g2HHmLw7Dz45ag2R-hqsXx2bsKrYwudJjuRpfz7leqqVu!730580237
 
-◾ 오픈AI, 윈도우용 코덱스에 ‘컴퓨터 유즈’ 도입…모바일 원격 제어 지원
-https://www.aitimes.com/news/articleView.html?idxno=211135
+◾ 오픈 모델, 폐쇄형에 4개월 뒤져…에포크 〃격차 다시 확대〃
+https://www.aitimes.com/news/articleView.html?idxno=211153
 
-◾ 구글, ‘나노 바나나 2·프로’ 정식 출시…〃동영상 보고 이미지 만든다〃
-https://www.aitimes.com/news/articleView.html?idxno=211134
+◾ 소프트뱅크, 프랑스에 최대 131조 투자…유럽 최대 AI 인프라 구축
+https://www.aitimes.com/news/articleView.html?idxno=211144
 
-◾ 오픈AI는 동맹국 확장, 앤트로픽은 제한…엇갈리는 사이버보안 전략
-https://www.aitimes.com/news/articleView.html?idxno=211131
+◾ 엔비디아, PC CPU 시장 본격 진출…MS와 첫 ‘윈도우 AI PC’ 선보인다
+https://www.aitimes.com/news/articleView.html?idxno=211142
 
-◾ 메타, ‘AI 펜던트’ 개발 착수…AI 안경 라인업도 대폭 추가
-https://www.aitimes.com/news/articleView.html?idxno=211141
+◾ 아마존, 베드록 플랫폼에 ‘그록’ 추가 협상 중...〃주요 모델 다 모은다〃
+https://www.aitimes.com/news/articleView.html?idxno=211146
+
+[기타]
+◾ [이내찬교수의 광고로 보는 통신역사]〈59〉LLM 핵전략 시뮬레이션의 교훈: 전쟁을 빠르고, 똑똑하게 만드는 기술을 경계
+https://www.etnews.com/20260529000130
+
+◾ [5월29일] 요미우리 감독 사건은 왜 ‘챗GPT의 비극’이 됐나
+https://www.aitimes.com/news/articleView.html?idxno=211089
+
+◾ [기고] 한국딥러닝 “제조 AI 보안의 핵심: 원문은 이해하되, 활용은 통제하라”
+https://www.aitimes.com/news/articleView.html?idxno=211148
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
