@@ -8716,5 +8716,166 @@
         }
       ]
     }
+  },
+  "26.06.02": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "엔비디아, 피지컬 AI 위한 대규모 오픈소스 에이전트 도구·스킬 모음 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40296",
+          "category": "해외"
+        },
+        {
+          "title": "소프트뱅크, 프랑스에 132조원 투자 최대 ＇5GW AI 데이터센터＇ 구축… 유럽 AI 인프라 허브 조성",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40303",
+          "category": "해외"
+        },
+        {
+          "title": "美상무부, 첨단 AI칩 中우회 수출 막는다…“중국 자회사도 포함”",
+          "link": "https://www.etnews.com/20260601000120",
+          "category": "해외"
+        },
+        {
+          "title": "MS, 코딩·에이전트 기능 통합한 ＇코파일럿 슈퍼 앱＇ 개발 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211175",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 바이오 안보 프로젝트 시동…＇GPT-로절린드＇ 제한적 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211165",
+          "category": "해외"
+        },
+        {
+          "title": "〃가상 세계도 멀티플레이〃…엔비디아, 다중 에이전트 월드 모델 ‘감마 월드’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211203",
+          "category": "해외"
+        },
+        {
+          "title": "영국, AI 자율무기 규제 체계 재검토...〃적국 기술 고도화에 대응〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211195",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "디토닉, LIG D&A와 ＇AI 자주국방’ 맞손…방산 AI ‘L-NODE’ 개발 가속화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40294",
+          "category": "국방"
+        },
+        {
+          "title": "AI 기술로 전통을 계승하다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260602/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=zbWCM8HnSq2IG5fd08BVuzg396OEob8SW7AcE9HAVWrLUCWl516E!1823254677",
+          "category": "국방"
+        },
+        {
+          "title": "간부 1인 1인터넷PC와 AI 모델 공급",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260602/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=zbWCM8HnSq2IG5fd08BVuzg396OEob8SW7AcE9HAVWrLUCWl516E!1823254677",
+          "category": "국방"
+        }
+      ],
+      "기관": [
+        {
+          "title": "공공조달, 경쟁은 늘리고 AI 제품 문턱은 낮춘다...조달청 2단계경쟁 대상 확대, AI제품 진입기준 완화 등 다수공급자계약제도 개선",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40290",
+          "category": "기관"
+        },
+        {
+          "title": "AI 기업 육성 위한 ‘AI·고가치 공공데이터 TOP 100’ 본격 개방...행안부, 4대 분야 25개 데이터 올해 12월까지",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40300",
+          "category": "기관"
+        },
+        {
+          "title": "인공지능으로 여는 과학 기술 행정 혁신과기정통부 연구개발 공무원들의 10주 실험",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187387&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "금융위, 고성능 AI 보안위협 대응 ＇민간 기술자문단＇ 출범",
+          "link": "https://www.etnews.com/20260601000036",
+          "category": "기관"
+        },
+        {
+          "title": "KAIST AI대학 비전선포...“기술 가르치는데 그치지 않고, 사회 변화 이끌 것”",
+          "link": "https://www.etnews.com/20260601000054",
+          "category": "기관"
+        },
+        {
+          "title": "전북, 피지컬AI 전주기 생태계 완결…KIAT·KAIA·COMPA 공공기관 유치 총력",
+          "link": "https://www.etnews.com/20260601000100",
+          "category": "기관"
+        },
+        {
+          "title": "국가AI전략위 “행동계획 등 대한민국 AI 대전환 기틀 마련”",
+          "link": "https://www.etnews.com/20260601000041",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "인공지능 시대의 새로운 컴퓨팅 아키텍처...함돈희 하버드대 교수, 뉴로모픽 컴퓨팅 구현의 새로운 가능성 제시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40285",
+          "category": "기타"
+        },
+        {
+          "title": "[사설] AIDC 급성장 받칠 제도·인식 전환 시급",
+          "link": "https://www.etnews.com/20260601000368",
+          "category": "기타"
+        },
+        {
+          "title": "AI 10분만 써도 뇌 기능 저하…＇문제 해결 능력＇ 눈에 띄게 떨어져",
+          "link": "https://www.etnews.com/20260601000117",
+          "category": "기타"
+        }
+      ],
+      "민간": [
+        {
+          "title": "최태원 SK 회장, GTC 타이페이 젠슨 황 키노트 참관",
+          "link": "https://www.etnews.com/20260601000448",
+          "category": "민간"
+        },
+        {
+          "title": "SKT, 하이닉스 반도체 팹에 디지털 트윈 적용…엔비디아와 협력",
+          "link": "https://www.etnews.com/20260601000376",
+          "category": "민간"
+        },
+        {
+          "title": "젠슨 황, 네이버 1784 방문 유력…AI 인프라 협력 논의하나",
+          "link": "https://www.etnews.com/20260601000304",
+          "category": "민간"
+        },
+        {
+          "title": "네이버, 드론기업 유비파이 투자…피지컬 AI 확장",
+          "link": "https://www.etnews.com/20260601000058",
+          "category": "민간"
+        },
+        {
+          "title": "[2026 데이터센터 서밋 코리아] “전력·냉각·탄소…AI 시대 데이터센터, 지속가능성이 생존 조건”",
+          "link": "https://www.etnews.com/20260601000213",
+          "category": "민간"
+        },
+        {
+          "title": "NC AI, 포스코DX와 로봇 파운데이션 모델 공동 개발 나선다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211186",
+          "category": "민간"
+        },
+        {
+          "title": "[게시판] 메디아나, 퓨리오사AI와 병원형 의료 ‘소버린 AI’ 플랫폼 구축 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211221",
+          "category": "민간"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[제1292호] 양자 산업 동향：양자암호통신을 중심으로",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1292%ED%98%B8%5D%20%EC%96%91%EC%9E%90%20%EC%82%B0%EC%97%85%20%EB%8F%99%ED%96%A5%EF%BC%9A%EC%96%91%EC%9E%90%EC%95%94%ED%98%B8%ED%86%B5%EC%8B%A0%EC%9D%84%20%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C",
+          "category": "간행물"
+        },
+        {
+          "title": "[디지털서비스 이슈리포트2026-5] 월드 액션 모델과 로보틱스의 마지막 단계",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29471&parentSeq=29471",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
