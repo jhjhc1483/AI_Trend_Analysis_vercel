@@ -7,6 +7,8 @@ import pandas as pd
 import os
 import json
 import time
+import urllib.parse
+import base64
 
 import itertools
 
@@ -114,7 +116,14 @@ for page_info in news_pages:
                 # 링크 추출
                 href = anchor.get('href', '')
                 if href.startswith('/'):
-                    link = f'https://www.mnd.go.kr{href}'
+                    # 모바일에서 보기 편한 서브뷰 링크 형태로 변환
+                    category_id = target_url.split('/')[-2] # 예: 159, 160 등
+                    # subview.do는 페이지 파라미터가 없으면 본문을 불러오지 못하는 문제가 있으므로 추가
+                    href_with_query = f"{href}?page=1&"
+                    encoded_href = urllib.parse.quote(href_with_query, safe='')
+                    full_string = f"fnct1|@@|{encoded_href}"
+                    enc = base64.b64encode(full_string.encode('utf-8')).decode('utf-8')
+                    link = f'https://www.mnd.go.kr/mnd/{category_id}/subview.do?enc={enc}'
                 elif href.startswith('http'):
                     link = href
                 else:
