@@ -30,7 +30,7 @@
             background-color: var(--bg-color);
             color: var(--text-main);
             margin: 0;
-            padding: 40px 20px;
+            padding: 24px 8px;
             display: flex;
             flex-direction: column;
             align-items: center;
@@ -38,7 +38,8 @@
 
         .container {
             width: 100%;
-            max-width: 600px;
+            max-width: 640px;
+            padding: 0;
             animation: fadeIn 0.8s ease-out;
         }
 
@@ -133,7 +134,6 @@
             margin-left: 15px;
         }
 
-        .btn-audio,
         .btn-history {
             width: 38px;
             height: 38px;
@@ -141,44 +141,71 @@
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            background-color: var(--brand-color);
-            color: white;
-            border: none;
-            box-shadow: 0 4px 10px rgba(44, 82, 52, 0.2);
+            background-color: #f1f5f9;
+            color: var(--brand-color);
+            border: 1px solid #e2e8f0;
+            box-shadow: none;
             font-size: 1rem;
             cursor: pointer;
             text-decoration: none;
             transition: var(--transition);
         }
 
-        .btn-history {
-            background-color: #f1f5f9;
-            color: var(--brand-color);
-            border: 1px solid #e2e8f0;
-            box-shadow: none;
+        /* Audio Player Bar */
+        .audio-player-bar {
+            display: flex;
+            align-items: center;
+            gap: 10px;
+            background: linear-gradient(135deg, var(--brand-color), #3b6d45);
+            border-radius: 12px;
+            padding: 10px 14px;
+            margin-bottom: 20px;
+            box-shadow: 0 4px 14px rgba(44, 82, 52, 0.2);
         }
 
-        .btn-audio:hover {
-            transform: translateY(-2px);
-            box-shadow: 0 6px 18px rgba(44, 82, 52, 0.3);
-            background-color: #3b6d45;
+        .audio-player-bar .audio-icon {
+            font-size: 1.2rem;
+            flex-shrink: 0;
+        }
+
+        .audio-player-bar .audio-label {
+            font-size: 0.78rem;
+            color: rgba(255,255,255,0.85);
+            font-weight: 500;
+            white-space: nowrap;
+            flex-shrink: 0;
+        }
+
+        .audio-player-bar audio {
+            flex: 1;
+            min-width: 0;
+            height: 32px;
+            border-radius: 8px;
+        }
+
+        /* Style the audio element for webkit browsers */
+        .audio-player-bar audio::-webkit-media-controls-panel {
+            background: rgba(255,255,255,0.15);
+            border-radius: 8px;
         }
 
         /* Section Styles */
         .section-card {
             background-color: var(--card-bg);
-            border-radius: 20px;
-            padding: 30px;
-            margin-bottom: 30px;
+            border-radius: 14px;
+            padding: 16px 12px;
+            margin-bottom: 16px;
             box-shadow: var(--shadow);
-            border: 1px solid rgba(0, 0, 0, 0.02);
+            border: 1px solid rgba(0, 0, 0, 0.04);
         }
 
         .section-header {
             display: flex;
             align-items: center;
-            gap: 15px;
-            margin-bottom: 25px;
+            gap: 10px;
+            margin-bottom: 12px;
+            padding-bottom: 10px;
+            border-bottom: 1px solid #e8ede9;
         }
 
         .section-bar {
@@ -196,15 +223,16 @@
 
         /* Article Items */
         .article-item {
-            background-color: var(--item-bg);
-            border-radius: 15px;
-            padding: 20px;
-            margin-bottom: 15px;
+            background-color: transparent;
+            border-radius: 8px;
+            padding: 10px 8px;
+            margin-bottom: 2px;
             transition: var(--transition);
             cursor: pointer;
             display: block;
             text-decoration: none;
             color: inherit;
+            border-left: 3px solid transparent;
         }
 
         .article-item:last-child {
@@ -212,53 +240,55 @@
         }
 
         .article-item:hover {
-            transform: translateY(-3px);
-            background-color: #e5ede8;
-            box-shadow: 0 4px 12px rgba(0, 0, 0, 0.05);
+            transform: none;
+            background-color: #eef4f0;
+            border-left-color: var(--brand-color);
         }
 
         .article-content {
             display: flex;
             flex-direction: column;
-            gap: 12px;
+            gap: 6px;
         }
 
         .article-title {
-            font-size: 1rem;
-            font-weight: 600;
-            line-height: 1.5;
+            font-size: 0.93rem;
+            font-weight: 500;
+            line-height: 1.55;
             color: #1a1a1a;
             word-break: keep-all;
+            overflow-wrap: break-word;
         }
 
         .article-footer {
             display: flex;
             justify-content: space-between;
             align-items: center;
+            margin-top: 2px;
         }
 
         .article-tag {
-            background-color: #ffffff;
-            padding: 3px 10px;
-            border-radius: 5px;
-            font-size: 0.8rem;
+            background-color: #f0f5f1;
+            padding: 2px 8px;
+            border-radius: 4px;
+            font-size: 0.72rem;
             font-weight: 500;
-            color: #4b5563;
-            border: 1px solid #e5e7eb;
+            color: var(--brand-color);
+            border: none;
         }
 
         .article-link {
-            font-size: 0.9rem;
+            font-size: 0.78rem;
             font-weight: 500;
-            color: #6b7280;
+            color: #9ca3af;
             display: flex;
             align-items: center;
-            gap: 4px;
+            gap: 3px;
         }
 
         .article-link::after {
             content: '→';
-            font-size: 1.1rem;
+            font-size: 0.9rem;
         }
 
         /* Footer */
@@ -292,18 +322,169 @@
             }
         }
 
+        /* Briefing Toggle */
+        .briefing-toggle {
+            margin-bottom: 16px;
+        }
+
+        .briefing-toggle summary {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            background: var(--card-bg);
+            border: 1px solid #e2e8e4;
+            border-radius: 12px;
+            padding: 12px 14px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--brand-color);
+            cursor: pointer;
+            list-style: none;
+            transition: var(--transition);
+            box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+        }
+
+        .briefing-toggle summary::-webkit-details-marker {
+            display: none;
+        }
+
+        .briefing-toggle summary::after {
+            content: '\25BC';
+            font-size: 0.7rem;
+            margin-left: auto;
+            transition: transform 0.3s ease;
+            color: #9ca3af;
+        }
+
+        .briefing-toggle[open] summary::after {
+            transform: rotate(180deg);
+        }
+
+        .briefing-toggle summary:hover {
+            background: #f1f5f3;
+        }
+
+        .briefing-toggle .briefing-content {
+            background: var(--card-bg);
+            border: 1px solid #e8ede9;
+            border-top: none;
+            border-radius: 0 0 12px 12px;
+            padding: 16px 18px;
+            margin-top: -8px;
+            animation: slideDown 0.3s ease;
+        }
+
+        @keyframes slideDown {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        .briefing-content ul {
+            margin: 0;
+            padding-left: 18px;
+            list-style: none;
+        }
+
+        .briefing-content ul li {
+            position: relative;
+            padding-left: 6px;
+            margin-bottom: 10px;
+            font-size: 0.85rem;
+            line-height: 1.7;
+            color: var(--text-main);
+            font-weight: 400;
+            word-break: keep-all;
+        }
+
+        .briefing-content ul li:last-child {
+            margin-bottom: 0;
+        }
+
+        .briefing-content ul li::before {
+            content: '';
+            position: absolute;
+            left: -14px;
+            top: 9px;
+            width: 5px;
+            height: 5px;
+            border-radius: 50%;
+            background: var(--brand-color);
+            opacity: 0.5;
+        }
+
         @media (max-width: 480px) {
+            body {
+                padding: 16px 4px;
+            }
+
             .container {
-                padding: 10px;
+                padding: 0;
             }
 
             h1.brand {
-                font-size: 2.2rem;
+                font-size: 1.8rem;
             }
 
             .date-box {
-                font-size: 1.1rem;
-                padding: 10px 20px;
+                font-size: 0.95rem;
+                padding: 8px 14px;
+            }
+
+            .section-card {
+                border-radius: 10px;
+                padding: 12px 8px;
+                margin-bottom: 12px;
+            }
+
+            .article-item {
+                padding: 8px 6px;
+            }
+
+            .article-title {
+                font-size: 0.88rem;
+                line-height: 1.6;
+            }
+
+            .section-header {
+                margin-bottom: 8px;
+                padding-bottom: 8px;
+            }
+
+            .section-title {
+                font-size: 1.05rem;
+            }
+
+            header {
+                margin-bottom: 12px;
+            }
+
+            .audio-player-bar {
+                padding: 8px 10px;
+                gap: 8px;
+                border-radius: 10px;
+                margin-bottom: 14px;
+            }
+
+            .audio-player-bar audio {
+                height: 28px;
+            }
+
+            .audio-player-bar .audio-label {
+                font-size: 0.72rem;
+            }
+
+            .briefing-toggle summary {
+                padding: 10px 12px;
+                font-size: 0.82rem;
+                border-radius: 10px;
+            }
+
+            .briefing-toggle .briefing-content {
+                padding: 12px 14px;
+            }
+
+            .briefing-content ul li {
+                font-size: 0.82rem;
             }
         }
     </style>
@@ -323,11 +504,31 @@
                     <!-- Hidden date input -->
                     <input type="date" id="history-date"
                         style="position: absolute; width: 0; height: 0; opacity: 0; pointer-events: none; border: none; padding: 0;">
-                    <a href="https://ai-trend-analysis.vercel.app/public/bf.html" class="btn-audio"
-                        title="오디오 동향 듣기">🎧</a>
                 </div>
             </div>
         </header>
+
+        <!-- Inline Audio Player -->
+        <div class="audio-player-bar">
+            <span class="audio-icon">🎙️</span>
+            <span class="audio-label">오늘의 브리핑</span>
+            <audio id="audioPlayer" controls controlsList="nodownload">
+                Your browser does not support the audio element.
+            </audio>
+        </div>
+
+        <!-- Briefing Toggle (closed by default) -->
+        <details class="briefing-toggle" id="briefing-section">
+            <summary>
+                <span>🤖</span>
+                <span>AI가 작성한 오늘의 3줄 요약</span>
+            </summary>
+            <div class="briefing-content">
+                <ul id="briefingList">
+                    <li style="color: #9ca3af;">요약을 불러오는 중...</li>
+                </ul>
+            </div>
+        </details>
 
         <main id="content-main">
             <div id="loader">
@@ -344,7 +545,44 @@
     <script>
         let allHistoryData = {};
 
+        async function fetchBriefing() {
+            try {
+                const response = await fetch(`public/briefing.json?t=${new Date().getTime()}`);
+                if (!response.ok) throw new Error('briefing.json 로드 실패');
+                const data = await response.json();
+
+                const ul = document.getElementById('briefingList');
+                const lines = data.text.split('\n');
+                ul.innerHTML = '';
+
+                lines.forEach(line => {
+                    const cleanLine = line.trim();
+                    if (cleanLine.length > 0) {
+                        const li = document.createElement('li');
+                        li.textContent = cleanLine.replace(/^[-*•\d\.]+\s*/, '');
+                        if (li.textContent.length > 0) {
+                            ul.appendChild(li);
+                        }
+                    }
+                });
+            } catch (error) {
+                console.error('브리핑 로드 실패:', error);
+                const ul = document.getElementById('briefingList');
+                if (ul) ul.innerHTML = '<li style="color:#9ca3af;">브리핑 데이터를 불러올 수 없습니다.</li>';
+            }
+        }
+
         document.addEventListener('DOMContentLoaded', async () => {
+            // 0. 오디오 플레이어 초기화 (캐시 방지)
+            const audioPlayer = document.getElementById('audioPlayer');
+            if (audioPlayer) {
+                const timestamp = new Date().getTime();
+                audioPlayer.src = `public/audio.mp3?t=${timestamp}`;
+            }
+
+            // 0-1. briefing.json 로드
+            fetchBriefing();
+
             // 1. data.txt 우선 로드 (최신 데이터 표시)
             fetchLatestText();
 
