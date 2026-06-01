@@ -5,6 +5,9 @@
 ◾ 디토닉, LIG D&A와 ＇AI 자주국방’ 맞손…방산 AI ‘L-NODE’ 개발 가속화
 https://www.aitimes.kr/news/articleView.html?idxno=40294
 
+◾ 변화하는 안보환경 맞서 민간 첨단기술 접목 논의
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNDc2NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
 ◾ AI 기술로 전통을 계승하다
 https://kookbang.dema.mil.kr/newsWeb/20260602/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=zbWCM8HnSq2IG5fd08BVuzg396OEob8SW7AcE9HAVWrLUCWl516E!1823254677
 
@@ -12,26 +15,26 @@ https://kookbang.dema.mil.kr/newsWeb/20260602/3/ATCE_CTGR_0050010000/view.do;JSE
 https://kookbang.dema.mil.kr/newsWeb/20260602/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=zbWCM8HnSq2IG5fd08BVuzg396OEob8SW7AcE9HAVWrLUCWl516E!1823254677
 
 [민간]
-◾ 최태원 SK 회장, GTC 타이페이 젠슨 황 키노트 참관
-https://www.etnews.com/20260601000448
+◾ 아이엘, 산업용 피지컬AI 플랫폼 ‘아이엘봇 L1 맥스’ 출시...산업 현장 순찰·점검·이상감지 자동화
+https://www.aitimes.kr/news/articleView.html?idxno=40293
+
+◾ 〃찜해둔 운동화, 살 때 같이 챙기면 좋은 것들 찾아드릴까요?〃 ...네이버 쇼핑앱 AI 에이전트, 사용자에게 먼저 대화 건넨다
+https://www.aitimes.kr/news/articleView.html?idxno=40289
+
+◾ IBK기업은행, ＇AI 불완전판매 탐지 시스템＇ 도입…금융소비자 보호 강화
+https://www.etnews.com/20260601000422
 
 ◾ SKT, 하이닉스 반도체 팹에 디지털 트윈 적용…엔비디아와 협력
 https://www.etnews.com/20260601000376
 
-◾ 젠슨 황, 네이버 1784 방문 유력…AI 인프라 협력 논의하나
-https://www.etnews.com/20260601000304
-
-◾ 네이버, 드론기업 유비파이 투자…피지컬 AI 확장
-https://www.etnews.com/20260601000058
-
-◾ [2026 데이터센터 서밋 코리아] “전력·냉각·탄소…AI 시대 데이터센터, 지속가능성이 생존 조건”
-https://www.etnews.com/20260601000213
+◾ 삼성서울병원 ＇AX추진단＇ 출범…초대 단장에 이규성 교수
+https://www.etnews.com/20260601000354
 
 ◾ NC AI, 포스코DX와 로봇 파운데이션 모델 공동 개발 나선다
 https://www.aitimes.com/news/articleView.html?idxno=211186
 
-◾ [게시판] 메디아나, 퓨리오사AI와 병원형 의료 ‘소버린 AI’ 플랫폼 구축 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=211221
+◾ 업스테이지, 독파모 ＇중간 모델＇로 국내 첫 AA 40점대 돌파
+https://www.aitimes.com/news/articleView.html?idxno=211156
 
 [기관]
 ◾ 공공조달, 경쟁은 늘리고 AI 제품 문턱은 낮춘다...조달청 2단계경쟁 대상 확대, AI제품 진입기준 완화 등 다수공급자계약제도 개선
@@ -49,9 +52,6 @@ https://www.etnews.com/20260601000036
 ◾ KAIST AI대학 비전선포...“기술 가르치는데 그치지 않고, 사회 변화 이끌 것”
 https://www.etnews.com/20260601000054
 
-◾ 전북, 피지컬AI 전주기 생태계 완결…KIAT·KAIA·COMPA 공공기관 유치 총력
-https://www.etnews.com/20260601000100
-
 ◾ 국가AI전략위 “행동계획 등 대한민국 AI 대전환 기틀 마련”
 https://www.etnews.com/20260601000041
 
@@ -62,6 +62,9 @@ https://www.aitimes.kr/news/articleView.html?idxno=40296
 ◾ 소프트뱅크, 프랑스에 132조원 투자 최대 ＇5GW AI 데이터센터＇ 구축… 유럽 AI 인프라 허브 조성
 https://www.aitimes.kr/news/articleView.html?idxno=40303
 
+◾ [뉴스해설] 엔비디아·마이크로소프트 손잡고 x86 진영 정조준
+https://www.etnews.com/20260601000409
+
 ◾ 美상무부, 첨단 AI칩 中우회 수출 막는다…“중국 자회사도 포함”
 https://www.etnews.com/20260601000120
 
@@ -71,21 +74,8 @@ https://www.aitimes.com/news/articleView.html?idxno=211175
 ◾ 오픈AI, 바이오 안보 프로젝트 시동…＇GPT-로절린드＇ 제한적 공개
 https://www.aitimes.com/news/articleView.html?idxno=211165
 
-◾ 〃가상 세계도 멀티플레이〃…엔비디아, 다중 에이전트 월드 모델 ‘감마 월드’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=211203
-
 ◾ 영국, AI 자율무기 규제 체계 재검토...〃적국 기술 고도화에 대응〃
 https://www.aitimes.com/news/articleView.html?idxno=211195
-
-[기타]
-◾ 인공지능 시대의 새로운 컴퓨팅 아키텍처...함돈희 하버드대 교수, 뉴로모픽 컴퓨팅 구현의 새로운 가능성 제시
-https://www.aitimes.kr/news/articleView.html?idxno=40285
-
-◾ [사설] AIDC 급성장 받칠 제도·인식 전환 시급
-https://www.etnews.com/20260601000368
-
-◾ AI 10분만 써도 뇌 기능 저하…＇문제 해결 능력＇ 눈에 띄게 떨어져
-https://www.etnews.com/20260601000117
 
 📚 간행물
 ◾ [제1292호] 양자 산업 동향：양자암호통신을 중심으로
