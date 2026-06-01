@@ -1,82 +1,98 @@
-📢26.06.01 AI 일일 동향📢
+📢26.06.02 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 네이버클라우드, 국방AX 전담  조직 신설…“초기 시장 주도권 확보한다”
-https://www.etnews.com/20260531000108
+◾ 디토닉, LIG D&A와 ＇AI 자주국방’ 맞손…방산 AI ‘L-NODE’ 개발 가속화
+https://www.aitimes.kr/news/articleView.html?idxno=40294
+
+◾ AI 기술로 전통을 계승하다
+https://kookbang.dema.mil.kr/newsWeb/20260602/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=zbWCM8HnSq2IG5fd08BVuzg396OEob8SW7AcE9HAVWrLUCWl516E!1823254677
+
+◾ 간부 1인 1인터넷PC와 AI 모델 공급
+https://kookbang.dema.mil.kr/newsWeb/20260602/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=zbWCM8HnSq2IG5fd08BVuzg396OEob8SW7AcE9HAVWrLUCWl516E!1823254677
 
 [민간]
-◾ [AI 이슈] “AI 팩토리, 제조업 판을 뒤집는다”…생산성 60% 혁신 성장, 글로벌 산업지도 재편
-https://www.aitimes.kr/news/articleView.html?idxno=40284
+◾ 최태원 SK 회장, GTC 타이페이 젠슨 황 키노트 참관
+https://www.etnews.com/20260601000448
 
-◾ LG화학, CEO 포함 리더 1000 명 등 AX 교육 3000명 돌파
-https://www.aitimes.kr/news/articleView.html?idxno=40276
+◾ SKT, 하이닉스 반도체 팹에 디지털 트윈 적용…엔비디아와 협력
+https://www.etnews.com/20260601000376
 
-◾ NC AI-포스코DX, 로봇 AI브레인 공동 개발 맞손
-https://www.aitimes.kr/news/articleView.html?idxno=40266
+◾ 젠슨 황, 네이버 1784 방문 유력…AI 인프라 협력 논의하나
+https://www.etnews.com/20260601000304
 
-◾ [단독] 농협銀, 애자일소다 품는다
-https://www.etnews.com/20260531000079
+◾ 네이버, 드론기업 유비파이 투자…피지컬 AI 확장
+https://www.etnews.com/20260601000058
 
-◾ 삼성·SK, 앤트로픽 조단위 투자…AI 인프라 동맹 확대
-https://www.etnews.com/20260531000086
+◾ [2026 데이터센터 서밋 코리아] “전력·냉각·탄소…AI 시대 데이터센터, 지속가능성이 생존 조건”
+https://www.etnews.com/20260601000213
 
-◾ 배경훈 부총리 “전국민 AI비서로 ＇부의 편중＇ 해소…프론티어급 경쟁 나설 때”
-https://www.etnews.com/20260530000017
+◾ NC AI, 포스코DX와 로봇 파운데이션 모델 공동 개발 나선다
+https://www.aitimes.com/news/articleView.html?idxno=211186
 
-◾ “단순 감지 넘어 맥락까지 본다”…그렙, 시험감독 기술에 ‘에이전트’ 도입
-https://www.aitimes.com/news/articleView.html?idxno=211152
+◾ [게시판] 메디아나, 퓨리오사AI와 병원형 의료 ‘소버린 AI’ 플랫폼 구축 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=211221
 
 [기관]
-◾ 세계은행그룹, ‘AI·디지털 기술’ 분야 한국 우수 인재 유치 위한 채용 미션 개최한다
-https://www.aitimes.kr/news/articleView.html?idxno=40274
+◾ 공공조달, 경쟁은 늘리고 AI 제품 문턱은 낮춘다...조달청 2단계경쟁 대상 확대, AI제품 진입기준 완화 등 다수공급자계약제도 개선
+https://www.aitimes.kr/news/articleView.html?idxno=40290
 
-◾ 개인정보위, 네이버 검색 AI 에이전트 서비스 ‘AI Tab’ 사전적정성 검토 결과 의결
-https://www.aitimes.kr/news/articleView.html?idxno=40273
+◾ AI 기업 육성 위한 ‘AI·고가치 공공데이터 TOP 100’ 본격 개방...행안부, 4대 분야 25개 데이터 올해 12월까지
+https://www.aitimes.kr/news/articleView.html?idxno=40300
 
-◾ 고대병원 컨소시엄, 닥터앤서 3.0 합류…만성질환 AI 예후 관리 개발
-https://www.etnews.com/20260529000118
+◾ 인공지능으로 여는 과학 기술 행정 혁신과기정통부 연구개발 공무원들의 10주 실험
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187387&searchOpt=ALL&searchTxt=
 
-◾ 이재명 정부 AI 정책 1년, “강국 토대 확보…응용·AX·규제혁신 본격화해야”
-https://www.etnews.com/20260529000281
+◾ 금융위, 고성능 AI 보안위협 대응 ＇민간 기술자문단＇ 출범
+https://www.etnews.com/20260601000036
 
-◾ 진료정보교류 AX, 전국으로 뻗는다…복지부, 이달 AI의료 전략 발표
-https://www.etnews.com/20260531000081
+◾ KAIST AI대학 비전선포...“기술 가르치는데 그치지 않고, 사회 변화 이끌 것”
+https://www.etnews.com/20260601000054
 
-◾ 의사결정형 농업 AI 발굴…농식품부, ＇스마트농업 AI 경진대회＇ 참가자 모집
-https://www.etnews.com/20260531000060
+◾ 전북, 피지컬AI 전주기 생태계 완결…KIAT·KAIA·COMPA 공공기관 유치 총력
+https://www.etnews.com/20260601000100
 
-◾ “AI 서버 구축 전 미리 성능 검증”…KAIST, LLM 인프라 시뮬레이터 개발
-https://www.aitimes.com/news/articleView.html?idxno=211151
+◾ 국가AI전략위 “행동계획 등 대한민국 AI 대전환 기틀 마련”
+https://www.etnews.com/20260601000041
 
 [해외]
-◾ [AI 리뷰] 아마존, “AI는 이제 행동한다”…현실 세계 업무 수행하는 에이전트 AI 전략 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40282
+◾ 엔비디아, 피지컬 AI 위한 대규모 오픈소스 에이전트 도구·스킬 모음 공개
+https://www.aitimes.kr/news/articleView.html?idxno=40296
 
-◾ 앤트로픽, 시리즈 H로  98조원 투자 유치…기업가치 1454조원으로 급등
-https://www.aitimes.kr/news/articleView.html?idxno=40281
+◾ 소프트뱅크, 프랑스에 132조원 투자 최대 ＇5GW AI 데이터센터＇ 구축… 유럽 AI 인프라 허브 조성
+https://www.aitimes.kr/news/articleView.html?idxno=40303
 
-◾ 컴퓨텍스 2일 개막…젠슨 황 韓 기업 회동에 관심
-https://www.etnews.com/20260531000078
+◾ 美상무부, 첨단 AI칩 中우회 수출 막는다…“중국 자회사도 포함”
+https://www.etnews.com/20260601000120
 
-◾ 우크라, 드론 이어 ‘지상 킬러 로봇’ 대거 투입…전쟁 판도 바꿨다
-https://kookbang.dema.mil.kr/newsWeb/20260601/2/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=Led_AB1g2HHmLw7Dz45ag2R-hqsXx2bsKrYwudJjuRpfz7leqqVu!730580237
+◾ MS, 코딩·에이전트 기능 통합한 ＇코파일럿 슈퍼 앱＇ 개발 중
+https://www.aitimes.com/news/articleView.html?idxno=211175
 
-◾ 소프트뱅크, 프랑스에 최대 131조 투자…유럽 최대 AI 인프라 구축
-https://www.aitimes.com/news/articleView.html?idxno=211144
+◾ 오픈AI, 바이오 안보 프로젝트 시동…＇GPT-로절린드＇ 제한적 공개
+https://www.aitimes.com/news/articleView.html?idxno=211165
 
-◾ 엔비디아, PC CPU 시장 본격 진출…MS와 첫 ‘윈도우 AI PC’ 선보인다
-https://www.aitimes.com/news/articleView.html?idxno=211142
+◾ 〃가상 세계도 멀티플레이〃…엔비디아, 다중 에이전트 월드 모델 ‘감마 월드’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=211203
 
-◾ 아마존, 베드록 플랫폼에 ‘그록’ 추가 협상 중...〃주요 모델 다 모은다〃
-https://www.aitimes.com/news/articleView.html?idxno=211146
+◾ 영국, AI 자율무기 규제 체계 재검토...〃적국 기술 고도화에 대응〃
+https://www.aitimes.com/news/articleView.html?idxno=211195
 
 [기타]
-◾ [이내찬교수의 광고로 보는 통신역사]〈59〉LLM 핵전략 시뮬레이션의 교훈: 전쟁을 빠르고, 똑똑하게 만드는 기술을 경계
-https://www.etnews.com/20260529000130
+◾ 인공지능 시대의 새로운 컴퓨팅 아키텍처...함돈희 하버드대 교수, 뉴로모픽 컴퓨팅 구현의 새로운 가능성 제시
+https://www.aitimes.kr/news/articleView.html?idxno=40285
 
-◾ 박태준 전남대 교수팀, 생성형AI 프라이버시 보호기술 개발…AI 경진대회 2년 연속 ＇톱 100＇
-https://www.etnews.com/20260531000035
+◾ [사설] AIDC 급성장 받칠 제도·인식 전환 시급
+https://www.etnews.com/20260601000368
+
+◾ AI 10분만 써도 뇌 기능 저하…＇문제 해결 능력＇ 눈에 띄게 떨어져
+https://www.etnews.com/20260601000117
+
+📚 간행물
+◾ [제1292호] 양자 산업 동향：양자암호통신을 중심으로
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1292%ED%98%B8%5D%20%EC%96%91%EC%9E%90%20%EC%82%B0%EC%97%85%20%EB%8F%99%ED%96%A5%EF%BC%9A%EC%96%91%EC%9E%90%EC%95%94%ED%98%B8%ED%86%B5%EC%8B%A0%EC%9D%84%20%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C
+
+◾ [디지털서비스 이슈리포트2026-5] 월드 액션 모델과 로보틱스의 마지막 단계
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29471&parentSeq=29471
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
