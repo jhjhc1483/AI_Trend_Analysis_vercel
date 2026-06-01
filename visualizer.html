@@ -168,12 +168,27 @@
             flex-shrink: 0;
         }
 
+        .audio-player-bar .audio-text {
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            flex-shrink: 0;
+        }
+
         .audio-player-bar .audio-label {
             font-size: 0.78rem;
             color: rgba(255,255,255,0.85);
             font-weight: 500;
             white-space: nowrap;
-            flex-shrink: 0;
+            line-height: 1.2;
+        }
+
+        .audio-player-bar .audio-sub {
+            font-size: 0.55rem;
+            color: rgba(255,255,255,0.6);
+            white-space: nowrap;
+            line-height: 1.2;
+            margin-top: 2px;
         }
 
         .audio-player-bar audio {
@@ -473,6 +488,10 @@
                 font-size: 0.72rem;
             }
 
+            .audio-player-bar .audio-sub {
+                font-size: 0.5rem;
+            }
+
             .briefing-toggle summary {
                 padding: 10px 12px;
                 font-size: 0.82rem;
@@ -511,7 +530,10 @@
         <!-- Inline Audio Player -->
         <div class="audio-player-bar">
             <span class="audio-icon">🎙️</span>
-            <span class="audio-label">오늘의 브리핑</span>
+            <div class="audio-text">
+                <span class="audio-label">오늘의 브리핑</span>
+                <span class="audio-sub">백그라운드 재생 지원</span>
+            </div>
             <audio id="audioPlayer" controls controlsList="nodownload">
                 Your browser does not support the audio element.
             </audio>
