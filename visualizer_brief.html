@@ -249,20 +249,36 @@
     <script>
         async function fetchBriefing() {
             try {
-                const response = await fetch(`public/briefing.json?t=${new Date().getTime()}`);
+                const response = await fetch(`codes/data.json?t=${new Date().getTime()}`);
                 if (!response.ok) throw new Error('네트워크 오류');
                 
-                const data = await response.json();
+                const historyData = await response.json();
                 
-                // 날짜 업데이트 (괄호 포함)
-                document.getElementById('dateBadge').textContent = `(${data.date})`;
+                // 가장 최신 날짜 찾기 (briefing 키가 있는 가장 최근 날짜)
+                const dates = Object.keys(historyData).sort((a, b) => b.localeCompare(a));
+                let latestDate = "";
+                let briefingText = "";
+                
+                for (let date of dates) {
+                    if (historyData[date] && historyData[date].briefing) {
+                        latestDate = date;
+                        briefingText = historyData[date].briefing;
+                        break;
+                    }
+                }
+                
+                if (!briefingText) throw new Error('브리핑 데이터를 찾을 수 없습니다.');
+                
+                // 날짜 포맷 (예: 26.06.01 -> 2026.06.01)
+                const formattedDate = "20" + latestDate;
+                document.getElementById('dateBadge').textContent = `(${formattedDate})`;
                 
                 // 텍스트를 리스트(ul > li) 형태로 변환
                 const ul = document.getElementById('briefingList');
                 const loading = document.getElementById('loading');
                 
                 // 텍스트를 줄바꿈 기준으로 분리
-                const lines = data.text.split('\n');
+                const lines = briefingText.split('\n');
                 ul.innerHTML = ''; // 초기화
                 
                 lines.forEach(line => {

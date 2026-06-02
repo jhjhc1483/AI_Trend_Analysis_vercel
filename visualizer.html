@@ -99,7 +99,8 @@
             font-weight: 700;
             color: var(--brand-color);
             margin-bottom: 0;
-            grid-column: 2; /* Ensure it stays in the middle column */
+            grid-column: 2;
+            /* Ensure it stays in the middle column */
         }
 
         .btn-input {
@@ -177,7 +178,7 @@
 
         .audio-player-bar .audio-label {
             font-size: 0.78rem;
-            color: rgba(255,255,255,0.85);
+            color: rgba(255, 255, 255, 0.85);
             font-weight: 500;
             white-space: nowrap;
             line-height: 1.2;
@@ -185,7 +186,7 @@
 
         .audio-player-bar .audio-sub {
             font-size: 0.55rem;
-            color: rgba(255,255,255,0.6);
+            color: rgba(255, 255, 255, 0.6);
             white-space: nowrap;
             line-height: 1.2;
             margin-top: 2px;
@@ -200,7 +201,7 @@
 
         /* Style the audio element for webkit browsers */
         .audio-player-bar audio::-webkit-media-controls-panel {
-            background: rgba(255,255,255,0.15);
+            background: rgba(255, 255, 255, 0.15);
             border-radius: 8px;
         }
 
@@ -356,7 +357,7 @@
             cursor: pointer;
             list-style: none;
             transition: var(--transition);
-            box-shadow: 0 2px 8px rgba(0,0,0,0.03);
+            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
         }
 
         .briefing-toggle summary::-webkit-details-marker {
@@ -390,8 +391,15 @@
         }
 
         @keyframes slideDown {
-            from { opacity: 0; transform: translateY(-8px); }
-            to { opacity: 1; transform: translateY(0); }
+            from {
+                opacity: 0;
+                transform: translateY(-8px);
+            }
+
+            to {
+                opacity: 1;
+                transform: translateY(0);
+            }
         }
 
         .briefing-content ul {
@@ -532,7 +540,7 @@
             <span class="audio-icon">🎙️</span>
             <div class="audio-text">
                 <span class="audio-label">오늘의 브리핑</span>
-                <span class="audio-sub">백그라운드 재생 지원</span>
+                <span class="audio-sub">백그라운드 재생 가능</span>
             </div>
             <audio id="audioPlayer" controls controlsList="nodownload">
                 Your browser does not support the audio element.
@@ -569,12 +577,23 @@
 
         async function fetchBriefing() {
             try {
-                const response = await fetch(`public/briefing.json?t=${new Date().getTime()}`);
-                if (!response.ok) throw new Error('briefing.json 로드 실패');
-                const data = await response.json();
+                const response = await fetch(`codes/data.json?t=${new Date().getTime()}`);
+                if (!response.ok) throw new Error('data.json 로드 실패');
+                const historyData = await response.json();
+                
+                const dates = Object.keys(historyData).sort((a, b) => b.localeCompare(a));
+                let briefingText = "";
+                for (let date of dates) {
+                    if (historyData[date] && historyData[date].briefing) {
+                        briefingText = historyData[date].briefing;
+                        break;
+                    }
+                }
+                
+                if (!briefingText) throw new Error('브리핑 데이터가 없습니다.');
 
                 const ul = document.getElementById('briefingList');
-                const lines = data.text.split('\n');
+                const lines = briefingText.split('\n');
                 ul.innerHTML = '';
 
                 lines.forEach(line => {
