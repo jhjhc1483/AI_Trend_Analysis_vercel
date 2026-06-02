@@ -67,8 +67,13 @@ async def main():
         print(">>> Gemini에게 카카오톡 공유용 브리핑 텍스트를 요청합니다...")
         import json
         from datetime import datetime
+        try:
+            from zoneinfo import ZoneInfo
+            today_date = datetime.now(ZoneInfo("Asia/Seoul"))
+        except ImportError:
+            today_date = datetime.now()
 
-        today_str = datetime.now().strftime("%Y.%m.%d")
+        today_str = today_date.strftime("%Y.%m.%d")
         
         briefing_prompt = f"""
         너는 IT/AI 트렌드를 사람들에게 전달하는 뉴스 큐레이터야. 
@@ -90,17 +95,30 @@ async def main():
         briefing_response = model.generate_content(briefing_prompt)
         briefing_text = briefing_response.text.strip()
         
-        # 결과를 JSON으로 저장 (visualizer_brief.html에서 읽어서 쓰기 위함)
-        briefing_data = {
-            "date": today_str,
-            "text": briefing_text
-        }
-        
-        briefing_file = "public/briefing.json"
-        with open(briefing_file, "w", encoding="utf-8") as bf:
-            json.dump(briefing_data, bf, ensure_ascii=False, indent=2)
+        print(">>> 카톡 공유용 브리핑 JSON 텍스트 생성 완료!")
+
+        # 7. data.json에 브리핑 내용 누적 저장
+        data_json_path = "codes/data.json"
+        if os.path.exists(data_json_path):
+            try:
+                with open(data_json_path, "r", encoding="utf-8") as f:
+                    history_data = json.load(f)
+            except json.JSONDecodeError:
+                history_data = {}
+        else:
+            history_data = {}
             
-        print(">>> 카톡 공유용 브리핑 JSON 생성 완료!")
+        # data.json의 키는 '24.03.26'과 같이 '%y.%m.%d' 형식
+        today_key = today_date.strftime("%y.%m.%d")
+        if today_key in history_data:
+            history_data[today_key]["briefing"] = briefing_text
+        else:
+            history_data[today_key] = {"briefing": briefing_text}
+            
+        with open(data_json_path, "w", encoding="utf-8") as f:
+            json.dump(history_data, f, ensure_ascii=False, indent=2)
+            
+        print(">>> data.json에 브리핑 내용 누적 저장 완료!")
 
     except Exception as e:
         print(f"오류 발생: {e}")
