@@ -1,88 +1,101 @@
-📢26.06.02 AI 일일 동향📢
+📢26.06.03 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 디토닉, LIG D&A와 ＇AI 자주국방’ 맞손…방산 AI ‘L-NODE’ 개발 가속화
-https://www.aitimes.kr/news/articleView.html?idxno=40294
+◾ 펀진, 합동화력훈련 최초 AI 적용…정찰 드론의 RF 신호 탐지부터 AI의 최적 무기 추천 선보여
+https://www.aitimes.kr/news/articleView.html?idxno=40323
 
-◾ 변화하는 안보환경 맞서 민간 첨단기술 접목 논의
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNDc2NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ AI 시대 핵심 전략자산 ‘국방반도체’ 육성 속도...국방반도체법 제정안 국무회의 통과, 6월 중 공포
+https://www.aitimes.kr/news/articleView.html?idxno=40319
 
-◾ AI 기술로 전통을 계승하다
-https://kookbang.dema.mil.kr/newsWeb/20260602/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=zbWCM8HnSq2IG5fd08BVuzg396OEob8SW7AcE9HAVWrLUCWl516E!1823254677
-
-◾ 간부 1인 1인터넷PC와 AI 모델 공급
-https://kookbang.dema.mil.kr/newsWeb/20260602/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=zbWCM8HnSq2IG5fd08BVuzg396OEob8SW7AcE9HAVWrLUCWl516E!1823254677
+◾ 인공지능 시대 핵심 전략자산  ‘국방반도체’, 체계적 육성 나선다!
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58678&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
 [민간]
-◾ 아이엘, 산업용 피지컬AI 플랫폼 ‘아이엘봇 L1 맥스’ 출시...산업 현장 순찰·점검·이상감지 자동화
-https://www.aitimes.kr/news/articleView.html?idxno=40293
+◾ 최태원 회장, 엔비디아와 AI 동맹 강화 나서...＇풀스택 AI 메모리 크리에이터＇ 비전 제시
+https://www.aitimes.kr/news/articleView.html?idxno=40316
 
-◾ 〃찜해둔 운동화, 살 때 같이 챙기면 좋은 것들 찾아드릴까요?〃 ...네이버 쇼핑앱 AI 에이전트, 사용자에게 먼저 대화 건넨다
-https://www.aitimes.kr/news/articleView.html?idxno=40289
+◾ 네이버클라우드, 엔비디아 손잡고 “글로벌 AI 팩토리 도약” 선언… 인프라·모델·서비스 전방위 동맹
+https://www.aitimes.kr/news/articleView.html?idxno=40313
 
-◾ IBK기업은행, ＇AI 불완전판매 탐지 시스템＇ 도입…금융소비자 보호 강화
-https://www.etnews.com/20260601000422
+◾ 젠슨 황, 〃AI 에이전트가 새로운 경제 주체...에이전트 중심 컴퓨팅 시대〃 선언
+https://www.aitimes.kr/news/articleView.html?idxno=40306
 
-◾ SKT, 하이닉스 반도체 팹에 디지털 트윈 적용…엔비디아와 협력
-https://www.etnews.com/20260601000376
+◾ 엔씨, 엔비디아와 AI 협력 강화 ＇신더시티＇ 승부수...김택진·젠슨 황 회동도
+https://www.etnews.com/20260602000258
 
-◾ 삼성서울병원 ＇AX추진단＇ 출범…초대 단장에 이규성 교수
-https://www.etnews.com/20260601000354
+◾ 두산밥캣, 마음AI와 손잡고 건설장비 자율작업 기술 고도화 나서
+https://www.etnews.com/20260602000200
 
-◾ NC AI, 포스코DX와 로봇 파운데이션 모델 공동 개발 나선다
-https://www.aitimes.com/news/articleView.html?idxno=211186
+◾ 〃이젠 바이브 코딩까지〃…구글, 노트북LM에 신규 기능 ＇캔버스＇ 도입 예정
+https://www.aitimes.com/news/articleView.html?idxno=211179
 
-◾ 업스테이지, 독파모 ＇중간 모델＇로 국내 첫 AA 40점대 돌파
-https://www.aitimes.com/news/articleView.html?idxno=211156
+◾ [AI&빅데이터쇼] 일레븐랩스, 음성 AI 에이전트 시연...＇＇에이전틱 음성 미래 선보인다〃
+https://www.aitimes.com/news/articleView.html?idxno=211252
 
 [기관]
-◾ 공공조달, 경쟁은 늘리고 AI 제품 문턱은 낮춘다...조달청 2단계경쟁 대상 확대, AI제품 진입기준 완화 등 다수공급자계약제도 개선
-https://www.aitimes.kr/news/articleView.html?idxno=40290
+◾ 한·이탈리아, 공공조달 AI 혁신 손잡다...조달청, 전자조달·혁신조달·녹색조달 협력 확대
+https://www.aitimes.kr/news/articleView.html?idxno=40308
 
-◾ AI 기업 육성 위한 ‘AI·고가치 공공데이터 TOP 100’ 본격 개방...행안부, 4대 분야 25개 데이터 올해 12월까지
-https://www.aitimes.kr/news/articleView.html?idxno=40300
+◾ 코그니텀 DocuRAG, CSAP SaaS 표준등급 인증 획득
+https://www.etnews.com/20260602000405
 
-◾ 인공지능으로 여는 과학 기술 행정 혁신과기정통부 연구개발 공무원들의 10주 실험
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187387&searchOpt=ALL&searchTxt=
+◾ 데이터처, 국가데이터기본법 발의…AI 친화형 인프라 구축 박차
+https://www.etnews.com/20260602000213
 
-◾ 금융위, 고성능 AI 보안위협 대응 ＇민간 기술자문단＇ 출범
-https://www.etnews.com/20260601000036
+◾ 은행연합회, 금융권 최초 AI 광고심의 도입…업스테이지와 손잡았다
+https://www.etnews.com/20260602000165
 
-◾ KAIST AI대학 비전선포...“기술 가르치는데 그치지 않고, 사회 변화 이끌 것”
-https://www.etnews.com/20260601000054
+◾ 서울AI재단, 연세대와 ＇서울시 AI 격차 인덱스＇ 개발 착수
+https://www.etnews.com/20260602000113
 
-◾ 국가AI전략위 “행동계획 등 대한민국 AI 대전환 기틀 마련”
-https://www.etnews.com/20260601000041
+◾ [에듀플러스]광운대, 2026년 ＇매치업 X+AI＇·＇K-MOOC 4단계 무크선도대학＇ 신규 사업 선정
+https://www.etnews.com/20260602000128
+
+◾ 엘리스그룹, 과기정통부 ＇생성AI 선도인재양성 사업＇ 선정
+https://www.etnews.com/20260602000043
 
 [해외]
-◾ 엔비디아, 피지컬 AI 위한 대규모 오픈소스 에이전트 도구·스킬 모음 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40296
+◾ 美 DARPA·국립과학재단, 국가안보 AI 연구 연합 ‘AI 포지’ 출범
+https://www.aitimes.kr/news/articleView.html?idxno=40320
 
-◾ 소프트뱅크, 프랑스에 132조원 투자 최대 ＇5GW AI 데이터센터＇ 구축… 유럽 AI 인프라 허브 조성
-https://www.aitimes.kr/news/articleView.html?idxno=40303
+◾ 〃중국 군부, 수년간 엔비디아 AI 칩 전방위 확보〃…핵무기·사이버전 활용 정황 드러나
+https://www.aitimes.com/news/articleView.html?idxno=211266
 
-◾ [뉴스해설] 엔비디아·마이크로소프트 손잡고 x86 진영 정조준
-https://www.etnews.com/20260601000409
+◾ 구글, AI 인프라 구축에 120조 증자…버크셔도 15조 거액 베팅
+https://www.aitimes.com/news/articleView.html?idxno=211243
 
-◾ 美상무부, 첨단 AI칩 中우회 수출 막는다…“중국 자회사도 포함”
-https://www.etnews.com/20260601000120
+◾ 플로리다주, 오픈AI·알트먼 제소…“챗GPT 위험 알고도 무책임 출시”
+https://www.aitimes.com/news/articleView.html?idxno=211247
 
-◾ MS, 코딩·에이전트 기능 통합한 ＇코파일럿 슈퍼 앱＇ 개발 중
-https://www.aitimes.com/news/articleView.html?idxno=211175
+◾ 앤트로픽, EU와 ‘미소스’ 접근 권한 제공 합의...〃미국 독점 해제〃
+https://www.aitimes.com/news/articleView.html?idxno=211242
 
-◾ 오픈AI, 바이오 안보 프로젝트 시동…＇GPT-로절린드＇ 제한적 공개
-https://www.aitimes.com/news/articleView.html?idxno=211165
+◾ 엔비디아, 월드 모델 ‘코스모스 3’ 오픈 출시…“피지컬 AI 개발 주기 단축”
+https://www.aitimes.com/news/articleView.html?idxno=211240
 
-◾ 영국, AI 자율무기 규제 체계 재검토...〃적국 기술 고도화에 대응〃
-https://www.aitimes.com/news/articleView.html?idxno=211195
+◾ 엔비디아, 중국 유니트리와 휴머노이드 표준 협력...미국 제재 충돌 우려도
+https://www.aitimes.com/news/articleView.html?idxno=211238
+
+[기타]
+◾ 경남대, 한국정보전자통신기술학회 춘계학술대회서 초거대 제조 AI 연구성과 공유
+https://www.etnews.com/20260602000391
 
 📚 간행물
-◾ [제1292호] 양자 산업 동향：양자암호통신을 중심으로
-https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1292%ED%98%B8%5D%20%EC%96%91%EC%9E%90%20%EC%82%B0%EC%97%85%20%EB%8F%99%ED%96%A5%EF%BC%9A%EC%96%91%EC%9E%90%EC%95%94%ED%98%B8%ED%86%B5%EC%8B%A0%EC%9D%84%20%EC%A4%91%EC%8B%AC%EC%9C%BC%EB%A1%9C
+◾ [NIA 미래전략 정책자료집] AGI 전환과 한국의 과제 : 글로벌 미래 시나리오 연구 비교 분석을 중심으로
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29481&parentSeq=29481
 
-◾ [디지털서비스 이슈리포트2026-5] 월드 액션 모델과 로보틱스의 마지막 단계
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29471&parentSeq=29471
+◾ [The LENS 2026-7] EU AI 옴니버스 주요 동향 및 시사점: 「AI법」 개정 합의문서(9247/26)를 중심으로
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29480&parentSeq=29480
+
+◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 5월 4주차)
+https://www.kisa.or.kr/20202/form?postSeq=477&page=1
+
+◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 5월 3주차)
+https://www.kisa.or.kr/20202/form?postSeq=476&page=1
+
+◾ 자율형 방어 에이전트의 부상과 사이버 보안 패러다임 전환 外 [IITP 디지털 아웃룩 2026-5월호]
+https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260602-000012&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
