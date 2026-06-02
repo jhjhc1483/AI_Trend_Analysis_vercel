@@ -687,9 +687,28 @@
 
             document.getElementById('main-date').innerText = formatHeaderDate(dateKey + " AI 일일 동향");
 
+            // 선택한 날짜의 브리핑 업데이트
+            const ul = document.getElementById('briefingList');
+            if (data.briefing) {
+                const lines = data.briefing.split('\n');
+                ul.innerHTML = '';
+                lines.forEach(line => {
+                    const cleanLine = line.trim();
+                    if (cleanLine.length > 0) {
+                        const li = document.createElement('li');
+                        li.textContent = cleanLine.replace(/^[-*•\d\.]+\s*/, '');
+                        if (li.textContent.length > 0) {
+                            ul.appendChild(li);
+                        }
+                    }
+                });
+            } else {
+                ul.innerHTML = '<li style="color:#9ca3af;">해당 날짜의 브리핑 데이터가 없습니다.</li>';
+            }
+
             // Convert categorized JSON to sections array
             const sections = [];
-            const categorized = data.categorized;
+            const categorized = data.categorized || {};
 
             // Order logic: FIXED_CATEGORIES first, then others, then 간행물
             const FIXED_CATEGORIES = ["국방", "육군", "민간", "기관", "해외", "기타"];
