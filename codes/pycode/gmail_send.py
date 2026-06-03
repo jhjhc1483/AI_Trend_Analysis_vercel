@@ -1,13 +1,16 @@
 import smtplib
 import os
 import json
+from dotenv import load_dotenv
+
+load_dotenv(override=True)
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 from zoneinfo import ZoneInfo
 
 # ================= 설정 부분 =================
-sender_email = "jfchae1483@gmail.com"  # 보내는 사람
+sender_email = "aiforarmy@gmail.com"  # 보내는 사람
 default_receiver = "jfchae1483@gmail.com" # 기본 받는 사람 (데이터 없을 시)
 
 # GitHub Secrets에서 환경 변수로 전달된 값을 읽어옵니다.
@@ -63,8 +66,8 @@ def send_email():
 
     except FileNotFoundError:
         print(f"오류: '{file_path}' 경로에서 파일을 찾을 수 없습니다.")
-    except smtplib.SMTPAuthenticationError:
-        print("오류: 이메일 로그인에 실패했습니다. 이메일 주소나 앱 비밀번호를 확인해 주세요.")
+    except smtplib.SMTPAuthenticationError as e:
+        print(f"오류: 이메일 로그인에 실패했습니다. 구글 서버의 상세 응답: {e}")
     except Exception as e:
         print(f"알 수 없는 오류가 발생했습니다: {e}")
     finally:
