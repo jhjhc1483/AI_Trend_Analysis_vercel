@@ -5,18 +5,28 @@
     "category": "해외"
   },
   {
+    "title": "〃발등에 불, AI ‘취약점 탐지·공격’에서 인간 능력 넘어〃...앤트로픽, ＇프로젝트 글래스윙＇ 200개 기관으로 확대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40324",
+    "category": "해외"
+  },
+  {
     "title": "‘국방반도체’ 체계적 육성 가용 역량 집중",
     "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNDg1NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "국방"
   },
   {
-    "title": "공군 최고의 사이버 전사 김도현 중사·이동민 일병",
-    "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNDg3MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방"
+    "title": "[스노우플레이크 서밋 26]“모델 바뀌어도 데이터 남는다”…기업 AI 실행 기반 강화",
+    "link": "https://www.etnews.com/20260602000268",
+    "category": "민간"
   },
   {
     "title": "네이버, AI 안전성 거버넌스 개편…CRO 산하 ＇AI 세이프티 센터＇ 신설",
     "link": "https://www.etnews.com/20260601000331",
+    "category": "민간"
+  },
+  {
+    "title": "[컴퓨텍스 2026]MS 〃엔비디아 슈퍼칩 탑재 AI노트북 올 가을 출시〃",
+    "link": "https://www.etnews.com/20260603000201",
     "category": "민간"
   },
   {
@@ -40,34 +50,19 @@
     "category": "기관"
   },
   {
-    "title": "[ET시론]AI와 함께 열어가는 의약품 신속 허가",
-    "link": "https://www.etnews.com/20260603000090",
-    "category": "기타"
-  },
-  {
     "title": "SK텔레콤, 엔비디아와 ＇피지컬 AI＇ 정기 회의체 구성",
     "link": "https://www.etnews.com/20260603000117",
     "category": "민간"
   },
   {
-    "title": "네이블, ＇메트로시티＇에 AICC 솔루션 공급…패션·리테일로 AI 컨텍센터 사업 확장",
-    "link": "https://www.etnews.com/20260602000236",
-    "category": "민간"
-  },
-  {
-    "title": "위세아이텍, AI 운영관리부터 무역문서 처리 까지 ＇STK 2026＇서 솔루션 공개",
-    "link": "https://www.etnews.com/20260602000218",
-    "category": "민간"
-  },
-  {
-    "title": "10명 중 6명이 AI로 법률 분야 활용하는데…토종 리걸테크는 변호사법 족쇄",
-    "link": "https://www.etnews.com/20260602000291",
-    "category": "기관"
-  },
-  {
     "title": "통신장비사, 신사업 채비 속도…AI·군 위성·전장 확장",
     "link": "https://www.etnews.com/20260602000267",
     "category": "국방"
+  },
+  {
+    "title": "“LLM 한계 넘는다”…얀 르쿤, ＇월드모델＇ 아키텍처 수학적 증명",
+    "link": "https://www.etnews.com/20260602000364",
+    "category": "해외"
   },
   {
     "title": "[에듀플러스]한양여대, 서울 유일 전문기술 석사과정 운영 전문대… 전공에 AI 무기 장착”",
@@ -100,16 +95,6 @@
     "category": "해외"
   },
   {
-    "title": "앤트로픽, ＇미소스＇ 전 세계 150개 조직으로 확대...〃삼성·SK 포함〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211271",
-    "category": "해외"
-  },
-  {
-    "title": "엔비디아가 만든 가상 세계… ‘감마 월드’",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211264",
-    "category": "해외"
-  },
-  {
     "title": "알리바바, 하이브리드 에이전트 ‘큐원3.7-플러스’ 공개…“스스로 오류 수정하며 11시간 앱 개발”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=211279",
     "category": "해외"
@@ -120,8 +105,8 @@
     "category": "해외"
   },
   {
-    "title": "오픈AI, 사무직 겨냥 ＇코덱스＇ 업데이트…＇클로드 코워크＇ 맞불",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211275",
+    "title": "MS, AI로 설계한 양자 칩 ＇마요라나 2＇ 공개… 〃2029년 상용화 목표〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211277",
     "category": "해외"
   }
 ]
