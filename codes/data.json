@@ -9039,8 +9039,8 @@
           "category": "해외"
         },
         {
-          "title": "“LLM 한계 넘는다”…얀 르쿤, ＇월드모델＇ 아키텍처 수학적 증명",
-          "link": "https://www.etnews.com/20260602000364",
+          "title": "앤트로픽, 차세대 AI ＇미토스＇ 접근권 150개사 확대…삼성·SK 포함",
+          "link": "https://www.etnews.com/20260603000034",
           "category": "해외"
         },
         {
@@ -9074,11 +9074,6 @@
           "title": "통신장비사, 신사업 채비 속도…AI·군 위성·전장 확장",
           "link": "https://www.etnews.com/20260602000267",
           "category": "국방"
-        },
-        {
-          "title": "‘국방반도체’ 체계적 육성 가용 역량 집중",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20260604/12/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=of-PC9LEM2pYdj7zP2cMWyRsK43XVwAjEHr3mv_GRcuwyqnCCsic!730580237",
-          "category": "국방"
         }
       ],
       "민간": [
@@ -9093,11 +9088,6 @@
           "category": "민간"
         },
         {
-          "title": "[컴퓨텍스 2026]MS 〃엔비디아 슈퍼칩 탑재 AI노트북 올 가을 출시〃",
-          "link": "https://www.etnews.com/20260603000201",
-          "category": "민간"
-        },
-        {
           "title": "우리은행, 내부 문서 AI 지식자산화…AX 기반 닦았다",
           "link": "https://www.etnews.com/20260602000287",
           "category": "민간"
@@ -9108,8 +9098,13 @@
           "category": "민간"
         },
         {
-          "title": "AI 데이터센터發 반도체 슈퍼사이클…4년 만에 10배 성장 전망",
-          "link": "https://www.etnews.com/20260602000358",
+          "title": "네이블, ＇메트로시티＇에 AICC 솔루션 공급…패션·리테일로 AI 컨텍센터 사업 확장",
+          "link": "https://www.etnews.com/20260602000236",
+          "category": "민간"
+        },
+        {
+          "title": "10명 중 6명이 AI로 법률 분야 활용하는데…토종 리걸테크는 변호사법 족쇄",
+          "link": "https://www.etnews.com/20260602000291",
           "category": "민간"
         },
         {
@@ -9137,11 +9132,6 @@
           "category": "기관"
         },
         {
-          "title": "[에듀플러스]한양여대, 서울 유일 전문기술 석사과정 운영 전문대… 전공에 AI 무기 장착”",
-          "link": "https://www.etnews.com/20260603000024",
-          "category": "기관"
-        },
-        {
           "title": "“＇같은 그림 속 다른 점 찾기처럼”…GIST, 영상 속 물체 변화 찾아내는 AI 개발",
           "link": "https://www.etnews.com/20260602000024",
           "category": "기관"
@@ -9154,7 +9144,6 @@
           "category": "간행물"
         }
       ]
-    },
-    "briefing": "- 국방부가 국방 AI 및 무기체계의 핵심인 국방반도체를 체계적으로 육성하기 위해 범국가적 가용 역량을 집중하기로 했습니다.\n- 통신장비 기업들이 AI와 군 위성 등 신사업을 통해 전장 영역을 확장하며 국방 정보통신기술의 경쟁력 확보를 추진하고 있습니다.\n- GIST 연구팀이 영상 속 물체의 변화를 정밀하게 찾아내는 AI 기술을 개발하여 군의 감시 및 정찰 역량 고도화 가능성을 제시했습니다."
+    }
   }
 }
