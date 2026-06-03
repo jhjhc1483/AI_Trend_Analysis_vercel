@@ -1,98 +1,89 @@
-📢26.06.03 AI 일일 동향📢
+📢26.06.04 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 펀진, 합동화력훈련 최초 AI 적용…정찰 드론의 RF 신호 탐지부터 AI의 최적 무기 추천 선보여
-https://www.aitimes.kr/news/articleView.html?idxno=40323
+◾ ‘국방반도체’ 체계적 육성 가용 역량 집중
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNDg1NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ AI 시대 핵심 전략자산 ‘국방반도체’ 육성 속도...국방반도체법 제정안 국무회의 통과, 6월 중 공포
-https://www.aitimes.kr/news/articleView.html?idxno=40319
+◾ 공군 최고의 사이버 전사 김도현 중사·이동민 일병
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNDg3MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 인공지능 시대 핵심 전략자산  ‘국방반도체’, 체계적 육성 나선다!
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58678&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
+◾ 통신장비사, 신사업 채비 속도…AI·군 위성·전장 확장
+https://www.etnews.com/20260602000267
+
+◾ ‘국방반도체’ 체계적 육성 가용 역량 집중
+https://kookbang.dema.mil.kr/newsWeb/20260604/12/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=of-PC9LEM2pYdj7zP2cMWyRsK43XVwAjEHr3mv_GRcuwyqnCCsic!730580237
 
 [민간]
-◾ 최태원 회장, 엔비디아와 AI 동맹 강화 나서...＇풀스택 AI 메모리 크리에이터＇ 비전 제시
-https://www.aitimes.kr/news/articleView.html?idxno=40316
+◾ 네이버, AI 안전성 거버넌스 개편…CRO 산하 ＇AI 세이프티 센터＇ 신설
+https://www.etnews.com/20260601000331
 
-◾ LG디스플레이, 車 SW 글로벌 표준 ‘ASPICE’ 획득… SDV 기술 리더십 입증
-https://www.aitimes.kr/news/articleView.html?idxno=40315
+◾ 우리은행, 내부 문서 AI 지식자산화…AX 기반 닦았다
+https://www.etnews.com/20260602000287
 
-◾ 디노티시아, 기업 맞춤형 AI 언어모델 ‘DNA 3.0’ 오픈소스로 공개...큐원 3.5·3.6  모델에 사후학습, 튜닝 적용한 AI 언어모델군
-https://www.aitimes.kr/news/articleView.html?idxno=40314
+◾ SK텔레콤, 엔비디아와 ＇피지컬 AI＇ 정기 회의체 구성
+https://www.etnews.com/20260603000117
 
-◾ 네이버클라우드, 엔비디아 손잡고 “글로벌 AI 팩토리 도약” 선언… 인프라·모델·서비스 전방위 동맹
-https://www.aitimes.kr/news/articleView.html?idxno=40313
+◾ 네이블, ＇메트로시티＇에 AICC 솔루션 공급…패션·리테일로 AI 컨텍센터 사업 확장
+https://www.etnews.com/20260602000236
 
-◾ 대동그룹, AX 경영 혁신·미래사업 고도화...＇조성우 부사장＇과 ＇유용규 부사장＇ 전격 영입
-https://www.aitimes.kr/news/articleView.html?idxno=40312
+◾ 위세아이텍, AI 운영관리부터 무역문서 처리 까지 ＇STK 2026＇서 솔루션 공개
+https://www.etnews.com/20260602000218
 
-◾ 지미션, 퓨리오사AI와 MOU 체결… 국산 AI 반도체 기반 AX 솔루션 확산 협력
-https://www.aitimes.kr/news/articleView.html?idxno=40309
+◾ AI 데이터센터發 반도체 슈퍼사이클…4년 만에 10배 성장 전망
+https://www.etnews.com/20260602000358
 
-◾ 한컴-에어코드, ＇신뢰 AI 업무환경＇ 구축 맞손...공공 보안 시장 확대
-https://www.aitimes.kr/news/articleView.html?idxno=40304
+◾ 무신사, ＇AI 트렌드 큐레이션＇ 도입…“실시간 트렌드 읽고 상품 추천”
+https://www.etnews.com/20260603000013
 
 [기관]
-◾ 한·이탈리아, 공공조달 AI 혁신 손잡다...조달청, 전자조달·혁신조달·녹색조달 협력 확대
-https://www.aitimes.kr/news/articleView.html?idxno=40308
+◾ 국가AI컴퓨팅센터, SPC 이달 출범…본사는 해남·이사회 3자 구성
+https://www.etnews.com/20260602000292
 
-◾ 경남대, 한국정보전자통신기술학회 춘계학술대회서 초거대 제조 AI 연구성과 공유
-https://www.etnews.com/20260602000391
+◾ 10명 중 6명이 AI로 법률 분야 활용하는데…토종 리걸테크는 변호사법 족쇄
+https://www.etnews.com/20260602000291
 
-◾ 조선대 자율주행 연구팀 ＇원더독스＇, 국무총리배 A1 챌린지 3위 입상
-https://www.etnews.com/20260602000388
+◾ [에듀플러스]한양여대, 서울 유일 전문기술 석사과정 운영 전문대… 전공에 AI 무기 장착”
+https://www.etnews.com/20260603000024
 
-◾ 데이터처, 국가데이터기본법 발의…AI 친화형 인프라 구축 박차
-https://www.etnews.com/20260602000213
-
-◾ 은행연합회, 금융권 최초 AI 광고심의 도입…업스테이지와 손잡았다
-https://www.etnews.com/20260602000165
-
-◾ 서울AI재단, 연세대와 ＇서울시 AI 격차 인덱스＇ 개발 착수
-https://www.etnews.com/20260602000113
-
-◾ 엘리스그룹, 과기정통부 ＇생성AI 선도인재양성 사업＇ 선정
-https://www.etnews.com/20260602000043
+◾ “＇같은 그림 속 다른 점 찾기처럼”…GIST, 영상 속 물체 변화 찾아내는 AI 개발
+https://www.etnews.com/20260602000024
 
 [해외]
-◾ 립-부 탄 인텔 CEO, 〃칩부터 시스템 수준까지 새로운 AI 혁신을 전 세계에 선보일 준비가 되어 있다〃
-https://www.aitimes.kr/news/articleView.html?idxno=40322
+◾ 美 트럼프 행정부, ‘첨단 AI 혁신 및 안보 증진’ 행정명령 서명… 과도한 규제 철폐와 ‘미국 우선주의’ 사이버 보안 강화에 방점
+https://www.aitimes.kr/news/articleView.html?idxno=40325
 
-◾ 앤트로픽, 美 증권거래위에 비공개 상장 신청서 제출…기업가치 1,000억 달러급 AI 기업 상장 가시화
-https://www.aitimes.kr/news/articleView.html?idxno=40321
+◾ GPT-5.5·제미나이 능가한 ‘미니맥스 M3’ 출시...〃가격 5~10% 불과〃
+https://www.aitimes.com/news/articleView.html?idxno=211258
 
-◾ 美 DARPA·국립과학재단, 국가안보 AI 연구 연합 ‘AI 포지’ 출범
-https://www.aitimes.kr/news/articleView.html?idxno=40320
+◾ 앤트로픽, ＇미소스＇ 전 세계 150개 조직으로 확대...〃삼성·SK 포함〃
+https://www.aitimes.com/news/articleView.html?idxno=211271
 
-◾ 스노우플레이크·앤트로픽, 엔터프라이즈 AI 협력 확대…“거버넌스 기반 AI 시대 연다”
-https://www.aitimes.kr/news/articleView.html?idxno=40310
+◾ 엔비디아가 만든 가상 세계… ‘감마 월드’
+https://www.aitimes.com/news/articleView.html?idxno=211264
 
-◾ 젠슨 황, 〃AI 에이전트가 새로운 경제 주체...에이전트 중심 컴퓨팅 시대〃 선언
-https://www.aitimes.kr/news/articleView.html?idxno=40306
+◾ 알리바바, 하이브리드 에이전트 ‘큐원3.7-플러스’ 공개…“스스로 오류 수정하며 11시간 앱 개발”
+https://www.aitimes.com/news/articleView.html?idxno=211279
 
-◾ 〃중국 군부, 수년간 엔비디아 AI 칩 전방위 확보〃…핵무기·사이버전 활용 정황 드러나
-https://www.aitimes.com/news/articleView.html?idxno=211266
+◾ 〃AI 목소리도 안 통한다〃…구글, 딥페이크 보이스피싱 차단 기술 공개
+https://www.aitimes.com/news/articleView.html?idxno=211284
 
-◾ 엔비디아, 월드 모델 ‘코스모스 3’ 오픈 출시…“피지컬 AI 개발 주기 단축”
-https://www.aitimes.com/news/articleView.html?idxno=211240
+◾ 오픈AI, 사무직 겨냥 ＇코덱스＇ 업데이트…＇클로드 코워크＇ 맞불
+https://www.aitimes.com/news/articleView.html?idxno=211275
 
 [기타]
-◾ [김경진의 AI전략노트]〈29〉중국의 인공지능 발전, 대한민국은 어디 있는가
-https://www.etnews.com/20260602000194
+◾ [혁신플랫폼톡] AI의 전장이 끊임없이 확대되고 있다
+https://www.etnews.com/20260603000109
 
-◾ [소부장 인사이트] 에이전틱 AI 시대 진짜 병목은 ＇GPU＇ 아닌 ＇인프라 구조＇
-https://www.etnews.com/20260602000222
+◾ [기고]AI 에이전트의 시대, BI는 대체되는 것이 아니라 ＇진화＇하는 것
+https://www.etnews.com/20260603000110
+
+◾ [ET시론]AI와 함께 열어가는 의약품 신속 허가
+https://www.etnews.com/20260603000090
 
 📚 간행물
-◾ [NIA 미래전략 정책자료집] AGI 전환과 한국의 과제 : 글로벌 미래 시나리오 연구 비교 분석을 중심으로
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29481&parentSeq=29481
-
-◾ [The LENS 2026-7] EU AI 옴니버스 주요 동향 및 시사점: 「AI법」 개정 합의문서(9247/26)를 중심으로
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29480&parentSeq=29480
-
-◾ 자율형 방어 에이전트의 부상과 사이버 보안 패러다임 전환 外 [IITP 디지털 아웃룩 2026-5월호]
-https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260602-000012&cpage=1&rows=10&searchTarget=all
+◾ AI 반도체 경쟁의 구조적 전환 [주간기술동향 2213호]
+https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1398&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

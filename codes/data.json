@@ -9024,5 +9024,151 @@
       ]
     },
     "briefing": "- 합동화력훈련에 최초로 AI를 적용하여 정찰 드론의 RF 신호 탐지 및 AI의 최적 무기 추천 기술을 선보였습니다.\n- 국방 AI 인프라 구축의 초석이 될 국방반도체법 제정안이 국무회의를 통과하여 6월 중 공포될 예정입니다.\n- 미국 DARPA와 국립과학재단이 국가안보 분야의 AI 역량 강화를 위한 연구 연합체 ‘AI 포지’를 공식 출범했습니다."
+  },
+  "26.06.04": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "美 트럼프 행정부, ‘첨단 AI 혁신 및 안보 증진’ 행정명령 서명… 과도한 규제 철폐와 ‘미국 우선주의’ 사이버 보안 강화에 방점",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40325",
+          "category": "해외"
+        },
+        {
+          "title": "GPT-5.5·제미나이 능가한 ‘미니맥스 M3’ 출시...〃가격 5~10% 불과〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211258",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, ＇미소스＇ 전 세계 150개 조직으로 확대...〃삼성·SK 포함〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211271",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아가 만든 가상 세계… ‘감마 월드’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211264",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바, 하이브리드 에이전트 ‘큐원3.7-플러스’ 공개…“스스로 오류 수정하며 11시간 앱 개발”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211279",
+          "category": "해외"
+        },
+        {
+          "title": "〃AI 목소리도 안 통한다〃…구글, 딥페이크 보이스피싱 차단 기술 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211284",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 사무직 겨냥 ＇코덱스＇ 업데이트…＇클로드 코워크＇ 맞불",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211275",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "‘국방반도체’ 체계적 육성 가용 역량 집중",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNDg1NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "공군 최고의 사이버 전사 김도현 중사·이동민 일병",
+          "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNDg3MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "통신장비사, 신사업 채비 속도…AI·군 위성·전장 확장",
+          "link": "https://www.etnews.com/20260602000267",
+          "category": "국방"
+        },
+        {
+          "title": "‘국방반도체’ 체계적 육성 가용 역량 집중",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260604/12/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=of-PC9LEM2pYdj7zP2cMWyRsK43XVwAjEHr3mv_GRcuwyqnCCsic!730580237",
+          "category": "국방"
+        }
+      ],
+      "민간": [
+        {
+          "title": "네이버, AI 안전성 거버넌스 개편…CRO 산하 ＇AI 세이프티 센터＇ 신설",
+          "link": "https://www.etnews.com/20260601000331",
+          "category": "민간"
+        },
+        {
+          "title": "우리은행, 내부 문서 AI 지식자산화…AX 기반 닦았다",
+          "link": "https://www.etnews.com/20260602000287",
+          "category": "민간"
+        },
+        {
+          "title": "SK텔레콤, 엔비디아와 ＇피지컬 AI＇ 정기 회의체 구성",
+          "link": "https://www.etnews.com/20260603000117",
+          "category": "민간"
+        },
+        {
+          "title": "네이블, ＇메트로시티＇에 AICC 솔루션 공급…패션·리테일로 AI 컨텍센터 사업 확장",
+          "link": "https://www.etnews.com/20260602000236",
+          "category": "민간"
+        },
+        {
+          "title": "위세아이텍, AI 운영관리부터 무역문서 처리 까지 ＇STK 2026＇서 솔루션 공개",
+          "link": "https://www.etnews.com/20260602000218",
+          "category": "민간"
+        },
+        {
+          "title": "AI 데이터센터發 반도체 슈퍼사이클…4년 만에 10배 성장 전망",
+          "link": "https://www.etnews.com/20260602000358",
+          "category": "민간"
+        },
+        {
+          "title": "무신사, ＇AI 트렌드 큐레이션＇ 도입…“실시간 트렌드 읽고 상품 추천”",
+          "link": "https://www.etnews.com/20260603000013",
+          "category": "민간"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[혁신플랫폼톡] AI의 전장이 끊임없이 확대되고 있다",
+          "link": "https://www.etnews.com/20260603000109",
+          "category": "기타"
+        },
+        {
+          "title": "[기고]AI 에이전트의 시대, BI는 대체되는 것이 아니라 ＇진화＇하는 것",
+          "link": "https://www.etnews.com/20260603000110",
+          "category": "기타"
+        },
+        {
+          "title": "[ET시론]AI와 함께 열어가는 의약품 신속 허가",
+          "link": "https://www.etnews.com/20260603000090",
+          "category": "기타"
+        }
+      ],
+      "기관": [
+        {
+          "title": "국가AI컴퓨팅센터, SPC 이달 출범…본사는 해남·이사회 3자 구성",
+          "link": "https://www.etnews.com/20260602000292",
+          "category": "기관"
+        },
+        {
+          "title": "10명 중 6명이 AI로 법률 분야 활용하는데…토종 리걸테크는 변호사법 족쇄",
+          "link": "https://www.etnews.com/20260602000291",
+          "category": "기관"
+        },
+        {
+          "title": "[에듀플러스]한양여대, 서울 유일 전문기술 석사과정 운영 전문대… 전공에 AI 무기 장착”",
+          "link": "https://www.etnews.com/20260603000024",
+          "category": "기관"
+        },
+        {
+          "title": "“＇같은 그림 속 다른 점 찾기처럼”…GIST, 영상 속 물체 변화 찾아내는 AI 개발",
+          "link": "https://www.etnews.com/20260602000024",
+          "category": "기관"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "AI 반도체 경쟁의 구조적 전환 [주간기술동향 2213호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1398&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
