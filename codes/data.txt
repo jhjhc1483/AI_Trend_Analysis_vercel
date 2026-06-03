@@ -8,9 +8,6 @@ https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTM
 ◾ 통신장비사, 신사업 채비 속도…AI·군 위성·전장 확장
 https://www.etnews.com/20260602000267
 
-◾ ‘국방반도체’ 체계적 육성 가용 역량 집중
-https://kookbang.dema.mil.kr/newsWeb/20260604/12/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=of-PC9LEM2pYdj7zP2cMWyRsK43XVwAjEHr3mv_GRcuwyqnCCsic!730580237
-
 [민간]
 ◾ [스노우플레이크 서밋 26]“모델 바뀌어도 데이터 남는다”…기업 AI 실행 기반 강화
 https://www.etnews.com/20260602000268
@@ -18,17 +15,17 @@ https://www.etnews.com/20260602000268
 ◾ 네이버, AI 안전성 거버넌스 개편…CRO 산하 ＇AI 세이프티 센터＇ 신설
 https://www.etnews.com/20260601000331
 
-◾ [컴퓨텍스 2026]MS 〃엔비디아 슈퍼칩 탑재 AI노트북 올 가을 출시〃
-https://www.etnews.com/20260603000201
-
 ◾ 우리은행, 내부 문서 AI 지식자산화…AX 기반 닦았다
 https://www.etnews.com/20260602000287
 
 ◾ SK텔레콤, 엔비디아와 ＇피지컬 AI＇ 정기 회의체 구성
 https://www.etnews.com/20260603000117
 
-◾ AI 데이터센터發 반도체 슈퍼사이클…4년 만에 10배 성장 전망
-https://www.etnews.com/20260602000358
+◾ 네이블, ＇메트로시티＇에 AICC 솔루션 공급…패션·리테일로 AI 컨텍센터 사업 확장
+https://www.etnews.com/20260602000236
+
+◾ 10명 중 6명이 AI로 법률 분야 활용하는데…토종 리걸테크는 변호사법 족쇄
+https://www.etnews.com/20260602000291
 
 ◾ 무신사, ＇AI 트렌드 큐레이션＇ 도입…“실시간 트렌드 읽고 상품 추천”
 https://www.etnews.com/20260603000013
@@ -36,9 +33,6 @@ https://www.etnews.com/20260603000013
 [기관]
 ◾ 국가AI컴퓨팅센터, SPC 이달 출범…본사는 해남·이사회 3자 구성
 https://www.etnews.com/20260602000292
-
-◾ [에듀플러스]한양여대, 서울 유일 전문기술 석사과정 운영 전문대… 전공에 AI 무기 장착”
-https://www.etnews.com/20260603000024
 
 ◾ “＇같은 그림 속 다른 점 찾기처럼”…GIST, 영상 속 물체 변화 찾아내는 AI 개발
 https://www.etnews.com/20260602000024
@@ -50,8 +44,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=40325
 ◾ 〃발등에 불, AI ‘취약점 탐지·공격’에서 인간 능력 넘어〃...앤트로픽, ＇프로젝트 글래스윙＇ 200개 기관으로 확대
 https://www.aitimes.kr/news/articleView.html?idxno=40324
 
-◾ “LLM 한계 넘는다”…얀 르쿤, ＇월드모델＇ 아키텍처 수학적 증명
-https://www.etnews.com/20260602000364
+◾ 앤트로픽, 차세대 AI ＇미토스＇ 접근권 150개사 확대…삼성·SK 포함
+https://www.etnews.com/20260603000034
 
 ◾ GPT-5.5·제미나이 능가한 ‘미니맥스 M3’ 출시...〃가격 5~10% 불과〃
 https://www.aitimes.com/news/articleView.html?idxno=211258
