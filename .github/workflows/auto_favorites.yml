@@ -3,8 +3,10 @@ name: Auto Favorites Generation
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0 21 * * *' # 매일 오전 6시
-    - cron: '30 20 * * *' #매일 오전 5시반    
+    - cron: '0 17 * * *' # 매일 오전 2시
+    - cron: '0 18 * * *' # 매일 오전 3시
+    # - cron: '0 21 * * *' # 매일 오전 6시
+    # - cron: '30 20 * * *' #매일 오전 5시반    
 
 jobs:
   build:
