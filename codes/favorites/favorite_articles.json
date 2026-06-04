@@ -1,102 +1,152 @@
 [
   {
-    "title": "美 트럼프 행정부, ‘첨단 AI 혁신 및 안보 증진’ 행정명령 서명… 과도한 규제 철폐와 ‘미국 우선주의’ 사이버 보안 강화에 방점",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40325",
+    "title": "마이크로소프트, 에이전틱 AI로 개발한 차세대 위상 양자 칩 ＇마요라나 2＇ 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40347",
     "category": "해외"
   },
   {
-    "title": "〃발등에 불, AI ‘취약점 탐지·공격’에서 인간 능력 넘어〃...앤트로픽, ＇프로젝트 글래스윙＇ 200개 기관으로 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40324",
+    "title": "AI에게 ＇질문하는 법＇ 가르쳤다…MIT, ＇배틀십＇ 게임으로 GPT-5도 뛰어넘은 저비용 AI 개발",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40346",
     "category": "해외"
   },
   {
-    "title": "‘국방반도체’ 체계적 육성 가용 역량 집중",
-    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNDg1NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방"
+    "title": "〃클라우드 밖으로 나온 AI〃…구글, 온디바이스 오픈모델 ＇젬마 4 12B＇ 전격 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40344",
+    "category": "해외"
   },
   {
-    "title": "[스노우플레이크 서밋 26]“모델 바뀌어도 데이터 남는다”…기업 AI 실행 기반 강화",
-    "link": "https://www.etnews.com/20260602000268",
-    "category": "민간"
+    "title": "“에이전트 네이티브 개발 시대 연다”..깃허브, ＇코파일럿 앱＇ 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40342",
+    "category": "해외"
   },
   {
-    "title": "네이버, AI 안전성 거버넌스 개편…CRO 산하 ＇AI 세이프티 센터＇ 신설",
-    "link": "https://www.etnews.com/20260601000331",
-    "category": "민간"
-  },
-  {
-    "title": "[혁신플랫폼톡] AI의 전장이 끊임없이 확대되고 있다",
-    "link": "https://www.etnews.com/20260603000109",
-    "category": "기타"
-  },
-  {
-    "title": "[기고]AI 에이전트의 시대, BI는 대체되는 것이 아니라 ＇진화＇하는 것",
-    "link": "https://www.etnews.com/20260603000110",
-    "category": "기타"
-  },
-  {
-    "title": "우리은행, 내부 문서 AI 지식자산화…AX 기반 닦았다",
-    "link": "https://www.etnews.com/20260602000287",
-    "category": "민간"
-  },
-  {
-    "title": "국가AI컴퓨팅센터, SPC 이달 출범…본사는 해남·이사회 3자 구성",
-    "link": "https://www.etnews.com/20260602000292",
+    "title": "AI대학 신설 GIST, 모집정원 100명 확대…4대 과기원 공동 입학설명회 개최",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40334",
     "category": "기관"
   },
   {
-    "title": "SK텔레콤, 엔비디아와 ＇피지컬 AI＇ 정기 회의체 구성",
-    "link": "https://www.etnews.com/20260603000117",
+    "title": "롯데이노베이트, 180개 언어 지원 ＇산업 현장 전문용어＇ 번역 AI 에이전트 가동...건설 특화 용어사전 탑재로 현장 은어까지",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40333",
     "category": "민간"
   },
   {
-    "title": "네이블, ＇메트로시티＇에 AICC 솔루션 공급…패션·리테일로 AI 컨텍센터 사업 확장",
-    "link": "https://www.etnews.com/20260602000236",
+    "title": "AI와 창작자 간 시너지 찾는 새로운 실험... 네이버, 창작자-AI 펠로우십 ＇네이버 메이트＇ 시작",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40332",
     "category": "민간"
   },
   {
-    "title": "10명 중 6명이 AI로 법률 분야 활용하는데…토종 리걸테크는 변호사법 족쇄",
-    "link": "https://www.etnews.com/20260602000291",
-    "category": "민간"
-  },
-  {
-    "title": "통신장비사, 신사업 채비 속도…AI·군 위성·전장 확장",
-    "link": "https://www.etnews.com/20260602000267",
-    "category": "국방"
-  },
-  {
-    "title": "앤트로픽, 차세대 AI ＇미토스＇ 접근권 150개사 확대…삼성·SK 포함",
-    "link": "https://www.etnews.com/20260603000034",
-    "category": "해외"
-  },
-  {
-    "title": "무신사, ＇AI 트렌드 큐레이션＇ 도입…“실시간 트렌드 읽고 상품 추천”",
-    "link": "https://www.etnews.com/20260603000013",
-    "category": "민간"
-  },
-  {
-    "title": "“＇같은 그림 속 다른 점 찾기처럼”…GIST, 영상 속 물체 변화 찾아내는 AI 개발",
-    "link": "https://www.etnews.com/20260602000024",
+    "title": "이글루코퍼레이션, KISA AI 과제 수주...‘에이전틱 AI’로 자율형 SOC 구현 본격화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40331",
     "category": "기관"
   },
   {
-    "title": "GPT-5.5·제미나이 능가한 ‘미니맥스 M3’ 출시...〃가격 5~10% 불과〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211258",
+    "title": "〃로봇계의 ‘AI PC’ 시대 연다〃...엔비디아, 첫 개방형 휴머노이드 레퍼런스 디자인 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40329",
     "category": "해외"
   },
   {
-    "title": "알리바바, 하이브리드 에이전트 ‘큐원3.7-플러스’ 공개…“스스로 오류 수정하며 11시간 앱 개발”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211279",
+    "title": "기동부대 지킬 대드론 기술 한자리에... 방사청, 포천서 실전형 기술시연 개최",
+    "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58684&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+    "category": "국방"
+  },
+  {
+    "title": "방산수출 민간산업 협력·국방 AX 가속화 방안 논의",
+    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNDkyMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "미래 전장환경 대응 합동전영역지휘통제 구현 모색",
+    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNDkxOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "국방반도체법 제정 추진",
+    "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNDg3NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "[단독]보안업계 주도 한국판 ＇글래스윙＇ 이달 출범",
+    "link": "https://www.etnews.com/20260604000285",
+    "category": "기관"
+  },
+  {
+    "title": "[사설] 로봇기업 영세성 넘어야 피지컬AI 꽃핀다",
+    "link": "https://www.etnews.com/20260604000362",
+    "category": "기타"
+  },
+  {
+    "title": "국산 AI 반도체, 글로벌 수준 성능 입증…정부 전주기 지원 결실",
+    "link": "https://www.etnews.com/20260604000267",
+    "category": "기관"
+  },
+  {
+    "title": "2045년 과학기술 G3 도약 청사진 그린다…전략위원회 출범",
+    "link": "https://www.etnews.com/20260604000087",
+    "category": "기관"
+  },
+  {
+    "title": "신약·배터리·원전까지 AI가 연구한다……6대 전략기술 특화 모델 개발",
+    "link": "https://www.etnews.com/20260604000080",
+    "category": "기관"
+  },
+  {
+    "title": "산업부, K방산 수출 콘트롤타워 된다…국방부와 국방AX·수출 ＇속도전＇",
+    "link": "https://www.etnews.com/20260604000009",
+    "category": "국방"
+  },
+  {
+    "title": "젠슨 황, 크래프톤 만난다.... 휴머노이드·AI PC 협력 논의",
+    "link": "https://www.etnews.com/20260604000149",
+    "category": "민간"
+  },
+  {
+    "title": "NC AI, 한화오션 최첨단 용접 로봇 AI 두뇌 개발한다",
+    "link": "https://www.etnews.com/20260604000028",
+    "category": "민간"
+  },
+  {
+    "title": "앤트로픽, IPO 주관사에 모건스탠리·골드만삭스 선정",
+    "link": "https://www.etnews.com/20260604000022",
     "category": "해외"
   },
   {
-    "title": "〃AI 목소리도 안 통한다〃…구글, 딥페이크 보이스피싱 차단 기술 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211284",
+    "title": "메타, 기업용 AI 에이전트 출시…MS·구글과 경쟁",
+    "link": "https://www.etnews.com/20260604000021",
     "category": "해외"
   },
   {
-    "title": "MS, AI로 설계한 양자 칩 ＇마요라나 2＇ 공개… 〃2029년 상용화 목표〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211277",
-    "category": "해외"
+    "title": "CSTA·KOES, 국방 전자 화합물반도체 세미나 개최",
+    "link": "https://www.etnews.com/20260602000141",
+    "category": "국방"
+  },
+  {
+    "title": "‘K방산’의 다음 정점, 하드웨어 넘어 ‘소프트웨어 중심 국방’으로",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260605/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=QYyT3NP0iN8lHTd2v9WtYQ48xNhyv2-iM8cY7rzCSx6kQxYDTUuS!730580237",
+    "category": "국방"
+  },
+  {
+    "title": "한국IBM, 개발 전 과정 아우르는 에이전트 ‘IBM 밥’ 국내 최초 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211352",
+    "category": "민간"
+  },
+  {
+    "title": "와이즈넛, 멀티모달 AI 모델 출시…‘산업 현장형 AI 에이전트’ 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211343",
+    "category": "민간"
+  },
+  {
+    "title": "과기부, 퓨리오사AI·리벨리온 반도체 검증...〃‘서비스별 성능 만족〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211349",
+    "category": "기관"
+  },
+  {
+    "title": "SKT, 앤트로픽 ＇프로젝트 글래스윙＇ 합류 공식 확인",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211332",
+    "category": "민간"
+  },
+  {
+    "title": "퀀텀에어로, 이금모 CTO 영입...〃방산 AI 주권 확보 목표〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211318",
+    "category": "국방"
   }
 ]
