@@ -1,74 +1,82 @@
-📢26.06.04 AI 일일 동향📢
+📢26.06.06 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ ‘국방반도체’ 체계적 육성 가용 역량 집중
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNDg1NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 퀀텀에어로, 민관협력 오픈이노베이션 ‘AI 자율비행 플랫폼’ 과제 선정
+https://www.aitimes.kr/news/articleView.html?idxno=40353
 
-◾ 통신장비사, 신사업 채비 속도…AI·군 위성·전장 확장
-https://www.etnews.com/20260602000267
+◾ KAIST, 휴머노이드 조종사 ‘파이봇’, 세계 최고 권위 로봇 학술지 최우수논문상 수상
+https://www.aitimes.kr/news/articleView.html?idxno=40350
+
+◾ 티쓰리큐, 재난안전 AI데이터 국가사업 수주·계약 완료…“K-팔란티어 가능성 입증”
+https://www.etnews.com/20260605000025
 
 [민간]
-◾ [스노우플레이크 서밋 26]“모델 바뀌어도 데이터 남는다”…기업 AI 실행 기반 강화
-https://www.etnews.com/20260602000268
+◾ 엔비디아 “4가지 큰 선물”…한국 AI센터 서울 유력
+https://www.etnews.com/20260605000335
 
-◾ 네이버, AI 안전성 거버넌스 개편…CRO 산하 ＇AI 세이프티 센터＇ 신설
-https://www.etnews.com/20260601000331
+◾ 젠슨 황 “메모리 3사 HBM4 퀄 통과…양산 진행 중”
+https://www.etnews.com/20260605000310
 
-◾ 우리은행, 내부 문서 AI 지식자산화…AX 기반 닦았다
-https://www.etnews.com/20260602000287
+◾ 아이엘, 휴머노이드 데이터 43만건 확보…연내 500만건 확보 목표
+https://www.etnews.com/20260605000295
 
-◾ SK텔레콤, 엔비디아와 ＇피지컬 AI＇ 정기 회의체 구성
-https://www.etnews.com/20260603000117
+◾ 아리바이오, 릴리 AI 신약 개발 플랫폼 참여
+https://www.etnews.com/20260605000261
 
-◾ 네이블, ＇메트로시티＇에 AICC 솔루션 공급…패션·리테일로 AI 컨텍센터 사업 확장
-https://www.etnews.com/20260602000236
+◾ 앤서와이즈 AWAXIS-KR-31B-v5, 정부 운영 공개 LLM 평가서 1위 기록
+https://www.etnews.com/20260605000198
 
-◾ 10명 중 6명이 AI로 법률 분야 활용하는데…토종 리걸테크는 변호사법 족쇄
-https://www.etnews.com/20260602000291
+◾ 젠슨 황, 오늘 SK·LG·네이버 총수와 홍대서 ＇삼겹살＇ 회동
+https://www.etnews.com/20260605000023
 
-◾ 무신사, ＇AI 트렌드 큐레이션＇ 도입…“실시간 트렌드 읽고 상품 추천”
-https://www.etnews.com/20260603000013
+◾ 채널톡, 신규 기능 ＇코스＇ 이달 말 출시...〃AI 비서 실장이 의사 결정 돕는다〃
+https://www.aitimes.com/news/articleView.html?idxno=211373
 
 [기관]
-◾ 국가AI컴퓨팅센터, SPC 이달 출범…본사는 해남·이사회 3자 구성
-https://www.etnews.com/20260602000292
+◾ 국민 체감 AI 서비스 확산을 위한 「AI 민생 10대 프로젝트」 본격 착수
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187400&searchOpt=ALL&searchTxt=
 
-◾ “＇같은 그림 속 다른 점 찾기처럼”…GIST, 영상 속 물체 변화 찾아내는 AI 개발
-https://www.etnews.com/20260602000024
+◾ [에듀플러스]테크빌교육 체더스, 세종시교육청 AI교수학습플랫폼 특화 서비스 구축 사업 수주
+https://www.etnews.com/20260605000262
+
+◾ 중기부-KB금융, 100억원 규모 상생협력기금 조성…AX·GX·SX 지원 나선다
+https://www.etnews.com/20260605000050
+
+◾ 육동한 춘천시장 복귀 첫 업무는 ＇AI＇…AI 특화 시범도시 추진 본격화
+https://www.etnews.com/20260605000003
+
+◾ GIST, 4대 과기원 공동 입학설명회 개최...〃AI 대학 신설·정원 확대〃
+https://www.aitimes.com/news/articleView.html?idxno=211380
 
 [해외]
-◾ 美 트럼프 행정부, ‘첨단 AI 혁신 및 안보 증진’ 행정명령 서명… 과도한 규제 철폐와 ‘미국 우선주의’ 사이버 보안 강화에 방점
-https://www.aitimes.kr/news/articleView.html?idxno=40325
+◾ 마크 카니 캐나다 총리, 국가 인공지능 대전환 선언… ‘모두를 위한 AI(AI for All)’ 전략 전격 발표
+https://www.aitimes.kr/news/articleView.html?idxno=40359
 
-◾ 〃발등에 불, AI ‘취약점 탐지·공격’에서 인간 능력 넘어〃...앤트로픽, ＇프로젝트 글래스윙＇ 200개 기관으로 확대
-https://www.aitimes.kr/news/articleView.html?idxno=40324
+◾ 앤트로픽 “AI 개발 속도 늦춰야”…인간 통제 벗어날 가능성 경고
+https://www.etnews.com/20260605000109
 
-◾ 앤트로픽, 차세대 AI ＇미토스＇ 접근권 150개사 확대…삼성·SK 포함
-https://www.etnews.com/20260603000034
+◾ 엔비디아, 자체 최고 성능 ‘네모트론 3 울트라’ 출시…“비용 30% 절감”
+https://www.aitimes.com/news/articleView.html?idxno=211367
 
-◾ GPT-5.5·제미나이 능가한 ‘미니맥스 M3’ 출시...〃가격 5~10% 불과〃
-https://www.aitimes.com/news/articleView.html?idxno=211258
+◾ 앤트로픽, 소송 중에도 미 국가안보국에 FDE 파견해 ＇미소스＇ 기술 지원
+https://www.aitimes.com/news/articleView.html?idxno=211387
 
-◾ 알리바바, 하이브리드 에이전트 ‘큐원3.7-플러스’ 공개…“스스로 오류 수정하며 11시간 앱 개발”
-https://www.aitimes.com/news/articleView.html?idxno=211279
+◾ 골드만삭스 〃스페이스X, 2030년 AI 매출 100배 폭발…현금 소진은 541조〃
+https://www.aitimes.com/news/articleView.html?idxno=211391
 
-◾ 〃AI 목소리도 안 통한다〃…구글, 딥페이크 보이스피싱 차단 기술 공개
-https://www.aitimes.com/news/articleView.html?idxno=211284
+◾ 알트먼·아모데이·허사비스, 미 의회에 ＇생물학 무기 방지법＇ 촉구
+https://www.aitimes.com/news/articleView.html?idxno=211384
 
-◾ MS, AI로 설계한 양자 칩 ＇마요라나 2＇ 공개… 〃2029년 상용화 목표〃
-https://www.aitimes.com/news/articleView.html?idxno=211277
+◾ ＇가성비＇ 앞세운 딥시크, 미국 기업 인기 AI 도구 1위 기록
+https://www.aitimes.com/news/articleView.html?idxno=211372
 
 [기타]
-◾ [혁신플랫폼톡] AI의 전장이 끊임없이 확대되고 있다
-https://www.etnews.com/20260603000109
+◾ [김형민 변호사의 IT경영법무]〈24〉AI시대의 노노갈등
+https://www.etnews.com/20260605000231
 
-◾ [기고]AI 에이전트의 시대, BI는 대체되는 것이 아니라 ＇진화＇하는 것
-https://www.etnews.com/20260603000110
-
-📚 간행물
-◾ AI 반도체 경쟁의 구조적 전환 [주간기술동향 2213호]
-https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1398&cpage=1&rows=10&searchTarget=all
+◾ AI·우주기업 상장 광풍…140년 된 은광도 뉴욕증시 달궜다
+https://www.etnews.com/20260605000008
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
