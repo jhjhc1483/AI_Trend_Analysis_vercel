@@ -1,104 +1,82 @@
-📢26.06.05 AI 일일 동향📢
+📢26.06.06 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 기동부대 지킬 대드론 기술 한자리에... 방사청, 포천서 실전형 기술시연 개최
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58684&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
+◾ 퀀텀에어로, 민관협력 오픈이노베이션 ‘AI 자율비행 플랫폼’ 과제 선정
+https://www.aitimes.kr/news/articleView.html?idxno=40353
 
-◾ 방산수출 민간산업 협력·국방 AX 가속화 방안 논의
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNDkyMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ KAIST, 휴머노이드 조종사 ‘파이봇’, 세계 최고 권위 로봇 학술지 최우수논문상 수상
+https://www.aitimes.kr/news/articleView.html?idxno=40350
 
-◾ 미래 전장환경 대응 합동전영역지휘통제 구현 모색
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNDkxOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 국방반도체법 제정 추진
-https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNDg3NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 산업부, K방산 수출 콘트롤타워 된다…국방부와 국방AX·수출 ＇속도전＇
-https://www.etnews.com/20260604000009
-
-◾ CSTA·KOES, 국방 전자 화합물반도체 세미나 개최
-https://www.etnews.com/20260602000141
-
-◾ ‘K방산’의 다음 정점, 하드웨어 넘어 ‘소프트웨어 중심 국방’으로
-https://kookbang.dema.mil.kr/newsWeb/20260605/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=QYyT3NP0iN8lHTd2v9WtYQ48xNhyv2-iM8cY7rzCSx6kQxYDTUuS!730580237
-
-◾ 퀀텀에어로, 이금모 CTO 영입...〃방산 AI 주권 확보 목표〃
-https://www.aitimes.com/news/articleView.html?idxno=211318
+◾ 티쓰리큐, 재난안전 AI데이터 국가사업 수주·계약 완료…“K-팔란티어 가능성 입증”
+https://www.etnews.com/20260605000025
 
 [민간]
-◾ 롯데이노베이트, 180개 언어 지원 ＇산업 현장 전문용어＇ 번역 AI 에이전트 가동...건설 특화 용어사전 탑재로 현장 은어까지
-https://www.aitimes.kr/news/articleView.html?idxno=40333
+◾ 엔비디아 “4가지 큰 선물”…한국 AI센터 서울 유력
+https://www.etnews.com/20260605000335
 
-◾ AI와 창작자 간 시너지 찾는 새로운 실험... 네이버, 창작자-AI 펠로우십 ＇네이버 메이트＇ 시작
-https://www.aitimes.kr/news/articleView.html?idxno=40332
+◾ 젠슨 황 “메모리 3사 HBM4 퀄 통과…양산 진행 중”
+https://www.etnews.com/20260605000310
 
-◾ 젠슨 황, 크래프톤 만난다.... 휴머노이드·AI PC 협력 논의
-https://www.etnews.com/20260604000149
+◾ 아이엘, 휴머노이드 데이터 43만건 확보…연내 500만건 확보 목표
+https://www.etnews.com/20260605000295
 
-◾ NC AI, 한화오션 최첨단 용접 로봇 AI 두뇌 개발한다
-https://www.etnews.com/20260604000028
+◾ 아리바이오, 릴리 AI 신약 개발 플랫폼 참여
+https://www.etnews.com/20260605000261
 
-◾ 한국IBM, 개발 전 과정 아우르는 에이전트 ‘IBM 밥’ 국내 최초 공개
-https://www.aitimes.com/news/articleView.html?idxno=211352
+◾ 앤서와이즈 AWAXIS-KR-31B-v5, 정부 운영 공개 LLM 평가서 1위 기록
+https://www.etnews.com/20260605000198
 
-◾ 와이즈넛, 멀티모달 AI 모델 출시…‘산업 현장형 AI 에이전트’ 강화
-https://www.aitimes.com/news/articleView.html?idxno=211343
+◾ 젠슨 황, 오늘 SK·LG·네이버 총수와 홍대서 ＇삼겹살＇ 회동
+https://www.etnews.com/20260605000023
 
-◾ SKT, 앤트로픽 ＇프로젝트 글래스윙＇ 합류 공식 확인
-https://www.aitimes.com/news/articleView.html?idxno=211332
+◾ 채널톡, 신규 기능 ＇코스＇ 이달 말 출시...〃AI 비서 실장이 의사 결정 돕는다〃
+https://www.aitimes.com/news/articleView.html?idxno=211373
 
 [기관]
-◾ AI대학 신설 GIST, 모집정원 100명 확대…4대 과기원 공동 입학설명회 개최
-https://www.aitimes.kr/news/articleView.html?idxno=40334
+◾ 국민 체감 AI 서비스 확산을 위한 「AI 민생 10대 프로젝트」 본격 착수
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187400&searchOpt=ALL&searchTxt=
 
-◾ 이글루코퍼레이션, KISA AI 과제 수주...‘에이전틱 AI’로 자율형 SOC 구현 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=40331
+◾ [에듀플러스]테크빌교육 체더스, 세종시교육청 AI교수학습플랫폼 특화 서비스 구축 사업 수주
+https://www.etnews.com/20260605000262
 
-◾ [단독]보안업계 주도 한국판 ＇글래스윙＇ 이달 출범
-https://www.etnews.com/20260604000285
+◾ 중기부-KB금융, 100억원 규모 상생협력기금 조성…AX·GX·SX 지원 나선다
+https://www.etnews.com/20260605000050
 
-◾ 국산 AI 반도체, 글로벌 수준 성능 입증…정부 전주기 지원 결실
-https://www.etnews.com/20260604000267
+◾ 육동한 춘천시장 복귀 첫 업무는 ＇AI＇…AI 특화 시범도시 추진 본격화
+https://www.etnews.com/20260605000003
 
-◾ 2045년 과학기술 G3 도약 청사진 그린다…전략위원회 출범
-https://www.etnews.com/20260604000087
-
-◾ 신약·배터리·원전까지 AI가 연구한다……6대 전략기술 특화 모델 개발
-https://www.etnews.com/20260604000080
-
-◾ 과기부, 퓨리오사AI·리벨리온 반도체 검증...〃‘서비스별 성능 만족〃
-https://www.aitimes.com/news/articleView.html?idxno=211349
+◾ GIST, 4대 과기원 공동 입학설명회 개최...〃AI 대학 신설·정원 확대〃
+https://www.aitimes.com/news/articleView.html?idxno=211380
 
 [해외]
-◾ 마이크로소프트, 에이전틱 AI로 개발한 차세대 위상 양자 칩 ＇마요라나 2＇ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40347
+◾ 마크 카니 캐나다 총리, 국가 인공지능 대전환 선언… ‘모두를 위한 AI(AI for All)’ 전략 전격 발표
+https://www.aitimes.kr/news/articleView.html?idxno=40359
 
-◾ AI에게 ＇질문하는 법＇ 가르쳤다…MIT, ＇배틀십＇ 게임으로 GPT-5도 뛰어넘은 저비용 AI 개발
-https://www.aitimes.kr/news/articleView.html?idxno=40346
+◾ 앤트로픽 “AI 개발 속도 늦춰야”…인간 통제 벗어날 가능성 경고
+https://www.etnews.com/20260605000109
 
-◾ 〃클라우드 밖으로 나온 AI〃…구글, 온디바이스 오픈모델 ＇젬마 4 12B＇ 전격 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40344
+◾ 엔비디아, 자체 최고 성능 ‘네모트론 3 울트라’ 출시…“비용 30% 절감”
+https://www.aitimes.com/news/articleView.html?idxno=211367
 
-◾ “에이전트 네이티브 개발 시대 연다”..깃허브, ＇코파일럿 앱＇ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40342
+◾ 앤트로픽, 소송 중에도 미 국가안보국에 FDE 파견해 ＇미소스＇ 기술 지원
+https://www.aitimes.com/news/articleView.html?idxno=211387
 
-◾ 〃로봇계의 ‘AI PC’ 시대 연다〃...엔비디아, 첫 개방형 휴머노이드 레퍼런스 디자인 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40329
+◾ 골드만삭스 〃스페이스X, 2030년 AI 매출 100배 폭발…현금 소진은 541조〃
+https://www.aitimes.com/news/articleView.html?idxno=211391
 
-◾ 앤트로픽, IPO 주관사에 모건스탠리·골드만삭스 선정
-https://www.etnews.com/20260604000022
+◾ 알트먼·아모데이·허사비스, 미 의회에 ＇생물학 무기 방지법＇ 촉구
+https://www.aitimes.com/news/articleView.html?idxno=211384
 
-◾ 메타, 기업용 AI 에이전트 출시…MS·구글과 경쟁
-https://www.etnews.com/20260604000021
+◾ ＇가성비＇ 앞세운 딥시크, 미국 기업 인기 AI 도구 1위 기록
+https://www.aitimes.com/news/articleView.html?idxno=211372
 
 [기타]
-◾ [사설] 로봇기업 영세성 넘어야 피지컬AI 꽃핀다
-https://www.etnews.com/20260604000362
+◾ [김형민 변호사의 IT경영법무]〈24〉AI시대의 노노갈등
+https://www.etnews.com/20260605000231
 
-📚 간행물
-◾ [26-12] EU, 「AI법」상 고위험 AI 시스템 분류 가이드라인 초안 의견수렴 ('26.5.19~6.23)
-https://www.kisa.or.kr/20201/form?postSeq=281&page=1
+◾ AI·우주기업 상장 광풍…140년 된 은광도 뉴욕증시 달궜다
+https://www.etnews.com/20260605000008
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
