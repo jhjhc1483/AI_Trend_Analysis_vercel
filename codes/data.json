@@ -9391,12 +9391,12 @@
         }
       ],
       "민간": [
-         {
+        {
           "title": "티쓰리큐, 재난안전 AI데이터 국가사업 수주·계약 완료…“K-팔란티어 가능성 입증”",
           "link": "https://www.etnews.com/20260605000025",
           "category": "민간"
-         },
-         {
+        },
+        {
           "title": "퀀텀에어로, 민관협력 오픈이노베이션 ‘AI 자율비행 플랫폼’ 과제 선정",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40353",
           "category": "민간"
@@ -9451,5 +9451,65 @@
       ]
     },
     "briefing": "- 퀀텀에어로가 민관협력 오픈이노베이션의 ‘AI 자율비행 플랫폼’ 개발 과제 수행 기업으로 최종 선정되었습니다.\n- KAIST의 휴머노이드 조종사 ‘파이봇’이 세계 최고 권위 로봇 학술지에서 최우수논문상을 수상하며 기술적 완성도를 인정받았습니다.\n- 티쓰리큐가 재난안전 AI 데이터 국가사업 수주를 통해 국방 및 안보 분야의 ‘한국형 팔란티어’ 구현 가능성을 입증했습니다."
+  },
+  "26.06.07": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "구글, ＇젬마 4 QAT＇ 공개…“1GB 메모리로 AI 구동” 온디바이스 AI 대중화 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40365",
+          "category": "해외"
+        },
+        {
+          "title": "美·日, ‘AI 포 사이언스＇ 동맹 구축…10억 달러 공동 투자, 미국 ‘제네시스 미션’과 일본 AI 전략 결합",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40364",
+          "category": "해외"
+        },
+        {
+          "title": "에이전틱 AI 결정하고 사람은 승인만…가트너 “HITL 착각 조짐”",
+          "link": "https://www.etnews.com/20260605000227",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, AI 에이전트 보안 백서 공개…“제로트러스트 적용해야”",
+          "link": "https://www.etnews.com/20260605000224",
+          "category": "해외"
+        },
+        {
+          "title": "미 하원, 초당적 AI 법안 초안 공개…＇주정부 규제 무력화＇ 논란",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211419",
+          "category": "해외"
+        },
+        {
+          "title": "스페이스X, 앤트로픽 이어 구글과도 컴퓨팅 임대 계약...〃3년간 47조〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211421",
+          "category": "해외"
+        },
+        {
+          "title": "트럼프·오픈AI, ‘정부 지분 확보’ 논의…〃다음 주 백악관 회동〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211408",
+          "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[컴퓨텍스 2026]대만에서도 빛난 ＇K-반도체 열풍＇",
+          "link": "https://www.etnews.com/20260605000184",
+          "category": "민간"
+        },
+        {
+          "title": "〃한국, AI 비싸게 쓴다〃…한국어 토큰 소모, 영어 최대 2.59배 높아",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211350",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "김영훈 노동장관 〃대기업 AI 초과이익 공유해야...명백한 재투자〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211411",
+          "category": "기관"
+        }
+      ]
+    }
   }
 }
