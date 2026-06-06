@@ -9456,8 +9456,8 @@
     "categorized": {
       "해외": [
         {
-          "title": "구글, ＇젬마 4 QAT＇ 공개…“1GB 메모리로 AI 구동” 온디바이스 AI 대중화 가속",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40365",
+          "title": "자연어로 지시하는 AI 로봇 등장...아마존, 차세대 자율주행 로봇 ＇프로테우스＇ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40366",
           "category": "해외"
         },
         {
@@ -9466,13 +9466,13 @@
           "category": "해외"
         },
         {
-          "title": "에이전틱 AI 결정하고 사람은 승인만…가트너 “HITL 착각 조짐”",
-          "link": "https://www.etnews.com/20260605000227",
+          "title": "앤트로픽, AI 에이전트 보안 백서 공개…“제로트러스트 적용해야”",
+          "link": "https://www.etnews.com/20260605000224",
           "category": "해외"
         },
         {
-          "title": "앤트로픽, AI 에이전트 보안 백서 공개…“제로트러스트 적용해야”",
-          "link": "https://www.etnews.com/20260605000224",
+          "title": "구글, ‘젬마 4＇ 온디바이스 버전 QAT 공개…“메모리 1GB로 압축”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211418",
           "category": "해외"
         },
         {
@@ -9489,6 +9489,18 @@
           "title": "트럼프·오픈AI, ‘정부 지분 확보’ 논의…〃다음 주 백악관 회동〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211408",
           "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "젠슨황, 유재석 만나 ＇골든＇ 댄스까지?! ＇유퀴즈＇ 기대 UP",
+          "link": "https://www.etnews.com/20260606000017",
+          "category": "기타"
+        },
+        {
+          "title": "〃침팬지만 되는 줄 알았는데〃…호박벌의 놀라운 ＇통찰력＇?",
+          "link": "https://www.etnews.com/20260605000228",
+          "category": "기타"
         }
       ],
       "민간": [
@@ -9510,7 +9522,6 @@
           "category": "기관"
         }
       ]
-    },
-    "briefing": "- 구글이 1GB 메모리에서도 구동 가능한 기술을 공개하며 통신 제한 환경에서도 활용 가능한 온디바이스 AI의 효율성을 입증했습니다.\n- 앤트로픽은 보안이 중요한 AI 에이전트 환경에서 모든 접근을 상시 검증하는 '제로트러스트' 원칙을 적용해야 한다는 백서를 공개했습니다.\n- 가트너는 AI의 결정을 사람이 승인만 하는 방식이 실질적인 통제권을 상실하는 '인간 개입(HITL) 착각'을 일으킬 수 있다고 경고했습니다."
+    }
   }
 }
