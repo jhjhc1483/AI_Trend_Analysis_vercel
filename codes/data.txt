@@ -13,17 +13,17 @@ https://www.aitimes.com/news/articleView.html?idxno=211350
 https://www.aitimes.com/news/articleView.html?idxno=211411
 
 [해외]
-◾ 구글, ＇젬마 4 QAT＇ 공개…“1GB 메모리로 AI 구동” 온디바이스 AI 대중화 가속
-https://www.aitimes.kr/news/articleView.html?idxno=40365
+◾ 자연어로 지시하는 AI 로봇 등장...아마존, 차세대 자율주행 로봇 ＇프로테우스＇ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=40366
 
 ◾ 美·日, ‘AI 포 사이언스＇ 동맹 구축…10억 달러 공동 투자, 미국 ‘제네시스 미션’과 일본 AI 전략 결합
 https://www.aitimes.kr/news/articleView.html?idxno=40364
 
-◾ 에이전틱 AI 결정하고 사람은 승인만…가트너 “HITL 착각 조짐”
-https://www.etnews.com/20260605000227
-
 ◾ 앤트로픽, AI 에이전트 보안 백서 공개…“제로트러스트 적용해야”
 https://www.etnews.com/20260605000224
+
+◾ 구글, ‘젬마 4＇ 온디바이스 버전 QAT 공개…“메모리 1GB로 압축”
+https://www.aitimes.com/news/articleView.html?idxno=211418
 
 ◾ 미 하원, 초당적 AI 법안 초안 공개…＇주정부 규제 무력화＇ 논란
 https://www.aitimes.com/news/articleView.html?idxno=211419
@@ -33,6 +33,13 @@ https://www.aitimes.com/news/articleView.html?idxno=211421
 
 ◾ 트럼프·오픈AI, ‘정부 지분 확보’ 논의…〃다음 주 백악관 회동〃
 https://www.aitimes.com/news/articleView.html?idxno=211408
+
+[기타]
+◾ 젠슨황, 유재석 만나 ＇골든＇ 댄스까지?! ＇유퀴즈＇ 기대 UP
+https://www.etnews.com/20260606000017
+
+◾ 〃침팬지만 되는 줄 알았는데〃…호박벌의 놀라운 ＇통찰력＇?
+https://www.etnews.com/20260605000228
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
