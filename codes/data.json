@@ -9674,5 +9674,153 @@
       ]
     },
     "briefing": "- AI 기술을 활용해 화학작용제를 수 초 만에 실시간으로 식별할 수 있는 탐지 센서가 개발되었습니다.\n- 트럼프 대통령이 미군과 정보기관에 세계 최고 수준의 AI를 신속히 배치하도록 하는 국가안보 AI 지침에 서명했습니다.\n- 미래 전장의 핵심인 AI를 활용해 '스마트 강군'을 육성하기 위한 국방 정책 및 군사 혁신 방안이 논의되었습니다."
+  },
+  "26.06.09": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "네이버-엔비디아, GW급 초대형 AI 팩토리 구축 맞손…아시아 중동 유럽 잇는 AI 인프라 동맹",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40391",
+          "category": "민간"
+        },
+        {
+          "title": "“바이브 코딩 넘는다”…LG CNS, 대규모 시스템 구축에 에이전틱 AI 투입",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40390",
+          "category": "민간"
+        },
+        {
+          "title": "SKT-엔비디아, ‘AI 인프라’ 동맹으로 한국의 AI 혁신 주도한다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40376",
+          "category": "민간"
+        },
+        {
+          "title": "젠슨 황 “AI 다음은 피지컬 AI”…현대차그룹과 모빌리티 빅뱅 예고",
+          "link": "https://www.etnews.com/20260608000417",
+          "category": "민간"
+        },
+        {
+          "title": "젠슨 황, 방한 마지막 일정서 국내 AI 기업 독려...〃GPU 우선 공급”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211497",
+          "category": "민간"
+        },
+        {
+          "title": "젠슨 황, 현대차그룹 방문...”로보틱스 핵심 ‘새만금’에 데이터센터 설립 유력”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211495",
+          "category": "민간"
+        }
+      ],
+      "국방": [
+        {
+          "title": "병무청 챗봇 ‘영문 서비스’",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTA4NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "코난테크놀로지, STK·InLEX 참가…제조·국방 AI 영토 확장",
+          "link": "https://www.etnews.com/20260608000463",
+          "category": "국방"
+        },
+        {
+          "title": "마키나락스, 군사과학기술학회서 국방 특화 피지컬 AI 알린다",
+          "link": "https://www.etnews.com/20260608000392",
+          "category": "국방"
+        },
+        {
+          "title": "제3회 국방 AI 발전 세미나 개최···“국방 AI 거버넌스와 민·군 융합 전략 모색”",
+          "link": "https://www.etnews.com/20260608000037",
+          "category": "국방"
+        }
+      ],
+      "육군": [
+        {
+          "title": "육군6보병사단 ‘2026년 제1회 청성 드론 경연대회’",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTA4NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군"
+        },
+        {
+          "title": "육군6보병사단 ‘2026년 제1회 청성 드론 경연대회’",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260609/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=_JWogXuW52oBk-_I9aH6BLHwSZLYutIAL_lBx7wc0zAAxpISaXiw!730580237",
+          "category": "육군"
+        }
+      ],
+      "기관": [
+        {
+          "title": "정부 GPU 확보·구축·운용지원 사업(2.08조 원 규모) 참여 사업자 선정 결과",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187410&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "배경훈 부총리, 젠슨 황 엔비디아 대표와 면담",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187406&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "[보도참고] 우리 한국형 인공지능(K-AI) 모델이 현장에 펼쳐지고 있습니다 ➄",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187405&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "씨에스리, ＇AI 민생 10대 프로젝트＇ 합류…경찰 AI ＇모두의 경찰관＇ 사업 본격 추진",
+          "link": "https://www.etnews.com/20260608000467",
+          "category": "기관"
+        },
+        {
+          "title": "청와대 수석 등 AI 정책 컨트롤타워 공백 한 달째…“후임 인선 시급”",
+          "link": "https://www.etnews.com/20260608000263",
+          "category": "기관"
+        },
+        {
+          "title": "“AI 대전환에 사력”…한성숙 총리 후보자, 중기부식 데이터 혁신 전 부처 확산 시동",
+          "link": "https://www.etnews.com/20260608000114",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "“인공지능과 지속 가능한 미래를 논하다”…＇2026년 한국디지털정책학회 연합학술대회＇ 성료",
+          "link": "https://www.etnews.com/20260608000056",
+          "category": "기타"
+        }
+      ],
+      "해외": [
+        {
+          "title": "구글, ＇스스로 판단하고 재검색＇하는 차세대 에이전틱 RAG 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211484",
+          "category": "해외"
+        },
+        {
+          "title": "영국 경찰, 법정 진술서 작성에 ‘AI 사용 중단’ 명령…“환각 우려”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211481",
+          "category": "해외"
+        },
+        {
+          "title": "중국 메모리 CXMT·YMTC 잇달아 IPO 추진…〃한국 추격 발판 될 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211480",
+          "category": "해외"
+        },
+        {
+          "title": "리얼월드, 엔비디아와 ‘휴머노이드 AI 산업 표준’ 개발 협력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211479",
+          "category": "해외"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[The LENS 2026-8] 중국 AI 기반 교육 체계 전환 전략 분석: 「‘AI+ 교육’ 행동계획」을 중심으로",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29504&parentSeq=29504",
+          "category": "간행물"
+        },
+        {
+          "title": "[26-13] 미국 일리노이주 의회, 「AI 안전 조치법」 가결 (’26.5.27)",
+          "link": "https://www.kisa.or.kr/20201/form?postSeq=282&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "2026 국가정보보호백서",
+          "link": "https://www.kisa.or.kr/20303/form?postSeq=12006&page=1",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
