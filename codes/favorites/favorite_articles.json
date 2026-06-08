@@ -1,137 +1,117 @@
 [
   {
-    "title": "[AI 리뷰] 오픈AI, 차세대 기억 시스템 ＇드리밍 V3＇ 공개…“연산 비용 5배 절감, 무료 사용자까지 확대”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40371",
-    "category": "해외"
+    "title": "네이버-엔비디아, GW급 초대형 AI 팩토리 구축 맞손…아시아 중동 유럽 잇는 AI 인프라 동맹",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40391",
+    "category": "민간"
   },
   {
-    "title": "트럼프, 국가안보 AI 지침 서명…“미군·정보기관에 세계 최고 AI 신속 배치”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40369",
-    "category": "해외"
+    "title": "“바이브 코딩 넘는다”…LG CNS, 대규모 시스템 구축에 에이전틱 AI 투입",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40390",
+    "category": "민간"
   },
   {
-    "title": "단 몇 초면 식별…AI 활용 화학작용제 실시간 탐지 센서 개발",
-    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTAwNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "title": "SKT-엔비디아, ‘AI 인프라’ 동맹으로 한국의 AI 혁신 주도한다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40376",
+    "category": "민간"
+  },
+  {
+    "title": "병무청 챗봇 ‘영문 서비스’",
+    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTA4NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "국방"
   },
   {
-    "title": "미래 전장 ‘게임 체인저’ AI 활용 ‘스마트 강군 육성’ 머리 맞대다",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTAxMSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "title": "육군6보병사단 ‘2026년 제1회 청성 드론 경연대회’",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTA4NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군"
+  },
+  {
+    "title": "정부 GPU 확보·구축·운용지원 사업(2.08조 원 규모) 참여 사업자 선정 결과",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187410&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "배경훈 부총리, 젠슨 황 엔비디아 대표와 면담",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187406&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "[보도참고] 우리 한국형 인공지능(K-AI) 모델이 현장에 펼쳐지고 있습니다 ➄",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187405&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "씨에스리, ＇AI 민생 10대 프로젝트＇ 합류…경찰 AI ＇모두의 경찰관＇ 사업 본격 추진",
+    "link": "https://www.etnews.com/20260608000467",
+    "category": "기관"
+  },
+  {
+    "title": "코난테크놀로지, STK·InLEX 참가…제조·국방 AI 영토 확장",
+    "link": "https://www.etnews.com/20260608000463",
     "category": "국방"
   },
   {
-    "title": "[김태형의 혁신의기술] 〈53〉한국 제조업, AI를 어떻게 내재화 할 것인가? (중)",
-    "link": "https://www.etnews.com/20260605000204",
+    "title": "젠슨 황 “AI 다음은 피지컬 AI”…현대차그룹과 모빌리티 빅뱅 예고",
+    "link": "https://www.etnews.com/20260608000417",
+    "category": "민간"
+  },
+  {
+    "title": "마키나락스, 군사과학기술학회서 국방 특화 피지컬 AI 알린다",
+    "link": "https://www.etnews.com/20260608000392",
+    "category": "국방"
+  },
+  {
+    "title": "청와대 수석 등 AI 정책 컨트롤타워 공백 한 달째…“후임 인선 시급”",
+    "link": "https://www.etnews.com/20260608000263",
+    "category": "기관"
+  },
+  {
+    "title": "“AI 대전환에 사력”…한성숙 총리 후보자, 중기부식 데이터 혁신 전 부처 확산 시동",
+    "link": "https://www.etnews.com/20260608000114",
+    "category": "기관"
+  },
+  {
+    "title": "“인공지능과 지속 가능한 미래를 논하다”…＇2026년 한국디지털정책학회 연합학술대회＇ 성료",
+    "link": "https://www.etnews.com/20260608000056",
     "category": "기타"
   },
   {
-    "title": "[사설] 국민AI서비스TF, 경쟁·성과 초점맞춰야",
-    "link": "https://www.etnews.com/20260607000045",
-    "category": "기타"
-  },
-  {
-    "title": "[단독] ＇공공AI 신속개발＇ 민간중심 정부조직 만든다",
-    "link": "https://www.etnews.com/20260605000188",
-    "category": "기관"
-  },
-  {
-    "title": "젠슨 황, 현대차·엔씨·크래프톤·두산·SK 등 연쇄 회동…韓 협력 광폭 행보",
-    "link": "https://www.etnews.com/20260607000095",
-    "category": "민간"
-  },
-  {
-    "title": "李 대통령, 한성숙 총리 후보자 지명…“AI 대전환 이끌 적임자”",
-    "link": "https://www.etnews.com/20260607000081",
-    "category": "기관"
-  },
-  {
-    "title": "[전상욱의 AX시대의 고객경험] 〈10〉 생성의 시대, 해석의 시대",
-    "link": "https://www.etnews.com/20260605000033",
-    "category": "기타"
-  },
-  {
-    "title": "“침수 위험지역 AI가 척척”... 행안부, 제4회 재난안전데이터 창업경진대회 개최",
-    "link": "https://www.etnews.com/20260607000073",
-    "category": "기관"
-  },
-  {
-    "title": "[2026 K-디지털 브랜드 대상]클로봇, 독립형 AI 운영 플랫폼 고도화…물류 자동화 시장 확장 박차",
-    "link": "https://www.etnews.com/20260603000075",
-    "category": "민간"
-  },
-  {
-    "title": "[2026 K-디지털 브랜드 대상]앱테스트에이아이, GenAI 기반 테스트 에이전트 ＇Ankylo＇로 AI 테스팅 혁신 선도",
-    "link": "https://www.etnews.com/20260603000081",
-    "category": "민간"
-  },
-  {
-    "title": "해군, AI 전략 등 ＇지능정보화 정책발전 세미나＇ 17일 개최",
-    "link": "https://www.etnews.com/20260607000068",
+    "title": "제3회 국방 AI 발전 세미나 개최···“국방 AI 거버넌스와 민·군 융합 전략 모색”",
+    "link": "https://www.etnews.com/20260608000037",
     "category": "국방"
   },
   {
-    "title": "코트라, “AI 수출 마케팅 인프라 전면 개방”",
-    "link": "https://www.etnews.com/20260607000066",
-    "category": "기관"
+    "title": "육군6보병사단 ‘2026년 제1회 청성 드론 경연대회’",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260609/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=_JWogXuW52oBk-_I9aH6BLHwSZLYutIAL_lBx7wc0zAAxpISaXiw!730580237",
+    "category": "육군"
   },
   {
-    "title": "김영훈 노동부 장관, ILO 총회 참석…＇사람 중심 AI 전환＇ 국제사회 제안",
-    "link": "https://www.etnews.com/20260606000029",
-    "category": "기관"
-  },
-  {
-    "title": "광주특별시 메가특구 핵심산업은 ＇AI 모빌리티 자율주행＇·＇재생에너지＇",
-    "link": "https://www.etnews.com/20260604000063",
-    "category": "기관"
-  },
-  {
-    "title": "LG유플러스 “파주 AIDC 2030년까지 5조 수주 목표”…냉각·모듈형 공법 등 첨단기술 총 집약",
-    "link": "https://www.etnews.com/20260606000025",
+    "title": "젠슨 황, 방한 마지막 일정서 국내 AI 기업 독려...〃GPU 우선 공급”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211497",
     "category": "민간"
   },
   {
-    "title": "단 몇 초면 식별…AI 활용 화학작용제 실시간 탐지 센서 개발",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260608/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=IjOjFV2J6t0i0LiicjHgAl848fU1k7krMgOMtdhnEDqarX6ckIq3!730580237",
-    "category": "국방"
-  },
-  {
-    "title": "미래 전장 ‘게임 체인저’ AI 활용 ‘스마트 강군 육성’ 머리 맞대다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260608/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=IjOjFV2J6t0i0LiicjHgAl848fU1k7krMgOMtdhnEDqarX6ckIq3!730580237",
-    "category": "국방"
-  },
-  {
-    "title": "〃채팅은 죽었다〃...챗GPT, ＇에이전트 슈퍼 앱＇ 개편 초읽기",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211437",
-    "category": "해외"
-  },
-  {
-    "title": "월드컵, 축구공 속 ‘센서’와 ‘AI’가 판정 바꾼다… ＇반자동 오프사이드＇ 도입",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211433",
+    "title": "젠슨 황, 현대차그룹 방문...”로보틱스 핵심 ‘새만금’에 데이터센터 설립 유력”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211495",
     "category": "민간"
   },
   {
-    "title": "김형준 스퀴즈비츠 대표 “AI 경량화 넘어 ＇피지컬 AI＇ 솔루션으로 확장”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211415",
-    "category": "민간"
-  },
-  {
-    "title": "EU, 반도체·AI ‘기술 주권’ 전략 공개...〃미국 빅테크 의존 줄인다〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211430",
+    "title": "구글, ＇스스로 판단하고 재검색＇하는 차세대 에이전틱 RAG 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211484",
     "category": "해외"
   },
   {
-    "title": "화웨이·선전 연구진 〃중국산 AI 칩으로 ‘딥시크 V4-프로’ 사후학습 성공〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211428",
+    "title": "영국 경찰, 법정 진술서 작성에 ‘AI 사용 중단’ 명령…“환각 우려”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211481",
     "category": "해외"
   },
   {
-    "title": "오픈AI, 프롬프트 인젝션 막는 ‘잠금 모드＇ 공개...〃외부 연결 제한〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211425",
+    "title": "중국 메모리 CXMT·YMTC 잇달아 IPO 추진…〃한국 추격 발판 될 것〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211480",
     "category": "해외"
   },
   {
-    "title": "손정의 〃차세대 AI, 인간 아닌 AI가 설계…2년 내 초지능 올 것〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211431",
+    "title": "리얼월드, 엔비디아와 ‘휴머노이드 AI 산업 표준’ 개발 협력",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211479",
     "category": "해외"
   }
 ]
