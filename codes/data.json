@@ -9848,8 +9848,8 @@
           "category": "해외"
         },
         {
-          "title": "젠슨 황, 미 상원 ＇중국 수출＇ 청문회 거부…본사 초청 역제안",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211525",
+          "title": "〃20B로 GPT-5.4 검색 성능 능가〃...오픈소스 에이전트 ＇하네스-1＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211522",
           "category": "해외"
         },
         {
@@ -9875,8 +9875,8 @@
           "category": "기관"
         },
         {
-          "title": "AI 기본법 쟁점 짚는다…정보통신법학회, 16일 인공지능법 연구 세미나",
-          "link": "https://www.etnews.com/20260609000355",
+          "title": "국가AI전략위, 휴머노이드·AI기본사회 지원 논의 본격화",
+          "link": "https://www.etnews.com/20260609000285",
           "category": "기관"
         },
         {
@@ -9893,11 +9893,38 @@
           "title": "('26. 6. 9.) 국가AI전략위–기본사회위 ‘AI 시대, 포용적 기본사회 구축’ 위해 맞손",
           "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=705",
           "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "LG CNS, 앤트로픽 ‘클로드’ 기반 AX 사업 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40411",
+          "category": "민간"
         },
         {
-          "title": "('26. 6. 9.) 국가AI전략위, ‘휴머노이드 업계 간담회’ 개최",
-          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=704",
-          "category": "기관"
+          "title": "업스테이지, AI 에이전트 플랫폼 ‘타임리’ 인수…“누구나 쉽게 쓰는 AI 에이전트 시대 열 것”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40403",
+          "category": "민간"
+        },
+        {
+          "title": "삼성, 전 관계사 ＇AI 대전환＇ 선언…“조직 DNA까지 AI 중심으로 바꾼다”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40396",
+          "category": "민간"
+        },
+        {
+          "title": "비드래프트, K-AI 리더보드 종합 1위… DARWIN 기반 한국어 LLM 경쟁력 입증",
+          "link": "https://www.etnews.com/20260609000379",
+          "category": "민간"
+        },
+        {
+          "title": "NH농협은행, ＇에이전틱 AI 뱅크＇ 비전 선포…인프라 투자 강화",
+          "link": "https://www.etnews.com/20260609000059",
+          "category": "민간"
+        },
+        {
+          "title": "LG전자, 마음AI·KT와 ＇한국형 피지컬 AI＇ 두뇌 개발 시동",
+          "link": "https://www.etnews.com/20260609000319",
+          "category": "민간"
         }
       ],
       "국방": [
@@ -9907,13 +9934,33 @@
           "category": "국방"
         },
         {
-          "title": "軍 ‘미끼문자 차단시스템’으로 피싱 일당 잡았다",
-          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTE0MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "title": "“2040년까지 AI 기반 스마트 정예 강군”",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTEzOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "첨단강군 도약 위한 디지털 주권과 전장 혁신 논의",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTEzOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "인공지능 파일럿 기술 어디까지 왔나",
+          "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNTE1OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "2040년을 향한 국방개혁 세미나 개최",
+          "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNTE2MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
           "category": "국방"
         },
         {
           "title": "2026 국방 정보화 컨퍼런스 개최",
           "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNTEzMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "엑스게이트, ＇지니언스 출신＇ 김준형 사업총괄 부사장 전격 영입… 공공·금융·방산 시장 공략 강화“",
+          "link": "https://www.etnews.com/20260609000049",
           "category": "국방"
         },
         {
@@ -9937,46 +9984,12 @@
           "category": "국방"
         }
       ],
-      "민간": [
-        {
-          "title": "업스테이지, AI 에이전트 플랫폼 ‘타임리’ 인수…“누구나 쉽게 쓰는 AI 에이전트 시대 열 것”",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40403",
-          "category": "민간"
-        },
-        {
-          "title": "비드래프트, K-AI 리더보드 종합 1위… DARWIN 기반 한국어 LLM 경쟁력 입증",
-          "link": "https://www.etnews.com/20260609000379",
-          "category": "민간"
-        },
-        {
-          "title": "NH농협은행, ＇에이전틱 AI 뱅크＇ 비전 선포…인프라 투자 강화",
-          "link": "https://www.etnews.com/20260609000059",
-          "category": "민간"
-        },
-        {
-          "title": "LG전자, 마음AI·KT와 ＇한국형 피지컬 AI＇ 두뇌 개발 시동",
-          "link": "https://www.etnews.com/20260609000319",
-          "category": "민간"
-        },
-        {
-          "title": "＇제 2 프랑크프루트 선언＇...삼성 ＇AX 대도전＇ 시작",
-          "link": "https://www.etnews.com/20260609000233",
-          "category": "민간"
-        },
-        {
-          "title": "LG CNS, LG 전 계열사에 ＇기업용 클로드＇ 도입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211508",
-          "category": "민간"
-        }
-      ],
-      "기타": [
-        {
-          "title": "[AI와 디지털전환] AI 3대 강국의 조건, 피지컬 AI 상용화에 달렸다",
-          "link": "https://www.etnews.com/20260609000091",
-          "category": "기타"
-        }
-      ],
       "육군": [
+        {
+          "title": "첨단기술 기반 지상군 전력화로 미래 전장 준비하다",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTE1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군"
+        },
         {
           "title": "첨단기술 기반 지상군 전력화로 미래 전장 준비하다",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260610/11/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=_HqtjSWvek--hV0cMExaFRqNBEe_Ko66uZA_D8kmj2aRGvz0AsO_!1823254677",

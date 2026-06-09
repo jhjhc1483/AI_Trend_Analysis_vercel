@@ -10,6 +10,11 @@
     "category": "기관"
   },
   {
+    "title": "LG CNS, 앤트로픽 ‘클로드’ 기반 AX 사업 확대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40411",
+    "category": "민간"
+  },
+  {
     "title": "오픈AI, 일상과 업무에 필요한 작업을 더 쉽게 돕는 챗GPT 사용 경험 업데이트",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40409",
     "category": "해외"
@@ -25,8 +30,33 @@
     "category": "민간"
   },
   {
-    "title": "軍 ‘미끼문자 차단시스템’으로 피싱 일당 잡았다",
-    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTE0MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "title": "삼성, 전 관계사 ＇AI 대전환＇ 선언…“조직 DNA까지 AI 중심으로 바꾼다”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40396",
+    "category": "민간"
+  },
+  {
+    "title": "“2040년까지 AI 기반 스마트 정예 강군”",
+    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTEzOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "첨단강군 도약 위한 디지털 주권과 전장 혁신 논의",
+    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTEzOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "첨단기술 기반 지상군 전력화로 미래 전장 준비하다",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTE1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군"
+  },
+  {
+    "title": "인공지능 파일럿 기술 어디까지 왔나",
+    "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNTE1OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "2040년을 향한 국방개혁 세미나 개최",
+    "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNTE2MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "국방"
   },
   {
@@ -45,16 +75,6 @@
     "category": "민간"
   },
   {
-    "title": "AI 기본법 쟁점 짚는다…정보통신법학회, 16일 인공지능법 연구 세미나",
-    "link": "https://www.etnews.com/20260609000355",
-    "category": "기관"
-  },
-  {
-    "title": "[AI와 디지털전환] AI 3대 강국의 조건, 피지컬 AI 상용화에 달렸다",
-    "link": "https://www.etnews.com/20260609000091",
-    "category": "기타"
-  },
-  {
     "title": "NH농협은행, ＇에이전틱 AI 뱅크＇ 비전 선포…인프라 투자 강화",
     "link": "https://www.etnews.com/20260609000059",
     "category": "민간"
@@ -65,9 +85,9 @@
     "category": "민간"
   },
   {
-    "title": "＇제 2 프랑크프루트 선언＇...삼성 ＇AX 대도전＇ 시작",
-    "link": "https://www.etnews.com/20260609000233",
-    "category": "민간"
+    "title": "국가AI전략위, 휴머노이드·AI기본사회 지원 논의 본격화",
+    "link": "https://www.etnews.com/20260609000285",
+    "category": "기관"
   },
   {
     "title": "개인정보위, AI 개인정보 유·노출 막을 11대 기술 개발 추진",
@@ -78,6 +98,11 @@
     "title": "ETRI, AI-RAN R&D 본격화...이통 3사 등과 협력해 세계 선도 나선다",
     "link": "https://www.etnews.com/20260609000131",
     "category": "기관"
+  },
+  {
+    "title": "엑스게이트, ＇지니언스 출신＇ 김준형 사업총괄 부사장 전격 영입… 공공·금융·방산 시장 공략 강화“",
+    "link": "https://www.etnews.com/20260609000049",
+    "category": "국방"
   },
   {
     "title": "“2040년까지 AI 기반 스마트 정예 강군”",
@@ -105,11 +130,6 @@
     "category": "기관"
   },
   {
-    "title": "('26. 6. 9.) 국가AI전략위, ‘휴머노이드 업계 간담회’ 개최",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=704",
-    "category": "기관"
-  },
-  {
     "title": "구글, 노트북LM 대규모 업데이트…〃스스로 웹 검색해 지식 구축〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=211511",
     "category": "해외"
@@ -120,8 +140,8 @@
     "category": "해외"
   },
   {
-    "title": "젠슨 황, 미 상원 ＇중국 수출＇ 청문회 거부…본사 초청 역제안",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211525",
+    "title": "〃20B로 GPT-5.4 검색 성능 능가〃...오픈소스 에이전트 ＇하네스-1＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211522",
     "category": "해외"
   },
   {
@@ -138,10 +158,5 @@
     "title": "인텔, 구글 AI 칩 ＇TPU＇ 300만개 생산 계약…주가 장중 13% 폭등",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=211505",
     "category": "해외"
-  },
-  {
-    "title": "LG CNS, LG 전 계열사에 ＇기업용 클로드＇ 도입",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=211508",
-    "category": "민간"
   }
 ]

@@ -5,11 +5,23 @@
 ◾ 퀀텀에어로, 국방 드론 양산체계 구축 본격화… 소버린 AI 기반 FPV 드론 시리즈 공개 예정
 https://www.aitimes.kr/news/articleView.html?idxno=40407
 
-◾ 軍 ‘미끼문자 차단시스템’으로 피싱 일당 잡았다
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTE0MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ “2040년까지 AI 기반 스마트 정예 강군”
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTEzOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 첨단강군 도약 위한 디지털 주권과 전장 혁신 논의
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTEzOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 인공지능 파일럿 기술 어디까지 왔나
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNTE1OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 2040년을 향한 국방개혁 세미나 개최
+https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNTE2MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 ◾ 2026 국방 정보화 컨퍼런스 개최
 https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNTEzMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 엑스게이트, ＇지니언스 출신＇ 김준형 사업총괄 부사장 전격 영입… 공공·금융·방산 시장 공략 강화“
+https://www.etnews.com/20260609000049
 
 ◾ “2040년까지 AI 기반 스마트 정예 강군”
 https://kookbang.dema.mil.kr/newsWeb/20260610/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=_HqtjSWvek--hV0cMExaFRqNBEe_Ko66uZA_D8kmj2aRGvz0AsO_!1823254677
@@ -25,11 +37,20 @@ https://www.aitimes.com/news/articleView.html?idxno=211517
 
 [육군]
 ◾ 첨단기술 기반 지상군 전력화로 미래 전장 준비하다
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTE1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 첨단기술 기반 지상군 전력화로 미래 전장 준비하다
 https://kookbang.dema.mil.kr/newsWeb/20260610/11/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=_HqtjSWvek--hV0cMExaFRqNBEe_Ko66uZA_D8kmj2aRGvz0AsO_!1823254677
 
 [민간]
+◾ LG CNS, 앤트로픽 ‘클로드’ 기반 AX 사업 확대
+https://www.aitimes.kr/news/articleView.html?idxno=40411
+
 ◾ 업스테이지, AI 에이전트 플랫폼 ‘타임리’ 인수…“누구나 쉽게 쓰는 AI 에이전트 시대 열 것”
 https://www.aitimes.kr/news/articleView.html?idxno=40403
+
+◾ 삼성, 전 관계사 ＇AI 대전환＇ 선언…“조직 DNA까지 AI 중심으로 바꾼다”
+https://www.aitimes.kr/news/articleView.html?idxno=40396
 
 ◾ 비드래프트, K-AI 리더보드 종합 1위… DARWIN 기반 한국어 LLM 경쟁력 입증
 https://www.etnews.com/20260609000379
@@ -40,12 +61,6 @@ https://www.etnews.com/20260609000059
 ◾ LG전자, 마음AI·KT와 ＇한국형 피지컬 AI＇ 두뇌 개발 시동
 https://www.etnews.com/20260609000319
 
-◾ ＇제 2 프랑크프루트 선언＇...삼성 ＇AX 대도전＇ 시작
-https://www.etnews.com/20260609000233
-
-◾ LG CNS, LG 전 계열사에 ＇기업용 클로드＇ 도입
-https://www.aitimes.com/news/articleView.html?idxno=211508
-
 [기관]
 ◾ 한성숙 국무총리 후보자, 〃AI 대전환 이끌고 대체불가 대한민국 실현〃...＇K-이니셔티브＇ 비전 제시
 https://www.aitimes.kr/news/articleView.html?idxno=40412
@@ -53,8 +68,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=40412
 ◾ 과기정통부, 물리적 인공지능(피지컬 AI) 핵심기술 국산화를 위한 선도 사업 본격 착수
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187412&searchOpt=ALL&searchTxt=
 
-◾ AI 기본법 쟁점 짚는다…정보통신법학회, 16일 인공지능법 연구 세미나
-https://www.etnews.com/20260609000355
+◾ 국가AI전략위, 휴머노이드·AI기본사회 지원 논의 본격화
+https://www.etnews.com/20260609000285
 
 ◾ 개인정보위, AI 개인정보 유·노출 막을 11대 기술 개발 추진
 https://www.etnews.com/20260609000206
@@ -64,9 +79,6 @@ https://www.etnews.com/20260609000131
 
 ◾ ('26. 6. 9.) 국가AI전략위–기본사회위 ‘AI 시대, 포용적 기본사회 구축’ 위해 맞손
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=705
-
-◾ ('26. 6. 9.) 국가AI전략위, ‘휴머노이드 업계 간담회’ 개최
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=704
 
 [해외]
 ◾ 화웨이 클라우드, ‘에이전틱 AI’ 시대 선언… 초대형 AI 인프라·에이전트 플랫폼 공개
@@ -81,18 +93,14 @@ https://www.aitimes.com/news/articleView.html?idxno=211511
 ◾ 알트먼, 오픈AI ＇3단계 비전＇ 선언...〃인간 대체 아닌 돕는 AGI로”
 https://www.aitimes.com/news/articleView.html?idxno=211506
 
-◾ 젠슨 황, 미 상원 ＇중국 수출＇ 청문회 거부…본사 초청 역제안
-https://www.aitimes.com/news/articleView.html?idxno=211525
+◾ 〃20B로 GPT-5.4 검색 성능 능가〃...오픈소스 에이전트 ＇하네스-1＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=211522
 
 ◾ 미 국방부, 알리바바·바이두·유니트리 ‘중국 군사 기업 블랙리스트’ 재지정
 https://www.aitimes.com/news/articleView.html?idxno=211519
 
 ◾ 인텔, 구글 AI 칩 ＇TPU＇ 300만개 생산 계약…주가 장중 13% 폭등
 https://www.aitimes.com/news/articleView.html?idxno=211505
-
-[기타]
-◾ [AI와 디지털전환] AI 3대 강국의 조건, 피지컬 AI 상용화에 달렸다
-https://www.etnews.com/20260609000091
 
 📚 간행물
 ◾ K-문샷 프로젝트의 성공을 위한 실행전략 제언
