@@ -1,6 +1,101 @@
 📢26.06.11 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ ＇27년도 병역지정업체 선정 및 인원배정 기준 고시...AI, 방산, 반도체 등 산업지원인력 6,300명 배정
+https://www.aitimes.kr/news/articleView.html?idxno=40441
+
+◾ 위플로, 국방용 드론 제조 다크팩토리 구현 위한 AI 솔루션 ‘플로원’ 출시
+https://www.aitimes.kr/news/articleView.html?idxno=40437
+
+◾ “미래 전장 핵심은   상황 인식 AI”…디토닉, MUM-T AI 비전 제안
+https://www.aitimes.kr/news/articleView.html?idxno=40436
+
+◾ EMS 작전 수행능력 향상해 첨단 과학기술군 도약
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTIwOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 조선·방산·우주항공·원전 연계 ＇경남형 양자산업 생태계＇ 구축 시동
+https://www.etnews.com/20260610000372
+
+◾ HD현대, 캐나다 잠수함 수주 지원…현지 대학과 R&D 협력
+https://www.etnews.com/20260610000307
+
+◾ 3D프린터로 만들고 AI로 운용·지휘하는 ‘유령함대’
+https://kookbang.dema.mil.kr/newsWeb/20260611/1/ATCE_CTGR_0020010029/view.do;JSESSIONID_kookbnagWEB=msay0E1Fbv6qBQmnNF8tGbAr1ZQZ9bfRQ8-H27rQTo3KNLtw3Feg!730580237
+
+[육군]
+◾ 피지컬 AI 기반 워리어플랫폼 전투발전 모색
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTIwNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 육군 병사가 모니터에서 눈을 떼지 못한 이유
+https://kookbang.dema.mil.kr/newsWeb/20260610/1/ATCE_CTGR_0020040017/view.do;JSESSIONID_kookbnagWEB=msay0E1Fbv6qBQmnNF8tGbAr1ZQZ9bfRQ8-H27rQTo3KNLtw3Feg!730580237
+
+[민간]
+◾ 〃에이전틱 AI 시대, 승부는 CPU가 가른다〃…가속기 최고 성능 아니라 CPU 처리 능력이 실제 AI 서비스 규모 결정
+https://www.aitimes.kr/news/articleView.html?idxno=40429
+
+◾ SKT-NTT-중화텔레콤, 국경 넘은 AI 생태계 확장에 ‘맞손’... 5억 달러 규모 ‘AI 펀드’ 조성
+https://www.aitimes.kr/news/articleView.html?idxno=40428
+
+◾ 삼성SDS, 국내외 AI 보안 전문기업과 사업 협력…AI·클라우드 보안 경쟁력 더욱 강화한다!
+https://www.aitimes.kr/news/articleView.html?idxno=40424
+
+◾ 네이버 D2SF, AI 보안 스타트업 ‘에임인텔리전스’에 신규 투자
+https://www.aitimes.kr/news/articleView.html?idxno=40422
+
+◾ 손경식 경총 회장 “AI 혁신 위한 기업가 정신 확산 환경 조성해야”
+https://www.etnews.com/20260610000064
+
+◾ “로봇용 태권도장이 필요하다”…피지컬 AI 강국, 中企 지원·훈련 인프라가 열쇠
+https://www.etnews.com/20260610000276
+
+◾ [AI&빅데이터쇼] S2W, 온톨로지로 AX부터 보안 관리까지…”국내 넘어 해외도 주목”
+https://www.aitimes.com/news/articleView.html?idxno=211584
+
+[기관]
+◾ 〃공공 AI 구축, 더 쉽고 빠르게〃...행안부, 공공부문 AI 도입·활용 가이드 배포
+https://www.aitimes.kr/news/articleView.html?idxno=40442
+
+◾ ＇방미통위 – 과기정통부 정책협의회＇ 출범... AI-미디어·OTT-디지털 규제·이용자 보호 정책 협력
+https://www.aitimes.kr/news/articleView.html?idxno=40440
+
+◾ 한국형 인공지능 영토 넓히는 과기정통부, 세계를 이끌 ‘인공지능‧정보통신기술 미래 거대 신생기업(유니콘)’ 15개사 선정
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187421&searchOpt=ALL&searchTxt=
+
+◾ “인공지능 전환(AX) 시대를 이끌다, 가상융합의 진화” 과기정통부, 가상융합대학원 인재양성 성과 한눈에
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187417&searchOpt=ALL&searchTxt=
+
+◾ 정부-금융권, ＇미토스＇발 고성능 AI 해킹·보이스피싱 위협에 공동 대응
+https://www.etnews.com/20260610000083
+
+◾ KAIST, 몇개 영상만으로 ＇사람의 판단 기준＇ 심어...피지컬 AI 핵심 난제 해결
+https://www.etnews.com/20260610000043
+
+◾ ('26. 6. 10.) 국가AI전략위, 교육체계 전환의 ‘대학 AI 교육혁신’ 포럼 개최
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=711
+
+[해외]
+◾ SKT, 앤트로픽에 추가 투자…“엑시트 대신 협력 강화”
+https://www.etnews.com/20260610000408
+
+◾ “우주에 AI 데이터센터 띄운다”...스페이스X AI 위성 공개
+https://www.etnews.com/20260609000388
+
+◾ 구글, 제미나이3.5 기반 번역 모델 출시…70여개 언어 실시간 통역
+https://www.etnews.com/20260610000017
+
+◾ 미토스급 AI 모델 일반에 공개…앤트로픽, 페이블5 출시
+https://www.etnews.com/20260610000016
+
+◾ 오픈AI, 엔비디아 지원으로 10GW급 역대 최대 데이터센터 구축 추진
+https://www.aitimes.com/news/articleView.html?idxno=211582
+
+◾ 코히어, 단일 GPU에서 작동하는 코딩 에이전트 ‘노스 미니 코드’ 오픈소스 공개
+https://www.aitimes.com/news/articleView.html?idxno=211572
+
+◾ ＇1조달러 클럽＇ 노리는 오픈AI, 앤트로픽 제치고 9월 조기 상장 나서나
+https://www.aitimes.com/news/articleView.html?idxno=211574
+
 📚 간행물
 ◾ 차세대 AI 기술 확산에 따른 전망 및 시사점
 https://www.kisti.re.kr/post/policy-report/6986;jsessionid=e3hAxWhHwrxBLolfLFXTKf1rZxFwM6FIte6kOneuIMN6mlMyT2SIiyRTKFAaq4nI.al211_servlet_engine23?t=1781116194418
