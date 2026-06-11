@@ -10201,5 +10201,183 @@
         }
       ]
     }
+  },
+  "26.06.12": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "('26. 6. 11.) 국가AI전략위, 「AI와 민주주의」에 대한 사회적 논의 시작",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=715",
+          "category": "기관"
+        },
+        {
+          "title": "전북대, ＇AI 건설·로봇 혁신센터＇ 설립한다…국토부-지자체-건설연과 다자간 업무협약",
+          "link": "https://www.etnews.com/20260611000439",
+          "category": "기관"
+        },
+        {
+          "title": "서울AI허브, 유망 AI기업과 ＇AI·빅데이터쇼＇ 공동관 열어",
+          "link": "https://www.etnews.com/20260611000390",
+          "category": "기관"
+        },
+        {
+          "title": "“2032년 완전자율 네트워크 기술 확보”…정부, 8000억 초대형 R&D 사업 추진",
+          "link": "https://www.etnews.com/20260611000299",
+          "category": "기관"
+        },
+        {
+          "title": "“AI 시대 전력안보 함께 지킨다”…한미, 전력망·ESS·공급망 동맹 확대",
+          "link": "https://www.etnews.com/20260611000205",
+          "category": "기관"
+        },
+        {
+          "title": "ETRI, 차세대 AI·XR 디스플레이용 ＇초미세 접합 기술＇ 개발...HBM4보다 정밀 접합",
+          "link": "https://www.etnews.com/20260611000027",
+          "category": "기관"
+        },
+        {
+          "title": "세이지, ＇글로벌 ICT 미래 유니콘 육성기업＇ 선정...AI 제조 자동화·자율 제조 에이젠틱 AI 기술력 인정",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40453",
+          "category": "기관"
+        }
+      ],
+      "국방": [
+        {
+          "title": "군 급식청구 자동화로 뚝딱…‘스마트 국방 혁신’ 선도",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260612/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=BIm4CTiDRQCeNTJ8MEn9P1djO3tPrUS8sTEo69kDw1L5lAxAWnHU!1823254677",
+          "category": "국방"
+        },
+        {
+          "title": "미래 해군력·국가 해양력 ‘AI 대전환·핵잠’에 달렸다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260612/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=BIm4CTiDRQCeNTJ8MEn9P1djO3tPrUS8sTEo69kDw1L5lAxAWnHU!1823254677",
+          "category": "국방"
+        },
+        {
+          "title": "명사에게 배우는 ‘AI 시대 필승 마인드셋’",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260612/9/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=BIm4CTiDRQCeNTJ8MEn9P1djO3tPrUS8sTEo69kDw1L5lAxAWnHU!1823254677",
+          "category": "국방"
+        },
+        {
+          "title": "‘AI 기반 부품 모니터링 기술’ 공군 창업경진대회 대상 선정",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260612/3/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=BIm4CTiDRQCeNTJ8MEn9P1djO3tPrUS8sTEo69kDw1L5lAxAWnHU!1823254677",
+          "category": "국방"
+        },
+        {
+          "title": "엑스게이트, 양자보안 전환 수혜 본격화… 퀀텀·AI 앞세워 방산 시장 매출 확대",
+          "link": "https://www.etnews.com/20260611000310",
+          "category": "국방"
+        },
+        {
+          "title": "“시속 500km로 추격”...AI 드론 요격기 공개",
+          "link": "https://www.etnews.com/20260610000242",
+          "category": "국방"
+        },
+        {
+          "title": "국방부-방송미디어통신위원회, AI·미디어 활용 역량 강화를 위한 업무협약",
+          "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNTIyOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        }
+      ],
+      "육군": [
+        {
+          "title": "월드컵 못지않은 열기…축구장에 모인 드론 전사들",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260612/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=BIm4CTiDRQCeNTJ8MEn9P1djO3tPrUS8sTEo69kDw1L5lAxAWnHU!1823254677",
+          "category": "육군"
+        }
+      ],
+      "기타": [
+        {
+          "title": "AX 시대, ‘똑똑한 시도’를 해야 한다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260612/2/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=BIm4CTiDRQCeNTJ8MEn9P1djO3tPrUS8sTEo69kDw1L5lAxAWnHU!1823254677",
+          "category": "기타"
+        },
+        {
+          "title": "[ET단상] 이제는 ＇일하는 로봇＇을 준비해야 하는 시대",
+          "link": "https://www.etnews.com/20260611000100",
+          "category": "기타"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[AI 워크 서밋] “2026년 이후 경쟁력은 AI가 결정”... 기업 실무 패러다임 바꾸는 ＇AI 에이전트＇",
+          "link": "https://www.etnews.com/20260611000335",
+          "category": "민간"
+        },
+        {
+          "title": "김용범 “AIDC 투자의 가장 큰 발목은 돈이 아닌 전력…비수도권이 유리”",
+          "link": "https://www.etnews.com/20260611000391",
+          "category": "민간"
+        },
+        {
+          "title": "최태원 SK 회장, “日에 AI 팩토리 건립 추진”",
+          "link": "https://www.etnews.com/20260611000259",
+          "category": "민간"
+        },
+        {
+          "title": "오픈AI 샘 올트먼 CEO, 삼성전자·카카오·네이버 만난다",
+          "link": "https://www.etnews.com/20260611000087",
+          "category": "민간"
+        },
+        {
+          "title": "마음AI, ‘피지컬 AI 두뇌’ 월드모델 개발 본격화… LG전자와 미래 로봇 경쟁 선점 나선다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40469",
+          "category": "민간"
+        },
+        {
+          "title": "LG CNS-LX판토스, 물류센터에 휴머노이드 로봇 도입 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40457",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "아모데이 “1~2년 내 데이터센터 속 천재 국가 등장”…AI 강력 규제 촉구",
+          "link": "https://www.etnews.com/20260611000386",
+          "category": "해외"
+        },
+        {
+          "title": "AWS, ＇그라비톤5＇ 정식 출시…에이전틱 AI 시대 겨냥한 AWS 역대 최고 성능 CPU",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40470",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 확산 기술 기반 LLM ＇디퓨전젬마＇ 공개…“텍스트 생성 4배 빨라”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211608",
+          "category": "해외"
+        },
+        {
+          "title": "〃의미 있는 성능 개선〃…오픈AI ＇GPT-5.6＇ 출시 카운트다운",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211618",
+          "category": "해외"
+        },
+        {
+          "title": "트럼프 “AI 기업, 사회 환원 동의할 것”…‘AI 국부펀드’ 급물살",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211606",
+          "category": "해외"
+        },
+        {
+          "title": "미 정부, AI 사이버 위협에 취약점 조치 기한 ＇14일→3일＇ 단축",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211620",
+          "category": "해외"
+        },
+        {
+          "title": "독일 법원 〃AI 개요도 구글 책임〃…허위 정보 생성에 첫 직접 책임 판결",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211616",
+          "category": "해외"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "공공부문 AI 도입·활용 가이드(`26.5월 기준)",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=29526&parentSeq=29526",
+          "category": "간행물"
+        },
+        {
+          "title": "빅테크 행사, 미국 고성능AI 사전검토, 일본 냉각전력인프라 [AI·ICT Brief 2026-20호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260611-000003&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
