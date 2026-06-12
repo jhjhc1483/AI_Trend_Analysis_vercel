@@ -10378,5 +10378,151 @@
       ]
     },
     "briefing": "- 해군은 미래 드론 전사 육성을 위해 드론 경진대회를 개최하며 장병들의 첨단 무기체계 운용 역량과 전술적 활용 능력을 점검했습니다.\n- 국방부는 행정 업무 효율화를 위해 군 급식 청구 과정을 자동화하는 시스템을 도입하며 스마트 국방 혁신을 가속화하고 있습니다.\n- 시속 500km로 적 드론을 추격해 무력화하는 AI 기반 드론 요격 기술이 공개되어 차세대 방공 작전의 효율성을 높일 대안으로 주목받고 있습니다."
+  },
+  "26.06.13": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "[국가AI전략위] AI전환기, 인재와 교육체계 대전환 릴레이포럼(제2회차 대학 AI 교육혁신 발표자료 공유)",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=723",
+          "category": "기관"
+        },
+        {
+          "title": "K-문샷 본격화…연구데이터·GPU 결집한 과학AI 플랫폼 추진",
+          "link": "https://www.etnews.com/20260612000257",
+          "category": "기관"
+        },
+        {
+          "title": "KISTI, AI 추론 과정 평가 신기술 개발...ICML 2026 채택으로 연구 가치 입증",
+          "link": "https://www.etnews.com/20260612000177",
+          "category": "기관"
+        },
+        {
+          "title": "韓 주도 AI·6G 보안 국제표준화 작업 본격화",
+          "link": "https://www.etnews.com/20260612000030",
+          "category": "기관"
+        },
+        {
+          "title": "수원·부산·성남, AI 스마트도시로 키운다…데이터 기반 도시관리 실증",
+          "link": "https://www.etnews.com/20260612000130",
+          "category": "기관"
+        },
+        {
+          "title": "서울경제진흥원, ＇서울AI로봇쇼＇ 10월 개최…피지컬 AI·로봇 기업 모집",
+          "link": "https://www.etnews.com/20260612000039",
+          "category": "기관"
+        },
+        {
+          "title": "동대구벤처밸리 ＇AI테크포트＇ 본격 가동… AI 창업가 발굴 나선다",
+          "link": "https://www.etnews.com/20260612000010",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "써드웍스, 씨엔티테크서 추가 투자…무역 AI 고도화",
+          "link": "https://www.etnews.com/20260612000293",
+          "category": "민간"
+        },
+        {
+          "title": "스트라드비젼 “글로벌 비전 AI 선도기업 도약”",
+          "link": "https://www.etnews.com/20260612000225",
+          "category": "민간"
+        },
+        {
+          "title": "넥스브이, STK 2026서 강원 의료 AI 실증사업 성과 소개",
+          "link": "https://www.etnews.com/20260612000208",
+          "category": "민간"
+        },
+        {
+          "title": "롯데하이마트, 김종윤 신임 대표 내정…AI·플랫폼 전문가 영입",
+          "link": "https://www.etnews.com/20260612000192",
+          "category": "민간"
+        },
+        {
+          "title": "스패로우, AI 시대 SW 공급망 보안 전략 제시",
+          "link": "https://www.etnews.com/20260612000091",
+          "category": "민간"
+        },
+        {
+          "title": "메디아나, 환자 모니터링 솔루션에 뷰노 ‘AI 심정지 예측 서비스’ 연동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211652",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI CEO, 방한 전격 연기…“한국은 파트너·협업 계속”",
+          "link": "https://www.etnews.com/20260612000283",
+          "category": "해외"
+        },
+        {
+          "title": "AI 확산에 세계 데이터센터 전력 소비 1년 만에 26% 급증",
+          "link": "https://www.etnews.com/20260612000149",
+          "category": "해외"
+        },
+        {
+          "title": "[AI 이슈] 〃AI가 몸 안에서 즉시 판단한다〃…시카고대, 서버 없이 실시간 추론하는 웨어러블 AI 칩 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40490",
+          "category": "해외"
+        },
+        {
+          "title": "MS, AI 에이전트 ＇스킬＇ 자동 수정 기술 공개...〃성능 23.5% 향상〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211674",
+          "category": "해외"
+        },
+        {
+          "title": "퍼플렉시티, ＇딥 리서치＇를 ＇컴퓨터＇ 플랫폼에 통합...〃성능 2배 향상〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211670",
+          "category": "해외"
+        },
+        {
+          "title": "역대급 벤치마크 ‘ALE’서 이변…GPT-5.5, ＇페이블 5＇ 꺾고 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211667",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 미국서 AI 구독료 38% 전격 인하…“B2C 가격 전쟁 신호탄”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211645",
+          "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[ET단상] AI로 ＇숏폼 제작 한계＇ 뛰어넘는다",
+          "link": "https://www.etnews.com/20260612000027",
+          "category": "기타"
+        },
+        {
+          "title": "얼굴 한 번 봤을 뿐인데…성격·충성도·범죄 성향까지 판별한다는 AI 등장",
+          "link": "https://www.etnews.com/20260611000407",
+          "category": "기타"
+        },
+        {
+          "title": "〃AX 풀스택·피지컬 AI가 대세〃...AI&빅데이터쇼 폐막",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211679",
+          "category": "기타"
+        }
+      ],
+      "국방": [
+        {
+          "title": "＇충남·논산 AI 로봇 방산 혁신클러스터＇ 공모 선정…＇삼수＇ 만에 K-방산 육성 자격증 획득",
+          "link": "https://www.etnews.com/20260612000098",
+          "category": "국방"
+        },
+        {
+          "title": "디지털경제연합 “AI 병역특례 우대 환영…인재 확보 기반 마련”",
+          "link": "https://www.etnews.com/20260611000187",
+          "category": "국방"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "25년 국내 산업재산권 출원 동향 및 주요 특징 [지식재산 통계 이슈리포트 2026-1호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260612-000002&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
