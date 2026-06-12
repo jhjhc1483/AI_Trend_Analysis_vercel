@@ -10393,11 +10393,6 @@
           "category": "기관"
         },
         {
-          "title": "KISTI, AI 추론 과정 평가 신기술 개발...ICML 2026 채택으로 연구 가치 입증",
-          "link": "https://www.etnews.com/20260612000177",
-          "category": "기관"
-        },
-        {
           "title": "韓 주도 AI·6G 보안 국제표준화 작업 본격화",
           "link": "https://www.etnews.com/20260612000030",
           "category": "기관"
@@ -10413,44 +10408,22 @@
           "category": "기관"
         },
         {
-          "title": "동대구벤처밸리 ＇AI테크포트＇ 본격 가동… AI 창업가 발굴 나선다",
-          "link": "https://www.etnews.com/20260612000010",
+          "title": "디지털경제연합 “AI 병역특례 우대 환영…인재 확보 기반 마련”",
+          "link": "https://www.etnews.com/20260611000187",
+          "category": "기관"
+        },
+        {
+          "title": "〃전자상가에서 AI 밸리로〃…용산 40년 전자산업 심장, 미래 AI·ICT 허브로 재설계한다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40483",
           "category": "기관"
         }
       ],
-      "민간": [
-        {
-          "title": "써드웍스, 씨엔티테크서 추가 투자…무역 AI 고도화",
-          "link": "https://www.etnews.com/20260612000293",
-          "category": "민간"
-        },
-        {
-          "title": "스트라드비젼 “글로벌 비전 AI 선도기업 도약”",
-          "link": "https://www.etnews.com/20260612000225",
-          "category": "민간"
-        },
-        {
-          "title": "넥스브이, STK 2026서 강원 의료 AI 실증사업 성과 소개",
-          "link": "https://www.etnews.com/20260612000208",
-          "category": "민간"
-        },
-        {
-          "title": "롯데하이마트, 김종윤 신임 대표 내정…AI·플랫폼 전문가 영입",
-          "link": "https://www.etnews.com/20260612000192",
-          "category": "민간"
-        },
-        {
-          "title": "스패로우, AI 시대 SW 공급망 보안 전략 제시",
-          "link": "https://www.etnews.com/20260612000091",
-          "category": "민간"
-        },
-        {
-          "title": "메디아나, 환자 모니터링 솔루션에 뷰노 ‘AI 심정지 예측 서비스’ 연동",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211652",
-          "category": "민간"
-        }
-      ],
       "해외": [
+        {
+          "title": "＇사상 최대 IPO＇ 스페이스X “중국 돈은 사절”…美·中 갈등, 자본시장까지 번져",
+          "link": "https://www.etnews.com/20260612000314",
+          "category": "해외"
+        },
         {
           "title": "오픈AI CEO, 방한 전격 연기…“한국은 파트너·협업 계속”",
           "link": "https://www.etnews.com/20260612000283",
@@ -10459,11 +10432,6 @@
         {
           "title": "AI 확산에 세계 데이터센터 전력 소비 1년 만에 26% 급증",
           "link": "https://www.etnews.com/20260612000149",
-          "category": "해외"
-        },
-        {
-          "title": "[AI 이슈] 〃AI가 몸 안에서 즉시 판단한다〃…시카고대, 서버 없이 실시간 추론하는 웨어러블 AI 칩 개발",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40490",
           "category": "해외"
         },
         {
@@ -10482,8 +10450,8 @@
           "category": "해외"
         },
         {
-          "title": "구글, 미국서 AI 구독료 38% 전격 인하…“B2C 가격 전쟁 신호탄”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211645",
+          "title": "UB테크, 소비자용 ＇생체 모방＇ 휴머노이드 예약 2100대 돌파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211672",
           "category": "해외"
         }
       ],
@@ -10497,22 +10465,44 @@
           "title": "얼굴 한 번 봤을 뿐인데…성격·충성도·범죄 성향까지 판별한다는 AI 등장",
           "link": "https://www.etnews.com/20260611000407",
           "category": "기타"
+        }
+      ],
+      "민간": [
+        {
+          "title": "롯데하이마트, 김종윤 신임 대표 내정…AI·플랫폼 전문가 영입",
+          "link": "https://www.etnews.com/20260612000192",
+          "category": "민간"
+        },
+        {
+          "title": "웨어비즈, 하이브리드 AI 챗봇 ＇ARGOS AI Chat Search＇ GS인증 획득",
+          "link": "https://www.etnews.com/20260612000101",
+          "category": "민간"
+        },
+        {
+          "title": "스패로우, AI 시대 SW 공급망 보안 전략 제시",
+          "link": "https://www.etnews.com/20260612000091",
+          "category": "민간"
         },
         {
           "title": "〃AX 풀스택·피지컬 AI가 대세〃...AI&빅데이터쇼 폐막",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211679",
-          "category": "기타"
+          "category": "민간"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 모빌테크·렉스젠·슈어소프트테크, 자율주행 돕는 독자 기술 선보여",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211673",
+          "category": "민간"
+        },
+        {
+          "title": "메디아나, 환자 모니터링 솔루션에 뷰노 ‘AI 심정지 예측 서비스’ 연동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211652",
+          "category": "민간"
         }
       ],
       "국방": [
         {
           "title": "＇충남·논산 AI 로봇 방산 혁신클러스터＇ 공모 선정…＇삼수＇ 만에 K-방산 육성 자격증 획득",
           "link": "https://www.etnews.com/20260612000098",
-          "category": "국방"
-        },
-        {
-          "title": "디지털경제연합 “AI 병역특례 우대 환영…인재 확보 기반 마련”",
-          "link": "https://www.etnews.com/20260611000187",
           "category": "국방"
         }
       ],
@@ -10523,7 +10513,6 @@
           "category": "간행물"
         }
       ]
-    },
-    "briefing": "- 충남 논산이 'AI 로봇 방산 혁신클러스터' 공모에 최종 선정되어 로봇 기술 중심의 K-방산 육성 인프라가 구축될 예정입니다.\n- 디지털경제연합은 AI 인재 확보를 위한 병역특례 우대 방침에 대해 환영의 뜻을 밝히며 전문 인력 양성 기반 마련을 강조했습니다.\n- 미 시카고대 연구팀이 외부 서버 연결 없이도 기기 자체에서 실시간 추론이 가능한 웨어러블 AI 칩 기술을 개발했습니다."
+    }
   }
 }
