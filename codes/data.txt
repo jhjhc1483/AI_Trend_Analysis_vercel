@@ -5,24 +5,21 @@
 ◾ ＇충남·논산 AI 로봇 방산 혁신클러스터＇ 공모 선정…＇삼수＇ 만에 K-방산 육성 자격증 획득
 https://www.etnews.com/20260612000098
 
-◾ 디지털경제연합 “AI 병역특례 우대 환영…인재 확보 기반 마련”
-https://www.etnews.com/20260611000187
-
 [민간]
-◾ 써드웍스, 씨엔티테크서 추가 투자…무역 AI 고도화
-https://www.etnews.com/20260612000293
-
-◾ 스트라드비젼 “글로벌 비전 AI 선도기업 도약”
-https://www.etnews.com/20260612000225
-
-◾ 넥스브이, STK 2026서 강원 의료 AI 실증사업 성과 소개
-https://www.etnews.com/20260612000208
-
 ◾ 롯데하이마트, 김종윤 신임 대표 내정…AI·플랫폼 전문가 영입
 https://www.etnews.com/20260612000192
 
+◾ 웨어비즈, 하이브리드 AI 챗봇 ＇ARGOS AI Chat Search＇ GS인증 획득
+https://www.etnews.com/20260612000101
+
 ◾ 스패로우, AI 시대 SW 공급망 보안 전략 제시
 https://www.etnews.com/20260612000091
+
+◾ 〃AX 풀스택·피지컬 AI가 대세〃...AI&빅데이터쇼 폐막
+https://www.aitimes.com/news/articleView.html?idxno=211679
+
+◾ [AI&빅데이터쇼] 모빌테크·렉스젠·슈어소프트테크, 자율주행 돕는 독자 기술 선보여
+https://www.aitimes.com/news/articleView.html?idxno=211673
 
 ◾ 메디아나, 환자 모니터링 솔루션에 뷰노 ‘AI 심정지 예측 서비스’ 연동
 https://www.aitimes.com/news/articleView.html?idxno=211652
@@ -34,9 +31,6 @@ https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=723
 ◾ K-문샷 본격화…연구데이터·GPU 결집한 과학AI 플랫폼 추진
 https://www.etnews.com/20260612000257
 
-◾ KISTI, AI 추론 과정 평가 신기술 개발...ICML 2026 채택으로 연구 가치 입증
-https://www.etnews.com/20260612000177
-
 ◾ 韓 주도 AI·6G 보안 국제표준화 작업 본격화
 https://www.etnews.com/20260612000030
 
@@ -46,18 +40,21 @@ https://www.etnews.com/20260612000130
 ◾ 서울경제진흥원, ＇서울AI로봇쇼＇ 10월 개최…피지컬 AI·로봇 기업 모집
 https://www.etnews.com/20260612000039
 
-◾ 동대구벤처밸리 ＇AI테크포트＇ 본격 가동… AI 창업가 발굴 나선다
-https://www.etnews.com/20260612000010
+◾ 디지털경제연합 “AI 병역특례 우대 환영…인재 확보 기반 마련”
+https://www.etnews.com/20260611000187
+
+◾ 〃전자상가에서 AI 밸리로〃…용산 40년 전자산업 심장, 미래 AI·ICT 허브로 재설계한다
+https://www.aitimes.kr/news/articleView.html?idxno=40483
 
 [해외]
+◾ ＇사상 최대 IPO＇ 스페이스X “중국 돈은 사절”…美·中 갈등, 자본시장까지 번져
+https://www.etnews.com/20260612000314
+
 ◾ 오픈AI CEO, 방한 전격 연기…“한국은 파트너·협업 계속”
 https://www.etnews.com/20260612000283
 
 ◾ AI 확산에 세계 데이터센터 전력 소비 1년 만에 26% 급증
 https://www.etnews.com/20260612000149
-
-◾ [AI 이슈] 〃AI가 몸 안에서 즉시 판단한다〃…시카고대, 서버 없이 실시간 추론하는 웨어러블 AI 칩 개발
-https://www.aitimes.kr/news/articleView.html?idxno=40490
 
 ◾ MS, AI 에이전트 ＇스킬＇ 자동 수정 기술 공개...〃성능 23.5% 향상〃
 https://www.aitimes.com/news/articleView.html?idxno=211674
@@ -68,8 +65,8 @@ https://www.aitimes.com/news/articleView.html?idxno=211670
 ◾ 역대급 벤치마크 ‘ALE’서 이변…GPT-5.5, ＇페이블 5＇ 꺾고 1위
 https://www.aitimes.com/news/articleView.html?idxno=211667
 
-◾ 구글, 미국서 AI 구독료 38% 전격 인하…“B2C 가격 전쟁 신호탄”
-https://www.aitimes.com/news/articleView.html?idxno=211645
+◾ UB테크, 소비자용 ＇생체 모방＇ 휴머노이드 예약 2100대 돌파
+https://www.aitimes.com/news/articleView.html?idxno=211672
 
 [기타]
 ◾ [ET단상] AI로 ＇숏폼 제작 한계＇ 뛰어넘는다
@@ -77,9 +74,6 @@ https://www.etnews.com/20260612000027
 
 ◾ 얼굴 한 번 봤을 뿐인데…성격·충성도·범죄 성향까지 판별한다는 AI 등장
 https://www.etnews.com/20260611000407
-
-◾ 〃AX 풀스택·피지컬 AI가 대세〃...AI&빅데이터쇼 폐막
-https://www.aitimes.com/news/articleView.html?idxno=211679
 
 📚 간행물
 ◾ 25년 국내 산업재산권 출원 동향 및 주요 특징 [지식재산 통계 이슈리포트 2026-1호]
