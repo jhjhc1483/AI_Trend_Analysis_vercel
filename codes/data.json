@@ -10515,5 +10515,72 @@
       ]
     },
     "briefing": "- 충남 논산이 AI 로봇 방산 혁신클러스터로 선정되어 AI 기반의 K-방산 육성이 본격 추진됩니다.\n- 디지털경제연합은 AI 전문 인재 확보를 위한 AI 분야 병역특례 우대 조치에 대해 환영 입장을 표명했습니다.\n- 인공지능과 6G 통신 보안을 강화하기 위한 한국 주도의 국제표준화 작업이 본격화되었습니다."
+  },
+  "26.06.14": {
+    "categorized": {
+      "기타": [
+        {
+          "title": "[ET시선] 공공시스템 대전환, 도전 기반이 성패 가른다",
+          "link": "https://www.etnews.com/20260612000265",
+          "category": "기타"
+        }
+      ],
+      "해외": [
+        {
+          "title": "미국 정부, 최첨단 AI ＇미토스＇ 수출 통제…앤트로픽 “원칙 없는 결정”",
+          "link": "https://www.etnews.com/20260613000016",
+          "category": "해외"
+        },
+        {
+          "title": "역대급 벤치마크 ‘ALE’서 이변…GPT-5.5, ＇페이블 5＇ 꺾고 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211667",
+          "category": "해외"
+        },
+        {
+          "title": "AI가 초래할 재앙적 위험… 정부가 차단해야 한다는 앤트로픽",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211680",
+          "category": "해외"
+        },
+        {
+          "title": "메타, 사내 AI 비용 폭증에 ＇토큰 제한＇…＇토큰맥싱＇ 부작용 후속 조치",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211696",
+          "category": "해외"
+        },
+        {
+          "title": "문샷 AI, 오픈소스 코딩 모델 ‘키미 K2.7-코드’ 공개…“추론 비용 30% 절감”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211691",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 자연어-SQL 변환 기술 ＇제미나이-SQL2＇ 공개...〃정확도 80% 돌파〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211690",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아, 차세대 ‘베라’ CPU로 중국 공략…GPU 규제 우회할 돌파구",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211689",
+          "category": "해외"
+        }
+      ],
+      "기관": [
+        {
+          "title": "경기도의회 교육행정연구회, AI 교육재정 분석 연구 최종보고회 개최",
+          "link": "https://www.etnews.com/20260613000012",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[6월12일] AI 경쟁의 중심 이동...〃모델에서 시장으로〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211648",
+          "category": "민간"
+        },
+        {
+          "title": "알트먼, 다음주 방한 연기하고 프랑스 G7 정상회의 참석",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211685",
+          "category": "민간"
+        }
+      ]
+    }
   }
 }
