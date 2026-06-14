@@ -10583,5 +10583,154 @@
       ]
     },
     "briefing": "- 미국 정부가 최첨단 AI '미토스' 수출 통제에 나서자 앤트로픽 측은 원칙 없는 결정이라며 반발했습니다.\n- 인공지능이 초래할 재앙적 위험을 방지하기 위해 정부가 직접 차단에 나서야 한다는 주장이 앤트로픽에 의해 제기되었습니다.\n- 역대급 벤치마크 'ALE'에서 GPT-5.5가 기존 기록을 경신하고 1위에 오르며 압도적인 기술 우위를 증명했습니다."
+  },
+  "26.06.15": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "역대급 폭염 예고에 빅데이터 활용 온열질환 막는다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260615/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677",
+          "category": "국방"
+        },
+        {
+          "title": "국방 인공지능 전환 위한 인재 양성·연구협력",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260615/17/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677",
+          "category": "국방"
+        },
+        {
+          "title": "국방 AI 등 연구개발 현황은…",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260615/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677",
+          "category": "국방"
+        },
+        {
+          "title": "인천시, 490억원 방산혁신클러스터 유치…AI·드론 특화",
+          "link": "https://www.etnews.com/20260614000072",
+          "category": "국방"
+        },
+        {
+          "title": "얼굴인식시스템 도입, 병역이행 공정성 높였다",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTI3NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        }
+      ],
+      "해외": [
+        {
+          "title": "AI 수출통제, 앤트로픽만 적용",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260615/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677",
+          "category": "해외"
+        },
+        {
+          "title": "페이블 5·미소스 5 해외 서비스 중단...미국, 외국인 차단 명령",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211698",
+          "category": "해외"
+        },
+        {
+          "title": "하드웨어 벤치마크 ‘AA-에이전트퍼프’ 등장...블랙웰, 전력 효율 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211703",
+          "category": "해외"
+        },
+        {
+          "title": "베이조스의 AI 스타트업 프로메테우스, 몸값 62조 기록…〃인공 일반 엔지니어 개발 중〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211708",
+          "category": "해외"
+        },
+        {
+          "title": "〃인간 개입 없이 2명 살상〃…우크라이나, 2년 전 ＇자율 AI 드론＇ 투입 논란",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211702",
+          "category": "해외"
+        },
+        {
+          "title": "중국, 미 국방부 기술 기업 블랙리스트 조치에 “정상회담 합의 훼손” 반발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211707",
+          "category": "해외"
+        },
+        {
+          "title": "미국 주정부 연합, 오픈AI 전격 조사…취약계층 보호·기술 결함 검증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211704",
+          "category": "해외"
+        }
+      ],
+      "기관": [
+        {
+          "title": "민선 9기 경기·인천 AI 공약, 생활서비스·산업거점 초점",
+          "link": "https://www.etnews.com/20260614000085",
+          "category": "기관"
+        },
+        {
+          "title": "윤호중 장관, OECD서 ＇AI 민주정부＇ 비전 공유",
+          "link": "https://www.etnews.com/20260614000071",
+          "category": "기관"
+        },
+        {
+          "title": "[에듀플러스]초등생 절반이 챗GPT 쓰는데…AI 교육은 여전히 ＇실과 한 단원＇",
+          "link": "https://www.etnews.com/20260612000292",
+          "category": "기관"
+        },
+        {
+          "title": "복지부, 대구 구급차에 ＇AI＇ 심는다…이송·진료 전주기 실증",
+          "link": "https://www.etnews.com/20260614000011",
+          "category": "기관"
+        },
+        {
+          "title": "재경부, 첫 생성형 AI 해커톤 개최…우수과제 10월 서비스화",
+          "link": "https://www.etnews.com/20260614000038",
+          "category": "기관"
+        },
+        {
+          "title": "역대 최고 찍은 ICT수출, 무역수지도 월 300억불 첫 돌파",
+          "link": "https://www.etnews.com/20260614000007",
+          "category": "기관"
+        },
+        {
+          "title": "KLID, ＇AI 이슈리포트＇ 발간…민선 9기 시·도지사 AI 공약 분석",
+          "link": "https://www.etnews.com/20260612000233",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[이내찬교수의 광고로 보는 통신역사]〈60〉미토스의 충격: 과연 인간이 AI를 닭장에 가둘 수 있을까",
+          "link": "https://www.etnews.com/20260612000201",
+          "category": "기타"
+        },
+        {
+          "title": "[사설] SK AX, 속도와 내실이 중요하다",
+          "link": "https://www.etnews.com/20260614000054",
+          "category": "기타"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[르포]도면 읽는 로봇·1500도 쇳물 앞 AI…M.AX, 韓 제조 지형 바꾸다",
+          "link": "https://www.etnews.com/20260614000008",
+          "category": "민간"
+        },
+        {
+          "title": "최태원 회장, “AI 전환 본질은 운영개선…＇O/I＇ 능력 갖춰라”",
+          "link": "https://www.etnews.com/20260614000034",
+          "category": "민간"
+        },
+        {
+          "title": "삼성전기, ＇실리콘 캐패시터＇로 AI·전장 시장 정조준…“MLCC 공존 자신”",
+          "link": "https://www.etnews.com/20260612000013",
+          "category": "민간"
+        },
+        {
+          "title": "내년 AI 노트북 비중 50% 돌파…PC 기업 ＇총공세＇",
+          "link": "https://www.etnews.com/20260612000070",
+          "category": "민간"
+        },
+        {
+          "title": "글로벌 기술력 입증한 라이드플럭스 〃레벨4 자율주행 판도 바꾼다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211535",
+          "category": "민간"
+        },
+        {
+          "title": "[AI&빅데이터쇼] 산업AX부터 XR·자율주행까지 미래 혁신 기술 한자리에",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211697",
+          "category": "민간"
+        }
+      ]
+    }
   }
 }

@@ -1,42 +1,91 @@
-📢26.06.14 AI 일일 동향📢
+📢26.06.15 AI 일일 동향📢
 
 📰 오늘의 기사
-[민간]
-◾ [6월12일] AI 경쟁의 중심 이동...〃모델에서 시장으로〃
-https://www.aitimes.com/news/articleView.html?idxno=211648
+[국방]
+◾ 역대급 폭염 예고에 빅데이터 활용 온열질환 막는다
+https://kookbang.dema.mil.kr/newsWeb/20260615/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
 
-◾ 알트먼, 다음주 방한 연기하고 프랑스 G7 정상회의 참석
-https://www.aitimes.com/news/articleView.html?idxno=211685
+◾ 국방 인공지능 전환 위한 인재 양성·연구협력
+https://kookbang.dema.mil.kr/newsWeb/20260615/17/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
+
+◾ 국방 AI 등 연구개발 현황은…
+https://kookbang.dema.mil.kr/newsWeb/20260615/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
+
+◾ 인천시, 490억원 방산혁신클러스터 유치…AI·드론 특화
+https://www.etnews.com/20260614000072
+
+◾ 얼굴인식시스템 도입, 병역이행 공정성 높였다
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTI3NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+[민간]
+◾ [르포]도면 읽는 로봇·1500도 쇳물 앞 AI…M.AX, 韓 제조 지형 바꾸다
+https://www.etnews.com/20260614000008
+
+◾ 최태원 회장, “AI 전환 본질은 운영개선…＇O/I＇ 능력 갖춰라”
+https://www.etnews.com/20260614000034
+
+◾ 삼성전기, ＇실리콘 캐패시터＇로 AI·전장 시장 정조준…“MLCC 공존 자신”
+https://www.etnews.com/20260612000013
+
+◾ 내년 AI 노트북 비중 50% 돌파…PC 기업 ＇총공세＇
+https://www.etnews.com/20260612000070
+
+◾ 글로벌 기술력 입증한 라이드플럭스 〃레벨4 자율주행 판도 바꾼다〃
+https://www.aitimes.com/news/articleView.html?idxno=211535
+
+◾ [AI&빅데이터쇼] 산업AX부터 XR·자율주행까지 미래 혁신 기술 한자리에
+https://www.aitimes.com/news/articleView.html?idxno=211697
 
 [기관]
-◾ 경기도의회 교육행정연구회, AI 교육재정 분석 연구 최종보고회 개최
-https://www.etnews.com/20260613000012
+◾ 민선 9기 경기·인천 AI 공약, 생활서비스·산업거점 초점
+https://www.etnews.com/20260614000085
+
+◾ 윤호중 장관, OECD서 ＇AI 민주정부＇ 비전 공유
+https://www.etnews.com/20260614000071
+
+◾ [에듀플러스]초등생 절반이 챗GPT 쓰는데…AI 교육은 여전히 ＇실과 한 단원＇
+https://www.etnews.com/20260612000292
+
+◾ 복지부, 대구 구급차에 ＇AI＇ 심는다…이송·진료 전주기 실증
+https://www.etnews.com/20260614000011
+
+◾ 재경부, 첫 생성형 AI 해커톤 개최…우수과제 10월 서비스화
+https://www.etnews.com/20260614000038
+
+◾ 역대 최고 찍은 ICT수출, 무역수지도 월 300억불 첫 돌파
+https://www.etnews.com/20260614000007
+
+◾ KLID, ＇AI 이슈리포트＇ 발간…민선 9기 시·도지사 AI 공약 분석
+https://www.etnews.com/20260612000233
 
 [해외]
-◾ 미국 정부, 최첨단 AI ＇미토스＇ 수출 통제…앤트로픽 “원칙 없는 결정”
-https://www.etnews.com/20260613000016
+◾ AI 수출통제, 앤트로픽만 적용
+https://kookbang.dema.mil.kr/newsWeb/20260615/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
 
-◾ 역대급 벤치마크 ‘ALE’서 이변…GPT-5.5, ＇페이블 5＇ 꺾고 1위
-https://www.aitimes.com/news/articleView.html?idxno=211667
+◾ 페이블 5·미소스 5 해외 서비스 중단...미국, 외국인 차단 명령
+https://www.aitimes.com/news/articleView.html?idxno=211698
 
-◾ AI가 초래할 재앙적 위험… 정부가 차단해야 한다는 앤트로픽
-https://www.aitimes.com/news/articleView.html?idxno=211680
+◾ 하드웨어 벤치마크 ‘AA-에이전트퍼프’ 등장...블랙웰, 전력 효율 1위
+https://www.aitimes.com/news/articleView.html?idxno=211703
 
-◾ 메타, 사내 AI 비용 폭증에 ＇토큰 제한＇…＇토큰맥싱＇ 부작용 후속 조치
-https://www.aitimes.com/news/articleView.html?idxno=211696
+◾ 베이조스의 AI 스타트업 프로메테우스, 몸값 62조 기록…〃인공 일반 엔지니어 개발 중〃
+https://www.aitimes.com/news/articleView.html?idxno=211708
 
-◾ 문샷 AI, 오픈소스 코딩 모델 ‘키미 K2.7-코드’ 공개…“추론 비용 30% 절감”
-https://www.aitimes.com/news/articleView.html?idxno=211691
+◾ 〃인간 개입 없이 2명 살상〃…우크라이나, 2년 전 ＇자율 AI 드론＇ 투입 논란
+https://www.aitimes.com/news/articleView.html?idxno=211702
 
-◾ 구글, 자연어-SQL 변환 기술 ＇제미나이-SQL2＇ 공개...〃정확도 80% 돌파〃
-https://www.aitimes.com/news/articleView.html?idxno=211690
+◾ 중국, 미 국방부 기술 기업 블랙리스트 조치에 “정상회담 합의 훼손” 반발
+https://www.aitimes.com/news/articleView.html?idxno=211707
 
-◾ 엔비디아, 차세대 ‘베라’ CPU로 중국 공략…GPU 규제 우회할 돌파구
-https://www.aitimes.com/news/articleView.html?idxno=211689
+◾ 미국 주정부 연합, 오픈AI 전격 조사…취약계층 보호·기술 결함 검증
+https://www.aitimes.com/news/articleView.html?idxno=211704
 
 [기타]
-◾ [ET시선] 공공시스템 대전환, 도전 기반이 성패 가른다
-https://www.etnews.com/20260612000265
+◾ [이내찬교수의 광고로 보는 통신역사]〈60〉미토스의 충격: 과연 인간이 AI를 닭장에 가둘 수 있을까
+https://www.etnews.com/20260612000201
+
+◾ [사설] SK AX, 속도와 내실이 중요하다
+https://www.etnews.com/20260614000054
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
