@@ -10613,6 +10613,43 @@
           "category": "국방"
         }
       ],
+      "기관": [
+        {
+          "title": "AI 훈풍에 ICT 수출액 478억 달러…역대 최고",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260615/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677",
+          "category": "기관"
+        },
+        {
+          "title": "수원시, 스마트도시 공모 선정…2028년까지 328억 투입",
+          "link": "https://www.etnews.com/20260614000091",
+          "category": "기관"
+        },
+        {
+          "title": "민선 9기 경기·인천 AI 공약, 생활서비스·산업거점 초점",
+          "link": "https://www.etnews.com/20260614000085",
+          "category": "기관"
+        },
+        {
+          "title": "[人사이트] 김희철 SW중심대학 특화트랙협의체 회장 “도메인 특화형 AI 강소대학 육성해야”",
+          "link": "https://www.etnews.com/20260612000034",
+          "category": "기관"
+        },
+        {
+          "title": "윤호중 장관, OECD서 ＇AI 민주정부＇ 비전 공유",
+          "link": "https://www.etnews.com/20260614000071",
+          "category": "기관"
+        },
+        {
+          "title": "농업 AI부터 로봇까지…농진청, 농업기술박람회 개최",
+          "link": "https://www.etnews.com/20260614000069",
+          "category": "기관"
+        },
+        {
+          "title": "재경부, 첫 생성형 AI 해커톤 개최…우수과제 10월 서비스화",
+          "link": "https://www.etnews.com/20260614000038",
+          "category": "기관"
+        }
+      ],
       "해외": [
         {
           "title": "AI 수출통제, 앤트로픽만 적용",
@@ -10630,6 +10667,11 @@
           "category": "해외"
         },
         {
+          "title": "아티피셜 애널리시스, ‘딥SWE’ 벤치마크 도입...＇페이블 5＇ 코딩 1위 등극",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211706",
+          "category": "해외"
+        },
+        {
           "title": "베이조스의 AI 스타트업 프로메테우스, 몸값 62조 기록…〃인공 일반 엔지니어 개발 중〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211708",
           "category": "해외"
@@ -10643,63 +10685,29 @@
           "title": "중국, 미 국방부 기술 기업 블랙리스트 조치에 “정상회담 합의 훼손” 반발",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211707",
           "category": "해외"
-        },
-        {
-          "title": "미국 주정부 연합, 오픈AI 전격 조사…취약계층 보호·기술 결함 검증",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211704",
-          "category": "해외"
-        }
-      ],
-      "기관": [
-        {
-          "title": "민선 9기 경기·인천 AI 공약, 생활서비스·산업거점 초점",
-          "link": "https://www.etnews.com/20260614000085",
-          "category": "기관"
-        },
-        {
-          "title": "윤호중 장관, OECD서 ＇AI 민주정부＇ 비전 공유",
-          "link": "https://www.etnews.com/20260614000071",
-          "category": "기관"
-        },
-        {
-          "title": "[에듀플러스]초등생 절반이 챗GPT 쓰는데…AI 교육은 여전히 ＇실과 한 단원＇",
-          "link": "https://www.etnews.com/20260612000292",
-          "category": "기관"
-        },
-        {
-          "title": "복지부, 대구 구급차에 ＇AI＇ 심는다…이송·진료 전주기 실증",
-          "link": "https://www.etnews.com/20260614000011",
-          "category": "기관"
-        },
-        {
-          "title": "재경부, 첫 생성형 AI 해커톤 개최…우수과제 10월 서비스화",
-          "link": "https://www.etnews.com/20260614000038",
-          "category": "기관"
-        },
-        {
-          "title": "역대 최고 찍은 ICT수출, 무역수지도 월 300억불 첫 돌파",
-          "link": "https://www.etnews.com/20260614000007",
-          "category": "기관"
-        },
-        {
-          "title": "KLID, ＇AI 이슈리포트＇ 발간…민선 9기 시·도지사 AI 공약 분석",
-          "link": "https://www.etnews.com/20260612000233",
-          "category": "기관"
-        }
-      ],
-      "기타": [
-        {
-          "title": "[이내찬교수의 광고로 보는 통신역사]〈60〉미토스의 충격: 과연 인간이 AI를 닭장에 가둘 수 있을까",
-          "link": "https://www.etnews.com/20260612000201",
-          "category": "기타"
-        },
-        {
-          "title": "[사설] SK AX, 속도와 내실이 중요하다",
-          "link": "https://www.etnews.com/20260614000054",
-          "category": "기타"
         }
       ],
       "민간": [
+        {
+          "title": "쉬즈메디병원, 어웰과 병원 AI 콜센터 도입 협약 체결 본격화",
+          "link": "https://www.etnews.com/20260614000090",
+          "category": "민간"
+        },
+        {
+          "title": "우리은행, 외환 컴플라이언스에 AI 심는다",
+          "link": "https://www.etnews.com/20260612000231",
+          "category": "민간"
+        },
+        {
+          "title": "[단독]우리카드, ＇AX 추진위원회＇ 가동…계열사 첫 사례",
+          "link": "https://www.etnews.com/20260612000209",
+          "category": "민간"
+        },
+        {
+          "title": "AI 입는 가상자산 거래소…거래 편의·고객 락인 경쟁 본격화",
+          "link": "https://www.etnews.com/20260612000214",
+          "category": "민간"
+        },
         {
           "title": "[르포]도면 읽는 로봇·1500도 쇳물 앞 AI…M.AX, 韓 제조 지형 바꾸다",
           "link": "https://www.etnews.com/20260614000008",
@@ -10714,24 +10722,25 @@
           "title": "삼성전기, ＇실리콘 캐패시터＇로 AI·전장 시장 정조준…“MLCC 공존 자신”",
           "link": "https://www.etnews.com/20260612000013",
           "category": "민간"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[이내찬교수의 광고로 보는 통신역사]〈60〉미토스의 충격: 과연 인간이 AI를 닭장에 가둘 수 있을까",
+          "link": "https://www.etnews.com/20260612000201",
+          "category": "기타"
         },
         {
-          "title": "내년 AI 노트북 비중 50% 돌파…PC 기업 ＇총공세＇",
-          "link": "https://www.etnews.com/20260612000070",
-          "category": "민간"
-        },
-        {
-          "title": "글로벌 기술력 입증한 라이드플럭스 〃레벨4 자율주행 판도 바꾼다〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=211535",
-          "category": "민간"
+          "title": "화학사고 대응 XR 훈련, 세계 무대 결선 올랐다…330개 출품작과 경쟁",
+          "link": "https://www.etnews.com/20260614000060",
+          "category": "기타"
         },
         {
           "title": "[AI&빅데이터쇼] 산업AX부터 XR·자율주행까지 미래 혁신 기술 한자리에",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211697",
-          "category": "민간"
+          "category": "기타"
         }
       ]
-    },
-    "briefing": "- 역대급 폭염에 대비하여 빅데이터 분석을 통해 장병들의 온열질환을 예방하는 대책이 추진되고 있습니다.\n- 우크라이나에서 인간의 개입 없이 목표물을 살상할 수 있는 ‘자율형 AI 드론’을 실전에 투입했다는 논란이 제기되었습니다.\n- 국방 AI 전환을 선도하기 위해 국방부와 관계 기관이 전문 인재 양성 및 연구협력을 지속적으로 강화하고 있습니다."
+    }
   }
 }
