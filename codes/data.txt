@@ -18,6 +18,18 @@ https://www.etnews.com/20260614000072
 https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTI3NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
+◾ 쉬즈메디병원, 어웰과 병원 AI 콜센터 도입 협약 체결 본격화
+https://www.etnews.com/20260614000090
+
+◾ 우리은행, 외환 컴플라이언스에 AI 심는다
+https://www.etnews.com/20260612000231
+
+◾ [단독]우리카드, ＇AX 추진위원회＇ 가동…계열사 첫 사례
+https://www.etnews.com/20260612000209
+
+◾ AI 입는 가상자산 거래소…거래 편의·고객 락인 경쟁 본격화
+https://www.etnews.com/20260612000214
+
 ◾ [르포]도면 읽는 로봇·1500도 쇳물 앞 AI…M.AX, 韓 제조 지형 바꾸다
 https://www.etnews.com/20260614000008
 
@@ -27,36 +39,27 @@ https://www.etnews.com/20260614000034
 ◾ 삼성전기, ＇실리콘 캐패시터＇로 AI·전장 시장 정조준…“MLCC 공존 자신”
 https://www.etnews.com/20260612000013
 
-◾ 내년 AI 노트북 비중 50% 돌파…PC 기업 ＇총공세＇
-https://www.etnews.com/20260612000070
-
-◾ 글로벌 기술력 입증한 라이드플럭스 〃레벨4 자율주행 판도 바꾼다〃
-https://www.aitimes.com/news/articleView.html?idxno=211535
-
-◾ [AI&빅데이터쇼] 산업AX부터 XR·자율주행까지 미래 혁신 기술 한자리에
-https://www.aitimes.com/news/articleView.html?idxno=211697
-
 [기관]
+◾ AI 훈풍에 ICT 수출액 478억 달러…역대 최고
+https://kookbang.dema.mil.kr/newsWeb/20260615/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
+
+◾ 수원시, 스마트도시 공모 선정…2028년까지 328억 투입
+https://www.etnews.com/20260614000091
+
 ◾ 민선 9기 경기·인천 AI 공약, 생활서비스·산업거점 초점
 https://www.etnews.com/20260614000085
+
+◾ [人사이트] 김희철 SW중심대학 특화트랙협의체 회장 “도메인 특화형 AI 강소대학 육성해야”
+https://www.etnews.com/20260612000034
 
 ◾ 윤호중 장관, OECD서 ＇AI 민주정부＇ 비전 공유
 https://www.etnews.com/20260614000071
 
-◾ [에듀플러스]초등생 절반이 챗GPT 쓰는데…AI 교육은 여전히 ＇실과 한 단원＇
-https://www.etnews.com/20260612000292
-
-◾ 복지부, 대구 구급차에 ＇AI＇ 심는다…이송·진료 전주기 실증
-https://www.etnews.com/20260614000011
+◾ 농업 AI부터 로봇까지…농진청, 농업기술박람회 개최
+https://www.etnews.com/20260614000069
 
 ◾ 재경부, 첫 생성형 AI 해커톤 개최…우수과제 10월 서비스화
 https://www.etnews.com/20260614000038
-
-◾ 역대 최고 찍은 ICT수출, 무역수지도 월 300억불 첫 돌파
-https://www.etnews.com/20260614000007
-
-◾ KLID, ＇AI 이슈리포트＇ 발간…민선 9기 시·도지사 AI 공약 분석
-https://www.etnews.com/20260612000233
 
 [해외]
 ◾ AI 수출통제, 앤트로픽만 적용
@@ -68,6 +71,9 @@ https://www.aitimes.com/news/articleView.html?idxno=211698
 ◾ 하드웨어 벤치마크 ‘AA-에이전트퍼프’ 등장...블랙웰, 전력 효율 1위
 https://www.aitimes.com/news/articleView.html?idxno=211703
 
+◾ 아티피셜 애널리시스, ‘딥SWE’ 벤치마크 도입...＇페이블 5＇ 코딩 1위 등극
+https://www.aitimes.com/news/articleView.html?idxno=211706
+
 ◾ 베이조스의 AI 스타트업 프로메테우스, 몸값 62조 기록…〃인공 일반 엔지니어 개발 중〃
 https://www.aitimes.com/news/articleView.html?idxno=211708
 
@@ -77,15 +83,15 @@ https://www.aitimes.com/news/articleView.html?idxno=211702
 ◾ 중국, 미 국방부 기술 기업 블랙리스트 조치에 “정상회담 합의 훼손” 반발
 https://www.aitimes.com/news/articleView.html?idxno=211707
 
-◾ 미국 주정부 연합, 오픈AI 전격 조사…취약계층 보호·기술 결함 검증
-https://www.aitimes.com/news/articleView.html?idxno=211704
-
 [기타]
 ◾ [이내찬교수의 광고로 보는 통신역사]〈60〉미토스의 충격: 과연 인간이 AI를 닭장에 가둘 수 있을까
 https://www.etnews.com/20260612000201
 
-◾ [사설] SK AX, 속도와 내실이 중요하다
-https://www.etnews.com/20260614000054
+◾ 화학사고 대응 XR 훈련, 세계 무대 결선 올랐다…330개 출품작과 경쟁
+https://www.etnews.com/20260614000060
+
+◾ [AI&빅데이터쇼] 산업AX부터 XR·자율주행까지 미래 혁신 기술 한자리에
+https://www.aitimes.com/news/articleView.html?idxno=211697
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
