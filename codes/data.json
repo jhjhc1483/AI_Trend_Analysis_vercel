@@ -10743,5 +10743,186 @@
       ]
     },
     "briefing": "- 역대급 폭염이 예고됨에 따라 빅데이터 분석을 활용해 장병 온열질환을 선제적으로 예방하는 대책이 추진됩니다.\n- 국방 인공지능(AI) 역량 강화를 위해 군 전문 인재 양성 및 민·관·군 연구협력 생태계 구축이 본격화됩니다.\n- 우크라이나군이 인간의 개입 없이 살상이 가능한 자율 AI 드론을 실전에 투입했다는 의혹과 논란이 제기되었습니다."
+  },
+  "26.06.16": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "성안당, 에이전틱 AI와 바이브 코딩 ＇AI 개발의 정석 with 언리얼＇ 출간",
+          "link": "https://www.etnews.com/20260615000441",
+          "category": "민간"
+        },
+        {
+          "title": "비드래프트, AI 과학추론 1위 달성 … ＇Darwin-398B-JGOS＇ 글로벌 리더보드 정상",
+          "link": "https://www.etnews.com/20260615000370",
+          "category": "민간"
+        },
+        {
+          "title": "엔젤로보틱스, 브레인 연동 웨어러블 휴머노이드 개발 착수",
+          "link": "https://www.etnews.com/20260615000321",
+          "category": "민간"
+        },
+        {
+          "title": "한컴, EU R&D 기업과 MOU 체결…유럽 에이전틱 OS 시장 공략 속도",
+          "link": "https://www.etnews.com/20260615000284",
+          "category": "민간"
+        },
+        {
+          "title": "삼성전자, ＇C랩 아웃사이드＇ 9기 스타트업 모집…AI·로봇 등 8개 분야 30개사 선발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40503",
+          "category": "민간"
+        },
+        {
+          "title": "카카오, 삼성전자와 ＇AI 민생 프로젝트＇ 해커톤 개최",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211721",
+          "category": "민간"
+        },
+        {
+          "title": "코난테크놀로지, 부산역에 AI 통역 솔루션 ＇링고엑스＇ 도입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211716",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "전력거래소, 오송에 중부본부 개청…AI 품은 ＇제2세대 K-EMS＇ 공개",
+          "link": "https://www.etnews.com/20260615000234",
+          "category": "기관"
+        },
+        {
+          "title": "[데스크가 만났습니다] 김형철 한국지능정보사회진흥원(NIA)원장 “AI 강국 아키텍트 넘어 결과 격차 없는 기본사회 구현해야”",
+          "link": "https://www.etnews.com/20260615000175",
+          "category": "기관"
+        },
+        {
+          "title": "국산 AI 칩 제조 생태계 가동…M.AX ＇제조지원 TF＇ 출범",
+          "link": "https://www.etnews.com/20260614000088",
+          "category": "기관"
+        },
+        {
+          "title": "전북도, 피지컬 AI·산악고원형 무인 자율주행차 등 시·군 핵심산업 특례 발굴 본격화",
+          "link": "https://www.etnews.com/20260615000072",
+          "category": "기관"
+        },
+        {
+          "title": "인공지능·로봇으로 더 안전한 건설현장 만든다...스마트건설 챌린지 개최, 총 3억원 상금 수여",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40508",
+          "category": "기관"
+        },
+        {
+          "title": "윤호중 장관, OECD 무대에서 ‘AI 민주정부’ 추진 방향 공유",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40507",
+          "category": "기관"
+        },
+        {
+          "title": "중기부, 대기업･공공기관과 스타트업 잇는다...AI 등 협업과제 82개 제시, 선정 스타트업 최대 1.4억원 지원",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40501",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[기고]AI 에이전트 경제와 기업 경영혁신",
+          "link": "https://www.etnews.com/20260615000076",
+          "category": "기타"
+        },
+        {
+          "title": "[신혜권의 에듀포인트]〈57〉AI시대, 컴퓨터공학 교육은?",
+          "link": "https://www.etnews.com/20260615000219",
+          "category": "기타"
+        }
+      ],
+      "해외": [
+        {
+          "title": "美, 앤트로픽 최상위 AI 모델 ＇외국인 접근＇ 전면 차단…“사실상 허가제”",
+          "link": "https://www.etnews.com/20260615000003",
+          "category": "해외"
+        },
+        {
+          "title": "〃정찰부터 타격까지 AI가 수행〃…실드 AI, 자율 전투체계 실전 검증",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40512",
+          "category": "해외"
+        },
+        {
+          "title": "지프라, 맘바2·트랜스포머 결합 ＇잠바2-VL＇ 공개...〃정확도 유지하며 추론 10배 빨라〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211745",
+          "category": "해외"
+        },
+        {
+          "title": "〃클로드 코드·코덱스를 하나로〃…데이터브릭스, 에이전트 통합 플랫폼 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211742",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI·앤트로픽, 상장 전 이미 직원 주식 ‘21조’ 현금화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211736",
+          "category": "해외"
+        },
+        {
+          "title": "페이블 5 금지시킨 ＇탈옥＇의 실체 ...〃GPT-5.5도 똑같이 뚫린다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211718",
+          "category": "해외"
+        },
+        {
+          "title": "백악관 〃탈옥 경고 무시〃 vs 앤트로픽 〃사실상 통보〃...또 정면 충돌",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211713",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "현대로템, 프랑스서 AI 기반 무인포탑형 대드론 다층방호체계 첫 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40510",
+          "category": "국방"
+        },
+        {
+          "title": "국방부장관, 미래 스마트 항공우주군의 주역 공사 방문",
+          "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNTMwOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "네이버클라우드, 국방 최적화 옴니모달 ＇하이퍼클로바X 시드 4B＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211737",
+          "category": "국방"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "모달리티별 양자컴퓨터 벤더 동향",
+          "link": "https://www.kisti.re.kr/post/policy-report/7003;jsessionid=kJY1reQOEqEroaww6kBXT4UjS7JIosLLovnZzpScMFBbIcBHTBVcB3T89qdTfCCm.ar211_servlet_engine23?t=1781552580978",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 사례를 통한 국가 AI4S 실행 방안",
+          "link": "https://www.kisti.re.kr/post/policy-report/7002;jsessionid=kJY1reQOEqEroaww6kBXT4UjS7JIosLLovnZzpScMFBbIcBHTBVcB3T89qdTfCCm.ar211_servlet_engine23?t=1781552580978",
+          "category": "간행물"
+        },
+        {
+          "title": "모달리티별 양자컴퓨터 벤더 동향",
+          "link": "https://www.kisti.re.kr/post/policy-report/7003;jsessionid=Wk616YxyGv1ZL42q0EzcPHTMdJLNU19aopmRTTQPSmOjlJvsTDdXAd7XE1SwY444.ar211_servlet_engine23?t=1781554039424",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 사례를 통한 국가 AI4S 실행 방안",
+          "link": "https://www.kisti.re.kr/post/policy-report/7002;jsessionid=Wk616YxyGv1ZL42q0EzcPHTMdJLNU19aopmRTTQPSmOjlJvsTDdXAd7XE1SwY444.ar211_servlet_engine23?t=1781554039424",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 6월 1주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=478&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "[제1294호] OCP ORv3 기반 고밀도 랙 표준의 현황과 국내 AIDC 적용 방안",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1294%ED%98%B8%5D%20OCP%20ORv3%20%EA%B8%B0%EB%B0%98%20%EA%B3%A0%EB%B0%80%EB%8F%84%20%EB%9E%99%20%ED%91%9C%EC%A4%80%EC%9D%98%20%ED%98%84%ED%99%A9%EA%B3%BC%20%EA%B5%AD%EB%82%B4%20AIDC%20%EC%A0%81%EC%9A%A9%20%EB%B0%A9%EC%95%88",
+          "category": "간행물"
+        },
+        {
+          "title": "2026년 5월 정보통신산업(ICT) 수출입 동향",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260615-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }

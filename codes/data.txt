@@ -1,97 +1,110 @@
-📢26.06.15 AI 일일 동향📢
+📢26.06.16 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 역대급 폭염 예고에 빅데이터 활용 온열질환 막는다
-https://kookbang.dema.mil.kr/newsWeb/20260615/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
+◾ 현대로템, 프랑스서 AI 기반 무인포탑형 대드론 다층방호체계 첫 공개
+https://www.aitimes.kr/news/articleView.html?idxno=40510
 
-◾ 국방 인공지능 전환 위한 인재 양성·연구협력
-https://kookbang.dema.mil.kr/newsWeb/20260615/17/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
+◾ 국방부장관, 미래 스마트 항공우주군의 주역 공사 방문
+https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNTMwOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 국방 AI 등 연구개발 현황은…
-https://kookbang.dema.mil.kr/newsWeb/20260615/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
-
-◾ 인천시, 490억원 방산혁신클러스터 유치…AI·드론 특화
-https://www.etnews.com/20260614000072
-
-◾ 얼굴인식시스템 도입, 병역이행 공정성 높였다
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNTI3NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 네이버클라우드, 국방 최적화 옴니모달 ＇하이퍼클로바X 시드 4B＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=211737
 
 [민간]
-◾ 쉬즈메디병원, 어웰과 병원 AI 콜센터 도입 협약 체결 본격화
-https://www.etnews.com/20260614000090
+◾ 성안당, 에이전틱 AI와 바이브 코딩 ＇AI 개발의 정석 with 언리얼＇ 출간
+https://www.etnews.com/20260615000441
 
-◾ 우리은행, 외환 컴플라이언스에 AI 심는다
-https://www.etnews.com/20260612000231
+◾ 비드래프트, AI 과학추론 1위 달성 … ＇Darwin-398B-JGOS＇ 글로벌 리더보드 정상
+https://www.etnews.com/20260615000370
 
-◾ [단독]우리카드, ＇AX 추진위원회＇ 가동…계열사 첫 사례
-https://www.etnews.com/20260612000209
+◾ 엔젤로보틱스, 브레인 연동 웨어러블 휴머노이드 개발 착수
+https://www.etnews.com/20260615000321
 
-◾ AI 입는 가상자산 거래소…거래 편의·고객 락인 경쟁 본격화
-https://www.etnews.com/20260612000214
+◾ 한컴, EU R&D 기업과 MOU 체결…유럽 에이전틱 OS 시장 공략 속도
+https://www.etnews.com/20260615000284
 
-◾ [르포]도면 읽는 로봇·1500도 쇳물 앞 AI…M.AX, 韓 제조 지형 바꾸다
-https://www.etnews.com/20260614000008
+◾ 삼성전자, ＇C랩 아웃사이드＇ 9기 스타트업 모집…AI·로봇 등 8개 분야 30개사 선발
+https://www.aitimes.kr/news/articleView.html?idxno=40503
 
-◾ 최태원 회장, “AI 전환 본질은 운영개선…＇O/I＇ 능력 갖춰라”
-https://www.etnews.com/20260614000034
+◾ 카카오, 삼성전자와 ＇AI 민생 프로젝트＇ 해커톤 개최
+https://www.aitimes.com/news/articleView.html?idxno=211721
 
-◾ 삼성전기, ＇실리콘 캐패시터＇로 AI·전장 시장 정조준…“MLCC 공존 자신”
-https://www.etnews.com/20260612000013
+◾ 코난테크놀로지, 부산역에 AI 통역 솔루션 ＇링고엑스＇ 도입
+https://www.aitimes.com/news/articleView.html?idxno=211716
 
 [기관]
-◾ AI 훈풍에 ICT 수출액 478억 달러…역대 최고
-https://kookbang.dema.mil.kr/newsWeb/20260615/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
+◾ 전력거래소, 오송에 중부본부 개청…AI 품은 ＇제2세대 K-EMS＇ 공개
+https://www.etnews.com/20260615000234
 
-◾ 수원시, 스마트도시 공모 선정…2028년까지 328억 투입
-https://www.etnews.com/20260614000091
+◾ [데스크가 만났습니다] 김형철 한국지능정보사회진흥원(NIA)원장 “AI 강국 아키텍트 넘어 결과 격차 없는 기본사회 구현해야”
+https://www.etnews.com/20260615000175
 
-◾ 민선 9기 경기·인천 AI 공약, 생활서비스·산업거점 초점
-https://www.etnews.com/20260614000085
+◾ 국산 AI 칩 제조 생태계 가동…M.AX ＇제조지원 TF＇ 출범
+https://www.etnews.com/20260614000088
 
-◾ [人사이트] 김희철 SW중심대학 특화트랙협의체 회장 “도메인 특화형 AI 강소대학 육성해야”
-https://www.etnews.com/20260612000034
+◾ 전북도, 피지컬 AI·산악고원형 무인 자율주행차 등 시·군 핵심산업 특례 발굴 본격화
+https://www.etnews.com/20260615000072
 
-◾ 윤호중 장관, OECD서 ＇AI 민주정부＇ 비전 공유
-https://www.etnews.com/20260614000071
+◾ 인공지능·로봇으로 더 안전한 건설현장 만든다...스마트건설 챌린지 개최, 총 3억원 상금 수여
+https://www.aitimes.kr/news/articleView.html?idxno=40508
 
-◾ 농업 AI부터 로봇까지…농진청, 농업기술박람회 개최
-https://www.etnews.com/20260614000069
+◾ 윤호중 장관, OECD 무대에서 ‘AI 민주정부’ 추진 방향 공유
+https://www.aitimes.kr/news/articleView.html?idxno=40507
 
-◾ 재경부, 첫 생성형 AI 해커톤 개최…우수과제 10월 서비스화
-https://www.etnews.com/20260614000038
+◾ 중기부, 대기업･공공기관과 스타트업 잇는다...AI 등 협업과제 82개 제시, 선정 스타트업 최대 1.4억원 지원
+https://www.aitimes.kr/news/articleView.html?idxno=40501
 
 [해외]
-◾ AI 수출통제, 앤트로픽만 적용
-https://kookbang.dema.mil.kr/newsWeb/20260615/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=tqvHJYrbQDFXLAxjdJoZZCCTViIjzN_ZLnNv3eHwqm99ai0gyK19!1823254677
+◾ 美, 앤트로픽 최상위 AI 모델 ＇외국인 접근＇ 전면 차단…“사실상 허가제”
+https://www.etnews.com/20260615000003
 
-◾ 페이블 5·미소스 5 해외 서비스 중단...미국, 외국인 차단 명령
-https://www.aitimes.com/news/articleView.html?idxno=211698
+◾ 〃정찰부터 타격까지 AI가 수행〃…실드 AI, 자율 전투체계 실전 검증
+https://www.aitimes.kr/news/articleView.html?idxno=40512
 
-◾ 하드웨어 벤치마크 ‘AA-에이전트퍼프’ 등장...블랙웰, 전력 효율 1위
-https://www.aitimes.com/news/articleView.html?idxno=211703
+◾ 지프라, 맘바2·트랜스포머 결합 ＇잠바2-VL＇ 공개...〃정확도 유지하며 추론 10배 빨라〃
+https://www.aitimes.com/news/articleView.html?idxno=211745
 
-◾ 아티피셜 애널리시스, ‘딥SWE’ 벤치마크 도입...＇페이블 5＇ 코딩 1위 등극
-https://www.aitimes.com/news/articleView.html?idxno=211706
+◾ 〃클로드 코드·코덱스를 하나로〃…데이터브릭스, 에이전트 통합 플랫폼 공개
+https://www.aitimes.com/news/articleView.html?idxno=211742
 
-◾ 베이조스의 AI 스타트업 프로메테우스, 몸값 62조 기록…〃인공 일반 엔지니어 개발 중〃
-https://www.aitimes.com/news/articleView.html?idxno=211708
+◾ 오픈AI·앤트로픽, 상장 전 이미 직원 주식 ‘21조’ 현금화
+https://www.aitimes.com/news/articleView.html?idxno=211736
 
-◾ 〃인간 개입 없이 2명 살상〃…우크라이나, 2년 전 ＇자율 AI 드론＇ 투입 논란
-https://www.aitimes.com/news/articleView.html?idxno=211702
+◾ 페이블 5 금지시킨 ＇탈옥＇의 실체 ...〃GPT-5.5도 똑같이 뚫린다〃
+https://www.aitimes.com/news/articleView.html?idxno=211718
 
-◾ 중국, 미 국방부 기술 기업 블랙리스트 조치에 “정상회담 합의 훼손” 반발
-https://www.aitimes.com/news/articleView.html?idxno=211707
+◾ 백악관 〃탈옥 경고 무시〃 vs 앤트로픽 〃사실상 통보〃...또 정면 충돌
+https://www.aitimes.com/news/articleView.html?idxno=211713
 
 [기타]
-◾ [이내찬교수의 광고로 보는 통신역사]〈60〉미토스의 충격: 과연 인간이 AI를 닭장에 가둘 수 있을까
-https://www.etnews.com/20260612000201
+◾ [기고]AI 에이전트 경제와 기업 경영혁신
+https://www.etnews.com/20260615000076
 
-◾ 화학사고 대응 XR 훈련, 세계 무대 결선 올랐다…330개 출품작과 경쟁
-https://www.etnews.com/20260614000060
+◾ [신혜권의 에듀포인트]〈57〉AI시대, 컴퓨터공학 교육은?
+https://www.etnews.com/20260615000219
 
-◾ [AI&빅데이터쇼] 산업AX부터 XR·자율주행까지 미래 혁신 기술 한자리에
-https://www.aitimes.com/news/articleView.html?idxno=211697
+📚 간행물
+◾ 모달리티별 양자컴퓨터 벤더 동향
+https://www.kisti.re.kr/post/policy-report/7003;jsessionid=kJY1reQOEqEroaww6kBXT4UjS7JIosLLovnZzpScMFBbIcBHTBVcB3T89qdTfCCm.ar211_servlet_engine23?t=1781552580978
+
+◾ 글로벌 사례를 통한 국가 AI4S 실행 방안
+https://www.kisti.re.kr/post/policy-report/7002;jsessionid=kJY1reQOEqEroaww6kBXT4UjS7JIosLLovnZzpScMFBbIcBHTBVcB3T89qdTfCCm.ar211_servlet_engine23?t=1781552580978
+
+◾ 모달리티별 양자컴퓨터 벤더 동향
+https://www.kisti.re.kr/post/policy-report/7003;jsessionid=Wk616YxyGv1ZL42q0EzcPHTMdJLNU19aopmRTTQPSmOjlJvsTDdXAd7XE1SwY444.ar211_servlet_engine23?t=1781554039424
+
+◾ 글로벌 사례를 통한 국가 AI4S 실행 방안
+https://www.kisti.re.kr/post/policy-report/7002;jsessionid=Wk616YxyGv1ZL42q0EzcPHTMdJLNU19aopmRTTQPSmOjlJvsTDdXAd7XE1SwY444.ar211_servlet_engine23?t=1781554039424
+
+◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 6월 1주차)
+https://www.kisa.or.kr/20202/form?postSeq=478&page=1
+
+◾ [제1294호] OCP ORv3 기반 고밀도 랙 표준의 현황과 국내 AIDC 적용 방안
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1294%ED%98%B8%5D%20OCP%20ORv3%20%EA%B8%B0%EB%B0%98%20%EA%B3%A0%EB%B0%80%EB%8F%84%20%EB%9E%99%20%ED%91%9C%EC%A4%80%EC%9D%98%20%ED%98%84%ED%99%A9%EA%B3%BC%20%EA%B5%AD%EB%82%B4%20AIDC%20%EC%A0%81%EC%9A%A9%20%EB%B0%A9%EC%95%88
+
+◾ 2026년 5월 정보통신산업(ICT) 수출입 동향
+https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260615-000001&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
