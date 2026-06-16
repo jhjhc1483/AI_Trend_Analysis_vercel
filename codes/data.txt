@@ -1,110 +1,89 @@
-📢26.06.16 AI 일일 동향📢
+📢26.06.17 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 현대로템, 프랑스서 AI 기반 무인포탑형 대드론 다층방호체계 첫 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40510
+◾ “AI·로봇 등 첨단기술로 화생방 대응능력 강화해야”
+https://kookbang.dema.mil.kr/newsWeb/20260617/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=LWHR8jBzND4tRnJdrstN9Q9-93X-n4WU_g9HTJXauL7QAKGIInrq!1823254677
 
-◾ 국방부장관, 미래 스마트 항공우주군의 주역 공사 방문
-https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNTMwOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 사이버 대응능력 진검승부…‘최강 AI 전사’ 찾아라
+https://kookbang.dema.mil.kr/newsWeb/20260617/4/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=LWHR8jBzND4tRnJdrstN9Q9-93X-n4WU_g9HTJXauL7QAKGIInrq!1823254677
 
-◾ 네이버클라우드, 국방 최적화 옴니모달 ＇하이퍼클로바X 시드 4B＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=211737
+◾ [게시판] LIG D&A, 니어스랩과 AI 기반 요격드론 협력 확대 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=211786
 
 [민간]
-◾ 성안당, 에이전틱 AI와 바이브 코딩 ＇AI 개발의 정석 with 언리얼＇ 출간
-https://www.etnews.com/20260615000441
+◾ [인터뷰]강기원 KIRO 원장 “로봇, 논문·시제품 넘어 현장 가치 증명해야 ＇피지컬 AI＇로 글로벌 승부”
+https://www.etnews.com/20260612000096
 
-◾ 비드래프트, AI 과학추론 1위 달성 … ＇Darwin-398B-JGOS＇ 글로벌 리더보드 정상
-https://www.etnews.com/20260615000370
+◾ 라인야후, 29일 ＇테크버스 2026＇ 개최…전사 AI 전환 공개
+https://www.etnews.com/20260616000343
 
-◾ 엔젤로보틱스, 브레인 연동 웨어러블 휴머노이드 개발 착수
-https://www.etnews.com/20260615000321
+◾ 강대현 넥슨코리아 대표 “AI 시대 게임 경쟁력은 ＇맥락의 깊이＇”...NDC 26서 화두 제시
+https://www.etnews.com/20260616000273
 
-◾ 한컴, EU R&D 기업과 MOU 체결…유럽 에이전틱 OS 시장 공략 속도
-https://www.etnews.com/20260615000284
+◾ 업스테이지, 모델·에이전트·검색을 하나로 ＇모두를 위한 AI＇ 도약
+https://www.etnews.com/20260616000192
 
-◾ 삼성전자, ＇C랩 아웃사이드＇ 9기 스타트업 모집…AI·로봇 등 8개 분야 30개사 선발
-https://www.aitimes.kr/news/articleView.html?idxno=40503
+◾ HD현대, 로봇·데이터 기반 ‘선체 관리 통합 솔루션’ 개발 나선다
+https://www.aitimes.kr/news/articleView.html?idxno=40537
 
-◾ 카카오, 삼성전자와 ＇AI 민생 프로젝트＇ 해커톤 개최
-https://www.aitimes.com/news/articleView.html?idxno=211721
+◾ 카카오, 카톡 채팅방서 ＇챗GPT＇ 바로 호출 기능 업데이트
+https://www.aitimes.com/news/articleView.html?idxno=211791
 
-◾ 코난테크놀로지, 부산역에 AI 통역 솔루션 ＇링고엑스＇ 도입
-https://www.aitimes.com/news/articleView.html?idxno=211716
+◾ SKT, AI 에이전트에 ＇26사번＇ 부여...전사 ＇AX 혁신 2.0＇ 본격 가동
+https://www.aitimes.com/news/articleView.html?idxno=211779
 
 [기관]
-◾ 전력거래소, 오송에 중부본부 개청…AI 품은 ＇제2세대 K-EMS＇ 공개
-https://www.etnews.com/20260615000234
+◾ ('26. 6. 16.) 국가AI전략위, 「AI 데이터센터 특별법」 시행 준비 본격화
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=728
 
-◾ [데스크가 만났습니다] 김형철 한국지능정보사회진흥원(NIA)원장 “AI 강국 아키텍트 넘어 결과 격차 없는 기본사회 구현해야”
-https://www.etnews.com/20260615000175
+◾ [포토] 서초구, 전국 최초 AI 에이전트 오피스 업무 플랫폼 구축
+https://www.etnews.com/20260616000317
 
-◾ 국산 AI 칩 제조 생태계 가동…M.AX ＇제조지원 TF＇ 출범
-https://www.etnews.com/20260614000088
+◾ 엘리스그룹, 광주 ＇국가 AI데이터센터＇ 고도화 공급사 선정
+https://www.etnews.com/20260616000070
 
-◾ 전북도, 피지컬 AI·산악고원형 무인 자율주행차 등 시·군 핵심산업 특례 발굴 본격화
-https://www.etnews.com/20260615000072
+◾ 강원 AI 사업단 출범…지역 주도형 AI 대전환 본격화
+https://www.etnews.com/20260616000038
 
-◾ 인공지능·로봇으로 더 안전한 건설현장 만든다...스마트건설 챌린지 개최, 총 3억원 상금 수여
-https://www.aitimes.kr/news/articleView.html?idxno=40508
+◾ 시선AI, AI 스마트 대중교통 국책사업 참여…총 사업비 35.7억원, 온디바이스 LLM 에이전트 및 비전 AI 인식 기술 개발
+https://www.aitimes.kr/news/articleView.html?idxno=40534
 
-◾ 윤호중 장관, OECD 무대에서 ‘AI 민주정부’ 추진 방향 공유
-https://www.aitimes.kr/news/articleView.html?idxno=40507
+◾ 서울 AI 허브, AI 스타트업 100개사에 GPU 서버 이용 지원…20억원 규모 인프라 자원
+https://www.aitimes.kr/news/articleView.html?idxno=40528
 
-◾ 중기부, 대기업･공공기관과 스타트업 잇는다...AI 등 협업과제 82개 제시, 선정 스타트업 최대 1.4억원 지원
-https://www.aitimes.kr/news/articleView.html?idxno=40501
+◾ KT-고려대, 한국 문화 특화 AI 오픈 벤치마크 ＇KSAFE-MM＇ 공개...국내 최대규모 한국어 멀티모달 안전성 평가 데이터셋
+https://www.aitimes.kr/news/articleView.html?idxno=40519
 
 [해외]
-◾ 美, 앤트로픽 최상위 AI 모델 ＇외국인 접근＇ 전면 차단…“사실상 허가제”
-https://www.etnews.com/20260615000003
+◾ 앤트로픽 ＇AI 수출 제재＇에 韓 통신사 빌미 제공했나
+https://www.etnews.com/20260616000338
 
-◾ 〃정찰부터 타격까지 AI가 수행〃…실드 AI, 자율 전투체계 실전 검증
-https://www.aitimes.kr/news/articleView.html?idxno=40512
+◾ 세일즈포스, 5조5000억원에 AI 고객 서비스 기업 ＇핀＇ 인수
+https://www.etnews.com/20260616000279
 
-◾ 지프라, 맘바2·트랜스포머 결합 ＇잠바2-VL＇ 공개...〃정확도 유지하며 추론 10배 빨라〃
-https://www.aitimes.com/news/articleView.html?idxno=211745
+◾ [AI 리뷰] 원자로 냉각 기술을 AI 데이터센터로…MIT 연구진 창업 ＇퍼버렛＇, 전력·물 사용 획기적 절감
+https://www.aitimes.kr/news/articleView.html?idxno=40538
 
-◾ 〃클로드 코드·코덱스를 하나로〃…데이터브릭스, 에이전트 통합 플랫폼 공개
-https://www.aitimes.com/news/articleView.html?idxno=211742
+◾ 지푸AI, 100만 토큰 컨텍스트 창 ‘GLM-5.2’ 출시...벤치마크는 미공개
+https://www.aitimes.com/news/articleView.html?idxno=211778
 
-◾ 오픈AI·앤트로픽, 상장 전 이미 직원 주식 ‘21조’ 현금화
-https://www.aitimes.com/news/articleView.html?idxno=211736
+◾ 엔비디아, AI ＇추론＇ 시장서도 점유율 확대...1년 간 66%→74% 성장
+https://www.aitimes.com/news/articleView.html?idxno=211788
 
-◾ 페이블 5 금지시킨 ＇탈옥＇의 실체 ...〃GPT-5.5도 똑같이 뚫린다〃
-https://www.aitimes.com/news/articleView.html?idxno=211718
+◾ 사카나 AI, ＇가상 CSO＇ 에이전트 출시…8시간 조사로 100페이지 보고서 작성
+https://www.aitimes.com/news/articleView.html?idxno=211790
 
-◾ 백악관 〃탈옥 경고 무시〃 vs 앤트로픽 〃사실상 통보〃...또 정면 충돌
-https://www.aitimes.com/news/articleView.html?idxno=211713
+◾ 퀄컴, 짐 켈러의 텐스토렌트 인수 추진…모방일 넘어 데어터센터로 확장
+https://www.aitimes.com/news/articleView.html?idxno=211782
 
 [기타]
-◾ [기고]AI 에이전트 경제와 기업 경영혁신
-https://www.etnews.com/20260615000076
-
-◾ [신혜권의 에듀포인트]〈57〉AI시대, 컴퓨터공학 교육은?
-https://www.etnews.com/20260615000219
+◾ “AI 모델 경쟁은 끝났다”…전력·데이터·제도가 新전장
+https://www.etnews.com/20260616000134
 
 📚 간행물
-◾ 모달리티별 양자컴퓨터 벤더 동향
-https://www.kisti.re.kr/post/policy-report/7003;jsessionid=kJY1reQOEqEroaww6kBXT4UjS7JIosLLovnZzpScMFBbIcBHTBVcB3T89qdTfCCm.ar211_servlet_engine23?t=1781552580978
-
-◾ 글로벌 사례를 통한 국가 AI4S 실행 방안
-https://www.kisti.re.kr/post/policy-report/7002;jsessionid=kJY1reQOEqEroaww6kBXT4UjS7JIosLLovnZzpScMFBbIcBHTBVcB3T89qdTfCCm.ar211_servlet_engine23?t=1781552580978
-
-◾ 모달리티별 양자컴퓨터 벤더 동향
-https://www.kisti.re.kr/post/policy-report/7003;jsessionid=Wk616YxyGv1ZL42q0EzcPHTMdJLNU19aopmRTTQPSmOjlJvsTDdXAd7XE1SwY444.ar211_servlet_engine23?t=1781554039424
-
-◾ 글로벌 사례를 통한 국가 AI4S 실행 방안
-https://www.kisti.re.kr/post/policy-report/7002;jsessionid=Wk616YxyGv1ZL42q0EzcPHTMdJLNU19aopmRTTQPSmOjlJvsTDdXAd7XE1SwY444.ar211_servlet_engine23?t=1781554039424
-
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 6월 1주차)
-https://www.kisa.or.kr/20202/form?postSeq=478&page=1
-
-◾ [제1294호] OCP ORv3 기반 고밀도 랙 표준의 현황과 국내 AIDC 적용 방안
-https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1294%ED%98%B8%5D%20OCP%20ORv3%20%EA%B8%B0%EB%B0%98%20%EA%B3%A0%EB%B0%80%EB%8F%84%20%EB%9E%99%20%ED%91%9C%EC%A4%80%EC%9D%98%20%ED%98%84%ED%99%A9%EA%B3%BC%20%EA%B5%AD%EB%82%B4%20AIDC%20%EC%A0%81%EC%9A%A9%20%EB%B0%A9%EC%95%88
-
-◾ 2026년 5월 정보통신산업(ICT) 수출입 동향
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260615-000001&cpage=1&rows=10&searchTarget=all
+◾ AI 전환에 따른 제조 패러다임 변화와 정책 과제: 자율형 제조로의 진화와 인간 역할의 재...
+https://www.kisti.re.kr/post/policy-report/7004
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
