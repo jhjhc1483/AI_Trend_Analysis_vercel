@@ -51,7 +51,8 @@ jobs:
           sudo apt-get install -y google-chrome-stable
       - name: Run All Python Scripts
         env:
-          SCRAPER_API_KEY: ${{ secrets.SCRAPER_API_KEY }}
+          # 오전 1시 30분 실행일 때는 2번 키를, 그 외(오전 1시 또는 수동실행)일 때는 1번 키를 사용
+          SCRAPER_API_KEY: ${{ github.event.schedule == '30 16 * * *' && secrets.SCRAPER_API_KEY_2 || secrets.SCRAPER_API_KEY }}
         run: |
           python codes/pycode/mnd.py
           python codes/pycode/etnews.py  
