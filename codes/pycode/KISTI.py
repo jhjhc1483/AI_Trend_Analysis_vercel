@@ -154,6 +154,12 @@ for i in range(len(url)):
                     
                 link = code if "https://" in code else f"https://www.kisti.re.kr{code}"
                 
+                # URL에서 jsessionid 및 쿼리 파라미터(?t= 등) 제거하여 중복 방지
+                if ';jsessionid=' in link:
+                    link = link.split(';jsessionid=')[0]
+                if '?' in link:
+                    link = link.split('?')[0]
+                
                 # 네비게이션/메뉴 링크 필터링
                 if any(skip in link for skip in ['/intro/', '/notifications/', '/mspt/', '/government/', '/promote/', '/research/', '/pageView/', '#']):
                     continue
