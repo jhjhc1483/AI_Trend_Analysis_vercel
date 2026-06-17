@@ -5,6 +5,8 @@ import google.generativeai as genai
 import edge_tts # Edge-TTS 라이브러리
 
 # 1. 환경 변수 설정
+from dotenv import load_dotenv
+load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../.env"))
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 # 2. Gemini 설정
@@ -26,6 +28,10 @@ async def main():
             print("데이터 내용이 비어있습니다.")
             return
 
+        # URL 제거 (토큰 수 낭비 방지)
+        import re
+        text_without_urls = re.sub(r'http[s]?://\S+', '', raw_text)
+
         print(">>> Gemini에게 브리핑 대본 작성을 요청합니다...")
         
         # 4. Gemini 프롬프트
@@ -43,11 +49,21 @@ async def main():
         7. 마무리: "이상으로 오늘의 브리핑을 마칩니다. 감사합니다."로 끝낼 것.
 
         [데이터]
-        {raw_text}
+        {text_without_urls}
         """
 
-        response = model.generate_content(prompt)
-        script = response.text
+        max_retries = 3
+        for attempt in range(max_retries):
+            try:
+                response = model.generate_content(prompt)
+                script = response.text
+                break
+            except Exception as e:
+                if "429" in str(e) and attempt < max_retries - 1:
+                    print(f"API Rate Limit(429). 30초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
+                    await asyncio.sleep(30)
+                else:
+                    raise e
         
         script = script.replace("*", "").replace("#", "").replace("-", "").replace('"', "")
         print(f">>> 생성된 대본:\n{script[:100]}...")
@@ -91,11 +107,20 @@ async def main():
         - 팩트 왜곡 주의: 기고문, 제안, 의견, 아이디어 단계의 기사를 "도입합니다", "공급됩니다"처럼 이미 확정된 기정사실로 요약하면 절대 안 돼. 사실 관계를 명확히 파악하여 "~제안했습니다", "~주장했습니다", "~필요성이 제기되었습니다"처럼 원문의 문맥에 맞게 정확히 표현해.
 
         [데이터]
-        {raw_text}
+        {text_without_urls}
         """
 
-        briefing_response = model.generate_content(briefing_prompt)
-        briefing_text = briefing_response.text.strip()
+        for attempt in range(max_retries):
+            try:
+                briefing_response = model.generate_content(briefing_prompt)
+                briefing_text = briefing_response.text.strip()
+                break
+            except Exception as e:
+                if "429" in str(e) and attempt < max_retries - 1:
+                    print(f"API Rate Limit(429). 30초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
+                    await asyncio.sleep(30)
+                else:
+                    raise e
         
         print(">>> 카톡 공유용 브리핑 JSON 텍스트 생성 완료!")
 
@@ -130,4 +155,4 @@ if __name__ == "__main__":
     # 윈도우 환경에서 발생할 수 있는 asyncio 에러 방지
     if os.name == 'nt':
         asyncio.set_event_loop_policy(asyncio.WindowsSelectorEventLoopPolicy())
-    asyncio.run(main()) 
+    asyncio.run(main())
