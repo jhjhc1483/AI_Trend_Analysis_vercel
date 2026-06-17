@@ -1,1 +1,277 @@
-[]
+[
+  {
+    "title": "('26. 6. 17.) 국가AI전략위, 인문사회 기반 AI 융합인재양성 방향 논의",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=733",
+    "category": "기관"
+  },
+  {
+    "title": "카카오, ‘AGENTIC PLAYER 10’ 개최… AI 서비스 발굴 나선다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40559",
+    "category": "민간"
+  },
+  {
+    "title": "국가데이터처, 인공지능기반 데이터 혁신 전문인재 본격 양성...데이터 신뢰성 기반 실무 교육 확대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40557",
+    "category": "기관"
+  },
+  {
+    "title": "교육부, 인공지능 수업으로 학교 변화를 주도할 선도교사 1만 명 양성",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40556",
+    "category": "기관"
+  },
+  {
+    "title": "LG CNS, 중기중앙회와 중소 제조기업 AX 이끈다...중기 AI 확산 위한 대·중소상생협력 모델 발굴",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40552",
+    "category": "민간"
+  },
+  {
+    "title": "더욱 강력하고 유연한 AI 경험을... 마이크로소프트, 차세대 AI PC 신형 서피스 프로∙랩탑 출시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40551",
+    "category": "해외"
+  },
+  {
+    "title": "DGIST, 정부 ‘AI 휴머노이드’ 신규 과제 선정… 77.5억원 지원. 로봇이 스스로 역할 나누고 협동하는 ‘군집 지능’ 개발",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40548",
+    "category": "기관"
+  },
+  {
+    "title": "“AI가 비즈니스 전체를 이해하는 시대 연다”...데이터브릭스, 기업용 AI 에이전트 ＇지니 원＇ 출시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40544",
+    "category": "해외"
+  },
+  {
+    "title": "LG AI연구원, 디앤디파마텍과 AI 기반 차세대 펩타이드 신약 개발한다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40542",
+    "category": "민간"
+  },
+  {
+    "title": "알리바바, 로봇 AI ＇큐원-로봇-스위트＇ 공개…챗봇 넘어 ＇피지컬 AI＇ 본격 진출",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211827",
+    "category": "해외"
+  },
+  {
+    "title": "미 국방부, ‘그록’ 활용해 이란 공습 계획 수립…〃96시간 만에 2000개 표적 타격 지원〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211834",
+    "category": "해외"
+  },
+  {
+    "title": "구글, ＇안드로이드 17＇ 정식 출시…＇제미나이 옴니·리리아3＇로 AI 경험 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211831",
+    "category": "해외"
+  },
+  {
+    "title": "딥시크, 몸값 75조 인정...‘의결권 없는 투자’로 경영권 사수",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211825",
+    "category": "해외"
+  },
+  {
+    "title": "미국 정부, AI 기업 ＇외국인 직원＇ 첨단 모델 접근 금지 검토...〃중국 기술 유출 우려〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211809",
+    "category": "해외"
+  },
+  {
+    "title": "한국딥러닝, 1.2B 모델로 글로벌 ＇문서 파싱＇ 부문 1위...〃구글·오픈AI 제쳤다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211820",
+    "category": "민간"
+  },
+  {
+    "title": "비드래프트, GPQA 다이아몬드 90.9% 달성…〃AI 과학추론 기술 입증〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211828",
+    "category": "민간"
+  },
+  {
+    "title": "경콘진, 판교허브 투자유치 패키지…AI 콘텐츠 30개사 선발",
+    "link": "https://www.etnews.com/20260617000004",
+    "category": "기관"
+  },
+  {
+    "title": "행안부 “AI 챔피언 해커톤＇에 200팀 지원…공무원도 AI로 앱 만든다”",
+    "link": "https://www.etnews.com/20260617000430",
+    "category": "기관"
+  },
+  {
+    "title": "[데이터뉴스] AI가 일자리 없앤다?…AI 잘 쓰는 기업, 직원 더 뽑았다",
+    "link": "https://www.etnews.com/20260617000121",
+    "category": "기타"
+  },
+  {
+    "title": "[테크데이, ＇판＇이 바뀐다] LG이노텍, “AI 시대 반도체 기판은 성능 좌우할 핵심 부품”",
+    "link": "https://www.etnews.com/20260617000207",
+    "category": "민간"
+  },
+  {
+    "title": "“AI 반도체 패키징 화두는 대면적화·발열관리”",
+    "link": "https://www.etnews.com/20260617000326",
+    "category": "민간"
+  },
+  {
+    "title": "[테크데이, ＇판＇이 바뀐다] 하나마이크론, “첨단 패키징 축, 근미래 TSMC→ OSAT 진영으로”",
+    "link": "https://www.etnews.com/20260617000197",
+    "category": "민간"
+  },
+  {
+    "title": "더존비즈온, ＇원 AI 노무도우미＇ 출시…경영 가이드 AI 에이전트 완성",
+    "link": "https://www.etnews.com/20260617000383",
+    "category": "민간"
+  },
+  {
+    "title": "[기고] AI는 당신을 잊지 않는다 - ＇잊힐 권리＇를 다시 설계할 때",
+    "link": "https://www.etnews.com/20260617000117",
+    "category": "기타"
+  },
+  {
+    "title": "[人사이트] 박지환 씽크포비엘 대표 “AI 신뢰성, 통제·책임 거버넌스 구축이 핵심”",
+    "link": "https://www.etnews.com/20260617000157",
+    "category": "기타"
+  },
+  {
+    "title": "중기중앙회-LG CNS, AI 상생 프로젝트 가동…중소 제조업 AX 전환 속도",
+    "link": "https://www.etnews.com/20260617000336",
+    "category": "기관"
+  },
+  {
+    "title": "TTA-말레이 표준화 기구와 ICT 표준화 맞손",
+    "link": "https://www.etnews.com/20260617000335",
+    "category": "기관"
+  },
+  {
+    "title": "알리바바, 4만시간 학습한 큐원 ＇로봇 파운데이션 스위트＇ 공개",
+    "link": "https://www.etnews.com/20260617000329",
+    "category": "해외"
+  },
+  {
+    "title": "삼현-가디언에이아이, 초격차 기술 동맹…글로벌 로봇 시장 정조준",
+    "link": "https://www.etnews.com/20260617000328",
+    "category": "민간"
+  },
+  {
+    "title": "김윤지 콘진원장 “K콘텐츠 변곡점 왔다…AI·정책금융으로 돌파”",
+    "link": "https://www.etnews.com/20260617000322",
+    "category": "기관"
+  },
+  {
+    "title": "경북도, 4차 산업혁명 실행전략 점검…미래산업 청사진 제시",
+    "link": "https://www.etnews.com/20260617000307",
+    "category": "기관"
+  },
+  {
+    "title": "구글, AI 보안 플랫폼 한국 출시…“데이터 주권 보장”",
+    "link": "https://www.etnews.com/20260617000304",
+    "category": "해외"
+  },
+  {
+    "title": "마음AI, 스마트인재개발원·AIMX와 피지컬 AI 로봇훈련장 가동",
+    "link": "https://www.etnews.com/20260617000298",
+    "category": "민간"
+  },
+  {
+    "title": "KT, 사람 업무 대신할 ＇자율형 AI 에이전트＇ 도입한다",
+    "link": "https://www.etnews.com/20260617000285",
+    "category": "민간"
+  },
+  {
+    "title": "IITP “피지컬AI·반도체·보안 집중 R&D 추진”",
+    "link": "https://www.etnews.com/20260617000282",
+    "category": "기관"
+  },
+  {
+    "title": "자율주행·AI시티·우주항공 한눈에…국토교통기술대전 24일 개막",
+    "link": "https://www.etnews.com/20260617000275",
+    "category": "기관"
+  },
+  {
+    "title": "위즈코어, STK 2026서 AI 기반 설계 검증 자동화 사례 선보여 ＇관람객 북적＇",
+    "link": "https://www.etnews.com/20260617000260",
+    "category": "민간"
+  },
+  {
+    "title": "전남정보문화산업진흥원, ＇수산양식 분야 AI기반 현장 실증 지원사업＇ 참여기업 모집",
+    "link": "https://www.etnews.com/20260617000251",
+    "category": "기관"
+  },
+  {
+    "title": "[인터뷰]이제현 KIST AIX 전략실장 “조직문화 전환으로 KIST AI 전환 이룰 것”",
+    "link": "https://www.etnews.com/20260617000220",
+    "category": "기관"
+  },
+  {
+    "title": "포항시, ＇제조 특화 온디바이스 AI 실증기반 구축＇ 공모 선정…195억 투입",
+    "link": "https://www.etnews.com/20260617000201",
+    "category": "기관"
+  },
+  {
+    "title": "삼성전자, 佛 ＇비바테크 2026＇ 참가…건강관리 비전 선보인다",
+    "link": "https://www.etnews.com/20260617000187",
+    "category": "민간"
+  },
+  {
+    "title": "“사용량 부풀렸다?”… 앤스로픽, 최고가 AI 요금제 두고 집단소송 직면",
+    "link": "https://www.etnews.com/20260617000168",
+    "category": "해외"
+  },
+  {
+    "title": "전 구글 CEO가 투자한 로봇기업, LG CNS와 산업용 AI 로봇 공략",
+    "link": "https://www.etnews.com/20260617000158",
+    "category": "민간"
+  },
+  {
+    "title": "LG AI연구원, 디앤디파마텍과 AI 기반 차세대 펩타이드 신약 개발",
+    "link": "https://www.etnews.com/20260617000155",
+    "category": "민간"
+  },
+  {
+    "title": "[사례로 보는 저작권]〈1〉AI가 만든 콘텐츠도 내 창작물로 등록할 수 있을까?",
+    "link": "https://www.etnews.com/20260617000142",
+    "category": "기타"
+  },
+  {
+    "title": "CJ온스타일, ＇클로드＇ 전사 도입…AI 네이티브 전환 가속",
+    "link": "https://www.etnews.com/20260617000101",
+    "category": "민간"
+  },
+  {
+    "title": "오픈AI, 보안 이어 ＇안전＇ 韓과 협력 강화…AI안전연구소와 MOU",
+    "link": "https://www.etnews.com/20260617000094",
+    "category": "기관"
+  },
+  {
+    "title": "KAIST, 제한된 메모리로도 ＇휴머노이드＇ 눈 밝혀...세계 최고 학회서 기술력 입증",
+    "link": "https://www.etnews.com/20260617000089",
+    "category": "기관"
+  },
+  {
+    "title": "“K-BCI 시대 연다”…한국BCI협회 출범, 초대 회장에 백남종 서울대병원장",
+    "link": "https://www.etnews.com/20260617000071",
+    "category": "기관"
+  },
+  {
+    "title": "AI 코딩 ＇커서＇ 인수한 스페이스X, 아마존 제치고 세계 시총 5위",
+    "link": "https://www.etnews.com/20260617000062",
+    "category": "해외"
+  },
+  {
+    "title": "카카오톡에 들어갈 AI 에이전트는…카카오, 공모전 개최",
+    "link": "https://www.etnews.com/20260617000054",
+    "category": "민간"
+  },
+  {
+    "title": "델타 일렉트로닉스, ＇㎿급 AI 데이터센터 전력·냉각 통합 솔루션＇ 개발",
+    "link": "https://www.etnews.com/20260616000386",
+    "category": "해외"
+  },
+  {
+    "title": "인공지능 시대 ‘유·무인 복합 첨단해군’ 노 젓는다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260618/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=0CDW1DAaijd2hi_Qu0wvO5JmvI-khP3OmSCPMwVJcK9WtlRzL5m_!730580237",
+    "category": "국방"
+  },
+  {
+    "title": "인공지능 너머…  인간을 다시 묻다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260618/6/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=0CDW1DAaijd2hi_Qu0wvO5JmvI-khP3OmSCPMwVJcK9WtlRzL5m_!730580237",
+    "category": "기타"
+  },
+  {
+    "title": "‘新 총, 균, 쇠’, 군을 ‘AI 3대 강군’의 요람으로",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260618/2/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=0CDW1DAaijd2hi_Qu0wvO5JmvI-khP3OmSCPMwVJcK9WtlRzL5m_!730580237",
+    "category": "국방"
+  }
+]
