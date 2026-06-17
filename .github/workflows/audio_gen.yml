@@ -24,7 +24,7 @@ jobs:
     - name: 필요 라이브러리 설치
       # edge-tts: Microsoft Edge 브라우저의 무료 Neural TTS
       run: |
-        pip install google-generativeai edge-tts
+        pip install google-generativeai edge-tts python-dotenv
 
     - name: 오디오 생성 스크립트 실행
       env:
