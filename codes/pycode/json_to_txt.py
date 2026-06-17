@@ -90,6 +90,8 @@ def main():
     categorized = categorize_articles(articles)
     report_text = generate_report_text(categorized)
 
+    import sys
+    sys.stdout.reconfigure(encoding='utf-8')
     print(report_text)
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:
