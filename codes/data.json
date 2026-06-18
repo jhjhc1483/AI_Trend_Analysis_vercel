@@ -11369,5 +11369,129 @@
       ]
     },
     "briefing": "- 미 국방부가 AI '그록'을 활용해 96시간 만에 2,000개 표적 타격을 지원하는 이란 공습 계획을 수립한 사례가 보도되었습니다.\n- DGIST가 로봇 스스로 역할을 분담하고 협동하는 '군집 지능' 기반 AI 휴머노이드 개발을 위한 정부 신규 과제 수행 기관으로 선정되었습니다.\n- 대한민국 군을 'AI 3대 강군'의 요람으로 육성하기 위한 전략적 방향성과 기술 도입의 필요성이 제기되었습니다."
+  },
+  "26.06.19": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "('26. 6. 18.) 국가AI전략위, ‘보안취약점 상시 신고조치제 제도화 논의’ 세미나 개최",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=737",
+          "category": "기관"
+        },
+        {
+          "title": "수원 찾은 일본 견학단…AI 행정·스마트도시 추진 현황 청취",
+          "link": "https://www.etnews.com/20260618000492",
+          "category": "기관"
+        },
+        {
+          "title": "[에듀플러스][2026 AI·SW중심대학 워크숍]39개 대학 AI·SW 성과 공유…혁신 교육 모델 한자리에",
+          "link": "https://www.etnews.com/20260618000488",
+          "category": "기관"
+        },
+        {
+          "title": "대구TP, ＇대경권 소상공인 AI 전환＇ 시동… ＇기업가형 소상공인＇ 키운다",
+          "link": "https://www.etnews.com/20260617000347",
+          "category": "기관"
+        },
+        {
+          "title": "아세안 디지털 역량 강화 기여... KISTI, HPC 인프라 구축 완료",
+          "link": "https://www.etnews.com/20260618000461",
+          "category": "기관"
+        },
+        {
+          "title": "[2026 공공 AI 박람회]〈하〉현장 공무원 중심으로 공공 AX 본격 시동",
+          "link": "https://www.etnews.com/20260618000113",
+          "category": "기관"
+        },
+        {
+          "title": "정부, 금융 AI ＇7대 원칙＇ 22일 전격 시행…망분리 완화·AX 규율체계 구축 속도",
+          "link": "https://www.etnews.com/20260618000036",
+          "category": "기관"
+        }
+      ],
+      "국방": [
+        {
+          "title": "국방 데이터 활용 ‘민·군 AI 협력 거점’ 전국 5곳에 구축",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260619/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=xVPcAg2_RahwJwLoKbXuAiu12pQbCvD2j5ePF7cOo7iFt_wRsYPF!730580237",
+          "category": "국방"
+        },
+        {
+          "title": "[호국보훈의 달 어제의 기억 오늘의 감사] ‘AI 시대’ 안보의 길",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260619/13/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=xVPcAg2_RahwJwLoKbXuAiu12pQbCvD2j5ePF7cOo7iFt_wRsYPF!730580237",
+          "category": "국방"
+        },
+        {
+          "title": "호르무즈의 안개가 걷힌 자리, ‘물리적 AI’와 K국방의 미래",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260619/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=xVPcAg2_RahwJwLoKbXuAiu12pQbCvD2j5ePF7cOo7iFt_wRsYPF!730580237",
+          "category": "국방"
+        }
+      ],
+      "민간": [
+        {
+          "title": "브레인벤쳐스, 콘진원 오픈이노베이션 선정…웹툰 AI 고도화",
+          "link": "https://www.etnews.com/20260618000487",
+          "category": "민간"
+        },
+        {
+          "title": "인스웨이브 “AI가 만들고, 우리가 완성한다”…열쇠는 ＇AI 거버넌스＇",
+          "link": "https://www.etnews.com/20260618000425",
+          "category": "민간"
+        },
+        {
+          "title": "KT, AX 솔루션 동남권으로 확산",
+          "link": "https://www.etnews.com/20260618000168",
+          "category": "민간"
+        },
+        {
+          "title": "[르포]“농사도 AI가 조언한다”…달라진 미래 농업 현장 가보니",
+          "link": "https://www.etnews.com/20260618000394",
+          "category": "민간"
+        },
+        {
+          "title": "네이버, AI 수익화 본궤도 올린다…7월 AI 브리핑 광고 출시",
+          "link": "https://www.etnews.com/20260618000242",
+          "category": "민간"
+        },
+        {
+          "title": "SK쉴더스 “AI 시대, 해킹 사후 대응이 보안 경쟁력”",
+          "link": "https://www.etnews.com/20260618000383",
+          "category": "민간"
+        },
+        {
+          "title": "＇넥스트라이즈 2026＇ 개막…글로벌 AI 총집결",
+          "link": "https://www.etnews.com/20260618000365",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "수세 “소버린 AI, 통제권이 핵심”…韓 AI 인프라 공략",
+          "link": "https://www.etnews.com/20260618000444",
+          "category": "해외"
+        },
+        {
+          "title": "넷앱-시스코, AI 도입 장벽 낮춘 통합 인프라 발표",
+          "link": "https://www.etnews.com/20260618000366",
+          "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[ET시론] 기업혁신과 슈퍼이윤의 선순환, 초혁신경제로 가는 길",
+          "link": "https://www.etnews.com/20260618000121",
+          "category": "기타"
+        },
+        {
+          "title": "[김동현의 AI 시대와 한국의 선택] 〈5〉대전환기의 독점 규제와 중국의 공세, 한국 AI의 자립적 노선",
+          "link": "https://www.etnews.com/20260618000059",
+          "category": "기타"
+        },
+        {
+          "title": "[김장현의 테크와 사람] 〈103〉AI 기업과 ＇안보＇ ＇살상＇의 윤리적 딜레마",
+          "link": "https://www.etnews.com/20260618000142",
+          "category": "기타"
+        }
+      ]
+    }
   }
 }
