@@ -1,180 +1,80 @@
-📢26.06.18 AI 일일 동향📢
+📢26.06.19 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 인공지능 시대 ‘유·무인 복합 첨단해군’ 노 젓는다
-https://kookbang.dema.mil.kr/newsWeb/20260618/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=0CDW1DAaijd2hi_Qu0wvO5JmvI-khP3OmSCPMwVJcK9WtlRzL5m_!730580237
+◾ 국방 데이터 활용 ‘민·군 AI 협력 거점’ 전국 5곳에 구축
+https://kookbang.dema.mil.kr/newsWeb/20260619/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=xVPcAg2_RahwJwLoKbXuAiu12pQbCvD2j5ePF7cOo7iFt_wRsYPF!730580237
 
-◾ ‘新 총, 균, 쇠’, 군을 ‘AI 3대 강군’의 요람으로
-https://kookbang.dema.mil.kr/newsWeb/20260618/2/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=0CDW1DAaijd2hi_Qu0wvO5JmvI-khP3OmSCPMwVJcK9WtlRzL5m_!730580237
+◾ [호국보훈의 달 어제의 기억 오늘의 감사] ‘AI 시대’ 안보의 길
+https://kookbang.dema.mil.kr/newsWeb/20260619/13/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=xVPcAg2_RahwJwLoKbXuAiu12pQbCvD2j5ePF7cOo7iFt_wRsYPF!730580237
+
+◾ 호르무즈의 안개가 걷힌 자리, ‘물리적 AI’와 K국방의 미래
+https://kookbang.dema.mil.kr/newsWeb/20260619/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=xVPcAg2_RahwJwLoKbXuAiu12pQbCvD2j5ePF7cOo7iFt_wRsYPF!730580237
 
 [민간]
-◾ 카카오, ‘AGENTIC PLAYER 10’ 개최… AI 서비스 발굴 나선다
-https://www.aitimes.kr/news/articleView.html?idxno=40559
+◾ 브레인벤쳐스, 콘진원 오픈이노베이션 선정…웹툰 AI 고도화
+https://www.etnews.com/20260618000487
 
-◾ LG CNS, 중기중앙회와 중소 제조기업 AX 이끈다...중기 AI 확산 위한 대·중소상생협력 모델 발굴
-https://www.aitimes.kr/news/articleView.html?idxno=40552
+◾ 인스웨이브 “AI가 만들고, 우리가 완성한다”…열쇠는 ＇AI 거버넌스＇
+https://www.etnews.com/20260618000425
 
-◾ LG AI연구원, 디앤디파마텍과 AI 기반 차세대 펩타이드 신약 개발한다
-https://www.aitimes.kr/news/articleView.html?idxno=40542
+◾ KT, AX 솔루션 동남권으로 확산
+https://www.etnews.com/20260618000168
 
-◾ 한국딥러닝, 1.2B 모델로 글로벌 ＇문서 파싱＇ 부문 1위...〃구글·오픈AI 제쳤다〃
-https://www.aitimes.com/news/articleView.html?idxno=211820
+◾ [르포]“농사도 AI가 조언한다”…달라진 미래 농업 현장 가보니
+https://www.etnews.com/20260618000394
 
-◾ 비드래프트, GPQA 다이아몬드 90.9% 달성…〃AI 과학추론 기술 입증〃
-https://www.aitimes.com/news/articleView.html?idxno=211828
+◾ 네이버, AI 수익화 본궤도 올린다…7월 AI 브리핑 광고 출시
+https://www.etnews.com/20260618000242
 
-◾ [테크데이, ＇판＇이 바뀐다] LG이노텍, “AI 시대 반도체 기판은 성능 좌우할 핵심 부품”
-https://www.etnews.com/20260617000207
+◾ SK쉴더스 “AI 시대, 해킹 사후 대응이 보안 경쟁력”
+https://www.etnews.com/20260618000383
 
-◾ “AI 반도체 패키징 화두는 대면적화·발열관리”
-https://www.etnews.com/20260617000326
-
-◾ [테크데이, ＇판＇이 바뀐다] 하나마이크론, “첨단 패키징 축, 근미래 TSMC→ OSAT 진영으로”
-https://www.etnews.com/20260617000197
-
-◾ 더존비즈온, ＇원 AI 노무도우미＇ 출시…경영 가이드 AI 에이전트 완성
-https://www.etnews.com/20260617000383
-
-◾ 삼현-가디언에이아이, 초격차 기술 동맹…글로벌 로봇 시장 정조준
-https://www.etnews.com/20260617000328
-
-◾ 마음AI, 스마트인재개발원·AIMX와 피지컬 AI 로봇훈련장 가동
-https://www.etnews.com/20260617000298
-
-◾ KT, 사람 업무 대신할 ＇자율형 AI 에이전트＇ 도입한다
-https://www.etnews.com/20260617000285
-
-◾ 위즈코어, STK 2026서 AI 기반 설계 검증 자동화 사례 선보여 ＇관람객 북적＇
-https://www.etnews.com/20260617000260
-
-◾ 삼성전자, 佛 ＇비바테크 2026＇ 참가…건강관리 비전 선보인다
-https://www.etnews.com/20260617000187
-
-◾ 전 구글 CEO가 투자한 로봇기업, LG CNS와 산업용 AI 로봇 공략
-https://www.etnews.com/20260617000158
-
-◾ LG AI연구원, 디앤디파마텍과 AI 기반 차세대 펩타이드 신약 개발
-https://www.etnews.com/20260617000155
-
-◾ CJ온스타일, ＇클로드＇ 전사 도입…AI 네이티브 전환 가속
-https://www.etnews.com/20260617000101
-
-◾ 카카오톡에 들어갈 AI 에이전트는…카카오, 공모전 개최
-https://www.etnews.com/20260617000054
+◾ ＇넥스트라이즈 2026＇ 개막…글로벌 AI 총집결
+https://www.etnews.com/20260618000365
 
 [기관]
-◾ ('26. 6. 17.) 국가AI전략위, 인문사회 기반 AI 융합인재양성 방향 논의
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=733
+◾ ('26. 6. 18.) 국가AI전략위, ‘보안취약점 상시 신고조치제 제도화 논의’ 세미나 개최
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=737
 
-◾ 국가데이터처, 인공지능기반 데이터 혁신 전문인재 본격 양성...데이터 신뢰성 기반 실무 교육 확대
-https://www.aitimes.kr/news/articleView.html?idxno=40557
+◾ 수원 찾은 일본 견학단…AI 행정·스마트도시 추진 현황 청취
+https://www.etnews.com/20260618000492
 
-◾ 교육부, 인공지능 수업으로 학교 변화를 주도할 선도교사 1만 명 양성
-https://www.aitimes.kr/news/articleView.html?idxno=40556
+◾ [에듀플러스][2026 AI·SW중심대학 워크숍]39개 대학 AI·SW 성과 공유…혁신 교육 모델 한자리에
+https://www.etnews.com/20260618000488
 
-◾ DGIST, 정부 ‘AI 휴머노이드’ 신규 과제 선정… 77.5억원 지원. 로봇이 스스로 역할 나누고 협동하는 ‘군집 지능’ 개발
-https://www.aitimes.kr/news/articleView.html?idxno=40548
+◾ 대구TP, ＇대경권 소상공인 AI 전환＇ 시동… ＇기업가형 소상공인＇ 키운다
+https://www.etnews.com/20260617000347
 
-◾ 경콘진, 판교허브 투자유치 패키지…AI 콘텐츠 30개사 선발
-https://www.etnews.com/20260617000004
+◾ 아세안 디지털 역량 강화 기여... KISTI, HPC 인프라 구축 완료
+https://www.etnews.com/20260618000461
 
-◾ 행안부 “AI 챔피언 해커톤＇에 200팀 지원…공무원도 AI로 앱 만든다”
-https://www.etnews.com/20260617000430
+◾ [2026 공공 AI 박람회]〈하〉현장 공무원 중심으로 공공 AX 본격 시동
+https://www.etnews.com/20260618000113
 
-◾ 중기중앙회-LG CNS, AI 상생 프로젝트 가동…중소 제조업 AX 전환 속도
-https://www.etnews.com/20260617000336
-
-◾ TTA-말레이 표준화 기구와 ICT 표준화 맞손
-https://www.etnews.com/20260617000335
-
-◾ 김윤지 콘진원장 “K콘텐츠 변곡점 왔다…AI·정책금융으로 돌파”
-https://www.etnews.com/20260617000322
-
-◾ 경북도, 4차 산업혁명 실행전략 점검…미래산업 청사진 제시
-https://www.etnews.com/20260617000307
-
-◾ IITP “피지컬AI·반도체·보안 집중 R&D 추진”
-https://www.etnews.com/20260617000282
-
-◾ 자율주행·AI시티·우주항공 한눈에…국토교통기술대전 24일 개막
-https://www.etnews.com/20260617000275
-
-◾ 전남정보문화산업진흥원, ＇수산양식 분야 AI기반 현장 실증 지원사업＇ 참여기업 모집
-https://www.etnews.com/20260617000251
-
-◾ [인터뷰]이제현 KIST AIX 전략실장 “조직문화 전환으로 KIST AI 전환 이룰 것”
-https://www.etnews.com/20260617000220
-
-◾ 포항시, ＇제조 특화 온디바이스 AI 실증기반 구축＇ 공모 선정…195억 투입
-https://www.etnews.com/20260617000201
-
-◾ 오픈AI, 보안 이어 ＇안전＇ 韓과 협력 강화…AI안전연구소와 MOU
-https://www.etnews.com/20260617000094
-
-◾ KAIST, 제한된 메모리로도 ＇휴머노이드＇ 눈 밝혀...세계 최고 학회서 기술력 입증
-https://www.etnews.com/20260617000089
-
-◾ “K-BCI 시대 연다”…한국BCI협회 출범, 초대 회장에 백남종 서울대병원장
-https://www.etnews.com/20260617000071
+◾ 정부, 금융 AI ＇7대 원칙＇ 22일 전격 시행…망분리 완화·AX 규율체계 구축 속도
+https://www.etnews.com/20260618000036
 
 [해외]
-◾ 더욱 강력하고 유연한 AI 경험을... 마이크로소프트, 차세대 AI PC 신형 서피스 프로∙랩탑 출시
-https://www.aitimes.kr/news/articleView.html?idxno=40551
+◾ 수세 “소버린 AI, 통제권이 핵심”…韓 AI 인프라 공략
+https://www.etnews.com/20260618000444
 
-◾ “AI가 비즈니스 전체를 이해하는 시대 연다”...데이터브릭스, 기업용 AI 에이전트 ＇지니 원＇ 출시
-https://www.aitimes.kr/news/articleView.html?idxno=40544
-
-◾ 알리바바, 로봇 AI ＇큐원-로봇-스위트＇ 공개…챗봇 넘어 ＇피지컬 AI＇ 본격 진출
-https://www.aitimes.com/news/articleView.html?idxno=211827
-
-◾ 미 국방부, ‘그록’ 활용해 이란 공습 계획 수립…〃96시간 만에 2000개 표적 타격 지원〃
-https://www.aitimes.com/news/articleView.html?idxno=211834
-
-◾ 구글, ＇안드로이드 17＇ 정식 출시…＇제미나이 옴니·리리아3＇로 AI 경험 강화
-https://www.aitimes.com/news/articleView.html?idxno=211831
-
-◾ 딥시크, 몸값 75조 인정...‘의결권 없는 투자’로 경영권 사수
-https://www.aitimes.com/news/articleView.html?idxno=211825
-
-◾ 미국 정부, AI 기업 ＇외국인 직원＇ 첨단 모델 접근 금지 검토...〃중국 기술 유출 우려〃
-https://www.aitimes.com/news/articleView.html?idxno=211809
-
-◾ 알리바바, 4만시간 학습한 큐원 ＇로봇 파운데이션 스위트＇ 공개
-https://www.etnews.com/20260617000329
-
-◾ 구글, AI 보안 플랫폼 한국 출시…“데이터 주권 보장”
-https://www.etnews.com/20260617000304
-
-◾ “사용량 부풀렸다?”… 앤스로픽, 최고가 AI 요금제 두고 집단소송 직면
-https://www.etnews.com/20260617000168
-
-◾ AI 코딩 ＇커서＇ 인수한 스페이스X, 아마존 제치고 세계 시총 5위
-https://www.etnews.com/20260617000062
-
-◾ 델타 일렉트로닉스, ＇㎿급 AI 데이터센터 전력·냉각 통합 솔루션＇ 개발
-https://www.etnews.com/20260616000386
+◾ 넷앱-시스코, AI 도입 장벽 낮춘 통합 인프라 발표
+https://www.etnews.com/20260618000366
 
 [기타]
-◾ [데이터뉴스] AI가 일자리 없앤다?…AI 잘 쓰는 기업, 직원 더 뽑았다
-https://www.etnews.com/20260617000121
+◾ [ET시론] 기업혁신과 슈퍼이윤의 선순환, 초혁신경제로 가는 길
+https://www.etnews.com/20260618000121
 
-◾ [기고] AI는 당신을 잊지 않는다 - ＇잊힐 권리＇를 다시 설계할 때
-https://www.etnews.com/20260617000117
+◾ [김동현의 AI 시대와 한국의 선택] 〈5〉대전환기의 독점 규제와 중국의 공세, 한국 AI의 자립적 노선
+https://www.etnews.com/20260618000059
 
-◾ [人사이트] 박지환 씽크포비엘 대표 “AI 신뢰성, 통제·책임 거버넌스 구축이 핵심”
-https://www.etnews.com/20260617000157
-
-◾ [사례로 보는 저작권]〈1〉AI가 만든 콘텐츠도 내 창작물로 등록할 수 있을까?
-https://www.etnews.com/20260617000142
-
-◾ 인공지능 너머…  인간을 다시 묻다
-https://kookbang.dema.mil.kr/newsWeb/20260618/6/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=0CDW1DAaijd2hi_Qu0wvO5JmvI-khP3OmSCPMwVJcK9WtlRzL5m_!730580237
-
-📚 간행물
-◾ 미래 AI 반도체 개발을 위한 신소자 개발 동향 [주간기술동향 2214호]
-https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1399&cpage=1&rows=10&searchTarget=all
+◾ [김장현의 테크와 사람] 〈103〉AI 기업과 ＇안보＇ ＇살상＇의 윤리적 딜레마
+https://www.etnews.com/20260618000142
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
 (링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
+
+
+✅위 내용은 GEMINI에 의해 작성됨.
