@@ -1,112 +1,202 @@
 [
   {
-    "title": "('26. 6. 18.) 국가AI전략위, ‘보안취약점 상시 신고조치제 제도화 논의’ 세미나 개최",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=737",
-    "category": "기관"
-  },
-  {
-    "title": "국방 데이터 활용 ‘민·군 AI 협력 거점’ 전국 5곳에 구축",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260619/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=xVPcAg2_RahwJwLoKbXuAiu12pQbCvD2j5ePF7cOo7iFt_wRsYPF!730580237",
-    "category": "국방"
-  },
-  {
-    "title": "[호국보훈의 달 어제의 기억 오늘의 감사] ‘AI 시대’ 안보의 길",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260619/13/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=xVPcAg2_RahwJwLoKbXuAiu12pQbCvD2j5ePF7cOo7iFt_wRsYPF!730580237",
-    "category": "국방"
-  },
-  {
-    "title": "호르무즈의 안개가 걷힌 자리, ‘물리적 AI’와 K국방의 미래",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260619/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=xVPcAg2_RahwJwLoKbXuAiu12pQbCvD2j5ePF7cOo7iFt_wRsYPF!730580237",
-    "category": "국방"
-  },
-  {
-    "title": "수원 찾은 일본 견학단…AI 행정·스마트도시 추진 현황 청취",
-    "link": "https://www.etnews.com/20260618000492",
-    "category": "기관"
-  },
-  {
-    "title": "[에듀플러스][2026 AI·SW중심대학 워크숍]39개 대학 AI·SW 성과 공유…혁신 교육 모델 한자리에",
-    "link": "https://www.etnews.com/20260618000488",
-    "category": "기관"
-  },
-  {
-    "title": "브레인벤쳐스, 콘진원 오픈이노베이션 선정…웹툰 AI 고도화",
-    "link": "https://www.etnews.com/20260618000487",
+    "title": "잡코리아, 상상력으로 경쟁하는 AI 경진대회 연다",
+    "link": "https://www.etnews.com/20260619000302",
     "category": "민간"
   },
   {
-    "title": "대구TP, ＇대경권 소상공인 AI 전환＇ 시동… ＇기업가형 소상공인＇ 키운다",
-    "link": "https://www.etnews.com/20260617000347",
+    "title": "이춘식 씨에스리 대표 “AI 플랫폼 ＇빅재미＇ 앞세워 공공 넘어 금융·제조로 영토 확장”",
+    "link": "https://www.etnews.com/20260619000083",
+    "category": "민간"
+  },
+  {
+    "title": "제약바이오협회, ＇AI 신약 개발 자문위＇ 개최…실무 중심 생태계 구축",
+    "link": "https://www.etnews.com/20260619000286",
+    "category": "민간"
+  },
+  {
+    "title": "[기고] AI 데이터 증강, 국방을 위한다면 전장 설계가 우선이다",
+    "link": "https://www.etnews.com/20260619000054",
+    "category": "기타"
+  },
+  {
+    "title": "박수현 충남도지사 당선인, ＇AI 관련 조직 개편 시사＇…AX는 ＇産·企·人＇ 균형 바탕",
+    "link": "https://www.etnews.com/20260619000259",
     "category": "기관"
   },
   {
-    "title": "아세안 디지털 역량 강화 기여... KISTI, HPC 인프라 구축 완료",
-    "link": "https://www.etnews.com/20260618000461",
+    "title": "제논, AX 플랫폼 고도화로 앱 개발·데이터 활용 한 번에",
+    "link": "https://www.etnews.com/20260619000253",
+    "category": "민간"
+  },
+  {
+    "title": "[알림]트렌드를 한 눈에…＇공공 AI-SaaS 혁신전략 컨퍼런스＇ 개최",
+    "link": "https://www.etnews.com/20260619000248",
     "category": "기관"
   },
   {
-    "title": "수세 “소버린 AI, 통제권이 핵심”…韓 AI 인프라 공략",
-    "link": "https://www.etnews.com/20260618000444",
+    "title": "SOOP, AI 영상 비서 업데이트…대화 품질↑",
+    "link": "https://www.etnews.com/20260619000229",
+    "category": "민간"
+  },
+  {
+    "title": "정부, AI 상용화 프로젝트 229개 선정…7540억원 투입",
+    "link": "https://www.etnews.com/20260619000207",
+    "category": "기관"
+  },
+  {
+    "title": "지케스, AI 국제표준 ISO/IEC 42001 인증 획득",
+    "link": "https://www.etnews.com/20260619000184",
+    "category": "민간"
+  },
+  {
+    "title": "마스오토-LX판토스, 미 대륙횡단 자율주행 노선 2배 확장… ＇7000㎞ 왕복＇ 구축",
+    "link": "https://www.etnews.com/20260619000176",
     "category": "해외"
   },
   {
-    "title": "인스웨이브 “AI가 만들고, 우리가 완성한다”…열쇠는 ＇AI 거버넌스＇",
-    "link": "https://www.etnews.com/20260618000425",
-    "category": "민간"
-  },
-  {
-    "title": "[ET시론] 기업혁신과 슈퍼이윤의 선순환, 초혁신경제로 가는 길",
-    "link": "https://www.etnews.com/20260618000121",
-    "category": "기타"
-  },
-  {
-    "title": "[김동현의 AI 시대와 한국의 선택] 〈5〉대전환기의 독점 규제와 중국의 공세, 한국 AI의 자립적 노선",
-    "link": "https://www.etnews.com/20260618000059",
-    "category": "기타"
-  },
-  {
-    "title": "[2026 공공 AI 박람회]〈하〉현장 공무원 중심으로 공공 AX 본격 시동",
-    "link": "https://www.etnews.com/20260618000113",
+    "title": "지식재산처, AI 활용 영업비밀 관리시스템 개발 착수…기업 기술보호 강화",
+    "link": "https://www.etnews.com/20260619000145",
     "category": "기관"
   },
   {
-    "title": "[김장현의 테크와 사람] 〈103〉AI 기업과 ＇안보＇ ＇살상＇의 윤리적 딜레마",
-    "link": "https://www.etnews.com/20260618000142",
-    "category": "기타"
-  },
-  {
-    "title": "KT, AX 솔루션 동남권으로 확산",
-    "link": "https://www.etnews.com/20260618000168",
-    "category": "민간"
-  },
-  {
-    "title": "[르포]“농사도 AI가 조언한다”…달라진 미래 농업 현장 가보니",
-    "link": "https://www.etnews.com/20260618000394",
-    "category": "민간"
-  },
-  {
-    "title": "네이버, AI 수익화 본궤도 올린다…7월 AI 브리핑 광고 출시",
-    "link": "https://www.etnews.com/20260618000242",
-    "category": "민간"
-  },
-  {
-    "title": "SK쉴더스 “AI 시대, 해킹 사후 대응이 보안 경쟁력”",
-    "link": "https://www.etnews.com/20260618000383",
-    "category": "민간"
-  },
-  {
-    "title": "넷앱-시스코, AI 도입 장벽 낮춘 통합 인프라 발표",
-    "link": "https://www.etnews.com/20260618000366",
+    "title": "오픈AI, 챗GPT 광고 노출 시작…무료·Go 요금제 대상",
+    "link": "https://www.etnews.com/20260619000138",
     "category": "해외"
   },
   {
-    "title": "＇넥스트라이즈 2026＇ 개막…글로벌 AI 총집결",
-    "link": "https://www.etnews.com/20260618000365",
+    "title": "메가존, 대만 테크맨로봇과 MOU…로봇 교육 및 기술 협력",
+    "link": "https://www.etnews.com/20260619000137",
+    "category": "해외"
+  },
+  {
+    "title": "과기정통부 주도 ＇피지컬 AI 얼라이언스＇ 2기 출범…실행형 협력체계 전환",
+    "link": "https://www.etnews.com/20260619000136",
+    "category": "기관"
+  },
+  {
+    "title": "롯데이노베이트, 그룹 AX 실행력 강화나선다…AX 적용 방향 제시",
+    "link": "https://www.etnews.com/20260619000135",
     "category": "민간"
   },
   {
-    "title": "정부, 금융 AI ＇7대 원칙＇ 22일 전격 시행…망분리 완화·AX 규율체계 구축 속도",
-    "link": "https://www.etnews.com/20260618000036",
+    "title": "KTL, 산업 ＇AI 에이전트＇ 국제표준화 과제 신규 제안",
+    "link": "https://www.etnews.com/20260619000128",
     "category": "기관"
+  },
+  {
+    "title": "[에듀플러스]“가천대, AI·컴퓨팅대학 신설…산업속도 즉각 반영하는 AI 중심 교육체계 전환”",
+    "link": "https://www.etnews.com/20260619000118",
+    "category": "기관"
+  },
+  {
+    "title": "한국 찾은 앤트로픽, AI 안전 협력 확대…미토스5 문제 해결도 속도",
+    "link": "https://www.etnews.com/20260619000069",
+    "category": "해외"
+  },
+  {
+    "title": "오케스트로, 2026 공공 AI 박람회 참가…공공 AI 운영 전략 제시",
+    "link": "https://www.etnews.com/20260619000048",
+    "category": "기관"
+  },
+  {
+    "title": "LG CNS, 두산과 맞손…AI·로봇·데이터센터 전방위 협력",
+    "link": "https://www.etnews.com/20260619000027",
+    "category": "민간"
+  },
+  {
+    "title": "네이버·카카오 ＇가짜뉴스＇ 삭제 기준 나왔다…KISO 가이드라인 확정",
+    "link": "https://www.etnews.com/20260619000042",
+    "category": "민간"
+  },
+  {
+    "title": "특허심판원, IP5 특허심판원장회의 참석…AI 활용·미국 특허무효심판 제도 개선 의견 전달",
+    "link": "https://www.etnews.com/20260619000020",
+    "category": "기관"
+  },
+  {
+    "title": "아마존, AI칩 ＇트레이니엄＇ 외부 판매 추진…“엔비디아에 도전장”",
+    "link": "https://www.etnews.com/20260619000005",
+    "category": "해외"
+  },
+  {
+    "title": "천안시, 아산과 초광역 협력…6109억 규모 ＇AI 특화 시범도시＇ 사업 유치 확정",
+    "link": "https://www.etnews.com/20260619000003",
+    "category": "기관"
+  },
+  {
+    "title": "차이충신 회장, 〃AI 글로벌 시장 규모, 50조 달러〃…알리바바, 인공지능 전 스택에 530억 달러 베팅",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40591",
+    "category": "해외"
+  },
+  {
+    "title": "서울 AI 허브, 시민참여형 AI 해커톤 개최...시민이 AI로 도시문제 해결하는 혁신의 장",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40589",
+    "category": "기관"
+  },
+  {
+    "title": "코오롱베니트, SAS 협업으로 실시간 AI 분석 플랫폼 국내 기업 수요 공략",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40587",
+    "category": "민간"
+  },
+  {
+    "title": "AI로 롯데그룹 혁신 가속… 롯데이노베이트 AX 역할 확대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40586",
+    "category": "민간"
+  },
+  {
+    "title": "딥브레인AI, TV조선 AI 리포터 ‘아이온’ 선봬…AI 휴먼 기반 미디어 혁신 이끈다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40585",
+    "category": "민간"
+  },
+  {
+    "title": "슈퍼브에이아이, CVPR 2026 글로벌 비전 AI 챌린지 우승…“한국 기업 최초 세계 정상에”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40584",
+    "category": "민간"
+  },
+  {
+    "title": "KAIST 명현교수팀, 세계 최고 권위 로보틱스·컴퓨터비전 국제챌린지 나란히 우승",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40582",
+    "category": "기관"
+  },
+  {
+    "title": "AI 환각 줄이고 정확도 78% 높였다...KAIST, 차세대 데이터베이스 기술 개발",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40581",
+    "category": "기관"
+  },
+  {
+    "title": "오픈AI, 스스로 가설 세우고 실험·검증하는 ＇AI 화학자＇ 프로젝트 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211903",
+    "category": "해외"
+  },
+  {
+    "title": "앤트로픽, 클로드 코드에 ‘아티팩트’ 도입…〃실시간 공유로 협업 강화〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211911",
+    "category": "해외"
+  },
+  {
+    "title": "[게시판] 베스핀글로벌, 구글 시큐리티 오퍼레이션스 ＇MSSP＇ 선정 등 단신",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211924",
+    "category": "민간"
+  },
+  {
+    "title": "중국, ‘AI+소비’ 지침 발표...휴머노이드·스마트가전 집중 육성",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211916",
+    "category": "해외"
+  },
+  {
+    "title": "미 의회, 트럼프 정부의 ＇앤트로픽 AI 수출 금지＇ 근거 요구",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211914",
+    "category": "해외"
+  },
+  {
+    "title": "피지컬 AI 얼라이언스, ‘실행’ 중심 2기 체계 본격 가동",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211920",
+    "category": "기관"
+  },
+  {
+    "title": "오픈AI, ＇트랜스포머＇ 노암 샤지어 영입...트럼프 AI 고문도 합류",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211891",
+    "category": "해외"
   }
 ]
