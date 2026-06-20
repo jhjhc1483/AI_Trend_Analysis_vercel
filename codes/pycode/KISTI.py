@@ -9,21 +9,15 @@ from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
 import itertools
 
-# 환경 변수에서 API 키 불러오기 (로테이션 지원) - KISTI가 bot을 차단하므로 ScraperAPI 사용
-API_KEYS = [
-    os.environ.get('SCRAPER_API_KEY'),
-    os.environ.get('SCRAPER_API_KEY_2')
-]
-# None이 아닌 키만 필터링
-SCRAPER_KEYS = [k for k in API_KEYS if k]
+# 환경 변수에서 API 키 불러오기 - KISTI가 bot을 차단하므로 ScraperAPI 사용
+SCRAPER_API_KEY = os.environ.get('SCRAPER_API_KEY')
 
 # ScraperAPI가 없는 경우에는 직접 접속을 시도
-USE_SCRAPER = bool(SCRAPER_KEYS)
+USE_SCRAPER = bool(SCRAPER_API_KEY)
 
 if USE_SCRAPER:
-    key_cycle = itertools.cycle(SCRAPER_KEYS)
     SCRAPER_URL = 'http://api.scraperapi.com'
-    print(f"ScraperAPI 사용 (키 {len(SCRAPER_KEYS)}개)")
+    print("ScraperAPI 사용")
 else:
     print("경고: ScraperAPI 키가 없어 직접 접속을 시도합니다. KISTI 서버가 차단할 수 있습니다.")
 
@@ -66,7 +60,7 @@ for i in range(len(url)):
         if USE_SCRAPER:
             # ScraperAPI를 통한 접속 (KISTI가 직접 접속 차단)
             payload = {
-                'api_key': next(key_cycle),
+                'api_key': SCRAPER_API_KEY,
                 'url': url[i],
                 'country_code': 'kr',
                 'render': 'true'  # JavaScript 렌더링 활성화 (KISTI는 JS 기반 렌더링)
