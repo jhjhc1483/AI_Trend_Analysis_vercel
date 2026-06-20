@@ -1,136 +1,25 @@
-📢26.06.20 AI 일일 동향📢
+📢26.06.21 AI 일일 동향📢
 
 📰 오늘의 기사
 [민간]
-◾ 잡코리아, 상상력으로 경쟁하는 AI 경진대회 연다
-https://www.etnews.com/20260619000302
+◾ “파도로 전기 만든다”…바다 위 AI 데이터센터 등장
+https://www.etnews.com/20260619000282
 
-◾ 이춘식 씨에스리 대표 “AI 플랫폼 ＇빅재미＇ 앞세워 공공 넘어 금융·제조로 영토 확장”
-https://www.etnews.com/20260619000083
+◾ 포시에스, 전자문서 업계 최초 완성형 AI에이전트 플랫폼 공개
+https://www.etnews.com/20260620000033
 
-◾ 제약바이오협회, ＇AI 신약 개발 자문위＇ 개최…실무 중심 생태계 구축
-https://www.etnews.com/20260619000286
+◾ 시흥시기업인협회, 중소 제조기업 CEO 대상 AX 세미나 개최
+https://www.etnews.com/20260620000025
 
-◾ 제논, AX 플랫폼 고도화로 앱 개발·데이터 활용 한 번에
-https://www.etnews.com/20260619000253
-
-◾ SOOP, AI 영상 비서 업데이트…대화 품질↑
-https://www.etnews.com/20260619000229
-
-◾ 지케스, AI 국제표준 ISO/IEC 42001 인증 획득
-https://www.etnews.com/20260619000184
-
-◾ 롯데이노베이트, 그룹 AX 실행력 강화나선다…AX 적용 방향 제시
-https://www.etnews.com/20260619000135
-
-◾ LG CNS, 두산과 맞손…AI·로봇·데이터센터 전방위 협력
-https://www.etnews.com/20260619000027
-
-◾ 네이버·카카오 ＇가짜뉴스＇ 삭제 기준 나왔다…KISO 가이드라인 확정
-https://www.etnews.com/20260619000042
-
-◾ 코오롱베니트, SAS 협업으로 실시간 AI 분석 플랫폼 국내 기업 수요 공략
-https://www.aitimes.kr/news/articleView.html?idxno=40587
-
-◾ AI로 롯데그룹 혁신 가속… 롯데이노베이트 AX 역할 확대
-https://www.aitimes.kr/news/articleView.html?idxno=40586
-
-◾ 딥브레인AI, TV조선 AI 리포터 ‘아이온’ 선봬…AI 휴먼 기반 미디어 혁신 이끈다
-https://www.aitimes.kr/news/articleView.html?idxno=40585
-
-◾ 슈퍼브에이아이, CVPR 2026 글로벌 비전 AI 챌린지 우승…“한국 기업 최초 세계 정상에”
-https://www.aitimes.kr/news/articleView.html?idxno=40584
-
-◾ [게시판] 베스핀글로벌, 구글 시큐리티 오퍼레이션스 ＇MSSP＇ 선정 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=211924
+◾ AI 전문기업 비솔-KH정보교육원, K-디지털 트레이닝 기반 ‘AI 캠퍼스’ 인재양성
+https://www.aitimes.kr/news/articleView.html?idxno=40594
 
 [기관]
-◾ 박수현 충남도지사 당선인, ＇AI 관련 조직 개편 시사＇…AX는 ＇産·企·人＇ 균형 바탕
-https://www.etnews.com/20260619000259
+◾ 인공지능과 융합, 농업혁신의 날개를 달다...농진청, ‘2026 농업기술박람회’ 개최
+https://www.aitimes.kr/news/articleView.html?idxno=40597
 
-◾ [알림]트렌드를 한 눈에…＇공공 AI-SaaS 혁신전략 컨퍼런스＇ 개최
-https://www.etnews.com/20260619000248
-
-◾ 정부, AI 상용화 프로젝트 229개 선정…7540억원 투입
-https://www.etnews.com/20260619000207
-
-◾ 지식재산처, AI 활용 영업비밀 관리시스템 개발 착수…기업 기술보호 강화
-https://www.etnews.com/20260619000145
-
-◾ 과기정통부 주도 ＇피지컬 AI 얼라이언스＇ 2기 출범…실행형 협력체계 전환
-https://www.etnews.com/20260619000136
-
-◾ KTL, 산업 ＇AI 에이전트＇ 국제표준화 과제 신규 제안
-https://www.etnews.com/20260619000128
-
-◾ [에듀플러스]“가천대, AI·컴퓨팅대학 신설…산업속도 즉각 반영하는 AI 중심 교육체계 전환”
-https://www.etnews.com/20260619000118
-
-◾ 오케스트로, 2026 공공 AI 박람회 참가…공공 AI 운영 전략 제시
-https://www.etnews.com/20260619000048
-
-◾ 특허심판원, IP5 특허심판원장회의 참석…AI 활용·미국 특허무효심판 제도 개선 의견 전달
-https://www.etnews.com/20260619000020
-
-◾ 천안시, 아산과 초광역 협력…6109억 규모 ＇AI 특화 시범도시＇ 사업 유치 확정
-https://www.etnews.com/20260619000003
-
-◾ 서울 AI 허브, 시민참여형 AI 해커톤 개최...시민이 AI로 도시문제 해결하는 혁신의 장
-https://www.aitimes.kr/news/articleView.html?idxno=40589
-
-◾ KAIST 명현교수팀, 세계 최고 권위 로보틱스·컴퓨터비전 국제챌린지 나란히 우승
-https://www.aitimes.kr/news/articleView.html?idxno=40582
-
-◾ AI 환각 줄이고 정확도 78% 높였다...KAIST, 차세대 데이터베이스 기술 개발
-https://www.aitimes.kr/news/articleView.html?idxno=40581
-
-◾ 피지컬 AI 얼라이언스, ‘실행’ 중심 2기 체계 본격 가동
-https://www.aitimes.com/news/articleView.html?idxno=211920
-
-[해외]
-◾ 마스오토-LX판토스, 미 대륙횡단 자율주행 노선 2배 확장… ＇7000㎞ 왕복＇ 구축
-https://www.etnews.com/20260619000176
-
-◾ 오픈AI, 챗GPT 광고 노출 시작…무료·Go 요금제 대상
-https://www.etnews.com/20260619000138
-
-◾ 메가존, 대만 테크맨로봇과 MOU…로봇 교육 및 기술 협력
-https://www.etnews.com/20260619000137
-
-◾ 한국 찾은 앤트로픽, AI 안전 협력 확대…미토스5 문제 해결도 속도
-https://www.etnews.com/20260619000069
-
-◾ 아마존, AI칩 ＇트레이니엄＇ 외부 판매 추진…“엔비디아에 도전장”
-https://www.etnews.com/20260619000005
-
-◾ 차이충신 회장, 〃AI 글로벌 시장 규모, 50조 달러〃…알리바바, 인공지능 전 스택에 530억 달러 베팅
-https://www.aitimes.kr/news/articleView.html?idxno=40591
-
-◾ 오픈AI, 스스로 가설 세우고 실험·검증하는 ＇AI 화학자＇ 프로젝트 공개
-https://www.aitimes.com/news/articleView.html?idxno=211903
-
-◾ 앤트로픽, 클로드 코드에 ‘아티팩트’ 도입…〃실시간 공유로 협업 강화〃
-https://www.aitimes.com/news/articleView.html?idxno=211911
-
-◾ 중국, ‘AI+소비’ 지침 발표...휴머노이드·스마트가전 집중 육성
-https://www.aitimes.com/news/articleView.html?idxno=211916
-
-◾ 미 의회, 트럼프 정부의 ＇앤트로픽 AI 수출 금지＇ 근거 요구
-https://www.aitimes.com/news/articleView.html?idxno=211914
-
-◾ 오픈AI, ＇트랜스포머＇ 노암 샤지어 영입...트럼프 AI 고문도 합류
-https://www.aitimes.com/news/articleView.html?idxno=211891
-
-[기타]
-◾ [기고] AI 데이터 증강, 국방을 위한다면 전장 설계가 우선이다
-https://www.etnews.com/20260619000054
-
-📚 간행물
-◾ [26-14] EU 집행위원회 「클라우드 및 AI 개발법」(안) 채택 (’26.6.3)
-https://www.kisa.or.kr/20201/form?postSeq=283&page=1
-
-◾ 글로벌 블록체인 기술·정책·산업 동향분석(2026년 6월 2주차)
-https://www.kisa.or.kr/20202/form?postSeq=479&page=1
+◾ 전남대-마틸로AI, AI로 신약 후보물질 설계 혁신…〃스캐폴드 구조 반영한 생성형 AI 모델 개발〃
+https://www.aitimes.kr/news/articleView.html?idxno=40595
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
