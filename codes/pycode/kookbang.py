@@ -4,28 +4,18 @@ import pandas as pd
 import os
 import json
 
-import itertools
+# 환경 변수에서 API 키 불러오기
+SCRAPER_API_KEY = os.environ.get('SCRAPER_API_KEY')
 
-# 환경 변수에서 API 키 불러오기 (로테이션 지원)
-API_KEYS = [
-    os.environ.get('SCRAPER_API_KEY'),
-    os.environ.get('SCRAPER_API_KEY_2')
-]
-# None이 아닌 키만 필터링
-SCRAPER_KEYS = [k for k in API_KEYS if k]
-
-if not SCRAPER_KEYS:
+if not SCRAPER_API_KEY:
     raise ValueError("GitHub Secrets 또는 .env에 SCRAPER_API_KEY가 설정되지 않았습니다.")
-
-# API 키 순환을 위한 이터레이터 생성
-key_cycle = itertools.cycle(SCRAPER_KEYS)
 
 SCRAPER_URL = 'http://api.scraperapi.com'
 target_url = "https://kookbang.dema.mil.kr/newsWeb/allToday.do"
 
 # 2. ScraperAPI 파라미터 설정 (한국 IP 우회)
 payload = {
-    'api_key': next(key_cycle),
+    'api_key': SCRAPER_API_KEY,
     'url': target_url,
     'country_code': 'kr' 
 }
