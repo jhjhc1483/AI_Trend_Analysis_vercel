@@ -11783,6 +11783,16 @@
           "title": "피지컬AI 기반 유·무인복합체계 속도감 있게 추진",
           "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTU1NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
           "category": "국방"
+        },
+        {
+          "title": "“디지털대전환을 함정·무기체계 성능 향상 계기로”",
+          "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNTU2MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "민·군 ‘상용위성 활용 MDA 발전’ 손잡았다",
+          "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNTU2MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
         }
       ],
       "기관": [
@@ -11792,18 +11802,8 @@
           "category": "기관"
         },
         {
-          "title": "광주디자인진흥원, AI 융합 디자인·아이디어 발굴 지원…모빌리티·헬스케어 분야",
-          "link": "https://www.etnews.com/20260621000106",
-          "category": "기관"
-        },
-        {
           "title": "시흥시, 서울대 AI·로봇 연구시설서 제조·바이오 협력 접점 모색",
           "link": "https://www.etnews.com/20260621000095",
-          "category": "기관"
-        },
-        {
-          "title": "경기도 4차산업혁명센터, 유럽 AI 거점과 딥테크 진출 협력 본격화",
-          "link": "https://www.etnews.com/20260621000087",
           "category": "기관"
         },
         {
@@ -11812,8 +11812,8 @@
           "category": "기관"
         },
         {
-          "title": "KERI, SiC 전력반도체 망치는 ＇킬러 결함＇ 발생 원리 최초 규명",
-          "link": "https://www.etnews.com/20260621000064",
+          "title": "코트라, 북미 AI 전력망 정조준… 수출 로드쇼 개최",
+          "link": "https://www.etnews.com/20260621000063",
           "category": "기관"
         },
         {
@@ -11822,13 +11822,13 @@
           "category": "기관"
         },
         {
-          "title": "중기중앙회, LG CNS·메가존과 손잡고 중소제조업 AX 지원…최대 18억원 지원",
-          "link": "https://www.etnews.com/20260621000013",
+          "title": "피지컬 AI ＇세계 1강＇ 이끌 얼라이언스 탄생…풀스택 기술·국제표준 선도",
+          "link": "https://www.etnews.com/20260619000256",
           "category": "기관"
         },
         {
-          "title": "코트라, 日 건설기계 ＇AX·GX＇ 틈새 공략… K-부품사 진출 돕는다",
-          "link": "https://www.etnews.com/20260621000062",
+          "title": "중기중앙회, LG CNS·메가존과 손잡고 중소제조업 AX 지원…최대 18억원 지원",
+          "link": "https://www.etnews.com/20260621000013",
           "category": "기관"
         },
         {
@@ -11855,17 +11855,17 @@
           "title": "“사람 손길 잘 알아채고 감정 표현은 자연스럽게〃 ... UNIST 이희승 교수팀, 소셜 로봇 교감 기술 개발",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40598",
           "category": "기관"
+        },
+        {
+          "title": "〃기억할 건 기억하고 잊을 건 잊는다〃…뇌 닮은 초저전력 AI 소자 개발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211951",
+          "category": "기관"
         }
       ],
       "민간": [
         {
           "title": "LG그룹 주요 경영진, 美 엔비디아행…AI 협력 후속 논의",
           "link": "https://www.etnews.com/20260621000108",
-          "category": "민간"
-        },
-        {
-          "title": "비욘드허니컴, 산업용보다 20배 싼 액추에이터 내년 양산",
-          "link": "https://www.etnews.com/20260619000144",
           "category": "민간"
         },
         {
@@ -11879,18 +11879,13 @@
           "category": "민간"
         },
         {
-          "title": "LG전자 클로이드, 집보다 공장 먼저 간다",
-          "link": "https://www.etnews.com/20260619000174",
-          "category": "민간"
-        },
-        {
           "title": "네이버, 웨일 브라우저에 AI탭 업데이트…AI 브라우저 기능 본격 접목",
           "link": "https://www.etnews.com/20260619000239",
           "category": "민간"
         },
         {
-          "title": "피지컬 AI ＇세계 1강＇ 이끌 얼라이언스 탄생…풀스택 기술·국제표준 선도",
-          "link": "https://www.etnews.com/20260619000256",
+          "title": "기자들이 직접 만든 AI 뉴스 에이전트…전자신문 ＇ETA＇ 운영 시작",
+          "link": "https://www.etnews.com/20260619000241",
           "category": "민간"
         },
         {
@@ -11899,23 +11894,28 @@
           "category": "민간"
         },
         {
-          "title": "SKT-코리아IT아카데미, AI보안·네트워크 실무 인재 양성",
-          "link": "https://www.etnews.com/20260621000050",
-          "category": "민간"
-        },
-        {
-          "title": "삼성전자, 佛 ＇비바테크＇서 헬스 비전 토론…협업 생태계 강조",
-          "link": "https://www.etnews.com/20260621000026",
-          "category": "민간"
-        },
-        {
           "title": "퇴직연금 500조 시대…AI가 고객자산 굴린다",
           "link": "https://www.etnews.com/20260619000119",
           "category": "민간"
         },
         {
+          "title": "삼성전자, ＇커넥티드 케어＇ 헬스 비전 토론… 개방된 협업 생태계 강조",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40605",
+          "category": "민간"
+        },
+        {
+          "title": "SKT-코리아IT아카데미, 국비 지원 실무형 AX 교육 과정 ‘ALEPH(알레프)’ 교육생 모집",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40604",
+          "category": "민간"
+        },
+        {
           "title": "LG CNS, 두산과 손잡고 AI·로봇·데이터센터 협력 나선다",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40600",
+          "category": "민간"
+        },
+        {
+          "title": "＇최초·최다 AI 더빙＇ 허드슨에이아이 “에이전틱 더빙 시대 열 것”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211946",
           "category": "민간"
         }
       ],
@@ -11931,8 +11931,8 @@
           "category": "기타"
         },
         {
-          "title": "[에듀플러스][제12회 ASTO]수상보다 사고력”…초·중학생 3259명 몰린 AI·SW 올림피아드",
-          "link": "https://www.etnews.com/20260620000036",
+          "title": "〃RAG도 미세조정도 한계〃... 실시간 모델 만드는 ＇하이퍼네트워크＇ 뜬다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211947",
           "category": "기타"
         }
       ],
@@ -11953,6 +11953,11 @@
           "category": "해외"
         },
         {
+          "title": "미니맥스, 초장문 컨텍스트 해결한 ＇MSA＇ 공개…추론 속도 14배↑·연산량 28배↓",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=211948",
+          "category": "해외"
+        },
+        {
           "title": "구글, ＇제미나이＇ 탑재한 AI 스피커 5년 만에 출시…한국은 미정",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=211950",
           "category": "해외"
@@ -11970,7 +11975,6 @@
           "category": "육군"
         }
       ]
-    },
-    "briefing": "- 피지컬 AI 기술을 바탕으로 한 유·무인 복합전투체계(MUM-T) 구축이 속도감 있게 추진되고 있습니다.\n- 파블로항공 의장은 군집 AI 기반의 자율 무인체계로 항공 및 방산 시장을 혁신하겠다는 비전을 제시했습니다.\n- 육군이 프랑스 파리에서 미래 전장 환경 변화에 대비한 군사혁신과 국제적 협력 강화를 위해 앞장섰습니다."
+    }
   }
 }

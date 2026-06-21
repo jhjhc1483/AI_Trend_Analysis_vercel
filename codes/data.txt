@@ -11,6 +11,12 @@ https://www.etnews.com/20260619000157
 ◾ 피지컬AI 기반 유·무인복합체계 속도감 있게 추진
 https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTU1NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
+◾ “디지털대전환을 함정·무기체계 성능 향상 계기로”
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNTU2MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 민·군 ‘상용위성 활용 MDA 발전’ 손잡았다
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNTU2MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
 [육군]
 ◾ 육군, 파리서 미래 전장 대비 군사혁신 협력 앞장
 https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTU1MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
@@ -19,66 +25,57 @@ https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTM
 ◾ LG그룹 주요 경영진, 美 엔비디아행…AI 협력 후속 논의
 https://www.etnews.com/20260621000108
 
-◾ 비욘드허니컴, 산업용보다 20배 싼 액추에이터 내년 양산
-https://www.etnews.com/20260619000144
-
 ◾ 네이버 D2SF, 누적 신규 투자 124건…AI·로봇 발굴 속도
 https://www.etnews.com/20260619000198
 
 ◾ SK텔레콤, 16년된 LTE망 현대화 프로젝트 가동…AI 자율운용 기반 확보
 https://www.etnews.com/20260621000074
 
-◾ LG전자 클로이드, 집보다 공장 먼저 간다
-https://www.etnews.com/20260619000174
-
 ◾ 네이버, 웨일 브라우저에 AI탭 업데이트…AI 브라우저 기능 본격 접목
 https://www.etnews.com/20260619000239
 
-◾ 피지컬 AI ＇세계 1강＇ 이끌 얼라이언스 탄생…풀스택 기술·국제표준 선도
-https://www.etnews.com/20260619000256
+◾ 기자들이 직접 만든 AI 뉴스 에이전트…전자신문 ＇ETA＇ 운영 시작
+https://www.etnews.com/20260619000241
 
 ◾ SKT, 업무 AX 혁신으로 조직 문화 재설계
 https://www.etnews.com/20260621000058
 
-◾ SKT-코리아IT아카데미, AI보안·네트워크 실무 인재 양성
-https://www.etnews.com/20260621000050
-
-◾ 삼성전자, 佛 ＇비바테크＇서 헬스 비전 토론…협업 생태계 강조
-https://www.etnews.com/20260621000026
-
 ◾ 퇴직연금 500조 시대…AI가 고객자산 굴린다
 https://www.etnews.com/20260619000119
 
+◾ 삼성전자, ＇커넥티드 케어＇ 헬스 비전 토론… 개방된 협업 생태계 강조
+https://www.aitimes.kr/news/articleView.html?idxno=40605
+
+◾ SKT-코리아IT아카데미, 국비 지원 실무형 AX 교육 과정 ‘ALEPH(알레프)’ 교육생 모집
+https://www.aitimes.kr/news/articleView.html?idxno=40604
+
 ◾ LG CNS, 두산과 손잡고 AI·로봇·데이터센터 협력 나선다
 https://www.aitimes.kr/news/articleView.html?idxno=40600
+
+◾ ＇최초·최다 AI 더빙＇ 허드슨에이아이 “에이전틱 더빙 시대 열 것”
+https://www.aitimes.com/news/articleView.html?idxno=211946
 
 [기관]
 ◾ 안양시, 피지컬 AI 산업 생태계 조성 2차 회의서 전략 논의 본격
 https://www.etnews.com/20260621000117
 
-◾ 광주디자인진흥원, AI 융합 디자인·아이디어 발굴 지원…모빌리티·헬스케어 분야
-https://www.etnews.com/20260621000106
-
 ◾ 시흥시, 서울대 AI·로봇 연구시설서 제조·바이오 협력 접점 모색
 https://www.etnews.com/20260621000095
-
-◾ 경기도 4차산업혁명센터, 유럽 AI 거점과 딥테크 진출 협력 본격화
-https://www.etnews.com/20260621000087
 
 ◾ 국가유산청, AI 친화적 고궁·관광 융합 데이터 제공한다
 https://www.etnews.com/20260621000080
 
-◾ KERI, SiC 전력반도체 망치는 ＇킬러 결함＇ 발생 원리 최초 규명
-https://www.etnews.com/20260621000064
+◾ 코트라, 북미 AI 전력망 정조준… 수출 로드쇼 개최
+https://www.etnews.com/20260621000063
 
 ◾ 중진공, 산업특화 AI 계약학과 13개 선정…현장형 AI 인재 양성 본격화
 https://www.etnews.com/20260621000009
 
+◾ 피지컬 AI ＇세계 1강＇ 이끌 얼라이언스 탄생…풀스택 기술·국제표준 선도
+https://www.etnews.com/20260619000256
+
 ◾ 중기중앙회, LG CNS·메가존과 손잡고 중소제조업 AX 지원…최대 18억원 지원
 https://www.etnews.com/20260621000013
-
-◾ 코트라, 日 건설기계 ＇AX·GX＇ 틈새 공략… K-부품사 진출 돕는다
-https://www.etnews.com/20260621000062
 
 ◾ 민원 답변 쓰고 평가자료 분석…공공기관 생성형AI 활용 고도화
 https://www.etnews.com/20260621000007
@@ -95,6 +92,9 @@ https://www.aitimes.kr/news/articleView.html?idxno=40602
 ◾ “사람 손길 잘 알아채고 감정 표현은 자연스럽게〃 ... UNIST 이희승 교수팀, 소셜 로봇 교감 기술 개발
 https://www.aitimes.kr/news/articleView.html?idxno=40598
 
+◾ 〃기억할 건 기억하고 잊을 건 잊는다〃…뇌 닮은 초저전력 AI 소자 개발
+https://www.aitimes.com/news/articleView.html?idxno=211951
+
 [해외]
 ◾ AMD-망고부스트 연합, 韓·日·아태 AI 인프라 전방위 공세
 https://www.etnews.com/20260619000147
@@ -104,6 +104,9 @@ https://www.etnews.com/20260619000108
 
 ◾ 세계 최초 완전 오픈소스 의료 LLM ＇메디트론FO＇ 공개…EPFL, 학습 데이터부터 코드·평가 방식까지
 https://www.aitimes.kr/news/articleView.html?idxno=40603
+
+◾ 미니맥스, 초장문 컨텍스트 해결한 ＇MSA＇ 공개…추론 속도 14배↑·연산량 28배↓
+https://www.aitimes.com/news/articleView.html?idxno=211948
 
 ◾ 구글, ＇제미나이＇ 탑재한 AI 스피커 5년 만에 출시…한국은 미정
 https://www.aitimes.com/news/articleView.html?idxno=211950
@@ -118,8 +121,8 @@ https://www.etnews.com/20260619000076
 ◾ [에듀플러스]〈칼럼〉학교에는 ＇공교육 특화AI＇가 필요하다
 https://www.etnews.com/20260619000038
 
-◾ [에듀플러스][제12회 ASTO]수상보다 사고력”…초·중학생 3259명 몰린 AI·SW 올림피아드
-https://www.etnews.com/20260620000036
+◾ 〃RAG도 미세조정도 한계〃... 실시간 모델 만드는 ＇하이퍼네트워크＇ 뜬다
+https://www.aitimes.com/news/articleView.html?idxno=211947
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
