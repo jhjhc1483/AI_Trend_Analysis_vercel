@@ -69,9 +69,9 @@ async def main():
         print(f">>> 생성된 대본:\n{script[:100]}...")
 
         # 5. Edge-TTS 생성
-        print(">>> Edge-TTS(ko-KR-SunHiNeural)로 변환 시작...")
+        print(">>> Edge-TTS(ko-KR-InJoonNeural)로 변환 시작...")
         
-        voice = "ko-KR-SunHiNeural"
+        voice = "ko-KR-InJoonNeural"
         output_file = "public/audio.mp3"
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         
