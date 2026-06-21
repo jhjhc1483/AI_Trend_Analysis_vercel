@@ -15,16 +15,6 @@
     "category": "민간"
   },
   {
-    "title": "광주디자인진흥원, AI 융합 디자인·아이디어 발굴 지원…모빌리티·헬스케어 분야",
-    "link": "https://www.etnews.com/20260621000106",
-    "category": "기관"
-  },
-  {
-    "title": "비욘드허니컴, 산업용보다 20배 싼 액추에이터 내년 양산",
-    "link": "https://www.etnews.com/20260619000144",
-    "category": "민간"
-  },
-  {
     "title": "네이버 D2SF, 누적 신규 투자 124건…AI·로봇 발굴 속도",
     "link": "https://www.etnews.com/20260619000198",
     "category": "민간"
@@ -50,23 +40,13 @@
     "category": "국방"
   },
   {
-    "title": "LG전자 클로이드, 집보다 공장 먼저 간다",
-    "link": "https://www.etnews.com/20260619000174",
-    "category": "민간"
-  },
-  {
-    "title": "경기도 4차산업혁명센터, 유럽 AI 거점과 딥테크 진출 협력 본격화",
-    "link": "https://www.etnews.com/20260621000087",
-    "category": "기관"
-  },
-  {
     "title": "국가유산청, AI 친화적 고궁·관광 융합 데이터 제공한다",
     "link": "https://www.etnews.com/20260621000080",
     "category": "기관"
   },
   {
-    "title": "KERI, SiC 전력반도체 망치는 ＇킬러 결함＇ 발생 원리 최초 규명",
-    "link": "https://www.etnews.com/20260621000064",
+    "title": "코트라, 북미 AI 전력망 정조준… 수출 로드쇼 개최",
+    "link": "https://www.etnews.com/20260621000063",
     "category": "기관"
   },
   {
@@ -77,6 +57,11 @@
   {
     "title": "네이버, 웨일 브라우저에 AI탭 업데이트…AI 브라우저 기능 본격 접목",
     "link": "https://www.etnews.com/20260619000239",
+    "category": "민간"
+  },
+  {
+    "title": "기자들이 직접 만든 AI 뉴스 에이전트…전자신문 ＇ETA＇ 운영 시작",
+    "link": "https://www.etnews.com/20260619000241",
     "category": "민간"
   },
   {
@@ -92,21 +77,11 @@
   {
     "title": "피지컬 AI ＇세계 1강＇ 이끌 얼라이언스 탄생…풀스택 기술·국제표준 선도",
     "link": "https://www.etnews.com/20260619000256",
-    "category": "민간"
-  },
-  {
-    "title": "[에듀플러스][제12회 ASTO]수상보다 사고력”…초·중학생 3259명 몰린 AI·SW 올림피아드",
-    "link": "https://www.etnews.com/20260620000036",
-    "category": "기타"
+    "category": "기관"
   },
   {
     "title": "중기중앙회, LG CNS·메가존과 손잡고 중소제조업 AX 지원…최대 18억원 지원",
     "link": "https://www.etnews.com/20260621000013",
-    "category": "기관"
-  },
-  {
-    "title": "코트라, 日 건설기계 ＇AX·GX＇ 틈새 공략… K-부품사 진출 돕는다",
-    "link": "https://www.etnews.com/20260621000062",
     "category": "기관"
   },
   {
@@ -118,16 +93,6 @@
     "title": "민원 답변 쓰고 평가자료 분석…공공기관 생성형AI 활용 고도화",
     "link": "https://www.etnews.com/20260621000007",
     "category": "기관"
-  },
-  {
-    "title": "SKT-코리아IT아카데미, AI보안·네트워크 실무 인재 양성",
-    "link": "https://www.etnews.com/20260621000050",
-    "category": "민간"
-  },
-  {
-    "title": "삼성전자, 佛 ＇비바테크＇서 헬스 비전 토론…협업 생태계 강조",
-    "link": "https://www.etnews.com/20260621000026",
-    "category": "민간"
   },
   {
     "title": "韓 AI 네트워크 표준 개발 시동...“정부 투자 확대 필요”",
@@ -147,6 +112,16 @@
   {
     "title": "퇴직연금 500조 시대…AI가 고객자산 굴린다",
     "link": "https://www.etnews.com/20260619000119",
+    "category": "민간"
+  },
+  {
+    "title": "삼성전자, ＇커넥티드 케어＇ 헬스 비전 토론… 개방된 협업 생태계 강조",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40605",
+    "category": "민간"
+  },
+  {
+    "title": "SKT-코리아IT아카데미, 국비 지원 실무형 AX 교육 과정 ‘ALEPH(알레프)’ 교육생 모집",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40604",
     "category": "민간"
   },
   {
@@ -178,6 +153,36 @@
     "title": "육군, 파리서 미래 전장 대비 군사혁신 협력 앞장",
     "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNTU1MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "육군"
+  },
+  {
+    "title": "“디지털대전환을 함정·무기체계 성능 향상 계기로”",
+    "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNTU2MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "민·군 ‘상용위성 활용 MDA 발전’ 손잡았다",
+    "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNTU2MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "＇최초·최다 AI 더빙＇ 허드슨에이아이 “에이전틱 더빙 시대 열 것”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211946",
+    "category": "민간"
+  },
+  {
+    "title": "미니맥스, 초장문 컨텍스트 해결한 ＇MSA＇ 공개…추론 속도 14배↑·연산량 28배↓",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211948",
+    "category": "해외"
+  },
+  {
+    "title": "〃RAG도 미세조정도 한계〃... 실시간 모델 만드는 ＇하이퍼네트워크＇ 뜬다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211947",
+    "category": "기타"
+  },
+  {
+    "title": "〃기억할 건 기억하고 잊을 건 잊는다〃…뇌 닮은 초저전력 AI 소자 개발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=211951",
+    "category": "기관"
   },
   {
     "title": "구글, ＇제미나이＇ 탑재한 AI 스피커 5년 만에 출시…한국은 미정",
