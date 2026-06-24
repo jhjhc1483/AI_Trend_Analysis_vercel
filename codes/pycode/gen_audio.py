@@ -52,7 +52,7 @@ async def main():
         {text_without_urls}
         """
 
-        max_retries = 3
+        max_retries = 5
         for attempt in range(max_retries):
             try:
                 response = client.models.generate_content(
@@ -64,8 +64,8 @@ async def main():
             except Exception as e:
                 error_msg = str(e)
                 if ("429" in error_msg or "503" in error_msg) and attempt < max_retries - 1:
-                    print(f"API Error (429/503). 30초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
-                    await asyncio.sleep(30)
+                    print(f"API Error (429/503). 60초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
+                    await asyncio.sleep(60)
                 else:
                     raise e
         
@@ -125,8 +125,8 @@ async def main():
             except Exception as e:
                 error_msg = str(e)
                 if ("429" in error_msg or "503" in error_msg) and attempt < max_retries - 1:
-                    print(f"API Error (429/503). 30초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
-                    await asyncio.sleep(30)
+                    print(f"API Error (429/503). 60초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
+                    await asyncio.sleep(60)
                 else:
                     raise e
         
