@@ -62,8 +62,9 @@ async def main():
                 script = response.text
                 break
             except Exception as e:
-                if "429" in str(e) and attempt < max_retries - 1:
-                    print(f"API Rate Limit(429). 30초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
+                error_msg = str(e)
+                if ("429" in error_msg or "503" in error_msg) and attempt < max_retries - 1:
+                    print(f"API Error (429/503). 30초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
                     await asyncio.sleep(30)
                 else:
                     raise e
@@ -122,8 +123,9 @@ async def main():
                 briefing_text = briefing_response.text.strip()
                 break
             except Exception as e:
-                if "429" in str(e) and attempt < max_retries - 1:
-                    print(f"API Rate Limit(429). 30초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
+                error_msg = str(e)
+                if ("429" in error_msg or "503" in error_msg) and attempt < max_retries - 1:
+                    print(f"API Error (429/503). 30초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
                     await asyncio.sleep(30)
                 else:
                     raise e
