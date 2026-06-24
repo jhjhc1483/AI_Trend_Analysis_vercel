@@ -2,7 +2,8 @@ import os
 import json
 import glob
 from datetime import datetime, timedelta, timezone
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 
 
 KST = timezone(timedelta(hours=9))
@@ -63,8 +64,7 @@ def select_and_classify(items, item_type='ARTICLE'):
     if not items:
         return []
 
-    genai.configure(api_key=os.environ["GEMINI_API_KEY"])
-    model = genai.GenerativeModel('gemini-3-flash-preview')
+    client = genai.Client(api_key=os.environ["GEMINI_API_KEY"])
 
     # 프롬프트 구성
     item_text = "\n".join([f"{i}. [{item['site']}] {item['title']} ({item['link']})" for i, item in enumerate(items)])
@@ -143,7 +143,11 @@ Format:
         user_prompt = f"Please select important items from the following publication list:\n\n{item_text}"
 
     try:
-        response = model.generate_content(system_instruction + "\n\n" + user_prompt, generation_config={"response_mime_type": "application/json"})
+        response = client.models.generate_content(
+            model='gemini-3-flash-preview',
+            contents=system_instruction + "\n\n" + user_prompt,
+            config=types.GenerateContentConfig(response_mime_type="application/json")
+        )
         text = response.text.replace("```json", "").replace("```", "").strip()
         selected_indices = json.loads(text)
         

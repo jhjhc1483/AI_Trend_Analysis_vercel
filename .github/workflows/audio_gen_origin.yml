@@ -18,7 +18,7 @@ jobs:
 
     - name: 필요 라이브러리 설치
       run: |
-        pip install google-generativeai edge-tts asyncio
+        pip install google-genai edge-tts asyncio
 
     - name: 오디오 생성 스크립트 실행
       env:
