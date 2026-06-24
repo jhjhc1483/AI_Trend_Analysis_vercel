@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import time
 from datetime import datetime, timedelta, timezone
 import google.generativeai as genai
 
@@ -166,7 +167,7 @@ Format:
 ]
 """
 
-    batch_size = 50
+    batch_size = 100
     all_results = []
     
     for i in range(0, len(items), batch_size):
@@ -201,6 +202,11 @@ Format:
                     })
         except Exception as e:
             print(f"Error during LLM processing ({item_type}, batch {i//batch_size}): {e}")
+
+        # 다음 배치가 남아있다면 API 한도 초과 방지를 위해 15초 대기
+        if i + batch_size < len(items):
+            print(f"Waiting 15 seconds for API rate limit before next batch...")
+            time.sleep(15)
 
     return all_results
 
