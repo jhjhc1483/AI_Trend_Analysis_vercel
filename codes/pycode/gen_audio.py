@@ -1,7 +1,8 @@
 # gen_audio.py
 import os
 import asyncio
-import google.generativeai as genai
+from google import genai
+from google.genai import types
 import edge_tts # Edge-TTS 라이브러리
 
 # 1. 환경 변수 설정
@@ -10,8 +11,7 @@ load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../.env
 GEMINI_API_KEY = os.environ.get("GEMINI_API_KEY")
 
 # 2. Gemini 설정
-genai.configure(api_key=GEMINI_API_KEY)
-model = genai.GenerativeModel("gemini-3-flash-preview")
+client = genai.Client(api_key=GEMINI_API_KEY)
 
 async def main():
     try:
@@ -55,7 +55,10 @@ async def main():
         max_retries = 3
         for attempt in range(max_retries):
             try:
-                response = model.generate_content(prompt)
+                response = client.models.generate_content(
+                    model='gemini-3-flash-preview',
+                    contents=prompt
+                )
                 script = response.text
                 break
             except Exception as e:
@@ -112,7 +115,10 @@ async def main():
 
         for attempt in range(max_retries):
             try:
-                briefing_response = model.generate_content(briefing_prompt)
+                briefing_response = client.models.generate_content(
+                    model='gemini-3-flash-preview',
+                    contents=briefing_prompt
+                )
                 briefing_text = briefing_response.text.strip()
                 break
             except Exception as e:
