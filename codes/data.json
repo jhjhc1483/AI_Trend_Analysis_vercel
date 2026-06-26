@@ -12923,5 +12923,161 @@
       ]
     },
     "briefing": "- 미 육군이 우리 육군의 차세대 전투체계인 ‘아미타이거 플러스’에 대해 높은 관심을 보였습니다.\n- 첨단 장비와 AI 기술을 중심으로 군 조직을 ‘스마트 강군’으로 탈바꿈해야 한다는 필요성이 제기되었습니다.\n- 미국 상무부가 중국산 로봇 수입 규제를 시사하며 로봇 기술을 국가 안보 경쟁의 새로운 전장으로 규정했습니다."
+  },
+  "26.06.27": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "＇스타트업도 K방산 주역＇…李대통령, ＇신안보 기업＇ 육성 청사진 밝혔다",
+          "link": "https://www.etnews.com/20260626000267",
+          "category": "국방"
+        },
+        {
+          "title": "K-팔란티어 육성을 위한‘미래 신안보 혁신기업 육성 방향’ 발표",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58777&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "국방"
+        },
+        {
+          "title": "방산기업 인공지능 경쟁력 강화를 위한 간담회 개최",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58776&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "국방"
+        },
+        {
+          "title": "국방부, ＇50만 드론 전사＇ 시대 연다…AI 군집드론·자폭무인기 대거 전력화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40704",
+          "category": "국방"
+        },
+        {
+          "title": "국방부, 드론·대드론 발전 정책 발표",
+          "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExNjUwNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        }
+      ],
+      "민간": [
+        {
+          "title": "2호 생성형 AI 의료기기 허가…딥노이드, 판독보조솔루션 상용화",
+          "link": "https://www.etnews.com/20260626000264",
+          "category": "민간"
+        },
+        {
+          "title": "KT클라우드, 카카오와 AI 세이프티 협력…“신뢰할 수 있는 AI 환경 조성”",
+          "link": "https://www.etnews.com/20260626000237",
+          "category": "민간"
+        },
+        {
+          "title": "SKC 전사적 AI 전환 가속화…전담 조직 출범",
+          "link": "https://www.etnews.com/20260626000113",
+          "category": "민간"
+        },
+        {
+          "title": "검색·지도·콘텐츠를 차 안에서…네이버, 현대차 플레오스에 서비스 지원",
+          "link": "https://www.etnews.com/20260626000110",
+          "category": "민간"
+        },
+        {
+          "title": "[바이오USA]시밀러 넘어 AI·ADC로…셀트리온, 글로벌 보폭 확대",
+          "link": "https://www.etnews.com/20260626000054",
+          "category": "민간"
+        },
+        {
+          "title": "검색창이 AI 비서로…네이버, ＇AI탭＇ 정식 출시",
+          "link": "https://www.etnews.com/20260626000022",
+          "category": "민간"
+        },
+        {
+          "title": "아이티아이즈, ‘GENAI ME’ 신약개발 AI 솔루션 공개..의료 데이터 기반 AI 사업 본격화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40698",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "KISTI, 지역 산업 AI전환 지원 확대...＇부산 AX 협의체＇ 출범",
+          "link": "https://www.etnews.com/20260626000321",
+          "category": "기관"
+        },
+        {
+          "title": "큐비트시큐리티, 한성대학교와 MOU… AI 시대 실전형 사이버보안 인재 양성",
+          "link": "https://www.etnews.com/20260626000320",
+          "category": "기관"
+        },
+        {
+          "title": "AI 3대 강국·R&D 200조 투자…제6차 과기기본계획 확정",
+          "link": "https://www.etnews.com/20260626000186",
+          "category": "기관"
+        },
+        {
+          "title": "천안시, 과기정통부 ＇AI 라운지＇ 공모 선정… ＇AI 수도＇ 기본사회 실현",
+          "link": "https://www.etnews.com/20260626000156",
+          "category": "기관"
+        },
+        {
+          "title": "카카오, ＇10대 AI 창업가＇ 키운다…4대 과기원과 맞손",
+          "link": "https://www.etnews.com/20260626000105",
+          "category": "기관"
+        },
+        {
+          "title": "대동에이아이랩, 농진청 AI와 연결…국내 첫 공공·민간 농업 AI 에이전트 협력",
+          "link": "https://www.etnews.com/20260626000036",
+          "category": "기관"
+        },
+        {
+          "title": "AI로 찾고 즉시 차단한다...정부, 딥페이크 성범죄 영상물 공동 대응",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40705",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "[테크 차이나] 딥시크, 전 부문 대규모 채용 돌입…＇에이전트 AI＇ 중심 조직 확대 가속",
+          "link": "https://www.etnews.com/20260626000257",
+          "category": "해외"
+        },
+        {
+          "title": "[테크 차이나] 화웨이 연차보고서가 보여준 中 AI 전략…AI·운용체계·자동차 ＇3축 생태계＇ 구축 가속",
+          "link": "https://www.etnews.com/20260624000303",
+          "category": "해외"
+        },
+        {
+          "title": "美 트럼프 행정부, 오픈AI에 GPT-5.6 단계적 출시 요청",
+          "link": "https://www.etnews.com/20260626000011",
+          "category": "해외"
+        },
+        {
+          "title": "BMW, 휴머노이드 로봇 ＇피겨 03＇ 생산현장 투입…피지컬 AI 기반 스마트 공장 가속화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40709",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, IPO 내년 연기 검토…＇주가 급락＇ 스페이스X 변동성에 신중론",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212167",
+          "category": "해외"
+        },
+        {
+          "title": "애플, 고성능 M6 건너뛰고 ‘온디바이스 AI 특화’ M7 칩 체제 조기 전환",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212132",
+          "category": "해외"
+        },
+        {
+          "title": "IBM, 세계 최초 ＇1나노 미만＇ AI 반도체 기술 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212143",
+          "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[박세용의 AI 인텐트] 〈2〉 AI의 ＇헛소리＇가 우리에게 꼭 필요한 이유",
+          "link": "https://www.etnews.com/20260626000193",
+          "category": "기타"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 6월 3주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=480&page=1",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
