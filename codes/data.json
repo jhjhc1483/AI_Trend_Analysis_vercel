@@ -13080,5 +13080,65 @@
       ]
     },
     "briefing": "- 국방부는 AI 군집드론과 자폭무인기를 대거 전력화하여 ‘50만 드론 전사’ 시대를 본격화하겠다는 계획을 발표했습니다.\n- 정부는 ‘K-팔란티어’ 육성을 위한 미래 신안보 혁신기업 육성 방향을 제시하고 국방 AI 스타트업 지원을 위한 청사진을 밝혔습니다.\n- 국방부는 드론 및 대드론 기술의 고도화를 위한 발전 정책을 수립하며 AI 기반의 미래 전력 대응 체계 강화를 추진하고 있습니다."
+  },
+  "26.06.28": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "오픈AI, ＇GPT-5.6＇ 일부에 공개…“국가 안보 이유로 기업 제한하면 안돼”",
+          "link": "https://www.etnews.com/20260627000047",
+          "category": "해외"
+        },
+        {
+          "title": "미국 정부, 앤트로픽 AI ＇미토스5＇ 접근권 자국 내 제한적 허용",
+          "link": "https://www.etnews.com/20260627000046",
+          "category": "해외"
+        },
+        {
+          "title": "〃AI 블랙박스, 한계 넘는다〃...EPFL 연구진, 인간 뇌처럼 사고하는 AI 모델 ＇MiCRo＇ 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40717",
+          "category": "해외"
+        },
+        {
+          "title": "온세미, 시냅틱스 인수... 차세대 피지컬 AI를 위한 교두보 확보",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40712",
+          "category": "해외"
+        },
+        {
+          "title": "애플 ＇비전 프로＇ 총괄 부사장, 오픈AI로 이직…AI 하드웨어 개발 주도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212185",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아, ＇GLM-5.2＇ 4비트 양자화 모델 공개...“정확도 유지·용량 70%↓”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212178",
+          "category": "해외"
+        },
+        {
+          "title": "중국, 휴머노이드 로봇 이어 AI 에이전트에도 ＇디지털 신분증＇ 도입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212180",
+          "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "〃AI 데이터센터, 전력 사용 시간만 바꿔도 전기요금 최대 5% 절감〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40715",
+          "category": "민간"
+        },
+        {
+          "title": "AI 메모리 폭등의 역설…마이크론·삼성·SK하이닉스 동반 하락",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212176",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212174",
+          "category": "기관"
+        }
+      ]
+    }
   }
 }
