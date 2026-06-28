@@ -1,52 +1,157 @@
 [
   {
-    "title": "오픈AI, ＇GPT-5.6＇ 일부에 공개…“국가 안보 이유로 기업 제한하면 안돼”",
-    "link": "https://www.etnews.com/20260627000047",
-    "category": "해외"
+    "title": "“첨단기술 기반 ‘미래 경계 작전 체계’ 구축하자”",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260629/10/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=l8oPNE3y-uDPR3vRd58xgrYr2GjvQlI1Gn-s-1o9HtLvZhk4KLlo!570272758",
+    "category": "국방"
   },
   {
-    "title": "미국 정부, 앤트로픽 AI ＇미토스5＇ 접근권 자국 내 제한적 허용",
-    "link": "https://www.etnews.com/20260627000046",
-    "category": "해외"
+    "title": "“기술 우위가 곧 안보 우위···신안보 기업 육성 중요”",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260629/3/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=l8oPNE3y-uDPR3vRd58xgrYr2GjvQlI1Gn-s-1o9HtLvZhk4KLlo!570272758",
+    "category": "국방"
   },
   {
-    "title": "〃AI 블랙박스, 한계 넘는다〃...EPFL 연구진, 인간 뇌처럼 사고하는 AI 모델 ＇MiCRo＇ 개발",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40717",
-    "category": "해외"
-  },
-  {
-    "title": "〃AI 데이터센터, 전력 사용 시간만 바꿔도 전기요금 최대 5% 절감〃",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40715",
-    "category": "민간"
-  },
-  {
-    "title": "온세미, 시냅틱스 인수... 차세대 피지컬 AI를 위한 교두보 확보",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40712",
-    "category": "해외"
-  },
-  {
-    "title": "애플 ＇비전 프로＇ 총괄 부사장, 오픈AI로 이직…AI 하드웨어 개발 주도",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212185",
-    "category": "해외"
-  },
-  {
-    "title": "엔비디아, ＇GLM-5.2＇ 4비트 양자화 모델 공개...“정확도 유지·용량 70%↓”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212178",
-    "category": "해외"
-  },
-  {
-    "title": "중국, 휴머노이드 로봇 이어 AI 에이전트에도 ＇디지털 신분증＇ 도입",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212180",
-    "category": "해외"
-  },
-  {
-    "title": "AI 메모리 폭등의 역설…마이크론·삼성·SK하이닉스 동반 하락",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212176",
-    "category": "민간"
-  },
-  {
-    "title": "‘뇌’ 신호로 로봇 제어하는 플랫폼 개발 나선 카이스트",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212174",
+    "title": "도로 위 숨은 구멍 잡는다…수원시, AI 포트홀 탐지망 구축",
+    "link": "https://www.etnews.com/20260628000117",
     "category": "기관"
+  },
+  {
+    "title": "[단독]AI 교육 플랫폼 ＇엔트리＇ 공공 전환…내년 8월 서비스 목표",
+    "link": "https://www.etnews.com/20260628000076",
+    "category": "기관"
+  },
+  {
+    "title": "[와이드 인터뷰] 이명종 삼진엘앤디 대표 “AI 데이터센터 시대, 전력 인프라 핵심 부품기업으로 도약한다”",
+    "link": "https://www.etnews.com/20260624000383",
+    "category": "민간"
+  },
+  {
+    "title": "모든 AI 에이전트 한곳에...＇AI 마켓플레이스＇ 열린다",
+    "link": "https://www.etnews.com/20260626000253",
+    "category": "민간"
+  },
+  {
+    "title": "[이내찬교수의 광고로 보는 통신역사]〈61〉인공지능 시대, 정부는 선도자가 아니라 조력자",
+    "link": "https://www.etnews.com/20260626000063",
+    "category": "기타"
+  },
+  {
+    "title": "[바이오 USA]달아오른 AI 신약개발 기대감…K바이오 존재감 커졌다",
+    "link": "https://www.etnews.com/20260626000152",
+    "category": "민간"
+  },
+  {
+    "title": "[ET시론] AIDC 보안, GPU보다 먼저 설계해야 한다",
+    "link": "https://www.etnews.com/20260626000134",
+    "category": "기타"
+  },
+  {
+    "title": "[포토] 인공지능(AI)으로 침수 계측·경보까지... 더 안전해진다",
+    "link": "https://www.etnews.com/20260628000092",
+    "category": "기관"
+  },
+  {
+    "title": "＇인공지능 비즈니스 마에스트로(AI 거장) 1급 자격 실전 과정＇ 성료",
+    "link": "https://www.etnews.com/20260628000085",
+    "category": "기관"
+  },
+  {
+    "title": "“모델 경쟁 다음은 사용자 경험 경쟁”…글로벌 VC가 젠스파크에 베팅한 이유",
+    "link": "https://www.etnews.com/20260628000074",
+    "category": "민간"
+  },
+  {
+    "title": "“AI로 생산성 10배 향상”…AWS 등 빅테크, 개발인력 재편 본격화",
+    "link": "https://www.etnews.com/20260628000073",
+    "category": "해외"
+  },
+  {
+    "title": "최첨단 AI에 깊어진 美 정부 개입…업계 우려 확산",
+    "link": "https://www.etnews.com/20260628000064",
+    "category": "해외"
+  },
+  {
+    "title": "교육부, AI 대입 챗봇 개통…학생부종합전형 온라인 상담도 본격화",
+    "link": "https://www.etnews.com/20260628000059",
+    "category": "기관"
+  },
+  {
+    "title": "한경협, ＇AI와 일자리 공존＇ 세미나 내달 개최",
+    "link": "https://www.etnews.com/20260628000038",
+    "category": "기관"
+  },
+  {
+    "title": "SK, ＇K-AI 얼라이언스＇ 50개사로 확대…“글로벌 네트워크 강화”",
+    "link": "https://www.etnews.com/20260628000049",
+    "category": "민간"
+  },
+  {
+    "title": "유플리트 세이프유, ＇2026 AI 안전보건박람회＇ 참가…데이터 기반 ＇에이전틱 AI＇ 플랫폼 기술 최초 공개",
+    "link": "https://www.etnews.com/20260626000035",
+    "category": "민간"
+  },
+  {
+    "title": "신한금융, 책무구조도에 생성형 AI 결합한 ＇SCoRE AI＇ 가동",
+    "link": "https://www.etnews.com/20260627000024",
+    "category": "민간"
+  },
+  {
+    "title": "LG전자, AI 시대 고객 맞춤형 주거 솔루션 사업 진출...LG 스마트코티지, B2B 맞춤형 20평대 신제품 출시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40720",
+    "category": "민간"
+  },
+  {
+    "title": "〃AI는 왜 보고 들을 때 더 잘 배울까?〃...UNIST 윤성환 교수팀, 멀티모달 AI 강건해지는 원리 수학적으로 밝혀",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40719",
+    "category": "기관"
+  },
+  {
+    "title": "한전, 오픈AI와 에너지 산업 AI 전환 협력...‘글로벌 에너지 AI 표준’ 주도",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40718",
+    "category": "해외"
+  },
+  {
+    "title": "지상·공중 감시·탐지자산 연계 신속 표적 식별·사격능력 향상",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNjU0NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "드론·대드론 전술 토대 미래전 계획 수립",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNjU0MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "마일즈 이용 주야간 쌍방 자율교전…전투 수행능력 극대화",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNjUzOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "저커버그, ＇예측 시장＇ 앱 개발 이어 선두주자와 협력 지시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212202",
+    "category": "해외"
+  },
+  {
+    "title": "장시간 컴퓨터 사용 능력 벤치마크 공개…＇오퍼스 4.8＇ 최고점",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212199",
+    "category": "해외"
+  },
+  {
+    "title": "딥시크, LLM 추론 속도 최대 85% 높이는 ‘D스파크’ 오픈소스 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212191",
+    "category": "해외"
+  },
+  {
+    "title": "MS, 깃허브 코파일럿에 자체 코딩 모델 출시...〃하이쿠보다 빠르고 저렴〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212192",
+    "category": "해외"
+  },
+  {
+    "title": "KAIST, AI의 ＇디지털 연령차별＇ 정량 분석...〃생성 AI의 은밀한 연령 편향〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212190",
+    "category": "기관"
+  },
+  {
+    "title": "테슬라, ＇FSD＇ 첫 보행자 사망 소송 합의…비전 AI 한계론 부각",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212193",
+    "category": "민간"
   }
 ]
