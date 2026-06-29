@@ -1,82 +1,188 @@
-📢26.06.29 AI 일일 동향📢
+📢26.06.30 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 마일즈 이용 주야간 쌍방 자율교전…전투 수행능력 극대화
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNjUzOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ AI 기반 핵·화생방 방호체계 전군 확대 모색
+https://kookbang.dema.mil.kr/newsWeb/20260630/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=hUoUlrjSihxsPyN85cKQ9zn71dhFkX0VcL4kNGw8xGzgC5xFeVlN!-1528214346
+
+◾ 미래 전장에 AI 적용 구체적 방안 논의
+https://kookbang.dema.mil.kr/newsWeb/20260630/11/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=hUoUlrjSihxsPyN85cKQ9zn71dhFkX0VcL4kNGw8xGzgC5xFeVlN!-1528214346
+
+◾ AI 기반 핵·화생방 방호체계 전군 확대 모색
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNjcwNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 미래 전장에 AI 적용 구체적 방안 논의
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNjcxMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
-◾ [뉴스줌인] 마켓플레이스로 글로벌 AI 에이전트 시장 선도
-https://www.etnews.com/20260628000060
+◾ [뉴시스] 조준희 회장 "엔비디아 전략, 애플 독점 판박이…뇌 뺏기면 끝" (26. 6. 29.)
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=761
 
-◾ “AI로 생산성 10배 향상”…AWS 등 빅테크, 개발인력 재편 본격화
-https://www.etnews.com/20260628000073
+◾ AI 시대 반도체 승부처는 ＇패키징＇…인천 기업 100곳 한자리
+https://www.etnews.com/20260629000001
 
-◾ SK, ＇K-AI 얼라이언스＇ 50개사로 확대…“글로벌 네트워크 강화”
-https://www.etnews.com/20260628000049
+◾ 고난도 반도체 공정도 AI 에이전트로 푼다…인터엑스, 반도체 자율제조 표준화 선도
+https://www.etnews.com/20260629000426
 
-◾ 신한금융, 책무구조도에 생성형 AI 결합한 ＇SCoRE AI＇ 가동
-https://www.etnews.com/20260627000024
+◾ 삼성·SK, AI·반도체 4700조 투자...3대 메가프로젝트 시동
+https://www.etnews.com/20260629000402
 
-◾ LG전자, AI 시대 고객 맞춤형 주거 솔루션 사업 진출...LG 스마트코티지, B2B 맞춤형 20평대 신제품 출시
-https://www.aitimes.kr/news/articleView.html?idxno=40720
+◾ [단독] 농협은행, 은행권 첫 AI 서비스 포털 구축한다
+https://www.etnews.com/20260629000343
 
-◾ 국내 AI 업계, 마누스 외면… 〃중국산 거부감보다 대체재 풍부〃
-https://www.aitimes.com/news/articleView.html?idxno=212196
+◾ 제약·바이오 업계, AI 신약 발굴 역량 강화 ＇3색 행보＇…자체·제휴·매칭
+https://www.etnews.com/20260629000296
+
+◾ 슈퍼브에이아이, 로봇의 ＇눈과 뇌＇ 겨냥…“피지컬 AI 표준 계층 되겠다”
+https://www.etnews.com/20260629000220
+
+◾ 김정관 “AI로봇 기업 30곳 육성…휴머노이드 시장 점유율 20% 목표”
+https://www.etnews.com/20260629000401
+
+◾ 라인야후,＇에이전트 i＇ 앞세워 기업·소비자 시장 공략
+https://www.etnews.com/20260629000396
+
+◾ [에듀플러스]마인드로직 “클로드, GPT 넘었다”…국내 생성형 AI ＇3강 시대＇
+https://www.etnews.com/20260629000355
+
+◾ 스트라드비젼, 글로벌 완성차와 ＇E2E 자율주행＇ 양산 개발 계약
+https://www.etnews.com/20260629000278
+
+◾ LG전자, 청소로봇 ＇홈봇 AI 오브제컬렉션 로니＇ 출시…세계 최초 본체·스테이션 100도 스팀 적용
+https://www.etnews.com/20260629000144
+
+◾ SK, AI 인프라에 1100조원 투자…전국 15GW 데이터센터·서남권 반도체 거점 구축
+https://www.aitimes.kr/news/articleView.html?idxno=40740
+
+◾ 삼성, 〃AI 시대 국가 산업 지형 바꾼다〃...국내에 2655조원 투자
+https://www.aitimes.kr/news/articleView.html?idxno=40738
+
+◾ [게시판] 한컴, 한국서부발전에 한컴어시스턴트 공급 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=212229
+
+◾ [게시판] 위로보틱스, 휴머노이드 ‘알렉스’ 시뮬레이션 모델 공개 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=212243
+
+◾ 엠아이큐브솔루션, AI 네이티브 개발 체제 도입...자율제조 AX 고도화
+https://www.aitimes.com/news/articleView.html?idxno=212245
+
+◾ 마크비전, 브랜드 보호 자동화 도구 ‘브랜드 인텔리전스 에이전트’ 출시
+https://www.aitimes.com/news/articleView.html?idxno=212242
+
+◾ LG AI연구원, 전사 정보보호 국제표준(ISO 27001) 인증 획득
+https://www.aitimes.com/news/articleView.html?idxno=212238
+
+◾ 〃AI 테스트는 끝났다〃…기업 100% AI 예산 할당, ＇양산 단계＇ 전격 진입
+https://www.aitimes.com/news/articleView.html?idxno=212228
 
 [기관]
-◾ [단독]AI 교육 플랫폼 ＇엔트리＇ 공공 전환…내년 8월 서비스 목표
-https://www.etnews.com/20260628000076
+◾ “반도체·AI·데이터센터로 초격차 강국”
+https://kookbang.dema.mil.kr/newsWeb/20260630/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=hUoUlrjSihxsPyN85cKQ9zn71dhFkX0VcL4kNGw8xGzgC5xFeVlN!-1528214346
 
-◾ ＇인공지능 비즈니스 마에스트로(AI 거장) 1급 자격 실전 과정＇ 성료
-https://www.etnews.com/20260628000085
+◾ 구인·구직자 위한 AI 서비스 노동부, ‘고용24’ 통해 3종 공개
+https://kookbang.dema.mil.kr/newsWeb/20260630/10/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=hUoUlrjSihxsPyN85cKQ9zn71dhFkX0VcL4kNGw8xGzgC5xFeVlN!-1528214346
 
-◾ 교육부, AI 대입 챗봇 개통…학생부종합전형 온라인 상담도 본격화
-https://www.etnews.com/20260628000059
+◾ 이재명 정부에 “글로벌 AI 실증 특구 지정·수자원 인프라 선제 투자” 충남권 요청
+https://www.etnews.com/20260629000447
 
-◾ 한경협, ＇AI와 일자리 공존＇ 세미나 내달 개최
-https://www.etnews.com/20260628000038
+◾ [공공 AI-SaaS 컨퍼런스] 공공 SaaS의 미래 제시…“AI가 읽고 판단해 일 처리”
+https://www.etnews.com/20260629000347
 
-◾ 〃AI는 왜 보고 들을 때 더 잘 배울까?〃...UNIST 윤성환 교수팀, 멀티모달 AI 강건해지는 원리 수학적으로 밝혀
-https://www.aitimes.kr/news/articleView.html?idxno=40719
+◾ ＇AI특성화대학＇ 호남대, 실무형 융합인재로 반도체 생태계 적극 대응
+https://www.etnews.com/20260629000408
 
-◾ 한전, 오픈AI와 에너지 산업 AI 전환 협력...‘글로벌 에너지 AI 표준’ 주도
-https://www.aitimes.kr/news/articleView.html?idxno=40718
+◾ 국토부, 철도 전관 근절 점검…재취업 감점·AI 감시 도입
+https://www.etnews.com/20260629000201
 
-◾ KAIST, AI의 ＇디지털 연령차별＇ 정량 분석...〃생성 AI의 은밀한 연령 편향〃
-https://www.aitimes.com/news/articleView.html?idxno=212190
+◾ 배경훈 “피지컬AI 1강, 향후 3년이 골든타임…국가전략산업으로 육성”
+https://www.etnews.com/20260629000393
+
+◾ 배경훈 부총리 “AIDC 구축에 2035년까지 1000조 투자”
+https://www.etnews.com/20260629000361
+
+◾ 금감원, 은행권에 ＇AI 거버넌스＇ 주문…지배구조 편법 운영 실태 지적
+https://www.etnews.com/20260629000090
+
+◾ 스마트공장 넘어 ＇AI 공장＇…중기부, 제조 AI 에이전트 첫 실증
+https://www.etnews.com/20260629000204
+
+◾ AI가 이끄는 제조업의 대전환, 청사진 나왔다....정부, 2030년까지 민·관 합동 20조원 투자
+https://www.aitimes.kr/news/articleView.html?idxno=40739
+
+◾ 이재명 대통령, 〃AI 신대륙 선점할 마지막 기회〃...서남권 800조원 투자, ＇반도체·피지컬 AI·AI 데이터센터＇ 3대 메가 프로젝트 선언
+https://www.aitimes.kr/news/articleView.html?idxno=40737
+
+◾ “반도체·인공지능 등 첨단기술 유출 막는다”...지식재산처, 국가 기술안보 지킬 전문수사조직 본격 가동
+https://www.aitimes.kr/news/articleView.html?idxno=40735
+
+◾ 스타트업포럼, ＇피지컬 AI 협의회＇ 출범...〃로봇·자율주행 생태계 키운다〃
+https://www.aitimes.com/news/articleView.html?idxno=212230
 
 [해외]
-◾ 최첨단 AI에 깊어진 美 정부 개입…업계 우려 확산
-https://www.etnews.com/20260628000064
+◾ 美 프론티어 AI ＇사실상 인허가＇…“자체 모델 확보 주력해야”
+https://www.etnews.com/20260629000407
 
-◾ 저커버그, ＇예측 시장＇ 앱 개발 이어 선두주자와 협력 지시
-https://www.aitimes.com/news/articleView.html?idxno=212202
+◾ 中 애지봇, 1만5000번째 로봇 출하…공장 배치 경쟁 본격화
+https://www.etnews.com/20260629000267
 
-◾ 장시간 컴퓨터 사용 능력 벤치마크 공개…＇오퍼스 4.8＇ 최고점
-https://www.aitimes.com/news/articleView.html?idxno=212199
+◾ 中 TCL, 스마트 에어컨 ＇복스인＇ 시리즈 출시
+https://www.etnews.com/20260629000188
 
-◾ 딥시크, LLM 추론 속도 최대 85% 높이는 ‘D스파크’ 오픈소스 공개
-https://www.aitimes.com/news/articleView.html?idxno=212191
+◾ 화웨이, AI 인프라 지원할 광통신 솔루션 10종 공개
+https://www.etnews.com/20260629000146
 
-◾ 에포크 AI, ＇장기 개발 능력＇ 벤치마크 공개...“코드 암기론 통과 못해”
-https://www.aitimes.com/news/articleView.html?idxno=212195
+◾ 中 시안, 세계 최초 문화관광 특화 멀티모달 LLM ＇보관＇ 상용화 확대… AI로 문화유산 보존·관광 혁신 가속
+https://www.aitimes.kr/news/articleView.html?idxno=40742
 
-◾ MS, 깃허브 코파일럿에 자체 코딩 모델 출시...〃하이쿠보다 빠르고 저렴〃
-https://www.aitimes.com/news/articleView.html?idxno=212192
+◾ AI가 만든 허위정보, 책임은 누구에게 있나?...독일 법원, 구글에 금지명령
+https://www.aitimes.kr/news/articleView.html?idxno=40733
 
-◾ 테슬라, ＇FSD＇ 첫 보행자 사망 소송 합의…비전 AI 한계론 부각
-https://www.aitimes.com/news/articleView.html?idxno=212193
+◾ 앤트로픽 출신 베테랑들, ‘과학자용 AI’ 스타트업 설립…역대급 시드 투자 유치
+https://www.aitimes.com/news/articleView.html?idxno=212244
+
+◾ 오픈AI, 코덱스 ＇크레딧 선물＇ 기능 테스트…생태계 확장 시동
+https://www.aitimes.com/news/articleView.html?idxno=212223
+
+◾ ＇카르파시 AI 코딩 지침＇ 확산…〃프롬프트에서 루프 시대로 진화〃
+https://www.aitimes.com/news/articleView.html?idxno=212236
+
+◾ 머스크 〃그록 4.5 비공개 베타 시작…앤트로픽 오퍼스 능가할 것〃
+https://www.aitimes.com/news/articleView.html?idxno=212222
+
+◾ 미 국방부, AI 군사 도입 확대...‘인간 개입’에서 ‘인간 모니터링’으로
+https://www.aitimes.com/news/articleView.html?idxno=212235
+
+◾ 엔비디아, 인도네시아에 대규모 ＇AI 팩토리＇ 건설…스타트업 비용 부담 낮춘다
+https://www.aitimes.com/news/articleView.html?idxno=212234
+
+◾ 오스트리아, EU에 앤트로픽 연구소 유치 촉구...〃미국 AI 독점 막아야〃
+https://www.aitimes.com/news/articleView.html?idxno=212226
 
 [기타]
-◾ [이내찬교수의 광고로 보는 통신역사]〈61〉인공지능 시대, 정부는 선도자가 아니라 조력자
-https://www.etnews.com/20260626000063
+◾ [관망경]AI시대, 통신 새 먹거리 발굴해야
+https://www.etnews.com/20260629000303
 
-◾ [ET시론] AIDC 보안, GPU보다 먼저 설계해야 한다
-https://www.etnews.com/20260626000134
+◾ [송민택 교수의 D-엣지]AI 시대, 진짜 경쟁은 투자다
+https://www.etnews.com/20260629000165
 
-◾ [에듀플러스]“AI 인재 키운다는데…수학부터 흔들렸다”
-https://www.etnews.com/20260628000003
+◾ [이상직 변호사의 생성과 소멸] 〈22〉철학자라면, AI시대 사이버보안 위기를 어떻게 막을까 (상)
+https://www.etnews.com/20260629000059
+
+◾ [기고] 피지컬 AI 시대, 로봇 인재의 미래
+https://www.etnews.com/20260629000070
+
+◾ [ET시론] AI 시대와 데이터센터 : AI 시대의 국가경쟁력, 데이터센터 산업 생태계 구축이 답이다
+https://www.etnews.com/20260629000255
+
+📚 간행물
+◾ [26-16] 캐나다, 「사이버보안에 관한 법률」 제정 (’26.6.15)
+https://www.kisa.or.kr/20201/form?postSeq=285&page=1
+
+◾ [AI_Policy_Insights_2026-4] 2026 스탠포드 AI INDEX로 살펴본 우리나라 AI 현황 분석
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29588&parentSeq=29588
+
+◾ [제1296호] CXL 4.0 표준 기반 메모리 풀링 아키텍처와 AI 팩토리 자원 공유..
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1296%ED%98%B8%5D%20CXL%204.0%20%ED%91%9C%EC%A4%80%20%EA%B8%B0%EB%B0%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%92%80%EB%A7%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80%20AI%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EC%9E%90%EC%9B%90%20%EA%B3%B5%EC%9C%A0..
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
