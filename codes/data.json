@@ -13276,5 +13276,316 @@
       ]
     },
     "briefing": "- 마일즈 장비를 활용한 주야간 쌍방 자율교전 훈련을 통해 실전 전투 수행능력 극대화가 추진되고 있습니다.\n- 한국전력이 오픈AI와 협력하여 에너지 산업의 AI 전환을 도모하고 글로벌 에너지 AI 표준 주도를 추진합니다.\n- 교육부가 수험생과 학부모를 지원하기 위해 AI 대입 챗봇을 개통하고 학생부종합전형 온라인 상담 서비스를 본격화했습니다."
+  },
+  "26.06.30": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "[뉴시스] 조준희 회장 \"엔비디아 전략, 애플 독점 판박이…뇌 뺏기면 끝\" (26. 6. 29.)",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=761",
+          "category": "민간"
+        },
+        {
+          "title": "AI 시대 반도체 승부처는 ＇패키징＇…인천 기업 100곳 한자리",
+          "link": "https://www.etnews.com/20260629000001",
+          "category": "민간"
+        },
+        {
+          "title": "고난도 반도체 공정도 AI 에이전트로 푼다…인터엑스, 반도체 자율제조 표준화 선도",
+          "link": "https://www.etnews.com/20260629000426",
+          "category": "민간"
+        },
+        {
+          "title": "삼성·SK, AI·반도체 4700조 투자...3대 메가프로젝트 시동",
+          "link": "https://www.etnews.com/20260629000402",
+          "category": "민간"
+        },
+        {
+          "title": "[단독] 농협은행, 은행권 첫 AI 서비스 포털 구축한다",
+          "link": "https://www.etnews.com/20260629000343",
+          "category": "민간"
+        },
+        {
+          "title": "제약·바이오 업계, AI 신약 발굴 역량 강화 ＇3색 행보＇…자체·제휴·매칭",
+          "link": "https://www.etnews.com/20260629000296",
+          "category": "민간"
+        },
+        {
+          "title": "슈퍼브에이아이, 로봇의 ＇눈과 뇌＇ 겨냥…“피지컬 AI 표준 계층 되겠다”",
+          "link": "https://www.etnews.com/20260629000220",
+          "category": "민간"
+        },
+        {
+          "title": "김정관 “AI로봇 기업 30곳 육성…휴머노이드 시장 점유율 20% 목표”",
+          "link": "https://www.etnews.com/20260629000401",
+          "category": "민간"
+        },
+        {
+          "title": "라인야후,＇에이전트 i＇ 앞세워 기업·소비자 시장 공략",
+          "link": "https://www.etnews.com/20260629000396",
+          "category": "민간"
+        },
+        {
+          "title": "[에듀플러스]마인드로직 “클로드, GPT 넘었다”…국내 생성형 AI ＇3강 시대＇",
+          "link": "https://www.etnews.com/20260629000355",
+          "category": "민간"
+        },
+        {
+          "title": "스트라드비젼, 글로벌 완성차와 ＇E2E 자율주행＇ 양산 개발 계약",
+          "link": "https://www.etnews.com/20260629000278",
+          "category": "민간"
+        },
+        {
+          "title": "LG전자, 청소로봇 ＇홈봇 AI 오브제컬렉션 로니＇ 출시…세계 최초 본체·스테이션 100도 스팀 적용",
+          "link": "https://www.etnews.com/20260629000144",
+          "category": "민간"
+        },
+        {
+          "title": "SK, AI 인프라에 1100조원 투자…전국 15GW 데이터센터·서남권 반도체 거점 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40740",
+          "category": "민간"
+        },
+        {
+          "title": "삼성, 〃AI 시대 국가 산업 지형 바꾼다〃...국내에 2655조원 투자",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40738",
+          "category": "민간"
+        },
+        {
+          "title": "[게시판] 한컴, 한국서부발전에 한컴어시스턴트 공급 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212229",
+          "category": "민간"
+        },
+        {
+          "title": "[게시판] 위로보틱스, 휴머노이드 ‘알렉스’ 시뮬레이션 모델 공개 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212243",
+          "category": "민간"
+        },
+        {
+          "title": "엠아이큐브솔루션, AI 네이티브 개발 체제 도입...자율제조 AX 고도화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212245",
+          "category": "민간"
+        },
+        {
+          "title": "마크비전, 브랜드 보호 자동화 도구 ‘브랜드 인텔리전스 에이전트’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212242",
+          "category": "민간"
+        },
+        {
+          "title": "LG AI연구원, 전사 정보보호 국제표준(ISO 27001) 인증 획득",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212238",
+          "category": "민간"
+        },
+        {
+          "title": "〃AI 테스트는 끝났다〃…기업 100% AI 예산 할당, ＇양산 단계＇ 전격 진입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212228",
+          "category": "민간"
+        }
+      ],
+      "국방": [
+        {
+          "title": "AI 기반 핵·화생방 방호체계 전군 확대 모색",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260630/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=hUoUlrjSihxsPyN85cKQ9zn71dhFkX0VcL4kNGw8xGzgC5xFeVlN!-1528214346",
+          "category": "국방"
+        },
+        {
+          "title": "미래 전장에 AI 적용 구체적 방안 논의",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260630/11/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=hUoUlrjSihxsPyN85cKQ9zn71dhFkX0VcL4kNGw8xGzgC5xFeVlN!-1528214346",
+          "category": "국방"
+        },
+        {
+          "title": "AI 기반 핵·화생방 방호체계 전군 확대 모색",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNjcwNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "미래 전장에 AI 적용 구체적 방안 논의",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNjcxMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        }
+      ],
+      "기관": [
+        {
+          "title": "“반도체·AI·데이터센터로 초격차 강국”",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260630/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=hUoUlrjSihxsPyN85cKQ9zn71dhFkX0VcL4kNGw8xGzgC5xFeVlN!-1528214346",
+          "category": "기관"
+        },
+        {
+          "title": "구인·구직자 위한 AI 서비스 노동부, ‘고용24’ 통해 3종 공개",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260630/10/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=hUoUlrjSihxsPyN85cKQ9zn71dhFkX0VcL4kNGw8xGzgC5xFeVlN!-1528214346",
+          "category": "기관"
+        },
+        {
+          "title": "이재명 정부에 “글로벌 AI 실증 특구 지정·수자원 인프라 선제 투자” 충남권 요청",
+          "link": "https://www.etnews.com/20260629000447",
+          "category": "기관"
+        },
+        {
+          "title": "[공공 AI-SaaS 컨퍼런스] 공공 SaaS의 미래 제시…“AI가 읽고 판단해 일 처리”",
+          "link": "https://www.etnews.com/20260629000347",
+          "category": "기관"
+        },
+        {
+          "title": "＇AI특성화대학＇ 호남대, 실무형 융합인재로 반도체 생태계 적극 대응",
+          "link": "https://www.etnews.com/20260629000408",
+          "category": "기관"
+        },
+        {
+          "title": "국토부, 철도 전관 근절 점검…재취업 감점·AI 감시 도입",
+          "link": "https://www.etnews.com/20260629000201",
+          "category": "기관"
+        },
+        {
+          "title": "배경훈 “피지컬AI 1강, 향후 3년이 골든타임…국가전략산업으로 육성”",
+          "link": "https://www.etnews.com/20260629000393",
+          "category": "기관"
+        },
+        {
+          "title": "배경훈 부총리 “AIDC 구축에 2035년까지 1000조 투자”",
+          "link": "https://www.etnews.com/20260629000361",
+          "category": "기관"
+        },
+        {
+          "title": "금감원, 은행권에 ＇AI 거버넌스＇ 주문…지배구조 편법 운영 실태 지적",
+          "link": "https://www.etnews.com/20260629000090",
+          "category": "기관"
+        },
+        {
+          "title": "스마트공장 넘어 ＇AI 공장＇…중기부, 제조 AI 에이전트 첫 실증",
+          "link": "https://www.etnews.com/20260629000204",
+          "category": "기관"
+        },
+        {
+          "title": "AI가 이끄는 제조업의 대전환, 청사진 나왔다....정부, 2030년까지 민·관 합동 20조원 투자",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40739",
+          "category": "기관"
+        },
+        {
+          "title": "이재명 대통령, 〃AI 신대륙 선점할 마지막 기회〃...서남권 800조원 투자, ＇반도체·피지컬 AI·AI 데이터센터＇ 3대 메가 프로젝트 선언",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40737",
+          "category": "기관"
+        },
+        {
+          "title": "“반도체·인공지능 등 첨단기술 유출 막는다”...지식재산처, 국가 기술안보 지킬 전문수사조직 본격 가동",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40735",
+          "category": "기관"
+        },
+        {
+          "title": "스타트업포럼, ＇피지컬 AI 협의회＇ 출범...〃로봇·자율주행 생태계 키운다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212230",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "美 프론티어 AI ＇사실상 인허가＇…“자체 모델 확보 주력해야”",
+          "link": "https://www.etnews.com/20260629000407",
+          "category": "해외"
+        },
+        {
+          "title": "中 애지봇, 1만5000번째 로봇 출하…공장 배치 경쟁 본격화",
+          "link": "https://www.etnews.com/20260629000267",
+          "category": "해외"
+        },
+        {
+          "title": "中 TCL, 스마트 에어컨 ＇복스인＇ 시리즈 출시",
+          "link": "https://www.etnews.com/20260629000188",
+          "category": "해외"
+        },
+        {
+          "title": "화웨이, AI 인프라 지원할 광통신 솔루션 10종 공개",
+          "link": "https://www.etnews.com/20260629000146",
+          "category": "해외"
+        },
+        {
+          "title": "中 시안, 세계 최초 문화관광 특화 멀티모달 LLM ＇보관＇ 상용화 확대… AI로 문화유산 보존·관광 혁신 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40742",
+          "category": "해외"
+        },
+        {
+          "title": "AI가 만든 허위정보, 책임은 누구에게 있나?...독일 법원, 구글에 금지명령",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40733",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽 출신 베테랑들, ‘과학자용 AI’ 스타트업 설립…역대급 시드 투자 유치",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212244",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 코덱스 ＇크레딧 선물＇ 기능 테스트…생태계 확장 시동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212223",
+          "category": "해외"
+        },
+        {
+          "title": "＇카르파시 AI 코딩 지침＇ 확산…〃프롬프트에서 루프 시대로 진화〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212236",
+          "category": "해외"
+        },
+        {
+          "title": "머스크 〃그록 4.5 비공개 베타 시작…앤트로픽 오퍼스 능가할 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212222",
+          "category": "해외"
+        },
+        {
+          "title": "미 국방부, AI 군사 도입 확대...‘인간 개입’에서 ‘인간 모니터링’으로",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212235",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아, 인도네시아에 대규모 ＇AI 팩토리＇ 건설…스타트업 비용 부담 낮춘다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212234",
+          "category": "해외"
+        },
+        {
+          "title": "오스트리아, EU에 앤트로픽 연구소 유치 촉구...〃미국 AI 독점 막아야〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212226",
+          "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[관망경]AI시대, 통신 새 먹거리 발굴해야",
+          "link": "https://www.etnews.com/20260629000303",
+          "category": "기타"
+        },
+        {
+          "title": "[송민택 교수의 D-엣지]AI 시대, 진짜 경쟁은 투자다",
+          "link": "https://www.etnews.com/20260629000165",
+          "category": "기타"
+        },
+        {
+          "title": "[이상직 변호사의 생성과 소멸] 〈22〉철학자라면, AI시대 사이버보안 위기를 어떻게 막을까 (상)",
+          "link": "https://www.etnews.com/20260629000059",
+          "category": "기타"
+        },
+        {
+          "title": "[기고] 피지컬 AI 시대, 로봇 인재의 미래",
+          "link": "https://www.etnews.com/20260629000070",
+          "category": "기타"
+        },
+        {
+          "title": "[ET시론] AI 시대와 데이터센터 : AI 시대의 국가경쟁력, 데이터센터 산업 생태계 구축이 답이다",
+          "link": "https://www.etnews.com/20260629000255",
+          "category": "기타"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[26-16] 캐나다, 「사이버보안에 관한 법률」 제정 (’26.6.15)",
+          "link": "https://www.kisa.or.kr/20201/form?postSeq=285&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "[AI_Policy_Insights_2026-4] 2026 스탠포드 AI INDEX로 살펴본 우리나라 AI 현황 분석",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29588&parentSeq=29588",
+          "category": "간행물"
+        },
+        {
+          "title": "[제1296호] CXL 4.0 표준 기반 메모리 풀링 아키텍처와 AI 팩토리 자원 공유..",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1296%ED%98%B8%5D%20CXL%204.0%20%ED%91%9C%EC%A4%80%20%EA%B8%B0%EB%B0%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%92%80%EB%A7%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80%20AI%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EC%9E%90%EC%9B%90%20%EA%B3%B5%EC%9C%A0..",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
