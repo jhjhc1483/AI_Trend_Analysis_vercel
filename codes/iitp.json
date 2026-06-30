@@ -1198,5 +1198,29 @@
         "년": "2026",
         "월": "06",
         "일": "25"
+    },
+    {
+        "제목": "2026년 IMD 세계경쟁력 분석 [KISTEP 브리프]",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260630-000002&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "06",
+        "일": "30"
+    },
+    {
+        "제목": "(2026년 4월 말 기준) 유·무선통신서비스 가입 현황 및 무선데이터 트래픽 통계",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260630-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "06",
+        "일": "30"
+    },
+    {
+        "제목": "AI 기반 RF 집적회로 설계 기술 동향 [주간기술동향 2215호]",
+        "분류": "주간기술동향",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1400&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "07",
+        "일": "01"
     }
 ]
