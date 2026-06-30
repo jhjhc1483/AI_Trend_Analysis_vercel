@@ -1,17 +1,27 @@
 [
   {
-    "title": "[26-16] 캐나다, 「사이버보안에 관한 법률」 제정 (’26.6.15)",
-    "link": "https://www.kisa.or.kr/20201/form?postSeq=285&page=1",
+    "title": "STI Policy Review: June 2026 Vol.15",
+    "link": "https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=17&cateCont=A0514&cbIdx=0&searchKey=",
     "category": "간행물"
   },
   {
-    "title": "[AI_Policy_Insights_2026-4] 2026 스탠포드 AI INDEX로 살펴본 우리나라 AI 현황 분석",
-    "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29588&parentSeq=29588",
+    "title": "[제33권 제2호] AI Ready Data의 개념적 구조와 한국의 AI Ready 공공데이터 정책 분석",
+    "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=29596&parentSeq=29596",
     "category": "간행물"
   },
   {
-    "title": "[제1296호] CXL 4.0 표준 기반 메모리 풀링 아키텍처와 AI 팩토리 자원 공유..",
-    "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1296%ED%98%B8%5D%20CXL%204.0%20%ED%91%9C%EC%A4%80%20%EA%B8%B0%EB%B0%98%20%EB%A9%94%EB%AA%A8%EB%A6%AC%20%ED%92%80%EB%A7%81%20%EC%95%84%ED%82%A4%ED%85%8D%EC%B2%98%EC%99%80%20AI%20%ED%8C%A9%ED%86%A0%EB%A6%AC%20%EC%9E%90%EC%9B%90%20%EA%B3%B5%EC%9C%A0..",
+    "title": "[제33권 제2호] 인공지능의 국가안보화: 글로벌 동향과 정책적 함의",
+    "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=29595&parentSeq=29595",
+    "category": "간행물"
+  },
+  {
+    "title": "[제33권 제2호] 인공지능확산의 국가별 비교연구: 기술혁신, 정책체계, 사회적수용의 삼각구조 분석",
+    "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=29594&parentSeq=29594",
+    "category": "간행물"
+  },
+  {
+    "title": "[제33권 제2호] 생성형 AI의 일상화와 인간-인공지능 관계의 재구성: 인공지능의 ‘관계화’가 제기하는 새로운 정책 쟁점",
+    "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=29593&parentSeq=29593",
     "category": "간행물"
   }
 ]
