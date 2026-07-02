@@ -14287,14 +14287,12 @@
   },
   "26.07.03": {
     "categorized": {
-      "육군": [
+      "국방": [
         {
           "title": "전남대 SW중심대학사업단, ＇군·학 연계 AI 자율주행 경진대회＇ 성료",
           "link": "https://www.etnews.com/20260702000412",
-          "category": "육군"
-        }
-      ],
-      "국방": [
+          "category": "국방"
+        },
         {
           "title": "국방정보통신협회 “AI 옷 입은 C5I, 미래 다영역작전 판도 바꾼다”",
           "link": "https://www.etnews.com/20260702000056",
@@ -14313,8 +14311,23 @@
           "category": "민간"
         },
         {
-          "title": "반도체 제조장비에 AI 도입 논의 본격화…＇세메스 AI 포럼＇ 첫 개최",
-          "link": "https://www.etnews.com/20260702000225",
+          "title": "모비젠, ＇그래피오 2.0＇ 공개…“데이터·AI 전문기업 도약”",
+          "link": "https://www.etnews.com/20260702000306",
+          "category": "민간"
+        },
+        {
+          "title": "Sh수협은행, XAI 기반 조기경보 플랫폼 ＇크레디트래커＇ 공개",
+          "link": "https://www.etnews.com/20260702000375",
+          "category": "민간"
+        },
+        {
+          "title": "삼성·SK 등 충청권 392조 중 충남에  202조 투자, ＇AI 제조 혁신 5년 앞당긴다＇",
+          "link": "https://www.etnews.com/20260702000278",
+          "category": "민간"
+        },
+        {
+          "title": "마키나락스, 상반기 200억원 수주…삼성·현대차·두산 AI 사업 확보",
+          "link": "https://www.etnews.com/20260702000248",
           "category": "민간"
         },
         {
@@ -14328,18 +14341,8 @@
           "category": "민간"
         },
         {
-          "title": "브레인칩, 뇌 구조 모방한 뉴로모픽 칩 생산 개시",
-          "link": "https://www.etnews.com/20260702000156",
-          "category": "민간"
-        },
-        {
-          "title": "KB국민은행, AI 기반 금융 서비스 개발 전진기지 ＇KB AI Dev 센터＇ 출범",
-          "link": "https://www.etnews.com/20260702000111",
-          "category": "민간"
-        },
-        {
-          "title": "“사람 감정을 읽고 대화한다” 2억원대 가정용 휴머노이드 로봇",
-          "link": "https://www.etnews.com/20260701000593",
+          "title": "시그래프 2026, 로봇공학과 컴퓨터그래픽스 융합 조명… “가상세계가 로봇을 훈련하는 시대”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40806",
           "category": "민간"
         },
         {
@@ -14363,13 +14366,8 @@
           "category": "민간"
         },
         {
-          "title": "SK AX, 한국전력기술과 발전·에너지 산업 AX 혁신 나선다",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40789",
-          "category": "민간"
-        },
-        {
-          "title": "엔닷라이트·한국전력공사, 전력설비 현장 ‘로봇 자동화’ 실증 착수",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212346",
+          "title": "[게시판] AI스페라, ＇크리미널 IP＇ 글로벌 플랫폼 연동 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212352",
           "category": "민간"
         },
         {
@@ -14380,23 +14378,23 @@
       ],
       "기관": [
         {
-          "title": "개인정보위, 광주서 AI 의료·헬스케어 데이터 활용 간담회",
-          "link": "https://www.etnews.com/20260702000069",
-          "category": "기관"
-        },
-        {
-          "title": "박완수 경남도지사, 민선 9기 첫 산업행보는 ＇피지컬 AI＇",
-          "link": "https://www.etnews.com/20260702000416",
-          "category": "기관"
-        },
-        {
           "title": "행안부, ＇AI 정부 실험실＇ 시범 운영…“공무원이 직접 AI에이전트 개발”",
           "link": "https://www.etnews.com/20260702000374",
           "category": "기관"
         },
         {
+          "title": "서울시, ＇청년 AI 기본권＇ 추진…모든 청년에 생성형 AI 무료 지원",
+          "link": "https://www.etnews.com/20260702000352",
+          "category": "기관"
+        },
+        {
           "title": "과기정통부, 중장기 연구개발 투자전략 공개…“기술주도 성장 구현”",
           "link": "https://www.etnews.com/20260702000135",
+          "category": "기관"
+        },
+        {
+          "title": "금융당국, AI 보안 테스트 중 발생한 전산장애 제재 면책한다",
+          "link": "https://www.etnews.com/20260702000267",
           "category": "기관"
         },
         {
@@ -14415,11 +14413,6 @@
           "category": "기관"
         },
         {
-          "title": "신계용 과천시장 민선 9기 출범…AX 클러스터·의료체계 확충",
-          "link": "https://www.etnews.com/20260702000011",
-          "category": "기관"
-        },
-        {
           "title": "“한국 AI 기본법은 EU와 미국의 절충형 모델”...국제 AI 법률저널, 한국 AI법 집중 조명",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40808",
           "category": "기관"
@@ -14435,13 +14428,18 @@
           "category": "기관"
         },
         {
+          "title": "한국인공지능협회, 인공지능 최고위과정... 〃AI 시대, 대표의 역할이 바뀐다〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40802",
+          "category": "기관"
+        },
+        {
           "title": "현실로 다가온 자율주행, 안전성은 ＇디지털 인프라＇에 달렸다…국회 토론회서 정책 과제 논의",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40793",
           "category": "기관"
         },
         {
-          "title": "AI가 쓴 글은 잡고, 사람 글은 지킨다…DGIST, 오탐률 2%의 혁신적 텍스트 워터마킹 개발",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40788",
+          "title": "SK AX, 한국전력기술과 발전·에너지 산업 AX 혁신 나선다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40789",
           "category": "기관"
         },
         {
@@ -14454,6 +14452,11 @@
         {
           "title": "미국 AI 규제 압박 속… “오픈AI, 美 정부와 ＇지분 5%＇ 공유…수익 나누자”",
           "link": "https://www.etnews.com/20260702000434",
+          "category": "해외"
+        },
+        {
+          "title": "수세 “AI 인프라·엣지 컴퓨팅 미래 성장동력으로 키운다”",
+          "link": "https://www.etnews.com/20260702000296",
           "category": "해외"
         },
         {
@@ -14477,11 +14480,6 @@
           "category": "해외"
         },
         {
-          "title": "팔란티어 CEO, 오픈AI·앤트로픽 ＇토큰＇ 시스템 맹비난…”돈만 쓰고 데이터 빼앗겨”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212345",
-          "category": "해외"
-        },
-        {
           "title": "엔비디아, 스스로 제어 코드 짜고 디버깅하는 로봇 AI ＇아스파이어＇ 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212367",
           "category": "해외"
@@ -14497,22 +14495,22 @@
           "category": "해외"
         },
         {
-          "title": "MS, AI 투자 재원 확보 위해 ＇수천명 추가 감원＇ 단행",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212350",
+          "title": "소프트뱅크, 오픈AI 지분 담보로 15조 대출 협상 재개…‘기업 보증’ 카드로 은행권 설득",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212358",
           "category": "해외"
         },
         {
           "title": "오픈AI, 미국 정부에 ＇지분 5%＇ 제안…IPO 앞두고 정치 리스크 돌파",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212365",
           "category": "해외"
+        },
+        {
+          "title": "앤트로픽, ＇페이블 5＇ 규제 해제...강화된 ＇안전 분류기＇ 적용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212337",
+          "category": "해외"
         }
       ],
       "기타": [
-        {
-          "title": "[에듀플러스]태재대 출판문화원, ＇에이전틱 AI가 여는 교육의 새 지평＇ 발간",
-          "link": "https://www.etnews.com/20260702000422",
-          "category": "기타"
-        },
         {
           "title": "[ET톡] 피지컬 AI 1강, 부처 단합부터",
           "link": "https://www.etnews.com/20260702000298",
@@ -14556,7 +14554,6 @@
           "category": "간행물"
         }
       ]
-    },
-    "briefing": "- 국방정보통신협회는 AI 기술이 접목된 C5I 체계가 미래 다영역작전의 승패를 결정지을 핵심 요소가 될 것이라고 강조했습니다.\n- 전남대학교 SW중심대학사업단이 군·학 협력을 강화하기 위해 진행한 ‘군·학 연계 AI 자율주행 경진대회’가 성공적으로 마무리되었습니다.\n- 엔비디아가 로봇 스스로 제어 코드를 생성하고 오류를 수정하는 능력을 갖춘 로봇 특화 AI ‘아스파이어’를 새롭게 공개했습니다."
+    }
   }
 }
