@@ -2,22 +2,30 @@
 
 📰 오늘의 기사
 [국방]
+◾ 전남대 SW중심대학사업단, ＇군·학 연계 AI 자율주행 경진대회＇ 성료
+https://www.etnews.com/20260702000412
+
 ◾ 국방정보통신협회 “AI 옷 입은 C5I, 미래 다영역작전 판도 바꾼다”
 https://www.etnews.com/20260702000056
 
 ◾ AI 시대, 공군 운영 패러다임 전환 모색
 https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNjkxMSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-[육군]
-◾ 전남대 SW중심대학사업단, ＇군·학 연계 AI 자율주행 경진대회＇ 성료
-https://www.etnews.com/20260702000412
-
 [민간]
 ◾ 두나무, ＇AI 의료영상＇ 에어스메디컬에 후속 투자…누적 97억원
 https://www.etnews.com/20260702000441
 
-◾ 반도체 제조장비에 AI 도입 논의 본격화…＇세메스 AI 포럼＇ 첫 개최
-https://www.etnews.com/20260702000225
+◾ 모비젠, ＇그래피오 2.0＇ 공개…“데이터·AI 전문기업 도약”
+https://www.etnews.com/20260702000306
+
+◾ Sh수협은행, XAI 기반 조기경보 플랫폼 ＇크레디트래커＇ 공개
+https://www.etnews.com/20260702000375
+
+◾ 삼성·SK 등 충청권 392조 중 충남에  202조 투자, ＇AI 제조 혁신 5년 앞당긴다＇
+https://www.etnews.com/20260702000278
+
+◾ 마키나락스, 상반기 200억원 수주…삼성·현대차·두산 AI 사업 확보
+https://www.etnews.com/20260702000248
 
 ◾ 삼성SDI, R&D부터 위험관리까지 AI 확대…전사 AX 전환 가속
 https://www.etnews.com/20260702000216
@@ -25,14 +33,8 @@ https://www.etnews.com/20260702000216
 ◾ SK바이오사이언스, 게이츠재단과 AI 백신개발 플랫폼 구축 나서
 https://www.etnews.com/20260702000176
 
-◾ 브레인칩, 뇌 구조 모방한 뉴로모픽 칩 생산 개시
-https://www.etnews.com/20260702000156
-
-◾ KB국민은행, AI 기반 금융 서비스 개발 전진기지 ＇KB AI Dev 센터＇ 출범
-https://www.etnews.com/20260702000111
-
-◾ “사람 감정을 읽고 대화한다” 2억원대 가정용 휴머노이드 로봇
-https://www.etnews.com/20260701000593
+◾ 시그래프 2026, 로봇공학과 컴퓨터그래픽스 융합 조명… “가상세계가 로봇을 훈련하는 시대”
+https://www.aitimes.kr/news/articleView.html?idxno=40806
 
 ◾ 카카오, ‘2026 디지털 플랫폼의 일상혁신 연구지원’ 공모...선정 과제당 2000만 원 지원
 https://www.aitimes.kr/news/articleView.html?idxno=40805
@@ -46,27 +48,24 @@ https://www.aitimes.kr/news/articleView.html?idxno=40798
 ◾ 트웰브랩스, 시리즈B 1,500억 원 유치…영상 인식·기억·추론을 통합한 ‘영상 인지 시스템’ 확장
 https://www.aitimes.kr/news/articleView.html?idxno=40795
 
-◾ SK AX, 한국전력기술과 발전·에너지 산업 AX 혁신 나선다
-https://www.aitimes.kr/news/articleView.html?idxno=40789
-
-◾ 엔닷라이트·한국전력공사, 전력설비 현장 ‘로봇 자동화’ 실증 착수
-https://www.aitimes.com/news/articleView.html?idxno=212346
+◾ [게시판] AI스페라, ＇크리미널 IP＇ 글로벌 플랫폼 연동 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=212352
 
 ◾ 두나무앤파트너스, AI 의료영상 기업 ＇에어스메디컬＇ 후속 투자
 https://www.aitimes.com/news/articleView.html?idxno=212339
 
 [기관]
-◾ 개인정보위, 광주서 AI 의료·헬스케어 데이터 활용 간담회
-https://www.etnews.com/20260702000069
-
-◾ 박완수 경남도지사, 민선 9기 첫 산업행보는 ＇피지컬 AI＇
-https://www.etnews.com/20260702000416
-
 ◾ 행안부, ＇AI 정부 실험실＇ 시범 운영…“공무원이 직접 AI에이전트 개발”
 https://www.etnews.com/20260702000374
 
+◾ 서울시, ＇청년 AI 기본권＇ 추진…모든 청년에 생성형 AI 무료 지원
+https://www.etnews.com/20260702000352
+
 ◾ 과기정통부, 중장기 연구개발 투자전략 공개…“기술주도 성장 구현”
 https://www.etnews.com/20260702000135
+
+◾ 금융당국, AI 보안 테스트 중 발생한 전산장애 제재 면책한다
+https://www.etnews.com/20260702000267
 
 ◾ AI중심대학 18개교 확대…비수도권 SW중심대학 전환·신규 선정
 https://www.etnews.com/20260702000195
@@ -77,9 +76,6 @@ https://www.etnews.com/20260702000148
 ◾ DGIST, 오탐률 2% 혁신적 텍스트 워터마킹 개발…디지털 저작권 보호하는 AI 포렌식 분야에서 핵심 역할 기대
 https://www.etnews.com/20260702000022
 
-◾ 신계용 과천시장 민선 9기 출범…AX 클러스터·의료체계 확충
-https://www.etnews.com/20260702000011
-
 ◾ “한국 AI 기본법은 EU와 미국의 절충형 모델”...국제 AI 법률저널, 한국 AI법 집중 조명
 https://www.aitimes.kr/news/articleView.html?idxno=40808
 
@@ -89,11 +85,14 @@ https://www.aitimes.kr/news/articleView.html?idxno=40807
 ◾ 오세훈 시장, 민선 9기 첫 정책으로 ＇청년 AI 사다리＇ 제시… 〃AI 기본권 보장하겠다〃
 https://www.aitimes.kr/news/articleView.html?idxno=40803
 
+◾ 한국인공지능협회, 인공지능 최고위과정... 〃AI 시대, 대표의 역할이 바뀐다〃
+https://www.aitimes.kr/news/articleView.html?idxno=40802
+
 ◾ 현실로 다가온 자율주행, 안전성은 ＇디지털 인프라＇에 달렸다…국회 토론회서 정책 과제 논의
 https://www.aitimes.kr/news/articleView.html?idxno=40793
 
-◾ AI가 쓴 글은 잡고, 사람 글은 지킨다…DGIST, 오탐률 2%의 혁신적 텍스트 워터마킹 개발
-https://www.aitimes.kr/news/articleView.html?idxno=40788
+◾ SK AX, 한국전력기술과 발전·에너지 산업 AX 혁신 나선다
+https://www.aitimes.kr/news/articleView.html?idxno=40789
 
 ◾ 과기정통부, 비수도권 인공지능 중심대학 추가 선정 추진
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187510&searchOpt=ALL&searchTxt=
@@ -101,6 +100,9 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 [해외]
 ◾ 미국 AI 규제 압박 속… “오픈AI, 美 정부와 ＇지분 5%＇ 공유…수익 나누자”
 https://www.etnews.com/20260702000434
+
+◾ 수세 “AI 인프라·엣지 컴퓨팅 미래 성장동력으로 키운다”
+https://www.etnews.com/20260702000296
 
 ◾ 노키아 “통신망이 초거대 AI 연산 인프라로 진화”…AI-RAN 비전 공개
 https://www.etnews.com/20260702000316
@@ -114,9 +116,6 @@ https://www.etnews.com/20260702000018
 ◾ 앤트로픽, ＇클로드 코드＇ 중국 사용자 비밀 추적 논란…결국 기능 철회
 https://www.aitimes.com/news/articleView.html?idxno=212357
 
-◾ 팔란티어 CEO, 오픈AI·앤트로픽 ＇토큰＇ 시스템 맹비난…”돈만 쓰고 데이터 빼앗겨”
-https://www.aitimes.com/news/articleView.html?idxno=212345
-
 ◾ 엔비디아, 스스로 제어 코드 짜고 디버깅하는 로봇 AI ＇아스파이어＇ 공개
 https://www.aitimes.com/news/articleView.html?idxno=212367
 
@@ -126,16 +125,16 @@ https://www.aitimes.com/news/articleView.html?idxno=212360
 ◾ 구글, 재학습 번거로움 없앤 표 분석 AI ＇탭FM＇ 오픈소스 공개
 https://www.aitimes.com/news/articleView.html?idxno=212363
 
-◾ MS, AI 투자 재원 확보 위해 ＇수천명 추가 감원＇ 단행
-https://www.aitimes.com/news/articleView.html?idxno=212350
+◾ 소프트뱅크, 오픈AI 지분 담보로 15조 대출 협상 재개…‘기업 보증’ 카드로 은행권 설득
+https://www.aitimes.com/news/articleView.html?idxno=212358
 
 ◾ 오픈AI, 미국 정부에 ＇지분 5%＇ 제안…IPO 앞두고 정치 리스크 돌파
 https://www.aitimes.com/news/articleView.html?idxno=212365
 
-[기타]
-◾ [에듀플러스]태재대 출판문화원, ＇에이전틱 AI가 여는 교육의 새 지평＇ 발간
-https://www.etnews.com/20260702000422
+◾ 앤트로픽, ＇페이블 5＇ 규제 해제...강화된 ＇안전 분류기＇ 적용
+https://www.aitimes.com/news/articleView.html?idxno=212337
 
+[기타]
 ◾ [ET톡] 피지컬 AI 1강, 부처 단합부터
 https://www.etnews.com/20260702000298
 
