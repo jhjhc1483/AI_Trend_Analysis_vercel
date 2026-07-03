@@ -14559,13 +14559,6 @@
   },
   "26.07.04": {
     "categorized": {
-      "국방": [
-        {
-          "title": "서울AI허브, 공군 AX 거점 구축…군·산·학 AI 협력 확대",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40820",
-          "category": "국방"
-        }
-      ],
       "민간": [
         {
           "title": "[도산아카데미] 백준호 퓨리오사AI 대표 “국산 NPU로 글로벌 추론 시장 공략”",
@@ -14593,13 +14586,13 @@
           "category": "민간"
         },
         {
-          "title": "망고클라우드 생성형 AI ＇헤이망고 RAG＇, 혁신제품 최종 지정",
-          "link": "https://www.etnews.com/20260703000096",
+          "title": "美 매체 “앤트로픽, 삼성전자와 AI칩 생산 논의 중”",
+          "link": "https://www.etnews.com/20260703000007",
           "category": "민간"
         },
         {
-          "title": "네이버, 자연재난·기상특보 통합 ＇날씨 세이프티＇ 공개",
-          "link": "https://www.etnews.com/20260703000019",
+          "title": "제틱에이아이, LG 슈퍼스타트 인큐베이터 선정… 〃산업 전반 온디바이스 AI 확장〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40810",
           "category": "민간"
         }
       ],
@@ -14615,6 +14608,16 @@
           "category": "기관"
         },
         {
+          "title": "AI 안전·보안 전문가 서울에 모인다…＇SFASS 2026＇ 7일 개막",
+          "link": "https://www.etnews.com/20260703000266",
+          "category": "기관"
+        },
+        {
+          "title": "글로벌 AI 프론티어 심포지엄 개최…MIT·오픈AI 기조발표",
+          "link": "https://www.etnews.com/20260703000192",
+          "category": "기관"
+        },
+        {
           "title": "정부, AI 학습용 개인정보 활용 특례 검토…코리아 그랜드 페스티벌도 확대",
           "link": "https://www.etnews.com/20260703000133",
           "category": "기관"
@@ -14623,48 +14626,6 @@
           "title": "국립전파연, ＇제2회 전파에너지 워크숍＇ 개최…AI·휴머노이드 시대 지원",
           "link": "https://www.etnews.com/20260702000430",
           "category": "기관"
-        },
-        {
-          "title": "서울공대 송현오 교수팀, 반도체 설계 검증 자동화하는 AI 에이전트 기술 개발",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40824",
-          "category": "기관"
-        }
-      ],
-      "해외": [
-        {
-          "title": "글로벌 AI 프론티어 심포지엄 개최…MIT·오픈AI 기조발표",
-          "link": "https://www.etnews.com/20260703000192",
-          "category": "해외"
-        },
-        {
-          "title": "美 매체 “앤트로픽, 삼성전자와 AI칩 생산 논의 중”",
-          "link": "https://www.etnews.com/20260703000007",
-          "category": "해외"
-        },
-        {
-          "title": "마이크로소프트, AI 전문 조직 ‘프론티어 컴퍼니’ 출범…25억 달러 투자해 고객 맞춤형 AI 혁신 지원",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40815",
-          "category": "해외"
-        },
-        {
-          "title": "구글, 차세대 ＇제미나이 플래시＇ 테스트 중...LM 아레나서 포착",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212397",
-          "category": "해외"
-        },
-        {
-          "title": "알리바바, 에이전트 도구 선택 프레임워크 ‘스킬위버’ 공개… “토큰 사용량 99.9% 절감”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212408",
-          "category": "해외"
-        },
-        {
-          "title": "소프트뱅크, 미국서 10GW AI 클라우드 서비스 게획…〃제2의 창업〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212407",
-          "category": "해외"
-        },
-        {
-          "title": "백악관, AI ＇출시 가이드라인＇ 다음 주 발표…오픈AI·앤트로픽과 최종 조율",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212388",
-          "category": "해외"
         }
       ],
       "기타": [
@@ -14684,6 +14645,50 @@
           "category": "기타"
         }
       ],
+      "해외": [
+        {
+          "title": "앤트로픽, ＇클로드 페이블 5＇ 보안 체계 전격 공개… AI 탈옥 위험도 평가 기준도 제안",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40825",
+          "category": "해외"
+        },
+        {
+          "title": "마이크로소프트, AI 전문 조직 ‘프론티어 컴퍼니’ 출범…25억 달러 투자해 고객 맞춤형 AI 혁신 지원",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40815",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 차세대 ＇제미나이 플래시＇ 테스트 중...LM 아레나서 포착",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212397",
+          "category": "해외"
+        },
+        {
+          "title": "MS 코파일럿, 소비자·기업용 전면 통합…8월 ＇업무형 슈퍼 앱＇으로 진화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212399",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바, 에이전트 도구 선택 프레임워크 ‘스킬위버’ 공개… “토큰 사용량 99.9% 절감”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212408",
+          "category": "해외"
+        },
+        {
+          "title": "xAI, 코드 없이 음성 AI 만드는 ＇보이스 에이전트 빌더＇ 베타 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212402",
+          "category": "해외"
+        },
+        {
+          "title": "백악관, AI ＇출시 가이드라인＇ 다음 주 발표…오픈AI·앤트로픽과 최종 조율",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212388",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "서울AI허브, 공군 AX 거점 구축…군·산·학 AI 협력 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40820",
+          "category": "국방"
+        }
+      ],
       "간행물": [
         {
           "title": "[디지털서비스 이슈리포트2026-6] 추론 클라우드",
@@ -14691,7 +14696,6 @@
           "category": "간행물"
         }
       ]
-    },
-    "briefing": "- 서울AI허브가 공군 AX 거점 구축을 시작으로 국방 분야의 군·산·학 AI 협력 확대를 추진합니다.\n- 한화그룹이 미래 전장 역량과 직결된 우주항공 및 AI 사업 분야에 2040년까지 55조 원을 투자할 계획입니다.\n- 정부가 영남권에 AI 데이터센터와 피지컬 AI 등 첨단 산업 기반을 조성하기 위한 대규모 투자 계획을 발표했습니다."
+    }
   }
 }
