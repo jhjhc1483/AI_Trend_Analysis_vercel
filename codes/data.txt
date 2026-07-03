@@ -1,164 +1,83 @@
-📢26.07.03 AI 일일 동향📢
+📢26.07.04 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 전남대 SW중심대학사업단, ＇군·학 연계 AI 자율주행 경진대회＇ 성료
-https://www.etnews.com/20260702000412
-
-◾ 국방정보통신협회 “AI 옷 입은 C5I, 미래 다영역작전 판도 바꾼다”
-https://www.etnews.com/20260702000056
-
-◾ AI 시대, 공군 운영 패러다임 전환 모색
-https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNjkxMSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 서울AI허브, 공군 AX 거점 구축…군·산·학 AI 협력 확대
+https://www.aitimes.kr/news/articleView.html?idxno=40820
 
 [민간]
-◾ 두나무, ＇AI 의료영상＇ 에어스메디컬에 후속 투자…누적 97억원
-https://www.etnews.com/20260702000441
+◾ [도산아카데미] 백준호 퓨리오사AI 대표 “국산 NPU로 글로벌 추론 시장 공략”
+https://www.etnews.com/20260703000320
 
-◾ 모비젠, ＇그래피오 2.0＇ 공개…“데이터·AI 전문기업 도약”
-https://www.etnews.com/20260702000306
+◾ 정재헌 SKT 사장 “영남권에 2GW 이상 AI 데이터센터 구축”
+https://www.etnews.com/20260703000300
 
-◾ Sh수협은행, XAI 기반 조기경보 플랫폼 ＇크레디트래커＇ 공개
-https://www.etnews.com/20260702000375
+◾ 김동관 한화 부회장 “2040년까지 우주항공·AI 사업에 55조 투자”
+https://www.etnews.com/20260703000272
 
-◾ 삼성·SK 등 충청권 392조 중 충남에  202조 투자, ＇AI 제조 혁신 5년 앞당긴다＇
-https://www.etnews.com/20260702000278
+◾ 현대차그룹, 영남권에 42조원 투자… ＇AI 자율주행·항공＇ 거점 키운다
+https://www.etnews.com/20260703000273
 
-◾ 마키나락스, 상반기 200억원 수주…삼성·현대차·두산 AI 사업 확보
-https://www.etnews.com/20260702000248
+◾ 딥엑스, 日 고시다테크와 전략적 파트너십…일본 피지컬 AI 시장 공략
+https://www.etnews.com/20260703000220
 
-◾ 삼성SDI, R&D부터 위험관리까지 AI 확대…전사 AX 전환 가속
-https://www.etnews.com/20260702000216
+◾ 망고클라우드 생성형 AI ＇헤이망고 RAG＇, 혁신제품 최종 지정
+https://www.etnews.com/20260703000096
 
-◾ SK바이오사이언스, 게이츠재단과 AI 백신개발 플랫폼 구축 나서
-https://www.etnews.com/20260702000176
-
-◾ 시그래프 2026, 로봇공학과 컴퓨터그래픽스 융합 조명… “가상세계가 로봇을 훈련하는 시대”
-https://www.aitimes.kr/news/articleView.html?idxno=40806
-
-◾ 카카오, ‘2026 디지털 플랫폼의 일상혁신 연구지원’ 공모...선정 과제당 2000만 원 지원
-https://www.aitimes.kr/news/articleView.html?idxno=40805
-
-◾ 36년 ＇한글과컴퓨터＇ 역사속으로…한컴, ＇에이전틱 OS 기업＇으로 다시 태어난다
-https://www.aitimes.kr/news/articleView.html?idxno=40800
-
-◾ 삼성, 충청권에 140조원 투자… 〃디스플레이·HBM·배터리·AI 패키지로 미래 성장동력 확보〃
-https://www.aitimes.kr/news/articleView.html?idxno=40798
-
-◾ 트웰브랩스, 시리즈B 1,500억 원 유치…영상 인식·기억·추론을 통합한 ‘영상 인지 시스템’ 확장
-https://www.aitimes.kr/news/articleView.html?idxno=40795
-
-◾ [게시판] AI스페라, ＇크리미널 IP＇ 글로벌 플랫폼 연동 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=212352
-
-◾ 두나무앤파트너스, AI 의료영상 기업 ＇에어스메디컬＇ 후속 투자
-https://www.aitimes.com/news/articleView.html?idxno=212339
+◾ 네이버, 자연재난·기상특보 통합 ＇날씨 세이프티＇ 공개
+https://www.etnews.com/20260703000019
 
 [기관]
-◾ 행안부, ＇AI 정부 실험실＇ 시범 운영…“공무원이 직접 AI에이전트 개발”
-https://www.etnews.com/20260702000374
+◾ 개인정보위, AI 개인정보 규제 ＇위험 비례＇로 전환
+https://www.etnews.com/20260703000318
 
-◾ 서울시, ＇청년 AI 기본권＇ 추진…모든 청년에 생성형 AI 무료 지원
-https://www.etnews.com/20260702000352
+◾ 정부, 영남권에 312조원 투자…반도체·AI데이터센터·피지컬AI 육성
+https://www.etnews.com/20260703000316
 
-◾ 과기정통부, 중장기 연구개발 투자전략 공개…“기술주도 성장 구현”
-https://www.etnews.com/20260702000135
+◾ 정부, AI 학습용 개인정보 활용 특례 검토…코리아 그랜드 페스티벌도 확대
+https://www.etnews.com/20260703000133
 
-◾ 금융당국, AI 보안 테스트 중 발생한 전산장애 제재 면책한다
-https://www.etnews.com/20260702000267
+◾ 국립전파연, ＇제2회 전파에너지 워크숍＇ 개최…AI·휴머노이드 시대 지원
+https://www.etnews.com/20260702000430
 
-◾ AI중심대학 18개교 확대…비수도권 SW중심대학 전환·신규 선정
-https://www.etnews.com/20260702000195
-
-◾ 배경훈 부총리 “모두의 AI로 ＇AI 강국＇ 실현”…토큰·수익 환원 제안
-https://www.etnews.com/20260702000148
-
-◾ DGIST, 오탐률 2% 혁신적 텍스트 워터마킹 개발…디지털 저작권 보호하는 AI 포렌식 분야에서 핵심 역할 기대
-https://www.etnews.com/20260702000022
-
-◾ “한국 AI 기본법은 EU와 미국의 절충형 모델”...국제 AI 법률저널, 한국 AI법 집중 조명
-https://www.aitimes.kr/news/articleView.html?idxno=40808
-
-◾ AI가 119 신고 ＇긴급도＇ 판정한다!… NEC, “폭염 속 구급 신고 급증 대응 나섰다”
-https://www.aitimes.kr/news/articleView.html?idxno=40807
-
-◾ 오세훈 시장, 민선 9기 첫 정책으로 ＇청년 AI 사다리＇ 제시… 〃AI 기본권 보장하겠다〃
-https://www.aitimes.kr/news/articleView.html?idxno=40803
-
-◾ 한국인공지능협회, 인공지능 최고위과정... 〃AI 시대, 대표의 역할이 바뀐다〃
-https://www.aitimes.kr/news/articleView.html?idxno=40802
-
-◾ 현실로 다가온 자율주행, 안전성은 ＇디지털 인프라＇에 달렸다…국회 토론회서 정책 과제 논의
-https://www.aitimes.kr/news/articleView.html?idxno=40793
-
-◾ SK AX, 한국전력기술과 발전·에너지 산업 AX 혁신 나선다
-https://www.aitimes.kr/news/articleView.html?idxno=40789
-
-◾ 과기정통부, 비수도권 인공지능 중심대학 추가 선정 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187510&searchOpt=ALL&searchTxt=
+◾ 서울공대 송현오 교수팀, 반도체 설계 검증 자동화하는 AI 에이전트 기술 개발
+https://www.aitimes.kr/news/articleView.html?idxno=40824
 
 [해외]
-◾ 미국 AI 규제 압박 속… “오픈AI, 美 정부와 ＇지분 5%＇ 공유…수익 나누자”
-https://www.etnews.com/20260702000434
+◾ 글로벌 AI 프론티어 심포지엄 개최…MIT·오픈AI 기조발표
+https://www.etnews.com/20260703000192
 
-◾ 수세 “AI 인프라·엣지 컴퓨팅 미래 성장동력으로 키운다”
-https://www.etnews.com/20260702000296
+◾ 美 매체 “앤트로픽, 삼성전자와 AI칩 생산 논의 중”
+https://www.etnews.com/20260703000007
 
-◾ 노키아 “통신망이 초거대 AI 연산 인프라로 진화”…AI-RAN 비전 공개
-https://www.etnews.com/20260702000316
+◾ 마이크로소프트, AI 전문 조직 ‘프론티어 컴퍼니’ 출범…25억 달러 투자해 고객 맞춤형 AI 혁신 지원
+https://www.aitimes.kr/news/articleView.html?idxno=40815
 
-◾ 메타, 남는 AI 연산자원 외부에 판다…클라우드 사업 진출 검토
-https://www.etnews.com/20260702000019
+◾ 구글, 차세대 ＇제미나이 플래시＇ 테스트 중...LM 아레나서 포착
+https://www.aitimes.com/news/articleView.html?idxno=212397
 
-◾ 팔란티어 CEO “오픈AI·앤트로픽 토큰 모델, 완전히 잘못됐다”
-https://www.etnews.com/20260702000018
+◾ 알리바바, 에이전트 도구 선택 프레임워크 ‘스킬위버’ 공개… “토큰 사용량 99.9% 절감”
+https://www.aitimes.com/news/articleView.html?idxno=212408
 
-◾ 앤트로픽, ＇클로드 코드＇ 중국 사용자 비밀 추적 논란…결국 기능 철회
-https://www.aitimes.com/news/articleView.html?idxno=212357
+◾ 소프트뱅크, 미국서 10GW AI 클라우드 서비스 게획…〃제2의 창업〃
+https://www.aitimes.com/news/articleView.html?idxno=212407
 
-◾ 엔비디아, 스스로 제어 코드 짜고 디버깅하는 로봇 AI ＇아스파이어＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=212367
-
-◾ “컨텍스트와 노이즈 제거의 분리”…엔비디아, 하이브리드 확산 모델 ‘네모트론 투타워’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=212360
-
-◾ 구글, 재학습 번거로움 없앤 표 분석 AI ＇탭FM＇ 오픈소스 공개
-https://www.aitimes.com/news/articleView.html?idxno=212363
-
-◾ 소프트뱅크, 오픈AI 지분 담보로 15조 대출 협상 재개…‘기업 보증’ 카드로 은행권 설득
-https://www.aitimes.com/news/articleView.html?idxno=212358
-
-◾ 오픈AI, 미국 정부에 ＇지분 5%＇ 제안…IPO 앞두고 정치 리스크 돌파
-https://www.aitimes.com/news/articleView.html?idxno=212365
-
-◾ 앤트로픽, ＇페이블 5＇ 규제 해제...강화된 ＇안전 분류기＇ 적용
-https://www.aitimes.com/news/articleView.html?idxno=212337
+◾ 백악관, AI ＇출시 가이드라인＇ 다음 주 발표…오픈AI·앤트로픽과 최종 조율
+https://www.aitimes.com/news/articleView.html?idxno=212388
 
 [기타]
-◾ [ET톡] 피지컬 AI 1강, 부처 단합부터
-https://www.etnews.com/20260702000298
+◾ [에듀플러스]〈기고〉AI 시대 초등학교 정보교육 더 이상 미룰 수 없다
+https://www.etnews.com/20260703000025
 
-◾ [ET시론]대한민국 AI의 심장, AI 데이터센터
-https://www.etnews.com/20260702000119
+◾ 한동대 김인중 교수, 〃AI 거품론... 무엇을 놓치고 있는가?〃
+https://www.aitimes.kr/news/articleView.html?idxno=40821
 
-◾ [김동현의 AI 시대와 한국의 선택] 〈6〉퍼스트 무버로의 전환을 위한 국가적 인프라 과제와 규제 혁신
-https://www.etnews.com/20260702000078
-
-◾ [김장현의 테크와 사람] 〈104〉인공지능 시대의 문해력
-https://www.etnews.com/20260702000089
-
-◾ 전쟁·AI가 바꾼 자본 흐름…“벤처도 투자 전략 바꿔야”
-https://www.etnews.com/20260702000322
+◾ “한국 AI, 패배주의 벗어나야…하드웨어·차세대AI서 기회 열려”
+https://www.aitimes.com/news/articleView.html?idxno=212410
 
 📚 간행물
-◾ 전자정부의 날 연계 글로벌 공공AI포럼(26.6.23.) 발표자료
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=29610&parentSeq=29610
-
-◾ 모바일인프라, 양자, 일본AI투자 [AI·ICT Brief 2026-23호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260702-000006&cpage=1&rows=10&searchTarget=all
-
-◾ 피지컬 AI 패러다임 전환과 휴머노이드 실전 배치 가속화 外 [IITP 디지털 아웃룩 2026-6월호]
-https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260702-000005&cpage=1&rows=10&searchTarget=all
+◾ [디지털서비스 이슈리포트2026-6] 추론 클라우드
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29616&parentSeq=29616
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

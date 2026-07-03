@@ -14556,5 +14556,141 @@
       ]
     },
     "briefing": "- 국방정보통신협회는 AI 기술이 접목된 C5I 체계가 미래 다영역작전의 판도를 바꿀 핵심 요소가 될 것이라 전망했습니다.\n- 피지컬 AI의 패러다임 전환과 함께 휴머노이드 로봇의 실전 배치가 가속화될 것이라는 분석이 제기되었습니다.\n- 군과 학계가 연계하여 미래 전장의 자율주행 기술 역량을 강화하기 위한 ‘AI 자율주행 경진대회’가 성황리에 마무리되었습니다."
+  },
+  "26.07.04": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "서울AI허브, 공군 AX 거점 구축…군·산·학 AI 협력 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40820",
+          "category": "국방"
+        }
+      ],
+      "민간": [
+        {
+          "title": "[도산아카데미] 백준호 퓨리오사AI 대표 “국산 NPU로 글로벌 추론 시장 공략”",
+          "link": "https://www.etnews.com/20260703000320",
+          "category": "민간"
+        },
+        {
+          "title": "정재헌 SKT 사장 “영남권에 2GW 이상 AI 데이터센터 구축”",
+          "link": "https://www.etnews.com/20260703000300",
+          "category": "민간"
+        },
+        {
+          "title": "김동관 한화 부회장 “2040년까지 우주항공·AI 사업에 55조 투자”",
+          "link": "https://www.etnews.com/20260703000272",
+          "category": "민간"
+        },
+        {
+          "title": "현대차그룹, 영남권에 42조원 투자… ＇AI 자율주행·항공＇ 거점 키운다",
+          "link": "https://www.etnews.com/20260703000273",
+          "category": "민간"
+        },
+        {
+          "title": "딥엑스, 日 고시다테크와 전략적 파트너십…일본 피지컬 AI 시장 공략",
+          "link": "https://www.etnews.com/20260703000220",
+          "category": "민간"
+        },
+        {
+          "title": "망고클라우드 생성형 AI ＇헤이망고 RAG＇, 혁신제품 최종 지정",
+          "link": "https://www.etnews.com/20260703000096",
+          "category": "민간"
+        },
+        {
+          "title": "네이버, 자연재난·기상특보 통합 ＇날씨 세이프티＇ 공개",
+          "link": "https://www.etnews.com/20260703000019",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "개인정보위, AI 개인정보 규제 ＇위험 비례＇로 전환",
+          "link": "https://www.etnews.com/20260703000318",
+          "category": "기관"
+        },
+        {
+          "title": "정부, 영남권에 312조원 투자…반도체·AI데이터센터·피지컬AI 육성",
+          "link": "https://www.etnews.com/20260703000316",
+          "category": "기관"
+        },
+        {
+          "title": "정부, AI 학습용 개인정보 활용 특례 검토…코리아 그랜드 페스티벌도 확대",
+          "link": "https://www.etnews.com/20260703000133",
+          "category": "기관"
+        },
+        {
+          "title": "국립전파연, ＇제2회 전파에너지 워크숍＇ 개최…AI·휴머노이드 시대 지원",
+          "link": "https://www.etnews.com/20260702000430",
+          "category": "기관"
+        },
+        {
+          "title": "서울공대 송현오 교수팀, 반도체 설계 검증 자동화하는 AI 에이전트 기술 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40824",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "글로벌 AI 프론티어 심포지엄 개최…MIT·오픈AI 기조발표",
+          "link": "https://www.etnews.com/20260703000192",
+          "category": "해외"
+        },
+        {
+          "title": "美 매체 “앤트로픽, 삼성전자와 AI칩 생산 논의 중”",
+          "link": "https://www.etnews.com/20260703000007",
+          "category": "해외"
+        },
+        {
+          "title": "마이크로소프트, AI 전문 조직 ‘프론티어 컴퍼니’ 출범…25억 달러 투자해 고객 맞춤형 AI 혁신 지원",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40815",
+          "category": "해외"
+        },
+        {
+          "title": "구글, 차세대 ＇제미나이 플래시＇ 테스트 중...LM 아레나서 포착",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212397",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바, 에이전트 도구 선택 프레임워크 ‘스킬위버’ 공개… “토큰 사용량 99.9% 절감”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212408",
+          "category": "해외"
+        },
+        {
+          "title": "소프트뱅크, 미국서 10GW AI 클라우드 서비스 게획…〃제2의 창업〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212407",
+          "category": "해외"
+        },
+        {
+          "title": "백악관, AI ＇출시 가이드라인＇ 다음 주 발표…오픈AI·앤트로픽과 최종 조율",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212388",
+          "category": "해외"
+        }
+      ],
+      "기타": [
+        {
+          "title": "[에듀플러스]〈기고〉AI 시대 초등학교 정보교육 더 이상 미룰 수 없다",
+          "link": "https://www.etnews.com/20260703000025",
+          "category": "기타"
+        },
+        {
+          "title": "한동대 김인중 교수, 〃AI 거품론... 무엇을 놓치고 있는가?〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40821",
+          "category": "기타"
+        },
+        {
+          "title": "“한국 AI, 패배주의 벗어나야…하드웨어·차세대AI서 기회 열려”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212410",
+          "category": "기타"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[디지털서비스 이슈리포트2026-6] 추론 클라우드",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29616&parentSeq=29616",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
