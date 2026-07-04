@@ -14698,5 +14698,92 @@
       ]
     },
     "briefing": "- 서울AI허브가 공군 AX 거점 구축을 통해 군·산·학 AI 협력 및 국방 분야 인공지능 기술 확산을 가속화합니다.\n- 한화그룹이 2040년까지 우주항공 및 AI 사업에 55조 원을 투자하여 미래 전장 역량과 직결된 신사업 육성 계획을 밝혔습니다.\n- 마이크로소프트의 코파일럿이 오는 8월 소비자·기업용 기능을 전면 통합한 '업무형 슈퍼 앱'으로 진화하며 행정 효율 혁신을 지원할 예정입니다."
+  },
+  "26.07.05": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "인하대 로보틱스 연구실, ICRA 2026서 논문 4편·SLAM 2위",
+          "link": "https://www.etnews.com/20260704000002",
+          "category": "민간"
+        },
+        {
+          "title": "생성형 영상에서 ‘실시간 대화형 영상’으로 진화...성수테크놀로지, 차세대 영상 생성 플랫폼 ‘비두 S1’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40828",
+          "category": "민간"
+        },
+        {
+          "title": "삼성, 영남에 60조원 투자… ‘글로벌 피지컬 AI 혁신 클러스터’ 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40827",
+          "category": "민간"
+        },
+        {
+          "title": "[7월3일] 〃비싼 모델만 쓸 필요 없다〃…AI 토큰 비용 절감이 보여주는 변화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212386",
+          "category": "민간"
+        },
+        {
+          "title": "＇AI 토큰 지출＇ 지표 첫 하락세…AI 거품 붕괴 vs 수요 조정 의견 맞서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212434",
+          "category": "민간"
+        },
+        {
+          "title": "〃테스트 타임 컴퓨트가 새로운 스케일링 법칙〃...＇엣지벤치＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212425",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "스마트인재개발원, ＇AI 트랜스포메이션 2026＇ 컨퍼런스…AX 산업 변화·인재 양성 방향 공유",
+          "link": "https://www.etnews.com/20260704000006",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "[AI 리뷰] 〃딥페이크 판별도 학습된다〃…호주 연구진, AI 생성 얼굴 이미지 식별 정확도 2배 향상",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40829",
+          "category": "해외"
+        },
+        {
+          "title": "메타, 앤트로픽 ＇클로드＇ 직접 서비스 추진...〃클라우드 진입 준비〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212432",
+          "category": "해외"
+        },
+        {
+          "title": "미스트랄, 수학 증명·코드 검증 특화 ‘린스트랄 1.5’ 전격 공개…“퍼트넘벤치서 역대 최고 성적”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212428",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아, 차세대 ＇루빈 울트라＇ 4칩렛 대신 2칩렛으로 선회…양산 현실 고려했나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212421",
+          "category": "해외"
+        },
+        {
+          "title": "중국 대기업·중동 자본까지 합세…4조 확보한 ＇클링 AI＇, 글로벌 시장 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212427",
+          "category": "해외"
+        },
+        {
+          "title": "아마존, 온디바이스 AI 칩 설계...〃화면 없는 자체 AI 기기 곧 공개〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212429",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바, 직원 ＇클로드 코드＇ 사용 금지...＇중국 사용자 비밀 추적＇ 여파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212423",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "한화, AI 우주강국 도약 위해 55조원 선제적 투자… 자주국방 위한 AI 역량 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40826",
+          "category": "국방"
+        }
+      ]
+    }
   }
 }

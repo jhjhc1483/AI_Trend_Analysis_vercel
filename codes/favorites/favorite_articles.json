@@ -1,122 +1,77 @@
 [
   {
-    "title": "[도산아카데미] 백준호 퓨리오사AI 대표 “국산 NPU로 글로벌 추론 시장 공략”",
-    "link": "https://www.etnews.com/20260703000320",
+    "title": "인하대 로보틱스 연구실, ICRA 2026서 논문 4편·SLAM 2위",
+    "link": "https://www.etnews.com/20260704000002",
     "category": "민간"
   },
   {
-    "title": "개인정보위, AI 개인정보 규제 ＇위험 비례＇로 전환",
-    "link": "https://www.etnews.com/20260703000318",
+    "title": "스마트인재개발원, ＇AI 트랜스포메이션 2026＇ 컨퍼런스…AX 산업 변화·인재 양성 방향 공유",
+    "link": "https://www.etnews.com/20260704000006",
     "category": "기관"
   },
   {
-    "title": "정부, 영남권에 312조원 투자…반도체·AI데이터센터·피지컬AI 육성",
-    "link": "https://www.etnews.com/20260703000316",
-    "category": "기관"
-  },
-  {
-    "title": "정재헌 SKT 사장 “영남권에 2GW 이상 AI 데이터센터 구축”",
-    "link": "https://www.etnews.com/20260703000300",
-    "category": "민간"
-  },
-  {
-    "title": "김동관 한화 부회장 “2040년까지 우주항공·AI 사업에 55조 투자”",
-    "link": "https://www.etnews.com/20260703000272",
-    "category": "민간"
-  },
-  {
-    "title": "현대차그룹, 영남권에 42조원 투자… ＇AI 자율주행·항공＇ 거점 키운다",
-    "link": "https://www.etnews.com/20260703000273",
-    "category": "민간"
-  },
-  {
-    "title": "AI 안전·보안 전문가 서울에 모인다…＇SFASS 2026＇ 7일 개막",
-    "link": "https://www.etnews.com/20260703000266",
-    "category": "기관"
-  },
-  {
-    "title": "딥엑스, 日 고시다테크와 전략적 파트너십…일본 피지컬 AI 시장 공략",
-    "link": "https://www.etnews.com/20260703000220",
-    "category": "민간"
-  },
-  {
-    "title": "글로벌 AI 프론티어 심포지엄 개최…MIT·오픈AI 기조발표",
-    "link": "https://www.etnews.com/20260703000192",
-    "category": "기관"
-  },
-  {
-    "title": "정부, AI 학습용 개인정보 활용 특례 검토…코리아 그랜드 페스티벌도 확대",
-    "link": "https://www.etnews.com/20260703000133",
-    "category": "기관"
-  },
-  {
-    "title": "국립전파연, ＇제2회 전파에너지 워크숍＇ 개최…AI·휴머노이드 시대 지원",
-    "link": "https://www.etnews.com/20260702000430",
-    "category": "기관"
-  },
-  {
-    "title": "[에듀플러스]〈기고〉AI 시대 초등학교 정보교육 더 이상 미룰 수 없다",
-    "link": "https://www.etnews.com/20260703000025",
-    "category": "기타"
-  },
-  {
-    "title": "美 매체 “앤트로픽, 삼성전자와 AI칩 생산 논의 중”",
-    "link": "https://www.etnews.com/20260703000007",
-    "category": "민간"
-  },
-  {
-    "title": "앤트로픽, ＇클로드 페이블 5＇ 보안 체계 전격 공개… AI 탈옥 위험도 평가 기준도 제안",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40825",
+    "title": "[AI 리뷰] 〃딥페이크 판별도 학습된다〃…호주 연구진, AI 생성 얼굴 이미지 식별 정확도 2배 향상",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40829",
     "category": "해외"
   },
   {
-    "title": "한동대 김인중 교수, 〃AI 거품론... 무엇을 놓치고 있는가?〃",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40821",
-    "category": "기타"
+    "title": "생성형 영상에서 ‘실시간 대화형 영상’으로 진화...성수테크놀로지, 차세대 영상 생성 플랫폼 ‘비두 S1’ 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40828",
+    "category": "민간"
   },
   {
-    "title": "서울AI허브, 공군 AX 거점 구축…군·산·학 AI 협력 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40820",
+    "title": "삼성, 영남에 60조원 투자… ‘글로벌 피지컬 AI 혁신 클러스터’ 구축",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40827",
+    "category": "민간"
+  },
+  {
+    "title": "한화, AI 우주강국 도약 위해 55조원 선제적 투자… 자주국방 위한 AI 역량 구축",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40826",
     "category": "국방"
   },
   {
-    "title": "마이크로소프트, AI 전문 조직 ‘프론티어 컴퍼니’ 출범…25억 달러 투자해 고객 맞춤형 AI 혁신 지원",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40815",
-    "category": "해외"
-  },
-  {
-    "title": "제틱에이아이, LG 슈퍼스타트 인큐베이터 선정… 〃산업 전반 온디바이스 AI 확장〃",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40810",
+    "title": "[7월3일] 〃비싼 모델만 쓸 필요 없다〃…AI 토큰 비용 절감이 보여주는 변화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212386",
     "category": "민간"
   },
   {
-    "title": "구글, 차세대 ＇제미나이 플래시＇ 테스트 중...LM 아레나서 포착",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212397",
+    "title": "＇AI 토큰 지출＇ 지표 첫 하락세…AI 거품 붕괴 vs 수요 조정 의견 맞서",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212434",
+    "category": "민간"
+  },
+  {
+    "title": "메타, 앤트로픽 ＇클로드＇ 직접 서비스 추진...〃클라우드 진입 준비〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212432",
     "category": "해외"
   },
   {
-    "title": "MS 코파일럿, 소비자·기업용 전면 통합…8월 ＇업무형 슈퍼 앱＇으로 진화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212399",
+    "title": "미스트랄, 수학 증명·코드 검증 특화 ‘린스트랄 1.5’ 전격 공개…“퍼트넘벤치서 역대 최고 성적”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212428",
     "category": "해외"
   },
   {
-    "title": "알리바바, 에이전트 도구 선택 프레임워크 ‘스킬위버’ 공개… “토큰 사용량 99.9% 절감”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212408",
+    "title": "엔비디아, 차세대 ＇루빈 울트라＇ 4칩렛 대신 2칩렛으로 선회…양산 현실 고려했나",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212421",
     "category": "해외"
   },
   {
-    "title": "xAI, 코드 없이 음성 AI 만드는 ＇보이스 에이전트 빌더＇ 베타 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212402",
+    "title": "중국 대기업·중동 자본까지 합세…4조 확보한 ＇클링 AI＇, 글로벌 시장 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212427",
     "category": "해외"
   },
   {
-    "title": "“한국 AI, 패배주의 벗어나야…하드웨어·차세대AI서 기회 열려”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212410",
-    "category": "기타"
+    "title": "아마존, 온디바이스 AI 칩 설계...〃화면 없는 자체 AI 기기 곧 공개〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212429",
+    "category": "해외"
   },
   {
-    "title": "백악관, AI ＇출시 가이드라인＇ 다음 주 발표…오픈AI·앤트로픽과 최종 조율",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212388",
+    "title": "알리바바, 직원 ＇클로드 코드＇ 사용 금지...＇중국 사용자 비밀 추적＇ 여파",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212423",
     "category": "해외"
+  },
+  {
+    "title": "〃테스트 타임 컴퓨트가 새로운 스케일링 법칙〃...＇엣지벤치＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212425",
+    "category": "민간"
   }
 ]
