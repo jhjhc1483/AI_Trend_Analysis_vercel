@@ -1,38 +1,8 @@
 [
   {
-    "title": "HD건설기계, 육군과 무인 건설장비 기술 고도화...군 현장에 무인자율화 기술·시스템 접목",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40832",
-    "category": "육군"
-  },
-  {
-    "title": "병영식당 도입 가능한 AI·로봇기술 확인",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방"
-  },
-  {
-    "title": "건설장비 무인자율화 기술 軍에 접목",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방"
-  },
-  {
-    "title": "지휘관 의사결정 돕는 ‘작전 AI’ 구축 본격화",
-    "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNzAxOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방"
-  },
-  {
-    "title": "공군·서울대, 전투형 AI 연구개발 내달 착수",
-    "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzAyMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방"
-  },
-  {
     "title": "[에듀플러스]교환학생도 AI가 뽑는다…대학가 번지는 ＇AI 면접관＇",
     "link": "https://www.etnews.com/20260702000446",
-    "category": "민간"
-  },
-  {
-    "title": "AI 훈풍에 삼성전기·LG이노텍 2분기 호실적 예고",
-    "link": "https://www.etnews.com/20260702000224",
-    "category": "민간"
+    "category": "기관"
   },
   {
     "title": "＇리테일 AI＇ 첫발 뗀 이마트 vs 롯데마트…주도권은 누구 손에",
@@ -40,34 +10,14 @@
     "category": "민간"
   },
   {
-    "title": "신한금융, 포럼에 ＇AI 레드팀＇ 전격 도입…AX 실행력 높인다",
-    "link": "https://www.etnews.com/20260705000002",
-    "category": "민간"
+    "title": "[기고] 현장의 지혜와 AI가 함께 여는 인사혁신",
+    "link": "https://www.etnews.com/20260703000216",
+    "category": "기타"
   },
   {
-    "title": "네이버, ＇프로덕트 네이티브 LLM＇으로 AI탭 고도화…속도 높이고 환각 줄였다",
-    "link": "https://www.etnews.com/20260703000168",
-    "category": "민간"
-  },
-  {
-    "title": "AI 에이전트, 생성형 AI보다 질문 한 건당 최대 136.5배 에너지 소비",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40831",
-    "category": "민간"
-  },
-  {
-    "title": "SKT, 울산 AI 데이터센터 GW급 확장…2029년 5GW 단계적 오픈해 15GW 규모로 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40830",
-    "category": "민간"
-  },
-  {
-    "title": "한국공학대 길형원팀, AI 자세 인식 시스템으로 반도체 캡스톤 대상",
-    "link": "https://www.etnews.com/20260705000083",
-    "category": "기관"
-  },
-  {
-    "title": "[에듀플러스]순천대 RISE사업단, 전남 테크 재직자 AI 혁신 교육 시작…＇현업에 적용하는 AI 교육＇ 지역 관심 높아",
-    "link": "https://www.etnews.com/20260704000028",
-    "category": "기관"
+    "title": "[김태형의 혁신의기술] 〈55〉AI 네이티브(Native), 우리는 어떤 시대에 살고 있는가(상)",
+    "link": "https://www.etnews.com/20260703000275",
+    "category": "기타"
   },
   {
     "title": "금오공대·포항공대·한양대, AI중심대학 선정…경쟁률 10대 1",
@@ -80,9 +30,29 @@
     "category": "기관"
   },
   {
+    "title": "세계 AI 지출, 3년 뒤 7245조원…“수백 에이전트 사용시 통제 위기”",
+    "link": "https://www.etnews.com/20260705000047",
+    "category": "해외"
+  },
+  {
     "title": "기후부 AX 경진대회 대상 ＇에코콩＇…“AI로 물관리 최적 시나리오 제시”",
     "link": "https://www.etnews.com/20260705000007",
     "category": "기관"
+  },
+  {
+    "title": "신한금융, 포럼에 ＇AI 레드팀＇ 전격 도입…AX 실행력 높인다",
+    "link": "https://www.etnews.com/20260705000002",
+    "category": "민간"
+  },
+  {
+    "title": "네이버, ＇프로덕트 네이티브 LLM＇으로 AI탭 고도화…속도 높이고 환각 줄였다",
+    "link": "https://www.etnews.com/20260703000168",
+    "category": "민간"
+  },
+  {
+    "title": "[단독] ＇미토스 쇼크＇에 금융권 AI 보안 재정비…KB국민은행, 내부통제 고도화",
+    "link": "https://www.etnews.com/20260703000108",
+    "category": "민간"
   },
   {
     "title": "세계 1만5천 AI 석학들 서울 총 집결… ICML 2026, 한국 AI 위상 높인다",
@@ -90,24 +60,49 @@
     "category": "기관"
   },
   {
-    "title": "KAIST, 에이전트 전력 비용 규명...〃챗봇보다 136배 에너지 사용〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212437",
-    "category": "기관"
+    "title": "HD건설기계, 육군과 무인 건설장비 기술 고도화...군 현장에 무인자율화 기술·시스템 접목",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40832",
+    "category": "육군"
   },
   {
-    "title": "美마이크론, 日공장 14조 투입해 HBM 증설",
-    "link": "https://www.etnews.com/20260705000052",
-    "category": "해외"
+    "title": "SKT, 울산 AI 데이터센터 GW급 확장…2029년 5GW 단계적 오픈해 15GW 규모로 확대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40830",
+    "category": "민간"
   },
   {
-    "title": "세계 AI 지출, 3년 뒤 7245조원…“수백 에이전트 사용시 통제 위기”",
-    "link": "https://www.etnews.com/20260705000047",
-    "category": "해외"
+    "title": "병영식당 도입 가능한 AI·로봇기술 확인",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "건설장비 무인자율화 기술 軍에 접목",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군"
+  },
+  {
+    "title": "지휘관 의사결정 돕는 ‘작전 AI’ 구축 본격화",
+    "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNzAxOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "공군·서울대, 전투형 AI 연구개발 내달 착수",
+    "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzAyMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
   },
   {
     "title": "메타, 앤트로픽 ＇클로드＇ 직접 서비스 추진...〃클라우드 진입 준비〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=212432",
     "category": "해외"
+  },
+  {
+    "title": "씽크포비엘 “GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212448",
+    "category": "민간"
+  },
+  {
+    "title": "〃모델 다변화는 성공, 거버넌스는 낙제점〃…기업 AI ＇통제 격차＇ 본격화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212446",
+    "category": "민간"
   },
   {
     "title": "바이트댄스, ‘시댄스 2.5’ 이번 주 출시 예정...최대 3분 영상 생성",
@@ -125,9 +120,9 @@
     "category": "해외"
   },
   {
-    "title": "[기고] 현장의 지혜와 AI가 함께 여는 인사혁신",
-    "link": "https://www.etnews.com/20260703000216",
-    "category": "기타"
+    "title": "KAIST, 에이전트 전력 비용 규명...〃챗봇보다 136배 에너지 사용〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212437",
+    "category": "기관"
   },
   {
     "title": "[기고] 한국딥러닝 “기업 LLM 시대, AI 경쟁력은 모델이 아니라 ‘컨텍스트 관리 시스템’에 있다”",

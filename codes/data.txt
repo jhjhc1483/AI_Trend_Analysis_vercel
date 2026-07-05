@@ -5,9 +5,6 @@
 ◾ 병영식당 도입 가능한 AI·로봇기술 확인
 https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 건설장비 무인자율화 기술 軍에 접목
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
 ◾ 지휘관 의사결정 돕는 ‘작전 AI’ 구축 본격화
 https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNzAxOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
@@ -18,13 +15,10 @@ https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTM
 ◾ HD건설기계, 육군과 무인 건설장비 기술 고도화...군 현장에 무인자율화 기술·시스템 접목
 https://www.aitimes.kr/news/articleView.html?idxno=40832
 
+◾ 건설장비 무인자율화 기술 軍에 접목
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
 [민간]
-◾ [에듀플러스]교환학생도 AI가 뽑는다…대학가 번지는 ＇AI 면접관＇
-https://www.etnews.com/20260702000446
-
-◾ AI 훈풍에 삼성전기·LG이노텍 2분기 호실적 예고
-https://www.etnews.com/20260702000224
-
 ◾ ＇리테일 AI＇ 첫발 뗀 이마트 vs 롯데마트…주도권은 누구 손에
 https://www.etnews.com/20260703000189
 
@@ -34,18 +28,21 @@ https://www.etnews.com/20260705000002
 ◾ 네이버, ＇프로덕트 네이티브 LLM＇으로 AI탭 고도화…속도 높이고 환각 줄였다
 https://www.etnews.com/20260703000168
 
-◾ AI 에이전트, 생성형 AI보다 질문 한 건당 최대 136.5배 에너지 소비
-https://www.aitimes.kr/news/articleView.html?idxno=40831
+◾ [단독] ＇미토스 쇼크＇에 금융권 AI 보안 재정비…KB국민은행, 내부통제 고도화
+https://www.etnews.com/20260703000108
 
 ◾ SKT, 울산 AI 데이터센터 GW급 확장…2029년 5GW 단계적 오픈해 15GW 규모로 확대
 https://www.aitimes.kr/news/articleView.html?idxno=40830
 
-[기관]
-◾ 한국공학대 길형원팀, AI 자세 인식 시스템으로 반도체 캡스톤 대상
-https://www.etnews.com/20260705000083
+◾ 씽크포비엘 “GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상”
+https://www.aitimes.com/news/articleView.html?idxno=212448
 
-◾ [에듀플러스]순천대 RISE사업단, 전남 테크 재직자 AI 혁신 교육 시작…＇현업에 적용하는 AI 교육＇ 지역 관심 높아
-https://www.etnews.com/20260704000028
+◾ 〃모델 다변화는 성공, 거버넌스는 낙제점〃…기업 AI ＇통제 격차＇ 본격화
+https://www.aitimes.com/news/articleView.html?idxno=212446
+
+[기관]
+◾ [에듀플러스]교환학생도 AI가 뽑는다…대학가 번지는 ＇AI 면접관＇
+https://www.etnews.com/20260702000446
 
 ◾ 금오공대·포항공대·한양대, AI중심대학 선정…경쟁률 10대 1
 https://www.etnews.com/20260703000194
@@ -63,9 +60,6 @@ https://www.aitimes.kr/news/articleView.html?idxno=40833
 https://www.aitimes.com/news/articleView.html?idxno=212437
 
 [해외]
-◾ 美마이크론, 日공장 14조 투입해 HBM 증설
-https://www.etnews.com/20260705000052
-
 ◾ 세계 AI 지출, 3년 뒤 7245조원…“수백 에이전트 사용시 통제 위기”
 https://www.etnews.com/20260705000047
 
@@ -84,6 +78,9 @@ https://www.aitimes.com/news/articleView.html?idxno=212442
 [기타]
 ◾ [기고] 현장의 지혜와 AI가 함께 여는 인사혁신
 https://www.etnews.com/20260703000216
+
+◾ [김태형의 혁신의기술] 〈55〉AI 네이티브(Native), 우리는 어떤 시대에 살고 있는가(상)
+https://www.etnews.com/20260703000275
 
 ◾ [기고] 한국딥러닝 “기업 LLM 시대, AI 경쟁력은 모델이 아니라 ‘컨텍스트 관리 시스템’에 있다”
 https://www.aitimes.com/news/articleView.html?idxno=212435
