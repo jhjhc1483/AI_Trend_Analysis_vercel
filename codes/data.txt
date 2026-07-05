@@ -1,54 +1,92 @@
-📢26.07.05 AI 일일 동향📢
+📢26.07.06 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 한화, AI 우주강국 도약 위해 55조원 선제적 투자… 자주국방 위한 AI 역량 구축
-https://www.aitimes.kr/news/articleView.html?idxno=40826
+◾ 병영식당 도입 가능한 AI·로봇기술 확인
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 건설장비 무인자율화 기술 軍에 접목
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 지휘관 의사결정 돕는 ‘작전 AI’ 구축 본격화
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNzAxOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 공군·서울대, 전투형 AI 연구개발 내달 착수
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzAyMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+[육군]
+◾ HD건설기계, 육군과 무인 건설장비 기술 고도화...군 현장에 무인자율화 기술·시스템 접목
+https://www.aitimes.kr/news/articleView.html?idxno=40832
 
 [민간]
-◾ 인하대 로보틱스 연구실, ICRA 2026서 논문 4편·SLAM 2위
-https://www.etnews.com/20260704000002
+◾ [에듀플러스]교환학생도 AI가 뽑는다…대학가 번지는 ＇AI 면접관＇
+https://www.etnews.com/20260702000446
 
-◾ 생성형 영상에서 ‘실시간 대화형 영상’으로 진화...성수테크놀로지, 차세대 영상 생성 플랫폼 ‘비두 S1’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40828
+◾ AI 훈풍에 삼성전기·LG이노텍 2분기 호실적 예고
+https://www.etnews.com/20260702000224
 
-◾ 삼성, 영남에 60조원 투자… ‘글로벌 피지컬 AI 혁신 클러스터’ 구축
-https://www.aitimes.kr/news/articleView.html?idxno=40827
+◾ ＇리테일 AI＇ 첫발 뗀 이마트 vs 롯데마트…주도권은 누구 손에
+https://www.etnews.com/20260703000189
 
-◾ [7월3일] 〃비싼 모델만 쓸 필요 없다〃…AI 토큰 비용 절감이 보여주는 변화
-https://www.aitimes.com/news/articleView.html?idxno=212386
+◾ 신한금융, 포럼에 ＇AI 레드팀＇ 전격 도입…AX 실행력 높인다
+https://www.etnews.com/20260705000002
 
-◾ ＇AI 토큰 지출＇ 지표 첫 하락세…AI 거품 붕괴 vs 수요 조정 의견 맞서
-https://www.aitimes.com/news/articleView.html?idxno=212434
+◾ 네이버, ＇프로덕트 네이티브 LLM＇으로 AI탭 고도화…속도 높이고 환각 줄였다
+https://www.etnews.com/20260703000168
 
-◾ 〃테스트 타임 컴퓨트가 새로운 스케일링 법칙〃...＇엣지벤치＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=212425
+◾ AI 에이전트, 생성형 AI보다 질문 한 건당 최대 136.5배 에너지 소비
+https://www.aitimes.kr/news/articleView.html?idxno=40831
+
+◾ SKT, 울산 AI 데이터센터 GW급 확장…2029년 5GW 단계적 오픈해 15GW 규모로 확대
+https://www.aitimes.kr/news/articleView.html?idxno=40830
 
 [기관]
-◾ 스마트인재개발원, ＇AI 트랜스포메이션 2026＇ 컨퍼런스…AX 산업 변화·인재 양성 방향 공유
-https://www.etnews.com/20260704000006
+◾ 한국공학대 길형원팀, AI 자세 인식 시스템으로 반도체 캡스톤 대상
+https://www.etnews.com/20260705000083
+
+◾ [에듀플러스]순천대 RISE사업단, 전남 테크 재직자 AI 혁신 교육 시작…＇현업에 적용하는 AI 교육＇ 지역 관심 높아
+https://www.etnews.com/20260704000028
+
+◾ 금오공대·포항공대·한양대, AI중심대학 선정…경쟁률 10대 1
+https://www.etnews.com/20260703000194
+
+◾ AI가 산업재해 막는다…노동부, 300개 기업 참여 ＇AI 안전보건박람회＇ 개최
+https://www.etnews.com/20260704000030
+
+◾ 기후부 AX 경진대회 대상 ＇에코콩＇…“AI로 물관리 최적 시나리오 제시”
+https://www.etnews.com/20260705000007
+
+◾ 세계 1만5천 AI 석학들 서울 총 집결… ICML 2026, 한국 AI 위상 높인다
+https://www.aitimes.kr/news/articleView.html?idxno=40833
+
+◾ KAIST, 에이전트 전력 비용 규명...〃챗봇보다 136배 에너지 사용〃
+https://www.aitimes.com/news/articleView.html?idxno=212437
 
 [해외]
-◾ [AI 리뷰] 〃딥페이크 판별도 학습된다〃…호주 연구진, AI 생성 얼굴 이미지 식별 정확도 2배 향상
-https://www.aitimes.kr/news/articleView.html?idxno=40829
+◾ 美마이크론, 日공장 14조 투입해 HBM 증설
+https://www.etnews.com/20260705000052
+
+◾ 세계 AI 지출, 3년 뒤 7245조원…“수백 에이전트 사용시 통제 위기”
+https://www.etnews.com/20260705000047
 
 ◾ 메타, 앤트로픽 ＇클로드＇ 직접 서비스 추진...〃클라우드 진입 준비〃
 https://www.aitimes.com/news/articleView.html?idxno=212432
 
-◾ 미스트랄, 수학 증명·코드 검증 특화 ‘린스트랄 1.5’ 전격 공개…“퍼트넘벤치서 역대 최고 성적”
-https://www.aitimes.com/news/articleView.html?idxno=212428
+◾ 바이트댄스, ‘시댄스 2.5’ 이번 주 출시 예정...최대 3분 영상 생성
+https://www.aitimes.com/news/articleView.html?idxno=212441
 
-◾ 엔비디아, 차세대 ＇루빈 울트라＇ 4칩렛 대신 2칩렛으로 선회…양산 현실 고려했나
-https://www.aitimes.com/news/articleView.html?idxno=212421
+◾ 자체 칩 생산 속도 내는 머스크...＇테라팹＇ 책임자로 인텔 베테랑 영입
+https://www.aitimes.com/news/articleView.html?idxno=212443
 
-◾ 중국 대기업·중동 자본까지 합세…4조 확보한 ＇클링 AI＇, 글로벌 시장 확대
-https://www.aitimes.com/news/articleView.html?idxno=212427
+◾ 엔비디아, 차세대 원자로로 블랙웰 구동…발라와 데이터센터 파트너십
+https://www.aitimes.com/news/articleView.html?idxno=212442
 
-◾ 아마존, 온디바이스 AI 칩 설계...〃화면 없는 자체 AI 기기 곧 공개〃
-https://www.aitimes.com/news/articleView.html?idxno=212429
+[기타]
+◾ [기고] 현장의 지혜와 AI가 함께 여는 인사혁신
+https://www.etnews.com/20260703000216
 
-◾ 알리바바, 직원 ＇클로드 코드＇ 사용 금지...＇중국 사용자 비밀 추적＇ 여파
-https://www.aitimes.com/news/articleView.html?idxno=212423
+◾ [기고] 한국딥러닝 “기업 LLM 시대, AI 경쟁력은 모델이 아니라 ‘컨텍스트 관리 시스템’에 있다”
+https://www.aitimes.com/news/articleView.html?idxno=212435
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
