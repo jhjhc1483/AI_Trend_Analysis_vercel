@@ -1,89 +1,186 @@
-📢26.07.06 AI 일일 동향📢
+📢26.07.07 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 병영식당 도입 가능한 AI·로봇기술 확인
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ ADD, 국방 연구개발 지원 AI 서비스 ‘애디’ 본격 운영
+https://kookbang.dema.mil.kr/newsWeb/20260707/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=cRE4pApDfv9R0dIKCqnpBcKSubZq1-bmJBrB5hGaJ8Ai_YaNZ5jt!570272758
 
-◾ 지휘관 의사결정 돕는 ‘작전 AI’ 구축 본격화
-https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNzAxOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 부대서 즉시 적용 가능한 실무교육…해군 AI 인재 키운다
+https://kookbang.dema.mil.kr/newsWeb/20260707/6/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=cRE4pApDfv9R0dIKCqnpBcKSubZq1-bmJBrB5hGaJ8Ai_YaNZ5jt!570272758
 
-◾ 공군·서울대, 전투형 AI 연구개발 내달 착수
-https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzAyMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 국방 분야 연구·행정업무 효율 강화를 위한 자체 개발 생성형 인공지능 기반체계 구축
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58823&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
+
+◾ ADD, 국방 연구개발 지원 AI 서비스 ‘애디’ 본격 운영
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNzA2NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 부대서 즉시 적용 가능한 실무교육…해군 AI 인재 키운다
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNzA3OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [육군]
-◾ HD건설기계, 육군과 무인 건설장비 기술 고도화...군 현장에 무인자율화 기술·시스템 접목
-https://www.aitimes.kr/news/articleView.html?idxno=40832
+◾ 첨단 과학기술 기반 지능형 스마트 육군 도약 속도
+https://kookbang.dema.mil.kr/newsWeb/20260707/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=cRE4pApDfv9R0dIKCqnpBcKSubZq1-bmJBrB5hGaJ8Ai_YaNZ5jt!570272758
 
-◾ 건설장비 무인자율화 기술 軍에 접목
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzAwNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 첨단 과학기술 기반 지능형 스마트 육군 도약 속도
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzA3NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 육사, 첨단 과학기술 국책과제 잇따라 수주
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzA3MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
-◾ ＇리테일 AI＇ 첫발 뗀 이마트 vs 롯데마트…주도권은 누구 손에
-https://www.etnews.com/20260703000189
+◾ 몰로코, AI 기반 CTV 맞춤형 영상 광고로 북미 진출 지원
+https://www.etnews.com/20260706000343
 
-◾ 신한금융, 포럼에 ＇AI 레드팀＇ 전격 도입…AX 실행력 높인다
-https://www.etnews.com/20260705000002
+◾ 미들턴, 자체 GPU AI 서버 기반 ＇시니어랩＇ 개관… AI 연구·실증 플랫폼 본격 가동
+https://www.etnews.com/20260706000363
 
-◾ 네이버, ＇프로덕트 네이티브 LLM＇으로 AI탭 고도화…속도 높이고 환각 줄였다
-https://www.etnews.com/20260703000168
+◾ 기업 AI 지출 ＇비용 폭탄＇에 제동… ＇모델맥싱＇ 전략으로 체질 개선
+https://www.etnews.com/20260706000362
 
-◾ [단독] ＇미토스 쇼크＇에 금융권 AI 보안 재정비…KB국민은행, 내부통제 고도화
-https://www.etnews.com/20260703000108
+◾ 서울대병원 교수팀 ＇AI영상 지표＇ 기술, 골관절염 신약 임상 첫 투입
+https://www.etnews.com/20260706000323
 
-◾ SKT, 울산 AI 데이터센터 GW급 확장…2029년 5GW 단계적 오픈해 15GW 규모로 확대
-https://www.aitimes.kr/news/articleView.html?idxno=40830
+◾ KT “18조 들여 ＇AX플랫폼＇ 도약”
+https://www.etnews.com/20260706000309
 
-◾ 씽크포비엘 “GPU보다 부족한 건 AI 신뢰성 전문가…규제는 발전과 동일 선상”
-https://www.aitimes.com/news/articleView.html?idxno=212448
+◾ 이스트소프트, AX 사업 성장에 연간 수주 100억원 초과 예고
+https://www.etnews.com/20260706000257
 
-◾ 〃모델 다변화는 성공, 거버넌스는 낙제점〃…기업 AI ＇통제 격차＇ 본격화
-https://www.aitimes.com/news/articleView.html?idxno=212446
+◾ 지티원,  AI 거버넌스 핵심 신기술 특허 2건 출원…“AI 라이프사이클 관리 표준화 선도”
+https://www.etnews.com/20260706000251
+
+◾ 성균관대 김정래 교수 연구팀, AI 반도체 올림픽 ＇ISCA 2026＇서 대한민국 최초 최우수 논문상 쾌거
+https://www.etnews.com/20260706000064
+
+◾ AI 확산에 데이터센터용 ＇광송수신기＇ 시장, 5년 뒤 5배 성장
+https://www.etnews.com/20260706000112
+
+◾ AI 강화학습, 양자 컴퓨팅으로 극대화한다
+https://www.etnews.com/20260706000060
+
+◾ 대동로보틱스, GS건설·포스코 CVC·나우IB투자 유치…AI 로봇 사업화 가속
+https://www.aitimes.kr/news/articleView.html?idxno=40837
+
+◾ [게시판] 로보티즈 ＇AI 워커＇ 휴머노이드 로봇 챌린지서 대상 수상 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=212472
+
+◾ 셀렉트스타, AI 안전성 연구 3편 ＇ICML 2026＇ 채택
+https://www.aitimes.com/news/articleView.html?idxno=212468
+
+◾ KT, AX 인프라 5조 투자…〃대표 사업 모델로 ‘토큰 팩토리’ 키운다〃
+https://www.aitimes.com/news/articleView.html?idxno=212465
+
+◾ AI ＇수익 거품＇ 우려 증폭...＇AI 칩＇ 중심의 매출 독식에 경고
+https://www.aitimes.com/news/articleView.html?idxno=212457
 
 [기관]
-◾ [에듀플러스]교환학생도 AI가 뽑는다…대학가 번지는 ＇AI 면접관＇
-https://www.etnews.com/20260702000446
+◾ 이 대통령, 한 총리와 첫 주례회동…AI·규제혁신 드라이브
+https://www.etnews.com/20260706000418
 
-◾ 금오공대·포항공대·한양대, AI중심대학 선정…경쟁률 10대 1
-https://www.etnews.com/20260703000194
+◾ ＇AX 2.0＇ 시대, 韓 생존 전략 담은 ＇AI 문명 대전환＇ 출간
+https://www.etnews.com/20260706000415
 
-◾ AI가 산업재해 막는다…노동부, 300개 기업 참여 ＇AI 안전보건박람회＇ 개최
-https://www.etnews.com/20260704000030
+◾ 망고부스트, ＇초저지연 AI 패브릭＇ 국책사업 수주…정부지원 144억원
+https://www.etnews.com/20260706000119
 
-◾ 기후부 AX 경진대회 대상 ＇에코콩＇…“AI로 물관리 최적 시나리오 제시”
-https://www.etnews.com/20260705000007
+◾ 조달청, AI로 자체입찰 전수 점검…공공조달 공정성 높인다
+https://www.etnews.com/20260703000307
 
-◾ 세계 1만5천 AI 석학들 서울 총 집결… ICML 2026, 한국 AI 위상 높인다
-https://www.aitimes.kr/news/articleView.html?idxno=40833
+◾ 전북대-SK AX, AI거점대학 구현 전략적 협력…AI 교육혁신·산학협력 생태계 조성
+https://www.etnews.com/20260706000246
 
-◾ KAIST, 에이전트 전력 비용 규명...〃챗봇보다 136배 에너지 사용〃
-https://www.aitimes.com/news/articleView.html?idxno=212437
+◾ 국립목포대 AI부트캠프사업단, 전남 주력산업 AI 대전환 이끌 ＇피지컬 AI 융합인재＇ 본격 양성
+https://www.etnews.com/20260706000368
+
+◾ 과총, 2026 한민족청년과학도포럼 개최…“AI 시대 글로벌 과학기술 리더 키운다”
+https://www.etnews.com/20260706000356
+
+◾ 더존비즈온, 한국공항공사 ＇AX 업무혁신 플랫폼＇ 구축…공공 AX 공략 박차
+https://www.etnews.com/20260706000216
+
+◾ 강원도, ＇아시아 최대＇ AI 데이터센터 조성 시동…GS와 협약 체결
+https://www.etnews.com/20260706000215
+
+◾ 드론·AI로 위험 점검...철도연, 선로 장애물 점검 자동화 기술 개발 착수
+https://www.etnews.com/20260706000198
+
+◾ 조달청, 하반기 정책 실행 속도 높인다…AI·지방·공정조달 ＇3대 승부수＇
+https://www.etnews.com/20260706000124
+
+◾ ETRI, 피지컬AI연구소·입체통신연구소·ADX융합연구소 등 주요 보직 인사 단행
+https://www.aitimes.kr/news/articleView.html?idxno=40843
+
+◾ 국토부, ＇화물차 유가보조금＇ 인공지능으로 더 투명하게 관리한다
+https://www.aitimes.kr/news/articleView.html?idxno=40838
+
+◾ 공공현안 해결할 GovTech AI실증 과제 18개 최종 선정
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187520&searchOpt=ALL&searchTxt=
+
+◾ KAIST, 로봇이 보고·이해하고·예측하는 ‘피지컬 AI’ 기술 개발…ICLR·CVPR서 인정
+https://www.aitimes.com/news/articleView.html?idxno=212474
 
 [해외]
-◾ 세계 AI 지출, 3년 뒤 7245조원…“수백 에이전트 사용시 통제 위기”
-https://www.etnews.com/20260705000047
+◾ 인간형 AI 사상까지 통제?…中, 빅테크 AI 에이전트 서비스 중단
+https://www.etnews.com/20260706000414
 
-◾ 메타, 앤트로픽 ＇클로드＇ 직접 서비스 추진...〃클라우드 진입 준비〃
-https://www.aitimes.com/news/articleView.html?idxno=212432
+◾ 메타 AI 글라스, 한국어 실시간 번역 지원
+https://www.etnews.com/20260706000237
 
-◾ 바이트댄스, ‘시댄스 2.5’ 이번 주 출시 예정...최대 3분 영상 생성
-https://www.aitimes.com/news/articleView.html?idxno=212441
+◾ [테크 차이나] 中 로봇 칩 기업에 자본 몰린다… “휴머노이드보다 플랫폼이 더 중요해진다”
+https://www.etnews.com/20260706000016
 
-◾ 자체 칩 생산 속도 내는 머스크...＇테라팹＇ 책임자로 인텔 베테랑 영입
-https://www.aitimes.com/news/articleView.html?idxno=212443
+◾ 〃생성형 AI, 사진의 경계까지 확장한다〃…퀄컴 특허 기술이 보여주는 ＇무한 캔버스＇의 시대
+https://www.aitimes.kr/news/articleView.html?idxno=40853
 
-◾ 엔비디아, 차세대 원자로로 블랙웰 구동…발라와 데이터센터 파트너십
-https://www.aitimes.com/news/articleView.html?idxno=212442
+◾ 인피니언, 50억 유로 투자 ‘스마트 파워 팹’ 개소… AI 데이터센터·전기차·재생에너지용 반도체 생산
+https://www.aitimes.kr/news/articleView.html?idxno=40852
+
+◾ 英 정부, AI 탑재 장난감 안전성 점검 나선다…장난감 안전 규정 전면 재검토 착수
+https://www.aitimes.kr/news/articleView.html?idxno=40851
+
+◾ 메타 AI, ＇예약 작업＇ 도입 준비…챗봇 넘어 ＇에이전트＇로 진화
+https://www.aitimes.com/news/articleView.html?idxno=212456
+
+◾ 샌프란시스코 ＇해커 하우스＇로 향하는 대학생들…〃졸업장보다 AI 창업〃
+https://www.aitimes.com/news/articleView.html?idxno=212451
+
+◾ 바이트댄스·알리바바, ‘AI 페르소나’ 서비스 중단…정부 규제 앞두고 선제 조치
+https://www.aitimes.com/news/articleView.html?idxno=212452
+
+◾ 〃AI가 인간 트레이더 압도〃…중국 양적 펀드에 수십억달러 몰려
+https://www.aitimes.com/news/articleView.html?idxno=212464
+
+◾ 메타, 미성년 위장해 경쟁사 AI에 ＇극단적 프롬프트＇ 테스트
+https://www.aitimes.com/news/articleView.html?idxno=212470
+
+◾ 아마존 ＇메카니컬 터크＇, 21년 만에 신규 가입 중단…〃AI 데이터 오염에 발목〃
+https://www.aitimes.com/news/articleView.html?idxno=212467
+
+◾ 워크데이, 개발자 플랫폼에 신규 에이전트 출시…〃인사·재무 데이터에 접근〃
+https://www.aitimes.com/news/articleView.html?idxno=212469
+
+◾ 오픈AI, 국내 사회복지 분야 인재 양성 협력…“AI 활용 교육 제공”
+https://www.aitimes.com/news/articleView.html?idxno=212466
 
 [기타]
-◾ [기고] 현장의 지혜와 AI가 함께 여는 인사혁신
-https://www.etnews.com/20260703000216
+◾ [ET시론]AI시대 2막, 조율자로 돌아온 CPU
+https://www.etnews.com/20260706000118
 
-◾ [김태형의 혁신의기술] 〈55〉AI 네이티브(Native), 우리는 어떤 시대에 살고 있는가(상)
-https://www.etnews.com/20260703000275
+◾ [디지털문서 인사이트] AI 핵심 역량에 대응할 수 있는 보안 패러다임 변화가 필요하다
+https://www.etnews.com/20260706000090
 
-◾ [기고] 한국딥러닝 “기업 LLM 시대, AI 경쟁력은 모델이 아니라 ‘컨텍스트 관리 시스템’에 있다”
-https://www.aitimes.com/news/articleView.html?idxno=212435
+◾ SNS에 아이 사진 올렸다가…“AI 성착취물에 나와”
+https://www.etnews.com/20260706000139
+
+◾ [강종진의 K-사진과 미래]AI가 만든 이미지는 사진인가?
+https://www.etnews.com/20260703000308
+
+📚 간행물
+◾ [제1297호] 지상과 우주를 잇는 차세대 광통신 인프라 발전 동향
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1297%ED%98%B8%5D%20%EC%A7%80%EC%83%81%EA%B3%BC%20%EC%9A%B0%EC%A3%BC%EB%A5%BC%20%EC%9E%87%EB%8A%94%20%EC%B0%A8%EC%84%B8%EB%8C%80%20%EA%B4%91%ED%86%B5%EC%8B%A0%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EB%B0%9C%EC%A0%84%20%EB%8F%99%ED%96%A5
+
+◾ 2026 디지털인프라 잠자는 기술 찾아깨우기 기획연구 보고서
+https://www.iitp.kr/web/lay1/bbs/S1T14C63/A/22/view.do?article_seq=4512&sort=latest&cpage=1&rows=10
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
