@@ -1,9 +1,132 @@
 📢26.07.10 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 군사비밀 데이터도 AI 학습에 활용…국방 AI 플랫폼 고도화 착수
+https://www.etnews.com/20260709000300
+
+◾ “인공지능 대전환, 국가경쟁력 좌우한다”
+https://kookbang.dema.mil.kr/newsWeb/20260710/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=LVxIBb6yvrlIO6hSQNORXAYOl8MHo-ovwQuM5ouYeyrrH41YKwjJ!-1528214346
+
+◾ “인공지능 대전환, 국가경쟁력 좌우한다”
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExNzMyOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+[육군]
+◾ 육군, AI 기반 다양한 안전사고 예방대책 논의
+https://kookbang.dema.mil.kr/newsWeb/20260710/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=LVxIBb6yvrlIO6hSQNORXAYOl8MHo-ovwQuM5ouYeyrrH41YKwjJ!-1528214346
+
+◾ 육군, AI 기반 다양한 안전사고 예방대책 논의
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzMyMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+[민간]
+◾ SK AX, ‘로봇 도입부터 자율 공장 운영까지’ 제조현장 RX 앞당긴다
+https://www.aitimes.kr/news/articleView.html?idxno=40905
+
+◾ 테트라멤-SK하이닉스, ‘메모리에서 바로 계산’ AI 반도체 구현… 차세대 인메모리 컴퓨팅 시대 연다
+https://www.aitimes.kr/news/articleView.html?idxno=40904
+
+◾ SKT, 소프트뱅크와 AI 사회적 가치 ＇정량 지표＇ 만든다
+https://www.aitimes.com/news/articleView.html?idxno=212600
+
+◾ 로앤컴퍼니 “키미·딥시크, 미국 로스쿨 입학시험 만점…핵심은 논리적 추론”
+https://www.aitimes.com/news/articleView.html?idxno=212594
+
+◾ 네이버와 손잡은 미스트랄, 카메라 한 대로 구동하는 로봇 모델 출시
+https://www.aitimes.com/news/articleView.html?idxno=212585
+
+◾ 티맵, ＇AI·빅데이터＇ 업고 초개인화 장착…＇숏폼＇ 결합해 라이프 플랫폼 진화
+https://www.etnews.com/20260709000170
+
+◾ 샌즈랩, 정보보호의 날서 AI 위협 탐지·악성코드 분석 기술 공개
+https://www.etnews.com/20260709000199
+
+◾ 파수 AI, AI 문서관리 플랫폼 ＇랩소디 코어＇ 출시
+https://www.etnews.com/20260709000192
+
+◾ NH농협금융, 그룹 AI 거버넌스 연내 구축
+https://www.etnews.com/20260709000167
+
+◾ 국내 기술력 AI 플랫폼 ＇에이크론＇, 한국 드라마 최초로 SBS ＇김부장＇ 풀 AI 영상 제작 소화
+https://www.etnews.com/20260709000134
+
+◾ SKT, AI 창출 사회적 가치 측정…소프트뱅크와 협업
+https://www.etnews.com/20260709000053
+
+◾ 최태원, SK하이닉스 나스닥 상장 맞춰 미국행…AI 빅테크 협력 모색
+https://www.etnews.com/20260709000011
+
+[기관]
+◾ 농진청, ＇인공지능 기반 스마트팜·수확 후 관리 고도화＇ 방안 논의
+https://www.aitimes.kr/news/articleView.html?idxno=40912
+
+◾ 한국, 글로벌 AI 안전 논의 중심에 섰다… SFASS 2026 성황리 폐막
+https://www.aitimes.kr/news/articleView.html?idxno=40906
+
+◾ 〃냄새 맡고 분석하는 AI〃…DGIST, 수만 가지 향 구별하는 차세대 ＇전자코＇ 기술 제시
+https://www.aitimes.kr/news/articleView.html?idxno=40903
+
+◾ 씽크포비엘-경찰청, 치안 ＇AI 신뢰성＇ 기준 수립 협력
+https://www.etnews.com/20260709000392
+
+◾ 전북도, 메가프로젝트 ＇피지컬AI SW플랫폼＇ 정조준…2030년까지 총 7368억 투입
+https://www.etnews.com/20260709000324
+
+◾ 이재명 정부 2년차, “손에 잡히는 성과” 속도전…연말까지 47개 중앙기관에 ＇온-AI＇ 도입
+https://www.etnews.com/20260709000241
+
+◾ AI가 바꿀 일자리, 정부가 실시간 추적한다…＇한국형 AI 노출지수＇ 첫 도입
+https://www.etnews.com/20260709000168
+
+◾ 제조 특화 ＇경남 피지컬 AI 연구개발사업＇ 본격 추진
+https://www.etnews.com/20260709000063
+
+◾ AI안전연구소, 캐나다 AISI와 평가·연구·기술 협력한다
+https://www.etnews.com/20260709000028
+
+◾ 지식재산처, AI 디자인 출원 가이드 공개 “AI는 도구, 창작의 주인은 사람”
+https://www.etnews.com/20260709000017
+
+◾ “특허분석도 AI와 함께”…IP산업 ＇AX＇ 시대 본격화, 지식재산처 1호 AI IP데이터분석사 탄생
+https://www.etnews.com/20260709000018
+
+◾ 수출입은행, AI 기반 워크스페이스 구축 착수…여신심사 효율화
+https://www.etnews.com/20260709000014
+
+[해외]
+◾ 일론 머스크, AI 코딩 시장 본격 진출…스페이스XAI, 개발자 특화 모델 ‘그록 4.5’ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=40915
+
+◾ 미니맥스, 2.7조 매개변수 차세대 LLM 개발…중국 역대 최대 규모
+https://www.aitimes.com/news/articleView.html?idxno=212584
+
+◾ 퍼플렉시티, AI 코딩 시장 노린다...＇프로젝트 전담＇ AI 도구 구축 중
+https://www.aitimes.com/news/articleView.html?idxno=212590
+
+◾ 구글 이어 오픈AI도 ＇하네스 무용론＇...〃차세대 모델이 기능 흡수할 것〃
+https://www.aitimes.com/news/articleView.html?idxno=212582
+
+◾ 메타, 캐나다에 첫 AI 데이터센터 건설…15조 투입해 1GW 확보
+https://www.aitimes.com/news/articleView.html?idxno=212593
+
+◾ 웨이모는 4개 도시 추가·테슬라는 ＇속도전＇…미국 로보택시 경쟁 확대
+https://www.aitimes.com/news/articleView.html?idxno=212595
+
+◾ 오픈AI, 사람처럼 대화하는 ＇챗GPT 보이스＇ 공개
+https://www.etnews.com/20260709000417
+
+◾ 유럽 특허청, AI 활용 특허심사 본격화…＇인간 중심 심사＇ 원칙 유지
+https://www.etnews.com/20260709000059
+
+◾ 중국, AI 기반 지식재산 공공서비스 구축 본격화…＇전국 통합 플랫폼＇ 추진
+https://www.etnews.com/20260709000021
+
+📚 간행물
+◾ 6G, 미국AI모델규제, 중국양자전략 [AI·ICT Brief 2026-24호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260709-000005&cpage=1&rows=10&searchTarget=all
+
+◾ AI 에이전트 안전 가이드라인 정책 동향 [ICT SPOT ISSUE(2026-04호)]
+https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260709-000001&cpage=1&rows=10&searchTarget=all
+
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
 (링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
-
-
-✅위 내용은 GEMINI에 의해 작성됨.
