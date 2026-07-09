@@ -1270,5 +1270,37 @@
         "년": "2026",
         "월": "07",
         "일": "06"
+    },
+    {
+        "제목": "2025년 디지털산업 실태조사",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260709-000002&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "07",
+        "일": "09"
+    },
+    {
+        "제목": "2026년 2분기 ICT기업경기조사 보고서",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260709-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "07",
+        "일": "09"
+    },
+    {
+        "제목": "6G, 미국AI모델규제, 중국양자전략 [AI·ICT Brief 2026-24호]",
+        "분류": "AI · ICT Brief",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260709-000005&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "07",
+        "일": "09"
+    },
+    {
+        "제목": "AI 에이전트 안전 가이드라인 정책 동향 [ICT SPOT ISSUE(2026-04호)]",
+        "분류": "ICT SPOT Issue",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260709-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "07",
+        "일": "09"
     }
 ]
