@@ -183,7 +183,7 @@ Format:
         for attempt in range(max_retries):
             try:
                 response = client.models.generate_content(
-                    model='gemini-2.0-flash',
+                    model='gemini-3.1-flash-lite',
                     contents=system_instruction + "\n\n" + user_prompt,
                     config=types.GenerateContentConfig(response_mime_type="application/json")
                 )
