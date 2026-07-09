@@ -56,7 +56,7 @@ async def main():
         for attempt in range(max_retries):
             try:
                 response = client.models.generate_content(
-                    model='gemini-3.5-flash',
+                    model='gemini-2.0-flash',
                     contents=prompt
                 )
                 script = response.text
@@ -117,7 +117,7 @@ async def main():
         for attempt in range(max_retries):
             try:
                 briefing_response = client.models.generate_content(
-                    model='gemini-3-flash-preview',
+                    model='gemini-2.0-flash',
                     contents=briefing_prompt
                 )
                 briefing_text = briefing_response.text.strip()
