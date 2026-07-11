@@ -2,14 +2,8 @@
 
 📰 오늘의 기사
 [민간]
-◾ SK하이닉스, HBM 이후 ＇메모리 연산＇ 기술 검증
-https://www.etnews.com/20260710000052
-
 ◾ SK하이닉스, 美 나스닥 입성… ‘글로벌 AI 컴퍼니’ 위상 드높인다
 https://www.aitimes.kr/news/articleView.html?idxno=40935
-
-◾ 〃여러 모델 섞어 써도 한계 명확〃…통념 깨진 ＇오케스트레이션＇ 효과
-https://www.aitimes.com/news/articleView.html?idxno=212625
 
 ◾ 270억 매개변수 모델 아이폰서 구동…〃성능 저하 없는 온디바이스 AI〃
 https://www.aitimes.com/news/articleView.html?idxno=212656
@@ -23,6 +17,9 @@ https://www.aitimes.com/news/articleView.html?idxno=212645
 [해외]
 ◾ 오픈AI ＇2인자＇ 이탈…“IPO 앞두고 또 리더십 공백”
 https://www.etnews.com/20260710000255
+
+◾ 〃여러 모델 섞어 써도 한계 명확〃…통념 깨진 ＇오케스트레이션＇ 효과
+https://www.aitimes.com/news/articleView.html?idxno=212625
 
 ◾ ＇추론 칩＇ 삼바노바, 5개월 만에 몸값 5배 상승…16조 가치로 투자 유치
 https://www.aitimes.com/news/articleView.html?idxno=212662
