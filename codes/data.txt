@@ -1,61 +1,43 @@
-📢26.07.11 AI 일일 동향📢
+📢26.07.12 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ AI가 만드는 미래 전장...英 국방부, 4조 원 투입 ＇AI 전투＇ 체계 구축
-https://www.aitimes.kr/news/articleView.html?idxno=40934
-
-[육군]
-◾ 육사, 국제학술지 논문 등 AI 연구 성과 잇따라...〃국방 AI 보안 선도〃
-https://www.aitimes.com/news/articleView.html?idxno=212642
-
 [민간]
-◾ 오픈AI, GPT-5.6 일반 공개…올트먼 “정부 의견 반영해 대폭 수정”
-https://www.etnews.com/20260710000002
+◾ SK하이닉스, HBM 이후 ＇메모리 연산＇ 기술 검증
+https://www.etnews.com/20260710000052
 
-◾ 메타, 첫 유료 AI 모델 출시…저커버그 “가격 매력적일 것”
-https://www.etnews.com/20260710000005
+◾ SK하이닉스, 美 나스닥 입성… ‘글로벌 AI 컴퍼니’ 위상 드높인다
+https://www.aitimes.kr/news/articleView.html?idxno=40935
 
-◾ 챗GPT, 이제 질문에 답하는 AI 넘어 ‘업무 파트너’로....GPT-5.6·코덱스 기반 ＇챗GPT 워크＇ 출시
-https://www.aitimes.kr/news/articleView.html?idxno=40919
+◾ 〃여러 모델 섞어 써도 한계 명확〃…통념 깨진 ＇오케스트레이션＇ 효과
+https://www.aitimes.com/news/articleView.html?idxno=212625
 
-◾ 1X, ＇읽고 쓰는＇ 촉각 휴머노이드 손 공개...〃올해 1만개 대량 생산 가능〃
-https://www.aitimes.com/news/articleView.html?idxno=212635
+◾ 270억 매개변수 모델 아이폰서 구동…〃성능 저하 없는 온디바이스 AI〃
+https://www.aitimes.com/news/articleView.html?idxno=212656
 
-◾ 메타, 9월 자체 AI 칩 ＇아이리스＇ 양산...내년 컴퓨팅 용량 14GW로 2배 확대
-https://www.aitimes.com/news/articleView.html?idxno=212614
+◾ AI 에이전트 스타트업, AI 에이전트로 1500억 투자 유치…〃130여 투자자 응대〃
+https://www.aitimes.com/news/articleView.html?idxno=212659
 
-[기관]
-◾ 과기정통부, 해외 한인 기술 인력 20개팀 국내 복귀 지원...'K-테크 파이오니어즈' 공식 출범
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187533&searchOpt=ALL&searchTxt=
-
-◾ 오케스트로 AI연구소, 과기정통부 ＇2026년 우수 기업부설연구소＇ 지정
-https://www.etnews.com/20260710000031
-
-◾ 전석훈 경기도의원, 피지컬 AI 실증·R&D 지원 확대 추진
-https://www.etnews.com/20260710000125
-
-◾ 재료硏·국립부경대·부산시, ‘해양 AI 소재 연구센터’구축...부산 해양산업, AI 소재로 도약한다!
-https://www.aitimes.kr/news/articleView.html?idxno=40926
-
-◾ 메이사, 40억 규모 국토부 ‘AX 스프린트’ 선정… 건설 현장 리스크 관리 AI가 수행
-https://www.aitimes.kr/news/articleView.html?idxno=40918
+◾ AI 음성 끝판왕? 사람처럼 듣고 동시에 말하는 GPT-라이브
+https://www.aitimes.com/news/articleView.html?idxno=212645
 
 [해외]
-◾ 알리바바, 〃중국 스마트 하드웨어 제조사 15만 곳 이상이 ＇큐웬(Qwen)＇ 채택〃… 피지컬 AI 생태계 확산 가속
-https://www.aitimes.kr/news/articleView.html?idxno=40933
+◾ 오픈AI ＇2인자＇ 이탈…“IPO 앞두고 또 리더십 공백”
+https://www.etnews.com/20260710000255
 
-◾ 앤트로픽-UST, ‘물리적 AI’ 시장 공략 본격화… 반도체·자동차·제조 현장에 클로드 적용
-https://www.aitimes.kr/news/articleView.html?idxno=40930
+◾ ＇추론 칩＇ 삼바노바, 5개월 만에 몸값 5배 상승…16조 가치로 투자 유치
+https://www.aitimes.com/news/articleView.html?idxno=212662
 
-◾ 커서, 코딩 도구 넘어 업무용 에이전트 시장 도전... 코드명 ＇샌드＇ 개발
-https://www.aitimes.com/news/articleView.html?idxno=212632
+◾ 주가 80% 폭락 미니맥스 CEO 〃AGI 달성 때까지 무급 근무〃
+https://www.aitimes.com/news/articleView.html?idxno=212660
 
-◾ 사우디 휴메인, 캐나다 코히어와 맞손…50MW 규모 인프라·아랍어 ＇소버린 AI＇ 공동 개발
-https://www.aitimes.com/news/articleView.html?idxno=212639
+◾ 엔비디아, ＇반복 퍼즐＇ 기술로 추론 효율 극대화…〃운영 비용 절반으로〃
+https://www.aitimes.com/news/articleView.html?idxno=212657
 
-◾ 앤트로픽은 막았는데…오픈AI·구글, ＇블랙리스트＇ 중국 기업에 모델 우회 허용
-https://www.aitimes.com/news/articleView.html?idxno=212644
+◾ [7월10일] GPT-5.6이 보여준 ＇파레토 프론티어＇ 경쟁...벤치마크 기준이 바뀌기 시작
+https://www.aitimes.com/news/articleView.html?idxno=212613
+
+◾ 애플, 오픈AI에 ‘AI 하드웨어 영업비밀 도용’ 소송 제기
+https://www.aitimes.com/news/articleView.html?idxno=212652
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

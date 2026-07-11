@@ -16014,5 +16014,73 @@
       ]
     },
     "briefing": "- 영국 국방부가 미래 전장 주도권을 위해 약 4조 원 규모의 AI 기반 전투 체계 구축 계획을 발표했습니다.\n- 육군사관학교가 국제학술지 논문 게재 등 국방 AI 보안 분야에서 유의미한 연구 성과를 지속적으로 내놓고 있습니다.\n- 메이사 등 건설 현장 리스크 관리 기업들이 국토교통부의 AI 전환(AX) 프로젝트에 선정되며 현장 적용 가능성을 높이고 있습니다."
+  },
+  "26.07.12": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "오픈AI ＇2인자＇ 이탈…“IPO 앞두고 또 리더십 공백”",
+          "link": "https://www.etnews.com/20260710000255",
+          "category": "해외"
+        },
+        {
+          "title": "＇추론 칩＇ 삼바노바, 5개월 만에 몸값 5배 상승…16조 가치로 투자 유치",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212662",
+          "category": "해외"
+        },
+        {
+          "title": "주가 80% 폭락 미니맥스 CEO 〃AGI 달성 때까지 무급 근무〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212660",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아, ＇반복 퍼즐＇ 기술로 추론 효율 극대화…〃운영 비용 절반으로〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212657",
+          "category": "해외"
+        },
+        {
+          "title": "[7월10일] GPT-5.6이 보여준 ＇파레토 프론티어＇ 경쟁...벤치마크 기준이 바뀌기 시작",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212613",
+          "category": "해외"
+        },
+        {
+          "title": "애플, 오픈AI에 ‘AI 하드웨어 영업비밀 도용’ 소송 제기",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212652",
+          "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "SK하이닉스, HBM 이후 ＇메모리 연산＇ 기술 검증",
+          "link": "https://www.etnews.com/20260710000052",
+          "category": "민간"
+        },
+        {
+          "title": "SK하이닉스, 美 나스닥 입성… ‘글로벌 AI 컴퍼니’ 위상 드높인다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40935",
+          "category": "민간"
+        },
+        {
+          "title": "〃여러 모델 섞어 써도 한계 명확〃…통념 깨진 ＇오케스트레이션＇ 효과",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212625",
+          "category": "민간"
+        },
+        {
+          "title": "270억 매개변수 모델 아이폰서 구동…〃성능 저하 없는 온디바이스 AI〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212656",
+          "category": "민간"
+        },
+        {
+          "title": "AI 에이전트 스타트업, AI 에이전트로 1500억 투자 유치…〃130여 투자자 응대〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212659",
+          "category": "민간"
+        },
+        {
+          "title": "AI 음성 끝판왕? 사람처럼 듣고 동시에 말하는 GPT-라이브",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212645",
+          "category": "민간"
+        }
+      ]
+    }
   }
 }
