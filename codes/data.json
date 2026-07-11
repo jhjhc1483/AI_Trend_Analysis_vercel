@@ -16024,6 +16024,11 @@
           "category": "해외"
         },
         {
+          "title": "〃여러 모델 섞어 써도 한계 명확〃…통념 깨진 ＇오케스트레이션＇ 효과",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212625",
+          "category": "해외"
+        },
+        {
           "title": "＇추론 칩＇ 삼바노바, 5개월 만에 몸값 5배 상승…16조 가치로 투자 유치",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212662",
           "category": "해외"
@@ -16051,18 +16056,8 @@
       ],
       "민간": [
         {
-          "title": "SK하이닉스, HBM 이후 ＇메모리 연산＇ 기술 검증",
-          "link": "https://www.etnews.com/20260710000052",
-          "category": "민간"
-        },
-        {
           "title": "SK하이닉스, 美 나스닥 입성… ‘글로벌 AI 컴퍼니’ 위상 드높인다",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40935",
-          "category": "민간"
-        },
-        {
-          "title": "〃여러 모델 섞어 써도 한계 명확〃…통념 깨진 ＇오케스트레이션＇ 효과",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212625",
           "category": "민간"
         },
         {
@@ -16081,7 +16076,6 @@
           "category": "민간"
         }
       ]
-    },
-    "briefing": "- SK하이닉스가 HBM 이후 차세대 기술로 메모리 내 연산(PIM) 기술을 검증 중입니다.\n- 애플이 아이폰에서 성능 저하 없이 구동 가능한 270억 매개변수 규모의 온디바이스 AI 모델을 선보였습니다.\n- 엔비디아가 '반복 퍼즐' 기술을 통해 AI 추론 운영 비용을 절반으로 낮추는 효율화 방안을 제시했습니다."
+    }
   }
 }
