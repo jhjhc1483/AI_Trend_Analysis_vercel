@@ -12,9 +12,6 @@ https://www.etnews.com/20260712000087
 ◾ 금호석유화학, 안전·공정에 AI 전면 배치…디지털 혁신 가속화
 https://www.etnews.com/20260710000056
 
-◾ 석유공사, AI·빅데이터 기반 스마트 안전관리 통합시스템 2단계 가동
-https://www.etnews.com/20260712000030
-
 ◾ 소르테크-인제대, ＇윈도 데스크톱 AI 에이전트＇ 표준 벤치마크서 최고기록 경신
 https://www.etnews.com/20260710000004
 
@@ -42,18 +39,21 @@ https://www.aitimes.com/news/articleView.html?idxno=212677
 ◾ 곽노정 SK하이닉스 사장 〃2027년 사상 최악의 메모리 공급난 올 것〃
 https://www.aitimes.com/news/articleView.html?idxno=212667
 
+◾ KT, 교육 플랫폼 ‘AI 스테이션’으로 WSIS 프라이즈 챔피언상 수상
+https://www.aitimes.com/news/articleView.html?idxno=212672
+
 ◾ 세레브라스·업스테이지, 국내에 ‘초당 2000토큰’ 초고속 추론 제공
 https://www.aitimes.com/news/articleView.html?idxno=212665
 
 [기관]
-◾ 경북, 구미·포항 ＇AI 제조혁신＇ 양대 축으로 산업 대전환 이끈다
-https://www.etnews.com/20260712000082
-
 ◾ 서울시, ＇AI 에이전트＇ 구축 착수…문서 요약·회의실 예약 자동화
 https://www.etnews.com/20260710000114
 
 ◾ 아동권리보장원, ＇AI＇로 학대 조사공백 메운다…4분기 가동
 https://www.etnews.com/20260710000246
+
+◾ 석유공사, AI·빅데이터 기반 스마트 안전관리 통합시스템 2단계 가동
+https://www.etnews.com/20260712000030
 
 ◾ 서울시, 공공데이터 최초 MCP 서비스 개시…“AI 환각 줄인다”
 https://www.etnews.com/20260712000042
@@ -63,9 +63,6 @@ https://www.etnews.com/20260712000014
 
 ◾ 국토부, 건설 AI·스마트건설 이끌어갈 실증 기술과 강소기업 선정
 https://www.aitimes.kr/news/articleView.html?idxno=40940
-
-◾ KT, 교육 플랫폼 ‘AI 스테이션’으로 WSIS 프라이즈 챔피언상 수상
-https://www.aitimes.com/news/articleView.html?idxno=212672
 
 [해외]
 ◾ 〃오픈AI 의존도 낮춘다더니〃...MS, 권장 모델로 ＇GPT-5.6＇ 채택

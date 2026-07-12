@@ -16093,11 +16093,6 @@
           "category": "민간"
         },
         {
-          "title": "석유공사, AI·빅데이터 기반 스마트 안전관리 통합시스템 2단계 가동",
-          "link": "https://www.etnews.com/20260712000030",
-          "category": "민간"
-        },
-        {
           "title": "소르테크-인제대, ＇윈도 데스크톱 AI 에이전트＇ 표준 벤치마크서 최고기록 경신",
           "link": "https://www.etnews.com/20260710000004",
           "category": "민간"
@@ -16143,17 +16138,17 @@
           "category": "민간"
         },
         {
+          "title": "KT, 교육 플랫폼 ‘AI 스테이션’으로 WSIS 프라이즈 챔피언상 수상",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212672",
+          "category": "민간"
+        },
+        {
           "title": "세레브라스·업스테이지, 국내에 ‘초당 2000토큰’ 초고속 추론 제공",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212665",
           "category": "민간"
         }
       ],
       "기관": [
-        {
-          "title": "경북, 구미·포항 ＇AI 제조혁신＇ 양대 축으로 산업 대전환 이끈다",
-          "link": "https://www.etnews.com/20260712000082",
-          "category": "기관"
-        },
         {
           "title": "서울시, ＇AI 에이전트＇ 구축 착수…문서 요약·회의실 예약 자동화",
           "link": "https://www.etnews.com/20260710000114",
@@ -16162,6 +16157,11 @@
         {
           "title": "아동권리보장원, ＇AI＇로 학대 조사공백 메운다…4분기 가동",
           "link": "https://www.etnews.com/20260710000246",
+          "category": "기관"
+        },
+        {
+          "title": "석유공사, AI·빅데이터 기반 스마트 안전관리 통합시스템 2단계 가동",
+          "link": "https://www.etnews.com/20260712000030",
           "category": "기관"
         },
         {
@@ -16177,11 +16177,6 @@
         {
           "title": "국토부, 건설 AI·스마트건설 이끌어갈 실증 기술과 강소기업 선정",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40940",
-          "category": "기관"
-        },
-        {
-          "title": "KT, 교육 플랫폼 ‘AI 스테이션’으로 WSIS 프라이즈 챔피언상 수상",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212672",
           "category": "기관"
         }
       ],
@@ -16219,7 +16214,6 @@
           "category": "해외"
         }
       ]
-    },
-    "briefing": "- 육군사관학교가 국방 AI 인재 허브로서 미래 전장을 주도할 AI 전문 장교 양성을 본격화하고 있습니다.\n- 아동권리보장원이 AI를 활용해 아동 학대 조사 공백을 보완하는 시스템을 4분기부터 가동할 예정입니다.\n- 서울시가 공공데이터에 MCP 서비스를 도입하여 AI의 정보 왜곡(환각 현상)을 줄이는 기술 구축에 착수했습니다."
+    }
   }
 }
