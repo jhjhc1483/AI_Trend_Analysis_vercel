@@ -1,57 +1,132 @@
 [
   {
-    "title": "오픈AI ＇2인자＇ 이탈…“IPO 앞두고 또 리더십 공백”",
-    "link": "https://www.etnews.com/20260710000255",
-    "category": "해외"
-  },
-  {
-    "title": "SK하이닉스, 美 나스닥 입성… ‘글로벌 AI 컴퍼니’ 위상 드높인다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40935",
+    "title": "[포토] 물류산업 혁신을 위한 AI 휴머노이드 기술 개발",
+    "link": "https://www.etnews.com/20260712000087",
     "category": "민간"
   },
   {
-    "title": "〃여러 모델 섞어 써도 한계 명확〃…통념 깨진 ＇오케스트레이션＇ 효과",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212625",
-    "category": "해외"
-  },
-  {
-    "title": "＇추론 칩＇ 삼바노바, 5개월 만에 몸값 5배 상승…16조 가치로 투자 유치",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212662",
-    "category": "해외"
-  },
-  {
-    "title": "270억 매개변수 모델 아이폰서 구동…〃성능 저하 없는 온디바이스 AI〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212656",
+    "title": "금호석유화학, 안전·공정에 AI 전면 배치…디지털 혁신 가속화",
+    "link": "https://www.etnews.com/20260710000056",
     "category": "민간"
   },
   {
-    "title": "주가 80% 폭락 미니맥스 CEO 〃AGI 달성 때까지 무급 근무〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212660",
-    "category": "해외"
+    "title": "경북, 구미·포항 ＇AI 제조혁신＇ 양대 축으로 산업 대전환 이끈다",
+    "link": "https://www.etnews.com/20260712000082",
+    "category": "기관"
   },
   {
-    "title": "AI 에이전트 스타트업, AI 에이전트로 1500억 투자 유치…〃130여 투자자 응대〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212659",
+    "title": "서울시, ＇AI 에이전트＇ 구축 착수…문서 요약·회의실 예약 자동화",
+    "link": "https://www.etnews.com/20260710000114",
+    "category": "기관"
+  },
+  {
+    "title": "아동권리보장원, ＇AI＇로 학대 조사공백 메운다…4분기 가동",
+    "link": "https://www.etnews.com/20260710000246",
+    "category": "기관"
+  },
+  {
+    "title": "석유공사, AI·빅데이터 기반 스마트 안전관리 통합시스템 2단계 가동",
+    "link": "https://www.etnews.com/20260712000030",
     "category": "민간"
   },
   {
-    "title": "엔비디아, ＇반복 퍼즐＇ 기술로 추론 효율 극대화…〃운영 비용 절반으로〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212657",
+    "title": "소르테크-인제대, ＇윈도 데스크톱 AI 에이전트＇ 표준 벤치마크서 최고기록 경신",
+    "link": "https://www.etnews.com/20260710000004",
+    "category": "민간"
+  },
+  {
+    "title": "집 안에서 뇌혈관질환 위험 조기 감지...KAIST 등, AI 기술 개발",
+    "link": "https://www.etnews.com/20260710000282",
+    "category": "민간"
+  },
+  {
+    "title": "서울시, 공공데이터 최초 MCP 서비스 개시…“AI 환각 줄인다”",
+    "link": "https://www.etnews.com/20260712000042",
+    "category": "기관"
+  },
+  {
+    "title": "건설 AI·로봇 현장으로…스마트건설 실증기술 10개·강소기업 12곳 선정",
+    "link": "https://www.etnews.com/20260712000014",
+    "category": "기관"
+  },
+  {
+    "title": "KT AI 스테이션, WSIS 프라이즈 챔피언상 수상",
+    "link": "https://www.etnews.com/20260712000024",
+    "category": "민간"
+  },
+  {
+    "title": "KB금융, 중장기 전략 방향 확정…“AI 기반 업무 프로세스 전면 재설계”",
+    "link": "https://www.etnews.com/20260712000019",
+    "category": "민간"
+  },
+  {
+    "title": "양종희 회장, 〃일하는 방식과 프로세스 다시 살펴보고, AI 기반으로 전면적인 재설계”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40943",
+    "category": "민간"
+  },
+  {
+    "title": "육사, 국방 AI 인재 허브로 부상...미래 전장 이끌 AI 장교 양성 본격화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40942",
+    "category": "육군"
+  },
+  {
+    "title": "국토부, 건설 AI·스마트건설 이끌어갈 실증 기술과 강소기업 선정",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40940",
+    "category": "기관"
+  },
+  {
+    "title": "〃오픈AI 의존도 낮춘다더니〃...MS, 권장 모델로 ＇GPT-5.6＇ 채택",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212678",
     "category": "해외"
   },
   {
-    "title": "[7월10일] GPT-5.6이 보여준 ＇파레토 프론티어＇ 경쟁...벤치마크 기준이 바뀌기 시작",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212613",
+    "title": "트럼프 행정부, 중국산 오픈소스 AI 규제 ＇행정명령＇ 검토",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212674",
     "category": "해외"
   },
   {
-    "title": "애플, 오픈AI에 ‘AI 하드웨어 영업비밀 도용’ 소송 제기",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212652",
+    "title": "오픈AI 안전 책임자 퇴사…조직 개편 속 핵심 임원 연쇄 이탈",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212670",
     "category": "해외"
   },
   {
-    "title": "AI 음성 끝판왕? 사람처럼 듣고 동시에 말하는 GPT-라이브",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212645",
+    "title": "메타, ＇인스타 사진 AI 활용＇ 반발에 사흘 만에 자동 연동 중단",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212666",
+    "category": "민간"
+  },
+  {
+    "title": "KAIST, ＇96.5%＇ 정확도로 뇌혈관 질환 위험 신호 미리 찾는 AI 개발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212671",
+    "category": "민간"
+  },
+  {
+    "title": "오픈서베이, ＇합성 소비자＇ 대화 기능 도입...“비용 줄이고 타깃 분석 정밀”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212677",
+    "category": "민간"
+  },
+  {
+    "title": "곽노정 SK하이닉스 사장 〃2027년 사상 최악의 메모리 공급난 올 것〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212667",
+    "category": "민간"
+  },
+  {
+    "title": "KT, 교육 플랫폼 ‘AI 스테이션’으로 WSIS 프라이즈 챔피언상 수상",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212672",
+    "category": "기관"
+  },
+  {
+    "title": "머스크 〃사기의 새 차원〃 vs 알트먼 〃집착이 최고 벤치마크〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212675",
+    "category": "해외"
+  },
+  {
+    "title": "오픈AI 〃상용 모델 ＇GPT-5.6 솔 울트라＇로 50년 수학 난제 증명 생성〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212668",
+    "category": "해외"
+  },
+  {
+    "title": "세레브라스·업스테이지, 국내에 ‘초당 2000토큰’ 초고속 추론 제공",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212665",
     "category": "민간"
   }
 ]
