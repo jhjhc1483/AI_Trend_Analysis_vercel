@@ -367,7 +367,7 @@ function renderDashboard() {
     const latestArticles = sortData(articleData, 'date_desc').slice(0, 5);
     document.getElementById('latest-articles').innerHTML = latestArticles.map(item => `
         <li class="latest-item">
-            <a href="#" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML(item.title).replace(/'/g, "\\'")}'); return false;">${escapeHTML(item.title)}</a>
+            <a href="#" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML((item.title || '').replace(/'/g, "\\'"))}'); return false;">${escapeHTML(item.title)}</a>
             <span>${escapeHTML(item.displayName)} | ${escapeHTML(item.년)}.${escapeHTML(item.월)}.${escapeHTML(item.일)}</span>
         </li>
     `).join('');
@@ -375,7 +375,7 @@ function renderDashboard() {
     const latestPublications = sortData(publicationData, 'date_desc').slice(0, 5);
     document.getElementById('latest-publications').innerHTML = latestPublications.map(item => `
         <li class="latest-item">
-            <a href="#" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML(item.title).replace(/'/g, "\\'")}'); return false;">${escapeHTML(item.title)}</a>
+            <a href="#" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML((item.title || '').replace(/'/g, "\\'"))}'); return false;">${escapeHTML(item.title)}</a>
             <span>${escapeHTML(item.displayName)} | ${escapeHTML(item.년)}.${escapeHTML(item.월)}.${escapeHTML(item.일)}</span>
         </li>
     `).join('');
@@ -469,7 +469,7 @@ function createListItem(item) {
                 ${fewshotButtons}
             </div>
             <div class="article-title-group">
-                <a href="#" class="article-title" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML(item.title).replace(/'/g, "\\'")}'); return false;">${escapeHTML(item.title)}</a>
+                <a href="#" class="article-title" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML((item.title || '').replace(/'/g, "\\'"))}'); return false;">${escapeHTML(item.title)}</a>
                 ${excludeBadge}
                 ${categoryBadge}
                 <div class="article-meta">
