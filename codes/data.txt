@@ -23,6 +23,13 @@ https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTM
 ◾ [현장] 공군19전비 AI교육·연구센터를 가다
 https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzQ4OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
+[육군]
+◾ 육군방공학교, 튀르키예 무관단과 대드론 체계 발전·협력 논의
+https://kookbang.dema.mil.kr/newsWeb/20260714/7/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=2SRcn4cBFMJkRtQJaE6Iu798Ewod4-sj51Lr42mryVHBCbRMGK18!570272758
+
+◾ 육군방공학교, 튀르키예 무관단과 대드론 체계 발전·협력 논의
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzQ4MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
 [민간]
 ◾ 융기원, 수원 이의고서 학생·교직원 대상 AI 시대 창의·리더십 특강
 https://www.etnews.com/20260713000421
@@ -42,17 +49,20 @@ https://www.etnews.com/20260713000255
 ◾ 구글 클라우드, 삼성전자 DX 임직원에 ＇제미나이 엔터프라이즈＇ 공급
 https://www.etnews.com/20260713000252
 
-◾ 직업계고 117개 학과 개편…＇AI·로봇＇ 미래산업 인재양성 강화
-https://www.etnews.com/20260713000238
-
 ◾ SKT, 로봇 학습 플랫폼 하반기 공개…내년 본격 사업화
 https://www.etnews.com/20260713000221
+
+◾ 노타, ＇ICML 2026＇ 챌린지 3위…큐웬 추론 성능 7배 높였다
+https://www.etnews.com/20260713000200
+
+◾ [단독]오는 22일 ＇부총리-통신3사 CEO＇ 2차 회동…AIDC 현안 논의 전망
+https://www.etnews.com/20260713000086
 
 ◾ 구글 클라우드, 삼성전자와 전략적 협력 확대 ...“글로벌 에이전틱 AI 업무 혁신 가속화”
 https://www.aitimes.kr/news/articleView.html?idxno=40951
 
-◾ 딥노이드 “의료 에이전틱 AI로 승부수… 환각률 0.2%로 업무 바꾼다”
-https://www.aitimes.com/news/articleView.html?idxno=212722
+◾ 프롬프트·카르파시 루프 넘어 AI가 연구 방법 바꾸는 ＇이중 루프＇ 시대 개막
+https://www.aitimes.com/news/articleView.html?idxno=212703
 
 ◾ 네이버, ＇ICML＇서 AI 풀스택 연구 성과 선보여
 https://www.aitimes.com/news/articleView.html?idxno=212706
@@ -76,24 +86,21 @@ https://www.etnews.com/20260713000280
 ◾ “공무원이 직접 만들었다”…정부, 독파모 기반 ＇AI 법령 비서＇ 시범 개시
 https://www.etnews.com/20260713000242
 
-◾ 교육부, 대학 AI 기본교육 본격화…20개 대학서 교육과정 개발 착수
-https://www.etnews.com/20260713000226
-
 ◾ 공무원이 직접 만든 ‘AI 법령 비서’ 서비스 개시...더 신속한 행정서비스 제공한다
 https://www.aitimes.kr/news/articleView.html?idxno=40956
-
-◾ 딥테크가 만드는 대한민국의 미래, 2026년 딥테크 성과교류회 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187538&searchOpt=ALL&searchTxt=
 
 ◾ 〃전 국민 무료로 AI 쓴다〃...과기부, ＇모두의 AI＇ 프로젝트 공모 착수
 https://www.aitimes.com/news/articleView.html?idxno=212718
 
-[해외]
-◾ 유럽연합, 13세 미만 SNS 이용 제한 추진…AI 동반자 서비스까지 규제 검토
-https://www.aitimes.kr/news/articleView.html?idxno=40960
+◾ 교육부, 2026년 대학 인공지능 기본교육 사업 출범식 개최
+https://www.aitimes.kr/news/articleView.html?idxno=40957
 
-◾ 앤트그룹, 로봇 제어 VLA 모델 ＇링봇-VA 2.0＇·실시간 월드 모델 동시 공개
-https://www.aitimes.com/news/articleView.html?idxno=212700
+◾ 교육부, 대학 AI 기본교육 본격화…20개 대학서 교육과정 개발 착수
+https://www.etnews.com/20260713000226
+
+[해외]
+◾ 〃비폭력 시대 끝났다〃…강경 반AI 지도자 잠적에 오픈AI ＇안전 비상＇
+https://www.aitimes.com/news/articleView.html?idxno=212710
 
 ◾ 미·중 BCI 전쟁, ‘두개골 뚫는’ 미국 vs ‘몸에 입히는’ 중국
 https://www.aitimes.com/news/articleView.html?idxno=212715
@@ -101,8 +108,11 @@ https://www.aitimes.com/news/articleView.html?idxno=212715
 ◾ 중국 정부 폐쇄형 전환 움직임에도…지푸 AI 〃오픈소스가 AI 안전의 열쇠〃
 https://www.aitimes.com/news/articleView.html?idxno=212695
 
-◾ 오픈AI·앤트로픽 상장 임박…＇AI 신흥 갑부＇들의 자선 계획에 업계 들썩
-https://www.aitimes.com/news/articleView.html?idxno=212705
+◾ 유럽연합, 13세 미만 SNS 이용 제한 추진…AI 동반자 서비스까지 규제 검토
+https://www.aitimes.kr/news/articleView.html?idxno=40960
+
+◾ 앤트그룹, 로봇 제어 VLA 모델 ＇링봇-VA 2.0＇·실시간 월드 모델 동시 공개
+https://www.aitimes.com/news/articleView.html?idxno=212700
 
 📚 간행물
 ◾ 인공지능 전환 추진전략
