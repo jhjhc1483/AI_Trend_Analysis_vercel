@@ -15,6 +15,11 @@
     "category": "국방"
   },
   {
+    "title": "육군방공학교, 튀르키예 무관단과 대드론 체계 발전·협력 논의",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260714/7/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=2SRcn4cBFMJkRtQJaE6Iu798Ewod4-sj51Lr42mryVHBCbRMGK18!570272758",
+    "category": "육군"
+  },
+  {
     "title": "[현장] 공군19전비 AI교육·연구센터를 가다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260714/3/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=2SRcn4cBFMJkRtQJaE6Iu798Ewod4-sj51Lr42mryVHBCbRMGK18!570272758",
     "category": "국방"
@@ -95,13 +100,23 @@
     "category": "국방"
   },
   {
-    "title": "직업계고 117개 학과 개편…＇AI·로봇＇ 미래산업 인재양성 강화",
-    "link": "https://www.etnews.com/20260713000238",
-    "category": "민간"
+    "title": "육군방공학교, 튀르키예 무관단과 대드론 체계 발전·협력 논의",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzQ4MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군"
   },
   {
     "title": "SKT, 로봇 학습 플랫폼 하반기 공개…내년 본격 사업화",
     "link": "https://www.etnews.com/20260713000221",
+    "category": "민간"
+  },
+  {
+    "title": "노타, ＇ICML 2026＇ 챌린지 3위…큐웬 추론 성능 7배 높였다",
+    "link": "https://www.etnews.com/20260713000200",
+    "category": "민간"
+  },
+  {
+    "title": "[단독]오는 22일 ＇부총리-통신3사 CEO＇ 2차 회동…AIDC 현안 논의 전망",
+    "link": "https://www.etnews.com/20260713000086",
     "category": "민간"
   },
   {
@@ -110,8 +125,8 @@
     "category": "민간"
   },
   {
-    "title": "딥노이드 “의료 에이전틱 AI로 승부수… 환각률 0.2%로 업무 바꾼다”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212722",
+    "title": "프롬프트·카르파시 루프 넘어 AI가 연구 방법 바꾸는 ＇이중 루프＇ 시대 개막",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212703",
     "category": "민간"
   },
   {
@@ -120,18 +135,8 @@
     "category": "민간"
   },
   {
-    "title": "교육부, 대학 AI 기본교육 본격화…20개 대학서 교육과정 개발 착수",
-    "link": "https://www.etnews.com/20260713000226",
-    "category": "기관"
-  },
-  {
     "title": "공무원이 직접 만든 ‘AI 법령 비서’ 서비스 개시...더 신속한 행정서비스 제공한다",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40956",
-    "category": "기관"
-  },
-  {
-    "title": "딥테크가 만드는 대한민국의 미래, 2026년 딥테크 성과교류회 개최",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187538&searchOpt=ALL&searchTxt=",
     "category": "기관"
   },
   {
@@ -140,13 +145,18 @@
     "category": "기관"
   },
   {
-    "title": "유럽연합, 13세 미만 SNS 이용 제한 추진…AI 동반자 서비스까지 규제 검토",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40960",
-    "category": "해외"
+    "title": "교육부, 2026년 대학 인공지능 기본교육 사업 출범식 개최",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40957",
+    "category": "기관"
   },
   {
-    "title": "앤트그룹, 로봇 제어 VLA 모델 ＇링봇-VA 2.0＇·실시간 월드 모델 동시 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212700",
+    "title": "교육부, 대학 AI 기본교육 본격화…20개 대학서 교육과정 개발 착수",
+    "link": "https://www.etnews.com/20260713000226",
+    "category": "기관"
+  },
+  {
+    "title": "〃비폭력 시대 끝났다〃…강경 반AI 지도자 잠적에 오픈AI ＇안전 비상＇",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212710",
     "category": "해외"
   },
   {
@@ -160,8 +170,13 @@
     "category": "해외"
   },
   {
-    "title": "오픈AI·앤트로픽 상장 임박…＇AI 신흥 갑부＇들의 자선 계획에 업계 들썩",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212705",
+    "title": "유럽연합, 13세 미만 SNS 이용 제한 추진…AI 동반자 서비스까지 규제 검토",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40960",
+    "category": "해외"
+  },
+  {
+    "title": "앤트그룹, 로봇 제어 VLA 모델 ＇링봇-VA 2.0＇·실시간 월드 모델 동시 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212700",
     "category": "해외"
   }
 ]
