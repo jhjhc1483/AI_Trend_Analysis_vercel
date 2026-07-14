@@ -1,182 +1,267 @@
 [
   {
-    "title": "Agentic AI 시대 국가 컴퓨팅 전략 세미나",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000010&num=787",
-    "category": "기관"
-  },
-  {
-    "title": "[분석] 군과 기업 AI 골든타임 사수 해법은…",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260714/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=2SRcn4cBFMJkRtQJaE6Iu798Ewod4-sj51Lr42mryVHBCbRMGK18!570272758",
+    "title": "국방 AI 선도로 미래 전장 주도한다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260715/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758",
     "category": "국방"
   },
   {
-    "title": "軍 AI교육·연구센터 올해 5곳 추가",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260714/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=2SRcn4cBFMJkRtQJaE6Iu798Ewod4-sj51Lr42mryVHBCbRMGK18!570272758",
+    "title": "‘국방첨단인증’ 신설 공청회 개최",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260715/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758",
     "category": "국방"
   },
   {
-    "title": "육군방공학교, 튀르키예 무관단과 대드론 체계 발전·협력 논의",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260714/7/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=2SRcn4cBFMJkRtQJaE6Iu798Ewod4-sj51Lr42mryVHBCbRMGK18!570272758",
+    "title": "육군, 미래 동원사단 전력 보강 방안 논의",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260715/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758",
     "category": "육군"
   },
   {
-    "title": "[현장] 공군19전비 AI교육·연구센터를 가다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260714/3/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=2SRcn4cBFMJkRtQJaE6Iu798Ewod4-sj51Lr42mryVHBCbRMGK18!570272758",
+    "title": "선순환 ‘드론 생태계’ 구축 혁신 박차",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260715/5/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758",
     "category": "국방"
   },
   {
-    "title": "융기원, 수원 이의고서 학생·교직원 대상 AI 시대 창의·리더십 특강",
-    "link": "https://www.etnews.com/20260713000421",
-    "category": "민간"
+    "title": "우크라이나, 로봇 지상군 시대 열었다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260715/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758",
+    "category": "해외"
   },
   {
-    "title": "[국가재정전략회의]＇모두의 AI＇ 프로젝트 본격화…연내 무료 AI 챗봇 서비스 나온다",
-    "link": "https://www.etnews.com/20260713000393",
+    "title": "('26. 7. 14.) 국가AI전략위, ‘AI 데이터센터 산업생태계 육성 간담회’ 개최",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=791",
     "category": "기관"
   },
   {
-    "title": "캠코, 국유재산 관리 AI로 바꾼다",
-    "link": "https://www.etnews.com/20260713000119",
+    "title": "엔비디아 AI칩 中 우회 공급 차단…구매기업 ＇화이트리스트＇ 도입",
+    "link": "https://www.etnews.com/20260714000498",
+    "category": "해외"
+  },
+  {
+    "title": "모레 이기종 AI 인프라SW, UN 산하 ITU 혁신 사례 선정",
+    "link": "https://www.etnews.com/20260714000480",
     "category": "기관"
   },
   {
-    "title": "NHN KCP, AI 에이전트 결제 표준 만든다…글로벌 AAIF 합류",
-    "link": "https://www.etnews.com/20260713000384",
-    "category": "민간"
-  },
-  {
-    "title": "삼성전자, 테슬라 AI5 칩 테이프아웃 완료…파운드리 반등 기대",
-    "link": "https://www.etnews.com/20260713000364",
-    "category": "민간"
-  },
-  {
-    "title": "부총리-통신3사 CEO, 22일 2차 회동…AIDC 진흥 논의 전망",
-    "link": "https://www.etnews.com/20260713000234",
+    "title": "＇2026 K-NPU 테크 웨이브＇ 개최… AI 추론 시대, 국산 NPU가 시장 패러다임 바꾼다",
+    "link": "https://www.etnews.com/20260714000458",
     "category": "기관"
   },
   {
-    "title": "퓨리오사AI, NPU 내년 ＇4만장＇ 2배 증산…엔비디아 독점에 도전",
-    "link": "https://www.etnews.com/20260713000265",
+    "title": "IBK기업은행, 하반기 조직개편…AI 컨트롤타워 ＇AX전략그룹＇ 신설",
+    "link": "https://www.etnews.com/20260714000466",
     "category": "민간"
   },
   {
-    "title": "[국가재정전략회의]산업부, 차세대 반도체 생태계 총력전…AI 로봇도 국가 전략 육성",
-    "link": "https://www.etnews.com/20260713000280",
+    "title": "정부, AIDC 메가프로젝트 전방위 지원…범부처 지원 TF 가동",
+    "link": "https://www.etnews.com/20260714000454",
     "category": "기관"
   },
   {
-    "title": "메가존클라우드, 서울 AI 허브와 AI 산업 생태계 활성화 협력",
-    "link": "https://www.etnews.com/20260713000255",
+    "title": "제네시스코텍스AI, 차세대 ＇AI Debate Engine＇ 개발···국산 AI 추론 플랫폼 상용화 시동",
+    "link": "https://www.etnews.com/20260714000450",
     "category": "민간"
   },
   {
-    "title": "구글 클라우드, 삼성전자 DX 임직원에 ＇제미나이 엔터프라이즈＇ 공급",
-    "link": "https://www.etnews.com/20260713000252",
-    "category": "민간"
-  },
-  {
-    "title": "“공무원이 직접 만들었다”…정부, 독파모 기반 ＇AI 법령 비서＇ 시범 개시",
-    "link": "https://www.etnews.com/20260713000242",
+    "title": "공공조달 시 AI 제품 우선 고려…AI기본법 시행령 국무회의 통과",
+    "link": "https://www.etnews.com/20260714000439",
     "category": "기관"
   },
   {
-    "title": "육사 AI·데이터과학과, 국제학술지 논문 게재···국방 AI 연구성과 확대",
-    "link": "https://www.etnews.com/20260713000205",
+    "title": "크래프톤, AI ＇실전 적용＇ 확대... e스포츠·안티치트·AI 팀원까지",
+    "link": "https://www.etnews.com/20260714000392",
+    "category": "민간"
+  },
+  {
+    "title": "구글, 풀스택 AI 내세워 오픈AI·앤트로픽 추격…기업용 AI 시장 공략 박차",
+    "link": "https://www.etnews.com/20260714000385",
+    "category": "해외"
+  },
+  {
+    "title": "공장에 ＇피지컬 AI＇ 실현할 지능망 깐다…SKT·KT, 하이퍼 AI 네트워크 실증 착수",
+    "link": "https://www.etnews.com/20260714000209",
+    "category": "민간"
+  },
+  {
+    "title": "게임업계 AI ＇실전 시대＇... 문체부, 내년 지원 예산 확대 의지",
+    "link": "https://www.etnews.com/20260714000351",
+    "category": "기관"
+  },
+  {
+    "title": "대동, 부품사업 매출 26년 1,300억 전망…AI 기반 반복 매출 강화",
+    "link": "https://www.etnews.com/20260714000335",
+    "category": "민간"
+  },
+  {
+    "title": "롯데멤버스, AI 페르소나 기반 가상조사 서비스 개발 추진",
+    "link": "https://www.etnews.com/20260714000333",
+    "category": "민간"
+  },
+  {
+    "title": "딥엑스, 피지컬 AI 실행 플랫폼 구축 속도",
+    "link": "https://www.etnews.com/20260714000277",
+    "category": "민간"
+  },
+  {
+    "title": "코트라, ＇美 제조업 현장 AI 도입 트렌드＇ 발간…“국내 제조 AI 기업 진출 기회”",
+    "link": "https://www.etnews.com/20260714000265",
+    "category": "민간"
+  },
+  {
+    "title": "충남도, 방사청·논산시와 AI 국방로봇 산업 육성 ＇시동＇",
+    "link": "https://www.etnews.com/20260714000081",
     "category": "국방"
   },
   {
-    "title": "[분석] 군과 기업 AI 골든타임 사수 해법은…",
-    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNzQ3OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "title": "앤트로픽 “클로드, 모델과 언어에 따라 태도 다르다”…4대 축으로 계량화",
+    "link": "https://www.etnews.com/20260714000210",
+    "category": "해외"
+  },
+  {
+    "title": "AI 인프라, ＇단일 칩＇에서 ＇워크로드 분담＇으로… 추론 비용이 만든 변곡점",
+    "link": "https://www.etnews.com/20260714000207",
+    "category": "민간"
+  },
+  {
+    "title": "업비트서 AI로 매매 전략 검증해 수익률 비교… 두나무, ＇업비트 스트래티지 툴킷＇ 베타 출시",
+    "link": "https://www.etnews.com/20260714000149",
+    "category": "민간"
+  },
+  {
+    "title": "AI 칩 개발 붐에…EDA 산업 매출 13%↑",
+    "link": "https://www.etnews.com/20260714000131",
+    "category": "민간"
+  },
+  {
+    "title": "중국 휴머노이드 로봇 IPO 속도…로봇 ＇두뇌＇에 자금 쏟는다",
+    "link": "https://www.etnews.com/20260714000124",
+    "category": "해외"
+  },
+  {
+    "title": "확산되는 오픈소스 AI, ＇AI 컴플라이언스＇ 도입 필요...율촌·OSBC, 국내 최초 ＇기업형 AI 거버넌스＇ 체계 구축",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40982",
+    "category": "기관"
+  },
+  {
+    "title": "AI 에이전트로 로봇 학습용 가상세계 자동 생성…MIT·도요타연구소, ＇씬스미스＇ 오픈소스로 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40981",
+    "category": "해외"
+  },
+  {
+    "title": "NATO 지휘체계 핵심으로 부상하는 ＇메이븐 스마트 AI 시스템＇…우크라이나 전장에서 실전 검증",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40980",
+    "category": "해외"
+  },
+  {
+    "title": "구글, ‘AI 포 비즈니스’ 개최...AI 활용한 비즈니스 혁신 사례 및 풀 스택 AI 전략 제시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40975",
+    "category": "민간"
+  },
+  {
+    "title": "NIA, Hyper-AI 네트워크로 산업현장 피지컬 AI 시대 연다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40974",
+    "category": "기관"
+  },
+  {
+    "title": "음향 AI 업계 난제 ‘기억 쌓는 AI’로 새 해법 제시...한화비전-GIST 공동 연구팀, 국제 경진대회 ‘세계 1위’ 올라",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40964",
+    "category": "민간"
+  },
+  {
+    "title": "인공지능 데이터 센터 초대형 사업(메가프로젝트)을 뒷받침할 범부처 종합 지원 전담반(TF) 본격 가동",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187547&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "국방 AI 선도로 미래 전장 주도한다",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzUyOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "국방"
   },
   {
-    "title": "軍 AI교육·연구센터 올해 5곳 추가",
-    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExNzQ3NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "title": "오픈AI ＇코덱스＇ 활성 사용자 700만 돌파...＇GPT-5.6＇ 출시 효과 톡톡",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212728",
+    "category": "해외"
+  },
+  {
+    "title": "나델라의 경고 “AI 기업에 노하우 넘겨주는 ‘역정보의 역설’ 막아야”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212736",
+    "category": "해외"
+  },
+  {
+    "title": "〃실패 원인만 골라 강화학습〃…4분의 1 데이터로 상용 모델 넘은 ＇트레이스＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212746",
+    "category": "민간"
+  },
+  {
+    "title": "〃한국어 쓰는 클로드, 더 다정하다〃…앤트로픽, 언어·모델별 가치 분석 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212765",
+    "category": "해외"
+  },
+  {
+    "title": "실행 결과 학습해 진화하는 ＇동적 피드백＇ 라우터 등장...〃AI 비용 2.6배 절감〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212744",
+    "category": "민간"
+  },
+  {
+    "title": "구글, ＇엔비디아 우군＇ 네오클라우드 상대로 TPU 공세 본격화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212737",
+    "category": "해외"
+  },
+  {
+    "title": "AI 데이터센터가 불러온 ＇메모리 쇼크＇…2분기 세계 스마트폰 출하량 13년 만에 최저",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212756",
+    "category": "민간"
+  },
+  {
+    "title": "＇유럽의 안두릴＇ 헬싱, 27조 가치로 2.7조 대형 투자 유치",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212757",
     "category": "국방"
   },
   {
-    "title": "[현장] 공군19전비 AI교육·연구센터를 가다",
-    "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzQ4OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "title": "[게시판] SKT, 차세대 AI 네트워크 ＇AI-RAN＇ 구축사업 선정 등 단신",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212763",
+    "category": "민간"
+  },
+  {
+    "title": "앤트로픽, 국내 무료 사용자에 ＇250억 청구서＇ 발송 논란…“당사자와 해결”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212760",
+    "category": "해외"
+  },
+  {
+    "title": "〃삼성전자, 미국 증시 상장 재검토 착수...SK하이닉스 성공에 자극〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212759",
+    "category": "민간"
+  },
+  {
+    "title": "앤트로픽, 인도서 ‘클로드’ 루피화 결제 도입…세계 2위 시장 공략 가속",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212754",
+    "category": "해외"
+  },
+  {
+    "title": "AI 기본법 개정안 21일 시행…“공공조달 시 AI 제품 우선 적용”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212764",
+    "category": "기관"
+  },
+  {
+    "title": "EU, 13세 미만 SNS 금지법 추진...글로벌 규제 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212753",
+    "category": "해외"
+  },
+  {
+    "title": "＇모두의 AI＇ 사업에 카카오·이통사·스타트업 잇달아 출사표",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212751",
+    "category": "기관"
+  },
+  {
+    "title": "베이글코드, 사내 1인 1에이전트 구축 완료…전사 협업 체계로 게임 개발 가속화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212752",
+    "category": "민간"
+  },
+  {
+    "title": "애플 소송에 발목 잡힌 오픈AI…＇인재 확보·공급망＇ 비상",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212735",
+    "category": "해외"
+  },
+  {
+    "title": "한화비전-GIST, 음향 AI 경진대회 세계 1위…“차세대 보안 AI 솔루션 적용”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212750",
     "category": "국방"
-  },
-  {
-    "title": "육군방공학교, 튀르키예 무관단과 대드론 체계 발전·협력 논의",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzQ4MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "육군"
-  },
-  {
-    "title": "SKT, 로봇 학습 플랫폼 하반기 공개…내년 본격 사업화",
-    "link": "https://www.etnews.com/20260713000221",
-    "category": "민간"
-  },
-  {
-    "title": "노타, ＇ICML 2026＇ 챌린지 3위…큐웬 추론 성능 7배 높였다",
-    "link": "https://www.etnews.com/20260713000200",
-    "category": "민간"
-  },
-  {
-    "title": "[단독]오는 22일 ＇부총리-통신3사 CEO＇ 2차 회동…AIDC 현안 논의 전망",
-    "link": "https://www.etnews.com/20260713000086",
-    "category": "민간"
-  },
-  {
-    "title": "구글 클라우드, 삼성전자와 전략적 협력 확대 ...“글로벌 에이전틱 AI 업무 혁신 가속화”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40951",
-    "category": "민간"
-  },
-  {
-    "title": "프롬프트·카르파시 루프 넘어 AI가 연구 방법 바꾸는 ＇이중 루프＇ 시대 개막",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212703",
-    "category": "민간"
-  },
-  {
-    "title": "네이버, ＇ICML＇서 AI 풀스택 연구 성과 선보여",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212706",
-    "category": "민간"
-  },
-  {
-    "title": "공무원이 직접 만든 ‘AI 법령 비서’ 서비스 개시...더 신속한 행정서비스 제공한다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40956",
-    "category": "기관"
-  },
-  {
-    "title": "〃전 국민 무료로 AI 쓴다〃...과기부, ＇모두의 AI＇ 프로젝트 공모 착수",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212718",
-    "category": "기관"
-  },
-  {
-    "title": "교육부, 2026년 대학 인공지능 기본교육 사업 출범식 개최",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40957",
-    "category": "기관"
-  },
-  {
-    "title": "교육부, 대학 AI 기본교육 본격화…20개 대학서 교육과정 개발 착수",
-    "link": "https://www.etnews.com/20260713000226",
-    "category": "기관"
-  },
-  {
-    "title": "〃비폭력 시대 끝났다〃…강경 반AI 지도자 잠적에 오픈AI ＇안전 비상＇",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212710",
-    "category": "해외"
-  },
-  {
-    "title": "미·중 BCI 전쟁, ‘두개골 뚫는’ 미국 vs ‘몸에 입히는’ 중국",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212715",
-    "category": "해외"
-  },
-  {
-    "title": "중국 정부 폐쇄형 전환 움직임에도…지푸 AI 〃오픈소스가 AI 안전의 열쇠〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212695",
-    "category": "해외"
-  },
-  {
-    "title": "유럽연합, 13세 미만 SNS 이용 제한 추진…AI 동반자 서비스까지 규제 검토",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40960",
-    "category": "해외"
-  },
-  {
-    "title": "앤트그룹, 로봇 제어 VLA 모델 ＇링봇-VA 2.0＇·실시간 월드 모델 동시 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212700",
-    "category": "해외"
   }
 ]
