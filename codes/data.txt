@@ -14,11 +14,14 @@ https://kookbang.dema.mil.kr/newsWeb/20260715/5/ATCE_CTGR_0010050000/view.do;JSE
 ◾ 충남도, 방사청·논산시와 AI 국방로봇 산업 육성 ＇시동＇
 https://www.etnews.com/20260714000081
 
+◾ 음향 AI 업계 난제 ‘기억 쌓는 AI’로 새 해법 제시...한화비전-GIST 공동 연구팀, 국제 경진대회 ‘세계 1위’ 올라
+https://www.aitimes.kr/news/articleView.html?idxno=40964
+
 ◾ 국방 AI 선도로 미래 전장 주도한다
 https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzUyOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ ＇유럽의 안두릴＇ 헬싱, 27조 가치로 2.7조 대형 투자 유치
-https://www.aitimes.com/news/articleView.html?idxno=212757
+◾ 선순환 ‘드론 생태계’ 구축 혁신 박차
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzUzOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 ◾ 한화비전-GIST, 음향 AI 경진대회 세계 1위…“차세대 보안 AI 솔루션 적용”
 https://www.aitimes.com/news/articleView.html?idxno=212750
@@ -28,35 +31,29 @@ https://www.aitimes.com/news/articleView.html?idxno=212750
 https://kookbang.dema.mil.kr/newsWeb/20260715/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758
 
 [민간]
-◾ IBK기업은행, 하반기 조직개편…AI 컨트롤타워 ＇AX전략그룹＇ 신설
-https://www.etnews.com/20260714000466
-
-◾ 제네시스코텍스AI, 차세대 ＇AI Debate Engine＇ 개발···국산 AI 추론 플랫폼 상용화 시동
-https://www.etnews.com/20260714000450
+◾ 공장에 ＇피지컬 AI＇ 실현할 지능망 깐다…SKT·KT, 하이퍼 AI 네트워크 실증 착수
+https://www.etnews.com/20260714000209
 
 ◾ 크래프톤, AI ＇실전 적용＇ 확대... e스포츠·안티치트·AI 팀원까지
 https://www.etnews.com/20260714000392
 
-◾ 공장에 ＇피지컬 AI＇ 실현할 지능망 깐다…SKT·KT, 하이퍼 AI 네트워크 실증 착수
-https://www.etnews.com/20260714000209
-
-◾ 대동, 부품사업 매출 26년 1,300억 전망…AI 기반 반복 매출 강화
-https://www.etnews.com/20260714000335
-
-◾ 롯데멤버스, AI 페르소나 기반 가상조사 서비스 개발 추진
-https://www.etnews.com/20260714000333
+◾ ＇2026 K-NPU 테크 웨이브＇ 개최… AI 추론 시대, 국산 NPU가 시장 패러다임 바꾼다
+https://www.etnews.com/20260714000458
 
 ◾ 딥엑스, 피지컬 AI 실행 플랫폼 구축 속도
 https://www.etnews.com/20260714000277
 
-◾ 코트라, ＇美 제조업 현장 AI 도입 트렌드＇ 발간…“국내 제조 AI 기업 진출 기회”
-https://www.etnews.com/20260714000265
-
 ◾ AI 인프라, ＇단일 칩＇에서 ＇워크로드 분담＇으로… 추론 비용이 만든 변곡점
 https://www.etnews.com/20260714000207
 
+◾ 자생한방병원 ＇AI컨택센터＇ 구축…24시간 AI 상담체계 가동
+https://www.etnews.com/20260714000179
+
 ◾ 업비트서 AI로 매매 전략 검증해 수익률 비교… 두나무, ＇업비트 스트래티지 툴킷＇ 베타 출시
 https://www.etnews.com/20260714000149
+
+◾ LF몰, 대화로 검색하고 추천받는 AI에이전트 ＇LF스타일톡＇ 출시
+https://www.etnews.com/20260714000136
 
 ◾ AI 칩 개발 붐에…EDA 산업 매출 13%↑
 https://www.etnews.com/20260714000131
@@ -64,36 +61,21 @@ https://www.etnews.com/20260714000131
 ◾ 구글, ‘AI 포 비즈니스’ 개최...AI 활용한 비즈니스 혁신 사례 및 풀 스택 AI 전략 제시
 https://www.aitimes.kr/news/articleView.html?idxno=40975
 
-◾ 음향 AI 업계 난제 ‘기억 쌓는 AI’로 새 해법 제시...한화비전-GIST 공동 연구팀, 국제 경진대회 ‘세계 1위’ 올라
-https://www.aitimes.kr/news/articleView.html?idxno=40964
-
 ◾ 〃실패 원인만 골라 강화학습〃…4분의 1 데이터로 상용 모델 넘은 ＇트레이스＇ 공개
 https://www.aitimes.com/news/articleView.html?idxno=212746
 
 ◾ 실행 결과 학습해 진화하는 ＇동적 피드백＇ 라우터 등장...〃AI 비용 2.6배 절감〃
 https://www.aitimes.com/news/articleView.html?idxno=212744
 
-◾ AI 데이터센터가 불러온 ＇메모리 쇼크＇…2분기 세계 스마트폰 출하량 13년 만에 최저
-https://www.aitimes.com/news/articleView.html?idxno=212756
+◾ 구글, ＇엔비디아 우군＇ 네오클라우드 상대로 TPU 공세 본격화
+https://www.aitimes.com/news/articleView.html?idxno=212737
 
 ◾ [게시판] SKT, 차세대 AI 네트워크 ＇AI-RAN＇ 구축사업 선정 등 단신
 https://www.aitimes.com/news/articleView.html?idxno=212763
 
-◾ 〃삼성전자, 미국 증시 상장 재검토 착수...SK하이닉스 성공에 자극〃
-https://www.aitimes.com/news/articleView.html?idxno=212759
-
-◾ 베이글코드, 사내 1인 1에이전트 구축 완료…전사 협업 체계로 게임 개발 가속화
-https://www.aitimes.com/news/articleView.html?idxno=212752
-
 [기관]
 ◾ ('26. 7. 14.) 국가AI전략위, ‘AI 데이터센터 산업생태계 육성 간담회’ 개최
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=791
-
-◾ 모레 이기종 AI 인프라SW, UN 산하 ITU 혁신 사례 선정
-https://www.etnews.com/20260714000480
-
-◾ ＇2026 K-NPU 테크 웨이브＇ 개최… AI 추론 시대, 국산 NPU가 시장 패러다임 바꾼다
-https://www.etnews.com/20260714000458
 
 ◾ 정부, AIDC 메가프로젝트 전방위 지원…범부처 지원 TF 가동
 https://www.etnews.com/20260714000454
@@ -101,8 +83,11 @@ https://www.etnews.com/20260714000454
 ◾ 공공조달 시 AI 제품 우선 고려…AI기본법 시행령 국무회의 통과
 https://www.etnews.com/20260714000439
 
-◾ 게임업계 AI ＇실전 시대＇... 문체부, 내년 지원 예산 확대 의지
-https://www.etnews.com/20260714000351
+◾ AI 덕분에…상반기 ICT 수출 2538억 달러 ‘역대 최대’
+https://kookbang.dema.mil.kr/newsWeb/20260715/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758
+
+◾ 모레 이기종 AI 인프라SW, UN 산하 ITU 혁신 사례 선정
+https://www.etnews.com/20260714000480
 
 ◾ 확산되는 오픈소스 AI, ＇AI 컴플라이언스＇ 도입 필요...율촌·OSBC, 국내 최초 ＇기업형 AI 거버넌스＇ 체계 구축
 https://www.aitimes.kr/news/articleView.html?idxno=40982
@@ -123,11 +108,14 @@ https://www.aitimes.com/news/articleView.html?idxno=212751
 ◾ 우크라이나, 로봇 지상군 시대 열었다
 https://kookbang.dema.mil.kr/newsWeb/20260715/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758
 
+◾ 구글, 풀스택 AI 내세워 오픈AI·앤트로픽 추격…기업용 AI 시장 공략 박차
+https://www.etnews.com/20260714000385
+
 ◾ 엔비디아 AI칩 中 우회 공급 차단…구매기업 ＇화이트리스트＇ 도입
 https://www.etnews.com/20260714000498
 
-◾ 구글, 풀스택 AI 내세워 오픈AI·앤트로픽 추격…기업용 AI 시장 공략 박차
-https://www.etnews.com/20260714000385
+◾ 코트라, ＇美 제조업 현장 AI 도입 트렌드＇ 발간…“국내 제조 AI 기업 진출 기회”
+https://www.etnews.com/20260714000265
 
 ◾ 앤트로픽 “클로드, 모델과 언어에 따라 태도 다르다”…4대 축으로 계량화
 https://www.etnews.com/20260714000210
@@ -150,14 +138,8 @@ https://www.aitimes.com/news/articleView.html?idxno=212736
 ◾ 〃한국어 쓰는 클로드, 더 다정하다〃…앤트로픽, 언어·모델별 가치 분석 공개
 https://www.aitimes.com/news/articleView.html?idxno=212765
 
-◾ 구글, ＇엔비디아 우군＇ 네오클라우드 상대로 TPU 공세 본격화
-https://www.aitimes.com/news/articleView.html?idxno=212737
-
-◾ 앤트로픽, 국내 무료 사용자에 ＇250억 청구서＇ 발송 논란…“당사자와 해결”
-https://www.aitimes.com/news/articleView.html?idxno=212760
-
-◾ 앤트로픽, 인도서 ‘클로드’ 루피화 결제 도입…세계 2위 시장 공략 가속
-https://www.aitimes.com/news/articleView.html?idxno=212754
+◾ ＇유럽의 안두릴＇ 헬싱, 27조 가치로 2.7조 대형 투자 유치
+https://www.aitimes.com/news/articleView.html?idxno=212757
 
 ◾ EU, 13세 미만 SNS 금지법 추진...글로벌 규제 확대
 https://www.aitimes.com/news/articleView.html?idxno=212753

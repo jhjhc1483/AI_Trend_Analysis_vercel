@@ -10,14 +10,14 @@
     "category": "국방"
   },
   {
-    "title": "육군, 미래 동원사단 전력 보강 방안 논의",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260715/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758",
-    "category": "육군"
-  },
-  {
     "title": "선순환 ‘드론 생태계’ 구축 혁신 박차",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260715/5/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758",
     "category": "국방"
+  },
+  {
+    "title": "육군, 미래 동원사단 전력 보강 방안 논의",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260715/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758",
+    "category": "육군"
   },
   {
     "title": "우크라이나, 로봇 지상군 시대 열었다",
@@ -30,34 +30,9 @@
     "category": "기관"
   },
   {
-    "title": "엔비디아 AI칩 中 우회 공급 차단…구매기업 ＇화이트리스트＇ 도입",
-    "link": "https://www.etnews.com/20260714000498",
-    "category": "해외"
-  },
-  {
-    "title": "모레 이기종 AI 인프라SW, UN 산하 ITU 혁신 사례 선정",
-    "link": "https://www.etnews.com/20260714000480",
-    "category": "기관"
-  },
-  {
-    "title": "＇2026 K-NPU 테크 웨이브＇ 개최… AI 추론 시대, 국산 NPU가 시장 패러다임 바꾼다",
-    "link": "https://www.etnews.com/20260714000458",
-    "category": "기관"
-  },
-  {
-    "title": "IBK기업은행, 하반기 조직개편…AI 컨트롤타워 ＇AX전략그룹＇ 신설",
-    "link": "https://www.etnews.com/20260714000466",
-    "category": "민간"
-  },
-  {
     "title": "정부, AIDC 메가프로젝트 전방위 지원…범부처 지원 TF 가동",
     "link": "https://www.etnews.com/20260714000454",
     "category": "기관"
-  },
-  {
-    "title": "제네시스코텍스AI, 차세대 ＇AI Debate Engine＇ 개발···국산 AI 추론 플랫폼 상용화 시동",
-    "link": "https://www.etnews.com/20260714000450",
-    "category": "민간"
   },
   {
     "title": "공공조달 시 AI 제품 우선 고려…AI기본법 시행령 국무회의 통과",
@@ -65,8 +40,8 @@
     "category": "기관"
   },
   {
-    "title": "크래프톤, AI ＇실전 적용＇ 확대... e스포츠·안티치트·AI 팀원까지",
-    "link": "https://www.etnews.com/20260714000392",
+    "title": "공장에 ＇피지컬 AI＇ 실현할 지능망 깐다…SKT·KT, 하이퍼 AI 네트워크 실증 착수",
+    "link": "https://www.etnews.com/20260714000209",
     "category": "민간"
   },
   {
@@ -75,24 +50,29 @@
     "category": "해외"
   },
   {
-    "title": "공장에 ＇피지컬 AI＇ 실현할 지능망 깐다…SKT·KT, 하이퍼 AI 네트워크 실증 착수",
-    "link": "https://www.etnews.com/20260714000209",
+    "title": "엔비디아 AI칩 中 우회 공급 차단…구매기업 ＇화이트리스트＇ 도입",
+    "link": "https://www.etnews.com/20260714000498",
+    "category": "해외"
+  },
+  {
+    "title": "크래프톤, AI ＇실전 적용＇ 확대... e스포츠·안티치트·AI 팀원까지",
+    "link": "https://www.etnews.com/20260714000392",
     "category": "민간"
   },
   {
-    "title": "게임업계 AI ＇실전 시대＇... 문체부, 내년 지원 예산 확대 의지",
-    "link": "https://www.etnews.com/20260714000351",
+    "title": "AI 덕분에…상반기 ICT 수출 2538억 달러 ‘역대 최대’",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260715/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758",
     "category": "기관"
   },
   {
-    "title": "대동, 부품사업 매출 26년 1,300억 전망…AI 기반 반복 매출 강화",
-    "link": "https://www.etnews.com/20260714000335",
+    "title": "＇2026 K-NPU 테크 웨이브＇ 개최… AI 추론 시대, 국산 NPU가 시장 패러다임 바꾼다",
+    "link": "https://www.etnews.com/20260714000458",
     "category": "민간"
   },
   {
-    "title": "롯데멤버스, AI 페르소나 기반 가상조사 서비스 개발 추진",
-    "link": "https://www.etnews.com/20260714000333",
-    "category": "민간"
+    "title": "모레 이기종 AI 인프라SW, UN 산하 ITU 혁신 사례 선정",
+    "link": "https://www.etnews.com/20260714000480",
+    "category": "기관"
   },
   {
     "title": "딥엑스, 피지컬 AI 실행 플랫폼 구축 속도",
@@ -102,7 +82,7 @@
   {
     "title": "코트라, ＇美 제조업 현장 AI 도입 트렌드＇ 발간…“국내 제조 AI 기업 진출 기회”",
     "link": "https://www.etnews.com/20260714000265",
-    "category": "민간"
+    "category": "해외"
   },
   {
     "title": "충남도, 방사청·논산시와 AI 국방로봇 산업 육성 ＇시동＇",
@@ -120,8 +100,18 @@
     "category": "민간"
   },
   {
+    "title": "자생한방병원 ＇AI컨택센터＇ 구축…24시간 AI 상담체계 가동",
+    "link": "https://www.etnews.com/20260714000179",
+    "category": "민간"
+  },
+  {
     "title": "업비트서 AI로 매매 전략 검증해 수익률 비교… 두나무, ＇업비트 스트래티지 툴킷＇ 베타 출시",
     "link": "https://www.etnews.com/20260714000149",
+    "category": "민간"
+  },
+  {
+    "title": "LF몰, 대화로 검색하고 추천받는 AI에이전트 ＇LF스타일톡＇ 출시",
+    "link": "https://www.etnews.com/20260714000136",
     "category": "민간"
   },
   {
@@ -162,7 +152,7 @@
   {
     "title": "음향 AI 업계 난제 ‘기억 쌓는 AI’로 새 해법 제시...한화비전-GIST 공동 연구팀, 국제 경진대회 ‘세계 1위’ 올라",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40964",
-    "category": "민간"
+    "category": "국방"
   },
   {
     "title": "인공지능 데이터 센터 초대형 사업(메가프로젝트)을 뒷받침할 범부처 종합 지원 전담반(TF) 본격 가동",
@@ -172,6 +162,11 @@
   {
     "title": "국방 AI 선도로 미래 전장 주도한다",
     "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzUyOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
+  },
+  {
+    "title": "선순환 ‘드론 생태계’ 구축 혁신 박차",
+    "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzUzOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "국방"
   },
   {
@@ -202,37 +197,17 @@
   {
     "title": "구글, ＇엔비디아 우군＇ 네오클라우드 상대로 TPU 공세 본격화",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=212737",
-    "category": "해외"
-  },
-  {
-    "title": "AI 데이터센터가 불러온 ＇메모리 쇼크＇…2분기 세계 스마트폰 출하량 13년 만에 최저",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212756",
     "category": "민간"
   },
   {
     "title": "＇유럽의 안두릴＇ 헬싱, 27조 가치로 2.7조 대형 투자 유치",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=212757",
-    "category": "국방"
+    "category": "해외"
   },
   {
     "title": "[게시판] SKT, 차세대 AI 네트워크 ＇AI-RAN＇ 구축사업 선정 등 단신",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=212763",
     "category": "민간"
-  },
-  {
-    "title": "앤트로픽, 국내 무료 사용자에 ＇250억 청구서＇ 발송 논란…“당사자와 해결”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212760",
-    "category": "해외"
-  },
-  {
-    "title": "〃삼성전자, 미국 증시 상장 재검토 착수...SK하이닉스 성공에 자극〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212759",
-    "category": "민간"
-  },
-  {
-    "title": "앤트로픽, 인도서 ‘클로드’ 루피화 결제 도입…세계 2위 시장 공략 가속",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212754",
-    "category": "해외"
   },
   {
     "title": "AI 기본법 개정안 21일 시행…“공공조달 시 AI 제품 우선 적용”",
@@ -248,11 +223,6 @@
     "title": "＇모두의 AI＇ 사업에 카카오·이통사·스타트업 잇달아 출사표",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=212751",
     "category": "기관"
-  },
-  {
-    "title": "베이글코드, 사내 1인 1에이전트 구축 완료…전사 협업 체계로 게임 개발 가속화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=212752",
-    "category": "민간"
   },
   {
     "title": "애플 소송에 발목 잡힌 오픈AI…＇인재 확보·공급망＇ 비상",
