@@ -16,6 +16,12 @@ https://www.etnews.com/20260715000171
 ◾ 업스테이지·퓨리오사AI 〃국산 기술로 ＇풀스택 AI＇ 첫 상용화〃
 https://www.aitimes.com/news/articleView.html?idxno=212810
 
+◾ 한컴, 폴란드 기업과 유럽 현지 ＇에이전틱 OS＇ 개발 속도 낸다
+https://www.aitimes.com/news/articleView.html?idxno=212783
+
+◾ 베스핀글로벌, AI 보안운영센터 ＇헬프나우 AI SOC＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=212807
+
 ◾ 네이버, ＇AI탭＇ 사용자 1000만 돌파...〃에이전틱 검색 고도화〃
 https://www.aitimes.com/news/articleView.html?idxno=212801
 
@@ -25,14 +31,32 @@ https://www.etnews.com/20260715000442
 ◾ 앤트로픽·오픈AI 손잡은 트렌드마이크로, 韓 보안 시장 공략
 https://www.etnews.com/20260715000303
 
+◾ 아이에이, 퓨리오사AI NPU 기반 ＇소형 AI 데이터센터＇ 짓는다
+https://www.etnews.com/20260715000370
+
+◾ KB금융, 실전형 AI 인재 양성 프로그램 ＇KB AI Lab＇ 출범
+https://www.etnews.com/20260715000292
+
 ◾ “다음 AI 요약, 퓨리오사AI NPU로 돌린다”…＇풀스택 소버린 AI＇ 첫 상용화
 https://www.etnews.com/20260715000270
 
-◾ 통신 3사 ＇모두의 AI＇ 도전장…B2C AI 주도권 선점 경쟁
-https://www.etnews.com/20260715000211
+◾ 위즈코어, AI-RAN 기반 제조 자율 운영 실증 나선다
+https://www.etnews.com/20260715000038
 
 ◾ SKT, SK바이오팜과 AI 신약 연구…개발 초기 기간 5개월로 단축
 https://www.etnews.com/20260715000162
+
+◾ 유락, 인도 수사·법과학 기관서 ＇현장형 AI 포렌식＇ 실증
+https://www.etnews.com/20260715000149
+
+◾ 다올티에스, 창립 6주년…AI 플랫폼 넘어 ＇AI Ecosystem Orchestrator＇로 진화
+https://www.etnews.com/20260715000145
+
+◾ KT, 이통사 유일 UAM 사업 지속…AI·항공망 기술로 상용화 앞당긴다
+https://www.etnews.com/20260715000133
+
+◾ BGF리테일, 인텔리시아 손잡고 ＇AI 합성소비자＇ 기술 도입
+https://www.etnews.com/20260715000102
 
 ◾ 디사일로-에임인텔리전스, AI 보안 시스템 개발 협력
 https://www.etnews.com/20260715000101
@@ -46,15 +70,21 @@ https://www.aitimes.kr/news/articleView.html?idxno=40993
 ◾ ＇업스테이지·포털 다음·퓨리오사AI＇ 뭉쳤다…국산 NPU·모델·서비스 ‘풀스택 소버린 AI’ 국내 첫 상용화
 https://www.aitimes.kr/news/articleView.html?idxno=40992
 
-◾ KT, ‘AX Tech Connect 2026’ 개최... AI·데이터·네트워크 미래 기술 선보여
-https://www.aitimes.kr/news/articleView.html?idxno=40990
-
 ◾ 한컴, 유럽형 소버린 에이전틱 OS 개발 ‘가속’...14조 글로벌 시장 정조준
 https://www.aitimes.kr/news/articleView.html?idxno=40988
 
 [기관]
 ◾ KAIST, AI 미세조정으로 ‘안전성·성능’ 모두 챙기는 학습 프레임워크 개발
 https://www.aitimes.com/news/articleView.html?idxno=212806
+
+◾ [KTV 국민방송] "세계 3대 AI 강국을 향해"···이재명정부 1년 성과는? ('26. 5. 29.)
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=792
+
+◾ 공공 정보시스템 등급심의위 발족…구현모 전 KT 대표 위원장
+https://www.etnews.com/20260715000273
+
+◾ 전석훈 경기도의원, 피지컬 AI LAB 예산 32억원 확보
+https://www.etnews.com/20260715000419
 
 ◾ ＇국가암·AI데이터센터＇ 만든다...복지부, 5년간 460억원 투입
 https://www.etnews.com/20260715000381
@@ -71,11 +101,17 @@ https://www.etnews.com/20260715000276
 ◾ [하반기 부처 업무보고] 국가전략기술에 최대 10조 장기자본…민관 전문운용사 신설
 https://www.etnews.com/20260715000258
 
+◾ [하반기 부처 업무보고]＇대체불가 대한민국＇ 시동…AI·재정개혁 양날개로 성장엔진 재가동
+https://www.etnews.com/20260715000256
+
 ◾ 모든 국민이 무료 사용…연내 AI 챗봇 서비스 나온다
 https://www.etnews.com/20260715000048
 
 ◾ GIST-MIT, 글로벌 피지컬 AI 공동연구 협력 체제 구축
 https://www.etnews.com/20260715000108
+
+◾ 충북TP, AI·로봇 제조혁신 실증 본격화…3개 과제 협약 완료
+https://www.etnews.com/20260715000106
 
 ◾ AI 기반 첨단 소재·제조 기술 발굴…＇KIMS-GIST 공동연구센터＇ 개소
 https://www.etnews.com/20260715000105
@@ -89,6 +125,12 @@ https://www.aitimes.kr/news/articleView.html?idxno=40987
 [해외]
 ◾ 허사비스 “AGI 달성 눈앞…미국 주도 AI 자율 규제 연내 신설해야”
 https://www.aitimes.com/news/articleView.html?idxno=212782
+
+◾ 중국 모바일 시장, ＇AI OS＇ 경쟁 시작...AI 모델 스타트업도 ＇에이전트 폰＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=212798
+
+◾ 손정의 〃2040년 AI 매출, 세계 GDP 20% 차지...미래 핵심 에너지는 핵융합〃
+https://www.aitimes.com/news/articleView.html?idxno=212797
 
 ◾ 같은 AI도 언어를 바꾸면 성격이 달라진다, 앤트로픽이 30만 대화로 확인했다
 https://www.etnews.com/20260715000217
