@@ -10,9 +10,24 @@
     "category": "해외"
   },
   {
+    "title": "중국 모바일 시장, ＇AI OS＇ 경쟁 시작...AI 모델 스타트업도 ＇에이전트 폰＇ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212798",
+    "category": "해외"
+  },
+  {
     "title": "KAIST, AI 미세조정으로 ‘안전성·성능’ 모두 챙기는 학습 프레임워크 개발",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=212806",
     "category": "기관"
+  },
+  {
+    "title": "한컴, 폴란드 기업과 유럽 현지 ＇에이전틱 OS＇ 개발 속도 낸다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212783",
+    "category": "민간"
+  },
+  {
+    "title": "손정의 〃2040년 AI 매출, 세계 GDP 20% 차지...미래 핵심 에너지는 핵융합〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212797",
+    "category": "해외"
   },
   {
     "title": "방산 드론 전문 니어스랩, 창사 첫 분기 흑자...상반기 매출 174억 달성",
@@ -20,9 +35,19 @@
     "category": "국방"
   },
   {
+    "title": "베스핀글로벌, AI 보안운영센터 ＇헬프나우 AI SOC＇ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=212807",
+    "category": "민간"
+  },
+  {
     "title": "네이버, ＇AI탭＇ 사용자 1000만 돌파...〃에이전틱 검색 고도화〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=212801",
     "category": "민간"
+  },
+  {
+    "title": "[KTV 국민방송] \"세계 3대 AI 강국을 향해\"···이재명정부 1년 성과는? ('26. 5. 29.)",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=792",
+    "category": "기관"
   },
   {
     "title": "SKT, CEO 직속 ＇AI DC 통합추진단＇ 신설",
@@ -35,9 +60,19 @@
     "category": "민간"
   },
   {
+    "title": "공공 정보시스템 등급심의위 발족…구현모 전 KT 대표 위원장",
+    "link": "https://www.etnews.com/20260715000273",
+    "category": "기관"
+  },
+  {
     "title": "대한항공, ＇드론·UAM 박람회＇ 참가…AI 무인기 기술 공개",
     "link": "https://www.etnews.com/20260715000422",
     "category": "국방"
+  },
+  {
+    "title": "전석훈 경기도의원, 피지컬 AI LAB 예산 32억원 확보",
+    "link": "https://www.etnews.com/20260715000419",
+    "category": "기관"
   },
   {
     "title": "＇국가암·AI데이터센터＇ 만든다...복지부, 5년간 460억원 투입",
@@ -50,9 +85,19 @@
     "category": "기관"
   },
   {
+    "title": "아이에이, 퓨리오사AI NPU 기반 ＇소형 AI 데이터센터＇ 짓는다",
+    "link": "https://www.etnews.com/20260715000370",
+    "category": "민간"
+  },
+  {
     "title": "NIA, ＇AI-RAN+피지컬AI 현장 실증＇…오픈랜 해외 수출 동시 추진",
     "link": "https://www.etnews.com/20260715000319",
     "category": "기관"
+  },
+  {
+    "title": "KB금융, 실전형 AI 인재 양성 프로그램 ＇KB AI Lab＇ 출범",
+    "link": "https://www.etnews.com/20260715000292",
+    "category": "민간"
   },
   {
     "title": "李대통령, 업무보고 첫날 AI 적극행정 주문…“관행에 의존 말라”",
@@ -70,14 +115,19 @@
     "category": "기관"
   },
   {
+    "title": "[하반기 부처 업무보고]＇대체불가 대한민국＇ 시동…AI·재정개혁 양날개로 성장엔진 재가동",
+    "link": "https://www.etnews.com/20260715000256",
+    "category": "기관"
+  },
+  {
+    "title": "위즈코어, AI-RAN 기반 제조 자율 운영 실증 나선다",
+    "link": "https://www.etnews.com/20260715000038",
+    "category": "민간"
+  },
+  {
     "title": "같은 AI도 언어를 바꾸면 성격이 달라진다, 앤트로픽이 30만 대화로 확인했다",
     "link": "https://www.etnews.com/20260715000217",
     "category": "해외"
-  },
-  {
-    "title": "통신 3사 ＇모두의 AI＇ 도전장…B2C AI 주도권 선점 경쟁",
-    "link": "https://www.etnews.com/20260715000211",
-    "category": "민간"
   },
   {
     "title": "모든 국민이 무료 사용…연내 AI 챗봇 서비스 나온다",
@@ -95,14 +145,39 @@
     "category": "민간"
   },
   {
+    "title": "유락, 인도 수사·법과학 기관서 ＇현장형 AI 포렌식＇ 실증",
+    "link": "https://www.etnews.com/20260715000149",
+    "category": "민간"
+  },
+  {
+    "title": "다올티에스, 창립 6주년…AI 플랫폼 넘어 ＇AI Ecosystem Orchestrator＇로 진화",
+    "link": "https://www.etnews.com/20260715000145",
+    "category": "민간"
+  },
+  {
+    "title": "KT, 이통사 유일 UAM 사업 지속…AI·항공망 기술로 상용화 앞당긴다",
+    "link": "https://www.etnews.com/20260715000133",
+    "category": "민간"
+  },
+  {
     "title": "GIST-MIT, 글로벌 피지컬 AI 공동연구 협력 체제 구축",
     "link": "https://www.etnews.com/20260715000108",
+    "category": "기관"
+  },
+  {
+    "title": "충북TP, AI·로봇 제조혁신 실증 본격화…3개 과제 협약 완료",
+    "link": "https://www.etnews.com/20260715000106",
     "category": "기관"
   },
   {
     "title": "AI 기반 첨단 소재·제조 기술 발굴…＇KIMS-GIST 공동연구센터＇ 개소",
     "link": "https://www.etnews.com/20260715000105",
     "category": "기관"
+  },
+  {
+    "title": "BGF리테일, 인텔리시아 손잡고 ＇AI 합성소비자＇ 기술 도입",
+    "link": "https://www.etnews.com/20260715000102",
+    "category": "민간"
   },
   {
     "title": "디사일로-에임인텔리전스, AI 보안 시스템 개발 협력",
@@ -142,11 +217,6 @@
   {
     "title": "＇업스테이지·포털 다음·퓨리오사AI＇ 뭉쳤다…국산 NPU·모델·서비스 ‘풀스택 소버린 AI’ 국내 첫 상용화",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=40992",
-    "category": "민간"
-  },
-  {
-    "title": "KT, ‘AX Tech Connect 2026’ 개최... AI·데이터·네트워크 미래 기술 선보여",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=40990",
     "category": "민간"
   },
   {
