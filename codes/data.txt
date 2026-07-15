@@ -1,161 +1,113 @@
-📢26.07.15 AI 일일 동향📢
+📢26.07.16 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 국방 AI 선도로 미래 전장 주도한다
-https://kookbang.dema.mil.kr/newsWeb/20260715/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758
+◾ 방산 드론 전문 니어스랩, 창사 첫 분기 흑자...상반기 매출 174억 달성
+https://www.aitimes.com/news/articleView.html?idxno=212809
 
-◾ ‘국방첨단인증’ 신설 공청회 개최
-https://kookbang.dema.mil.kr/newsWeb/20260715/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758
-
-◾ 선순환 ‘드론 생태계’ 구축 혁신 박차
-https://kookbang.dema.mil.kr/newsWeb/20260715/5/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758
-
-◾ 충남도, 방사청·논산시와 AI 국방로봇 산업 육성 ＇시동＇
-https://www.etnews.com/20260714000081
-
-◾ 음향 AI 업계 난제 ‘기억 쌓는 AI’로 새 해법 제시...한화비전-GIST 공동 연구팀, 국제 경진대회 ‘세계 1위’ 올라
-https://www.aitimes.kr/news/articleView.html?idxno=40964
-
-◾ 국방 AI 선도로 미래 전장 주도한다
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExNzUyOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 선순환 ‘드론 생태계’ 구축 혁신 박차
-https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzUzOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 한화비전-GIST, 음향 AI 경진대회 세계 1위…“차세대 보안 AI 솔루션 적용”
-https://www.aitimes.com/news/articleView.html?idxno=212750
+◾ 대한항공, ＇드론·UAM 박람회＇ 참가…AI 무인기 기술 공개
+https://www.etnews.com/20260715000422
 
 [육군]
-◾ 육군, 미래 동원사단 전력 보강 방안 논의
-https://kookbang.dema.mil.kr/newsWeb/20260715/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758
+◾ 성균관대학교, 육군 제51보병사단과 국방 AI 대전환 이끌 인재 양성 나선다
+https://www.etnews.com/20260715000171
 
 [민간]
-◾ 공장에 ＇피지컬 AI＇ 실현할 지능망 깐다…SKT·KT, 하이퍼 AI 네트워크 실증 착수
-https://www.etnews.com/20260714000209
+◾ 업스테이지·퓨리오사AI 〃국산 기술로 ＇풀스택 AI＇ 첫 상용화〃
+https://www.aitimes.com/news/articleView.html?idxno=212810
 
-◾ 크래프톤, AI ＇실전 적용＇ 확대... e스포츠·안티치트·AI 팀원까지
-https://www.etnews.com/20260714000392
+◾ 네이버, ＇AI탭＇ 사용자 1000만 돌파...〃에이전틱 검색 고도화〃
+https://www.aitimes.com/news/articleView.html?idxno=212801
 
-◾ ＇2026 K-NPU 테크 웨이브＇ 개최… AI 추론 시대, 국산 NPU가 시장 패러다임 바꾼다
-https://www.etnews.com/20260714000458
+◾ SKT, CEO 직속 ＇AI DC 통합추진단＇ 신설
+https://www.etnews.com/20260715000442
 
-◾ 딥엑스, 피지컬 AI 실행 플랫폼 구축 속도
-https://www.etnews.com/20260714000277
+◾ 앤트로픽·오픈AI 손잡은 트렌드마이크로, 韓 보안 시장 공략
+https://www.etnews.com/20260715000303
 
-◾ AI 인프라, ＇단일 칩＇에서 ＇워크로드 분담＇으로… 추론 비용이 만든 변곡점
-https://www.etnews.com/20260714000207
+◾ “다음 AI 요약, 퓨리오사AI NPU로 돌린다”…＇풀스택 소버린 AI＇ 첫 상용화
+https://www.etnews.com/20260715000270
 
-◾ 자생한방병원 ＇AI컨택센터＇ 구축…24시간 AI 상담체계 가동
-https://www.etnews.com/20260714000179
+◾ 통신 3사 ＇모두의 AI＇ 도전장…B2C AI 주도권 선점 경쟁
+https://www.etnews.com/20260715000211
 
-◾ 업비트서 AI로 매매 전략 검증해 수익률 비교… 두나무, ＇업비트 스트래티지 툴킷＇ 베타 출시
-https://www.etnews.com/20260714000149
+◾ SKT, SK바이오팜과 AI 신약 연구…개발 초기 기간 5개월로 단축
+https://www.etnews.com/20260715000162
 
-◾ LF몰, 대화로 검색하고 추천받는 AI에이전트 ＇LF스타일톡＇ 출시
-https://www.etnews.com/20260714000136
+◾ 디사일로-에임인텔리전스, AI 보안 시스템 개발 협력
+https://www.etnews.com/20260715000101
 
-◾ AI 칩 개발 붐에…EDA 산업 매출 13%↑
-https://www.etnews.com/20260714000131
+◾ 캔바, ＇Canva Code 2.0＇ 출시… 〃코딩 없이 AI로 웹사이트·앱 제작〃
+https://www.aitimes.kr/news/articleView.html?idxno=41000
 
-◾ 구글, ‘AI 포 비즈니스’ 개최...AI 활용한 비즈니스 혁신 사례 및 풀 스택 AI 전략 제시
-https://www.aitimes.kr/news/articleView.html?idxno=40975
+◾ 정보 탐색 넘어 실행까지 자연스럽게 연결… 네이버 ＇AI탭＇이 만드는 새로운 검색 경험
+https://www.aitimes.kr/news/articleView.html?idxno=40993
 
-◾ 〃실패 원인만 골라 강화학습〃…4분의 1 데이터로 상용 모델 넘은 ＇트레이스＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=212746
+◾ ＇업스테이지·포털 다음·퓨리오사AI＇ 뭉쳤다…국산 NPU·모델·서비스 ‘풀스택 소버린 AI’ 국내 첫 상용화
+https://www.aitimes.kr/news/articleView.html?idxno=40992
 
-◾ 실행 결과 학습해 진화하는 ＇동적 피드백＇ 라우터 등장...〃AI 비용 2.6배 절감〃
-https://www.aitimes.com/news/articleView.html?idxno=212744
+◾ KT, ‘AX Tech Connect 2026’ 개최... AI·데이터·네트워크 미래 기술 선보여
+https://www.aitimes.kr/news/articleView.html?idxno=40990
 
-◾ 구글, ＇엔비디아 우군＇ 네오클라우드 상대로 TPU 공세 본격화
-https://www.aitimes.com/news/articleView.html?idxno=212737
-
-◾ [게시판] SKT, 차세대 AI 네트워크 ＇AI-RAN＇ 구축사업 선정 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=212763
+◾ 한컴, 유럽형 소버린 에이전틱 OS 개발 ‘가속’...14조 글로벌 시장 정조준
+https://www.aitimes.kr/news/articleView.html?idxno=40988
 
 [기관]
-◾ ('26. 7. 14.) 국가AI전략위, ‘AI 데이터센터 산업생태계 육성 간담회’ 개최
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=791
+◾ KAIST, AI 미세조정으로 ‘안전성·성능’ 모두 챙기는 학습 프레임워크 개발
+https://www.aitimes.com/news/articleView.html?idxno=212806
 
-◾ 정부, AIDC 메가프로젝트 전방위 지원…범부처 지원 TF 가동
-https://www.etnews.com/20260714000454
+◾ ＇국가암·AI데이터센터＇ 만든다...복지부, 5년간 460억원 투입
+https://www.etnews.com/20260715000381
 
-◾ 공공조달 시 AI 제품 우선 고려…AI기본법 시행령 국무회의 통과
-https://www.etnews.com/20260714000439
+◾ 딥페이크 가해자 10명 중 6명이 ＇10대＇…정부, AI윤리교육 만든다
+https://www.etnews.com/20260715000247
 
-◾ AI 덕분에…상반기 ICT 수출 2538억 달러 ‘역대 최대’
-https://kookbang.dema.mil.kr/newsWeb/20260715/5/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758
+◾ NIA, ＇AI-RAN+피지컬AI 현장 실증＇…오픈랜 해외 수출 동시 추진
+https://www.etnews.com/20260715000319
 
-◾ 모레 이기종 AI 인프라SW, UN 산하 ITU 혁신 사례 선정
-https://www.etnews.com/20260714000480
+◾ 李대통령, 업무보고 첫날 AI 적극행정 주문…“관행에 의존 말라”
+https://www.etnews.com/20260715000276
 
-◾ 확산되는 오픈소스 AI, ＇AI 컴플라이언스＇ 도입 필요...율촌·OSBC, 국내 최초 ＇기업형 AI 거버넌스＇ 체계 구축
-https://www.aitimes.kr/news/articleView.html?idxno=40982
+◾ [하반기 부처 업무보고] 국가전략기술에 최대 10조 장기자본…민관 전문운용사 신설
+https://www.etnews.com/20260715000258
 
-◾ NIA, Hyper-AI 네트워크로 산업현장 피지컬 AI 시대 연다
-https://www.aitimes.kr/news/articleView.html?idxno=40974
+◾ 모든 국민이 무료 사용…연내 AI 챗봇 서비스 나온다
+https://www.etnews.com/20260715000048
 
-◾ 인공지능 데이터 센터 초대형 사업(메가프로젝트)을 뒷받침할 범부처 종합 지원 전담반(TF) 본격 가동
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187547&searchOpt=ALL&searchTxt=
+◾ GIST-MIT, 글로벌 피지컬 AI 공동연구 협력 체제 구축
+https://www.etnews.com/20260715000108
 
-◾ AI 기본법 개정안 21일 시행…“공공조달 시 AI 제품 우선 적용”
-https://www.aitimes.com/news/articleView.html?idxno=212764
+◾ AI 기반 첨단 소재·제조 기술 발굴…＇KIMS-GIST 공동연구센터＇ 개소
+https://www.etnews.com/20260715000105
 
-◾ ＇모두의 AI＇ 사업에 카카오·이통사·스타트업 잇달아 출사표
-https://www.aitimes.com/news/articleView.html?idxno=212751
+◾ GIST, MIT CSAIL에 ‘피지컬 AI 전진기지’ 구축… 인간중심 AI 공동연구 본격화
+https://www.aitimes.kr/news/articleView.html?idxno=40989
+
+◾ AI·6G시대 데이터 기반 전파관리 방법론 제시...ETRI, AI 기반 주파수 예측기술 국제표준 이끌어
+https://www.aitimes.kr/news/articleView.html?idxno=40987
 
 [해외]
-◾ 우크라이나, 로봇 지상군 시대 열었다
-https://kookbang.dema.mil.kr/newsWeb/20260715/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=kURhnrbKd1Q6TEiXUMbcHXPgGwMpw_963MU8gna8BDkdIno5zjU-!570272758
+◾ 허사비스 “AGI 달성 눈앞…미국 주도 AI 자율 규제 연내 신설해야”
+https://www.aitimes.com/news/articleView.html?idxno=212782
 
-◾ 구글, 풀스택 AI 내세워 오픈AI·앤트로픽 추격…기업용 AI 시장 공략 박차
-https://www.etnews.com/20260714000385
+◾ 같은 AI도 언어를 바꾸면 성격이 달라진다, 앤트로픽이 30만 대화로 확인했다
+https://www.etnews.com/20260715000217
 
-◾ 엔비디아 AI칩 中 우회 공급 차단…구매기업 ＇화이트리스트＇ 도입
-https://www.etnews.com/20260714000498
+◾ 오라클, ‘퓨전 에이전틱 애플리케이션’ 개발 플랫폼 공개…기업용 AI 에이전트 시대 본격화
+https://www.aitimes.kr/news/articleView.html?idxno=41006
 
-◾ 코트라, ＇美 제조업 현장 AI 도입 트렌드＇ 발간…“국내 제조 AI 기업 진출 기회”
-https://www.etnews.com/20260714000265
+◾ 앤트로픽, 미국 K-12 교사 대상 ‘클로드 포 티처스’ 공개…프리미엄 AI 무료 제공
+https://www.aitimes.kr/news/articleView.html?idxno=41005
 
-◾ 앤트로픽 “클로드, 모델과 언어에 따라 태도 다르다”…4대 축으로 계량화
-https://www.etnews.com/20260714000210
+◾ AI 패권은 이미 피지컬 AI로… 한국 CEO들, 바이두·샤오미·바이트댄스서 현장 확인
+https://www.aitimes.kr/news/articleView.html?idxno=40999
 
-◾ 중국 휴머노이드 로봇 IPO 속도…로봇 ＇두뇌＇에 자금 쏟는다
-https://www.etnews.com/20260714000124
-
-◾ AI 에이전트로 로봇 학습용 가상세계 자동 생성…MIT·도요타연구소, ＇씬스미스＇ 오픈소스로 공개
-https://www.aitimes.kr/news/articleView.html?idxno=40981
-
-◾ NATO 지휘체계 핵심으로 부상하는 ＇메이븐 스마트 AI 시스템＇…우크라이나 전장에서 실전 검증
-https://www.aitimes.kr/news/articleView.html?idxno=40980
-
-◾ 오픈AI ＇코덱스＇ 활성 사용자 700만 돌파...＇GPT-5.6＇ 출시 효과 톡톡
-https://www.aitimes.com/news/articleView.html?idxno=212728
-
-◾ 나델라의 경고 “AI 기업에 노하우 넘겨주는 ‘역정보의 역설’ 막아야”
-https://www.aitimes.com/news/articleView.html?idxno=212736
-
-◾ 〃한국어 쓰는 클로드, 더 다정하다〃…앤트로픽, 언어·모델별 가치 분석 공개
-https://www.aitimes.com/news/articleView.html?idxno=212765
-
-◾ ＇유럽의 안두릴＇ 헬싱, 27조 가치로 2.7조 대형 투자 유치
-https://www.aitimes.com/news/articleView.html?idxno=212757
-
-◾ EU, 13세 미만 SNS 금지법 추진...글로벌 규제 확대
-https://www.aitimes.com/news/articleView.html?idxno=212753
-
-◾ 애플 소송에 발목 잡힌 오픈AI…＇인재 확보·공급망＇ 비상
-https://www.aitimes.com/news/articleView.html?idxno=212735
+◾ 데미스 허사비스, ＇AGI 카운트 다운＇.. 〃인류 역사상 가장 중요한 전환점, 글로벌 AI 안전 프레임워크 시급〃
+https://www.aitimes.kr/news/articleView.html?idxno=40998
 
 📚 간행물
-◾ [26-17] 미국 하원, 초당적 AI 보안 관련 법안 상임위 통과 ('26.6.25)
-https://www.kisa.or.kr/20201/form?postSeq=286&page=1
-
-◾ 과학기술의 헌법적 가치 제고와 미래세대를 위한 국가상·기본권의 정립: 과학기술 개헌 패러다임 제언
-https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=70&cateCont=A0513&cbIdx=0&searchKey=
-
-◾ OECD MSTI 2026-March의 주요 내용 및 기업 연구개발비 분석 결과 [KISTEP 브리프]
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260714-000001&cpage=1&rows=10&searchTarget=all
+◾ 뉴로모픽 AI 반도체 기술 동향 및 향후 전망 [주간기술동향 2216호]
+https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1401&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
