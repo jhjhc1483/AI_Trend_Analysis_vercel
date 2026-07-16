@@ -16693,109 +16693,17 @@
   },
   "26.07.16": {
     "categorized": {
-      "민간": [
-        {
-          "title": "업스테이지·퓨리오사AI 〃국산 기술로 ＇풀스택 AI＇ 첫 상용화〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212810",
-          "category": "민간"
-        },
-        {
-          "title": "한컴, 폴란드 기업과 유럽 현지 ＇에이전틱 OS＇ 개발 속도 낸다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212783",
-          "category": "민간"
-        },
-        {
-          "title": "베스핀글로벌, AI 보안운영센터 ＇헬프나우 AI SOC＇ 출시",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212807",
-          "category": "민간"
-        },
-        {
-          "title": "네이버, ＇AI탭＇ 사용자 1000만 돌파...〃에이전틱 검색 고도화〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212801",
-          "category": "민간"
-        },
-        {
-          "title": "SKT, CEO 직속 ＇AI DC 통합추진단＇ 신설",
-          "link": "https://www.etnews.com/20260715000442",
-          "category": "민간"
-        },
-        {
-          "title": "앤트로픽·오픈AI 손잡은 트렌드마이크로, 韓 보안 시장 공략",
-          "link": "https://www.etnews.com/20260715000303",
-          "category": "민간"
-        },
-        {
-          "title": "아이에이, 퓨리오사AI NPU 기반 ＇소형 AI 데이터센터＇ 짓는다",
-          "link": "https://www.etnews.com/20260715000370",
-          "category": "민간"
-        },
-        {
-          "title": "KB금융, 실전형 AI 인재 양성 프로그램 ＇KB AI Lab＇ 출범",
-          "link": "https://www.etnews.com/20260715000292",
-          "category": "민간"
-        },
-        {
-          "title": "“다음 AI 요약, 퓨리오사AI NPU로 돌린다”…＇풀스택 소버린 AI＇ 첫 상용화",
-          "link": "https://www.etnews.com/20260715000270",
-          "category": "민간"
-        },
-        {
-          "title": "위즈코어, AI-RAN 기반 제조 자율 운영 실증 나선다",
-          "link": "https://www.etnews.com/20260715000038",
-          "category": "민간"
-        },
-        {
-          "title": "SKT, SK바이오팜과 AI 신약 연구…개발 초기 기간 5개월로 단축",
-          "link": "https://www.etnews.com/20260715000162",
-          "category": "민간"
-        },
-        {
-          "title": "유락, 인도 수사·법과학 기관서 ＇현장형 AI 포렌식＇ 실증",
-          "link": "https://www.etnews.com/20260715000149",
-          "category": "민간"
-        },
-        {
-          "title": "다올티에스, 창립 6주년…AI 플랫폼 넘어 ＇AI Ecosystem Orchestrator＇로 진화",
-          "link": "https://www.etnews.com/20260715000145",
-          "category": "민간"
-        },
-        {
-          "title": "KT, 이통사 유일 UAM 사업 지속…AI·항공망 기술로 상용화 앞당긴다",
-          "link": "https://www.etnews.com/20260715000133",
-          "category": "민간"
-        },
-        {
-          "title": "BGF리테일, 인텔리시아 손잡고 ＇AI 합성소비자＇ 기술 도입",
-          "link": "https://www.etnews.com/20260715000102",
-          "category": "민간"
-        },
-        {
-          "title": "디사일로-에임인텔리전스, AI 보안 시스템 개발 협력",
-          "link": "https://www.etnews.com/20260715000101",
-          "category": "민간"
-        },
-        {
-          "title": "캔바, ＇Canva Code 2.0＇ 출시… 〃코딩 없이 AI로 웹사이트·앱 제작〃",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41000",
-          "category": "민간"
-        },
-        {
-          "title": "정보 탐색 넘어 실행까지 자연스럽게 연결… 네이버 ＇AI탭＇이 만드는 새로운 검색 경험",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40993",
-          "category": "민간"
-        },
-        {
-          "title": "＇업스테이지·포털 다음·퓨리오사AI＇ 뭉쳤다…국산 NPU·모델·서비스 ‘풀스택 소버린 AI’ 국내 첫 상용화",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40992",
-          "category": "민간"
-        },
-        {
-          "title": "한컴, 유럽형 소버린 에이전틱 OS 개발 ‘가속’...14조 글로벌 시장 정조준",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40988",
-          "category": "민간"
-        }
-      ],
       "해외": [
+        {
+          "title": "오픈AI ‘GPT-5.6 솔’, 사용자 파일 무단 삭제...＇선 넘은 자율성＇ 논란",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212778",
+          "category": "해외"
+        },
+        {
+          "title": "딥시크, 연내 IPO 신청 준비…105조 가치로 추가 투자도 논의",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212788",
+          "category": "해외"
+        },
         {
           "title": "허사비스 “AGI 달성 눈앞…미국 주도 AI 자율 규제 연내 신설해야”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212782",
@@ -16807,13 +16715,13 @@
           "category": "해외"
         },
         {
-          "title": "손정의 〃2040년 AI 매출, 세계 GDP 20% 차지...미래 핵심 에너지는 핵융합〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212797",
+          "title": "美 사이버 보안 허브 ‘골드 이글’ 출범",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260716/4/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=kIFpFe5PvTuBpYaq6VuT7mdN7RzFH5JxMHipNxSGhvUTAS8cfJZG!570272758",
           "category": "해외"
         },
         {
-          "title": "같은 AI도 언어를 바꾸면 성격이 달라진다, 앤트로픽이 30만 대화로 확인했다",
-          "link": "https://www.etnews.com/20260715000217",
+          "title": "노키아, 엔비디아와 AI-RAN 상용화…무선 네트워크 전환 시동",
+          "link": "https://www.etnews.com/20260715000492",
           "category": "해외"
         },
         {
@@ -16849,8 +16757,8 @@
           "category": "기관"
         },
         {
-          "title": "공공 정보시스템 등급심의위 발족…구현모 전 KT 대표 위원장",
-          "link": "https://www.etnews.com/20260715000273",
+          "title": "태재대, AI로 미래를 설계하는 리더를 키워내…다음 시대를 준비하는 AI 미래융합대학원 출범",
+          "link": "https://www.etnews.com/20260715000493",
           "category": "기관"
         },
         {
@@ -16869,13 +16777,13 @@
           "category": "기관"
         },
         {
-          "title": "NIA, ＇AI-RAN+피지컬AI 현장 실증＇…오픈랜 해외 수출 동시 추진",
-          "link": "https://www.etnews.com/20260715000319",
+          "title": "경북연구원, 15일 경북컬로퀴엄 개최…경북형 AI 성능 평가체계 구축과 AI 평가 인증 센터 설립 방안 논의",
+          "link": "https://www.etnews.com/20260715000406",
           "category": "기관"
         },
         {
-          "title": "李대통령, 업무보고 첫날 AI 적극행정 주문…“관행에 의존 말라”",
-          "link": "https://www.etnews.com/20260715000276",
+          "title": "NIA, ＇AI-RAN+피지컬AI 현장 실증＇…오픈랜 해외 수출 동시 추진",
+          "link": "https://www.etnews.com/20260715000319",
           "category": "기관"
         },
         {
@@ -16894,21 +16802,6 @@
           "category": "기관"
         },
         {
-          "title": "GIST-MIT, 글로벌 피지컬 AI 공동연구 협력 체제 구축",
-          "link": "https://www.etnews.com/20260715000108",
-          "category": "기관"
-        },
-        {
-          "title": "충북TP, AI·로봇 제조혁신 실증 본격화…3개 과제 협약 완료",
-          "link": "https://www.etnews.com/20260715000106",
-          "category": "기관"
-        },
-        {
-          "title": "AI 기반 첨단 소재·제조 기술 발굴…＇KIMS-GIST 공동연구센터＇ 개소",
-          "link": "https://www.etnews.com/20260715000105",
-          "category": "기관"
-        },
-        {
           "title": "GIST, MIT CSAIL에 ‘피지컬 AI 전진기지’ 구축… 인간중심 AI 공동연구 본격화",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=40989",
           "category": "기관"
@@ -16919,10 +16812,77 @@
           "category": "기관"
         }
       ],
+      "민간": [
+        {
+          "title": "한컴, 폴란드 기업과 유럽 현지 ＇에이전틱 OS＇ 개발 속도 낸다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212783",
+          "category": "민간"
+        },
+        {
+          "title": "베스핀글로벌, AI 보안운영센터 ＇헬프나우 AI SOC＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212807",
+          "category": "민간"
+        },
+        {
+          "title": "네이버, ＇AI탭＇ 사용자 1000만 돌파...〃에이전틱 검색 고도화〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212801",
+          "category": "민간"
+        },
+        {
+          "title": "SKT, CEO 직속 ＇AI DC 통합추진단＇ 신설",
+          "link": "https://www.etnews.com/20260715000442",
+          "category": "민간"
+        },
+        {
+          "title": "에치에프알 모바일, 현대제철 당진공장에 AI-RAN 공급",
+          "link": "https://www.etnews.com/20260715000327",
+          "category": "민간"
+        },
+        {
+          "title": "“다음 AI 요약, 퓨리오사AI NPU로 돌린다”…＇풀스택 소버린 AI＇ 첫 상용화",
+          "link": "https://www.etnews.com/20260715000270",
+          "category": "민간"
+        },
+        {
+          "title": "구글, ‘2026 책임감있는AI X 앱생태계 공동 포럼’ 개최...“기술 혁신이 열어갈 AI와 앱 생태계의 미래 논의”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40995",
+          "category": "민간"
+        },
+        {
+          "title": "정보 탐색 넘어 실행까지 자연스럽게 연결… 네이버 ＇AI탭＇이 만드는 새로운 검색 경험",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40993",
+          "category": "민간"
+        },
+        {
+          "title": "＇업스테이지·포털 다음·퓨리오사AI＇ 뭉쳤다…국산 NPU·모델·서비스 ‘풀스택 소버린 AI’ 국내 첫 상용화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40992",
+          "category": "민간"
+        },
+        {
+          "title": "〃AI 성능의 병목 뚫었다!〃...서강대 김영재 교수팀, 수직적 질의 분할 실행 가능한 계산 가능 오브젝트 스토리지 시스템 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40991",
+          "category": "민간"
+        },
+        {
+          "title": "KT, ‘AX Tech Connect 2026’ 개최... AI·데이터·네트워크 미래 기술 선보여",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40990",
+          "category": "민간"
+        },
+        {
+          "title": "한컴, 유럽형 소버린 에이전틱 OS 개발 ‘가속’...14조 글로벌 시장 정조준",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=40988",
+          "category": "민간"
+        }
+      ],
       "국방": [
         {
           "title": "방산 드론 전문 니어스랩, 창사 첫 분기 흑자...상반기 매출 174억 달성",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212809",
+          "category": "국방"
+        },
+        {
+          "title": "국가중요시설 드론 위협 대응 방안 모색",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260716/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kIFpFe5PvTuBpYaq6VuT7mdN7RzFH5JxMHipNxSGhvUTAS8cfJZG!570272758",
           "category": "국방"
         },
         {
@@ -16933,19 +16893,35 @@
       ],
       "육군": [
         {
+          "title": "육군1군지사, 드론 정비 교육협력 업무협약",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260716/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kIFpFe5PvTuBpYaq6VuT7mdN7RzFH5JxMHipNxSGhvUTAS8cfJZG!570272758",
+          "category": "육군"
+        },
+        {
           "title": "성균관대학교, 육군 제51보병사단과 국방 AI 대전환 이끌 인재 양성 나선다",
           "link": "https://www.etnews.com/20260715000171",
           "category": "육군"
         }
       ],
+      "기타": [
+        {
+          "title": "진화하는 인공지능 시대, 변치 않는 ‘인간지능’의 가치",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260716/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=kIFpFe5PvTuBpYaq6VuT7mdN7RzFH5JxMHipNxSGhvUTAS8cfJZG!570272758",
+          "category": "기타"
+        }
+      ],
       "간행물": [
+        {
+          "title": "「AI 완전자율운항선박 기술개발」 사업계획 적정성 검토 보고서",
+          "link": "https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=86&cateCont=A0206&cbIdx=0&searchKey=",
+          "category": "간행물"
+        },
         {
           "title": "뉴로모픽 AI 반도체 기술 동향 및 향후 전망 [주간기술동향 2216호]",
           "link": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1401&cpage=1&rows=10&searchTarget=all",
           "category": "간행물"
         }
       ]
-    },
-    "briefing": "- 성균관대학교와 육군 제51보병사단이 국방 AI 대전환을 이끌 전문 인재 양성을 위한 협력 체계 구축에 나섰습니다.\n- 국내 기업들이 국산 NPU와 AI 모델을 결합한 ‘풀스택 소버린 AI’ 기술을 상용화하며 국산 AI 생태계 강화 움직임을 보이고 있습니다.\n- NIA가 AI와 무선접속망 기술을 결합한 'AI-RAN' 및 '피지컬 AI' 현장 실증을 추진하며 기술 수출을 도모하고 있습니다."
+    }
   }
 }
