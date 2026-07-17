@@ -17083,16 +17083,6 @@
           "category": "해외"
         },
         {
-          "title": "〃모델 그대로 하네스만 바꿨더니...ARC-AGI-3서 인간 효율 99% 근접〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212889",
-          "category": "해외"
-        },
-        {
-          "title": "오픈AI, GPT-5.6 ＇파일 삭제＇ 원인 규명...〃샌드박스·오토 리뷰 필수〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212888",
-          "category": "해외"
-        },
-        {
           "title": "EU, 구글에 안드로이드 개방 명령…“타사 AI 허용하고 검색 데이터 공유할 것”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212890",
           "category": "해외"
@@ -17110,6 +17100,11 @@
       ],
       "민간": [
         {
+          "title": "〃모델 그대로 하네스만 바꿨더니...ARC-AGI-3서 인간 효율 99% 근접〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212889",
+          "category": "민간"
+        },
+        {
           "title": "구글 비즈에 ＇제미나이 옴니·개인 아바타＇ 탑재...종합 AI 영상 플랫폼으로 진화",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212891",
           "category": "민간"
@@ -17117,6 +17112,11 @@
         {
           "title": "엔비디아, 4B 규모 월드 모델 ‘코스모스 3 엣지’ 공개...＇온디바이스 피지컬 AI＇ 실현",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212880",
+          "category": "민간"
+        },
+        {
+          "title": "오픈AI, GPT-5.6 ＇파일 삭제＇ 원인 규명...〃샌드박스·오토 리뷰 필수〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212888",
           "category": "민간"
         },
         {
@@ -17130,7 +17130,6 @@
           "category": "민간"
         }
       ]
-    },
-    "briefing": "- 일본이 국가 AI 인프라 구축을 위해 엔비디아의 차세대 GPU '루빈' 도입을 추진합니다.\n- 엔비디아가 온디바이스 피지컬 AI 구현을 위한 40억 파라미터 규모의 월드 모델 '코스모스 3 엣지'를 공개했습니다.\n- 시진핑 주석이 오픈소스 AI 전략을 강조하며 미국과의 기술 패권 경쟁에서 정면 대응하겠다는 의지를 밝혔습니다."
+    }
   }
 }
