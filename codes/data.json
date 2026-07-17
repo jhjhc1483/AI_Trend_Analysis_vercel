@@ -17073,5 +17073,63 @@
       ]
     },
     "briefing": "- 우크라이나 전장에서 AI 드론의 위력으로 러시아 신병의 생존 시간이 20~30분에 불과하다는 CIA의 분석이 제기되었습니다.\n- 해군과 최종현학술원은 AI 시대의 변화된 안보 환경에 맞춰 해양 안보 체계의 혁신이 필요하다고 강조했습니다.\n- 한화시스템은 서울대·성균관대와 협력하여 K-국방의 핵심인 국산 반도체 기술 자립화를 추진하기 시작했습니다."
+  },
+  "26.07.18": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "시진핑 〃AI는 모두의 것〃...오픈소스 앞세워 미국 ＇AI 패권＇ 정면 견제",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212893",
+          "category": "해외"
+        },
+        {
+          "title": "〃모델 그대로 하네스만 바꿨더니...ARC-AGI-3서 인간 효율 99% 근접〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212889",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, GPT-5.6 ＇파일 삭제＇ 원인 규명...〃샌드박스·오토 리뷰 필수〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212888",
+          "category": "해외"
+        },
+        {
+          "title": "EU, 구글에 안드로이드 개방 명령…“타사 AI 허용하고 검색 데이터 공유할 것”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212890",
+          "category": "해외"
+        },
+        {
+          "title": "일본, 엔비디아 ＇루빈＇으로 국가 AI 인프라 구축…＇피지컬 AI＇ 승부",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212885",
+          "category": "해외"
+        },
+        {
+          "title": "문샷, 2.8조 매개변수 ＇키미 K3＇ 공개...세계 3위 성능으로 도약",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212881",
+          "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "구글 비즈에 ＇제미나이 옴니·개인 아바타＇ 탑재...종합 AI 영상 플랫폼으로 진화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212891",
+          "category": "민간"
+        },
+        {
+          "title": "엔비디아, 4B 규모 월드 모델 ‘코스모스 3 엣지’ 공개...＇온디바이스 피지컬 AI＇ 실현",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212880",
+          "category": "민간"
+        },
+        {
+          "title": "＇노트북LM＇→＇제미나이 노트북＇ 리브랜딩…코드 실행·데이터 분석 탑재",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212882",
+          "category": "민간"
+        },
+        {
+          "title": "구글, ＇제미나이 3.5 프로＇ 출시 지연…〃성능 목표 미달·코딩 한계〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212879",
+          "category": "민간"
+        }
+      ]
+    }
   }
 }
