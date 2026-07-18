@@ -2,6 +2,9 @@
 
 📰 오늘의 기사
 [민간]
+◾ 애플, 오픈AI ＇하드웨어 이직자＇ 40명에 경고 서한 발송..〃증거 보존하라〃
+https://www.aitimes.com/news/articleView.html?idxno=212898
+
 ◾ 데이터브릭스, 280조 가치로 ＇시리즈 M＇ 투자 유치…〃상장 안 서두른다〃
 https://www.aitimes.com/news/articleView.html?idxno=212897
 
@@ -10,9 +13,6 @@ https://www.aitimes.com/news/articleView.html?idxno=212896
 
 ◾ [무엇이든 리뷰] 바코드 없는 ＇빵＇, AI로 찍고 결제한다…＇AI 스캐너＇가 바꾼 풍경
 https://www.etnews.com/20260716000322
-
-◾ 송길영 작가 “AI 안 쓰면 사라진다…경량화 생존법 고민해야”
-https://www.etnews.com/20260718000008
 
 ◾ BMW, 자동차 판매 방식 바꾼다…챗GPT로 차량 구성·상담 서비스 제공
 https://www.aitimes.kr/news/articleView.html?idxno=41032
@@ -29,9 +29,6 @@ https://www.aitimes.com/news/articleView.html?idxno=212901
 
 ◾ 지푸, ＇GLM-5.2＇ 흥행으로 중국 AI 최초 연매출 10억달러 눈앞
 https://www.aitimes.com/news/articleView.html?idxno=212899
-
-◾ 애플, 오픈AI ＇하드웨어 이직자＇ 40명에 경고 서한 발송..〃증거 보존하라〃
-https://www.aitimes.com/news/articleView.html?idxno=212898
 
 ◾ 中 정부, AI 국제협력 행동계획 전격 발표…오픈소스·컴퓨팅·거버넌스로 글로벌 AI 질서 주도 나선다
 https://www.aitimes.kr/news/articleView.html?idxno=41031
