@@ -1,40 +1,72 @@
-📢26.07.19 AI 일일 동향📢
+📢26.07.20 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 군 AI 적용 가속화 기초역량 확인
+https://kookbang.dema.mil.kr/newsWeb/20260720/2/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=l217Tr8o__2thJIkNLGaPYqi8qkkaTkCBB2MpurQj-iHz7fN2NOT!-1528214346
+
+◾ 군 AI 적용 가속화 기초역량 확인
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzExNzcxNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
 [민간]
-◾ 애플, 오픈AI ＇하드웨어 이직자＇ 40명에 경고 서한 발송..〃증거 보존하라〃
-https://www.aitimes.com/news/articleView.html?idxno=212898
+◾ 씽킹AI, 한국 진출 후 보폭 확대…고객사 60곳 확보·기능 고도화 가속
+https://www.aitimes.com/news/articleView.html?idxno=212915
 
-◾ 데이터브릭스, 280조 가치로 ＇시리즈 M＇ 투자 유치…〃상장 안 서두른다〃
-https://www.aitimes.com/news/articleView.html?idxno=212897
+◾ 115년 상징의 추락...IBM 25% 폭락이 경고하는 ＇AI 블랙홀＇
+https://www.aitimes.com/news/articleView.html?idxno=212907
 
-◾ 메타, 앤트로픽과 15조 AI 인프라 임대 논의…클라우드 진출 눈앞
-https://www.aitimes.com/news/articleView.html?idxno=212896
+◾ 디노티시아, VDPU 성능평가…벡터 DB와 융합해 ＇AI 데이터 인프라 기업＇ 도전
+https://www.etnews.com/20260719000060
 
-◾ [무엇이든 리뷰] 바코드 없는 ＇빵＇, AI로 찍고 결제한다…＇AI 스캐너＇가 바꾼 풍경
-https://www.etnews.com/20260716000322
+◾ SKT, ＇AI 공장＇ 공급난 메운다…글로벌 인프라 지형도 재편
+https://www.etnews.com/20260719000037
 
-◾ BMW, 자동차 판매 방식 바꾼다…챗GPT로 차량 구성·상담 서비스 제공
-https://www.aitimes.kr/news/articleView.html?idxno=41032
+◾ 피씨엔, 궤도 예측 모델 ＇OrbitFM＇ 오픈소스 공개
+https://www.etnews.com/20260719000041
+
+◾ 분당서울대병원, 전주기 환자 여정 잇는 ＇풀스택 의료 AI＇ 실증 착수
+https://www.etnews.com/20260719000035
+
+◾ 와이즈스톤, 마틸로에이아이의 ＇멀티모달 생물자원 빅데이터＇에 DQ인증 최고 등급 수여
+https://www.etnews.com/20260716000080
+
+◾ NH농협금융, Amundi와 AI 자산운용·선진 연금 모델 도입 논의
+https://www.etnews.com/20260719000013
+
+◾ 분당서울대병원, ‘풀스택 의료 AI’ 시대 연다...국가 주도 의료 AI 대전환 시범사업 ＇AX-ready＇ 본격 착수
+https://www.aitimes.kr/news/articleView.html?idxno=41034
+
+[기관]
+◾ 제주대, 글로벌 AI 인재 플랫폼 입지 다져…재생에너지·초거대AI 결합한 캡스톤 ＇메가톤 2026＇ 성료
+https://www.etnews.com/20260719000106
+
+◾ 새마을금고, 자체 AI 플랫폼 구축한다
+https://www.etnews.com/20260719000034
+
+◾ [단독] 정부, GPU 확보전 내년 ＇베라 루빈＇ 1만장 올인
+https://www.etnews.com/20260716000065
+
+◾ 전북도, 연구·교육·실증·인증 한 데 묶은 ＇피지컬AI 허브＇ 조성 박차
+https://www.etnews.com/20260715000002
+
+◾ 대전시, ＇AI 육성계획＇ 수립 착수…민선 9기 핵심 공약 시동
+https://www.etnews.com/20260715000234
+
+◾ 충남, 반도체·디스플레이 등 중소 제조 AX 지원 시동…공정 데이터 자산화·표준화 지원
+https://www.etnews.com/20260716000293
 
 [해외]
-◾ 스페이스X, 미 국방부와 수십억달러 ＇AI 클라우드 공급＇ 논의
-https://www.aitimes.com/news/articleView.html?idxno=212905
-
-◾ 영국 AISI 경고 “중국 오픈 모델, 미국과 사이버 보안 격차 4개월로 단축”
+◾ 영국 AISI 경고 “중국 오픈 모델, 미국과 보안 격차 4개월로 단축”
 https://www.aitimes.com/news/articleView.html?idxno=212900
 
-◾ 딥시크, 기업가치 77조 달해...공식 문서로 몸값 처음 확인
-https://www.aitimes.com/news/articleView.html?idxno=212901
+◾ 日, ‘해상감시 무인선’ 연구 개발 착수
+https://kookbang.dema.mil.kr/newsWeb/20260720/2/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=l217Tr8o__2thJIkNLGaPYqi8qkkaTkCBB2MpurQj-iHz7fN2NOT!-1528214346
 
-◾ 지푸, ＇GLM-5.2＇ 흥행으로 중국 AI 최초 연매출 10억달러 눈앞
-https://www.aitimes.com/news/articleView.html?idxno=212899
+◾ 앤트로픽, 메타와 15조원 규모 연산 자원 임대 계약 논의
+https://www.etnews.com/20260719000039
 
-◾ 中 정부, AI 국제협력 행동계획 전격 발표…오픈소스·컴퓨팅·거버넌스로 글로벌 AI 질서 주도 나선다
-https://www.aitimes.kr/news/articleView.html?idxno=41031
-
-◾ 딥시크를 넘어 ＇키미 K3＇ 까지…중국 AI의 대반격, 글로벌 AI 경쟁 가속
-https://www.aitimes.kr/news/articleView.html?idxno=41030
+◾ 中 문샷, WAIC 맞춰 2.8조 파라미터 ＇키미 K3＇ 공개…美 AI 정조준
+https://www.etnews.com/20260719000036
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
