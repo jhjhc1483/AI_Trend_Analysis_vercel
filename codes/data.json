@@ -17206,6 +17206,16 @@
           "category": "해외"
         },
         {
+          "title": "중국, 미국의 ＇AI 기술 무단 추출＇ 주장 전면 부인...〃기술 경쟁 정치화〃 비판",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212909",
+          "category": "해외"
+        },
+        {
+          "title": "미국 전역서 AI 데이터센터 반대 시위…42개 주서 초당적 동시 집회",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212911",
+          "category": "해외"
+        },
+        {
           "title": "日, ‘해상감시 무인선’ 연구 개발 착수",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260720/2/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=l217Tr8o__2thJIkNLGaPYqi8qkkaTkCBB2MpurQj-iHz7fN2NOT!-1528214346",
           "category": "해외"
@@ -17225,6 +17235,16 @@
         {
           "title": "씽킹AI, 한국 진출 후 보폭 확대…고객사 60곳 확보·기능 고도화 가속",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212915",
+          "category": "민간"
+        },
+        {
+          "title": "〃엔비디아 내부서도 GPU 확보 전쟁...젠슨 황이 직접 중재〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212914",
+          "category": "민간"
+        },
+        {
+          "title": "앤트로픽, ＇페이블 5＇ 정식 요금제 편입...프로모션 종료하고 ＇50% 제한＇",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212908",
           "category": "민간"
         },
         {
@@ -17258,8 +17278,8 @@
           "category": "민간"
         },
         {
-          "title": "NH농협금융, Amundi와 AI 자산운용·선진 연금 모델 도입 논의",
-          "link": "https://www.etnews.com/20260719000013",
+          "title": "SKT-하나금융, ＇테크포굿 해커톤＇ 개최…＇T1＇팀 대상 수상",
+          "link": "https://www.etnews.com/20260719000007",
           "category": "민간"
         },
         {
@@ -17287,11 +17307,6 @@
           "category": "기관"
         },
         {
-          "title": "새마을금고, 자체 AI 플랫폼 구축한다",
-          "link": "https://www.etnews.com/20260719000034",
-          "category": "기관"
-        },
-        {
           "title": "[단독] 정부, GPU 확보전 내년 ＇베라 루빈＇ 1만장 올인",
           "link": "https://www.etnews.com/20260716000065",
           "category": "기관"
@@ -17312,7 +17327,6 @@
           "category": "기관"
         }
       ]
-    },
-    "briefing": "- 군의 AI 적용 가속화를 위해 필요한 기초 역량 확인이 이루어졌습니다.\n- 일본이 해상 감시를 위한 무인선 연구 개발에 착수했습니다.\n- 정부가 내년 AI 경쟁력 강화를 위해 GPU ‘베라 루빈’ 1만 장 확보를 추진합니다."
+    }
   }
 }
