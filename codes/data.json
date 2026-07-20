@@ -17339,6 +17339,11 @@
           "category": "민간"
         },
         {
+          "title": "오픈AI, ＇GPT-5.6 솔＇ 사용자 후기 공개…〃생성 넘어 워크플로우 중심으로〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=212937",
+          "category": "민간"
+        },
+        {
           "title": "넘즈에이아이, ‘정형 데이터 파운데이션 모델’로 40억 시드 투자 유치",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212957",
           "category": "민간"
@@ -17364,6 +17369,16 @@
           "category": "민간"
         },
         {
+          "title": "AIWORKX, WAIC 2026 한국AI관 참가…＇DeviceProbe＇ 앞세워 해외 진출 본격화",
+          "link": "https://www.etnews.com/20260720000353",
+          "category": "민간"
+        },
+        {
+          "title": "챗GPT로 가전도 조작…LG 씽큐, AI홈 창구 넓힌다",
+          "link": "https://www.etnews.com/20260720000255",
+          "category": "민간"
+        },
+        {
           "title": "이해진·최수연, 캐나다 ＇브룩필드＇ 찾아 투자 논의…네이버 AI에 조 단위 투자 점쳐져",
           "link": "https://www.etnews.com/20260720000329",
           "category": "민간"
@@ -17374,18 +17389,18 @@
           "category": "민간"
         },
         {
+          "title": "셀바스AI, 클로봇과 인천공항 안내로봇에 AI 음성 탑재",
+          "link": "https://www.etnews.com/20260720000304",
+          "category": "민간"
+        },
+        {
+          "title": "코난테크놀로지, 한국가스안전공사 AI 업무지원 시스템 운영 개시",
+          "link": "https://www.etnews.com/20260720000270",
+          "category": "민간"
+        },
+        {
           "title": "아이에이, KTNF와 ＇네오큐브 전용 국산 AI 서버＇ 공동 개발",
           "link": "https://www.etnews.com/20260720000263",
-          "category": "민간"
-        },
-        {
-          "title": "네이버클라우드, HD한국조선해양와 조선 맞춤형 클라우드 구축",
-          "link": "https://www.etnews.com/20260720000025",
-          "category": "민간"
-        },
-        {
-          "title": "삼성SDS, 퓨리오사AI ＇레니게이드＇ 기반 NPUaaS 선봬",
-          "link": "https://www.etnews.com/20260720000019",
           "category": "민간"
         },
         {
@@ -17415,16 +17430,6 @@
         }
       ],
       "해외": [
-        {
-          "title": "오픈AI, ＇GPT-5.6 솔＇ 사용자 후기 공개…〃생성 넘어 워크플로우 중심으로〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212937",
-          "category": "해외"
-        },
-        {
-          "title": "크리스토퍼 놀란의 경고 “AI는 속 보이는 트로이 목마…반감은 고무적”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=212948",
-          "category": "해외"
-        },
         {
           "title": "트럼프 정부 ＇AI 규제 완화＇ 기조 흔들…인적 쇄신·부처 갈등에 ＇개입주의＇로 선회",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=212938",
@@ -17490,23 +17495,33 @@
           "category": "기관"
         },
         {
+          "title": "KODIA, ＇2026 데이터거래사＇ 교육 시작…“AI 시대 비즈니스 핵심”",
+          "link": "https://www.etnews.com/20260720000365",
+          "category": "기관"
+        },
+        {
           "title": "과기정통부, ＇K-문샷 AI 신약 미션＇ 추진 위한 현장 소통 나서",
           "link": "https://www.etnews.com/20260720000084",
           "category": "기관"
         },
         {
-          "title": "반월시화 2만 중소기업 제조 AI 전환…280억 투입해 설비·공정데이터 공유",
-          "link": "https://www.etnews.com/20260720000244",
+          "title": "배경훈 부총리 “베라루빈 1만장 추가 확보 총력”…AI 토큰 수출 국가 전환 의지",
+          "link": "https://www.etnews.com/20260720000238",
           "category": "기관"
         },
         {
-          "title": "정부, AI ODA로 개도국 공략…＇K-AI 패키지＇ 수출모델 만든다",
-          "link": "https://www.etnews.com/20260720000143",
+          "title": "배경훈 부총리, 유네스코 사무총장 면담…AI 윤리 확산 논의",
+          "link": "https://www.etnews.com/20260720000059",
           "category": "기관"
         },
         {
-          "title": "충남 ＇도민공감 AI 현황판＇ 구축…뉴미디어 기반 여론 실시간 확인 ＇심(心)기 예보＇ 도입",
-          "link": "https://www.etnews.com/20260720000087",
+          "title": "오세훈 시장, 글로벌 빅테크와 키운 AI 인재 만나 “성장 사다리 만들 것”",
+          "link": "https://www.etnews.com/20260720000280",
+          "category": "기관"
+        },
+        {
+          "title": "KTL, 제조기업 ＇M.AX 전문기업＇ 선정 지원…“산업 AI 국제인증 획득 돕는다”",
+          "link": "https://www.etnews.com/20260720000289",
           "category": "기관"
         },
         {
@@ -17519,16 +17534,6 @@
         {
           "title": "＇국방 특화 LLM＇ 사업 승자는…LIG·삼성SDS 컨소 vs 한화·네이버클라우드 컨소 격돌",
           "link": "https://www.etnews.com/20260720000364",
-          "category": "국방"
-        },
-        {
-          "title": "코난테크놀로지, 한국가스안전공사 AI 업무지원 시스템 운영 개시",
-          "link": "https://www.etnews.com/20260720000270",
-          "category": "국방"
-        },
-        {
-          "title": "크라우드웍스, 동국대·MBC와 피지컬 AI 인재 양성 협력",
-          "link": "https://www.etnews.com/20260720000081",
           "category": "국방"
         },
         {
@@ -17564,7 +17569,6 @@
           "category": "간행물"
         }
       ]
-    },
-    "briefing": "- LIG·삼성SDS 컨소시엄과 한화·네이버클라우드 컨소시엄이 '국방 특화 LLM' 사업 수주를 위해 경쟁하고 있습니다.\n- 육군 전장 환경 변화에 대응하기 위한 드론의 전장화와 소부대 전투 방식에 관한 논의가 진행되었습니다.\n- 네오와이즈 등 방산 특화 피지컬 AI 플랫폼 개발 기업들이 중기부 TIPS 선정 등 기술 개발에 본격적으로 나서고 있습니다."
+    }
   }
 }
