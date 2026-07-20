@@ -414,5 +414,37 @@
         "년": "2026",
         "월": "06",
         "일": "16"
+    },
+    {
+        "제목": "AI 전환(AX) 시대, 중소기업의 데이터·AI 인프라 활용 전략",
+        "분류": "S&T Policy Report",
+        "링크": "https://www.kisti.re.kr/post/policy-report/7049",
+        "년": "2026",
+        "월": "07",
+        "일": "20"
+    },
+    {
+        "제목": "Market Insight 393 : 위성",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750629",
+        "년": "2026",
+        "월": "07",
+        "일": "20"
+    },
+    {
+        "제목": "Market Insight 392 : 지상용 로봇",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750628",
+        "년": "2026",
+        "월": "07",
+        "일": "20"
+    },
+    {
+        "제목": "Market Insight 391 : 나노 로보틱스",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750627",
+        "년": "2026",
+        "월": "07",
+        "일": "20"
     }
 ]
