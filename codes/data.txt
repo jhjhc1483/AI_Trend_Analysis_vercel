@@ -1,148 +1,124 @@
-📢26.07.23 AI 일일 동향📢
+📢26.07.24 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 英 국방부, AI·로봇 기반 미래 공중전 역량 강화...차세대 전투기 기술 개발에 1.4조원 추가 투자
-https://www.aitimes.kr/news/articleView.html?idxno=41091
+◾ 해군1함대, AI 전문가 초청 간담회 개최
+https://kookbang.dema.mil.kr/newsWeb/20260724/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=kOOQCzXat0U2H3--5BO8SB5_KpW7uPso1veedfPyDaAsyXT4YmVq!570272758
 
-◾ 혁신적 자율비행 능력자 ‘V-BAT’
-https://kookbang.dema.mil.kr/newsWeb/20260723/1/ATCE_CTGR_0020010029/view.do;JSESSIONID_kookbnagWEB=0m6K1IqfqpoFNHmMb1rW0NpL1Qy25Q25PA5btT6GiSWD7feMUuhg!-1528214346
-
-◾ LVCG<실기동·가상·워게임·게임> 과학기술위원의 목소리를 현장에서 듣다
-https://kookbang.dema.mil.kr/newsWeb/20260723/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=0m6K1IqfqpoFNHmMb1rW0NpL1Qy25Q25PA5btT6GiSWD7feMUuhg!-1528214346
+◾ 「국방반도체 국산화 및 산업생태계 조성전략(안)」 발표
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58892&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
 [민간]
-◾ 웨카,  AI 스토리지 플랫폼 ＇WEKApod 3＇ 공개...단일 랙에서 1.1엑사바이트 구현, AI 스토리지·메모리 집적도 새 기준 제시
-https://www.aitimes.kr/news/articleView.html?idxno=41094
+◾ 텔레픽스, 미국 위성에 AI 광학 카메라 탑재…”위성영상 데이터 자산 확보”
+https://www.aitimes.com/news/articleView.html?idxno=213117
 
-◾ 구글, AI 에이전트 시대 가속 ‘제미나이 3.6 플래시’ 공개…초고속 ‘3.5 플래시-라이트’·사이버 보안 전용 ‘3.5 플래시 사이버’ 동시 출격
-https://www.aitimes.kr/news/articleView.html?idxno=41088
+◾ 네이버, 일본 대형 복합빌딩에 ‘1784 스마트빌딩 기술 솔루션’ 첫 수출
+https://www.aitimes.com/news/articleView.html?idxno=213105
 
-◾ 오케스트로-넷앱, AI 추론 및 재해복구 통합 아키텍처 개발... 대규모 데이터 파이프라인·고성능 스토리지 통합 검증
-https://www.aitimes.kr/news/articleView.html?idxno=41081
+◾ 커서, AI 비용 60% 절감하는 ＇커서 라우터＇ 공개… 〃작업별 최적 모델 자동 배정〃
+https://www.aitimes.com/news/articleView.html?idxno=213097
 
-◾ 오픈AI, 한국 첫 챗GPT 브랜드 캠페인... ‘그 모든 것에, ChatGPT’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=41079
+◾ 오픈AI, FDE 전담 구축 방식의 ＇프레즌스＇ 발표...〃기업 맞춤형 AI 운영 체계〃
+https://www.aitimes.com/news/articleView.html?idxno=213093
 
-◾ 에이투디투 ‘아이렉스’, 구글 클라우드 AI 풀스택 위 ‘AI-native 리걸 플랫폼’ 구현
-https://www.aitimes.kr/news/articleView.html?idxno=41076
+◾ 스스로 통제 벗어난 AI, 경쟁·강화학습 탓
+https://kookbang.dema.mil.kr/newsWeb/20260724/4/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=kOOQCzXat0U2H3--5BO8SB5_KpW7uPso1veedfPyDaAsyXT4YmVq!570272758
 
-◾ FT 〃삼성전자, 프랑스 미스트랄에 최대 1조6000억원 투자 논의〃
-https://www.aitimes.com/news/articleView.html?idxno=213055
+◾ 한국수력원자력, 사내 생성형 AI 플랫폼 활용 스마트 문서 혁신 시동
+https://www.aitimes.kr/news/articleView.html?idxno=41122
 
-◾ 동국대 이세준 교수 연구팀, 촉각 기억·학습하는 AI 반도체 센서 개발
-https://www.etnews.com/20260722000395
-
-◾ 카카오톡, 외부 연동 확장…＇에이전트 AI 플랫폼＇ 전환 속도
-https://www.etnews.com/20260722000277
-
-◾ 아이엘봇, 천안 스마트팩토리서 피지컬AI 실증 본격화
-https://www.etnews.com/20260722000280
-
-◾ 라이너, 서울대 재료공학부 BMNL과 AI의 연구 생산성 기여 검증
-https://www.etnews.com/20260722000114
-
-◾ AI 코딩밸리, B2B 기업교육 서비스 출시…“출퇴근길에 에이전틱 AI 배워요”
-https://www.etnews.com/20260722000091
-
-◾ ＇베라 루빈＇ 공급 개시…이재용·최태원·정의선·이해진, 美서 젠슨 황 만난다
-https://www.etnews.com/20260722000084
-
-◾ 유라클, ＇터미널 네이티브＇ AI 코드 어시스턴트 CLI 버전 출시
-https://www.etnews.com/20260722000064
-
-◾ 이통 3사, AI 안경 ＇레이밴 메타＇ 출시…차세대 디바이스 선점 경쟁
-https://www.etnews.com/20260722000060
+◾ SKT,  AIDC 사업개발 전문회사 ＇SK하이퍼(Hyper)＇ 설립...정석근 초대 대표이사 선임
+https://www.aitimes.kr/news/articleView.html?idxno=41119
 
 [기관]
-◾ 「플랫폼 자율기구」, ’26년 과제로 “생성형 AI 시대, 플랫폼 자율규제 원칙” 수립 가동
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187578&searchOpt=ALL&searchTxt=
+◾ KAIST, ‘물리 현상 추론 에이전틱 AI’로 ICML 국제 챌린지 우승
+https://www.aitimes.com/news/articleView.html?idxno=213112
 
-◾ 과기정통부, 「인공지능 대리인(AI 에이전트) 시대의 생존 안내서(매뉴얼)」 책자 발간
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187577&searchOpt=ALL&searchTxt=
+◾ 아이벡스, NIPA 지원사업 선정…＇아이봇＇ 기반 부품 검사 자동화 추진
+https://www.aitimes.com/news/articleView.html?idxno=213121
 
-◾ 포티투마루, 예금보험공사 공공 AX 플랫폼 구축한다
-https://www.aitimes.com/news/articleView.html?idxno=213029
+◾ [과기정통부/KISA] ('26. 7.) AI 보안 레드티밍 가이드
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=819
 
-◾ 과기정통부, 보안 특화 AI 모델 개발 공모…GPU 256장 지원
-https://www.etnews.com/20260722000442
+◾ [과기정통부/KISA] ('26. 7.) AI 보안 위협 대응 매뉴얼 발간
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=818
 
-◾ “전쟁에 도입된 AI, 인간 통제는 가능한가?”…과기한림원, 23日 전문가 토론회 개최
-https://www.etnews.com/20260722000376
+◾ 「과기정통부-통신3사 CEO 간담회」 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187585&searchOpt=ALL&searchTxt=
 
-◾ 과기정통부, 내년 AI 신약 개발에 2500억 투입…개발기간 90% 단축
-https://www.etnews.com/20260722000221
+◾ 대도약의 골든타임, 초격차 성장동력 확보와 AI 생태계 발전기반 강화
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187583&searchOpt=ALL&searchTxt=
 
-◾ 과기정통부, AI·플랫폼기업과 ＇AI 시대에 맞는 자율규제＇ 시동
-https://www.etnews.com/20260722000222
+◾ [보도참고] 실행 중심의 에이전틱 AI 생태계 선점 본격 추진
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187582&searchOpt=ALL&searchTxt=
 
-◾ 과기정통부, ＇AI 에이전트 시대의 생존 매뉴얼＇ 발간
-https://www.etnews.com/20260722000198
+◾ 정부, ｢사이버 보안 특화 인공지능 파운데이션 모델 개발｣ 사업 공모 착수
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187584&searchOpt=ALL&searchTxt=
 
-◾ 포항, ＇철강 공정 제조데이터＇로 AX 속도…학습데이터셋 구축·현장 실증 본격화
-https://www.etnews.com/20260722000102
+◾ NIA, ＇인간중심 AI기본사회 구현을 위한 국가 역할 및 법제도 과제＇ 공개 세미나 개최
+https://www.aitimes.kr/news/articleView.html?idxno=41120
 
-◾ 지식재산처, 자체 개발 ＇AI 에이전트＇로 행정혁신 본격화
-https://www.etnews.com/20260722000001
+◾ 이 대통령, 〃실리콘밸리 AI 정상외교 나선다〃…오픈AI·앤트로픽·엔비디아·브로드컴 CEO 연쇄 회동
+https://www.aitimes.kr/news/articleView.html?idxno=41117
 
-◾ 포티투마루, 예금보험공사 AX로 AI·데이터 혁신 지원
-https://www.etnews.com/20260722000042
+◾ “AI 시대 핵심 인프라 AIDC, 열관리 기술이 성패 가른다”... KIST, ＇AI 데이터센터 열관리 협의회＇ 발족
+https://www.aitimes.kr/news/articleView.html?idxno=41115
+
+◾ KIST, 저전력 AI 시대 여는 뉴로모픽 AI 학습기법 개발...스파이킹 신경망 성능 높이는 ＇A²SG＇, 세계 최고 수준 정확도 달성
+https://www.aitimes.kr/news/articleView.html?idxno=41111
+
+◾ 정부, ＇에이전틱 AI 이니셔티브＇ 마련...실행 중심의 에이전틱 AI 생태계 선점 본격 추진
+https://www.aitimes.kr/news/articleView.html?idxno=41110
+
+◾ 개인정보위, 국민이 신뢰할 수 있는 공공 인공지능 전환...프라이버시 보호로 적극 뒷받침
+https://www.aitimes.kr/news/articleView.html?idxno=41109
 
 [해외]
-◾ 日, 국가 AI 모델 승부수 띄웠다…소니·소프트뱅크·NEC·혼다 주도 ＇국산 멀티모달 AI＇ 개발 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=41096
+◾ 중국 샤오홍슈, IMO 만점 AI ＇dots-note-3.0＇ 공개…세계 최초 42점 획득
+https://www.aitimes.com/news/articleView.html?idxno=213095
 
-◾ 〃美, 첫 AI 스마트팩토리 개소〃…위스트론, 엔비디아 ＇GB300·베라 루빈＇ 현지 생산 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=41095
+◾ 〃중국산 AI 차단 말라〃…미국 스타트업 200곳, 트럼프 행정부에 호소
+https://www.aitimes.com/news/articleView.html?idxno=213101
 
-◾ AI가 조종하는 F-16 전투기 비행 성공...DARPA·美 공군, 무인 전투기와 인간-기계 협업 전투체계 기반 마련
-https://www.aitimes.kr/news/articleView.html?idxno=41090
+◾ 〃미국 AI는 과도한 가드레일로 무용지물〃…허깅페이스, ＇GLM-5.2＇로 해킹 사건 분석
+https://www.aitimes.com/news/articleView.html?idxno=213088
 
-◾ “유럽 주권형 AI 시대 연다”...마이크로소프트·미스트랄, 수십억 달러 규모 전략적 동맹 확대
-https://www.aitimes.kr/news/articleView.html?idxno=41089
+◾ 젠슨 황 〃중국 오픈소스 AI 금지 말라…무료 AI가 칩 수요 더 늘릴 것〃
+https://www.aitimes.com/news/articleView.html?idxno=213104
 
-◾ 백악관 OSTP, 80년 만의 美 과학기술 혁신 청사진 제시… AI 시대 연구개발 체계 재설계 제안
-https://www.aitimes.kr/news/articleView.html?idxno=41085
+◾ 스페이스XAI, 텍사스에 초대형 데이터센터 신설 추진…컴퓨팅 임대 사업 본격화
+https://www.aitimes.com/news/articleView.html?idxno=213108
 
-◾ 머스크 〃차세대 모델은 매개변수 2조개...＇키미＇ 능가할 것〃
-https://www.aitimes.com/news/articleView.html?idxno=213047
+◾ 앤트로픽, 첫 특허 침해 소송 휘말려…테네시대 연구재단 〃신경망 기술 무단 사용〃
+https://www.aitimes.com/news/articleView.html?idxno=213120
 
-◾ 엔비디아, ＇GB300 NVL72＇로 MoE 모델 사전학습 성능 3배 향상
-https://www.aitimes.com/news/articleView.html?idxno=213050
+◾ 오픈AI, 29조 들여 ＇스타게이트＇ 재가동…첫 자체 데이터센터 짓는다
+https://www.aitimes.com/news/articleView.html?idxno=213076
 
-◾ 풀사이드, 오픈소스 코딩 AI ＇라구나 S 2.1＇ 출시…〃10배 큰 대형 모델 성능 넘어〃
-https://www.aitimes.com/news/articleView.html?idxno=213053
+◾ 류제명 제2차관, 아시아태평양경제협력체(APEC) 디지털·인공지능(AI) 장관회의에서 ‘포용적 인공지능 전환’ (미래상) 비전 제시
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187581&searchOpt=ALL&searchTxt=
 
-◾ 앤트로픽, 로봇 스타트업 ＇피지컬 인텔리전스＇ 인수 시도…협상은 중단
-https://www.aitimes.com/news/articleView.html?idxno=213046
+◾ EU ＇디지털시장법＇ 첫 대규모 제재, 구글에 1.5조원 과징금 부과...〃검색 자사 우대와 구글플레이 반경쟁 행위는 DMA 위반〃
+https://www.aitimes.kr/news/articleView.html?idxno=41125
 
-◾ 메타, AI 라우터 ＇스위치보드＇ 개발 착수...〃AI 비용 절감 총력〃
-https://www.aitimes.com/news/articleView.html?idxno=213049
+◾ 구글, 2분기 매출 24% 성장…순다 피차이, 〃AI가 검색·클라우드·유튜브 모두 바꿨다〃
+https://www.aitimes.kr/news/articleView.html?idxno=41124
 
-◾ 허깅페이스를 해킹한 것은 오픈AI 모델...〃격리망 뚫고 첫 자율 공격 성공〃
-https://www.aitimes.com/news/articleView.html?idxno=213033
+◾ NASA, 美 ‘제네시스 미션’ 합류…150PB 우주 데이터에 AI 접목해 과학혁신 가속
+https://www.aitimes.kr/news/articleView.html?idxno=41114
 
-◾ 미 재무부, 중국 AI ＇무단 증류＇ 혐의 조사...〃미국 모델 워터마크 다수 발견〃
-https://www.aitimes.com/news/articleView.html?idxno=213034
-
-◾ [테크 차이나] 中 AI, ＇모델 경쟁＇ 넘어 ＇시스템 경쟁＇ 선언…WAIC 2026이 보여준 새 전략
-https://www.etnews.com/20260722000139
-
-◾ 오픈AI 최신 모델, 통제 뚫고 스스로 해킹…“전례 없는 사이버 공격”
-https://www.etnews.com/20260722000345
-
-◾ 엔비디아, ＇베라 루빈＇ 시스템 공급 개시…AI 데이터센터 성능 극대화
-https://www.etnews.com/20260722000262
-
-◾ [뉴스줌인] 목표 달성 위해 해킹 감행한 AI…샌드박스마저 뚫었다
-https://www.etnews.com/20260722000225
-
-◾ 구글, ＇제미나이3.6 플래시＇ 등 경량 AI 모델 3종 출시
-https://www.etnews.com/20260722000011
+◾ 앤트로픽, 2900억원 규모 글로벌 ＇AI 경제 미래 펀드＇ 출범…AI 일자리 충격 대응 연구 본격 지원
+https://www.aitimes.kr/news/articleView.html?idxno=41107
 
 📚 간행물
-◾ 2026년 상반기 및 6월 정보통신산업(ICT) 수출입 동향
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260722-000001&cpage=1&rows=10&searchTarget=all
+◾ 국가 AI 연구인프라의 코로케이션 기반 운영기준 수립 방안: 운영관리비 중심으로
+https://www.kisti.re.kr/post/policy-report/7054
+
+◾ WAIC2026, 미국 골드이글, EU반도체보조금 [AI·ICT Brief 2026-26호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260723-000001&cpage=1&rows=10&searchTarget=all
+
+◾ 국내 데이터센터 장비·SW 기술경쟁력 분석 보고서 발간
+https://www.iitp.kr/web/lay1/bbs/S1T14C63/A/22/view.do?article_seq=4537&sort=latest&cpage=1&rows=10
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
