@@ -18226,5 +18226,119 @@
       ]
     },
     "briefing": "- 정부가 국방 분야의 핵심 부품인 국방반도체의 국산화 및 산업생태계 조성을 위한 전략(안)을 발표했습니다.\n- 과기정통부와 KISA가 AI 환경의 안전한 보안 체계 구축을 위해 ‘AI 보안 레드티밍 가이드’와 ‘AI 보안 위협 대응 매뉴얼’을 발간했습니다.\n- KIST가 차세대 저전력 AI 구현을 위해 스파이킹 신경망의 성능을 세계 최고 수준으로 높이는 뉴로모픽 AI 학습 기법을 개발했습니다."
+  },
+  "26.07.25": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41147",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아 GPU, 최초로 달 표면 달린다...달 탐사 로버에 ＇젯슨＇ 탑재",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213136",
+          "category": "해외"
+        },
+        {
+          "title": "美 하원, AI 해킹에 ＇킬스위치법＇ 발의…백악관도 주시",
+          "link": "https://www.etnews.com/20260724000011",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "한화오션, 美 함정 공동 개발 등 한·미 조선 협력 선도...함정 개발, 인력 양성, 조선 공급망 협력 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41146",
+          "category": "국방"
+        },
+        {
+          "title": "KIST-국방기술품질원, 국방 신기술 협력으로 미래 국방 기술 경쟁력 강화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41144",
+          "category": "국방"
+        },
+        {
+          "title": "HJ중공업, 한미 조선 공동 기술협력 사업 참여…마스가 속도",
+          "link": "https://www.etnews.com/20260724000224",
+          "category": "국방"
+        },
+        {
+          "title": "HD한국조선해양·지멘스, AI 조선소 구축 ＇맞손＇",
+          "link": "https://www.etnews.com/20260724000173",
+          "category": "국방"
+        },
+        {
+          "title": "삼성重, 美 사업 확대…무인수상정·LNG선 공동 개발",
+          "link": "https://www.etnews.com/20260724000170",
+          "category": "국방"
+        },
+        {
+          "title": "트럼프 ＇조선업 SOS＇ 1년 8개월 만에 美 워싱턴에 ＇한미 조선협력센터＇ 개소",
+          "link": "https://www.etnews.com/20260724000001",
+          "category": "국방"
+        }
+      ],
+      "기관": [
+        {
+          "title": "정부, ＇글로벌 AI 기본사회＇ 추진 본격화… 2027년 ODA 6.3조원 투입·AI 개발협력 전략 첫 수립",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41142",
+          "category": "기관"
+        },
+        {
+          "title": "〃AI·로봇, 안전 솔루션까지〃…조달청, 80개 혁신제품 국민 체감형 혁신기술 지정",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41140",
+          "category": "기관"
+        },
+        {
+          "title": "‘방산 4대 강국 도약‘을 위한 방위사업관계법의 개선방안 논의",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58902&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "기관"
+        },
+        {
+          "title": "지식재산처, ＇차세대 IPNEX＇ 구축 시동…특허행정 AI로 바꾼다",
+          "link": "https://www.etnews.com/20260724000027",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "AMD·세레브라스, AI 추론 플랫폼 협력...〃프롬프트-토큰 생성 분리로 성능 5배 높인다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213143",
+          "category": "민간"
+        },
+        {
+          "title": "인텔, 15년 만에 최대 매출 성장률…에이전트 확산에 CPU 수요 급증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213140",
+          "category": "민간"
+        },
+        {
+          "title": "구글, ＇셀카 동영상＇ 로그인 기능 출시...비밀번호 없이 얼굴로 본인 인증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213138",
+          "category": "민간"
+        },
+        {
+          "title": "데이터브릭스, MS와 전략적 파트너십 확대…기업용 AI 혁신 위한 협력 강화",
+          "link": "https://www.etnews.com/20260724000286",
+          "category": "민간"
+        },
+        {
+          "title": "젠스파크, ＇AI 워크스페이스 6.0＇과 한국 진출…“3년간 1억달러 투자”",
+          "link": "https://www.etnews.com/20260724000283",
+          "category": "민간"
+        },
+        {
+          "title": "메가존클라우드, 아크릴과 손잡고 AI 인프라 사업 확대",
+          "link": "https://www.etnews.com/20260724000276",
+          "category": "민간"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "SW저작권-SW특허 연계분석 [지식재산 통계 이슈리포트 2026-2호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260724-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
