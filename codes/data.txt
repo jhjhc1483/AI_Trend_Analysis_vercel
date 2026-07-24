@@ -1,124 +1,70 @@
-📢26.07.24 AI 일일 동향📢
+📢26.07.25 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 해군1함대, AI 전문가 초청 간담회 개최
-https://kookbang.dema.mil.kr/newsWeb/20260724/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=kOOQCzXat0U2H3--5BO8SB5_KpW7uPso1veedfPyDaAsyXT4YmVq!570272758
+◾ 한화오션, 美 함정 공동 개발 등 한·미 조선 협력 선도...함정 개발, 인력 양성, 조선 공급망 협력 확대
+https://www.aitimes.kr/news/articleView.html?idxno=41146
 
-◾ 「국방반도체 국산화 및 산업생태계 조성전략(안)」 발표
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58892&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
+◾ KIST-국방기술품질원, 국방 신기술 협력으로 미래 국방 기술 경쟁력 강화
+https://www.aitimes.kr/news/articleView.html?idxno=41144
+
+◾ HJ중공업, 한미 조선 공동 기술협력 사업 참여…마스가 속도
+https://www.etnews.com/20260724000224
+
+◾ HD한국조선해양·지멘스, AI 조선소 구축 ＇맞손＇
+https://www.etnews.com/20260724000173
+
+◾ 삼성重, 美 사업 확대…무인수상정·LNG선 공동 개발
+https://www.etnews.com/20260724000170
+
+◾ 트럼프 ＇조선업 SOS＇ 1년 8개월 만에 美 워싱턴에 ＇한미 조선협력센터＇ 개소
+https://www.etnews.com/20260724000001
 
 [민간]
-◾ 텔레픽스, 미국 위성에 AI 광학 카메라 탑재…”위성영상 데이터 자산 확보”
-https://www.aitimes.com/news/articleView.html?idxno=213117
+◾ AMD·세레브라스, AI 추론 플랫폼 협력...〃프롬프트-토큰 생성 분리로 성능 5배 높인다〃
+https://www.aitimes.com/news/articleView.html?idxno=213143
 
-◾ 네이버, 일본 대형 복합빌딩에 ‘1784 스마트빌딩 기술 솔루션’ 첫 수출
-https://www.aitimes.com/news/articleView.html?idxno=213105
+◾ 인텔, 15년 만에 최대 매출 성장률…에이전트 확산에 CPU 수요 급증
+https://www.aitimes.com/news/articleView.html?idxno=213140
 
-◾ 커서, AI 비용 60% 절감하는 ＇커서 라우터＇ 공개… 〃작업별 최적 모델 자동 배정〃
-https://www.aitimes.com/news/articleView.html?idxno=213097
+◾ 구글, ＇셀카 동영상＇ 로그인 기능 출시...비밀번호 없이 얼굴로 본인 인증
+https://www.aitimes.com/news/articleView.html?idxno=213138
 
-◾ 오픈AI, FDE 전담 구축 방식의 ＇프레즌스＇ 발표...〃기업 맞춤형 AI 운영 체계〃
-https://www.aitimes.com/news/articleView.html?idxno=213093
+◾ 데이터브릭스, MS와 전략적 파트너십 확대…기업용 AI 혁신 위한 협력 강화
+https://www.etnews.com/20260724000286
 
-◾ 스스로 통제 벗어난 AI, 경쟁·강화학습 탓
-https://kookbang.dema.mil.kr/newsWeb/20260724/4/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=kOOQCzXat0U2H3--5BO8SB5_KpW7uPso1veedfPyDaAsyXT4YmVq!570272758
+◾ 젠스파크, ＇AI 워크스페이스 6.0＇과 한국 진출…“3년간 1억달러 투자”
+https://www.etnews.com/20260724000283
 
-◾ 한국수력원자력, 사내 생성형 AI 플랫폼 활용 스마트 문서 혁신 시동
-https://www.aitimes.kr/news/articleView.html?idxno=41122
-
-◾ SKT,  AIDC 사업개발 전문회사 ＇SK하이퍼(Hyper)＇ 설립...정석근 초대 대표이사 선임
-https://www.aitimes.kr/news/articleView.html?idxno=41119
+◾ 메가존클라우드, 아크릴과 손잡고 AI 인프라 사업 확대
+https://www.etnews.com/20260724000276
 
 [기관]
-◾ KAIST, ‘물리 현상 추론 에이전틱 AI’로 ICML 국제 챌린지 우승
-https://www.aitimes.com/news/articleView.html?idxno=213112
+◾ 정부, ＇글로벌 AI 기본사회＇ 추진 본격화… 2027년 ODA 6.3조원 투입·AI 개발협력 전략 첫 수립
+https://www.aitimes.kr/news/articleView.html?idxno=41142
 
-◾ 아이벡스, NIPA 지원사업 선정…＇아이봇＇ 기반 부품 검사 자동화 추진
-https://www.aitimes.com/news/articleView.html?idxno=213121
+◾ 〃AI·로봇, 안전 솔루션까지〃…조달청, 80개 혁신제품 국민 체감형 혁신기술 지정
+https://www.aitimes.kr/news/articleView.html?idxno=41140
 
-◾ [과기정통부/KISA] ('26. 7.) AI 보안 레드티밍 가이드
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=819
+◾ ‘방산 4대 강국 도약‘을 위한 방위사업관계법의 개선방안 논의
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58902&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
-◾ [과기정통부/KISA] ('26. 7.) AI 보안 위협 대응 매뉴얼 발간
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=818
-
-◾ 「과기정통부-통신3사 CEO 간담회」 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187585&searchOpt=ALL&searchTxt=
-
-◾ 대도약의 골든타임, 초격차 성장동력 확보와 AI 생태계 발전기반 강화
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187583&searchOpt=ALL&searchTxt=
-
-◾ [보도참고] 실행 중심의 에이전틱 AI 생태계 선점 본격 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187582&searchOpt=ALL&searchTxt=
-
-◾ 정부, ｢사이버 보안 특화 인공지능 파운데이션 모델 개발｣ 사업 공모 착수
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187584&searchOpt=ALL&searchTxt=
-
-◾ NIA, ＇인간중심 AI기본사회 구현을 위한 국가 역할 및 법제도 과제＇ 공개 세미나 개최
-https://www.aitimes.kr/news/articleView.html?idxno=41120
-
-◾ 이 대통령, 〃실리콘밸리 AI 정상외교 나선다〃…오픈AI·앤트로픽·엔비디아·브로드컴 CEO 연쇄 회동
-https://www.aitimes.kr/news/articleView.html?idxno=41117
-
-◾ “AI 시대 핵심 인프라 AIDC, 열관리 기술이 성패 가른다”... KIST, ＇AI 데이터센터 열관리 협의회＇ 발족
-https://www.aitimes.kr/news/articleView.html?idxno=41115
-
-◾ KIST, 저전력 AI 시대 여는 뉴로모픽 AI 학습기법 개발...스파이킹 신경망 성능 높이는 ＇A²SG＇, 세계 최고 수준 정확도 달성
-https://www.aitimes.kr/news/articleView.html?idxno=41111
-
-◾ 정부, ＇에이전틱 AI 이니셔티브＇ 마련...실행 중심의 에이전틱 AI 생태계 선점 본격 추진
-https://www.aitimes.kr/news/articleView.html?idxno=41110
-
-◾ 개인정보위, 국민이 신뢰할 수 있는 공공 인공지능 전환...프라이버시 보호로 적극 뒷받침
-https://www.aitimes.kr/news/articleView.html?idxno=41109
+◾ 지식재산처, ＇차세대 IPNEX＇ 구축 시동…특허행정 AI로 바꾼다
+https://www.etnews.com/20260724000027
 
 [해외]
-◾ 중국 샤오홍슈, IMO 만점 AI ＇dots-note-3.0＇ 공개…세계 최초 42점 획득
-https://www.aitimes.com/news/articleView.html?idxno=213095
+◾ 오라클, 美 국방부와 최대 10조원 규모 10년 계약… AI·클라우드 조달체계 맡는다
+https://www.aitimes.kr/news/articleView.html?idxno=41147
 
-◾ 〃중국산 AI 차단 말라〃…미국 스타트업 200곳, 트럼프 행정부에 호소
-https://www.aitimes.com/news/articleView.html?idxno=213101
+◾ 엔비디아 GPU, 최초로 달 표면 달린다...달 탐사 로버에 ＇젯슨＇ 탑재
+https://www.aitimes.com/news/articleView.html?idxno=213136
 
-◾ 〃미국 AI는 과도한 가드레일로 무용지물〃…허깅페이스, ＇GLM-5.2＇로 해킹 사건 분석
-https://www.aitimes.com/news/articleView.html?idxno=213088
-
-◾ 젠슨 황 〃중국 오픈소스 AI 금지 말라…무료 AI가 칩 수요 더 늘릴 것〃
-https://www.aitimes.com/news/articleView.html?idxno=213104
-
-◾ 스페이스XAI, 텍사스에 초대형 데이터센터 신설 추진…컴퓨팅 임대 사업 본격화
-https://www.aitimes.com/news/articleView.html?idxno=213108
-
-◾ 앤트로픽, 첫 특허 침해 소송 휘말려…테네시대 연구재단 〃신경망 기술 무단 사용〃
-https://www.aitimes.com/news/articleView.html?idxno=213120
-
-◾ 오픈AI, 29조 들여 ＇스타게이트＇ 재가동…첫 자체 데이터센터 짓는다
-https://www.aitimes.com/news/articleView.html?idxno=213076
-
-◾ 류제명 제2차관, 아시아태평양경제협력체(APEC) 디지털·인공지능(AI) 장관회의에서 ‘포용적 인공지능 전환’ (미래상) 비전 제시
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187581&searchOpt=ALL&searchTxt=
-
-◾ EU ＇디지털시장법＇ 첫 대규모 제재, 구글에 1.5조원 과징금 부과...〃검색 자사 우대와 구글플레이 반경쟁 행위는 DMA 위반〃
-https://www.aitimes.kr/news/articleView.html?idxno=41125
-
-◾ 구글, 2분기 매출 24% 성장…순다 피차이, 〃AI가 검색·클라우드·유튜브 모두 바꿨다〃
-https://www.aitimes.kr/news/articleView.html?idxno=41124
-
-◾ NASA, 美 ‘제네시스 미션’ 합류…150PB 우주 데이터에 AI 접목해 과학혁신 가속
-https://www.aitimes.kr/news/articleView.html?idxno=41114
-
-◾ 앤트로픽, 2900억원 규모 글로벌 ＇AI 경제 미래 펀드＇ 출범…AI 일자리 충격 대응 연구 본격 지원
-https://www.aitimes.kr/news/articleView.html?idxno=41107
+◾ 美 하원, AI 해킹에 ＇킬스위치법＇ 발의…백악관도 주시
+https://www.etnews.com/20260724000011
 
 📚 간행물
-◾ 국가 AI 연구인프라의 코로케이션 기반 운영기준 수립 방안: 운영관리비 중심으로
-https://www.kisti.re.kr/post/policy-report/7054
-
-◾ WAIC2026, 미국 골드이글, EU반도체보조금 [AI·ICT Brief 2026-26호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260723-000001&cpage=1&rows=10&searchTarget=all
-
-◾ 국내 데이터센터 장비·SW 기술경쟁력 분석 보고서 발간
-https://www.iitp.kr/web/lay1/bbs/S1T14C63/A/22/view.do?article_seq=4537&sort=latest&cpage=1&rows=10
+◾ SW저작권-SW특허 연계분석 [지식재산 통계 이슈리포트 2026-2호]
+https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260724-000001&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
