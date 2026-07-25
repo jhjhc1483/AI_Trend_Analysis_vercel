@@ -18356,6 +18356,11 @@
           "category": "민간"
         },
         {
+          "title": "인공지능 경쟁의 새 공식… ＇최고 성능＇ 보다 ＇최고 ROI＇ 가 승부 가른다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41157",
+          "category": "민간"
+        },
+        {
           "title": "삼성SDS, 앤트로픽과 파트너십 체결...〃국내 엔터프라이즈 시장 공략〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213172",
           "category": "민간"
@@ -18371,11 +18376,6 @@
           "category": "민간"
         },
         {
-          "title": "소프트뱅크, 스위스 로봇 스타트업 그라비스 인수 검토...피지컬 AI 확장 속도",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213159",
-          "category": "민간"
-        },
-        {
           "title": "정의선 “한국을 피지컬 AI 중심지로”…글로벌 빅테크와 협력",
           "link": "https://www.etnews.com/20260725000022",
           "category": "민간"
@@ -18388,6 +18388,11 @@
         {
           "title": "삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력",
           "link": "https://www.etnews.com/20260725000019",
+          "category": "민간"
+        },
+        {
+          "title": "연세대 김현재 교수팀, 사람보다 어두운 곳 잘 보는 근적외선 인공 시각 기술 구현",
+          "link": "https://www.etnews.com/20260724000079",
           "category": "민간"
         }
       ],
@@ -18413,8 +18418,23 @@
           "category": "해외"
         },
         {
+          "title": "트럼프, 구글 제재한 EU에 맞불…무역 조사·보복 관세 착수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213175",
+          "category": "해외"
+        },
+        {
           "title": "영·미 정부 〃키미 K3 사이버 공격력 기대 이하〃...＇증류＇ 한계 드러냈다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213160",
+          "category": "해외"
+        },
+        {
+          "title": "소프트뱅크, 스위스 로봇 스타트업 그라비스 인수 검토...피지컬 AI 확장 속도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213159",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아·MS·메타 〃오픈소스 막지 마라〃...미국 정부에 공동 서한",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213165",
           "category": "해외"
         }
       ],
@@ -18427,6 +18447,11 @@
         {
           "title": "젠슨 황, 한국 정부·기업과 회동…”25년 협력, AI 혁신으로 확장”",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213174",
+          "category": "기관"
+        },
+        {
+          "title": "‘샌프란시스코 AI 서밋’서 한국-빅테크 협약 6건 체결…”반도체부터 AX까지 협력”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213173",
           "category": "기관"
         },
         {
@@ -18454,15 +18479,7 @@
           "link": "https://www.etnews.com/20260725000021",
           "category": "기관"
         }
-      ],
-      "기타": [
-        {
-          "title": "연세대 김현재 교수팀, 사람보다 어두운 곳 잘 보는 근적외선 인공 시각 기술 구현",
-          "link": "https://www.etnews.com/20260724000079",
-          "category": "기타"
-        }
       ]
-    },
-    "briefing": "- 영국 국방부가 우크라이나 전장에서 검증된 AI 정찰드론 'AR5' 도입을 위해 4억 파운드를 투입하여 전장 감시체계를 고도화할 계획입니다.\n- 네이버가 엔비디아 등으로부터 대규모 투자를 유치하여 세종시에 200MW 규모의 소버린 AI 팩토리 구축을 추진합니다.\n- 정의선 현대차 회장이 한국을 피지컬 AI의 중심지로 육성하기 위해 글로벌 빅테크 기업들과 협력을 강화하겠다는 의지를 밝혔습니다."
+    }
   }
 }

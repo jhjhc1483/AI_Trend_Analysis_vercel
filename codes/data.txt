@@ -8,6 +8,9 @@ https://www.aitimes.kr/news/articleView.html?idxno=41164
 ◾ 엔비디아, 네이버에 1.4조원 투자… 세종에 200MW 소버린 AI 팩토리 구축
 https://www.aitimes.kr/news/articleView.html?idxno=41162
 
+◾ 인공지능 경쟁의 새 공식… ＇최고 성능＇ 보다 ＇최고 ROI＇ 가 승부 가른다
+https://www.aitimes.kr/news/articleView.html?idxno=41157
+
 ◾ 삼성SDS, 앤트로픽과 파트너십 체결...〃국내 엔터프라이즈 시장 공략〃
 https://www.aitimes.com/news/articleView.html?idxno=213172
 
@@ -16,9 +19,6 @@ https://www.aitimes.com/news/articleView.html?idxno=213166
 
 ◾ 앤드류 응, 대화 대신 결과물 만드는 오픈소스 AI ＇오픈워커＇ 공개
 https://www.aitimes.com/news/articleView.html?idxno=213135
-
-◾ 소프트뱅크, 스위스 로봇 스타트업 그라비스 인수 검토...피지컬 AI 확장 속도
-https://www.aitimes.com/news/articleView.html?idxno=213159
 
 ◾ 정의선 “한국을 피지컬 AI 중심지로”…글로벌 빅테크와 협력
 https://www.etnews.com/20260725000022
@@ -29,12 +29,18 @@ https://www.etnews.com/20260725000020
 ◾ 삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력
 https://www.etnews.com/20260725000019
 
+◾ 연세대 김현재 교수팀, 사람보다 어두운 곳 잘 보는 근적외선 인공 시각 기술 구현
+https://www.etnews.com/20260724000079
+
 [기관]
 ◾ 이 대통령, 〃대한민국 AI 대전환 함께하자〃..아모데이·올트먼·젠슨 황·혹 탄 연쇄 회동
 https://www.aitimes.kr/news/articleView.html?idxno=41161
 
 ◾ 젠슨 황, 한국 정부·기업과 회동…”25년 협력, AI 혁신으로 확장”
 https://www.aitimes.com/news/articleView.html?idxno=213174
+
+◾ ‘샌프란시스코 AI 서밋’서 한국-빅테크 협약 6건 체결…”반도체부터 AX까지 협력”
+https://www.aitimes.com/news/articleView.html?idxno=213173
 
 ◾ APEC, AI 공동성명 채택...＇안전한 오픈소스 AI＇ 지원에 미·중 등 21개국 공감대
 https://www.aitimes.com/news/articleView.html?idxno=213163
@@ -64,12 +70,17 @@ https://www.aitimes.kr/news/articleView.html?idxno=41155
 ◾ 〃국산 칩 안 쓰면 반역자〃…중국, AI 기업들에 ＇강력 경고＇
 https://www.aitimes.com/news/articleView.html?idxno=213176
 
+◾ 트럼프, 구글 제재한 EU에 맞불…무역 조사·보복 관세 착수
+https://www.aitimes.com/news/articleView.html?idxno=213175
+
 ◾ 영·미 정부 〃키미 K3 사이버 공격력 기대 이하〃...＇증류＇ 한계 드러냈다
 https://www.aitimes.com/news/articleView.html?idxno=213160
 
-[기타]
-◾ 연세대 김현재 교수팀, 사람보다 어두운 곳 잘 보는 근적외선 인공 시각 기술 구현
-https://www.etnews.com/20260724000079
+◾ 소프트뱅크, 스위스 로봇 스타트업 그라비스 인수 검토...피지컬 AI 확장 속도
+https://www.aitimes.com/news/articleView.html?idxno=213159
+
+◾ 엔비디아·MS·메타 〃오픈소스 막지 마라〃...미국 정부에 공동 서한
+https://www.aitimes.com/news/articleView.html?idxno=213165
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
