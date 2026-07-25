@@ -25,6 +25,11 @@
     "category": "해외"
   },
   {
+    "title": "인공지능 경쟁의 새 공식… ＇최고 성능＇ 보다 ＇최고 ROI＇ 가 승부 가른다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41157",
+    "category": "민간"
+  },
+  {
     "title": "앤트로픽, ＇클로드 오푸스 5＇ 전격 출시… 〃최고 수준 추론 성능, 절반 비용으로 구현〃",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41155",
     "category": "해외"
@@ -32,6 +37,11 @@
   {
     "title": "〃국산 칩 안 쓰면 반역자〃…중국, AI 기업들에 ＇강력 경고＇",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=213176",
+    "category": "해외"
+  },
+  {
+    "title": "트럼프, 구글 제재한 EU에 맞불…무역 조사·보복 관세 착수",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213175",
     "category": "해외"
   },
   {
@@ -43,6 +53,11 @@
     "title": "삼성SDS, 앤트로픽과 파트너십 체결...〃국내 엔터프라이즈 시장 공략〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=213172",
     "category": "민간"
+  },
+  {
+    "title": "‘샌프란시스코 AI 서밋’서 한국-빅테크 협약 6건 체결…”반도체부터 AX까지 협력”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213173",
+    "category": "기관"
   },
   {
     "title": "구글, AI 에이전트 ＇제미나이 스파크＇ 확대 출시...월 20달러 프로 요금제도 적용",
@@ -62,12 +77,17 @@
   {
     "title": "소프트뱅크, 스위스 로봇 스타트업 그라비스 인수 검토...피지컬 AI 확장 속도",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=213159",
-    "category": "민간"
+    "category": "해외"
   },
   {
     "title": "APEC, AI 공동성명 채택...＇안전한 오픈소스 AI＇ 지원에 미·중 등 21개국 공감대",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=213163",
     "category": "기관"
+  },
+  {
+    "title": "엔비디아·MS·메타 〃오픈소스 막지 마라〃...미국 정부에 공동 서한",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213165",
+    "category": "해외"
   },
   {
     "title": "AI가 진로상담 도우미로…인천시교육청, 교사 45명 실습 연수",
@@ -107,6 +127,6 @@
   {
     "title": "연세대 김현재 교수팀, 사람보다 어두운 곳 잘 보는 근적외선 인공 시각 기술 구현",
     "link": "https://www.etnews.com/20260724000079",
-    "category": "기타"
+    "category": "민간"
   }
 ]
