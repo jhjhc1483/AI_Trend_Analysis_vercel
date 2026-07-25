@@ -18341,5 +18341,127 @@
       ]
     },
     "briefing": "- 오라클이 미국 국방부와 AI 및 클라우드 조달 체계 구축을 위한 최대 10조 원 규모의 10년 계약을 체결했습니다.\n- KIST와 국방기술품질원이 미래 국방 기술 경쟁력 강화를 위해 국방 신기술 분야의 협력을 추진합니다.\n- HD한국조선해양과 지멘스가 AI 기술을 기반으로 한 차세대 스마트 조선소 구축을 위해 손을 잡았습니다."
+  },
+  "26.07.26": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "알리바바, 차세대 이미지 생성 AI ＇큐웬 이미지 3.0＇ 공개… 〃보기 좋은 이미지 넘어 실용적 생산성 도구로〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41164",
+          "category": "민간"
+        },
+        {
+          "title": "엔비디아, 네이버에 1.4조원 투자… 세종에 200MW 소버린 AI 팩토리 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41162",
+          "category": "민간"
+        },
+        {
+          "title": "삼성SDS, 앤트로픽과 파트너십 체결...〃국내 엔터프라이즈 시장 공략〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213172",
+          "category": "민간"
+        },
+        {
+          "title": "구글, AI 에이전트 ＇제미나이 스파크＇ 확대 출시...월 20달러 프로 요금제도 적용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213166",
+          "category": "민간"
+        },
+        {
+          "title": "앤드류 응, 대화 대신 결과물 만드는 오픈소스 AI ＇오픈워커＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213135",
+          "category": "민간"
+        },
+        {
+          "title": "소프트뱅크, 스위스 로봇 스타트업 그라비스 인수 검토...피지컬 AI 확장 속도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213159",
+          "category": "민간"
+        },
+        {
+          "title": "정의선 “한국을 피지컬 AI 중심지로”…글로벌 빅테크와 협력",
+          "link": "https://www.etnews.com/20260725000022",
+          "category": "민간"
+        },
+        {
+          "title": "네이버, 브룩필드·엔비디아로부터 14조 투자 유치…200㎿ AI 팩토리 구축",
+          "link": "https://www.etnews.com/20260725000020",
+          "category": "민간"
+        },
+        {
+          "title": "삼성전자, 브로드컴과 292조원 규모 반도체 파운드리·메모리 협력",
+          "link": "https://www.etnews.com/20260725000019",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "英 국방부, 우크라이나가 검증한 AI 정찰드론 ＇AR5＇ 도입… 4억 파운드 투입해 전장 감시체계 고도화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41163",
+          "category": "해외"
+        },
+        {
+          "title": "〃오픈웨이트 AI가 미국 AI 패권 지킨다〃...메타·오픈AI·MS·엔비디아·IBM 등 美 AI 업계 공동성명",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41158",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, ＇클로드 오푸스 5＇ 전격 출시… 〃최고 수준 추론 성능, 절반 비용으로 구현〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41155",
+          "category": "해외"
+        },
+        {
+          "title": "〃국산 칩 안 쓰면 반역자〃…중국, AI 기업들에 ＇강력 경고＇",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213176",
+          "category": "해외"
+        },
+        {
+          "title": "영·미 정부 〃키미 K3 사이버 공격력 기대 이하〃...＇증류＇ 한계 드러냈다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213160",
+          "category": "해외"
+        }
+      ],
+      "기관": [
+        {
+          "title": "이 대통령, 〃대한민국 AI 대전환 함께하자〃..아모데이·올트먼·젠슨 황·혹 탄 연쇄 회동",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41161",
+          "category": "기관"
+        },
+        {
+          "title": "젠슨 황, 한국 정부·기업과 회동…”25년 협력, AI 혁신으로 확장”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213174",
+          "category": "기관"
+        },
+        {
+          "title": "APEC, AI 공동성명 채택...＇안전한 오픈소스 AI＇ 지원에 미·중 등 21개국 공감대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213163",
+          "category": "기관"
+        },
+        {
+          "title": "AI가 진로상담 도우미로…인천시교육청, 교사 45명 실습 연수",
+          "link": "https://www.etnews.com/20260725000064",
+          "category": "기관"
+        },
+        {
+          "title": "울산 글로벌 산업AX 선도도시 추진…＇피지컬AI＇와 ＇AIDC＇ 양축",
+          "link": "https://www.etnews.com/20260725000031",
+          "category": "기관"
+        },
+        {
+          "title": "李대통령, SF AI 선언…“韓, 신뢰할 수 있는 AI 공급망 파트너로”",
+          "link": "https://www.etnews.com/20260725000023",
+          "category": "기관"
+        },
+        {
+          "title": "경북대-에스엘, 첨단 모빌리티와 AI기반 제조혁신 공동연구소 설립 추진",
+          "link": "https://www.etnews.com/20260725000021",
+          "category": "기관"
+        }
+      ],
+      "기타": [
+        {
+          "title": "연세대 김현재 교수팀, 사람보다 어두운 곳 잘 보는 근적외선 인공 시각 기술 구현",
+          "link": "https://www.etnews.com/20260724000079",
+          "category": "기타"
+        }
+      ]
+    }
   }
 }
