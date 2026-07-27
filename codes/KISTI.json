@@ -462,5 +462,29 @@
         "년": "2026",
         "월": "07",
         "일": "24"
+    },
+    {
+        "제목": "Market Insight 396 : 액침냉각",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750632",
+        "년": "2026",
+        "월": "07",
+        "일": "27"
+    },
+    {
+        "제목": "Market Insight 395 : GPU 서버",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750631",
+        "년": "2026",
+        "월": "07",
+        "일": "27"
+    },
+    {
+        "제목": "Market Insight 394 : 승객정보시스템",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750630",
+        "년": "2026",
+        "월": "07",
+        "일": "27"
     }
 ]
