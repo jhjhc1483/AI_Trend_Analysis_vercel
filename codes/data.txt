@@ -1,127 +1,113 @@
-📢26.07.29 AI 일일 동향📢
+📢26.07.30 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 마키나락스, 한화시스템과 제조 AX 사업 기반 확대
-https://www.aitimes.kr/news/articleView.html?idxno=41200
+◾ 美 공군, 반자율 무인전투기 실전 운용 시험 돌입…＇YFQ-44A 퓨리＇로 인간-무인기 협업 검증
+https://www.aitimes.kr/news/articleView.html?idxno=41231
 
-◾ 해군군수사, AI 교육·연구센터 문 열었다
-https://kookbang.dema.mil.kr/newsWeb/20260729/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=aWSpxAtkFCoy803ih0Z5QAQf4eYMdQcKTP5VreGxONloLkOE2GrZ!-172114094
+◾ STX엔진-디노티시아, 창원 방산 AI 데이터센터 구축과 안정적 전력 공급 체계 마련
+https://www.aitimes.kr/news/articleView.html?idxno=41218
 
-◾ 민·군 한자리 모여 첨단 SW 기술·경험 공유
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODIxNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+[육군]
+◾ 육군, 2040년 과학화훈련장 청사진 구체화
+https://kookbang.dema.mil.kr/newsWeb/20260730/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=rWSu6ICRjr7gD4EMD2u6Vo6GaWsHjEtVF49MsUk3BrGGcfjpny86!-172114094
 
-◾ 해군군수사, AI 교육·연구센터 문 열었다
-https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExODIxOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 가상 공간서 실전처럼…드론 시뮬레이터 교육
+https://kookbang.dema.mil.kr/newsWeb/20260730/11/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=rWSu6ICRjr7gD4EMD2u6Vo6GaWsHjEtVF49MsUk3BrGGcfjpny86!-172114094
+
+◾ 육군 유·무인 복합분대 실증부대 출범
+https://kookbang.dema.mil.kr/newsWeb/20260730/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=rWSu6ICRjr7gD4EMD2u6Vo6GaWsHjEtVF49MsUk3BrGGcfjpny86!-172114094
+
+◾ 육군 유·무인 복합분대 실증부대 출범
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODI3NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
-◾ 메타, 블랙록과 AI 데이터센터 합작법인 설립… 20조원 투자, 텍사스에 1GW급 ＇메타 컴퓨트＇ 캠퍼스 구축
-https://www.aitimes.kr/news/articleView.html?idxno=41211
+◾ SK하이닉스, 2분기 매출 79.3조·영업익 60.5조 ＇사상 최대＇…AI 메모리 호황에 상반기 매출 첫 100조 돌파
+https://www.aitimes.kr/news/articleView.html?idxno=41236
 
-◾ ＇생각하면서 움직이는＇ 로봇 AI 공개…MIT, 동작 속도 2배·반응속도 최대 30배 향상
-https://www.aitimes.kr/news/articleView.html?idxno=41209
+◾ 〃AI 활용 사이버 공격 급증〃…IBM, 악성 데이터 유출 4건 중 1건·평균 피해액 600만 달러
+https://www.aitimes.kr/news/articleView.html?idxno=41234
 
-◾ 문샷 AI, AI의 ＇보는 능력＇만 측정하는 ＇퍼셉션벤치＇ 오픈소스로 공개… 〃추론보다 시각 인지가 더 큰 병목〃
-https://www.aitimes.kr/news/articleView.html?idxno=41207
+◾ 카카오, 경량 언어모델 4종 오픈소스로 공개... “글로벌 수준 성능”, 온 디바이스 환경 구동 최적화
+https://www.aitimes.kr/news/articleView.html?idxno=41225
 
-◾ MS, 보안 특화 ＇MAI-사이버-1-플래시＇ 공개...〃앤트로픽·오픈AI 능가〃
-https://www.aitimes.com/news/articleView.html?idxno=213245
+◾ 버그 탐지 넘어 암호 분석까지…＇미소스＇, 알고리즘 취약점 찾았다
+https://www.aitimes.com/news/articleView.html?idxno=213293
 
-◾ 신세계아이앤씨, 비전 AI로 국내외 리테일 AX 시장 공략 본격화
-https://www.etnews.com/20260728000405
+◾ MCP 핵심 구조 전면 개편...〃AI 에이전트 대규모 프로덕션 시대 진입〃
+https://www.aitimes.com/news/articleView.html?idxno=213307
 
-◾ 네이버, 종로에 ＇AI 스튜디오＇ 가동…커머스·치지직 생태계 키운다
-https://www.etnews.com/20260728000253
+◾ 크래프톤, 21B 음성 AI 모델 공개… 〃30B 이하 한국어 성능 1위〃
+https://www.aitimes.com/news/articleView.html?idxno=213315
 
-◾ 마키나락스, 한화시스템과 제조 AX 사업 확장 협력
-https://www.etnews.com/20260728000245
+◾ 오케스트로 〃＇AI 인프라 풀스택 소프트웨어＇로 기업 AX 지원〃
+https://www.aitimes.com/news/articleView.html?idxno=213316
 
-◾ 포스코퓨처엠, 2028년 AI 제조혁신 완성…생산성 30% 향상
-https://www.etnews.com/20260728000116
+◾ 〃대체 불가 토큰 수출국 목표〃...민·관 주도 ＇AIDC 얼라이언스＇ 공식 출범
+https://www.aitimes.com/news/articleView.html?idxno=213310
 
-◾ 라이너, 삼성물산 건설부문과 빌딩에 에이전틱 AI 입힌다
-https://www.etnews.com/20260728000063
+◾ 〃학습 데이터 오염 막아라〃...AI 기업들, 오프라인 ＇인쇄 서적＇ 대량 확보 총력전
+https://www.aitimes.com/news/articleView.html?idxno=213308
 
-◾ 카카오, 카나나2 SLM 4종 공개…스마트폰에서 효율적 구동
-https://www.etnews.com/20260728000047
+◾ 오픈AI, 음성 전사 AI ＇GPT-트랜스크라이브＇ 2종 출시…실시간·비동기 맞춤 지원
+https://www.aitimes.com/news/articleView.html?idxno=213305
 
-◾ KB금융, 구글 클라우드와 손잡고 AI 전환 가속
-https://www.etnews.com/20260728000039
+◾ 오픈AI, ＇챗GPT＇ 유명 작가 문체 모방 요청 차단… 저작권 논란 대응 강화
+https://www.aitimes.com/news/articleView.html?idxno=213309
 
-◾ 인포유앤컴퍼니, 중공업 도면 AI PoC 완료…BOM 추출 정확도 100%·패널 탐지 1초 미만
-https://www.etnews.com/20260727000345
+◾ 비용 3배 뛰어도 기업 ‘클로드 코드’ 사용자 3배 증가…“첨단 성능 포기 못 해”
+https://www.aitimes.com/news/articleView.html?idxno=213301
+
+◾ 아마존, 자체 모델 ‘노바’ 단계적 폐지...차세대 프론티어 모델에 올인
+https://www.aitimes.com/news/articleView.html?idxno=213290
+
+◾ 오픈AI 〃AI가 직장인 업무 경계 허문다〃… ＇업무 교차＇ 현상 보고서 발표
+https://www.aitimes.com/news/articleView.html?idxno=213299
+
+◾ 엔비디아, 텍사스 73조 초대형 데이터센터 직접 임대...칩 넘어 ＇전력·부동산＇까지 확보
+https://www.aitimes.com/news/articleView.html?idxno=213288
+
+◾ 마스오토, 전국 우체국 물류망으로 자율주행 AI 모델 고도화 나선다
+https://www.aitimes.com/news/articleView.html?idxno=213295
 
 [기관]
-◾ ITU, 개발도상국 AI 확산 지원 위한 ＇AI for Good Lab＇ 출범… 정책·인재·인프라 구축 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=41210
+◾ 정부,  ‘AI 데이터센터 얼라이언스’ 본격 가동...초대 민간의장에 SKT 정재헌 대표
+https://www.aitimes.kr/news/articleView.html?idxno=41227
 
-◾ 식약처, 의료 AI 활성화 위한 디지털의료기기 인허가 규제 합리화
-https://www.aitimes.kr/news/articleView.html?idxno=41199
+◾ 고용부, 인공지능 충격 실시간 감지하는 ‘카나리아 대시보드’ 고도화
+https://www.aitimes.kr/news/articleView.html?idxno=41226
 
-◾ ＇독자 AI 파운데이션 모델＇ 프로젝트 국민 평가단 공모...〃독자 AI를 직접 사용해 보고 평가〃
-https://www.aitimes.kr/news/articleView.html?idxno=41197
-
-◾ 정부, CCTV 1만8000대 ‘AI 전환’ 나서…국산 NPU 대거 도입
-https://www.aitimes.com/news/articleView.html?idxno=213272
-
-◾ KAIST, 국내 유일 ‘MS AI 안전성 연구 프로그램’ 선정
-https://www.aitimes.com/news/articleView.html?idxno=213243
-
-◾ [2026 4차 산업혁명 AI Korea 대전]AI가 바꾸는 산업의 미래…대한민국 혁신을 이끄는 기술과 사람
-https://www.etnews.com/20260724000192
-
-◾ 경남도, 국산 NPU+AI 모델 결합 ＇선제적 재난 대응 플랫폼＇ 만든다
-https://www.etnews.com/20260728000349
-
-◾ [긴급 공공 보안진단]〈하〉AI 활용 넓히고 보안은 강화…N2SF 전환 속도내야
-https://www.etnews.com/20260728000240
-
-◾ 과기정통부, NPU 탑재 공공 CCTV 고도화…AI로 위험 탐지
-https://www.etnews.com/20260728000102
-
-◾ “고속도로 사고 알림 80초 만에”…도로공사, AI 교통관제 시대 연다
-https://www.etnews.com/20260728000134
-
-◾ 세이지, 산업부 ＇산업AI 실증·확산＇ 사업 참여…건설기계 제조현장 AX 지원
-https://www.etnews.com/20260728000046
-
-◾ 강원TP, ＇AI 기본법 시대, 생성형 AI 활용과 디지털 품질 대응 세미나＇ 개최
-https://www.etnews.com/20260728000018
+◾ 마스오토, 우체국 물류망에 자율주행 확대... ＇국가 AI 프로젝트＇ 가속화
+https://www.aitimes.kr/news/articleView.html?idxno=41221
 
 [해외]
-◾ 구글, 美 해양대기청 차세대 기상 슈퍼컴퓨터 구축… 〃AI·클라우드로 일기예보 혁신〃
-https://www.aitimes.kr/news/articleView.html?idxno=41208
+◾ 크렘린, 〃러시아, AI 개발 경쟁 세계 톱5 유지…미국과 격차 곧 좁힐 것〃
+https://www.aitimes.kr/news/articleView.html?idxno=41233
 
-◾ 트럼프 행정부, AI 사전 심사 체계 막바지…오픈AI·앤트로픽·구글 초안 수정 제출
-https://www.aitimes.com/news/articleView.html?idxno=213270
+◾ 리커시브, AWS와 4.1억 달러 규모 전략적 협력…＇자가 개선 AI＇ 초대규모 연구 인프라 구축
+https://www.aitimes.kr/news/articleView.html?idxno=41232
 
-◾ 〃AI가 뚫고, AI가 막는다〃... 올해 사이버 취약점 2배 폭증 전망
-https://www.aitimes.com/news/articleView.html?idxno=213268
+◾ 인텔, 美 국방·우주용 차세대 반도체 전략 공개…＇18A 공정＇으로 AI 엣지 컴퓨팅 혁신
+https://www.aitimes.kr/news/articleView.html?idxno=41230
 
-◾ MS, 에이전틱 보안 시스템 ＇프로젝트 퍼셉션＇ 공개
-https://www.etnews.com/20260728000335
+◾ 오픈AI ＇폭주 에이전트＇, 모달랩스 타고 허깅페이스 침투
+https://www.aitimes.com/news/articleView.html?idxno=213287
 
-◾ 美 주도 6G 동맹 출범…한국 등 25개국 뭉쳤다
-https://www.etnews.com/20260728000271
+◾ 키미 K3, 페이블 5와 게임 개발 맞대결…〃비용 낮추고 성능은 필적〃
+https://www.aitimes.com/news/articleView.html?idxno=213312
 
-◾ 엔비디아, ＇챗GPT 개발 주역＇ 스타트업에 7.3조원 투자
-https://www.etnews.com/20260728000149
+◾ 문샷, 차세대 ‘키미 K4’ 구축 착수...엔비디아 블랙웰 추가 확보 나서
+https://www.aitimes.com/news/articleView.html?idxno=213296
 
-◾ 마이크로소프트, AI로 AI 공격 대비 ＇퍼셉션＇ 공개…“오픈AI·앤트로픽 앞서”
-https://www.etnews.com/20260728000003
+◾ ＇키미 K3＇, 완전 오픈소스 아니다…연 매출 300억 넘으면 별도 상업 계약
+https://www.aitimes.com/news/articleView.html?idxno=213298
 
 📚 간행물
-◾ AI 시대 생존과 번영을 위한 소버린 해저 광케이블 인프라 전략 보고서
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99959&bcIdx=29753&parentSeq=29753
+◾ 4차 산업혁명 기술분야 특허통계 (＇26년 상반기)
+https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260729-000001&cpage=1&rows=10&searchTarget=all
 
-◾ 2025년 정보통신산업진흥에 관한 연차보고서 [국문]
-https://www.iitp.kr/web/lay1/bbs/S1T62C70/A/21/view.do?article_seq=4541&sort=latest&cpage=1&rows=10
-
-◾ 2024년 정보통신산업진흥에 관한 연차보고서 [국문]
-https://www.iitp.kr/web/lay1/bbs/S1T62C70/A/21/view.do?article_seq=4540&sort=latest&cpage=1&rows=10
-
-◾ [26-19] EU, 「AI 규정의 이행 간소화에 관한 규정」 발효 ('26.7.27)
-https://www.kisa.or.kr/20201/form?postSeq=288&page=1
+◾ 로봇 동작 성능 평가를 위한 벤치마크 기술 동향 [주간기술동향 2217호]
+https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1402&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
