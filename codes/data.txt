@@ -2,9 +2,6 @@
 
 📰 오늘의 기사
 [국방]
-◾ 〃AI가 스스로 숨은 약점 찾는다〃…KAIST 김준모 교수팀, AI 안전성 검증 기술 ‘스테이블-지플로우넷’ 개발
-https://www.aitimes.kr/news/articleView.html?idxno=41238
-
 ◾ “AI가 주도하는 미래전장 기술 활용능력이 경쟁력”
 https://kookbang.dema.mil.kr/newsWeb/20260731/2/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=Dd-0NDeY7c5f5Zqdx8gFAolZkAhnWze0ugf2-xoBQlJQxX1SWoZG!-172114094
 
@@ -25,14 +22,23 @@ https://www.aitimes.kr/news/articleView.html?idxno=41256
 ◾ 텐센트, AI 에이전트 운영 플랫폼 ＇ADP 4.0＇ 글로벌 공개…기업용 ＇에이전트옵스＇ 시대 본격화
 https://www.aitimes.kr/news/articleView.html?idxno=41253
 
-◾ 차세대 AI 반도체 난제 풀어...GIST-서울대-USC, 단일 소자로 초저전력·고집적 뉴로모픽 반도체 구현
-https://www.aitimes.kr/news/articleView.html?idxno=41245
+◾ 구글, 차세대 음악 AI ＇리리아 3.5＇ 공개… 구글 플로우 뮤직 적용으로 창작 생태계 확장
+https://www.aitimes.kr/news/articleView.html?idxno=41247
 
 ◾ 삼성SDS, 2분기 매출 3조 7178억원·영업이익 2318억원…AI 풀스택 사업 성장 본격화
 https://www.aitimes.kr/news/articleView.html?idxno=41243
 
 ◾ 퀄컴, ＇엣지부터 클라우드까지＇ AI 플랫폼 구축 가속...AI 소프트웨어 플랫폼 ＇모듈러＇ 인수
 https://www.aitimes.kr/news/articleView.html?idxno=41240
+
+◾ 구글, 개인용 AI 에이전트 ＇제미나이 스파크＇ 국내 정식 출시
+https://www.aitimes.com/news/articleView.html?idxno=213365
+
+◾ 오픈AI, 학술 연구자에 ＇챗GPT＇ 패키지 무료 제공...국내 대학 17곳 포함
+https://www.aitimes.com/news/articleView.html?idxno=213332
+
+◾ 〃AI가 주식 투자 코치해준다〃...라이너, 투자 리서치 AI 에이전트 출시
+https://www.aitimes.com/news/articleView.html?idxno=213345
 
 ◾ 한양대-D&D, 철도 AI·데이터 분야 산학협력
 https://www.etnews.com/20260730000441
@@ -43,23 +49,26 @@ https://www.etnews.com/20260730000420
 ◾ AI가 DRM 해제하고 수 분 만에 새 사이트...AI 불법스트리밍 대응 시급
 https://www.etnews.com/20260730000324
 
+◾ 문페이, 챗GPT·클로드서 결제하는 ＇페이박스＇ 출시
+https://www.etnews.com/20260730000348
+
 ◾ 카카오, ＇AI&기술윤리소위원회＇ 외부 자문단 발족…학계·법조계 전문가 참여
 https://www.etnews.com/20260730000335
 
+◾ 26곳 산·학·연, ＇에이전틱 AI＇ 개발 본격화...세계 최고 제품·서비스 구현 목표
+https://www.etnews.com/20260730000147
+
 ◾ NC AI, 씨메스와 피지컬 AI 기반 로보틱스 솔루션 개발 협력
 https://www.etnews.com/20260730000260
+
+◾ 의료·업무·일상·물리 특화 한국형 ＇에이전틱 AI＇ 개발 시동
+https://www.etnews.com/20260730000250
 
 ◾ 갤럭시폰이 보이스피싱범 목소리 잡는다…성문 탐지 실증특례
 https://www.etnews.com/20260730000068
 
 ◾ 롯데글로벌로지스, 에프알티로보틱스와 AI 웨어러블 로봇 공동 개발
 https://www.etnews.com/20260730000117
-
-◾ 파두, 美 ＇FMS 2026＇서 ＇AI 스토리지의 미래＇ 기조연설
-https://www.etnews.com/20260730000101
-
-◾ 픽셀로, 인도네시아 KIH 병원그룹과 AI 헬스케어 키오스크 현장 실증…동남아 사업화 본격화
-https://www.etnews.com/20260730000036
 
 ◾ 비주얼캠프, AI 시선추적 영어 문해력·독해 플랫폼 ＇리드클래스＇ 론칭
 https://www.etnews.com/20260730000032
@@ -71,11 +80,20 @@ https://www.etnews.com/20260729000381
 https://www.etnews.com/20260730000021
 
 [기관]
+◾ 차세대 AI 반도체 난제 풀어...GIST-서울대-USC, 단일 소자로 초저전력·고집적 뉴로모픽 반도체 구현
+https://www.aitimes.kr/news/articleView.html?idxno=41245
+
+◾ 〃AI가 스스로 숨은 약점 찾는다〃…KAIST 김준모 교수팀, AI 안전성 검증 기술 ‘스테이블-지플로우넷’ 개발
+https://www.aitimes.kr/news/articleView.html?idxno=41238
+
 ◾ 자율형 인공지능(에이전틱 AI) 핵심기술 산업 확산을 위한 연구개발 사업 본격 착수
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187610&searchOpt=ALL&searchTxt=
 
 ◾ 과기부, ＇능동형 에이전틱 AI＇ 개발에 180억원 투입
 https://www.aitimes.com/news/articleView.html?idxno=213357
+
+◾ 무보, ＇AI·데이터 서포터즈＇ 배출…공공데이터 확산 주도
+https://www.etnews.com/20260730000448
 
 ◾ 글로벌 이어 ＇아태 AI 허브＇까지…韓, 세계 AI 거점 속도낸다
 https://www.etnews.com/20260730000251
@@ -86,24 +104,21 @@ https://www.etnews.com/20260730000427
 ◾ 경기도, 도지사 직속 AI수석 신설…AI국과 정책 조율
 https://www.etnews.com/20260730000374
 
-◾ 26곳 산·학·연, ＇에이전틱 AI＇ 개발 본격화...세계 최고 제품·서비스 구현 목표
-https://www.etnews.com/20260730000147
-
-◾ 의료·업무·일상·물리 특화 한국형 ＇에이전틱 AI＇ 개발 시동
-https://www.etnews.com/20260730000250
-
 ◾ NIPA, ＇2026 오픈소스  인공지능·소프트웨어 커뮤니티 발대식＇ 개최
 https://www.etnews.com/20260730000193
 
 ◾ ＇통(通)하는 충남＇ 첫 조직 개편 완성…＇AI기본사회보건복지실·AI산업혁신국＇ 등 체계 전환
 https://www.etnews.com/20260730000112
 
-◾ 전북테크노파크, ＇제4회 AI·SW 챌린지 대회＇ 개최…창의·융합형 미래인재 육성
-https://www.etnews.com/20260730000057
-
 [해외]
 ◾ 건강 문제로 싱킹 머신즈 떠난 릴리안 웽...오픈AI서 ＇재귀적 자기개선＇ 맡는다
 https://www.aitimes.com/news/articleView.html?idxno=213347
+
+◾ 로브로스, 풍차 돌리기·백텀블링하는 휴머노이드 시연 영상 공개
+https://www.aitimes.com/news/articleView.html?idxno=213369
+
+◾ 오픈AI CFO “7월 한 달 매출, 2분기 전체 매출 뛰어 넘어”
+https://www.aitimes.com/news/articleView.html?idxno=213337
 
 ◾ 스페이스XAI, 차세대 음성 모델 ＇그록 보이스 싱크 패스트 2.0＇ 출시
 https://www.aitimes.com/news/articleView.html?idxno=213360
@@ -129,10 +144,16 @@ https://www.etnews.com/20260730000194
 ◾ 오픈AI, 연구자에 과학·공학 등 학술 특화 ＇챗GPT＇ 무료 지원
 https://www.etnews.com/20260730000168
 
+◾ 파두, 美 ＇FMS 2026＇서 ＇AI 스토리지의 미래＇ 기조연설
+https://www.etnews.com/20260730000101
+
 ◾ 메타, 2분기 매출 선방했지만 주당이익 기대치 미달…현금흐름도 90% 급감
 https://www.etnews.com/20260730000034
 
 📚 간행물
+◾ [디지털서비스 이슈리포트2026-7] 워크플로우를 가진 SaaS만 살아남는다
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=29764&parentSeq=29764
+
 ◾ AI 시대 생존과 번영을 위한 소버린 해저 광케이블 인프라 전략 보고서
 https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=39485&bcIdx=29763&parentSeq=29763
 
