@@ -19543,5 +19543,106 @@
       ]
     },
     "briefing": "- 육군을 비롯한 미래 전장 환경에서 AI 기술 활용 능력과 이를 뒷받침할 AI 주권 확보의 중요성이 강조되었습니다.\n- 최근 해킹 명령 실행 및 악성 침해사고의 25%가 AI를 활용하고 있다는 사실이 보고되어, 전장 정보 보안 및 AI 대응 체계 강화 필요성이 제기되었습니다.\n- 국내 산·학·연 26곳이 참여하여 의료·업무·물리 등 각 분야에 특화된 한국형 '에이전틱 AI(자율형 인공지능)' 개발 사업에 본격 착수했습니다."
+  },
+  "26.08.01": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "국방부, 교육용 상용드론 도입... ‘50만 드론전사 양성’ 정책 추진 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41269",
+          "category": "국방"
+        }
+      ],
+      "육군": [
+        {
+          "title": "알티베이스, 육군 SW 개발자 콘퍼런스서 국방 데이터 플랫폼 전략 제시",
+          "link": "https://www.etnews.com/20260731000078",
+          "category": "육군"
+        },
+        {
+          "title": "「교육용 상용드론 도입사업」 계약 체결",
+          "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExODM2NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군"
+        }
+      ],
+      "기관": [
+        {
+          "title": "방산 인공지능 경쟁력 강화를 위한 중소벤처기업 간담회 개최",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58936&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "기관"
+        },
+        {
+          "title": "방위사업청, 조선 기자재 기업의 미(美) 국방시장 진입 여건 개선",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58935&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "인공지능이 ＇안 들리는데 들린다＇ 우기는 시대 끝낸다...KAIST, AI의 감각 혼선과 환각 줄이는 핵심 기술 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41265",
+          "category": "민간"
+        },
+        {
+          "title": "SKT, 피지컬 AI 스타트업과 로보틱스 생태계 키운다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41263",
+          "category": "민간"
+        },
+        {
+          "title": "NC AI, 4년간 총 493.75억 규모 ＇에이전틱 AI 국책사업＇ 선정…스스로 일하는 AI 만든다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41262",
+          "category": "민간"
+        },
+        {
+          "title": "최고의 성능으로 누구나 사용한다!...LG AI연구원, 국내 최대 파라미터 7500억개 ‘K-엑사원 2.0’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41259",
+          "category": "민간"
+        },
+        {
+          "title": "〃보고, 생각하고, 협업한다〃…로봇 AI의 판을 바꿨다, 구글 ＇제미나이 로보틱스 ER 2＇ 전격 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41258",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "딥시크, 내몽골에 1GW AI 데이터센터 구축 추진...＇중국 최대 규모급＇",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213416",
+          "category": "해외"
+        },
+        {
+          "title": "미 법원 〃증거 부족〃...트럼프 행정부의 앤트로픽 제재 ＇무효화＇ 가능성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213420",
+          "category": "해외"
+        },
+        {
+          "title": "아마존 죽스, 미국 최초로 ＇운전대 없는＇ 유료 로보택시 유료 운행 승인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213395",
+          "category": "해외"
+        },
+        {
+          "title": "EU, ‘AI 기가팩토리’ 7곳 확정…총 49조원 규모로 투자 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213382",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류",
+          "link": "https://www.etnews.com/20260731000008",
+          "category": "해외"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[AI.GOV 이슈리포트 2026-1호]공공부문 AI 통제를 위한 사람 감독의 해외 사례 분석 및 시사점",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=29770&parentSeq=29770",
+          "category": "간행물"
+        },
+        {
+          "title": "2024년도 세계 R&D 투자 상위 기업 현황 [KISTEP 브리프]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260731-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
