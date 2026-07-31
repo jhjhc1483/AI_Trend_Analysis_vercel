@@ -19551,6 +19551,16 @@
           "title": "국방부, 교육용 상용드론 도입... ‘50만 드론전사 양성’ 정책 추진 가속",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41269",
           "category": "국방"
+        },
+        {
+          "title": "방산 인공지능 경쟁력 강화를 위한 중소벤처기업 간담회 개최",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58936&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "국방"
+        },
+        {
+          "title": "「교육용 상용드론 도입사업」 계약 체결",
+          "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExODM2NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
         }
       ],
       "육군": [
@@ -19558,31 +19568,9 @@
           "title": "알티베이스, 육군 SW 개발자 콘퍼런스서 국방 데이터 플랫폼 전략 제시",
           "link": "https://www.etnews.com/20260731000078",
           "category": "육군"
-        },
-        {
-          "title": "「교육용 상용드론 도입사업」 계약 체결",
-          "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExODM2NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-          "category": "육군"
-        }
-      ],
-      "기관": [
-        {
-          "title": "방산 인공지능 경쟁력 강화를 위한 중소벤처기업 간담회 개최",
-          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58936&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
-          "category": "기관"
-        },
-        {
-          "title": "방위사업청, 조선 기자재 기업의 미(美) 국방시장 진입 여건 개선",
-          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58935&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
-          "category": "기관"
         }
       ],
       "민간": [
-        {
-          "title": "인공지능이 ＇안 들리는데 들린다＇ 우기는 시대 끝낸다...KAIST, AI의 감각 혼선과 환각 줄이는 핵심 기술 개발",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41265",
-          "category": "민간"
-        },
         {
           "title": "SKT, 피지컬 AI 스타트업과 로보틱스 생태계 키운다",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41263",
@@ -19602,6 +19590,43 @@
           "title": "〃보고, 생각하고, 협업한다〃…로봇 AI의 판을 바꿨다, 구글 ＇제미나이 로보틱스 ER 2＇ 전격 공개",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41258",
           "category": "민간"
+        },
+        {
+          "title": "구글, 앤트로픽에 초대형 금융 보증...〃21조 데이터센터 세운다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213404",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "〃피지컬 AI 항만 혁신, 광양항에서 시작한다〃...해수부, ‘항만자동화 테스트베드’ 구축사업 착공",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41272",
+          "category": "기관"
+        },
+        {
+          "title": "인공지능이 ＇안 들리는데 들린다＇ 우기는 시대 끝낸다...KAIST, AI의 감각 혼선과 환각 줄이는 핵심 기술 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41265",
+          "category": "기관"
+        },
+        {
+          "title": "국방기술, 창업과 일자리의 미래를 열다",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58934&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "기관"
+        },
+        {
+          "title": "[알림] ＇AI 전환을 넘어 실행으로＇…제8회 AI정부혁신 콘퍼런스 개최",
+          "link": "https://www.etnews.com/20260731000209",
+          "category": "기관"
+        },
+        {
+          "title": "세종시, AI 재난대응 플랫폼 ＇세종SIREN＇ 시범 운영…예산 없이 자체 개발",
+          "link": "https://www.etnews.com/20260731000112",
+          "category": "기관"
+        },
+        {
+          "title": "정부, 20조원대 ＇한국판 전략형 국부펀드＇ 조성…내년 가동",
+          "link": "https://www.etnews.com/20260730000460",
+          "category": "기관"
         }
       ],
       "해외": [
@@ -19616,13 +19641,13 @@
           "category": "해외"
         },
         {
-          "title": "아마존 죽스, 미국 최초로 ＇운전대 없는＇ 유료 로보택시 유료 운행 승인",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213395",
+          "title": "EU, ‘AI 기가팩토리’ 7곳 확정…총 49조원 규모로 투자 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213382",
           "category": "해외"
         },
         {
-          "title": "EU, ‘AI 기가팩토리’ 7곳 확정…총 49조원 규모로 투자 확대",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213382",
+          "title": "로봇 전신제어 구현…구글, ＇제미나이 로보틱스2＇ 공개",
+          "link": "https://www.etnews.com/20260731000009",
           "category": "해외"
         },
         {
