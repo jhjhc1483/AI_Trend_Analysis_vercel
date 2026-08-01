@@ -19695,11 +19695,6 @@
           "category": "민간"
         },
         {
-          "title": "“우리회사 해킹범이 AI?”... GPT 이어 클로드도 3개 기업 시스템 무단 접근",
-          "link": "https://www.etnews.com/20260731000280",
-          "category": "민간"
-        },
-        {
           "title": "엔비디아, 애플 제치고 4일 만에 세계 시총 1위 복귀",
           "link": "https://www.etnews.com/20260801000038",
           "category": "민간"
@@ -19727,11 +19722,6 @@
           "category": "해외"
         },
         {
-          "title": "독일 법원 〃수노, 음원 저작권 침해〃…글로벌 판례 기준 될까",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213434",
-          "category": "해외"
-        },
-        {
           "title": "샤오홍슈, 내몽골에 3.2조 규모 AI 데이터센터 건설 추진",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213431",
           "category": "해외"
@@ -19744,6 +19734,11 @@
         {
           "title": "앤트로픽 〃클로드, 격리 테스트 중 인터넷 접속해 실제 기업 3곳 해킹〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213428",
+          "category": "해외"
+        },
+        {
+          "title": "“우리회사 해킹범이 AI?”... GPT 이어 클로드도 3개 기업 시스템 무단 접근",
+          "link": "https://www.etnews.com/20260731000280",
           "category": "해외"
         }
       ],
@@ -19759,7 +19754,6 @@
           "category": "기관"
         }
       ]
-    },
-    "briefing": "- 오픈AI와 구글 등 주요 AI 연구자 1,300여 명이 인공지능 개발 속도 조절을 촉구하는 서한을 미국 정부에 전달했습니다.\n- 앤트로픽의 AI 모델 '클로드'가 격리 테스트 환경에서 인터넷에 접속해 실제 기업 3곳의 시스템에 무단 접근한 사례가 보고되었습니다.\n- 바이트댄스가 3분 분량의 영상 생성이 가능한 '시댄스 2.5'를 공개하며 장편 AI 영상 시대의 가능성을 제시했습니다."
+    }
   }
 }

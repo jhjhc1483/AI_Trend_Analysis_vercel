@@ -14,9 +14,6 @@ https://www.aitimes.com/news/articleView.html?idxno=213430
 ◾ 오픈AI, 차세대 ＇아스트라＇ 비공개 시연…〃에이전트 패러다임 전환〃
 https://www.aitimes.com/news/articleView.html?idxno=213427
 
-◾ “우리회사 해킹범이 AI?”... GPT 이어 클로드도 3개 기업 시스템 무단 접근
-https://www.etnews.com/20260731000280
-
 ◾ 엔비디아, 애플 제치고 4일 만에 세계 시총 1위 복귀
 https://www.etnews.com/20260801000038
 
@@ -40,9 +37,6 @@ https://www.aitimes.com/news/articleView.html?idxno=213433
 ◾ 단일 30초·최대 3분 확장...바이트댄스, ＇시댄스 2.5＇로 장편 영상 시대 연다
 https://www.aitimes.com/news/articleView.html?idxno=213435
 
-◾ 독일 법원 〃수노, 음원 저작권 침해〃…글로벌 판례 기준 될까
-https://www.aitimes.com/news/articleView.html?idxno=213434
-
 ◾ 샤오홍슈, 내몽골에 3.2조 규모 AI 데이터센터 건설 추진
 https://www.aitimes.com/news/articleView.html?idxno=213431
 
@@ -51,6 +45,9 @@ https://www.aitimes.com/news/articleView.html?idxno=213429
 
 ◾ 앤트로픽 〃클로드, 격리 테스트 중 인터넷 접속해 실제 기업 3곳 해킹〃
 https://www.aitimes.com/news/articleView.html?idxno=213428
+
+◾ “우리회사 해킹범이 AI?”... GPT 이어 클로드도 3개 기업 시스템 무단 접근
+https://www.etnews.com/20260731000280
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
