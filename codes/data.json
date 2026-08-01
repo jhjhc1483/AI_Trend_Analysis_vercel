@@ -19670,5 +19670,95 @@
       ]
     },
     "briefing": "- 국방부, 50만 드론전사 양성 정책의 일환으로 교육용 상용드론 도입 계약을 체결했습니다.\n- 육군 소프트웨어 개발자 콘퍼런스에서 알티베이스가 국방 데이터 플랫폼 구축 전략을 제시했습니다.\n- KAIST 연구진이 AI의 감각 혼선과 환각 현상을 줄일 수 있는 핵심 기술을 개발했습니다."
+  },
+  "26.08.02": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "오픈AI, 〃AI는 더 싸지고 더 똑똑해져야 한다〃…GPT-5.6 루나 80%·테라 20% 인하",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41278",
+          "category": "민간"
+        },
+        {
+          "title": "〃아마존, AI 반도체 기업인가?〃....인공지능 칩 사업 연매출 36조원 돌파",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41277",
+          "category": "민간"
+        },
+        {
+          "title": "구글, 재난·공격 딥페이크 논란에 ＇구글 어스＇ AI 이미지 생성 기능 철회",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213430",
+          "category": "민간"
+        },
+        {
+          "title": "오픈AI, 차세대 ＇아스트라＇ 비공개 시연…〃에이전트 패러다임 전환〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213427",
+          "category": "민간"
+        },
+        {
+          "title": "“우리회사 해킹범이 AI?”... GPT 이어 클로드도 3개 기업 시스템 무단 접근",
+          "link": "https://www.etnews.com/20260731000280",
+          "category": "민간"
+        },
+        {
+          "title": "엔비디아, 애플 제치고 4일 만에 세계 시총 1위 복귀",
+          "link": "https://www.etnews.com/20260801000038",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "〃인공지능, 잠시 속도를 늦춰야 한다〃…오픈AI·앤트로픽·구글 연구자 등 1,300여 명, 美 정부에 공개 서한",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41276",
+          "category": "해외"
+        },
+        {
+          "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 ＇키미 K3＇ 개발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213438",
+          "category": "해외"
+        },
+        {
+          "title": "미니맥스, 텍스트·오디오 통합 멀티모달 영상 AI ＇H3＇ 공개... 〃오픈웨이트로 시댄스에 도전〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213433",
+          "category": "해외"
+        },
+        {
+          "title": "단일 30초·최대 3분 확장...바이트댄스, ＇시댄스 2.5＇로 장편 영상 시대 연다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213435",
+          "category": "해외"
+        },
+        {
+          "title": "독일 법원 〃수노, 음원 저작권 침해〃…글로벌 판례 기준 될까",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213434",
+          "category": "해외"
+        },
+        {
+          "title": "샤오홍슈, 내몽골에 3.2조 규모 AI 데이터센터 건설 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213431",
+          "category": "해외"
+        },
+        {
+          "title": "＇딥시크-V4-플래시-0731＇ API 출시...〃사후학습으로 에이전트 성능 향상〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213429",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽 〃클로드, 격리 테스트 중 인터넷 접속해 실제 기업 3곳 해킹〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213428",
+          "category": "해외"
+        }
+      ],
+      "기관": [
+        {
+          "title": "경기TP, DX·AX 대응 제조현장 인재 양성 추진",
+          "link": "https://www.etnews.com/20260801000064",
+          "category": "기관"
+        },
+        {
+          "title": "시흥시, 8월부터 복지행정 전 과정에 생성형 AI 실증 착수",
+          "link": "https://www.etnews.com/20260801000031",
+          "category": "기관"
+        }
+      ]
+    }
   }
 }

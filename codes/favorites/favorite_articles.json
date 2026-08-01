@@ -1,102 +1,82 @@
 [
   {
-    "title": "국방부, 교육용 상용드론 도입... ‘50만 드론전사 양성’ 정책 추진 가속",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41269",
-    "category": "국방"
-  },
-  {
-    "title": "방산 인공지능 경쟁력 강화를 위한 중소벤처기업 간담회 개최",
-    "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58936&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
-    "category": "국방"
-  },
-  {
-    "title": "「교육용 상용드론 도입사업」 계약 체결",
-    "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExODM2NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방"
-  },
-  {
-    "title": "알티베이스, 육군 SW 개발자 콘퍼런스서 국방 데이터 플랫폼 전략 제시",
-    "link": "https://www.etnews.com/20260731000078",
-    "category": "육군"
-  },
-  {
-    "title": "SKT, 피지컬 AI 스타트업과 로보틱스 생태계 키운다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41263",
+    "title": "오픈AI, 〃AI는 더 싸지고 더 똑똑해져야 한다〃…GPT-5.6 루나 80%·테라 20% 인하",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41278",
     "category": "민간"
   },
   {
-    "title": "NC AI, 4년간 총 493.75억 규모 ＇에이전틱 AI 국책사업＇ 선정…스스로 일하는 AI 만든다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41262",
+    "title": "〃아마존, AI 반도체 기업인가?〃....인공지능 칩 사업 연매출 36조원 돌파",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41277",
     "category": "민간"
   },
   {
-    "title": "최고의 성능으로 누구나 사용한다!...LG AI연구원, 국내 최대 파라미터 7500억개 ‘K-엑사원 2.0’ 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41259",
+    "title": "〃인공지능, 잠시 속도를 늦춰야 한다〃…오픈AI·앤트로픽·구글 연구자 등 1,300여 명, 美 정부에 공개 서한",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41276",
+    "category": "해외"
+  },
+  {
+    "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 ＇키미 K3＇ 개발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213438",
+    "category": "해외"
+  },
+  {
+    "title": "미니맥스, 텍스트·오디오 통합 멀티모달 영상 AI ＇H3＇ 공개... 〃오픈웨이트로 시댄스에 도전〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213433",
+    "category": "해외"
+  },
+  {
+    "title": "단일 30초·최대 3분 확장...바이트댄스, ＇시댄스 2.5＇로 장편 영상 시대 연다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213435",
+    "category": "해외"
+  },
+  {
+    "title": "독일 법원 〃수노, 음원 저작권 침해〃…글로벌 판례 기준 될까",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213434",
+    "category": "해외"
+  },
+  {
+    "title": "샤오홍슈, 내몽골에 3.2조 규모 AI 데이터센터 건설 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213431",
+    "category": "해외"
+  },
+  {
+    "title": "＇딥시크-V4-플래시-0731＇ API 출시...〃사후학습으로 에이전트 성능 향상〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213429",
+    "category": "해외"
+  },
+  {
+    "title": "구글, 재난·공격 딥페이크 논란에 ＇구글 어스＇ AI 이미지 생성 기능 철회",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213430",
     "category": "민간"
   },
   {
-    "title": "〃보고, 생각하고, 협업한다〃…로봇 AI의 판을 바꿨다, 구글 ＇제미나이 로보틱스 ER 2＇ 전격 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41258",
+    "title": "앤트로픽 〃클로드, 격리 테스트 중 인터넷 접속해 실제 기업 3곳 해킹〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213428",
+    "category": "해외"
+  },
+  {
+    "title": "오픈AI, 차세대 ＇아스트라＇ 비공개 시연…〃에이전트 패러다임 전환〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213427",
     "category": "민간"
   },
   {
-    "title": "구글, 앤트로픽에 초대형 금융 보증...〃21조 데이터센터 세운다〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213404",
+    "title": "경기TP, DX·AX 대응 제조현장 인재 양성 추진",
+    "link": "https://www.etnews.com/20260801000064",
+    "category": "기관"
+  },
+  {
+    "title": "“우리회사 해킹범이 AI?”... GPT 이어 클로드도 3개 기업 시스템 무단 접근",
+    "link": "https://www.etnews.com/20260731000280",
     "category": "민간"
   },
   {
-    "title": "〃피지컬 AI 항만 혁신, 광양항에서 시작한다〃...해수부, ‘항만자동화 테스트베드’ 구축사업 착공",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41272",
+    "title": "엔비디아, 애플 제치고 4일 만에 세계 시총 1위 복귀",
+    "link": "https://www.etnews.com/20260801000038",
+    "category": "민간"
+  },
+  {
+    "title": "시흥시, 8월부터 복지행정 전 과정에 생성형 AI 실증 착수",
+    "link": "https://www.etnews.com/20260801000031",
     "category": "기관"
-  },
-  {
-    "title": "인공지능이 ＇안 들리는데 들린다＇ 우기는 시대 끝낸다...KAIST, AI의 감각 혼선과 환각 줄이는 핵심 기술 개발",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41265",
-    "category": "기관"
-  },
-  {
-    "title": "국방기술, 창업과 일자리의 미래를 열다",
-    "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58934&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
-    "category": "기관"
-  },
-  {
-    "title": "[알림] ＇AI 전환을 넘어 실행으로＇…제8회 AI정부혁신 콘퍼런스 개최",
-    "link": "https://www.etnews.com/20260731000209",
-    "category": "기관"
-  },
-  {
-    "title": "세종시, AI 재난대응 플랫폼 ＇세종SIREN＇ 시범 운영…예산 없이 자체 개발",
-    "link": "https://www.etnews.com/20260731000112",
-    "category": "기관"
-  },
-  {
-    "title": "정부, 20조원대 ＇한국판 전략형 국부펀드＇ 조성…내년 가동",
-    "link": "https://www.etnews.com/20260730000460",
-    "category": "기관"
-  },
-  {
-    "title": "딥시크, 내몽골에 1GW AI 데이터센터 구축 추진...＇중국 최대 규모급＇",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213416",
-    "category": "해외"
-  },
-  {
-    "title": "미 법원 〃증거 부족〃...트럼프 행정부의 앤트로픽 제재 ＇무효화＇ 가능성",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213420",
-    "category": "해외"
-  },
-  {
-    "title": "EU, ‘AI 기가팩토리’ 7곳 확정…총 49조원 규모로 투자 확대",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213382",
-    "category": "해외"
-  },
-  {
-    "title": "로봇 전신제어 구현…구글, ＇제미나이 로보틱스2＇ 공개",
-    "link": "https://www.etnews.com/20260731000009",
-    "category": "해외"
-  },
-  {
-    "title": "오픈AI, 기업용 요금 최대 80% 인하…가격 경쟁 합류",
-    "link": "https://www.etnews.com/20260731000008",
-    "category": "해외"
   }
 ]
