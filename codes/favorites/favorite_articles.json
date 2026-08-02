@@ -1,77 +1,102 @@
 [
   {
-    "title": "오픈AI, 〃AI는 더 싸지고 더 똑똑해져야 한다〃…GPT-5.6 루나 80%·테라 20% 인하",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41278",
+    "title": "EU, 8월부터 AI 챗봇·딥페이크 표기 의무화…＇AI 라벨링＇ 규제 본격화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213450",
+    "category": "해외"
+  },
+  {
+    "title": "아크릴 “GPUBASE로 GPU 활용률 90% 달성…소버린 AI 완성”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213425",
     "category": "민간"
   },
   {
-    "title": "〃아마존, AI 반도체 기업인가?〃....인공지능 칩 사업 연매출 36조원 돌파",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41277",
+    "title": "구글, 크롬에 ＇제미나이 스파크＇ 통합...웹 브라우징 자동화 지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213447",
     "category": "민간"
   },
   {
-    "title": "〃인공지능, 잠시 속도를 늦춰야 한다〃…오픈AI·앤트로픽·구글 연구자 등 1,300여 명, 美 정부에 공개 서한",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41276",
-    "category": "해외"
-  },
-  {
-    "title": "문샷, 알리바바서 엔비디아 GPU 2만개 공급받아 ＇키미 K3＇ 개발",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213438",
-    "category": "해외"
-  },
-  {
-    "title": "미니맥스, 텍스트·오디오 통합 멀티모달 영상 AI ＇H3＇ 공개... 〃오픈웨이트로 시댄스에 도전〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213433",
-    "category": "해외"
-  },
-  {
-    "title": "단일 30초·최대 3분 확장...바이트댄스, ＇시댄스 2.5＇로 장편 영상 시대 연다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213435",
-    "category": "해외"
-  },
-  {
-    "title": "샤오홍슈, 내몽골에 3.2조 규모 AI 데이터센터 건설 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213431",
-    "category": "해외"
-  },
-  {
-    "title": "＇딥시크-V4-플래시-0731＇ API 출시...〃사후학습으로 에이전트 성능 향상〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213429",
-    "category": "해외"
-  },
-  {
-    "title": "구글, 재난·공격 딥페이크 논란에 ＇구글 어스＇ AI 이미지 생성 기능 철회",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213430",
+    "title": "아마존, 오픈AI에 50조 추가 투자 완료...지분 5% 확보",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213448",
     "category": "민간"
   },
   {
-    "title": "앤트로픽 〃클로드, 격리 테스트 중 인터넷 접속해 실제 기업 3곳 해킹〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213428",
-    "category": "해외"
-  },
-  {
-    "title": "오픈AI, 차세대 ＇아스트라＇ 비공개 시연…〃에이전트 패러다임 전환〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213427",
+    "title": "＇그록 이매진＇ 대규모 업그레이드...1080p 영상·음성 일관성 지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213444",
     "category": "민간"
   },
   {
-    "title": "경기TP, DX·AX 대응 제조현장 인재 양성 추진",
-    "link": "https://www.etnews.com/20260801000064",
+    "title": "알리바바, 음성 인식 모델 ＇큐원-오디오-3.0-ASR-플래시＇ 출시...〃전문 용어 정확도 향상〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213442",
+    "category": "해외"
+  },
+  {
+    "title": "〃오픈AI·앤트로픽 모델로 학습〃…중국, ＇증류＇로 군사용 AI 개발",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213441",
+    "category": "해외"
+  },
+  {
+    "title": "미네소타, 미국 최초 ＇AI 누드 이미지 금지법＇ 효력 유지...xAI 가처분 기각",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213445",
+    "category": "해외"
+  },
+  {
+    "title": "오픈AI 차세대 모델 ＇아스트라＇, 수학·컴퓨터 과학 10대 난제 해결",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213443",
+    "category": "해외"
+  },
+  {
+    "title": "오픈AI ＇챗GPT＇, 세계 이용자 10억 돌파…10년 난제 푼 ＇아스트라＇ 공개",
+    "link": "https://www.etnews.com/20260802000071",
+    "category": "민간"
+  },
+  {
+    "title": "＇사이버보안 특화＇ AI 사업 차질 우려…“기한 연장 등 특단 대책 필요”",
+    "link": "https://www.etnews.com/20260731000233",
     "category": "기관"
   },
   {
-    "title": "“우리회사 해킹범이 AI?”... GPT 이어 클로드도 3개 기업 시스템 무단 접근",
-    "link": "https://www.etnews.com/20260731000280",
-    "category": "해외"
-  },
-  {
-    "title": "엔비디아, 애플 제치고 4일 만에 세계 시총 1위 복귀",
-    "link": "https://www.etnews.com/20260801000038",
+    "title": "양한광 국립암센터 원장 “암 데이터·AI 결합, 지금이 세계 선도할 골든타임”",
+    "link": "https://www.etnews.com/20260731000187",
     "category": "민간"
   },
   {
-    "title": "시흥시, 8월부터 복지행정 전 과정에 생성형 AI 실증 착수",
-    "link": "https://www.etnews.com/20260801000031",
+    "title": "[ET시론] 미래우주경제 선도를 위한 우주AI 전략",
+    "link": "https://www.etnews.com/20260802000049",
     "category": "기관"
+  },
+  {
+    "title": "KB국민은행, 아마존·구글 클라우드 잇는 AI 데이터망 구축한다",
+    "link": "https://www.etnews.com/20260731000138",
+    "category": "민간"
+  },
+  {
+    "title": "한국은행 보안관제, AI 자율대응 체계로 바뀐다",
+    "link": "https://www.etnews.com/20260731000151",
+    "category": "기관"
+  },
+  {
+    "title": "韓美, AI·양자기술 ＇국제표준＇ 주도권 잡는다",
+    "link": "https://www.etnews.com/20260802000063",
+    "category": "기관"
+  },
+  {
+    "title": "에이전틱 AI로 CX 시장 공략…제네시스, 한국 시장 확대",
+    "link": "https://www.etnews.com/20260731000141",
+    "category": "민간"
+  },
+  {
+    "title": "서울시, ＇AI 정수장＇ 실증…AI가 약품 투입 판단 돕는다",
+    "link": "https://www.etnews.com/20260731000147",
+    "category": "기관"
+  },
+  {
+    "title": "행안부, ＇AI기반 공공데이터포털＇ 서비스 개시",
+    "link": "https://www.etnews.com/20260802000045",
+    "category": "기관"
+  },
+  {
+    "title": "롯데손보, 보험가입·설계 빨라진다…AI 기반 ＇설계안 검증 시스템＇ 특허",
+    "link": "https://www.etnews.com/20260731000143",
+    "category": "민간"
   }
 ]
