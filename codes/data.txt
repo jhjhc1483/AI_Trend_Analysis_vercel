@@ -17,8 +17,8 @@ https://www.aitimes.com/news/articleView.html?idxno=213444
 ◾ 오픈AI ＇챗GPT＇, 세계 이용자 10억 돌파…10년 난제 푼 ＇아스트라＇ 공개
 https://www.etnews.com/20260802000071
 
-◾ 양한광 국립암센터 원장 “암 데이터·AI 결합, 지금이 세계 선도할 골든타임”
-https://www.etnews.com/20260731000187
+◾ ＇AI에 진심＇ 래블업, 코스닥 상장 시동…일반기업 최단 승인
+https://www.etnews.com/20260802000070
 
 ◾ KB국민은행, 아마존·구글 클라우드 잇는 AI 데이터망 구축한다
 https://www.etnews.com/20260731000138
@@ -30,9 +30,6 @@ https://www.etnews.com/20260731000141
 https://www.etnews.com/20260731000143
 
 [기관]
-◾ ＇사이버보안 특화＇ AI 사업 차질 우려…“기한 연장 등 특단 대책 필요”
-https://www.etnews.com/20260731000233
-
 ◾ [ET시론] 미래우주경제 선도를 위한 우주AI 전략
 https://www.etnews.com/20260802000049
 
@@ -47,6 +44,9 @@ https://www.etnews.com/20260731000147
 
 ◾ 행안부, ＇AI기반 공공데이터포털＇ 서비스 개시
 https://www.etnews.com/20260802000045
+
+◾ 서울AI재단, 서울 초등학생 3000명 대상 ＇AI·SW 활성화 교육＇
+https://www.etnews.com/20260802000051
 
 [해외]
 ◾ EU, 8월부터 AI 챗봇·딥페이크 표기 의무화…＇AI 라벨링＇ 규제 본격화
