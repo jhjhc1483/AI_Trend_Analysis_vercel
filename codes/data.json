@@ -19867,5 +19867,184 @@
       ]
     },
     "briefing": "- 한국은행이 보안관제 업무를 AI 자율대응 체계로 전환하는 계획을 추진합니다.\n- 행정안전부가 AI 기술을 접목하여 보다 효율적으로 공공데이터를 활용할 수 있는 포털 서비스를 개시했습니다.\n- 중국이 오픈AI 등 서구권 AI 모델을 '증류' 학습 기법으로 활용해 군사용 AI를 개발하고 있다는 우려가 제기되었습니다."
+  },
+  "26.08.04": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "한화시스템, AI 기반 해양무인체계 총출동…AI 자동기뢰탐지부터 무인수상정·잠수정·저궤도 위성통신까지",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41293",
+          "category": "국방"
+        },
+        {
+          "title": "미래전 이끌 가장 강력한 자산… AI와 협업하는 지휘관 키운다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260804/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J5bIwkpcaIGUFe2ooYrqrLNkqJujjgJAFXTEb7IEfYsszhvtkS-D!-172114094",
+          "category": "국방"
+        },
+        {
+          "title": "부산항 가상 기뢰전, AI 활용 가능성 검증",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260804/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=J5bIwkpcaIGUFe2ooYrqrLNkqJujjgJAFXTEb7IEfYsszhvtkS-D!-172114094",
+          "category": "국방"
+        },
+        {
+          "title": "미래전 이끌 가장 강력한 자산… AI와 협업하는 지휘관 키운다",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODQ2NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "부산항 가상 기뢰전, AI 활용 가능성 검증",
+          "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExODQ2OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방"
+        },
+        {
+          "title": "242억원 ＇국방 특화 LLM＇ 사업, 한화·네이버클라우드 컨소시엄 우협 선정",
+          "link": "https://www.etnews.com/20260803000103",
+          "category": "국방"
+        }
+      ],
+      "민간": [
+        {
+          "title": "〃AI가 택배 배송·인력 배치까지 스스로 짠다〃...KAIST 김민수 교수팀, ‘실행 가능한 계획’ 만드는 AI 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41285",
+          "category": "민간"
+        },
+        {
+          "title": "로보티즈, 중국 공세에 휴머노이드 ＇AI 사피엔스＇ 소프트웨어 전면 개방",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213489",
+          "category": "민간"
+        },
+        {
+          "title": "코난테크놀로지, 서연이화 ＇제조 암묵지 등 AI 전환＇ 지원",
+          "link": "https://www.etnews.com/20260803000442",
+          "category": "민간"
+        },
+        {
+          "title": "오썸피아, 공간 행동 데이터 수익화하는 ＇그리드 맵 AI＇ 엔진 구축",
+          "link": "https://www.etnews.com/20260803000437",
+          "category": "민간"
+        },
+        {
+          "title": "지오영, 창립 24주년 맞아 전사적 AX 선언",
+          "link": "https://www.etnews.com/20260803000427",
+          "category": "민간"
+        },
+        {
+          "title": "AI 팩토리부터 에이전틱 AI까지…나무에이엑스, AI 플랫폼 기업 전환",
+          "link": "https://www.etnews.com/20260803000313",
+          "category": "민간"
+        },
+        {
+          "title": "리벨리온, 공공 AI CCTV에 대규모 NPU 공급",
+          "link": "https://www.etnews.com/20260803000310",
+          "category": "민간"
+        },
+        {
+          "title": "네이버, AI 팩토리 계약구조 공개…GPU 확보·재무부담 줄인다",
+          "link": "https://www.etnews.com/20260803000249",
+          "category": "민간"
+        },
+        {
+          "title": "딥노이드 생성형 의료AI ＇M4CXR＇ 부산대병원에 첫 공급",
+          "link": "https://www.etnews.com/20260803000283",
+          "category": "민간"
+        },
+        {
+          "title": "신한투자증권, 국내 금융사 최초 ＇AI 에이전트부＇ 신설",
+          "link": "https://www.etnews.com/20260803000163",
+          "category": "민간"
+        },
+        {
+          "title": "와이즈넛, AI 에이전트 제작 도구 ＇와이즈 에이전트 랩스＇ GS인증 1등급 획득",
+          "link": "https://www.etnews.com/20260803000075",
+          "category": "민간"
+        },
+        {
+          "title": "구글 클라우드, 오라클 엔터프라이즈 애플리케이션에 제미나이 지원",
+          "link": "https://www.etnews.com/20260803000069",
+          "category": "민간"
+        },
+        {
+          "title": "“AI가 택배 배송·인력 배치 등 복잡한 계획 스스로”…KAIST, 강화학습 기술 개발",
+          "link": "https://www.etnews.com/20260803000047",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "서강대 김홍석 교수 연구팀, 295억 규모 국가 국가 전력망 AI 대전환 핵심 기술 개발 착수",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41282",
+          "category": "기관"
+        },
+        {
+          "title": "인공지능 고속도로 핵심 인프라, ‘국가 인공지능 컴퓨팅센터’ 구축에 첫 삽",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187615&searchOpt=ALL&searchTxt=",
+          "category": "기관"
+        },
+        {
+          "title": "KAIST, AI 스스로 실행 가능한 경로 찾는 강화학습 기법 개발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213488",
+          "category": "기관"
+        },
+        {
+          "title": "＇국가 AI 컴퓨팅센터＇ 전남 해남서 첫 삽...내년부터 일부 공급",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213480",
+          "category": "기관"
+        },
+        {
+          "title": "국가 AI컴퓨팅센터 착공",
+          "link": "https://www.etnews.com/20260803000370",
+          "category": "기관"
+        },
+        {
+          "title": "해남서 국가 AI컴퓨팅센터 착공…AI 3대 강국 향한 국가 전략 본격 시동",
+          "link": "https://www.etnews.com/20260803000367",
+          "category": "기관"
+        },
+        {
+          "title": "＇AI 고속도로＇ 깐다…삼성SDS 주도 국가AI컴퓨팅센터 착공",
+          "link": "https://www.etnews.com/20260803000263",
+          "category": "기관"
+        },
+        {
+          "title": "AI 서비스 개발·창업까지…전국민 ＇AI 활용 성장사다리＇ 시동",
+          "link": "https://www.etnews.com/20260803000044",
+          "category": "기관"
+        }
+      ],
+      "해외": [
+        {
+          "title": "MS, 첫 실시간 양방향 음성 AI ＇MAI 리얼타임＇ 테스트 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213471",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아, ＇코스모스3 4스텝＇ 증류 모델 출시...〃추론 90% 줄여도 오픈웨이트 최고 성능〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213460",
+          "category": "해외"
+        },
+        {
+          "title": "알리바바, 2.4조 매개변수 ＇큐원 3.8-맥스＇ 공개...〃페이블 5급 성능〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213493",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 차세대 AI ＇아스트라＇ 출격 예고… 10년묵은 수학 난제 10개 풀었다",
+          "link": "https://www.etnews.com/20260803000008",
+          "category": "해외"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "자체 AI 칩 개발 경쟁과 커스텀 실리콘 시대 본격화 外 [IITP 디지털 아웃룩 2026-7월호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260803-000024&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        },
+        {
+          "title": "[제1301호] AI 공격·방어 자동화와 보안표준의 재설계",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1301%ED%98%B8%5D%20AI%20%EA%B3%B5%EA%B2%A9%C2%B7%EB%B0%A9%EC%96%B4%20%EC%9E%90%EB%8F%99%ED%99%94%EC%99%80%20%EB%B3%B4%EC%95%88%ED%91%9C%EC%A4%80%EC%9D%98%20%EC%9E%AC%EC%84%A4%EA%B3%84",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
