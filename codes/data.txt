@@ -24,73 +24,61 @@ https://www.etnews.com/20260803000103
 ◾ 〃AI가 택배 배송·인력 배치까지 스스로 짠다〃...KAIST 김민수 교수팀, ‘실행 가능한 계획’ 만드는 AI 개발
 https://www.aitimes.kr/news/articleView.html?idxno=41285
 
-◾ 로보티즈, 중국 공세에 휴머노이드 ＇AI 사피엔스＇ 소프트웨어 전면 개방
-https://www.aitimes.com/news/articleView.html?idxno=213489
+◾ AI는 기업의 모든 데이터를 이해할 수 있을까?...C3 ai가 제시한 엔터프라이즈 AI 에이전트 특허의 의미
+https://www.aitimes.kr/news/articleView.html?idxno=41283
 
-◾ 코난테크놀로지, 서연이화 ＇제조 암묵지 등 AI 전환＇ 지원
-https://www.etnews.com/20260803000442
+◾ SKT-순천향대, ‘AI 그림일기’로 교육 현장 AX 이끌고 미래 인재 육성 나선다
+https://www.aitimes.kr/news/articleView.html?idxno=41281
 
-◾ 오썸피아, 공간 행동 데이터 수익화하는 ＇그리드 맵 AI＇ 엔진 구축
-https://www.etnews.com/20260803000437
+◾ 폐 딱딱하게 굳는 특발성 폐섬유증... AI로 경과 확인하고 예후 예측
+https://www.aitimes.kr/news/articleView.html?idxno=41280
 
-◾ 지오영, 창립 24주년 맞아 전사적 AX 선언
-https://www.etnews.com/20260803000427
-
-◾ AI 팩토리부터 에이전틱 AI까지…나무에이엑스, AI 플랫폼 기업 전환
-https://www.etnews.com/20260803000313
+◾ KAIST, AI 스스로 실행 가능한 경로 찾는 강화학습 기법 개발
+https://www.aitimes.com/news/articleView.html?idxno=213488
 
 ◾ 리벨리온, 공공 AI CCTV에 대규모 NPU 공급
 https://www.etnews.com/20260803000310
 
-◾ 네이버, AI 팩토리 계약구조 공개…GPU 확보·재무부담 줄인다
-https://www.etnews.com/20260803000249
-
-◾ 딥노이드 생성형 의료AI ＇M4CXR＇ 부산대병원에 첫 공급
-https://www.etnews.com/20260803000283
-
-◾ 신한투자증권, 국내 금융사 최초 ＇AI 에이전트부＇ 신설
-https://www.etnews.com/20260803000163
-
 ◾ 와이즈넛, AI 에이전트 제작 도구 ＇와이즈 에이전트 랩스＇ GS인증 1등급 획득
 https://www.etnews.com/20260803000075
-
-◾ 구글 클라우드, 오라클 엔터프라이즈 애플리케이션에 제미나이 지원
-https://www.etnews.com/20260803000069
 
 ◾ “AI가 택배 배송·인력 배치 등 복잡한 계획 스스로”…KAIST, 강화학습 기술 개발
 https://www.etnews.com/20260803000047
 
 [기관]
+◾ 심심이, 과기정통부 ＇실세계 능동행동형 에이전틱 AI＇ 사업 주관기관 선정
+https://www.aitimes.kr/news/articleView.html?idxno=41296
+
+◾ 국토부, ＇AI 공간정보 시대＇ 연다…5년간 3차원 지도·GeoAI로 국토 디지털 대전환
+https://www.aitimes.kr/news/articleView.html?idxno=41292
+
+◾ ＇국가 AI 컴퓨팅센터＇ 착공...삼성SDS, 대한민국 AI 경쟁력 강화 위한 핵심 인프라 구축
+https://www.aitimes.kr/news/articleView.html?idxno=41288
+
+◾ AI 첫 걸음부터, 개발·창업까지 한 번에!...＇모두의 AI 성장사다리 프로젝트＇ 본격 출범
+https://www.aitimes.kr/news/articleView.html?idxno=41287
+
 ◾ 서강대 김홍석 교수 연구팀, 295억 규모 국가 국가 전력망 AI 대전환 핵심 기술 개발 착수
 https://www.aitimes.kr/news/articleView.html?idxno=41282
-
-◾ 인공지능 고속도로 핵심 인프라, ‘국가 인공지능 컴퓨팅센터’ 구축에 첫 삽
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187615&searchOpt=ALL&searchTxt=
-
-◾ KAIST, AI 스스로 실행 가능한 경로 찾는 강화학습 기법 개발
-https://www.aitimes.com/news/articleView.html?idxno=213488
-
-◾ ＇국가 AI 컴퓨팅센터＇ 전남 해남서 첫 삽...내년부터 일부 공급
-https://www.aitimes.com/news/articleView.html?idxno=213480
 
 ◾ 국가 AI컴퓨팅센터 착공
 https://www.etnews.com/20260803000370
 
-◾ 해남서 국가 AI컴퓨팅센터 착공…AI 3대 강국 향한 국가 전략 본격 시동
-https://www.etnews.com/20260803000367
-
 ◾ ＇AI 고속도로＇ 깐다…삼성SDS 주도 국가AI컴퓨팅센터 착공
 https://www.etnews.com/20260803000263
 
-◾ AI 서비스 개발·창업까지…전국민 ＇AI 활용 성장사다리＇ 시동
-https://www.etnews.com/20260803000044
-
 [해외]
+◾ EU, AI 생성 콘텐츠 ＇투명성 의무＇ 본격 시행…챗봇·딥페이크 모두 표시해야
+https://www.aitimes.kr/news/articleView.html?idxno=41297
+
+◾ 가트너, 개인정보 유출보다 더 위험한 것은 AI의 ＇추론＇…2029년 개인정보 침해 양상 대전환
+https://www.aitimes.kr/news/articleView.html?idxno=41291
+
+◾ AI 열풍에 클라우드 시장 ＇폭풍 성장＇…2분기 205조원, 8년 만에 최고 성장률
+https://www.aitimes.kr/news/articleView.html?idxno=41290
+
 ◾ MS, 첫 실시간 양방향 음성 AI ＇MAI 리얼타임＇ 테스트 중
 https://www.aitimes.com/news/articleView.html?idxno=213471
-
-◾ 엔비디아, ＇코스모스3 4스텝＇ 증류 모델 출시...〃추론 90% 줄여도 오픈웨이트 최고 성능〃
-https://www.aitimes.com/news/articleView.html?idxno=213460
 
 ◾ 알리바바, 2.4조 매개변수 ＇큐원 3.8-맥스＇ 공개...〃페이블 5급 성능〃
 https://www.aitimes.com/news/articleView.html?idxno=213493
