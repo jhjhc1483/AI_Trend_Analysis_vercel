@@ -1,97 +1,125 @@
-📢26.08.04 AI 일일 동향📢
+📢26.08.05 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 한화시스템, AI 기반 해양무인체계 총출동…AI 자동기뢰탐지부터 무인수상정·잠수정·저궤도 위성통신까지
-https://www.aitimes.kr/news/articleView.html?idxno=41293
+◾ 책임질 수 없는 AI에 미래를 맡길 것인가?
+https://kookbang.dema.mil.kr/newsWeb/20260805/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=kGPN287n6CFHdxMprIcutHdmkg8dPWOuYK3VKXExKacLhUbvhIof!-172114094
 
-◾ 미래전 이끌 가장 강력한 자산… AI와 협업하는 지휘관 키운다
-https://kookbang.dema.mil.kr/newsWeb/20260804/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J5bIwkpcaIGUFe2ooYrqrLNkqJujjgJAFXTEb7IEfYsszhvtkS-D!-172114094
+[육군]
+◾ 육군2기갑여단, 대드론체계 발전 방향 모색
+https://kookbang.dema.mil.kr/newsWeb/20260805/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kGPN287n6CFHdxMprIcutHdmkg8dPWOuYK3VKXExKacLhUbvhIof!-172114094
 
-◾ 부산항 가상 기뢰전, AI 활용 가능성 검증
-https://kookbang.dema.mil.kr/newsWeb/20260804/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=J5bIwkpcaIGUFe2ooYrqrLNkqJujjgJAFXTEb7IEfYsszhvtkS-D!-172114094
-
-◾ 미래전 이끌 가장 강력한 자산… AI와 협업하는 지휘관 키운다
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODQ2NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 부산항 가상 기뢰전, AI 활용 가능성 검증
-https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExODQ2OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 242억원 ＇국방 특화 LLM＇ 사업, 한화·네이버클라우드 컨소시엄 우협 선정
-https://www.etnews.com/20260803000103
+◾ [우리부대 집중탐구] 드론전사의 전초기지, 국군 새 기준 제시하다
+https://kookbang.dema.mil.kr/newsWeb/20260805/1/ATCE_CTGR_0020010010/view.do;JSESSIONID_kookbnagWEB=kGPN287n6CFHdxMprIcutHdmkg8dPWOuYK3VKXExKacLhUbvhIof!-172114094
 
 [민간]
-◾ 〃AI가 택배 배송·인력 배치까지 스스로 짠다〃...KAIST 김민수 교수팀, ‘실행 가능한 계획’ 만드는 AI 개발
-https://www.aitimes.kr/news/articleView.html?idxno=41285
+◾ AI 데이터센터의 새로운 병목은 ‘전력’… 슈나이더 일렉트릭, 800V DC 전환 청사진 제시
+https://www.aitimes.kr/news/articleView.html?idxno=41309
 
-◾ AI는 기업의 모든 데이터를 이해할 수 있을까?...C3 ai가 제시한 엔터프라이즈 AI 에이전트 특허의 의미
-https://www.aitimes.kr/news/articleView.html?idxno=41283
+◾ 오픈AI, 해커톤 ‘오픈AI 게임 빌더스 서울’ 개최… 코덱스로 게임 개발의 새로운 가능성 선보여
+https://www.aitimes.kr/news/articleView.html?idxno=41306
 
-◾ SKT-순천향대, ‘AI 그림일기’로 교육 현장 AX 이끌고 미래 인재 육성 나선다
-https://www.aitimes.kr/news/articleView.html?idxno=41281
+◾ 구글, 여기어때 사내 AI 에이전트 플랫폼 ‘YAPP’ 구축 지원… “임직원 손으로 그리는 에이전틱 AI 혁신”
+https://www.aitimes.kr/news/articleView.html?idxno=41302
 
-◾ 폐 딱딱하게 굳는 특발성 폐섬유증... AI로 경과 확인하고 예후 예측
-https://www.aitimes.kr/news/articleView.html?idxno=41280
+◾ 팀네이버, 브라질·칠레 AI 핵심 기업들과 협업 논의…남미 AI 시장 진출 가속
+https://www.aitimes.kr/news/articleView.html?idxno=41299
 
-◾ KAIST, AI 스스로 실행 가능한 경로 찾는 강화학습 기법 개발
-https://www.aitimes.com/news/articleView.html?idxno=213488
+◾ 오픈AI, 컴투스와 손잡고 세계 최초 ＇AI 게임 개발 해커톤＇ 연다
+https://www.aitimes.com/news/articleView.html?idxno=213529
 
-◾ 리벨리온, 공공 AI CCTV에 대규모 NPU 공급
-https://www.etnews.com/20260803000310
+◾ TSMC 핵심 패키징 외주 확대…AI 반도체 제조 병목 해소 기대
+https://www.etnews.com/20260804000179
 
-◾ 와이즈넛, AI 에이전트 제작 도구 ＇와이즈 에이전트 랩스＇ GS인증 1등급 획득
-https://www.etnews.com/20260803000075
+◾ 네이버, 남미 AI 인프라 시장 공략…현지 기업·정부 회동
+https://www.etnews.com/20260804000303
 
-◾ “AI가 택배 배송·인력 배치 등 복잡한 계획 스스로”…KAIST, 강화학습 기술 개발
-https://www.etnews.com/20260803000047
+◾ [유재수의 특이점(Singularity) 시대] 〈12〉소버린 AI 전략, 어떻게 이해하고 어떤 방식으로 추구돼야 하나?
+https://www.etnews.com/20260804000107
+
+◾ LG전자, AI홈 SoC 풀 라인업 국산화…프리미엄부터 엔트리까지
+https://www.etnews.com/20260804000178
+
+◾ [소부장 인사이트] 로봇 두뇌부터 손발까지…피지컬 AI 연합군 구축해야
+https://www.etnews.com/20260804000071
+
+◾ “AI가 광고 만들고 등록한다”…네이버, AI 광고 실험 확대
+https://www.etnews.com/20260804000082
+
+◾ 딥페이크 음성 실시간 판별…한양대 유호천 교수팀, ＇가우시안 확률연산 트랜지스터＇ 세계 최초 개발
+https://www.etnews.com/20260804000237
+
+◾ SKT 독파모 2차 모델은 ＇일하는 AI＇…산업 현장서 실증
+https://www.etnews.com/20260804000234
+
+◾ “중국산 대체” 에이투지, UAE에 110억원 자율주행 수출
+https://www.etnews.com/20260804000199
+
+◾ 현대퓨처넷, 한국MS와 AI 전환 협력…리테일 AI 에이전트 개발
+https://www.etnews.com/20260804000183
+
+◾ 우리은행, AI 기반 자산관리 시스템 ＇WM V.I.P.＇ 가동…AX 영업 혁신
+https://www.etnews.com/20260804000143
+
+◾ “찰떡같이 알아듣네”…카카오, ＇카나나-o＇ 음성 생성 기술 고도화
+https://www.etnews.com/20260804000053
+
+◾ 엘리스그룹, ＇B300 2560장 탑재＇ 모듈형 AI 데이터센터 구축
+https://www.etnews.com/20260804000042
+
+◾ 우리은행, 생성형 AI 결합 ＇하이브리드 상담봇＇ 구축 착수
+https://www.etnews.com/20260804000024
 
 [기관]
-◾ 심심이, 과기정통부 ＇실세계 능동행동형 에이전틱 AI＇ 사업 주관기관 선정
-https://www.aitimes.kr/news/articleView.html?idxno=41296
+◾ “인공지능 전환(AX)에 필요한 모든 정보를 한눈에“ 인공지능 전환 일괄(AX 원스톱) 지원포털 『AX360°』 서비스 개시
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187623&searchOpt=ALL&searchTxt=
 
-◾ 국토부, ＇AI 공간정보 시대＇ 연다…5년간 3차원 지도·GeoAI로 국토 디지털 대전환
-https://www.aitimes.kr/news/articleView.html?idxno=41292
+◾ 〃AI 정부사업·모델·GPU 한 곳에〃...과기정통부, 원스톱 포털 AX360° 개설
+https://www.aitimes.com/news/articleView.html?idxno=213518
 
-◾ ＇국가 AI 컴퓨팅센터＇ 착공...삼성SDS, 대한민국 AI 경쟁력 강화 위한 핵심 인프라 구축
-https://www.aitimes.kr/news/articleView.html?idxno=41288
+◾ [하반기 업무보고] 기후부 ＇전기국가＇ 시동…AI 시대 전력망 혁신 나선다
+https://www.etnews.com/20260804000149
 
-◾ AI 첫 걸음부터, 개발·창업까지 한 번에!...＇모두의 AI 성장사다리 프로젝트＇ 본격 출범
-https://www.aitimes.kr/news/articleView.html?idxno=41287
+◾ 정부 직속 ＇AI 개발 조직 신설＇ 초읽기…국무총리훈령 제정
+https://www.etnews.com/20260804000232
 
-◾ 서강대 김홍석 교수 연구팀, 295억 규모 국가 국가 전력망 AI 대전환 핵심 기술 개발 착수
-https://www.aitimes.kr/news/articleView.html?idxno=41282
+◾ 기술·사업·모델 한눈에…AI 원스톱 포털 ＇AX360°＇ 오픈
+https://www.etnews.com/20260804000226
 
-◾ 국가 AI컴퓨팅센터 착공
-https://www.etnews.com/20260803000370
-
-◾ ＇AI 고속도로＇ 깐다…삼성SDS 주도 국가AI컴퓨팅센터 착공
-https://www.etnews.com/20260803000263
+◾ 과기부, 탑티어 공동연구 지원 4개 컨소시엄 선정…10년간 230억 지원
+https://www.etnews.com/20260804000135
 
 [해외]
-◾ EU, AI 생성 콘텐츠 ＇투명성 의무＇ 본격 시행…챗봇·딥페이크 모두 표시해야
-https://www.aitimes.kr/news/articleView.html?idxno=41297
+◾ 알리바바, 역대 최대 규모·최고 성능의 AI 모델 ＇큐웬3.8-맥스＇ ...완전한 오픈소스로 공개
+https://www.aitimes.kr/news/articleView.html?idxno=41304
 
-◾ 가트너, 개인정보 유출보다 더 위험한 것은 AI의 ＇추론＇…2029년 개인정보 침해 양상 대전환
-https://www.aitimes.kr/news/articleView.html?idxno=41291
+◾ 〃가성비 넘어 최첨단 성능까지〃...중국 AI 공세에 미국 개발사 ＇데드 존＇ 몰렸다
+https://www.aitimes.com/news/articleView.html?idxno=213523
 
-◾ AI 열풍에 클라우드 시장 ＇폭풍 성장＇…2분기 205조원, 8년 만에 최고 성장률
-https://www.aitimes.kr/news/articleView.html?idxno=41290
+◾ 〃AGI 넘어 RSI로〃…구글이 천문학적 AI 투자를 지속하는 이유
+https://www.aitimes.com/news/articleView.html?idxno=213506
 
-◾ MS, 첫 실시간 양방향 음성 AI ＇MAI 리얼타임＇ 테스트 중
-https://www.aitimes.com/news/articleView.html?idxno=213471
+◾ AI 자율 해킹 책임은 누구에게...법적 논쟁 본격화
+https://www.aitimes.com/news/articleView.html?idxno=213510
 
-◾ 알리바바, 2.4조 매개변수 ＇큐원 3.8-맥스＇ 공개...〃페이블 5급 성능〃
-https://www.aitimes.com/news/articleView.html?idxno=213493
+◾ 턴 디텍터 없애고 추론 분리... 오픈AI가 밝힌 ＇GPT-라이브＇ 초저지연 비밀
+https://www.aitimes.com/news/articleView.html?idxno=213525
 
-◾ 오픈AI, 차세대 AI ＇아스트라＇ 출격 예고… 10년묵은 수학 난제 10개 풀었다
-https://www.etnews.com/20260803000008
+◾ [테크 차이나] 中 휴머노이드 10만대 시대…양산보다 ＇상용화＇가 진짜 승부
+https://www.etnews.com/20260804000015
+
+◾ [CSW 2026] 카스퍼스키 “SW 개발 속도 높인 AI…검증은 못 따라가”
+https://www.etnews.com/20260804000214
+
+◾ 美 행정부, AI 모델 ＇해킹 등 사이버 보안 테스트＇ 의무화
+https://www.etnews.com/20260804000004
 
 📚 간행물
-◾ 자체 AI 칩 개발 경쟁과 커스텀 실리콘 시대 본격화 外 [IITP 디지털 아웃룩 2026-7월호]
-https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260803-000024&cpage=1&rows=10&searchTarget=all
+◾ KOREN ICT 트렌드 리포트 제2호
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99959&bcIdx=29786&parentSeq=29786
 
-◾ [제1301호] AI 공격·방어 자동화와 보안표준의 재설계
-https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1301%ED%98%B8%5D%20AI%20%EA%B3%B5%EA%B2%A9%C2%B7%EB%B0%A9%EC%96%B4%20%EC%9E%90%EB%8F%99%ED%99%94%EC%99%80%20%EB%B3%B4%EC%95%88%ED%91%9C%EC%A4%80%EC%9D%98%20%EC%9E%AC%EC%84%A4%EA%B3%84
+◾ 「공공데이터의 인공지능 친화적 관리 가이드라인 v1.1」 개정 안내
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=27974&bcIdx=29785&parentSeq=29785
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
