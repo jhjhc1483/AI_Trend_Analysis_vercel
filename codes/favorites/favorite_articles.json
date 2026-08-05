@@ -1,182 +1,87 @@
 [
   {
-    "title": "육군2기갑여단, 대드론체계 발전 방향 모색",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260805/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=kGPN287n6CFHdxMprIcutHdmkg8dPWOuYK3VKXExKacLhUbvhIof!-172114094",
-    "category": "육군"
-  },
-  {
-    "title": "[우리부대 집중탐구] 드론전사의 전초기지, 국군 새 기준 제시하다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260805/1/ATCE_CTGR_0020010010/view.do;JSESSIONID_kookbnagWEB=kGPN287n6CFHdxMprIcutHdmkg8dPWOuYK3VKXExKacLhUbvhIof!-172114094",
-    "category": "육군"
-  },
-  {
-    "title": "책임질 수 없는 AI에 미래를 맡길 것인가?",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260805/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=kGPN287n6CFHdxMprIcutHdmkg8dPWOuYK3VKXExKacLhUbvhIof!-172114094",
+    "title": "〃국산 NPU로 활주로·철책 지킨다〃…딥엑스, 공군 AI 경계감시체계 적용",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41317",
     "category": "국방"
   },
   {
-    "title": "AI 데이터센터의 새로운 병목은 ‘전력’… 슈나이더 일렉트릭, 800V DC 전환 청사진 제시",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41309",
-    "category": "민간"
-  },
-  {
-    "title": "오픈AI, 해커톤 ‘오픈AI 게임 빌더스 서울’ 개최… 코덱스로 게임 개발의 새로운 가능성 선보여",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41306",
-    "category": "민간"
-  },
-  {
-    "title": "알리바바, 역대 최대 규모·최고 성능의 AI 모델 ＇큐웬3.8-맥스＇ ...완전한 오픈소스로 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41304",
-    "category": "해외"
-  },
-  {
-    "title": "구글, 여기어때 사내 AI 에이전트 플랫폼 ‘YAPP’ 구축 지원… “임직원 손으로 그리는 에이전틱 AI 혁신”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41302",
-    "category": "민간"
-  },
-  {
-    "title": "팀네이버, 브라질·칠레 AI 핵심 기업들과 협업 논의…남미 AI 시장 진출 가속",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41299",
-    "category": "민간"
-  },
-  {
-    "title": "“인공지능 전환(AX)에 필요한 모든 정보를 한눈에“ 인공지능 전환 일괄(AX 원스톱) 지원포털 『AX360°』 서비스 개시",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187623&searchOpt=ALL&searchTxt=",
+    "title": "[병무청] 병역 면탈 꼼수 차단·AI 기반 병무행정 구현",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260806/39/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=b5TTAf5vghFwT3s2nq_sTlfZuIjBlinxMyNLLcYBLq5ULoS0ZOes!-172114094",
     "category": "기관"
   },
   {
-    "title": "〃가성비 넘어 최첨단 성능까지〃...중국 AI 공세에 미국 개발사 ＇데드 존＇ 몰렸다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213523",
-    "category": "해외"
+    "title": "[주간 K방산 브리핑] AI 무인수상정 ‘대기뢰전’ 시연 성공",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260806/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=b5TTAf5vghFwT3s2nq_sTlfZuIjBlinxMyNLLcYBLq5ULoS0ZOes!-172114094",
+    "category": "국방"
   },
   {
-    "title": "〃AGI 넘어 RSI로〃…구글이 천문학적 AI 투자를 지속하는 이유",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213506",
-    "category": "해외"
+    "title": "민·관·군 통합 대드론체계 발전 모색",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260806/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=b5TTAf5vghFwT3s2nq_sTlfZuIjBlinxMyNLLcYBLq5ULoS0ZOes!-172114094",
+    "category": "국방"
   },
   {
-    "title": "AI 자율 해킹 책임은 누구에게...법적 논쟁 본격화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213510",
-    "category": "해외"
+    "title": "‘특수작전 드론봇’ 연구·교육 날개 달았다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260806/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=b5TTAf5vghFwT3s2nq_sTlfZuIjBlinxMyNLLcYBLq5ULoS0ZOes!-172114094",
+    "category": "육군"
   },
   {
-    "title": "턴 디텍터 없애고 추론 분리... 오픈AI가 밝힌 ＇GPT-라이브＇ 초저지연 비밀",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213525",
-    "category": "해외"
+    "title": "해군항공사령부, 군·학 연계 AI 교육",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260806/5/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=b5TTAf5vghFwT3s2nq_sTlfZuIjBlinxMyNLLcYBLq5ULoS0ZOes!-172114094",
+    "category": "국방"
   },
   {
-    "title": "오픈AI, 컴투스와 손잡고 세계 최초 ＇AI 게임 개발 해커톤＇ 연다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213529",
+    "title": "코히어, 한국 법인 설립…〃소버린 AI로 비용까지 줄인다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213578",
     "category": "민간"
   },
   {
-    "title": "〃AI 정부사업·모델·GPU 한 곳에〃...과기정통부, 원스톱 포털 AX360° 개설",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213518",
+    "title": "커서, 블랙웰 서버 전용 MoE 커널 ＇MoK＇ 공개…학습 처리량 41% 향상",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213572",
+    "category": "민간"
+  },
+  {
+    "title": "구글, 앤트로픽 TPU 공급 위해 사상 최대 285조 규모 ‘금융 연합’ 구축",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213565",
+    "category": "해외"
+  },
+  {
+    "title": "〃유럽에 한국 반도체 깔린다〃...퓨리오사, 스웨덴 데이터센터 사업 참여",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213566",
+    "category": "민간"
+  },
+  {
+    "title": "앤트로픽, 신생 클라우드 스타트업 볼타와 14조 규모 컴퓨팅 계약",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213557",
+    "category": "해외"
+  },
+  {
+    "title": "삼성전자, HBM5 성능 8배 개선한 ＇zHBM＇ 공개...〃옆 대신 위로 쌓았다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213559",
+    "category": "민간"
+  },
+  {
+    "title": "〃HBM 다음 주자 될 것〃...SK하이닉스, 샌디스크와 HBF 첫 표준 규격 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213562",
+    "category": "민간"
+  },
+  {
+    "title": "[병무청] 병역 면탈 꼼수 차단·AI 기반 병무행정 구현",
+    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExODYyMSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "기관"
   },
   {
-    "title": "TSMC 핵심 패키징 외주 확대…AI 반도체 제조 병목 해소 기대",
-    "link": "https://www.etnews.com/20260804000179",
-    "category": "민간"
+    "title": "민·관·군 통합 대드론체계 발전 모색",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODYzNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
   },
   {
-    "title": "[테크 차이나] 中 휴머노이드 10만대 시대…양산보다 ＇상용화＇가 진짜 승부",
-    "link": "https://www.etnews.com/20260804000015",
-    "category": "해외"
+    "title": "‘특수작전 드론봇’ 연구·교육 날개 달았다",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODYzMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군"
   },
   {
-    "title": "[하반기 업무보고] 기후부 ＇전기국가＇ 시동…AI 시대 전력망 혁신 나선다",
-    "link": "https://www.etnews.com/20260804000149",
-    "category": "기관"
-  },
-  {
-    "title": "네이버, 남미 AI 인프라 시장 공략…현지 기업·정부 회동",
-    "link": "https://www.etnews.com/20260804000303",
-    "category": "민간"
-  },
-  {
-    "title": "[유재수의 특이점(Singularity) 시대] 〈12〉소버린 AI 전략, 어떻게 이해하고 어떤 방식으로 추구돼야 하나?",
-    "link": "https://www.etnews.com/20260804000107",
-    "category": "민간"
-  },
-  {
-    "title": "LG전자, AI홈 SoC 풀 라인업 국산화…프리미엄부터 엔트리까지",
-    "link": "https://www.etnews.com/20260804000178",
-    "category": "민간"
-  },
-  {
-    "title": "[소부장 인사이트] 로봇 두뇌부터 손발까지…피지컬 AI 연합군 구축해야",
-    "link": "https://www.etnews.com/20260804000071",
-    "category": "민간"
-  },
-  {
-    "title": "“AI가 광고 만들고 등록한다”…네이버, AI 광고 실험 확대",
-    "link": "https://www.etnews.com/20260804000082",
-    "category": "민간"
-  },
-  {
-    "title": "딥페이크 음성 실시간 판별…한양대 유호천 교수팀, ＇가우시안 확률연산 트랜지스터＇ 세계 최초 개발",
-    "link": "https://www.etnews.com/20260804000237",
-    "category": "민간"
-  },
-  {
-    "title": "SKT 독파모 2차 모델은 ＇일하는 AI＇…산업 현장서 실증",
-    "link": "https://www.etnews.com/20260804000234",
-    "category": "민간"
-  },
-  {
-    "title": "정부 직속 ＇AI 개발 조직 신설＇ 초읽기…국무총리훈령 제정",
-    "link": "https://www.etnews.com/20260804000232",
-    "category": "기관"
-  },
-  {
-    "title": "기술·사업·모델 한눈에…AI 원스톱 포털 ＇AX360°＇ 오픈",
-    "link": "https://www.etnews.com/20260804000226",
-    "category": "기관"
-  },
-  {
-    "title": "[CSW 2026] 카스퍼스키 “SW 개발 속도 높인 AI…검증은 못 따라가”",
-    "link": "https://www.etnews.com/20260804000214",
-    "category": "해외"
-  },
-  {
-    "title": "“중국산 대체” 에이투지, UAE에 110억원 자율주행 수출",
-    "link": "https://www.etnews.com/20260804000199",
-    "category": "민간"
-  },
-  {
-    "title": "현대퓨처넷, 한국MS와 AI 전환 협력…리테일 AI 에이전트 개발",
-    "link": "https://www.etnews.com/20260804000183",
-    "category": "민간"
-  },
-  {
-    "title": "과기부, 탑티어 공동연구 지원 4개 컨소시엄 선정…10년간 230억 지원",
-    "link": "https://www.etnews.com/20260804000135",
-    "category": "기관"
-  },
-  {
-    "title": "우리은행, AI 기반 자산관리 시스템 ＇WM V.I.P.＇ 가동…AX 영업 혁신",
-    "link": "https://www.etnews.com/20260804000143",
-    "category": "민간"
-  },
-  {
-    "title": "“찰떡같이 알아듣네”…카카오, ＇카나나-o＇ 음성 생성 기술 고도화",
-    "link": "https://www.etnews.com/20260804000053",
-    "category": "민간"
-  },
-  {
-    "title": "엘리스그룹, ＇B300 2560장 탑재＇ 모듈형 AI 데이터센터 구축",
-    "link": "https://www.etnews.com/20260804000042",
-    "category": "민간"
-  },
-  {
-    "title": "우리은행, 생성형 AI 결합 ＇하이브리드 상담봇＇ 구축 착수",
-    "link": "https://www.etnews.com/20260804000024",
-    "category": "민간"
-  },
-  {
-    "title": "美 행정부, AI 모델 ＇해킹 등 사이버 보안 테스트＇ 의무화",
-    "link": "https://www.etnews.com/20260804000004",
-    "category": "해외"
+    "title": "해군항공사령부, 군·학 연계 AI 교육",
+    "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzExODYzOSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방"
   }
 ]
