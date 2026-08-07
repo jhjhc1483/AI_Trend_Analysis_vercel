@@ -302,5 +302,21 @@
         "년": "2026",
         "월": "07",
         "일": "24"
+    },
+    {
+        "제목": "한국 혁신체제의 제도적 전환 연구",
+        "분류": "기초연구",
+        "링크": "https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=336&cateCont=A0203&cbIdx=0&searchKey=",
+        "년": "2026",
+        "월": "04",
+        "일": "30"
+    },
+    {
+        "제목": "AI전환기,디지털헬스케어 사례로 본 기술인력 수요변화의 특징과 대응전략",
+        "분류": "STEPI Insight",
+        "링크": "https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=374&cateCont=A0501&cbIdx=0&searchKey=",
+        "년": "2026",
+        "월": "08",
+        "일": "06"
     }
 ]
