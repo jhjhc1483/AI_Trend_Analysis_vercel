@@ -20469,5 +20469,70 @@
       ]
     },
     "briefing": "- 이스트시큐리티와 퓨리오사AI가 차세대 AI 보안 플랫폼 구축을 위한 인프라 공동개발 협력을 추진합니다.\n- 김승주 고려대 교수가 AI 해킹 대응을 위해 AI 활용 필요성을 강조하며 현행 망분리 정책의 개선을 제안했습니다.\n- 구글이 태풍 예측 정확도를 높인 기상예측 AI 모델 '웨더넥스트'의 모델과 코드를 전면 오픈소스로 공개했습니다."
+  },
+  "26.08.09": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "트럼프, 의회의 AI 규제 움직임에 〃산업 폐업〃 강력 반발…여야 ＇우회적 방관＇ 초당적 비판",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213709",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, 안전 분류기 고도화…＇페이블 5＇ 오탐 답변 거부 85% 줄였다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213699",
+          "category": "해외"
+        },
+        {
+          "title": "허깅페이스 CEO 〃중국, 오픈 AI 모델로 올해 미국 첨단 모델 추월할 수도〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213700",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…〃에이전트끼리 비밀 소통〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213703",
+          "category": "해외"
+        },
+        {
+          "title": "미 상무부, 중국 AI 기업의 해외 엔비디아 칩 원격 접근 실태 조사 착수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213701",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, ＇아스트라＇ 개발 일시 중단…〃치명적 사이버공격 가능성〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213697",
+          "category": "해외"
+        },
+        {
+          "title": "트럼프 “중국이 AI·가상자산 추월하는 꼴 못봐…내달 시진핑과 담판”",
+          "link": "https://www.etnews.com/20260808000003",
+          "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "‘에이전트 플러그인 1.0’ 공개...스킬·MCP 묶어 에이전트 호환성 높여",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213705",
+          "category": "민간"
+        },
+        {
+          "title": "[8월7일] “챗GPT 충격 이후 최대 개편”…구글, AI 경쟁 ‘두 번째 대전환’ 나섰다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213652",
+          "category": "민간"
+        },
+        {
+          "title": "엔비디아의 자율주행 AI 모델… ‘알파마요 2 슈퍼’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213678",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "전남정보문화산업진흥원, 생성형 AI 기반 콘텐츠 제작 전문인력 본격 양성",
+          "link": "https://www.etnews.com/20260807000034",
+          "category": "기관"
+        }
+      ]
+    }
   }
 }
