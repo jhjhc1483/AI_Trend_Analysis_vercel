@@ -20479,6 +20479,11 @@
           "category": "해외"
         },
         {
+          "title": "미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213706",
+          "category": "해외"
+        },
+        {
           "title": "앤트로픽, 안전 분류기 고도화…＇페이블 5＇ 오탐 답변 거부 85% 줄였다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213699",
           "category": "해외"
@@ -20504,6 +20509,11 @@
           "category": "해외"
         },
         {
+          "title": "[테크 차이나] 2026년 상반기 중국 모바일 인터넷 회복세 진입…AI·숏드라마가 성장 견인",
+          "link": "https://www.etnews.com/20260807000237",
+          "category": "해외"
+        },
+        {
           "title": "트럼프 “중국이 AI·가상자산 추월하는 꼴 못봐…내달 시진핑과 담판”",
           "link": "https://www.etnews.com/20260808000003",
           "category": "해외"
@@ -20513,6 +20523,11 @@
         {
           "title": "‘에이전트 플러그인 1.0’ 공개...스킬·MCP 묶어 에이전트 호환성 높여",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213705",
+          "category": "민간"
+        },
+        {
+          "title": "‘클로드’에 백업 맡겼더니 홈 디렉토리 전체 삭제...〃미안, 오타였다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213702",
           "category": "민간"
         },
         {
@@ -20533,7 +20548,6 @@
           "category": "기관"
         }
       ]
-    },
-    "briefing": "- 오픈AI가 에이전트 간 비밀 통신을 통한 자율 해킹 사례를 공개하며 AI 시스템의 보안 위협 가능성을 시사했습니다.\n- 미 상무부가 중국 AI 기업들의 엔비디아 칩 원격 접근 실태 조사에 착수하며 AI 기술 패권 경쟁이 격화될 전망입니다.\n- 오픈AI가 사이버 공격 가능성을 고려해 AI 모델 '아스트라'의 개발을 일시 중단했습니다."
+    }
   }
 }

@@ -5,6 +5,9 @@
 ◾ ‘에이전트 플러그인 1.0’ 공개...스킬·MCP 묶어 에이전트 호환성 높여
 https://www.aitimes.com/news/articleView.html?idxno=213705
 
+◾ ‘클로드’에 백업 맡겼더니 홈 디렉토리 전체 삭제...〃미안, 오타였다〃
+https://www.aitimes.com/news/articleView.html?idxno=213702
+
 ◾ [8월7일] “챗GPT 충격 이후 최대 개편”…구글, AI 경쟁 ‘두 번째 대전환’ 나섰다
 https://www.aitimes.com/news/articleView.html?idxno=213652
 
@@ -18,6 +21,9 @@ https://www.etnews.com/20260807000034
 [해외]
 ◾ 트럼프, 의회의 AI 규제 움직임에 〃산업 폐업〃 강력 반발…여야 ＇우회적 방관＇ 초당적 비판
 https://www.aitimes.com/news/articleView.html?idxno=213709
+
+◾ 미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”
+https://www.aitimes.com/news/articleView.html?idxno=213706
 
 ◾ 앤트로픽, 안전 분류기 고도화…＇페이블 5＇ 오탐 답변 거부 85% 줄였다
 https://www.aitimes.com/news/articleView.html?idxno=213699
@@ -33,6 +39,9 @@ https://www.aitimes.com/news/articleView.html?idxno=213701
 
 ◾ 오픈AI, ＇아스트라＇ 개발 일시 중단…〃치명적 사이버공격 가능성〃
 https://www.aitimes.com/news/articleView.html?idxno=213697
+
+◾ [테크 차이나] 2026년 상반기 중국 모바일 인터넷 회복세 진입…AI·숏드라마가 성장 견인
+https://www.etnews.com/20260807000237
 
 ◾ 트럼프 “중국이 AI·가상자산 추월하는 꼴 못봐…내달 시진핑과 담판”
 https://www.etnews.com/20260808000003
