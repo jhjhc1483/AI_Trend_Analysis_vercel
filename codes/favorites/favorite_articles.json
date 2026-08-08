@@ -1,102 +1,57 @@
 [
   {
-    "title": "메타가 자체 ＇AI 데이터센터＇를 짓는 이유는?...자체 인프라로 ‘개인용 초지능’ 시대 준비",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41354",
+    "title": "트럼프, 의회의 AI 규제 움직임에 〃산업 폐업〃 강력 반발…여야 ＇우회적 방관＇ 초당적 비판",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213709",
+    "category": "해외"
+  },
+  {
+    "title": "‘에이전트 플러그인 1.0’ 공개...스킬·MCP 묶어 에이전트 호환성 높여",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213705",
     "category": "민간"
   },
   {
-    "title": "앤트로픽, ＇클로드 페이블 5＇ 생물학 안전장치 개선…오탐 85% 줄였다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41348",
+    "title": "앤트로픽, 안전 분류기 고도화…＇페이블 5＇ 오탐 답변 거부 85% 줄였다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213699",
     "category": "해외"
   },
   {
-    "title": "〃인공지능, 태풍 예측 정확도 하루 앞당겼다〃...구글 AI 기상예측 ＇웨더넥스트＇, 모델·코드 전면 오픈소스 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41347",
+    "title": "허깅페이스 CEO 〃중국, 오픈 AI 모델로 올해 미국 첨단 모델 추월할 수도〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213700",
+    "category": "해외"
+  },
+  {
+    "title": "오픈AI, 허깅페이스 자율 해킹 전말 공개…〃에이전트끼리 비밀 소통〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213703",
+    "category": "해외"
+  },
+  {
+    "title": "미 상무부, 중국 AI 기업의 해외 엔비디아 칩 원격 접근 실태 조사 착수",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213701",
+    "category": "해외"
+  },
+  {
+    "title": "오픈AI, ＇아스트라＇ 개발 일시 중단…〃치명적 사이버공격 가능성〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213697",
+    "category": "해외"
+  },
+  {
+    "title": "[8월7일] “챗GPT 충격 이후 최대 개편”…구글, AI 경쟁 ‘두 번째 대전환’ 나섰다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213652",
     "category": "민간"
   },
   {
-    "title": "카카오, 과기정통부 ‘AI 에이전트 마켓플레이스 개발 지원 사업’ 선정...에이전틱 AI 유통 생태계 기반 마련",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41346",
-    "category": "기관"
-  },
-  {
-    "title": "이스트시큐리티-퓨리오사AI, AI 보안 인프라 공동개발… 차세대 AI 보안 플랫폼 구축",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41338",
+    "title": "엔비디아의 자율주행 AI 모델… ‘알파마요 2 슈퍼’",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213678",
     "category": "민간"
   },
   {
-    "title": "“산업 데이터가 LG AI의 경쟁력” ... LG, 산업 특화 AI 파운데이션 모델로 미·중 빅테크 제쳤다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41337",
-    "category": "민간"
-  },
-  {
-    "title": "〃빠르면 빠르게, 느리면 느리게〃…KAIST 최신현 교수팀, ＇눈치 빠른 AI 반도체＇ 구현",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41335",
-    "category": "민간"
-  },
-  {
-    "title": "K-문샷 ‘AI과학자’ 미션 이끌 총괄지휘자(PD) 공모",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187636&searchOpt=ALL&searchTxt=",
+    "title": "전남정보문화산업진흥원, 생성형 AI 기반 콘텐츠 제작 전문인력 본격 양성",
+    "link": "https://www.etnews.com/20260807000034",
     "category": "기관"
   },
   {
-    "title": "AI가 바이러스 유전체 직접 설계…스탠포드, 세계 최초 합성 바이러스 성공",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213666",
+    "title": "트럼프 “중국이 AI·가상자산 추월하는 꼴 못봐…내달 시진핑과 담판”",
+    "link": "https://www.etnews.com/20260808000003",
     "category": "해외"
-  },
-  {
-    "title": "PPT·엑셀도 영상으로...알리바바, 30초 영상 생성 AI ‘완 3.0’ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213660",
-    "category": "해외"
-  },
-  {
-    "title": "딥시크, 유니트리에 300억 투자…＇휴머노이드 AI＇ 공동 개발 협력",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213648",
-    "category": "해외"
-  },
-  {
-    "title": "AMD, AI 모델 회로 직접 구현 스타트업 ＇탈라스＇ 인수…추론 칩 시장 공략",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213674",
-    "category": "해외"
-  },
-  {
-    "title": "중국, 미국 팔로알토 보안 심사 착수...미·중 기술 전쟁 확대",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213679",
-    "category": "해외"
-  },
-  {
-    "title": "MS, 인도 최대 데이터센터 허브 개설…29조 AI 투자 속도",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213680",
-    "category": "해외"
-  },
-  {
-    "title": "[도산아카데미] 김승주 고려대 교수 “AI 해킹은 AI로 막아야…망분리 정책 바꿔야”",
-    "link": "https://www.etnews.com/20260807000331",
-    "category": "기타"
-  },
-  {
-    "title": "[테크 차이나] ＇안경＇이 AI 시대 새 플랫폼으로…선더버드, 메타·샤오미와 차세대 컴퓨팅 경쟁",
-    "link": "https://www.etnews.com/20260806000294",
-    "category": "해외"
-  },
-  {
-    "title": "한국연구재단, 연구관리전문기관 최초 ＇AI 윤리 준수기관＇ 획득",
-    "link": "https://www.etnews.com/20260807000057",
-    "category": "기관"
-  },
-  {
-    "title": "경북도, 한국형 AI 기반 가상공장 플랫폼 개발 착수…내년 에코프로비엠 제조현장에 실증",
-    "link": "https://www.etnews.com/20260807000009",
-    "category": "기관"
-  },
-  {
-    "title": "오픈AI 첫 AI 기기 윤곽…＇도넛 모양＇에 가격은 300~400달러",
-    "link": "https://www.etnews.com/20260807000003",
-    "category": "해외"
-  },
-  {
-    "title": "“포항을 ＇제조 AX＇ 글로벌 거점으로”…포항TP, 한·중 ＇피지컬 AI＇ 글로벌 협력 속도",
-    "link": "https://www.etnews.com/20260806000394",
-    "category": "기관"
   }
 ]
