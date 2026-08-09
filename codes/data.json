@@ -20550,5 +20550,87 @@
       ]
     },
     "briefing": "- 미 상무부가 중국 AI 기업들이 해외 엔비디아 칩에 원격으로 접근하는 실태에 대한 조사에 착수했습니다.\n- 오픈AI가 치명적인 사이버 공격 가능성을 이유로 AI 에이전트 '아스트라'의 개발을 일시 중단했습니다.\n- 미 FCC가 국가 안보를 이유로 중국산 로봇과 인버터 사용을 제한하고 미국 내 생산 확대를 추진하고 있습니다."
+  },
+  "26.08.10": {
+    "categorized": {
+      "육군": [
+        {
+          "title": "육군, AI·로봇 활용 물류 전 과정 자동화시대 연다",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODc5NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군"
+        },
+        {
+          "title": "정예 백두 드론전사 양성 교육장 열었다",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODc5NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군"
+        },
+        {
+          "title": "육군 물류 전 과정 자동화시대, 전투력 아끼고 스마트 더했다",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODc5MyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군"
+        }
+      ],
+      "해외": [
+        {
+          "title": "가트너 〃2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213719",
+          "category": "해외"
+        },
+        {
+          "title": "〃음성 대화하며 문서 분석까지〃...오픈AI, GPT-라이브 기능 대폭 확장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213716",
+          "category": "해외"
+        },
+        {
+          "title": "엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213711",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 챗GPT 무료도 최신 모델 무한 지원…＇아스트라＇ 출시 연기",
+          "link": "https://www.etnews.com/20260809000015",
+          "category": "해외"
+        }
+      ],
+      "기관": [
+        {
+          "title": "경북도, ＇철강산업 AI융합실증허브 구축＇ 사업 선정",
+          "link": "https://www.etnews.com/20260809000090",
+          "category": "기관"
+        },
+        {
+          "title": "대구시, 산업부 ＇제조 AI 데이터 벨류체인 구축사업＇ 착수",
+          "link": "https://www.etnews.com/20260809000089",
+          "category": "기관"
+        },
+        {
+          "title": "김유임 국가아동권리보장원장 “AI·디지털화로 신종 위협서 어린이 지킨다”",
+          "link": "https://www.etnews.com/20260807000201",
+          "category": "기관"
+        },
+        {
+          "title": "독자 AI 모델에 87억 규모 ＇교재＇ 투입…문제·전공책에 강의영상까지",
+          "link": "https://www.etnews.com/20260807000213",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "AI가 수요예측부터 배송까지…롯데마트, ＇제타 스마트센터 부산＇ 가동",
+          "link": "https://www.etnews.com/20260809000038",
+          "category": "민간"
+        },
+        {
+          "title": "LG유플러스-브로드컴, ＇엣지 AI＇ 홈 네트워크 기술 검증",
+          "link": "https://www.etnews.com/20260808000041",
+          "category": "민간"
+        },
+        {
+          "title": "유비온, 전사 AI 전환 추진 ＇AX센터＇ 신설…업무 효율 개선",
+          "link": "https://www.etnews.com/20260809000016",
+          "category": "민간"
+        }
+      ]
+    }
   }
 }

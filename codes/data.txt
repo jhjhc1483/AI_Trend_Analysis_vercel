@@ -1,50 +1,51 @@
-📢26.08.09 AI 일일 동향📢
+📢26.08.10 AI 일일 동향📢
 
 📰 오늘의 기사
+[육군]
+◾ 육군, AI·로봇 활용 물류 전 과정 자동화시대 연다
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODc5NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 정예 백두 드론전사 양성 교육장 열었다
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODc5NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 육군 물류 전 과정 자동화시대, 전투력 아끼고 스마트 더했다
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExODc5MyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
 [민간]
-◾ ‘에이전트 플러그인 1.0’ 공개...스킬·MCP 묶어 에이전트 호환성 높여
-https://www.aitimes.com/news/articleView.html?idxno=213705
+◾ AI가 수요예측부터 배송까지…롯데마트, ＇제타 스마트센터 부산＇ 가동
+https://www.etnews.com/20260809000038
 
-◾ ‘클로드’에 백업 맡겼더니 홈 디렉토리 전체 삭제...〃미안, 오타였다〃
-https://www.aitimes.com/news/articleView.html?idxno=213702
+◾ LG유플러스-브로드컴, ＇엣지 AI＇ 홈 네트워크 기술 검증
+https://www.etnews.com/20260808000041
 
-◾ [8월7일] “챗GPT 충격 이후 최대 개편”…구글, AI 경쟁 ‘두 번째 대전환’ 나섰다
-https://www.aitimes.com/news/articleView.html?idxno=213652
-
-◾ 엔비디아의 자율주행 AI 모델… ‘알파마요 2 슈퍼’
-https://www.aitimes.com/news/articleView.html?idxno=213678
+◾ 유비온, 전사 AI 전환 추진 ＇AX센터＇ 신설…업무 효율 개선
+https://www.etnews.com/20260809000016
 
 [기관]
-◾ 전남정보문화산업진흥원, 생성형 AI 기반 콘텐츠 제작 전문인력 본격 양성
-https://www.etnews.com/20260807000034
+◾ 경북도, ＇철강산업 AI융합실증허브 구축＇ 사업 선정
+https://www.etnews.com/20260809000090
+
+◾ 대구시, 산업부 ＇제조 AI 데이터 벨류체인 구축사업＇ 착수
+https://www.etnews.com/20260809000089
+
+◾ 김유임 국가아동권리보장원장 “AI·디지털화로 신종 위협서 어린이 지킨다”
+https://www.etnews.com/20260807000201
+
+◾ 독자 AI 모델에 87억 규모 ＇교재＇ 투입…문제·전공책에 강의영상까지
+https://www.etnews.com/20260807000213
 
 [해외]
-◾ 트럼프, 의회의 AI 규제 움직임에 〃산업 폐업〃 강력 반발…여야 ＇우회적 방관＇ 초당적 비판
-https://www.aitimes.com/news/articleView.html?idxno=213709
+◾ 가트너 〃2027년 중국 AI 점유율 50%…특정 국가 의존은 치명적 리스크〃
+https://www.aitimes.com/news/articleView.html?idxno=213719
 
-◾ 미 FCC “중국산 로봇·인버터 제한, 미국 생산 확대와 안보 위한 조치”
-https://www.aitimes.com/news/articleView.html?idxno=213706
+◾ 〃음성 대화하며 문서 분석까지〃...오픈AI, GPT-라이브 기능 대폭 확장
+https://www.aitimes.com/news/articleView.html?idxno=213716
 
-◾ 앤트로픽, 안전 분류기 고도화…＇페이블 5＇ 오탐 답변 거부 85% 줄였다
-https://www.aitimes.com/news/articleView.html?idxno=213699
+◾ 엔비디아, 전력 공급사 랜시엄에 최대 4조 투자...AI 전력 확보 총력
+https://www.aitimes.com/news/articleView.html?idxno=213711
 
-◾ 허깅페이스 CEO 〃중국, 오픈 AI 모델로 올해 미국 첨단 모델 추월할 수도〃
-https://www.aitimes.com/news/articleView.html?idxno=213700
-
-◾ 오픈AI, 허깅페이스 자율 해킹 전말 공개…〃에이전트끼리 비밀 소통〃
-https://www.aitimes.com/news/articleView.html?idxno=213703
-
-◾ 미 상무부, 중국 AI 기업의 해외 엔비디아 칩 원격 접근 실태 조사 착수
-https://www.aitimes.com/news/articleView.html?idxno=213701
-
-◾ 오픈AI, ＇아스트라＇ 개발 일시 중단…〃치명적 사이버공격 가능성〃
-https://www.aitimes.com/news/articleView.html?idxno=213697
-
-◾ [테크 차이나] 2026년 상반기 중국 모바일 인터넷 회복세 진입…AI·숏드라마가 성장 견인
-https://www.etnews.com/20260807000237
-
-◾ 트럼프 “중국이 AI·가상자산 추월하는 꼴 못봐…내달 시진핑과 담판”
-https://www.etnews.com/20260808000003
+◾ 오픈AI, 챗GPT 무료도 최신 모델 무한 지원…＇아스트라＇ 출시 연기
+https://www.etnews.com/20260809000015
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
