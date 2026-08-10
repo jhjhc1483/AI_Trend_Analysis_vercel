@@ -20633,5 +20633,204 @@
       ]
     },
     "briefing": "- 육군이 AI와 로봇을 활용한 물류 전 과정 자동화를 통해 전투력 강화와 스마트 국방을 추진합니다.\n- 육군이 정예 백두 드론전사 양성을 위한 전문 교육장을 개설했습니다.\n- 오픈AI가 음성 대화와 문서 분석이 가능한 GPT-라이브 기능을 대폭 확장했습니다."
+  },
+  "26.08.11": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "록히드마틴, AI로 잠수함 탐지하는 ‘휴대형 소나 전문가’ 실증…5분 이내 모델 재학습·공중 OTA 업데이트",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41383",
+          "category": "국방"
+        },
+        {
+          "title": "AI 모델 경량화 플랫폼 ‘클리카’, 싱가포르·프랑스 국방부 주관 글로벌 국방 AI 기술 협력 프로그램 단독 선정",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41367",
+          "category": "국방"
+        },
+        {
+          "title": "동서발전·LOAS, 피지컬 AI 스마트 발전소 실증 협력",
+          "link": "https://www.etnews.com/20260810000339",
+          "category": "국방"
+        }
+      ],
+      "기관": [
+        {
+          "title": "나우로보틱스, 과기정통부 ‘피지컬 AI’ 실증사업 선정…산업용 휴머노이드 개발·실증 본격화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41381",
+          "category": "기관"
+        },
+        {
+          "title": "마음AI, 국민대 ‘KMU AX Innovation Alliance’ 합류…피지컬 AI 생태계 확장 나선다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41370",
+          "category": "기관"
+        },
+        {
+          "title": "서울 AI 허브, AI 혁신거점 양재서 차세대 AI 기업 육성...신규 입주기업 모집",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41368",
+          "category": "기관"
+        },
+        {
+          "title": "K-우주데이터센터에 국산 AI·ICT 활용 추진…우주청, 非우주기업 간담회 개최",
+          "link": "https://www.etnews.com/20260810000172",
+          "category": "기관"
+        },
+        {
+          "title": "“AI 시대 공공보안 해법 찾는다”…서울시, 사이버보안 컨퍼런스 개최",
+          "link": "https://www.etnews.com/20260810000282",
+          "category": "기관"
+        },
+        {
+          "title": "AI가 정수장 돌리고 하천 감시한다…기후부, ＇6대 환경서비스＇ 확산",
+          "link": "https://www.etnews.com/20260810000205",
+          "category": "기관"
+        },
+        {
+          "title": "대전시 “AI 공격, AI로 막는다”…맞춤형 보안 취약점 진단 도구 개발",
+          "link": "https://www.etnews.com/20260810000110",
+          "category": "기관"
+        },
+        {
+          "title": "국립광주과학관, AI 교육 길잡이 ＇AI 셰르파＇ 키운다…초급과정 26~27일 운영",
+          "link": "https://www.etnews.com/20260810000067",
+          "category": "기관"
+        },
+        {
+          "title": "광주시, 3만호 AI도시·30만㎡ 첨단산단 조성 검토",
+          "link": "https://www.etnews.com/20260810000021",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "메타 저커버그 CEO, “초지능은 모두의 것이 돼야”…‘개인용 초지능’ 시대 선언",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41380",
+          "category": "민간"
+        },
+        {
+          "title": "〃AI 취약점 분석, 수 주에서 3분으로〃…탈레스 송민호 이사, 소프트웨어 보호 기술의 방어 효과 실증",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41372",
+          "category": "민간"
+        },
+        {
+          "title": "탈레스, 양자 컴퓨팅 시대 대비 하드웨어 보안 모듈 ‘루나 8’ 출시… PQC 지원 강화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41371",
+          "category": "민간"
+        },
+        {
+          "title": "＇동시 소통＇ AI 에이전트 등장…단일 ＇클로드 오퍼스 4.8＇ 성적 뛰어넘었다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213766",
+          "category": "민간"
+        },
+        {
+          "title": "“AI 3만7000개가 제약회사처럼 협업”…스탠포드, ‘가상 바이오테크’로 신약 자율 설계",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213747",
+          "category": "민간"
+        },
+        {
+          "title": "엔비디아, 전이중 음성 AI에 도구 호출 이식... ＇네모트론랩스 보이스챗 11B＇ 오픈 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213764",
+          "category": "민간"
+        },
+        {
+          "title": "라이너, ＇AI 디비전＇ 신설…AI 에이전트 B2B 사업 본격화",
+          "link": "https://www.etnews.com/20260810000306",
+          "category": "민간"
+        },
+        {
+          "title": "금융권 AI 경쟁, ＇모델＇서 ＇통제권＇으로",
+          "link": "https://www.etnews.com/20260810000318",
+          "category": "민간"
+        },
+        {
+          "title": "[인터뷰] 위장영 한국오라클 부사장 “최대 50% 비용 절감에 풀스택 AI 역량…엔터프라이즈 AI 시장 본격 공략”",
+          "link": "https://www.etnews.com/20260810000278",
+          "category": "민간"
+        },
+        {
+          "title": "[뉴스줌인]토스, 자체 보안체계 확장…＇타이탄＇에서 AI·공급망까지",
+          "link": "https://www.etnews.com/20260810000349",
+          "category": "민간"
+        },
+        {
+          "title": "“기업 AI 확산에 공격 표면 확대…확장 프로그램도 보안 변수”",
+          "link": "https://www.etnews.com/20260810000330",
+          "category": "민간"
+        },
+        {
+          "title": "LS일렉트릭·GS건설, AI 데이터센터 직류 배전 사업 ＇맞손＇",
+          "link": "https://www.etnews.com/20260810000259",
+          "category": "민간"
+        },
+        {
+          "title": "[단독] LG유플러스 익시오, 통화음성원본 제한적 수집…보이스피싱 탐지 고도화 활용",
+          "link": "https://www.etnews.com/20260810000258",
+          "category": "민간"
+        },
+        {
+          "title": "와이즈넛, 공공 AI에이전트 점유율 71.5%…상반기 판매 실적 1위",
+          "link": "https://www.etnews.com/20260810000084",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "에이전트 폭증에 GPU 이어 CPU도 비상...AWS 〃내부 낭비 줄여라〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213735",
+          "category": "해외"
+        },
+        {
+          "title": "리퀴드 AI, 라즈베리 파이서 구동되는 소형 에이전트 모델 ＇LFM2.5-2.6B＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213760",
+          "category": "해외"
+        },
+        {
+          "title": "중국 AI 산업의 새로운 복병...반도체 넘어 ＇중국어 학습 데이터 기근＇ 심화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213730",
+          "category": "해외"
+        },
+        {
+          "title": "미국서 ‘데이터센터 인력’ 급성장...몸값 치솟고 채용 전국 확산",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213745",
+          "category": "해외"
+        },
+        {
+          "title": "지니언스 “北 김수키, 로컬 AI 구축해 사이버 공격 자동화 시도”",
+          "link": "https://www.etnews.com/20260810000303",
+          "category": "해외"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "Market Insight 402 : 엔터프라이즈 에이전틱 AI",
+          "link": "https://astinet.kr/reports/market-insights/750644",
+          "category": "간행물"
+        },
+        {
+          "title": "Market Insight 400 : 머신러닝 운영(MLOps)",
+          "link": "https://astinet.kr/reports/market-insights/750642",
+          "category": "간행물"
+        },
+        {
+          "title": "2026년 유럽 혁신 스코어보드 분석 - European Innovation Scoreboard 2026 - [KISTEP 브리프]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260810-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        },
+        {
+          "title": "[제1302호] 휴머노이드 로봇과 교감/공감 대화를 위한 Affective AI 기술 동향",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1302%ED%98%B8%5D%20%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C%20%EB%A1%9C%EB%B4%87%EA%B3%BC%20%EA%B5%90%EA%B0%90/%EA%B3%B5%EA%B0%90%20%EB%8C%80%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20Affective%20AI%20%EA%B8%B0%EC%88%A0%20%EB%8F%99%ED%96%A5",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 디지털 산업·정책 동향(2026년 7월호)",
+          "link": "https://www.kisa.or.kr/20208/form?postSeq=40&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "정보보호 해외진출 전략거점 월간 주요동향(2026년 7월)",
+          "link": "https://www.kisa.or.kr/20203/form?postSeq=220&page=1",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
