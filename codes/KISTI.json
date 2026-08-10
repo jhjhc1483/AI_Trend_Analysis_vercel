@@ -510,5 +510,29 @@
         "년": "2026",
         "월": "08",
         "일": "03"
+    },
+    {
+        "제목": "Market Insight 402 : 엔터프라이즈 에이전틱 AI",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750644",
+        "년": "2026",
+        "월": "08",
+        "일": "10"
+    },
+    {
+        "제목": "Market Insight 401 : CAR-T 세포 치료제",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750643",
+        "년": "2026",
+        "월": "08",
+        "일": "10"
+    },
+    {
+        "제목": "Market Insight 400 : 머신러닝 운영(MLOps)",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750642",
+        "년": "2026",
+        "월": "08",
+        "일": "10"
     }
 ]
