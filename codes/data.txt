@@ -1,121 +1,147 @@
-📢26.08.11 AI 일일 동향📢
+📢26.08.12 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 록히드마틴, AI로 잠수함 탐지하는 ‘휴대형 소나 전문가’ 실증…5분 이내 모델 재학습·공중 OTA 업데이트
-https://www.aitimes.kr/news/articleView.html?idxno=41383
+◾ 데이터를 전투력으로 바꾸는 군으로 진화
+https://kookbang.dema.mil.kr/newsWeb/20260812/2/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=NL3xweIgHw5mbD5akEOlqkhkfzvYnlSz1OGTteBacys3Qzefsd64!-172114094
 
-◾ AI 모델 경량화 플랫폼 ‘클리카’, 싱가포르·프랑스 국방부 주관 글로벌 국방 AI 기술 협력 프로그램 단독 선정
-https://www.aitimes.kr/news/articleView.html?idxno=41367
+◾ 미토스가 던진 질문…사이버 방어는 얼마나 빨리 바뀌는가
+https://kookbang.dema.mil.kr/newsWeb/20260812/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=NL3xweIgHw5mbD5akEOlqkhkfzvYnlSz1OGTteBacys3Qzefsd64!-172114094
 
-◾ 동서발전·LOAS, 피지컬 AI 스마트 발전소 실증 협력
-https://www.etnews.com/20260810000339
+◾ 충남도, 방산혁신클러스터 본격 시동…논산 ＇AI 국방로봇＇ 전진기지로 뜬다
+https://www.etnews.com/20260811000006
+
+◾ [알림] 국방 AX와 차세대 보안으로 여는 미래 전장
+https://www.etnews.com/20260810000332
 
 [민간]
-◾ 메타 저커버그 CEO, “초지능은 모두의 것이 돼야”…‘개인용 초지능’ 시대 선언
-https://www.aitimes.kr/news/articleView.html?idxno=41380
+◾ EPFL, 암 조직 공간정보 학습하는 AI 모델 개발…‘환자별 치료 반응 예측’ 길 열어
+https://www.aitimes.kr/news/articleView.html?idxno=41397
 
-◾ 〃AI 취약점 분석, 수 주에서 3분으로〃…탈레스 송민호 이사, 소프트웨어 보호 기술의 방어 효과 실증
-https://www.aitimes.kr/news/articleView.html?idxno=41372
+◾ LG전자, 보안 규제 대응 역량 강화해 제품 개발 속도 높인다
+https://www.aitimes.kr/news/articleView.html?idxno=41395
 
-◾ 탈레스, 양자 컴퓨팅 시대 대비 하드웨어 보안 모듈 ‘루나 8’ 출시… PQC 지원 강화
-https://www.aitimes.kr/news/articleView.html?idxno=41371
+◾ KIST-멜버른대-서울대병원, AI로 자폐스펙트럼장애의 객관적 진단·경과 예측 가능성 제시
+https://www.aitimes.kr/news/articleView.html?idxno=41393
 
-◾ ＇동시 소통＇ AI 에이전트 등장…단일 ＇클로드 오퍼스 4.8＇ 성적 뛰어넘었다
-https://www.aitimes.com/news/articleView.html?idxno=213766
+◾ 네이버 D2SF, 피지컬 AI 데이터 스타트업 ‘엔닷라이트’에 후속 투자
+https://www.aitimes.kr/news/articleView.html?idxno=41389
 
-◾ “AI 3만7000개가 제약회사처럼 협업”…스탠포드, ‘가상 바이오테크’로 신약 자율 설계
-https://www.aitimes.com/news/articleView.html?idxno=213747
+◾ “연간 38억 원 절감” ... 한국딥러닝, 대형 보험사에 문서 자동화 솔루션 ‘딥에이전트’ 공급
+https://www.aitimes.kr/news/articleView.html?idxno=41387
 
-◾ 엔비디아, 전이중 음성 AI에 도구 호출 이식... ＇네모트론랩스 보이스챗 11B＇ 오픈 공개
-https://www.aitimes.com/news/articleView.html?idxno=213764
+◾ 당뇨병 환자의 응급실 방문 위험, AI로 미리 예측...예측모델 정확도 87%로 기존 모델(73%)보다 크게 향상
+https://www.aitimes.kr/news/articleView.html?idxno=41384
 
-◾ 라이너, ＇AI 디비전＇ 신설…AI 에이전트 B2B 사업 본격화
-https://www.etnews.com/20260810000306
+◾ 네이버벤처스, 앤트로픽에 간접 투자…‘클로드’ 활용 확대하나
+https://www.aitimes.com/news/articleView.html?idxno=213815
 
-◾ 금융권 AI 경쟁, ＇모델＇서 ＇통제권＇으로
-https://www.etnews.com/20260810000318
+◾ 오라클, ＇데이터 중심＇ 엔터프라이즈 AI 전략 강화…“AI는 데이터 가까이”
+https://www.etnews.com/20260811000350
 
-◾ [인터뷰] 위장영 한국오라클 부사장 “최대 50% 비용 절감에 풀스택 AI 역량…엔터프라이즈 AI 시장 본격 공략”
-https://www.etnews.com/20260810000278
+◾ 보안 특화 AI ＇2파전＇…네이버클라우드-SKT 격돌
+https://www.etnews.com/20260811000261
 
-◾ [뉴스줌인]토스, 자체 보안체계 확장…＇타이탄＇에서 AI·공급망까지
-https://www.etnews.com/20260810000349
+◾ 엔비디아, 월가와 710조원 AI 인프라 자금 조성
+https://www.etnews.com/20260811000259
 
-◾ “기업 AI 확산에 공격 표면 확대…확장 프로그램도 보안 변수”
-https://www.etnews.com/20260810000330
+◾ 삼성전자, 엔비디아 주도 글로벌 AI 보안 연합체 합류
+https://www.etnews.com/20260811000205
 
-◾ LS일렉트릭·GS건설, AI 데이터센터 직류 배전 사업 ＇맞손＇
-https://www.etnews.com/20260810000259
+◾ 원포유, AI 기반 ＇공정 이상탐지·설비 예지보전＇ 통합솔루션 출시
+https://www.etnews.com/20260810000478
 
-◾ [단독] LG유플러스 익시오, 통화음성원본 제한적 수집…보이스피싱 탐지 고도화 활용
-https://www.etnews.com/20260810000258
+◾ 삼성SDS, 국가 AI 연구용 GPU 컴퓨팅 서비스 개시
+https://www.etnews.com/20260811000033
 
-◾ 와이즈넛, 공공 AI에이전트 점유율 71.5%…상반기 판매 실적 1위
-https://www.etnews.com/20260810000084
+◾ 신세계아이앤씨, CU에 AI 셀프 계산 솔루션 적용…리테일 AX 사업 박차
+https://www.etnews.com/20260811000024
+
+◾ 케이웨더-비엔아이엔씨, 세계 최초로 글로벌 ＇날씨 AI팩토리＇ 구축한다
+https://www.etnews.com/20260811000023
 
 [기관]
-◾ 나우로보틱스, 과기정통부 ‘피지컬 AI’ 실증사업 선정…산업용 휴머노이드 개발·실증 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=41381
+◾ 4개 정예팀의 독자 인공지능 기초 모형(AI 파운데이션 모델) 모두,미국 Epoch AI의 주목할만한 인공지능 모델로 등재
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187649&searchOpt=ALL&searchTxt=
 
-◾ 마음AI, 국민대 ‘KMU AX Innovation Alliance’ 합류…피지컬 AI 생태계 확장 나선다
-https://www.aitimes.kr/news/articleView.html?idxno=41370
+◾ 과기정통부, 24시간 멈추지 않는 ‘자율실험실’ 생태계 구축 본격 시동
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187645&searchOpt=ALL&searchTxt=
 
-◾ 서울 AI 허브, AI 혁신거점 양재서 차세대 AI 기업 육성...신규 입주기업 모집
-https://www.aitimes.kr/news/articleView.html?idxno=41368
+◾ 삼성SDS, 국가 AI GPU 컴퓨팅 서비스 개시...국내 학·연 연구자에게 AI 연구용 GPU 지원
+https://www.aitimes.kr/news/articleView.html?idxno=41391
 
-◾ K-우주데이터센터에 국산 AI·ICT 활용 추진…우주청, 非우주기업 간담회 개최
-https://www.etnews.com/20260810000172
+◾ 식품연, ＇지능형 업무 환경＇ 구축 나서...연구·행정 전 분야 AI 역량 내재화
+https://www.etnews.com/20260811000344
 
-◾ “AI 시대 공공보안 해법 찾는다”…서울시, 사이버보안 컨퍼런스 개최
-https://www.etnews.com/20260810000282
+◾ KIST, 국제 공동 연구로 AI 기반 ＇자폐 스펙트럼 장애＇ 진단·경과 예측 프레임워크 개발
+https://www.etnews.com/20260811000342
 
-◾ AI가 정수장 돌리고 하천 감시한다…기후부, ＇6대 환경서비스＇ 확산
-https://www.etnews.com/20260810000205
+◾ KISTI, 한강홍수통제소와 MOU...과학기술로 ＇도시침수예보＇ 고도화
+https://www.etnews.com/20260811000326
 
-◾ 대전시 “AI 공격, AI로 막는다”…맞춤형 보안 취약점 진단 도구 개발
-https://www.etnews.com/20260810000110
+◾ 이용필 신임 KEIT 원장 취임…“제조업 AI 대전환 선도할 것”
+https://www.etnews.com/20260811000173
 
-◾ 국립광주과학관, AI 교육 길잡이 ＇AI 셰르파＇ 키운다…초급과정 26~27일 운영
-https://www.etnews.com/20260810000067
+◾ K-문샷 핵심 기반 ＇자율실험실＇, 산·학·연 생태계가 뒷받침...자율실험실 협의체 출범
+https://www.etnews.com/20260811000160
 
-◾ 광주시, 3만호 AI도시·30만㎡ 첨단산단 조성 검토
-https://www.etnews.com/20260810000021
+◾ AI 시대 기업 성장·일상 편익 증진 ＇AI기본사회＇ 법제화 시동
+https://www.etnews.com/20260811000045
 
 [해외]
-◾ 에이전트 폭증에 GPU 이어 CPU도 비상...AWS 〃내부 낭비 줄여라〃
-https://www.aitimes.com/news/articleView.html?idxno=213735
+◾ 오픈AI, 사이버보안 파트너 프로그램 확대…“최전선 AI 모델을 방어 현장에”
+https://www.aitimes.kr/news/articleView.html?idxno=41398
 
-◾ 리퀴드 AI, 라즈베리 파이서 구동되는 소형 에이전트 모델 ＇LFM2.5-2.6B＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=213760
+◾ 앤트로픽, ＇클로드＇ 생성 콘텐츠에 눈에 안 보이는 ‘투명 워터마크’ 도입
+https://www.aitimes.com/news/articleView.html?idxno=213821
 
-◾ 중국 AI 산업의 새로운 복병...반도체 넘어 ＇중국어 학습 데이터 기근＇ 심화
-https://www.aitimes.com/news/articleView.html?idxno=213730
+◾ 구글 ＇제미나이 3.7 플래시＇ 출시 임박...공식 SDK서 코드 포착
+https://www.aitimes.com/news/articleView.html?idxno=213793
 
-◾ 미국서 ‘데이터센터 인력’ 급성장...몸값 치솟고 채용 전국 확산
-https://www.aitimes.com/news/articleView.html?idxno=213745
+◾ MS, 차세대 AI 칩 ＇마이아 300＇ 9월 공개 예정...TSMC와 30만개 생산 협의
+https://www.aitimes.com/news/articleView.html?idxno=213798
 
-◾ 지니언스 “北 김수키, 로컬 AI 구축해 사이버 공격 자동화 시도”
-https://www.etnews.com/20260810000303
+◾ 〃AI 에이전트 위협 본격화〃…미국 주요 보안주 일제히 급등
+https://www.aitimes.com/news/articleView.html?idxno=213817
 
-📚 간행물
-◾ Market Insight 402 : 엔터프라이즈 에이전틱 AI
-https://astinet.kr/reports/market-insights/750644
+◾ 오픈AI, ＇전력 거래 책임자＇ 채용…AI 데이터센터 에너지 리스크 직접 관리
+https://www.aitimes.com/news/articleView.html?idxno=213813
 
-◾ Market Insight 400 : 머신러닝 운영(MLOps)
-https://astinet.kr/reports/market-insights/750642
+◾ 가트너 〃올해 AI 추론 지출 33조원 돌파 전망...최적화 투자도 증가〃
+https://www.aitimes.com/news/articleView.html?idxno=213820
 
-◾ 2026년 유럽 혁신 스코어보드 분석 - European Innovation Scoreboard 2026 - [KISTEP 브리프]
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260810-000001&cpage=1&rows=10&searchTarget=all
+◾ 미 하원, 오픈AI·앤트로픽 청문회 소환 추진...〃AI 통제 이탈 위험 심각〃
+https://www.aitimes.com/news/articleView.html?idxno=213795
 
-◾ [제1302호] 휴머노이드 로봇과 교감/공감 대화를 위한 Affective AI 기술 동향
-https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1302%ED%98%B8%5D%20%ED%9C%B4%EB%A8%B8%EB%85%B8%EC%9D%B4%EB%93%9C%20%EB%A1%9C%EB%B4%87%EA%B3%BC%20%EA%B5%90%EA%B0%90/%EA%B3%B5%EA%B0%90%20%EB%8C%80%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%20Affective%20AI%20%EA%B8%B0%EC%88%A0%20%EB%8F%99%ED%96%A5
+◾ 앤트로픽, 맥쿼리·GIC와 데이터센터 합작법인 설립...AI 인프라 자본 부담 줄인다
+https://www.aitimes.com/news/articleView.html?idxno=213805
 
-◾ 글로벌 디지털 산업·정책 동향(2026년 7월호)
-https://www.kisa.or.kr/20208/form?postSeq=40&page=1
+◾ 캘리포니아, 미국 최초 ＇AI 사이버 방어 프로그램＇ 도입...핵심 기반 시설 보호 강화
+https://www.aitimes.com/news/articleView.html?idxno=213812
 
-◾ 정보보호 해외진출 전략거점 월간 주요동향(2026년 7월)
-https://www.kisa.or.kr/20203/form?postSeq=220&page=1
+◾ 중국 본토 첫 휴머노이드 로봇 상장...유니트리, 상하이 IPO 청약 경쟁률 8200대 1
+https://www.aitimes.com/news/articleView.html?idxno=213807
+
+◾ 인텔, AI 컴퓨팅 수요 폭발에 21조 유상증자…상장 이래 최대 규모
+https://www.aitimes.com/news/articleView.html?idxno=213806
+
+◾ WIPO “생성형 AI 특허 1위는 소프트뱅크”…中 기업 약진 속 오픈AI는 ＇35건＇
+https://www.etnews.com/20260811000134
+
+◾ 독파모 4개 모델, 美 에포크AI ＇주목할 만한 모델＇ 등재
+https://www.etnews.com/20260811000215
+
+◾ 알리바바, 30초 길이 영상 생성 AI ＇Wan3.0＇ 베타 공개
+https://www.etnews.com/20260811000067
+
+◾ 델, 25일 ＇테크놀로지스 포럼 2026＇ 개최…AI 전략 공개
+https://www.etnews.com/20260811000056
+
+◾ 中 AI 배우 60초 광고료만 5500만원…“사람보다 비싸다”
+https://www.etnews.com/20260810000380
+
+◾ 메타, 개방형 AI 복귀…저커버그 CEO “모든 사람이 통제하게 해야”
+https://www.etnews.com/20260811000004
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
