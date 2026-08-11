@@ -20836,53 +20836,6 @@
   },
   "26.08.12": {
     "categorized": {
-      "기관": [
-        {
-          "title": "4개 정예팀의 독자 인공지능 기초 모형(AI 파운데이션 모델) 모두,미국 Epoch AI의 주목할만한 인공지능 모델로 등재",
-          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187649&searchOpt=ALL&searchTxt=",
-          "category": "기관"
-        },
-        {
-          "title": "과기정통부, 24시간 멈추지 않는 ‘자율실험실’ 생태계 구축 본격 시동",
-          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187645&searchOpt=ALL&searchTxt=",
-          "category": "기관"
-        },
-        {
-          "title": "삼성SDS, 국가 AI GPU 컴퓨팅 서비스 개시...국내 학·연 연구자에게 AI 연구용 GPU 지원",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41391",
-          "category": "기관"
-        },
-        {
-          "title": "식품연, ＇지능형 업무 환경＇ 구축 나서...연구·행정 전 분야 AI 역량 내재화",
-          "link": "https://www.etnews.com/20260811000344",
-          "category": "기관"
-        },
-        {
-          "title": "KIST, 국제 공동 연구로 AI 기반 ＇자폐 스펙트럼 장애＇ 진단·경과 예측 프레임워크 개발",
-          "link": "https://www.etnews.com/20260811000342",
-          "category": "기관"
-        },
-        {
-          "title": "KISTI, 한강홍수통제소와 MOU...과학기술로 ＇도시침수예보＇ 고도화",
-          "link": "https://www.etnews.com/20260811000326",
-          "category": "기관"
-        },
-        {
-          "title": "이용필 신임 KEIT 원장 취임…“제조업 AI 대전환 선도할 것”",
-          "link": "https://www.etnews.com/20260811000173",
-          "category": "기관"
-        },
-        {
-          "title": "K-문샷 핵심 기반 ＇자율실험실＇, 산·학·연 생태계가 뒷받침...자율실험실 협의체 출범",
-          "link": "https://www.etnews.com/20260811000160",
-          "category": "기관"
-        },
-        {
-          "title": "AI 시대 기업 성장·일상 편익 증진 ＇AI기본사회＇ 법제화 시동",
-          "link": "https://www.etnews.com/20260811000045",
-          "category": "기관"
-        }
-      ],
       "해외": [
         {
           "title": "오픈AI, 사이버보안 파트너 프로그램 확대…“최전선 AI 모델을 방어 현장에”",
@@ -20905,18 +20858,8 @@
           "category": "해외"
         },
         {
-          "title": "〃AI 에이전트 위협 본격화〃…미국 주요 보안주 일제히 급등",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213817",
-          "category": "해외"
-        },
-        {
           "title": "오픈AI, ＇전력 거래 책임자＇ 채용…AI 데이터센터 에너지 리스크 직접 관리",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213813",
-          "category": "해외"
-        },
-        {
-          "title": "가트너 〃올해 AI 추론 지출 33조원 돌파 전망...최적화 투자도 증가〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213820",
           "category": "해외"
         },
         {
@@ -20925,28 +20868,18 @@
           "category": "해외"
         },
         {
-          "title": "앤트로픽, 맥쿼리·GIC와 데이터센터 합작법인 설립...AI 인프라 자본 부담 줄인다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213805",
-          "category": "해외"
-        },
-        {
           "title": "캘리포니아, 미국 최초 ＇AI 사이버 방어 프로그램＇ 도입...핵심 기반 시설 보호 강화",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=213812",
           "category": "해외"
         },
         {
-          "title": "중국 본토 첫 휴머노이드 로봇 상장...유니트리, 상하이 IPO 청약 경쟁률 8200대 1",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213807",
+          "title": "엔비디아, 월가와 710조원 AI 인프라 자금 조성",
+          "link": "https://www.etnews.com/20260811000259",
           "category": "해외"
         },
         {
-          "title": "인텔, AI 컴퓨팅 수요 폭발에 21조 유상증자…상장 이래 최대 규모",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213806",
-          "category": "해외"
-        },
-        {
-          "title": "WIPO “생성형 AI 특허 1위는 소프트뱅크”…中 기업 약진 속 오픈AI는 ＇35건＇",
-          "link": "https://www.etnews.com/20260811000134",
+          "title": "가트너 “올해 AI 최적화 IaaS 지출 96% 증가 전망”",
+          "link": "https://www.etnews.com/20260811000221",
           "category": "해외"
         },
         {
@@ -20955,13 +20888,13 @@
           "category": "해외"
         },
         {
-          "title": "알리바바, 30초 길이 영상 생성 AI ＇Wan3.0＇ 베타 공개",
-          "link": "https://www.etnews.com/20260811000067",
+          "title": "WIPO “생성형 AI 특허 1위는 소프트뱅크”…中 기업 약진 속 오픈AI는 ＇35건＇",
+          "link": "https://www.etnews.com/20260811000134",
           "category": "해외"
         },
         {
-          "title": "델, 25일 ＇테크놀로지스 포럼 2026＇ 개최…AI 전략 공개",
-          "link": "https://www.etnews.com/20260811000056",
+          "title": "알리바바, 30초 길이 영상 생성 AI ＇Wan3.0＇ 베타 공개",
+          "link": "https://www.etnews.com/20260811000067",
           "category": "해외"
         },
         {
@@ -20975,81 +20908,51 @@
           "category": "해외"
         }
       ],
-      "민간": [
+      "기관": [
         {
-          "title": "EPFL, 암 조직 공간정보 학습하는 AI 모델 개발…‘환자별 치료 반응 예측’ 길 열어",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41397",
-          "category": "민간"
+          "title": "삼성SDS, 국가 AI GPU 컴퓨팅 서비스 개시...국내 학·연 연구자에게 AI 연구용 GPU 지원",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41391",
+          "category": "기관"
         },
         {
-          "title": "LG전자, 보안 규제 대응 역량 강화해 제품 개발 속도 높인다",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41395",
-          "category": "민간"
+          "title": "4개 정예팀의 독자 인공지능 기초 모형(AI 파운데이션 모델) 모두,미국 Epoch AI의 주목할만한 인공지능 모델로 등재",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187649&searchOpt=ALL&searchTxt=",
+          "category": "기관"
         },
         {
-          "title": "KIST-멜버른대-서울대병원, AI로 자폐스펙트럼장애의 객관적 진단·경과 예측 가능성 제시",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41393",
-          "category": "민간"
+          "title": "과기정통부, 24시간 멈추지 않는 ‘자율실험실’ 생태계 구축 본격 시동",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187645&searchOpt=ALL&searchTxt=",
+          "category": "기관"
         },
         {
-          "title": "네이버 D2SF, 피지컬 AI 데이터 스타트업 ‘엔닷라이트’에 후속 투자",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41389",
-          "category": "민간"
+          "title": "전남광주시 7급 주무관이 직접 AI 프로그램 개발…＇AI 행정혁신 사례＇ 주목",
+          "link": "https://www.etnews.com/20260811000361",
+          "category": "기관"
         },
         {
-          "title": "“연간 38억 원 절감” ... 한국딥러닝, 대형 보험사에 문서 자동화 솔루션 ‘딥에이전트’ 공급",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41387",
-          "category": "민간"
+          "title": "식품연, ＇지능형 업무 환경＇ 구축 나서...연구·행정 전 분야 AI 역량 내재화",
+          "link": "https://www.etnews.com/20260811000344",
+          "category": "기관"
         },
         {
-          "title": "당뇨병 환자의 응급실 방문 위험, AI로 미리 예측...예측모델 정확도 87%로 기존 모델(73%)보다 크게 향상",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41384",
-          "category": "민간"
+          "title": "KISTI, 한강홍수통제소와 MOU...과학기술로 ＇도시침수예보＇ 고도화",
+          "link": "https://www.etnews.com/20260811000326",
+          "category": "기관"
         },
         {
-          "title": "네이버벤처스, 앤트로픽에 간접 투자…‘클로드’ 활용 확대하나",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=213815",
-          "category": "민간"
+          "title": "가온아이, 한국수출입은행 ＇AI 기반 지능형 워크스페이스＇ 구축 사업 수주… 정책금융기관 디지털 혁신 본격화",
+          "link": "https://www.etnews.com/20260811000054",
+          "category": "기관"
         },
         {
-          "title": "오라클, ＇데이터 중심＇ 엔터프라이즈 AI 전략 강화…“AI는 데이터 가까이”",
-          "link": "https://www.etnews.com/20260811000350",
-          "category": "민간"
+          "title": "이용필 신임 KEIT 원장 취임…“제조업 AI 대전환 선도할 것”",
+          "link": "https://www.etnews.com/20260811000173",
+          "category": "기관"
         },
         {
-          "title": "보안 특화 AI ＇2파전＇…네이버클라우드-SKT 격돌",
-          "link": "https://www.etnews.com/20260811000261",
-          "category": "민간"
-        },
-        {
-          "title": "엔비디아, 월가와 710조원 AI 인프라 자금 조성",
-          "link": "https://www.etnews.com/20260811000259",
-          "category": "민간"
-        },
-        {
-          "title": "삼성전자, 엔비디아 주도 글로벌 AI 보안 연합체 합류",
-          "link": "https://www.etnews.com/20260811000205",
-          "category": "민간"
-        },
-        {
-          "title": "원포유, AI 기반 ＇공정 이상탐지·설비 예지보전＇ 통합솔루션 출시",
-          "link": "https://www.etnews.com/20260810000478",
-          "category": "민간"
-        },
-        {
-          "title": "삼성SDS, 국가 AI 연구용 GPU 컴퓨팅 서비스 개시",
-          "link": "https://www.etnews.com/20260811000033",
-          "category": "민간"
-        },
-        {
-          "title": "신세계아이앤씨, CU에 AI 셀프 계산 솔루션 적용…리테일 AX 사업 박차",
-          "link": "https://www.etnews.com/20260811000024",
-          "category": "민간"
-        },
-        {
-          "title": "케이웨더-비엔아이엔씨, 세계 최초로 글로벌 ＇날씨 AI팩토리＇ 구축한다",
-          "link": "https://www.etnews.com/20260811000023",
-          "category": "민간"
+          "title": "AI 시대 기업 성장·일상 편익 증진 ＇AI기본사회＇ 법제화 시동",
+          "link": "https://www.etnews.com/20260811000045",
+          "category": "기관"
         }
       ],
       "국방": [
@@ -21073,8 +20976,91 @@
           "link": "https://www.etnews.com/20260810000332",
           "category": "국방"
         }
+      ],
+      "민간": [
+        {
+          "title": "오라클, ＇데이터 중심＇ 엔터프라이즈 AI 전략 강화…“AI는 데이터 가까이”",
+          "link": "https://www.etnews.com/20260811000350",
+          "category": "민간"
+        },
+        {
+          "title": "보안 특화 AI ＇2파전＇…네이버클라우드-SKT 격돌",
+          "link": "https://www.etnews.com/20260811000261",
+          "category": "민간"
+        },
+        {
+          "title": "모티프, MS 마켓플레이스에서 자체 LLM ＇모티프-2＇ 제공",
+          "link": "https://www.etnews.com/20260811000211",
+          "category": "민간"
+        },
+        {
+          "title": "삼성전자, 엔비디아 주도 글로벌 AI 보안 연합체 합류",
+          "link": "https://www.etnews.com/20260811000205",
+          "category": "민간"
+        },
+        {
+          "title": "이스트시큐리티, ＇알약 에이전틱 EDR＇ 출시…K-엑사원 연동",
+          "link": "https://www.etnews.com/20260811000174",
+          "category": "민간"
+        },
+        {
+          "title": "델, 25일 ＇테크놀로지스 포럼 2026＇ 개최…AI 전략 공개",
+          "link": "https://www.etnews.com/20260811000056",
+          "category": "민간"
+        },
+        {
+          "title": "원포유, AI 기반 ＇공정 이상탐지·설비 예지보전＇ 통합솔루션 출시",
+          "link": "https://www.etnews.com/20260810000478",
+          "category": "민간"
+        },
+        {
+          "title": "삼성SDS, 국가 AI 연구용 GPU 컴퓨팅 서비스 개시",
+          "link": "https://www.etnews.com/20260811000033",
+          "category": "민간"
+        },
+        {
+          "title": "신세계아이앤씨, CU에 AI 셀프 계산 솔루션 적용…리테일 AX 사업 박차",
+          "link": "https://www.etnews.com/20260811000024",
+          "category": "민간"
+        },
+        {
+          "title": "케이웨더-비엔아이엔씨, 세계 최초로 글로벌 ＇날씨 AI팩토리＇ 구축한다",
+          "link": "https://www.etnews.com/20260811000023",
+          "category": "민간"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 8월 1주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=486&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 7월 4주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=485&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 7월 3주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=484&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 7월 2주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=483&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 7월 1주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=482&page=1",
+          "category": "간행물"
+        },
+        {
+          "title": "글로벌 블록체인 기술·정책·산업 동향분석(2026년 6월 4주차)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=481&page=1",
+          "category": "간행물"
+        }
       ]
-    },
-    "briefing": "- 충남도가 논산을 'AI 국방로봇' 전진기지로 육성하기 위해 방산혁신클러스터를 본격적으로 가동합니다.\n- 미국 캘리포니아주가 핵심 기반 시설 보호를 위해 미국 최초로 ‘AI 사이버 방어 프로그램’ 도입을 추진합니다.\n- 오픈AI가 사이버 보안 파트너 프로그램을 확대하며 최전선 방어 현장에 AI 모델을 적용하는 방안을 모색하고 있습니다."
+    }
   }
 }
