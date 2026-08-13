@@ -21355,5 +21355,191 @@
       ]
     },
     "briefing": "- 육군 17보병사단이 인천시와 협력하여 통합 대드론 방호체계를 구체화하고 있습니다.\n- 록히드마틴이 5G망과 AI를 기반으로 드론을 탐지하는 ‘넷센스 서비스형 영공 상황 인지 시스템’ 실증에 나섰습니다.\n- 국방 분야에서 데이터 중심의 C4I 혁신과 AI 기반 국방 AX 및 차세대 보안 도입의 필요성이 강조되고 있습니다."
+  },
+  "26.08.14": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "「2026년 병무청, 방위사업청, 질병관리청 합동  공공데이터·AI 활용 경진대회」 시상식 개최",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58990&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "기관"
+        },
+        {
+          "title": "삼성SDS 브리티웍스, 중앙부처 9곳 도입…정부 AI 행정혁신 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41441",
+          "category": "기관"
+        },
+        {
+          "title": "리벨리온·퓨리오사AI·온택트헬스 등 8개社, 26년 상반기 우수연구개발 혁신제품 지정",
+          "link": "https://www.etnews.com/20260813000116",
+          "category": "기관"
+        },
+        {
+          "title": "대구시-경북대, ＇AIx바이오 혁신연구거점 사업단＇ 출범…AI 신약개발 본격 추진",
+          "link": "https://www.etnews.com/20260813000240",
+          "category": "기관"
+        },
+        {
+          "title": "전주시, AI 신뢰성 기반 ＇피지컬AI 선도도시＇ 도약 본격화",
+          "link": "https://www.etnews.com/20260813000146",
+          "category": "기관"
+        },
+        {
+          "title": "양산부산대병원 ＇수술 보조 피지컬AI＇ 상용화 도전",
+          "link": "https://www.etnews.com/20260813000140",
+          "category": "기관"
+        }
+      ],
+      "민간": [
+        {
+          "title": "로봇이 스스로 판단해 화물 옮긴다… 마음AI, 과기정통부 ‘피지컬 AI’ 상용화 과제",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41437",
+          "category": "민간"
+        },
+        {
+          "title": "마에스트로 포렌식, AI 스마트 안경·생성형 AI 범죄 수사 포렌식 솔루션 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41432",
+          "category": "민간"
+        },
+        {
+          "title": "글로벌 에이전틱 AI 생태계의 중심 ＇MCP 데브 서밋 서울 2026＇ 개막",
+          "link": "https://www.etnews.com/20260813000405",
+          "category": "민간"
+        },
+        {
+          "title": "베스핀글로벌, ＇헬프나우 에이전틱 AI 플랫폼＇ GS인증 1등급 획득",
+          "link": "https://www.etnews.com/20260813000391",
+          "category": "민간"
+        },
+        {
+          "title": "오케스트로, ＇소버린 AI 데이터센터＇ 전략 공개…“AI 주권 확보”",
+          "link": "https://www.etnews.com/20260813000305",
+          "category": "민간"
+        },
+        {
+          "title": "SK에코플랜트, AI DC 사업단 신설…인공지능 인프라 강화",
+          "link": "https://www.etnews.com/20260813000263",
+          "category": "민간"
+        },
+        {
+          "title": "“서울역 가는 택시 불러줘”…서울AI재단, 말로 앱 실행하는 AI 에이전트 출시",
+          "link": "https://www.etnews.com/20260813000103",
+          "category": "민간"
+        },
+        {
+          "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자",
+          "link": "https://www.etnews.com/20260813000055",
+          "category": "민간"
+        },
+        {
+          "title": "페르소나AI, 생성형 AI 분야 권위자 임희석 고려대 교수 CTO 영입",
+          "link": "https://www.etnews.com/20260812000401",
+          "category": "민간"
+        },
+        {
+          "title": "[기획] PoC 넘어 성과로…기업 AX, ＇모델＇보다 ＇운영＇이 중요",
+          "link": "https://www.etnews.com/20260813000016",
+          "category": "민간"
+        },
+        {
+          "title": "한진, 임직원 AI 교육 2300시간 돌파…실무형 역량 강화",
+          "link": "https://www.etnews.com/20260813000009",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI·앤트로픽 암호화 ＇사고 과정＇ 통째 유출...API 설계 허점 파문",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213894",
+          "category": "해외"
+        },
+        {
+          "title": "딥시크, ＇클로드 코드＇ 추격 공식 선언...＇하네스 팀＇ 전면 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213883",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 기업 AI 지출서 앤트로픽에 반격…＇GPT-5.6 솔＇, 페이블 5 제쳤다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213909",
+          "category": "해외"
+        },
+        {
+          "title": "실무 분석 에이전트 벤치마크 ‘AA-애널리스트에이전트’ 공개…＇클로드 오퍼스 5＇ 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213916",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, ‘AI 에이전트 지식 노동’ 전 직군으로 확대…“법무 분야 활용도 대폭 확대”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213920",
+          "category": "해외"
+        },
+        {
+          "title": "중국 관련 해커, 오픈소스 에이전트로 대만 정부 공격...‘자율형 사이버전’ 현실화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213901",
+          "category": "해외"
+        }
+      ],
+      "국방": [
+        {
+          "title": "세종대, 해군과 학·군 교류 협약 체결… 첨단국방과학기술대학원 신설 추진",
+          "link": "https://www.etnews.com/20260813000425",
+          "category": "국방"
+        },
+        {
+          "title": "성균관대-해군사관학교, 교육·연구 분야 교류를 위한 업무 협약 체결",
+          "link": "https://www.etnews.com/20260813000341",
+          "category": "국방"
+        },
+        {
+          "title": "국방AI 리더스 포럼, 제3차 조찬간담회 개최…국방AI 현장 적용·정책 과제 논의",
+          "link": "https://www.etnews.com/20260813000311",
+          "category": "국방"
+        },
+        {
+          "title": "수출입은행, 설립 후 첫 벤처투자조합 출자… 방산·AI 벤처 육성",
+          "link": "https://www.etnews.com/20260813000308",
+          "category": "국방"
+        }
+      ],
+      "기타": [
+        {
+          "title": "한림대와 손잡은 ＇코디세이＇, 산학협력형 AI·SW 인재양성 업무협약 체결",
+          "link": "https://www.etnews.com/20260813000431",
+          "category": "기타"
+        },
+        {
+          "title": "[사설] K자동차, AI모빌리티로 격차 벌려야",
+          "link": "https://www.etnews.com/20260813000354",
+          "category": "기타"
+        },
+        {
+          "title": "[최은수의 AI와 뉴비즈] 〈47〉AI 공장의 불을 켜라… AI 패권의 진짜 전쟁터 ＇전력＇",
+          "link": "https://www.etnews.com/20260813000029",
+          "category": "기타"
+        },
+        {
+          "title": "[김동현의 AI 시대와 한국의 선택] 〈8·끝〉거대한 신기루를 넘어: 대한민국 AX 생존을 위한 최종 방정식",
+          "link": "https://www.etnews.com/20260813000053",
+          "category": "기타"
+        },
+        {
+          "title": "[ET시론]의료 AI, ＇죽음의 계곡＇을 건너는 데이터의 다리",
+          "link": "https://www.etnews.com/20260813000105",
+          "category": "기타"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[AI Policy Insights 2026-4] 글로벌 빅테크 및 프론티어 AI 기업의 투자 동향",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29826&parentSeq=29826",
+          "category": "간행물"
+        },
+        {
+          "title": "AI공격, AI모델규제, 중국 대미 드론 수출통제 [AI·ICT Brief 2026-29호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260813-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
