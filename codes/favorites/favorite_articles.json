@@ -1,5 +1,15 @@
 [
   {
+    "title": "국산 인공지능 반도체 제품 등 우수연구개발 혁신제품 지정을 통한 공공조달 시장진출 기회 열려",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187661&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
+    "title": "배경훈 부총리, 「강원 AX 대전환 착수보고회」 참석",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187659&searchOpt=ALL&searchTxt=",
+    "category": "기관"
+  },
+  {
     "title": "「2026년 병무청, 방위사업청, 질병관리청 합동  공공데이터·AI 활용 경진대회」 시상식 개최",
     "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58990&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
     "category": "기관"
@@ -12,7 +22,7 @@
   {
     "title": "로봇이 스스로 판단해 화물 옮긴다… 마음AI, 과기정통부 ‘피지컬 AI’ 상용화 과제",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41437",
-    "category": "민간"
+    "category": "기관"
   },
   {
     "title": "마에스트로 포렌식, AI 스마트 안경·생성형 AI 범죄 수사 포렌식 솔루션 공개",
@@ -65,11 +75,6 @@
     "category": "국방"
   },
   {
-    "title": "수출입은행, 설립 후 첫 벤처투자조합 출자… 방산·AI 벤처 육성",
-    "link": "https://www.etnews.com/20260813000308",
-    "category": "국방"
-  },
-  {
     "title": "글로벌 에이전틱 AI 생태계의 중심 ＇MCP 데브 서밋 서울 2026＇ 개막",
     "link": "https://www.etnews.com/20260813000405",
     "category": "민간"
@@ -85,13 +90,8 @@
     "category": "민간"
   },
   {
-    "title": "SK에코플랜트, AI DC 사업단 신설…인공지능 인프라 강화",
-    "link": "https://www.etnews.com/20260813000263",
-    "category": "민간"
-  },
-  {
-    "title": "“서울역 가는 택시 불러줘”…서울AI재단, 말로 앱 실행하는 AI 에이전트 출시",
-    "link": "https://www.etnews.com/20260813000103",
+    "title": "브릴스, ＇레고형 로봇 플랫폼＇ 앞세워 피지컬 AI 시장 공략",
+    "link": "https://www.etnews.com/20260813000276",
     "category": "민간"
   },
   {
@@ -100,9 +100,9 @@
     "category": "민간"
   },
   {
-    "title": "페르소나AI, 생성형 AI 분야 권위자 임희석 고려대 교수 CTO 영입",
-    "link": "https://www.etnews.com/20260812000401",
-    "category": "민간"
+    "title": "수출입은행, 설립 후 첫 벤처투자조합 출자… 방산·AI 벤처 육성",
+    "link": "https://www.etnews.com/20260813000308",
+    "category": "기관"
   },
   {
     "title": "리벨리온·퓨리오사AI·온택트헬스 등 8개社, 26년 상반기 우수연구개발 혁신제품 지정",
@@ -112,6 +112,11 @@
   {
     "title": "대구시-경북대, ＇AIx바이오 혁신연구거점 사업단＇ 출범…AI 신약개발 본격 추진",
     "link": "https://www.etnews.com/20260813000240",
+    "category": "기관"
+  },
+  {
+    "title": "산단공, 창립 62주년 맞아 ＇조직 AX＇ 선포… “M.AX 전략 선도”",
+    "link": "https://www.etnews.com/20260813000193",
     "category": "기관"
   },
   {
@@ -125,29 +130,14 @@
     "category": "기관"
   },
   {
-    "title": "한림대와 손잡은 ＇코디세이＇, 산학협력형 AI·SW 인재양성 업무협약 체결",
-    "link": "https://www.etnews.com/20260813000431",
-    "category": "기타"
+    "title": "“서울역 가는 택시 불러줘”…서울AI재단, 말로 앱 실행하는 AI 에이전트 출시",
+    "link": "https://www.etnews.com/20260813000103",
+    "category": "해외"
   },
   {
-    "title": "[사설] K자동차, AI모빌리티로 격차 벌려야",
-    "link": "https://www.etnews.com/20260813000354",
-    "category": "기타"
-  },
-  {
-    "title": "[최은수의 AI와 뉴비즈] 〈47〉AI 공장의 불을 켜라… AI 패권의 진짜 전쟁터 ＇전력＇",
-    "link": "https://www.etnews.com/20260813000029",
-    "category": "기타"
-  },
-  {
-    "title": "[김동현의 AI 시대와 한국의 선택] 〈8·끝〉거대한 신기루를 넘어: 대한민국 AX 생존을 위한 최종 방정식",
-    "link": "https://www.etnews.com/20260813000053",
-    "category": "기타"
-  },
-  {
-    "title": "[ET시론]의료 AI, ＇죽음의 계곡＇을 건너는 데이터의 다리",
-    "link": "https://www.etnews.com/20260813000105",
-    "category": "기타"
+    "title": "기업 AI 사용 격차 8.3배…＇코딩 에이전트＇ 오픈AI 토큰 사용 압도",
+    "link": "https://www.etnews.com/20260813000094",
+    "category": "해외"
   },
   {
     "title": "[기획] PoC 넘어 성과로…기업 AX, ＇모델＇보다 ＇운영＇이 중요",
