@@ -1,106 +1,64 @@
-📢26.08.14 AI 일일 동향📢
+📢26.08.15 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 세종대, 해군과 학·군 교류 협약 체결… 첨단국방과학기술대학원 신설 추진
-https://www.etnews.com/20260813000425
-
-◾ 성균관대-해군사관학교, 교육·연구 분야 교류를 위한 업무 협약 체결
-https://www.etnews.com/20260813000341
-
-◾ 국방AI 리더스 포럼, 제3차 조찬간담회 개최…국방AI 현장 적용·정책 과제 논의
-https://www.etnews.com/20260813000311
+[육군]
+◾ 현대차그룹, 육군·산업통상부와 피지컬 AI 및 첨단기술 활용 확대
+https://www.aitimes.kr/news/articleView.html?idxno=41464
 
 [민간]
-◾ 마에스트로 포렌식, AI 스마트 안경·생성형 AI 범죄 수사 포렌식 솔루션 공개
-https://www.aitimes.kr/news/articleView.html?idxno=41432
+◾ 애플, 휴스턴에 ‘첨단 제조 센터’ 개소…AI·스마트 제조 인력 키운다
+https://www.aitimes.kr/news/articleView.html?idxno=41459
 
-◾ 글로벌 에이전틱 AI 생태계의 중심 ＇MCP 데브 서밋 서울 2026＇ 개막
-https://www.etnews.com/20260813000405
+◾ 스마트시티·공장 야간 순찰 AI 로봇이 뜬다… 마음AI, 도구로보틱스와 MOU
+https://www.aitimes.kr/news/articleView.html?idxno=41457
 
-◾ 베스핀글로벌, ＇헬프나우 에이전틱 AI 플랫폼＇ GS인증 1등급 획득
-https://www.etnews.com/20260813000391
+◾ [AI 이슈] 〃인공지능, 수어를 실시간 텍스트로 바꾼다〃…구글 딥마인드, ‘수어-텍스트(SL2T)’ AI 모델 공개
+https://www.aitimes.kr/news/articleView.html?idxno=41456
 
-◾ 오케스트로, ＇소버린 AI 데이터센터＇ 전략 공개…“AI 주권 확보”
-https://www.etnews.com/20260813000305
+◾ “LG 휴머노이드가 온다”…엔비디아 AI 두뇌 장착하고 내년 1분기 출격
+https://www.aitimes.kr/news/articleView.html?idxno=41455
 
-◾ 브릴스, ＇레고형 로봇 플랫폼＇ 앞세워 피지컬 AI 시장 공략
-https://www.etnews.com/20260813000276
+◾ 딥엑스, 국산 NPU 양산 첫해 글로벌 수주 77건…누적 184억원 돌파
+https://www.aitimes.kr/news/articleView.html?idxno=41452
 
-◾ 네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자
-https://www.etnews.com/20260813000055
+◾ 차세대 AI 모델 ‘제미나이 3.7 플래시’ 공개…구글, 〃에이전트·코딩 성능 대폭 강화〃
+https://www.aitimes.kr/news/articleView.html?idxno=41451
 
-◾ [기획] PoC 넘어 성과로…기업 AX, ＇모델＇보다 ＇운영＇이 중요
-https://www.etnews.com/20260813000016
+◾ 업스테이지, 에이전트 특화 ‘솔라 프로 4’ 공개…글로벌 개발자 플랫폼 한국모델 최초 등재
+https://www.aitimes.kr/news/articleView.html?idxno=41450
 
-◾ 한진, 임직원 AI 교육 2300시간 돌파…실무형 역량 강화
-https://www.etnews.com/20260813000009
+◾ MS, 개인·기업용 코파일럿 통합…‘슈퍼 앱’으로 재탄생
+https://www.aitimes.com/news/articleView.html?idxno=213970
 
 [기관]
-◾ 국산 인공지능 반도체 제품 등 우수연구개발 혁신제품 지정을 통한 공공조달 시장진출 기회 열려
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187661&searchOpt=ALL&searchTxt=
-
-◾ 배경훈 부총리, 「강원 AX 대전환 착수보고회」 참석
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187659&searchOpt=ALL&searchTxt=
-
-◾ 「2026년 병무청, 방위사업청, 질병관리청 합동  공공데이터·AI 활용 경진대회」 시상식 개최
-https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58990&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
-
-◾ 삼성SDS 브리티웍스, 중앙부처 9곳 도입…정부 AI 행정혁신 가속
-https://www.aitimes.kr/news/articleView.html?idxno=41441
-
-◾ 로봇이 스스로 판단해 화물 옮긴다… 마음AI, 과기정통부 ‘피지컬 AI’ 상용화 과제
-https://www.aitimes.kr/news/articleView.html?idxno=41437
-
-◾ 수출입은행, 설립 후 첫 벤처투자조합 출자… 방산·AI 벤처 육성
-https://www.etnews.com/20260813000308
-
-◾ 리벨리온·퓨리오사AI·온택트헬스 등 8개社, 26년 상반기 우수연구개발 혁신제품 지정
-https://www.etnews.com/20260813000116
-
-◾ 대구시-경북대, ＇AIx바이오 혁신연구거점 사업단＇ 출범…AI 신약개발 본격 추진
-https://www.etnews.com/20260813000240
-
-◾ 산단공, 창립 62주년 맞아 ＇조직 AX＇ 선포… “M.AX 전략 선도”
-https://www.etnews.com/20260813000193
-
-◾ 전주시, AI 신뢰성 기반 ＇피지컬AI 선도도시＇ 도약 본격화
-https://www.etnews.com/20260813000146
-
-◾ 양산부산대병원 ＇수술 보조 피지컬AI＇ 상용화 도전
-https://www.etnews.com/20260813000140
+◾ 캐논코리아, 단국대학교·대광HIS와 ‘AI 디지털 제어 자동 주사 시스템’ 개발한다
+https://www.aitimes.kr/news/articleView.html?idxno=41446
 
 [해외]
-◾ 오픈AI·앤트로픽 암호화 ＇사고 과정＇ 통째 유출...API 설계 허점 파문
-https://www.aitimes.com/news/articleView.html?idxno=213894
+◾ 티어포, 일본 JST 차세대 엣지 AI 반도체 R&D 참여…자율주행 AI 칩 설계 오픈소스화
+https://www.aitimes.kr/news/articleView.html?idxno=41460
 
-◾ 딥시크, ＇클로드 코드＇ 추격 공식 선언...＇하네스 팀＇ 전면 공개
-https://www.aitimes.com/news/articleView.html?idxno=213883
+◾ 앤트로픽 〃동일 작업 투입된 에이전트, 상대 방해하고 악성코드 만들어 영역 싸움〃
+https://www.aitimes.com/news/articleView.html?idxno=213964
 
-◾ 오픈AI, 기업 AI 지출서 앤트로픽에 반격…＇GPT-5.6 솔＇, 페이블 5 제쳤다
-https://www.aitimes.com/news/articleView.html?idxno=213909
+◾ 애플, 알리바바 손잡고 ＇중국 전용＇ 자체 AI 모델 개발...독자 생태계 구축 나서
+https://www.aitimes.com/news/articleView.html?idxno=213966
 
-◾ 실무 분석 에이전트 벤치마크 ‘AA-애널리스트에이전트’ 공개…＇클로드 오퍼스 5＇ 1위
-https://www.aitimes.com/news/articleView.html?idxno=213916
+◾ 오픈AI, 14배 빠른 ＇울트라패스트＇ 모드 공개...〃지능과 속도 다 잡았다〃
+https://www.aitimes.com/news/articleView.html?idxno=213946
 
-◾ 오픈AI, ‘AI 에이전트 지식 노동’ 전 직군으로 확대…“법무 분야 활용도 대폭 확대”
-https://www.aitimes.com/news/articleView.html?idxno=213920
+◾ 미 정부, ＇사이버 허가장＇ 발급…민간 기업에 해외 범죄조직 공격 허용
+https://www.aitimes.com/news/articleView.html?idxno=213952
 
-◾ 중국 관련 해커, 오픈소스 에이전트로 대만 정부 공격...‘자율형 사이버전’ 현실화
-https://www.aitimes.com/news/articleView.html?idxno=213901
-
-◾ “서울역 가는 택시 불러줘”…서울AI재단, 말로 앱 실행하는 AI 에이전트 출시
-https://www.etnews.com/20260813000103
-
-◾ 기업 AI 사용 격차 8.3배…＇코딩 에이전트＇ 오픈AI 토큰 사용 압도
-https://www.etnews.com/20260813000094
+◾ 앤트로픽, 데카르트 AI 8조 규모 인수 추진…＇클로드＇ 인프라 강화
+https://www.aitimes.com/news/articleView.html?idxno=213949
 
 📚 간행물
-◾ [AI Policy Insights 2026-4] 글로벌 빅테크 및 프론티어 AI 기업의 투자 동향
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29826&parentSeq=29826
+◾ 과학기술인력 공급경로 변화요인 진단과 유효공급 규모 추정
+https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=376&cateCont=A0501&cbIdx=0&searchKey=
 
-◾ AI공격, AI모델규제, 중국 대미 드론 수출통제 [AI·ICT Brief 2026-29호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260813-000001&cpage=1&rows=10&searchTarget=all
+◾ GPU 확보를 넘어 운영으로: 국가 AI 연구인프라의 코로케이션 기반 운영기준 수립 방향
+https://www.kisti.re.kr/post/policy-report/7078
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

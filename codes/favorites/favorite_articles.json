@@ -1,152 +1,82 @@
 [
   {
-    "title": "국산 인공지능 반도체 제품 등 우수연구개발 혁신제품 지정을 통한 공공조달 시장진출 기회 열려",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187661&searchOpt=ALL&searchTxt=",
-    "category": "기관"
+    "title": "현대차그룹, 육군·산업통상부와 피지컬 AI 및 첨단기술 활용 확대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41464",
+    "category": "육군"
   },
   {
-    "title": "배경훈 부총리, 「강원 AX 대전환 착수보고회」 참석",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187659&searchOpt=ALL&searchTxt=",
-    "category": "기관"
-  },
-  {
-    "title": "「2026년 병무청, 방위사업청, 질병관리청 합동  공공데이터·AI 활용 경진대회」 시상식 개최",
-    "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=58990&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
-    "category": "기관"
-  },
-  {
-    "title": "삼성SDS 브리티웍스, 중앙부처 9곳 도입…정부 AI 행정혁신 가속",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41441",
-    "category": "기관"
-  },
-  {
-    "title": "로봇이 스스로 판단해 화물 옮긴다… 마음AI, 과기정통부 ‘피지컬 AI’ 상용화 과제",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41437",
-    "category": "기관"
-  },
-  {
-    "title": "마에스트로 포렌식, AI 스마트 안경·생성형 AI 범죄 수사 포렌식 솔루션 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41432",
-    "category": "민간"
-  },
-  {
-    "title": "오픈AI·앤트로픽 암호화 ＇사고 과정＇ 통째 유출...API 설계 허점 파문",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213894",
+    "title": "티어포, 일본 JST 차세대 엣지 AI 반도체 R&D 참여…자율주행 AI 칩 설계 오픈소스화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41460",
     "category": "해외"
   },
   {
-    "title": "딥시크, ＇클로드 코드＇ 추격 공식 선언...＇하네스 팀＇ 전면 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213883",
-    "category": "해외"
-  },
-  {
-    "title": "오픈AI, 기업 AI 지출서 앤트로픽에 반격…＇GPT-5.6 솔＇, 페이블 5 제쳤다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213909",
-    "category": "해외"
-  },
-  {
-    "title": "실무 분석 에이전트 벤치마크 ‘AA-애널리스트에이전트’ 공개…＇클로드 오퍼스 5＇ 1위",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213916",
-    "category": "해외"
-  },
-  {
-    "title": "오픈AI, ‘AI 에이전트 지식 노동’ 전 직군으로 확대…“법무 분야 활용도 대폭 확대”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213920",
-    "category": "해외"
-  },
-  {
-    "title": "중국 관련 해커, 오픈소스 에이전트로 대만 정부 공격...‘자율형 사이버전’ 현실화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213901",
-    "category": "해외"
-  },
-  {
-    "title": "세종대, 해군과 학·군 교류 협약 체결… 첨단국방과학기술대학원 신설 추진",
-    "link": "https://www.etnews.com/20260813000425",
-    "category": "국방"
-  },
-  {
-    "title": "성균관대-해군사관학교, 교육·연구 분야 교류를 위한 업무 협약 체결",
-    "link": "https://www.etnews.com/20260813000341",
-    "category": "국방"
-  },
-  {
-    "title": "국방AI 리더스 포럼, 제3차 조찬간담회 개최…국방AI 현장 적용·정책 과제 논의",
-    "link": "https://www.etnews.com/20260813000311",
-    "category": "국방"
-  },
-  {
-    "title": "글로벌 에이전틱 AI 생태계의 중심 ＇MCP 데브 서밋 서울 2026＇ 개막",
-    "link": "https://www.etnews.com/20260813000405",
+    "title": "애플, 휴스턴에 ‘첨단 제조 센터’ 개소…AI·스마트 제조 인력 키운다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41459",
     "category": "민간"
   },
   {
-    "title": "베스핀글로벌, ＇헬프나우 에이전틱 AI 플랫폼＇ GS인증 1등급 획득",
-    "link": "https://www.etnews.com/20260813000391",
+    "title": "스마트시티·공장 야간 순찰 AI 로봇이 뜬다… 마음AI, 도구로보틱스와 MOU",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41457",
     "category": "민간"
   },
   {
-    "title": "오케스트로, ＇소버린 AI 데이터센터＇ 전략 공개…“AI 주권 확보”",
-    "link": "https://www.etnews.com/20260813000305",
+    "title": "[AI 이슈] 〃인공지능, 수어를 실시간 텍스트로 바꾼다〃…구글 딥마인드, ‘수어-텍스트(SL2T)’ AI 모델 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41456",
     "category": "민간"
   },
   {
-    "title": "브릴스, ＇레고형 로봇 플랫폼＇ 앞세워 피지컬 AI 시장 공략",
-    "link": "https://www.etnews.com/20260813000276",
+    "title": "“LG 휴머노이드가 온다”…엔비디아 AI 두뇌 장착하고 내년 1분기 출격",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41455",
     "category": "민간"
   },
   {
-    "title": "네이버, 해상 AI 데이터센터 스타트업 판탈라사 투자",
-    "link": "https://www.etnews.com/20260813000055",
+    "title": "딥엑스, 국산 NPU 양산 첫해 글로벌 수주 77건…누적 184억원 돌파",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41452",
     "category": "민간"
   },
   {
-    "title": "수출입은행, 설립 후 첫 벤처투자조합 출자… 방산·AI 벤처 육성",
-    "link": "https://www.etnews.com/20260813000308",
+    "title": "차세대 AI 모델 ‘제미나이 3.7 플래시’ 공개…구글, 〃에이전트·코딩 성능 대폭 강화〃",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41451",
+    "category": "민간"
+  },
+  {
+    "title": "업스테이지, 에이전트 특화 ‘솔라 프로 4’ 공개…글로벌 개발자 플랫폼 한국모델 최초 등재",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41450",
+    "category": "민간"
+  },
+  {
+    "title": "캐논코리아, 단국대학교·대광HIS와 ‘AI 디지털 제어 자동 주사 시스템’ 개발한다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41446",
     "category": "기관"
   },
   {
-    "title": "리벨리온·퓨리오사AI·온택트헬스 등 8개社, 26년 상반기 우수연구개발 혁신제품 지정",
-    "link": "https://www.etnews.com/20260813000116",
-    "category": "기관"
-  },
-  {
-    "title": "대구시-경북대, ＇AIx바이오 혁신연구거점 사업단＇ 출범…AI 신약개발 본격 추진",
-    "link": "https://www.etnews.com/20260813000240",
-    "category": "기관"
-  },
-  {
-    "title": "산단공, 창립 62주년 맞아 ＇조직 AX＇ 선포… “M.AX 전략 선도”",
-    "link": "https://www.etnews.com/20260813000193",
-    "category": "기관"
-  },
-  {
-    "title": "전주시, AI 신뢰성 기반 ＇피지컬AI 선도도시＇ 도약 본격화",
-    "link": "https://www.etnews.com/20260813000146",
-    "category": "기관"
-  },
-  {
-    "title": "양산부산대병원 ＇수술 보조 피지컬AI＇ 상용화 도전",
-    "link": "https://www.etnews.com/20260813000140",
-    "category": "기관"
-  },
-  {
-    "title": "“서울역 가는 택시 불러줘”…서울AI재단, 말로 앱 실행하는 AI 에이전트 출시",
-    "link": "https://www.etnews.com/20260813000103",
+    "title": "앤트로픽 〃동일 작업 투입된 에이전트, 상대 방해하고 악성코드 만들어 영역 싸움〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213964",
     "category": "해외"
   },
   {
-    "title": "기업 AI 사용 격차 8.3배…＇코딩 에이전트＇ 오픈AI 토큰 사용 압도",
-    "link": "https://www.etnews.com/20260813000094",
+    "title": "MS, 개인·기업용 코파일럿 통합…‘슈퍼 앱’으로 재탄생",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213970",
+    "category": "민간"
+  },
+  {
+    "title": "애플, 알리바바 손잡고 ＇중국 전용＇ 자체 AI 모델 개발...독자 생태계 구축 나서",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213966",
     "category": "해외"
   },
   {
-    "title": "[기획] PoC 넘어 성과로…기업 AX, ＇모델＇보다 ＇운영＇이 중요",
-    "link": "https://www.etnews.com/20260813000016",
-    "category": "민간"
+    "title": "오픈AI, 14배 빠른 ＇울트라패스트＇ 모드 공개...〃지능과 속도 다 잡았다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213946",
+    "category": "해외"
   },
   {
-    "title": "한진, 임직원 AI 교육 2300시간 돌파…실무형 역량 강화",
-    "link": "https://www.etnews.com/20260813000009",
-    "category": "민간"
+    "title": "미 정부, ＇사이버 허가장＇ 발급…민간 기업에 해외 범죄조직 공격 허용",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213952",
+    "category": "해외"
+  },
+  {
+    "title": "앤트로픽, 데카르트 AI 8조 규모 인수 추진…＇클로드＇ 인프라 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213949",
+    "category": "해외"
   }
 ]

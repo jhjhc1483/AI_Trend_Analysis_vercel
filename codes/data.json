@@ -21530,5 +21530,109 @@
       ]
     },
     "briefing": "- 국방AI 리더스 포럼에서 국방 현장에 AI를 적용하기 위한 정책 과제와 실질적인 운용 방안이 논의되었습니다.\n- 중국 관련 해커가 오픈소스 에이전트를 활용해 정부 기관을 공격하는 등 자율형 사이버전의 현실화가 경고되었습니다.\n- 수출입은행이 설립 이후 처음으로 방산 및 AI 분야 벤처기업 육성을 위한 투자를 진행합니다."
+  },
+  "26.08.15": {
+    "categorized": {
+      "육군": [
+        {
+          "title": "현대차그룹, 육군·산업통상부와 피지컬 AI 및 첨단기술 활용 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41464",
+          "category": "육군"
+        }
+      ],
+      "해외": [
+        {
+          "title": "티어포, 일본 JST 차세대 엣지 AI 반도체 R&D 참여…자율주행 AI 칩 설계 오픈소스화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41460",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽 〃동일 작업 투입된 에이전트, 상대 방해하고 악성코드 만들어 영역 싸움〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213964",
+          "category": "해외"
+        },
+        {
+          "title": "애플, 알리바바 손잡고 ＇중국 전용＇ 자체 AI 모델 개발...독자 생태계 구축 나서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213966",
+          "category": "해외"
+        },
+        {
+          "title": "오픈AI, 14배 빠른 ＇울트라패스트＇ 모드 공개...〃지능과 속도 다 잡았다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213946",
+          "category": "해외"
+        },
+        {
+          "title": "미 정부, ＇사이버 허가장＇ 발급…민간 기업에 해외 범죄조직 공격 허용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213952",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, 데카르트 AI 8조 규모 인수 추진…＇클로드＇ 인프라 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213949",
+          "category": "해외"
+        }
+      ],
+      "민간": [
+        {
+          "title": "애플, 휴스턴에 ‘첨단 제조 센터’ 개소…AI·스마트 제조 인력 키운다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41459",
+          "category": "민간"
+        },
+        {
+          "title": "스마트시티·공장 야간 순찰 AI 로봇이 뜬다… 마음AI, 도구로보틱스와 MOU",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41457",
+          "category": "민간"
+        },
+        {
+          "title": "[AI 이슈] 〃인공지능, 수어를 실시간 텍스트로 바꾼다〃…구글 딥마인드, ‘수어-텍스트(SL2T)’ AI 모델 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41456",
+          "category": "민간"
+        },
+        {
+          "title": "“LG 휴머노이드가 온다”…엔비디아 AI 두뇌 장착하고 내년 1분기 출격",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41455",
+          "category": "민간"
+        },
+        {
+          "title": "딥엑스, 국산 NPU 양산 첫해 글로벌 수주 77건…누적 184억원 돌파",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41452",
+          "category": "민간"
+        },
+        {
+          "title": "차세대 AI 모델 ‘제미나이 3.7 플래시’ 공개…구글, 〃에이전트·코딩 성능 대폭 강화〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41451",
+          "category": "민간"
+        },
+        {
+          "title": "업스테이지, 에이전트 특화 ‘솔라 프로 4’ 공개…글로벌 개발자 플랫폼 한국모델 최초 등재",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41450",
+          "category": "민간"
+        },
+        {
+          "title": "MS, 개인·기업용 코파일럿 통합…‘슈퍼 앱’으로 재탄생",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213970",
+          "category": "민간"
+        }
+      ],
+      "기관": [
+        {
+          "title": "캐논코리아, 단국대학교·대광HIS와 ‘AI 디지털 제어 자동 주사 시스템’ 개발한다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41446",
+          "category": "기관"
+        }
+      ],
+      "간행물": [
+        {
+          "title": "과학기술인력 공급경로 변화요인 진단과 유효공급 규모 추정",
+          "link": "https://www.stepi.re.kr/site/stepiko/report/View.do?pageIndex=1&cateTypeCd=STEPI_REPORT&tgtTypeCd=ALL&searchType=&reIdx=376&cateCont=A0501&cbIdx=0&searchKey=",
+          "category": "간행물"
+        },
+        {
+          "title": "GPU 확보를 넘어 운영으로: 국가 AI 연구인프라의 코로케이션 기반 운영기준 수립 방향",
+          "link": "https://www.kisti.re.kr/post/policy-report/7078",
+          "category": "간행물"
+        }
+      ]
+    }
   }
 }
