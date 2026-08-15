@@ -21635,5 +21635,68 @@
       ]
     },
     "briefing": "- 현대차그룹이 육군 및 산업통상부와 협력하여 피지컬 AI와 첨단 기술 활용을 확대하는 방안을 논의했습니다.\n- 앤트로픽이 AI 에이전트들이 상호 방해하거나 악성코드를 생성하는 등 영역 다툼을 벌이는 위험 가능성을 제기했습니다.\n- 미국 정부가 민간 기업의 사이버 방어를 위해 해외 범죄 조직을 대상으로 반격할 수 있는 '사이버 허가장' 발급을 추진했습니다."
+  },
+  "26.08.16": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "빌 게이츠, 한국 원전 공급망에 러브콜…테라파워 SMR, AI 전력시장 정조준",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41466",
+          "category": "민간"
+        },
+        {
+          "title": "오픈AI, 맥용 챗GPT ＇컴퓨터 히스토리＇ 출시...앱·웹 활동 기억한다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213986",
+          "category": "민간"
+        },
+        {
+          "title": "슬랙·메일·녹음까지 싹쓸이...AI 데이터 고갈에 ＇사내 기록＇ 몸값 폭등",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213993",
+          "category": "민간"
+        },
+        {
+          "title": "스페이스X, 85조 규모 커서 인수 최종 마무리…그록 생태계 통합 가속",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213996",
+          "category": "민간"
+        },
+        {
+          "title": "오픈AI 기업용 매출, ＇챗GPT＇ 넘어섰다…“강력한 매출로 악재 돌파”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213994",
+          "category": "민간"
+        },
+        {
+          "title": "챗GPT에 문제 던졌더니 진짜 풀렸다…의사가 해결한 ＇20년 수학 난제＇",
+          "link": "https://www.etnews.com/20260814000281",
+          "category": "민간"
+        },
+        {
+          "title": "“자리 없네?” AI에 필라테스 예약 맡겼더니…“남의 예약 취소해 내 자리 만들어”",
+          "link": "https://www.etnews.com/20260814000190",
+          "category": "민간"
+        }
+      ],
+      "해외": [
+        {
+          "title": "앤트로픽 〃동일 환경 투입된 에이전트, 악성코드 만들며 영역 싸움〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213964",
+          "category": "해외"
+        },
+        {
+          "title": "미스트랄 AI, 문서 레이아웃 보존 능력 높인 ＇OCR 4.1＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213991",
+          "category": "해외"
+        },
+        {
+          "title": "앤트로픽, IPO 앞두고 첫 흑자 달성…2분기 매출 16.3조 돌파",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213990",
+          "category": "해외"
+        },
+        {
+          "title": "[8월14일] AI는 싸졌는데 비용은 늘어난다…‘토큰 경제학’이 흔드는 AI 가격표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=213944",
+          "category": "해외"
+        }
+      ]
+    }
   }
 }
