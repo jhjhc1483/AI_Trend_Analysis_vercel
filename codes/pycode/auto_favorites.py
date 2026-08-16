@@ -116,10 +116,15 @@ For each selected article, you must assign one of the following categories:
 - 해외 (Overseas): AI-related trends in foreign countries, companies, and technologies (Limit to 5-7 most important articles).
 - 기타 (Other): Anything else.
 
+Additionally, for each selected article, assign an importance score from 1 to 5:
+- 5 (Must-Read): Critical breaking news or major policy changes directly related to defense AI
+- 4 (Notable): Important industry developments or significant government announcements
+- 3 (Interesting): Relevant updates worthy of attention
+
 The response format must be a valid JSON array. Return only pure JSON without markdown or code blocks.
 Format:
 [
-  { "index": 0, "category": "국방" },
+  { "index": 0, "category": "국방", "score": 5 },
   ...
 ]
 """
@@ -159,10 +164,15 @@ Selection Criteria:
 
 Categorize all selected items as '간행물'.
 
+Additionally, for each selected publication, assign an importance score from 1 to 5:
+- 5: Critical defense or AI technology report
+- 4: Important policy or technology trend report
+- 3: General interest report
+
 The response format must be a valid JSON array. Return only pure JSON without markdown or code blocks.
 Format:
 [
-  { "index": 0, "category": "간행물" },
+  { "index": 0, "category": "간행물", "score": 4 },
   ...
 ]
 """
@@ -201,10 +211,16 @@ Format:
                     
                     if idx is not None and 0 <= idx < len(batch_items):
                         original = batch_items[idx]
+                        score = selection.get('score', 3)
+                        try:
+                            score = min(max(int(score), 1), 5)
+                        except (ValueError, TypeError):
+                            score = 3
                         all_results.append({
                             'title': original['title'],
                             'link': original['link'],
-                            'category': cat
+                            'category': cat,
+                            'score': score
                         })
                 break  # 성공 시 재시도 루프 탈출
             except Exception as e:

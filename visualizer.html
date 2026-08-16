@@ -4,538 +4,707 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>📰오늘의 AI 동향 브리핑이 도착했어요</title>
-    <!-- Modern Fonts -->
-    <link
-        href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700&family=Noto+Sans+KR:wght@300;400;500;700&display=swap"
-        rel="stylesheet">
+    <title>📰 AI Trend Intelligence | 인공지능 동향 분석</title>
+    <meta name="description" content="매일 업데이트되는 AI 동향 분석 인텔리전스 대시보드. 키워드 트렌드, 카테고리 분석, AI 중요도 스코어링을 한눈에.">
+
+    <!-- Fonts -->
+    <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;600;700;800&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
+
+    <!-- Chart.js -->
+    <script src="https://cdn.jsdelivr.net/npm/chart.js@4.4.7/dist/chart.umd.min.js"></script>
+    <!-- WordCloud2 -->
+    <script src="https://cdn.jsdelivr.net/npm/wordcloud@1.2.2/src/wordcloud2.min.js"></script>
+
     <style>
+        /* ===== CSS Variables (Light Mode Default) ===== */
         :root {
-            --bg-color: #f8faf9;
-            --brand-color: #2c5234;
-            /* Dark Teal/Green */
-            --accent-color: #4ade80;
-            /* Light Green */
-            --text-main: #333333;
-            --text-sub: #666666;
-            --card-bg: #ffffff;
-            --section-bg: #f1f5f3;
-            --item-bg: #eff4f1;
-            --shadow: 0 4px 20px rgba(0, 0, 0, 0.05);
-            --transition: all 0.3s ease;
+            --bg-primary: #f0f5f3;
+            --bg-secondary: #e8ede9;
+            --bg-card: rgba(255, 255, 255, 0.72);
+            --bg-card-solid: #ffffff;
+            --bg-card-hover: rgba(255, 255, 255, 0.9);
+            --bg-input: rgba(255, 255, 255, 0.8);
+            --text-primary: #1a2332;
+            --text-secondary: #64748b;
+            --text-tertiary: #94a3b8;
+            --accent: #10b981;
+            --accent-light: #d1fae5;
+            --accent-dark: #065f46;
+            --border: rgba(0, 0, 0, 0.06);
+            --border-strong: rgba(0, 0, 0, 0.1);
+            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.04);
+            --shadow-md: 0 8px 32px rgba(0, 0, 0, 0.06);
+            --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.08);
+            --gradient-header: linear-gradient(135deg, #0f766e 0%, #065f46 100%);
+            --gradient-accent: linear-gradient(135deg, #10b981, #06b6d4);
+            --blur: 20px;
+            --radius-sm: 8px;
+            --radius-md: 14px;
+            --radius-lg: 20px;
+            --radius-xl: 28px;
+            --transition: all 0.3s cubic-bezier(0.4, 0, 0.2, 1);
         }
 
+        /* ===== Dark Mode ===== */
+        [data-theme="dark"] {
+            --bg-primary: #0c1222;
+            --bg-secondary: #131b2e;
+            --bg-card: rgba(20, 30, 52, 0.65);
+            --bg-card-solid: #1a2540;
+            --bg-card-hover: rgba(30, 45, 70, 0.8);
+            --bg-input: rgba(20, 30, 52, 0.8);
+            --text-primary: #e2e8f0;
+            --text-secondary: #94a3b8;
+            --text-tertiary: #64748b;
+            --accent: #34d399;
+            --accent-light: #064e3b;
+            --accent-dark: #a7f3d0;
+            --border: rgba(255, 255, 255, 0.06);
+            --border-strong: rgba(255, 255, 255, 0.1);
+            --shadow-sm: 0 2px 8px rgba(0, 0, 0, 0.2);
+            --shadow-md: 0 8px 32px rgba(0, 0, 0, 0.3);
+            --shadow-lg: 0 16px 48px rgba(0, 0, 0, 0.4);
+            --gradient-header: linear-gradient(135deg, #134e4a 0%, #064e3b 100%);
+        }
+
+        /* ===== Base ===== */
+        * { margin: 0; padding: 0; box-sizing: border-box; }
+
         body {
-            font-family: 'Noto Sans KR', 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
-            background-color: var(--bg-color);
-            color: var(--text-main);
-            margin: 0;
-            padding: 24px 8px;
+            font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, sans-serif;
+            background-color: var(--bg-primary);
+            color: var(--text-primary);
+            padding: 24px 12px;
             display: flex;
             flex-direction: column;
             align-items: center;
+            min-height: 100vh;
+            transition: background-color 0.4s ease, color 0.4s ease;
         }
 
         .container {
             width: 100%;
-            max-width: 640px;
-            padding: 0;
-            animation: fadeIn 0.8s ease-out;
+            max-width: 680px;
+            animation: fadeInUp 0.6s ease-out;
         }
 
-        @keyframes fadeIn {
-            from {
-                opacity: 0;
-                transform: translateY(20px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
+        @keyframes fadeInUp {
+            from { opacity: 0; transform: translateY(24px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
-        /* Header Styles */
+        /* ===== Glass Card ===== */
+        .glass-card {
+            background: var(--bg-card);
+            backdrop-filter: blur(var(--blur));
+            -webkit-backdrop-filter: blur(var(--blur));
+            border: 1px solid var(--border);
+            border-radius: var(--radius-lg);
+            box-shadow: var(--shadow-md);
+            transition: var(--transition);
+        }
+
+        .glass-card:hover {
+            box-shadow: var(--shadow-lg);
+        }
+
+        /* ===== Header ===== */
         header {
             text-align: center;
-            margin-bottom: 40px;
+            margin-bottom: 24px;
+        }
+
+        .header-top {
+            display: flex;
+            justify-content: space-between;
+            align-items: center;
+            margin-bottom: 16px;
         }
 
         .logo-container {
             display: flex;
-            justify-content: center;
             align-items: center;
-            gap: 12px;
-            margin-bottom: 10px;
+            gap: 10px;
         }
 
-        .logo-icon {
-            font-size: 1.5rem;
-        }
+        .logo-icon { font-size: 1.4rem; }
 
         h1.brand {
             font-family: 'Outfit', sans-serif;
-            font-size: 2.2rem;
-            font-weight: 700;
-            color: var(--brand-color);
-            margin: 0;
+            font-size: 1.8rem;
+            font-weight: 800;
+            background: var(--gradient-accent);
+            -webkit-background-clip: text;
+            -webkit-text-fill-color: transparent;
+            background-clip: text;
             letter-spacing: -1px;
         }
 
-        .subtitle {
-            font-size: 1.1rem;
-            color: var(--text-sub);
-            font-weight: 500;
-            margin-bottom: 30px;
-        }
-
-        .date-box {
-            display: inline-block;
-            background-color: transparent;
-            border: 2px solid #e2e8f0;
-            padding: 10px 25px;
-            border-radius: 10px;
-            font-size: 1.1rem;
-            font-weight: 700;
-            color: var(--brand-color);
-            margin-bottom: 0;
-            grid-column: 2;
-            /* Ensure it stays in the middle column */
-        }
-
-        .btn-input {
-            background-color: #f3f4f6;
-            border: 1px solid #e5e7eb;
-            padding: 8px 20px;
-            border-radius: 8px;
-            color: #6b7280;
-            font-size: 0.9rem;
+        .theme-toggle {
+            width: 44px;
+            height: 44px;
+            border-radius: 50%;
+            border: 1px solid var(--border-strong);
+            background: var(--bg-card);
+            backdrop-filter: blur(10px);
             cursor: pointer;
+            font-size: 1.2rem;
+            display: flex;
+            align-items: center;
+            justify-content: center;
             transition: var(--transition);
         }
 
-        .btn-input:hover {
-            background-color: #e5e7eb;
+        .theme-toggle:hover {
+            transform: rotate(30deg) scale(1.1);
+            border-color: var(--accent);
         }
 
+        /* Date & History */
         #date-container {
             display: grid;
             grid-template-columns: 1fr auto 1fr;
             align-items: center;
-            margin-bottom: 20px;
+            margin-bottom: 8px;
             width: 100%;
+        }
+
+        .date-box {
+            grid-column: 2;
+            display: inline-block;
+            padding: 10px 24px;
+            border-radius: var(--radius-md);
+            font-size: 1.05rem;
+            font-weight: 700;
+            color: var(--text-primary);
+            background: var(--bg-card);
+            backdrop-filter: blur(10px);
+            border: 1px solid var(--border-strong);
         }
 
         .header-actions {
             grid-column: 3;
             justify-self: start;
-            display: flex;
-            align-items: center;
-            gap: 10px;
-            margin-left: 15px;
+            margin-left: 12px;
         }
 
         .btn-history {
-            width: 38px;
-            height: 38px;
+            width: 40px; height: 40px;
             border-radius: 50%;
             display: inline-flex;
             align-items: center;
             justify-content: center;
-            background-color: #f1f5f9;
-            color: var(--brand-color);
-            border: 1px solid #e2e8f0;
-            box-shadow: none;
+            background: var(--bg-card);
+            border: 1px solid var(--border-strong);
             font-size: 1rem;
             cursor: pointer;
-            text-decoration: none;
             transition: var(--transition);
+            backdrop-filter: blur(10px);
+            text-decoration: none;
+            color: var(--text-primary);
         }
 
-        /* Audio Player Bar */
+        .btn-history:hover {
+            transform: scale(1.1);
+            border-color: var(--accent);
+        }
+
+        /* ===== Stats Hero Cards ===== */
+        .stats-row {
+            display: grid;
+            grid-template-columns: repeat(3, 1fr);
+            gap: 10px;
+            margin-bottom: 16px;
+        }
+
+        .stat-card {
+            padding: 14px 10px;
+            border-radius: var(--radius-md);
+            text-align: center;
+            background: var(--bg-card);
+            backdrop-filter: blur(var(--blur));
+            border: 1px solid var(--border);
+        }
+
+        .stat-card .stat-icon { font-size: 1.3rem; margin-bottom: 4px; }
+
+        .stat-card .stat-value {
+            font-family: 'Outfit', sans-serif;
+            font-size: 1.6rem;
+            font-weight: 800;
+            color: var(--accent);
+            line-height: 1.2;
+        }
+
+        .stat-card .stat-label {
+            font-size: 0.72rem;
+            color: var(--text-secondary);
+            font-weight: 500;
+        }
+
+        /* ===== Audio Player ===== */
         .audio-player-bar {
             display: flex;
             align-items: center;
             gap: 10px;
-            background: linear-gradient(135deg, var(--brand-color), #3b6d45);
-            border-radius: 12px;
+            background: var(--gradient-header);
+            border-radius: var(--radius-md);
             padding: 10px 14px;
-            margin-bottom: 20px;
-            box-shadow: 0 4px 14px rgba(44, 82, 52, 0.2);
-        }
-
-        .audio-player-bar .audio-icon {
-            font-size: 1.2rem;
-            flex-shrink: 0;
-        }
-
-        .audio-player-bar .audio-text {
-            display: flex;
-            flex-direction: column;
-            justify-content: center;
-            flex-shrink: 0;
-        }
-
-        .audio-player-bar .audio-label {
-            font-size: 0.78rem;
-            color: rgba(255, 255, 255, 0.85);
-            font-weight: 500;
-            white-space: nowrap;
-            line-height: 1.2;
-        }
-
-        .audio-player-bar .audio-sub {
-            font-size: 0.55rem;
-            color: rgba(255, 255, 255, 0.6);
-            white-space: nowrap;
-            line-height: 1.2;
-            margin-top: 2px;
-        }
-
-        .audio-player-bar audio {
-            flex: 1;
-            min-width: 0;
-            height: 32px;
-            border-radius: 8px;
-        }
-
-        /* Style the audio element for webkit browsers */
-        .audio-player-bar audio::-webkit-media-controls-panel {
-            background: rgba(255, 255, 255, 0.15);
-            border-radius: 8px;
-        }
-
-        /* Section Styles */
-        .section-card {
-            background-color: var(--card-bg);
-            border-radius: 14px;
-            padding: 16px 12px;
             margin-bottom: 16px;
-            box-shadow: var(--shadow);
-            border: 1px solid rgba(0, 0, 0, 0.04);
+            box-shadow: 0 4px 14px rgba(15, 118, 110, 0.25);
+        }
+
+        .audio-player-bar .audio-icon { font-size: 1.2rem; flex-shrink: 0; }
+        .audio-player-bar .audio-text { display: flex; flex-direction: column; flex-shrink: 0; }
+        .audio-player-bar .audio-label { font-size: 0.78rem; color: rgba(255,255,255,0.9); font-weight: 600; white-space: nowrap; }
+        .audio-player-bar .audio-sub { font-size: 0.55rem; color: rgba(255,255,255,0.6); white-space: nowrap; margin-top: 1px; }
+        .audio-player-bar audio { flex: 1; min-width: 0; height: 32px; border-radius: 8px; }
+
+        /* ===== Accordion Sections ===== */
+        .accordion {
+            margin-bottom: 12px;
+            border-radius: var(--radius-md);
+            overflow: hidden;
+        }
+
+        .accordion summary {
+            display: flex;
+            align-items: center;
+            gap: 8px;
+            padding: 13px 16px;
+            font-size: 0.88rem;
+            font-weight: 600;
+            color: var(--text-primary);
+            cursor: pointer;
+            list-style: none;
+            background: var(--bg-card);
+            backdrop-filter: blur(var(--blur));
+            border: 1px solid var(--border);
+            border-radius: var(--radius-md);
+            transition: var(--transition);
+        }
+
+        .accordion summary::-webkit-details-marker { display: none; }
+
+        .accordion summary::after {
+            content: '▼';
+            font-size: 0.6rem;
+            margin-left: auto;
+            color: var(--text-tertiary);
+            transition: transform 0.3s ease;
+        }
+
+        .accordion[open] summary::after { transform: rotate(180deg); }
+        .accordion summary:hover { background: var(--bg-card-hover); }
+
+        .accordion-content {
+            background: var(--bg-card);
+            border: 1px solid var(--border);
+            border-top: none;
+            border-radius: 0 0 var(--radius-md) var(--radius-md);
+            padding: 16px;
+            animation: accordionOpen 0.3s ease;
+        }
+
+        @keyframes accordionOpen {
+            from { opacity: 0; transform: translateY(-8px); }
+            to { opacity: 1; transform: translateY(0); }
+        }
+
+        /* Briefing content */
+        .briefing-list { margin: 0; padding-left: 18px; list-style: none; }
+
+        .briefing-list li {
+            position: relative;
+            padding-left: 6px;
+            margin-bottom: 10px;
+            font-size: 0.85rem;
+            line-height: 1.7;
+            color: var(--text-primary);
+            word-break: keep-all;
+        }
+
+        .briefing-list li::before {
+            content: '';
+            position: absolute;
+            left: -14px; top: 9px;
+            width: 5px; height: 5px;
+            border-radius: 50%;
+            background: var(--accent);
+            opacity: 0.6;
+        }
+
+        /* ===== Visualization Section ===== */
+        .viz-grid {
+            display: grid;
+            grid-template-columns: 1fr 1fr;
+            gap: 12px;
+            margin-bottom: 8px;
+        }
+
+        .viz-panel {
+            padding: 16px;
+            border-radius: var(--radius-md);
+            background: var(--bg-card-solid);
+            border: 1px solid var(--border);
+            min-height: 200px;
+            position: relative;
+        }
+
+        .viz-panel h4 {
+            font-size: 0.78rem;
+            color: var(--text-secondary);
+            font-weight: 600;
+            margin-bottom: 12px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        #wordcloud-canvas {
+            width: 100% !important;
+            height: 170px !important;
+        }
+
+        .donut-container {
+            width: 100%;
+            max-height: 180px;
+            display: flex;
+            justify-content: center;
+        }
+
+        .donut-container canvas {
+            max-height: 170px;
+        }
+
+        /* Timeline charts */
+        .timeline-chart {
+            margin-bottom: 16px;
+        }
+
+        .timeline-chart h4 {
+            font-size: 0.78rem;
+            color: var(--text-secondary);
+            font-weight: 600;
+            margin-bottom: 8px;
+            text-transform: uppercase;
+            letter-spacing: 0.5px;
+        }
+
+        .timeline-chart canvas {
+            width: 100% !important;
+            max-height: 200px;
+        }
+
+        /* ===== Search Bar ===== */
+        .search-bar {
+            margin-bottom: 16px;
+            position: relative;
+        }
+
+        .search-bar input {
+            width: 100%;
+            padding: 12px 16px 12px 42px;
+            border: 1px solid var(--border-strong);
+            border-radius: var(--radius-md);
+            background: var(--bg-input);
+            backdrop-filter: blur(10px);
+            font-size: 0.9rem;
+            color: var(--text-primary);
+            outline: none;
+            transition: var(--transition);
+            font-family: inherit;
+        }
+
+        .search-bar input:focus {
+            border-color: var(--accent);
+            box-shadow: 0 0 0 3px rgba(16, 185, 129, 0.15);
+        }
+
+        .search-bar input::placeholder { color: var(--text-tertiary); }
+
+        .search-bar .search-icon {
+            position: absolute;
+            left: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 1rem;
+            color: var(--text-tertiary);
+        }
+
+        .search-bar .search-count {
+            position: absolute;
+            right: 14px;
+            top: 50%;
+            transform: translateY(-50%);
+            font-size: 0.75rem;
+            color: var(--text-tertiary);
+            font-weight: 500;
+        }
+
+        /* ===== Article Sections ===== */
+        .section-card {
+            margin-bottom: 12px;
+            padding: 14px 12px;
+            border-radius: var(--radius-lg);
+            background: var(--bg-card);
+            backdrop-filter: blur(var(--blur));
+            border: 1px solid var(--border);
+            box-shadow: var(--shadow-sm);
+            transition: var(--transition);
         }
 
         .section-header {
             display: flex;
             align-items: center;
             gap: 10px;
-            margin-bottom: 12px;
+            margin-bottom: 10px;
             padding-bottom: 10px;
-            border-bottom: 1px solid #e8ede9;
+            border-bottom: 1px solid var(--border);
         }
 
         .section-bar {
             width: 4px;
-            height: 28px;
-            background-color: var(--brand-color);
+            height: 24px;
             border-radius: 2px;
         }
 
         .section-title {
-            font-size: 1.25rem;
+            font-size: 1.1rem;
             font-weight: 700;
-            color: var(--brand-color);
+            color: var(--text-primary);
+        }
+
+        .section-count {
+            font-size: 0.72rem;
+            color: var(--text-tertiary);
+            font-weight: 500;
+            margin-left: auto;
         }
 
         /* Article Items */
         .article-item {
-            background-color: transparent;
-            border-radius: 8px;
-            padding: 10px 8px;
-            margin-bottom: 2px;
-            transition: var(--transition);
-            cursor: pointer;
             display: block;
             text-decoration: none;
             color: inherit;
+            padding: 10px 10px;
+            margin-bottom: 2px;
+            border-radius: var(--radius-sm);
             border-left: 3px solid transparent;
+            transition: var(--transition);
+            cursor: pointer;
         }
 
-        .article-item:last-child {
-            margin-bottom: 0;
-        }
+        .article-item:last-child { margin-bottom: 0; }
 
         .article-item:hover {
-            transform: none;
-            background-color: #eef4f0;
-            border-left-color: var(--brand-color);
+            background: var(--bg-card-hover);
+            border-left-color: var(--accent);
+            transform: translateX(4px);
+        }
+
+        .article-item.highlight {
+            background: rgba(16, 185, 129, 0.08);
+            border-left-color: var(--accent);
         }
 
         .article-content {
             display: flex;
             flex-direction: column;
-            gap: 6px;
+            gap: 5px;
+        }
+
+        .article-title-row {
+            display: flex;
+            align-items: flex-start;
+            gap: 8px;
         }
 
         .article-title {
-            font-size: 0.93rem;
+            font-size: 0.92rem;
             font-weight: 500;
-            line-height: 1.55;
-            color: #1a1a1a;
+            line-height: 1.5;
+            color: var(--text-primary);
             word-break: keep-all;
             overflow-wrap: break-word;
+            flex: 1;
         }
 
         .article-footer {
             display: flex;
             justify-content: space-between;
             align-items: center;
-            margin-top: 2px;
         }
 
         .article-tag {
-            background-color: #f0f5f1;
             padding: 2px 8px;
             border-radius: 4px;
-            font-size: 0.72rem;
-            font-weight: 500;
-            color: var(--brand-color);
+            font-size: 0.7rem;
+            font-weight: 600;
+            color: var(--accent-dark);
+            background: var(--accent-light);
             border: none;
         }
 
         .article-link {
-            font-size: 0.78rem;
+            font-size: 0.75rem;
             font-weight: 500;
-            color: #9ca3af;
+            color: var(--text-tertiary);
             display: flex;
             align-items: center;
             gap: 3px;
         }
 
-        .article-link::after {
-            content: '→';
-            font-size: 0.9rem;
+        .article-link::after { content: '→'; font-size: 0.85rem; }
+
+        /* Score Badges */
+        .score-badge {
+            flex-shrink: 0;
+            font-size: 0.65rem;
+            font-weight: 700;
+            padding: 2px 8px;
+            border-radius: 20px;
+            white-space: nowrap;
+            letter-spacing: 0.3px;
         }
 
-        /* Footer */
+        .score-5 { background: #fef2f2; color: #dc2626; border: 1px solid #fecaca; }
+        .score-4 { background: #fff7ed; color: #ea580c; border: 1px solid #fed7aa; }
+        .score-3 { background: #fefce8; color: #ca8a04; border: 1px solid #fef08a; }
+
+        [data-theme="dark"] .score-5 { background: rgba(220, 38, 38, 0.15); border-color: rgba(220, 38, 38, 0.3); }
+        [data-theme="dark"] .score-4 { background: rgba(234, 88, 12, 0.15); border-color: rgba(234, 88, 12, 0.3); }
+        [data-theme="dark"] .score-3 { background: rgba(202, 138, 4, 0.15); border-color: rgba(202, 138, 4, 0.3); }
+
+        /* ===== Footer ===== */
         footer {
-            margin-top: 40px;
+            margin-top: 32px;
             text-align: center;
-            color: #9ca3af;
-            font-size: 0.85rem;
+            color: var(--text-tertiary);
+            font-size: 0.8rem;
         }
 
-        /* Loading Spinner */
+        footer p { margin-bottom: 4px; }
+
+        /* ===== Loader ===== */
         #loader {
             display: flex;
             justify-content: center;
             align-items: center;
-            height: 200px;
+            height: 120px;
         }
 
         .spinner {
-            width: 40px;
-            height: 40px;
-            border: 4px solid rgba(44, 82, 52, 0.1);
-            border-left-color: var(--brand-color);
+            width: 36px; height: 36px;
+            border: 3px solid var(--border);
+            border-left-color: var(--accent);
             border-radius: 50%;
-            animation: rotate 1s linear infinite;
+            animation: spin 1s linear infinite;
         }
 
-        @keyframes rotate {
-            to {
-                transform: rotate(360deg);
-            }
+        @keyframes spin { to { transform: rotate(360deg); } }
+
+        /* ===== Animations ===== */
+        .animate-in {
+            animation: slideUp 0.5s ease-out forwards;
         }
 
-        /* Briefing Toggle */
-        .briefing-toggle {
-            margin-bottom: 16px;
+        @keyframes slideUp {
+            from { opacity: 0; transform: translateY(16px); }
+            to { opacity: 1; transform: translateY(0); }
         }
 
-        .briefing-toggle summary {
-            display: flex;
-            align-items: center;
-            gap: 8px;
-            background: var(--card-bg);
-            border: 1px solid #e2e8e4;
-            border-radius: 12px;
-            padding: 12px 14px;
-            font-size: 0.88rem;
-            font-weight: 600;
-            color: var(--brand-color);
-            cursor: pointer;
-            list-style: none;
-            transition: var(--transition);
-            box-shadow: 0 2px 8px rgba(0, 0, 0, 0.03);
-        }
+        .stagger { opacity: 0; }
 
-        .briefing-toggle summary::-webkit-details-marker {
-            display: none;
-        }
+        /* Counter animation handled by JS */
 
-        .briefing-toggle summary::after {
-            content: '\25BC';
-            font-size: 0.7rem;
-            margin-left: auto;
-            transition: transform 0.3s ease;
-            color: #9ca3af;
-        }
+        /* ===== Responsive ===== */
+        @media (max-width: 520px) {
+            body { padding: 14px 6px; }
 
-        .briefing-toggle[open] summary::after {
-            transform: rotate(180deg);
-        }
-
-        .briefing-toggle summary:hover {
-            background: #f1f5f3;
-        }
-
-        .briefing-toggle .briefing-content {
-            background: var(--card-bg);
-            border: 1px solid #e8ede9;
-            border-top: none;
-            border-radius: 0 0 12px 12px;
-            padding: 16px 18px;
-            margin-top: -8px;
-            animation: slideDown 0.3s ease;
-        }
-
-        @keyframes slideDown {
-            from {
-                opacity: 0;
-                transform: translateY(-8px);
-            }
-
-            to {
-                opacity: 1;
-                transform: translateY(0);
-            }
-        }
-
-        .briefing-content ul {
-            margin: 0;
-            padding-left: 18px;
-            list-style: none;
-        }
-
-        .briefing-content ul li {
-            position: relative;
-            padding-left: 6px;
-            margin-bottom: 10px;
-            font-size: 0.85rem;
-            line-height: 1.7;
-            color: var(--text-main);
-            font-weight: 400;
-            word-break: keep-all;
-        }
-
-        .briefing-content ul li:last-child {
-            margin-bottom: 0;
-        }
-
-        .briefing-content ul li::before {
-            content: '';
-            position: absolute;
-            left: -14px;
-            top: 9px;
-            width: 5px;
-            height: 5px;
-            border-radius: 50%;
-            background: var(--brand-color);
-            opacity: 0.5;
-        }
-
-        @media (max-width: 480px) {
-            body {
-                padding: 16px 4px;
-            }
-
-            .container {
-                padding: 0;
-            }
-
-            h1.brand {
-                font-size: 1.8rem;
-            }
+            h1.brand { font-size: 1.4rem; }
 
             .date-box {
-                font-size: 0.95rem;
+                font-size: 0.9rem;
                 padding: 8px 14px;
             }
 
+            .stats-row {
+                grid-template-columns: repeat(3, 1fr);
+                gap: 6px;
+            }
+
+            .stat-card { padding: 10px 6px; }
+            .stat-card .stat-value { font-size: 1.3rem; }
+            .stat-card .stat-label { font-size: 0.65rem; }
+
+            .viz-grid {
+                grid-template-columns: 1fr;
+            }
+
             .section-card {
-                border-radius: 10px;
+                border-radius: var(--radius-md);
                 padding: 12px 8px;
-                margin-bottom: 12px;
             }
 
-            .article-item {
-                padding: 8px 6px;
-            }
-
-            .article-title {
-                font-size: 0.88rem;
-                line-height: 1.6;
-            }
-
-            .section-header {
-                margin-bottom: 8px;
-                padding-bottom: 8px;
-            }
-
-            .section-title {
-                font-size: 1.05rem;
-            }
-
-            header {
-                margin-bottom: 12px;
-            }
+            .article-item { padding: 8px 6px; }
+            .article-title { font-size: 0.86rem; }
 
             .audio-player-bar {
                 padding: 8px 10px;
                 gap: 8px;
                 border-radius: 10px;
-                margin-bottom: 14px;
             }
 
-            .audio-player-bar audio {
-                height: 28px;
-            }
+            .audio-player-bar audio { height: 28px; }
+            .audio-player-bar .audio-label { font-size: 0.72rem; }
+            .audio-player-bar .audio-sub { font-size: 0.5rem; }
 
-            .audio-player-bar .audio-label {
-                font-size: 0.72rem;
-            }
-
-            .audio-player-bar .audio-sub {
-                font-size: 0.5rem;
-            }
-
-            .briefing-toggle summary {
-                padding: 10px 12px;
-                font-size: 0.82rem;
-                border-radius: 10px;
-            }
-
-            .briefing-toggle .briefing-content {
-                padding: 12px 14px;
-            }
-
-            .briefing-content ul li {
-                font-size: 0.82rem;
-            }
+            .accordion summary { padding: 11px 12px; font-size: 0.82rem; }
         }
     </style>
 </head>
 
 <body>
     <div class="container">
+        <!-- Header -->
         <header>
-            <div class="logo-container">
-                <span class="logo-icon">📰</span>
-                <h1 class="brand">AI Trend Daily</h1>
+            <div class="header-top">
+                <div class="logo-container">
+                    <span class="logo-icon">📰</span>
+                    <h1 class="brand">AI Trend Intelligence</h1>
+                </div>
+                <button class="theme-toggle" id="themeToggle" title="테마 전환" aria-label="다크/라이트 모드 전환">☀️</button>
             </div>
             <div id="date-container">
                 <div class="date-box" id="main-date">Loading...</div>
                 <div class="header-actions">
                     <button id="history-trigger" class="btn-history" title="지난 동향 보기">📅</button>
-                    <!-- Hidden date input -->
                     <input type="date" id="history-date"
-                        style="position: absolute; width: 0; height: 0; opacity: 0; pointer-events: none; border: none; padding: 0;">
+                        style="position:absolute;width:0;height:0;opacity:0;pointer-events:none;border:none;padding:0;">
                 </div>
             </div>
         </header>
 
-        <!-- Inline Audio Player -->
+        <!-- Stats Hero Cards -->
+        <div class="stats-row" id="stats-row">
+            <div class="stat-card stagger">
+                <div class="stat-icon">📰</div>
+                <div class="stat-value" id="stat-articles">-</div>
+                <div class="stat-label">기사</div>
+            </div>
+            <div class="stat-card stagger">
+                <div class="stat-icon">📊</div>
+                <div class="stat-value" id="stat-categories">-</div>
+                <div class="stat-label">카테고리</div>
+            </div>
+            <div class="stat-card stagger">
+                <div class="stat-icon">🔥</div>
+                <div class="stat-value" id="stat-hot" style="font-size:0.85rem;">-</div>
+                <div class="stat-label">핫 키워드</div>
+            </div>
+        </div>
+
+        <!-- Audio Player -->
         <div class="audio-player-bar">
             <span class="audio-icon">🎙️</span>
             <div class="audio-text">
@@ -547,25 +716,74 @@
             </audio>
         </div>
 
-        <!-- Briefing Toggle (closed by default) -->
-        <details class="briefing-toggle" id="briefing-section">
+        <!-- Briefing Accordion -->
+        <details class="accordion" id="briefing-section">
             <summary>
                 <span>🤖</span>
                 <span>AI가 작성한 오늘의 3줄 요약</span>
             </summary>
-            <div class="briefing-content">
-                <ul id="briefingList">
-                    <li style="color: #9ca3af;">요약을 불러오는 중...</li>
+            <div class="accordion-content">
+                <ul id="briefingList" class="briefing-list">
+                    <li style="color: var(--text-tertiary);">요약을 불러오는 중...</li>
                 </ul>
             </div>
         </details>
 
+        <!-- Trend Visualization Accordion -->
+        <details class="accordion" id="viz-section" open>
+            <summary>
+                <span>📊</span>
+                <span>트렌드 시각화</span>
+            </summary>
+            <div class="accordion-content">
+                <div class="viz-grid">
+                    <div class="viz-panel">
+                        <h4>🔤 키워드 클라우드</h4>
+                        <canvas id="wordcloud-canvas"></canvas>
+                    </div>
+                    <div class="viz-panel">
+                        <h4>📊 카테고리 비율</h4>
+                        <div class="donut-container">
+                            <canvas id="donut-chart"></canvas>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </details>
+
+        <!-- Time Series Accordion -->
+        <details class="accordion" id="timeline-section">
+            <summary>
+                <span>📈</span>
+                <span>시계열 트렌드 분석</span>
+            </summary>
+            <div class="accordion-content">
+                <div class="timeline-chart">
+                    <h4>📈 일별 기사 수 추이</h4>
+                    <canvas id="timeline-line-chart"></canvas>
+                </div>
+                <div class="timeline-chart">
+                    <h4>📊 카테고리별 비율 변화</h4>
+                    <canvas id="timeline-stacked-chart"></canvas>
+                </div>
+            </div>
+        </details>
+
+        <!-- Search Bar -->
+        <div class="search-bar">
+            <span class="search-icon">🔍</span>
+            <input type="text" id="search-input" placeholder="기사 제목 검색..." autocomplete="off">
+            <span class="search-count" id="search-count"></span>
+        </div>
+
+        <!-- Article Content -->
         <main id="content-main">
             <div id="loader">
                 <div class="spinner"></div>
             </div>
         </main>
 
+        <!-- Footer -->
         <footer>
             <p id="gemini-footer"></p>
             <p>&copy; Maj.Cjh. All rights reserved</p>
@@ -573,14 +791,78 @@
     </div>
 
     <script>
-        let allHistoryData = {};
+        // ========================================
+        // Configuration
+        // ========================================
+        const CATEGORY_COLORS = {
+            '국방': '#3b82f6',
+            '육군': '#22c55e',
+            '민간': '#ef4444',
+            '기관': '#ec4899',
+            '해외': '#8b5cf6',
+            '기타': '#f59e0b',
+            '간행물': '#6b7280'
+        };
 
+        const KOREAN_STOPWORDS = new Set([
+            '은','는','이','가','을','를','의','에','와','과','도','만','까지','부터',
+            '에서','으로','로','에게','한테','보다','처럼','만큼','라고','라는',
+            '그리고','또한','하지만','그러나','따라서','위해','통해','위한','대한','관련',
+            '등','및','또','더','매우','것','수','중','후','전','내','간','때','위',
+            '이번','오늘','내일','올해','지난','최근','새로운','주요','대해','한다',
+            '있다','없다','되다','하다','않다','것으로','에서는','으로는','에서도',
+            '발표','공개','개발','기술','서비스','시장','기업','확대','추진','운영',
+            '활용','지원','기반','강화','실현','구축','적용','도입','시작','계획',
+            '진행','분석','연구','현황','동향','사업','정책','발전','혁신','전략'
+        ]);
+
+        // ========================================
+        // State
+        // ========================================
+        let allHistoryData = {};
+        let currentSections = [];
+        let totalArticleCount = 0;
+        let donutChartInstance = null;
+        let lineChartInstance = null;
+        let stackedChartInstance = null;
+
+        // ========================================
+        // Theme Management
+        // ========================================
+        function initTheme() {
+            const saved = localStorage.getItem('ai-trend-theme');
+            const theme = saved || 'light';
+            document.documentElement.setAttribute('data-theme', theme);
+            updateThemeIcon(theme);
+        }
+
+        function toggleTheme() {
+            const current = document.documentElement.getAttribute('data-theme');
+            const next = current === 'dark' ? 'light' : 'dark';
+            document.documentElement.setAttribute('data-theme', next);
+            localStorage.setItem('ai-trend-theme', next);
+            updateThemeIcon(next);
+
+            // Re-render charts with new theme colors
+            if (currentSections.length > 0) {
+                renderDonutChart(currentSections);
+            }
+            renderTimeSeriesCharts();
+        }
+
+        function updateThemeIcon(theme) {
+            const btn = document.getElementById('themeToggle');
+            btn.textContent = theme === 'dark' ? '🌙' : '☀️';
+        }
+
+        // ========================================
+        // Data Loading
+        // ========================================
         async function fetchBriefing() {
             try {
-                const response = await fetch(`codes/data.json?t=${new Date().getTime()}`);
+                const response = await fetch(`codes/data.json?t=${Date.now()}`);
                 if (!response.ok) throw new Error('data.json 로드 실패');
                 const historyData = await response.json();
-                
                 const dates = Object.keys(historyData).sort((a, b) => b.localeCompare(a));
                 let briefingText = "";
                 for (let date of dates) {
@@ -589,47 +871,642 @@
                         break;
                     }
                 }
-                
-                if (!briefingText) throw new Error('브리핑 데이터가 없습니다.');
-
-                const ul = document.getElementById('briefingList');
-                const lines = briefingText.split('\n');
-                ul.innerHTML = '';
-
-                lines.forEach(line => {
-                    const cleanLine = line.trim();
-                    if (cleanLine.length > 0) {
-                        const li = document.createElement('li');
-                        li.textContent = cleanLine.replace(/^[-*•\d\.]+\s*/, '');
-                        if (li.textContent.length > 0) {
-                            ul.appendChild(li);
-                        }
-                    }
-                });
+                if (!briefingText) throw new Error('브리핑 없음');
+                renderBriefing(briefingText);
             } catch (error) {
                 console.error('브리핑 로드 실패:', error);
                 const ul = document.getElementById('briefingList');
-                if (ul) ul.innerHTML = '<li style="color:#9ca3af;">브리핑 데이터를 불러올 수 없습니다.</li>';
+                if (ul) ul.innerHTML = '<li style="color:var(--text-tertiary);">브리핑 데이터를 불러올 수 없습니다.</li>';
             }
         }
 
-        document.addEventListener('DOMContentLoaded', async () => {
-            // 0. 오디오 플레이어 초기화 (캐시 방지)
-            const audioPlayer = document.getElementById('audioPlayer');
-            if (audioPlayer) {
-                const timestamp = new Date().getTime();
-                audioPlayer.src = `public/audio.mp3?t=${timestamp}`;
+        function renderBriefing(text) {
+            const ul = document.getElementById('briefingList');
+            const lines = text.split('\n');
+            ul.innerHTML = '';
+            lines.forEach(line => {
+                const clean = line.trim();
+                if (clean.length > 0) {
+                    const li = document.createElement('li');
+                    li.textContent = clean.replace(/^[-*•\d\.]+\s*/, '');
+                    if (li.textContent.length > 0) ul.appendChild(li);
+                }
+            });
+        }
+
+        // ========================================
+        // Parsing & Rendering
+        // ========================================
+        async function fetchLatestText() {
+            try {
+                const response = await fetch('codes/data.txt?t=' + Date.now());
+                if (!response.ok) throw new Error('Failed to fetch data.txt');
+                const text = await response.text();
+                parseAndRender(text);
+            } catch (error) {
+                console.error(error);
+                document.getElementById('content-main').innerHTML =
+                    `<p style="text-align:center;color:#ef4444;padding:40px;">데이터를 불러오는 중 오류가 발생했습니다.</p>`;
+            }
+        }
+
+        function parseAndRender(rawText) {
+            const lines = rawText.split('\n').map(l => l.trim());
+            let dateStr = "";
+            let currentSection = null;
+            let sections = [];
+
+            const dateMatch = lines[0].match(/📢(.*)📢/);
+            if (dateMatch) dateStr = dateMatch[1].trim();
+            else dateStr = lines[0].replace(/📢/g, '').trim();
+
+            document.getElementById('main-date').innerText = formatHeaderDate(dateStr);
+
+            let i = 1;
+            while (i < lines.length) {
+                let line = lines[i];
+                if (line.startsWith('[') && line.endsWith(']')) {
+                    const title = line.substring(1, line.length - 1);
+                    currentSection = { title, articles: [] };
+                    sections.push(currentSection);
+                } else if (line.startsWith('📚') || line.startsWith('📰') || line.startsWith('🎧')) {
+                    const title = line.replace(/📚|📰|🎧/g, '').trim();
+                    currentSection = { title, articles: [] };
+                    sections.push(currentSection);
+                } else if (line.startsWith('◾')) {
+                    const title = line.replace('◾', '').trim();
+                    const url = lines[i + 1] && lines[i + 1].startsWith('http') ? lines[i + 1].trim() : '#';
+                    if (currentSection) currentSection.articles.push({ title, url });
+                    if (url !== '#') i++;
+                } else if (line.startsWith('✅')) {
+                    const footer = document.getElementById('gemini-footer');
+                    if (footer) footer.innerText = line.replace('✅', '').trim();
+                }
+                i++;
             }
 
-            // 0-1. briefing.json 로드
+            currentSections = sections;
+            renderAll(sections);
+        }
+
+        function renderHistoryDate(dateKey) {
+            const data = allHistoryData[dateKey];
+            if (!data) return;
+
+            document.getElementById('main-date').innerText = formatHeaderDate(dateKey + " AI 일일 동향");
+
+            // Briefing
+            if (data.briefing) renderBriefing(data.briefing);
+            else {
+                const ul = document.getElementById('briefingList');
+                ul.innerHTML = '<li style="color:var(--text-tertiary);">해당 날짜의 브리핑이 없습니다.</li>';
+            }
+
+            // Build sections from categorized
+            const sections = [];
+            const categorized = data.categorized || {};
+            const FIXED = ["국방", "육군", "민간", "기관", "해외", "기타"];
+
+            FIXED.forEach(cat => {
+                if (categorized[cat] && categorized[cat].length > 0) {
+                    sections.push({
+                        title: cat,
+                        articles: categorized[cat].map(a => ({
+                            title: a.title,
+                            url: a.link,
+                            score: a.score
+                        }))
+                    });
+                }
+            });
+
+            Object.keys(categorized).forEach(cat => {
+                if (!FIXED.includes(cat) && cat !== "간행물") {
+                    sections.push({
+                        title: cat,
+                        articles: categorized[cat].map(a => ({
+                            title: a.title,
+                            url: a.link,
+                            score: a.score
+                        }))
+                    });
+                }
+            });
+
+            if (categorized["간행물"]) {
+                sections.push({
+                    title: "간행물",
+                    articles: categorized["간행물"].map(a => ({
+                        title: a.title,
+                        url: a.link,
+                        score: a.score
+                    }))
+                });
+            }
+
+            currentSections = sections;
+            renderAll(sections);
+        }
+
+        function renderAll(sections) {
+            renderContent(sections);
+            renderStats(sections);
+            renderWordCloud(sections);
+            renderDonutChart(sections);
+        }
+
+        // ========================================
+        // Content Rendering
+        // ========================================
+        function renderContent(sections) {
+            const main = document.getElementById('content-main');
+            main.innerHTML = '';
+
+            sections.forEach((section, sIdx) => {
+                if (section.articles.length === 0) return;
+
+                const sectionEl = document.createElement('div');
+                sectionEl.className = 'section-card stagger';
+                sectionEl.style.animationDelay = `${sIdx * 0.08}s`;
+
+                const barColor = CATEGORY_COLORS[section.title] || '#6b7280';
+
+                sectionEl.innerHTML = `
+                    <div class="section-header">
+                        <div class="section-bar" style="background:${barColor}"></div>
+                        <div class="section-title">${section.title}</div>
+                        <div class="section-count">${section.articles.length}건</div>
+                    </div>
+                    <div class="articles-list">
+                        ${section.articles.map(art => {
+                            const scoreBadge = getScoreBadge(art.score);
+                            return `
+                            <a href="${art.url}" class="article-item" target="_blank" data-title="${escapeAttr(art.title)}">
+                                <div class="article-content">
+                                    <div class="article-title-row">
+                                        <div class="article-title">${escapeHTML(art.title)}</div>
+                                        ${scoreBadge}
+                                    </div>
+                                    <div class="article-footer">
+                                        <div class="article-tag">${getSourceTag(art.url, art.title)}</div>
+                                        <div class="article-link">확인</div>
+                                    </div>
+                                </div>
+                            </a>`;
+                        }).join('')}
+                    </div>
+                `;
+                main.appendChild(sectionEl);
+            });
+
+            // Trigger stagger animations
+            requestAnimationFrame(() => {
+                document.querySelectorAll('.stagger').forEach((el, i) => {
+                    el.style.animationDelay = `${i * 0.06}s`;
+                    el.classList.add('animate-in');
+                });
+            });
+        }
+
+        function getScoreBadge(score) {
+            if (!score || score < 3) return '';
+            if (score >= 5) return '<span class="score-badge score-5">🔴 필독</span>';
+            if (score >= 4) return '<span class="score-badge score-4">🟠 주목</span>';
+            if (score >= 3) return '<span class="score-badge score-3">🟡 관심</span>';
+            return '';
+        }
+
+        function escapeHTML(str) {
+            if (!str) return '';
+            return String(str).replace(/&/g,'&amp;').replace(/</g,'&lt;').replace(/>/g,'&gt;').replace(/"/g,'&quot;');
+        }
+
+        function escapeAttr(str) {
+            if (!str) return '';
+            return String(str).replace(/&/g,'&amp;').replace(/"/g,'&quot;').replace(/'/g,'&#39;');
+        }
+
+        // ========================================
+        // Stats
+        // ========================================
+        function renderStats(sections) {
+            let totalArticles = 0;
+            sections.forEach(s => totalArticles += s.articles.length);
+            totalArticleCount = totalArticles;
+
+            const keywords = extractKeywords(sections);
+            const hotKeyword = keywords.length > 0 ? keywords[0][0] : '-';
+
+            animateCounter('stat-articles', totalArticles);
+            animateCounter('stat-categories', sections.length);
+            document.getElementById('stat-hot').textContent = hotKeyword;
+        }
+
+        function animateCounter(id, target) {
+            const el = document.getElementById(id);
+            if (!el) return;
+            let current = 0;
+            const step = Math.max(1, Math.ceil(target / 20));
+            const interval = setInterval(() => {
+                current += step;
+                if (current >= target) {
+                    current = target;
+                    clearInterval(interval);
+                }
+                el.textContent = current;
+            }, 40);
+        }
+
+        // ========================================
+        // Keyword Extraction
+        // ========================================
+        function extractKeywords(sections) {
+            const freq = {};
+            const allTitles = [];
+
+            sections.forEach(s => {
+                s.articles.forEach(a => allTitles.push(a.title));
+            });
+
+            allTitles.forEach(title => {
+                // Remove brackets and special chars
+                let cleaned = title
+                    .replace(/\[.*?\]/g, ' ')
+                    .replace(/〈.*?〉/g, ' ')
+                    .replace(/＇/g, ' ')
+                    .replace(/[""''「」『』（）\(\)\[\]<>…·\-=+,\.!?:;\/\\|@#$%^&*~`'"]/g, ' ')
+                    .replace(/\d+/g, ' ');
+
+                // Split and process
+                const words = cleaned.split(/\s+/).filter(w => w.length >= 2);
+
+                words.forEach(word => {
+                    // Remove trailing Korean particles
+                    let w = word
+                        .replace(/(은|는|이|가|을|를|의|에|와|과|도|만|로|서|라|며|고|던|면|해|한|된|할|될|들|적|용|화|형|별|간|급|단|층)$/g, '')
+                        .trim();
+
+                    if (w.length < 2 || KOREAN_STOPWORDS.has(w) || KOREAN_STOPWORDS.has(word)) return;
+                    freq[w] = (freq[w] || 0) + 1;
+                });
+            });
+
+            // Sort by frequency
+            return Object.entries(freq)
+                .filter(([_, count]) => count >= 1)
+                .sort((a, b) => b[1] - a[1])
+                .slice(0, 40);
+        }
+
+        // ========================================
+        // Word Cloud
+        // ========================================
+        function renderWordCloud(sections) {
+            const canvas = document.getElementById('wordcloud-canvas');
+            if (!canvas || typeof WordCloud === 'undefined') return;
+
+            const keywords = extractKeywords(sections);
+            if (keywords.length === 0) return;
+
+            const maxCount = keywords[0][1];
+            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+
+            const colors = ['#10b981','#3b82f6','#8b5cf6','#ec4899','#f59e0b','#ef4444','#06b6d4','#22c55e'];
+
+            // Clear and resize
+            canvas.width = canvas.parentElement.clientWidth;
+            canvas.height = 170;
+
+            const list = keywords.map(([word, count]) => {
+                const size = Math.max(12, Math.round((count / maxCount) * 36));
+                return [word, size];
+            });
+
+            try {
+                WordCloud(canvas, {
+                    list: list,
+                    gridSize: 6,
+                    weightFactor: 1,
+                    fontFamily: 'Noto Sans KR, sans-serif',
+                    fontWeight: 700,
+                    color: () => colors[Math.floor(Math.random() * colors.length)],
+                    backgroundColor: 'transparent',
+                    rotateRatio: 0.2,
+                    minRotation: -0.3,
+                    maxRotation: 0.3,
+                    shrinkToFit: true,
+                    click: (item) => highlightArticles(item[0])
+                });
+            } catch (e) {
+                console.error('WordCloud error:', e);
+            }
+        }
+
+        function highlightArticles(keyword) {
+            document.querySelectorAll('.article-item').forEach(el => {
+                const title = el.getAttribute('data-title') || '';
+                if (title.includes(keyword)) {
+                    el.classList.add('highlight');
+                    el.scrollIntoView({ behavior: 'smooth', block: 'center' });
+                } else {
+                    el.classList.remove('highlight');
+                }
+            });
+
+            // Clear highlight after 3s
+            setTimeout(() => {
+                document.querySelectorAll('.article-item.highlight').forEach(el => {
+                    el.classList.remove('highlight');
+                });
+            }, 3000);
+        }
+
+        // ========================================
+        // Donut Chart
+        // ========================================
+        function renderDonutChart(sections) {
+            const canvas = document.getElementById('donut-chart');
+            if (!canvas || typeof Chart === 'undefined') return;
+
+            if (donutChartInstance) donutChartInstance.destroy();
+
+            const labels = [];
+            const data = [];
+            const bgColors = [];
+
+            sections.forEach(s => {
+                if (s.articles.length > 0) {
+                    labels.push(s.title);
+                    data.push(s.articles.length);
+                    bgColors.push(CATEGORY_COLORS[s.title] || '#6b7280');
+                }
+            });
+
+            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+
+            donutChartInstance = new Chart(canvas, {
+                type: 'doughnut',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        data: data,
+                        backgroundColor: bgColors,
+                        borderWidth: 2,
+                        borderColor: isDark ? '#1a2540' : '#ffffff',
+                        hoverOffset: 6
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    cutout: '62%',
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                padding: 10,
+                                font: { size: 10, family: 'Noto Sans KR' },
+                                color: isDark ? '#94a3b8' : '#64748b',
+                                usePointStyle: true,
+                                pointStyleWidth: 8
+                            }
+                        }
+                    }
+                }
+            });
+        }
+
+        // ========================================
+        // Time Series Charts
+        // ========================================
+        function renderTimeSeriesCharts() {
+            if (!allHistoryData || Object.keys(allHistoryData).length === 0) return;
+
+            const canvas1 = document.getElementById('timeline-line-chart');
+            const canvas2 = document.getElementById('timeline-stacked-chart');
+            if (!canvas1 || !canvas2 || typeof Chart === 'undefined') return;
+
+            const dates = Object.keys(allHistoryData).sort();
+            const recentDates = dates.slice(-30);
+
+            const isDark = document.documentElement.getAttribute('data-theme') === 'dark';
+            const gridColor = isDark ? 'rgba(255,255,255,0.06)' : 'rgba(0,0,0,0.06)';
+            const textColor = isDark ? '#94a3b8' : '#64748b';
+
+            // --- Line Chart: Total articles per day ---
+            const dailyTotals = recentDates.map(d => {
+                const cat = allHistoryData[d]?.categorized || {};
+                let total = 0;
+                Object.values(cat).forEach(arr => { if (Array.isArray(arr)) total += arr.length; });
+                return total;
+            });
+
+            const labels = recentDates.map(d => {
+                const parts = d.split('.');
+                return `${parseInt(parts[1])}/${parseInt(parts[2])}`;
+            });
+
+            if (lineChartInstance) lineChartInstance.destroy();
+
+            lineChartInstance = new Chart(canvas1, {
+                type: 'line',
+                data: {
+                    labels: labels,
+                    datasets: [{
+                        label: '기사 수',
+                        data: dailyTotals,
+                        borderColor: '#10b981',
+                        backgroundColor: isDark ? 'rgba(16,185,129,0.1)' : 'rgba(16,185,129,0.08)',
+                        fill: true,
+                        tension: 0.4,
+                        pointRadius: 3,
+                        pointHoverRadius: 6,
+                        borderWidth: 2
+                    }]
+                },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    aspectRatio: 2.5,
+                    plugins: {
+                        legend: { display: false }
+                    },
+                    scales: {
+                        x: {
+                            grid: { color: gridColor },
+                            ticks: { color: textColor, font: { size: 9 }, maxTicksLimit: 10 }
+                        },
+                        y: {
+                            grid: { color: gridColor },
+                            ticks: { color: textColor, font: { size: 9 } },
+                            beginAtZero: true
+                        }
+                    },
+                    interaction: { intersect: false, mode: 'index' },
+                    onClick: (e, elements) => {
+                        if (elements.length > 0) {
+                            const idx = elements[0].index;
+                            const dateKey = recentDates[idx];
+                            if (allHistoryData[dateKey]) renderHistoryDate(dateKey);
+                        }
+                    }
+                }
+            });
+
+            // --- Stacked Bar: Categories per day ---
+            const allCats = ['국방', '육군', '민간', '기관', '해외', '기타', '간행물'];
+            const datasets = allCats.map(cat => ({
+                label: cat,
+                data: recentDates.map(d => {
+                    const arr = allHistoryData[d]?.categorized?.[cat];
+                    return Array.isArray(arr) ? arr.length : 0;
+                }),
+                backgroundColor: CATEGORY_COLORS[cat] || '#6b7280',
+                borderWidth: 0,
+                borderRadius: 2
+            }));
+
+            if (stackedChartInstance) stackedChartInstance.destroy();
+
+            stackedChartInstance = new Chart(canvas2, {
+                type: 'bar',
+                data: { labels: labels, datasets: datasets },
+                options: {
+                    responsive: true,
+                    maintainAspectRatio: true,
+                    aspectRatio: 2.5,
+                    plugins: {
+                        legend: {
+                            position: 'bottom',
+                            labels: {
+                                padding: 8,
+                                font: { size: 9, family: 'Noto Sans KR' },
+                                color: textColor,
+                                usePointStyle: true,
+                                pointStyleWidth: 8
+                            }
+                        }
+                    },
+                    scales: {
+                        x: {
+                            stacked: true,
+                            grid: { display: false },
+                            ticks: { color: textColor, font: { size: 9 }, maxTicksLimit: 10 }
+                        },
+                        y: {
+                            stacked: true,
+                            grid: { color: gridColor },
+                            ticks: { color: textColor, font: { size: 9 } },
+                            beginAtZero: true
+                        }
+                    }
+                }
+            });
+        }
+
+        // ========================================
+        // Search
+        // ========================================
+        function initSearch() {
+            const input = document.getElementById('search-input');
+            const countEl = document.getElementById('search-count');
+            let debounceTimer;
+
+            input.addEventListener('input', () => {
+                clearTimeout(debounceTimer);
+                debounceTimer = setTimeout(() => {
+                    const query = input.value.trim().toLowerCase();
+                    const items = document.querySelectorAll('.article-item');
+                    let visible = 0, total = items.length;
+
+                    items.forEach(item => {
+                        const title = (item.getAttribute('data-title') || '').toLowerCase();
+                        if (!query || title.includes(query)) {
+                            item.style.display = '';
+                            visible++;
+                        } else {
+                            item.style.display = 'none';
+                        }
+                    });
+
+                    // Hide empty sections
+                    document.querySelectorAll('.section-card').forEach(section => {
+                        const visibleArticles = section.querySelectorAll('.article-item:not([style*="display: none"])');
+                        section.style.display = visibleArticles.length > 0 ? '' : 'none';
+                    });
+
+                    countEl.textContent = query ? `${visible}/${total}` : '';
+                }, 200);
+            });
+        }
+
+        // ========================================
+        // Utilities
+        // ========================================
+        function getSourceTag(url, title) {
+            if (url.includes('aikorea.go.kr')) return 'AI전략위';
+            if (url.includes('mnd.go.kr')) return '국방부';
+            if (url.includes('dapa.go.kr')) return '방사청';
+            if (url.includes('msit.go.kr')) return '과기정통부';
+            if (url.includes('kookbang.dema.mil.kr')) return '국방일보';
+            if (url.includes('etnews.com')) return '전자신문';
+            if (url.includes('aitimes.com')) return 'AI타임스';
+            if (url.includes('aitimes.kr')) return '인공지능신문';
+            if (url.includes('iitp.kr')) return 'IITP';
+            if (url.includes('nia.or.kr')) return 'NIA';
+            if (url.includes('stepi.re.kr')) return 'STEPI';
+            if (url.includes('nipa.kr')) return 'NIPA';
+            if (url.includes('kisdi.re.kr')) return 'KISDI';
+            if (url.includes('kisti.re.kr')) return 'KISTI';
+            if (url.includes('kisa.or.kr')) return 'KISA';
+            if (url.includes('tta.or.kr')) return 'TTA';
+            const bracketMatch = title.match(/^\[(.*?)\]/);
+            if (bracketMatch) return bracketMatch[1];
+            try {
+                const domain = new URL(url).hostname.replace('www.', '');
+                return domain.split('.')[0].toUpperCase();
+            } catch (e) { return '뉴스'; }
+        }
+
+        function formatHeaderDate(raw) {
+            let cleaned = raw.replace('AI 일일 동향', '').replace(/📢/g, '').trim();
+            const parts = cleaned.split('.').map(p => p.trim());
+            if (parts.length >= 3) {
+                const year = parts[0];
+                const month = parseInt(parts[1]);
+                const day = parseInt(parts[2]);
+                if (isNaN(month) || isNaN(day)) return raw;
+                const dateObj = new Date(2000 + parseInt(year), month - 1, day);
+                const week = ['일','월','화','수','목','금','토'][dateObj.getDay()];
+                return `'${year}. ${month}. ${day}.(${week}) AI 일일 동향`;
+            }
+            return raw;
+        }
+
+        // ========================================
+        // Initialization
+        // ========================================
+        document.addEventListener('DOMContentLoaded', async () => {
+            // Theme
+            initTheme();
+            document.getElementById('themeToggle').addEventListener('click', toggleTheme);
+
+            // Audio
+            const audioPlayer = document.getElementById('audioPlayer');
+            if (audioPlayer) audioPlayer.src = `public/audio.mp3?t=${Date.now()}`;
+
+            // Briefing
             fetchBriefing();
 
-            // 1. data.txt 우선 로드 (최신 데이터 표시)
+            // Latest data (from data.txt)
             fetchLatestText();
 
-            // 2. data.json 로드 (히스토리/달력 초기화용)
+            // Search
+            initSearch();
+
+            // History data (data.json)
             try {
-                const response = await fetch('codes/data.json?t=' + new Date().getTime());
+                const response = await fetch('codes/data.json?t=' + Date.now());
                 if (!response.ok) return;
                 allHistoryData = await response.json();
 
@@ -648,242 +1525,24 @@
                     });
 
                     const formattedDates = dates.map(d => '20' + d.replace(/\./g, '-'));
-                    historyDateInput.min = formattedDates[formattedDates.length - 1]; // 가장 과거
-                    historyDateInput.max = formattedDates[0]; // 가장 최근
-                    historyDateInput.value = ""; // 초기값을 비워야 최근 날짜 선택 시에도 change 이벤트가 발생함
-
-                    // renderHistoryDate(dates[0]); // data.txt 우선이므로 최초 렌더링은 제외
+                    historyDateInput.min = formattedDates[formattedDates.length - 1];
+                    historyDateInput.max = formattedDates[0];
+                    historyDateInput.value = "";
 
                     historyDateInput.addEventListener('change', (e) => {
                         const selectedDate = e.target.value;
                         const key = selectedDate.substring(2).replace(/-/g, '.');
-                        if (allHistoryData[key]) {
-                            renderHistoryDate(key);
-                        } else {
-                            alert('해당 날짜의 데이터가 없습니다.');
-                        }
+                        if (allHistoryData[key]) renderHistoryDate(key);
+                        else alert('해당 날짜의 데이터가 없습니다.');
                     });
+
+                    // Render time series charts
+                    renderTimeSeriesCharts();
                 }
             } catch (error) {
-                console.error('History load skip (running on data.txt only):', error);
+                console.error('History load skip:', error);
             }
         });
-
-        async function fetchLatestText() {
-            try {
-                const response = await fetch('codes/data.txt?t=' + new Date().getTime());
-                if (!response.ok) throw new Error('Failed to fetch data.txt');
-                const text = await response.text();
-                parseAndRender(text);
-            } catch (error) {
-                console.error(error);
-                document.getElementById('content-main').innerHTML = `<p style="text-align:center; color:red;">데이터를 불러오는 중 오류가 발생했습니다.</p>`;
-            }
-        }
-
-        function renderHistoryDate(dateKey) {
-            const data = allHistoryData[dateKey];
-            if (!data) return;
-
-            document.getElementById('main-date').innerText = formatHeaderDate(dateKey + " AI 일일 동향");
-
-            // 선택한 날짜의 브리핑 업데이트
-            const ul = document.getElementById('briefingList');
-            if (data.briefing) {
-                const lines = data.briefing.split('\n');
-                ul.innerHTML = '';
-                lines.forEach(line => {
-                    const cleanLine = line.trim();
-                    if (cleanLine.length > 0) {
-                        const li = document.createElement('li');
-                        li.textContent = cleanLine.replace(/^[-*•\d\.]+\s*/, '');
-                        if (li.textContent.length > 0) {
-                            ul.appendChild(li);
-                        }
-                    }
-                });
-            } else {
-                ul.innerHTML = '<li style="color:#9ca3af;">해당 날짜의 브리핑 데이터가 없습니다.</li>';
-            }
-
-            // Convert categorized JSON to sections array
-            const sections = [];
-            const categorized = data.categorized || {};
-
-            // Order logic: FIXED_CATEGORIES first, then others, then 간행물
-            const FIXED_CATEGORIES = ["국방", "육군", "민간", "기관", "해외", "기타"];
-
-            FIXED_CATEGORIES.forEach(cat => {
-                if (categorized[cat] && categorized[cat].length > 0) {
-                    sections.push({
-                        title: cat,
-                        articles: categorized[cat].map(a => ({ title: a.title, url: a.link }))
-                    });
-                }
-            });
-
-            Object.keys(categorized).forEach(cat => {
-                if (!FIXED_CATEGORIES.includes(cat) && cat !== "간행물") {
-                    sections.push({
-                        title: cat,
-                        articles: categorized[cat].map(a => ({ title: a.title, url: a.link }))
-                    });
-                }
-            });
-
-            if (categorized["간행물"]) {
-                sections.push({
-                    title: "간행물",
-                    articles: categorized["간행물"].map(a => ({ title: a.title, url: a.link }))
-                });
-            }
-
-            renderContent(sections);
-        }
-
-        function parseAndRender(rawText) {
-            const lines = rawText.split('\n').map(l => l.trim()).filter(l => l.length > 0 || l === ''); // empty lines preserved for separator check
-
-            let dateStr = "";
-            let currentSection = null;
-            let sections = [];
-
-            // First line usually has date
-            const dateMatch = lines[0].match(/📢(.*)📢/);
-            if (dateMatch) {
-                dateStr = dateMatch[1].trim();
-                // Add report type if not present
-                if (!dateStr.includes('보고')) dateStr += ' ' + getReportType();
-            } else {
-                dateStr = lines[0].replace(/📢/g, '').trim();
-            }
-            document.getElementById('main-date').innerText = formatHeaderDate(dateStr);
-
-            let i = 1;
-            while (i < lines.length) {
-                let line = lines[i];
-
-                // Section Title [Section] or 📚 Section
-                if (line.startsWith('[') && line.endsWith(']')) {
-                    const title = line.substring(1, line.length - 1);
-                    currentSection = { title, articles: [] };
-                    sections.push(currentSection);
-                } else if (line.startsWith('📚') || line.startsWith('📰') || line.startsWith('🎧')) {
-                    const title = line.replace(/📚|📰|🎧/g, '').trim();
-                    currentSection = { title, articles: [] };
-                    sections.push(currentSection);
-                }
-                // Article Title ◾
-                else if (line.startsWith('◾')) {
-                    const title = line.replace('◾', '').trim();
-                    const url = lines[i + 1] && lines[i + 1].startsWith('http') ? lines[i + 1].trim() : '#';
-                    if (currentSection) {
-                        currentSection.articles.push({ title, url });
-                    }
-                    if (url !== '#') i++; // Skip URL line
-                }
-                // Footer
-                else if (line.startsWith('✅')) {
-                    const footer = document.getElementById('gemini-footer');
-                    if (footer) footer.innerText = line.replace('✅', '').trim();
-                }
-
-                i++;
-            }
-
-            renderContent(sections);
-        }
-
-        function formatHeaderDate(raw) {
-            // Converts "26.03.26 AI 일일 동향" to "'26. 3. 26.(목) 조간보고" style
-            let cleaned = raw.replace('AI 일일 동향', '').replace(/📢/g, '').trim();
-            const parts = cleaned.split('.').map(p => p.trim());
-            if (parts.length >= 3) {
-                const year = parts[0];
-                const month = parseInt(parts[1]);
-                const day = parseInt(parts[2]); // parseInt handles trailing text like "26 AI"
-
-                if (isNaN(month) || isNaN(day)) return raw;
-
-                // Day of week
-                const dateObj = new Date(2000 + parseInt(year), month - 1, day);
-                const week = ['일', '월', '화', '수', '목', '금', '토'][dateObj.getDay()];
-
-                return `'${year}. ${month}. ${day}.(${week}) ${getReportType()}`;
-            }
-            return raw;
-        }
-
-        function getReportType() {
-            return "";
-        }
-
-        function getSourceTag(url, title) {
-            // Source detection based on URL
-            if (url.includes('aikorea.go.kr')) return 'AI전략위';
-            if (url.includes('mnd.go.kr')) return '국방부';
-            if (url.includes('dapa.go.kr')) return '방사청';
-            if (url.includes('msit.go.kr')) return '과기정통부';
-            if (url.includes('kookbang.dema.mil.kr')) return '국방일보';
-            if (url.includes('etnews.com')) return '전자신문';
-            if (url.includes('aitimes.com')) return 'AI타임스';
-            if (url.includes('aitimes.kr')) return '인공지능신문';
-            if (url.includes('iitp.kr')) return 'IITP';
-            if (url.includes('nia.or.kr')) return 'NIA';
-            if (url.includes('stepi.re.kr')) return 'STEPI';
-            if (url.includes('nipa.kr')) return 'NIPA';
-            if (url.includes('kisdi.re.kr')) return 'KISDI';
-            if (url.includes('kisti.re.kr')) return 'KISTI';
-            if (url.includes('kisa.or.kr')) return 'KISA';
-            if (url.includes('tta.or.kr')) return 'TTA';
-
-            // Extract from title bracket [Tag] Title
-            const bracketMatch = title.match(/^\[(.*?)\]/);
-            if (bracketMatch) return bracketMatch[1];
-
-            // Generic domain extraction
-            try {
-                const domain = new URL(url).hostname.replace('www.', '');
-                return domain.split('.')[0].toUpperCase();
-            } catch (e) {
-                return '뉴스';
-            }
-        }
-
-        function renderContent(sections) {
-            const main = document.getElementById('content-main');
-            main.innerHTML = '';
-
-            sections.forEach(section => {
-                if (section.articles.length === 0) return;
-
-                const sectionEl = document.createElement('div');
-                sectionEl.className = 'section-card';
-
-                let sectionTitle = section.title;
-
-                sectionEl.innerHTML = `
-                    <div class="section-header">
-                        <div class="section-bar"></div>
-                        <div class="section-title">${sectionTitle}</div>
-                    </div>
-                    <div class="articles-list">
-                        ${section.articles.map(art => `
-                            <a href="${art.url}" class="article-item" target="_blank">
-                                <div class="article-content">
-                                    <div class="article-title">${art.title}</div>
-                                    <div class="article-footer">
-                                        <div class="article-tag">${getSourceTag(art.url, art.title)}</div>
-                                        <div class="article-link">확인</div>
-                                    </div>
-                                </div>
-                            </a>
-                        `).join('')}
-                    </div>
-                `;
-                main.appendChild(sectionEl);
-            });
-        }
     </script>
 </body>
 
