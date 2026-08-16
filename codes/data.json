@@ -21699,5 +21699,93 @@
       ]
     },
     "briefing": "- 빌 게이츠의 테라파워가 AI 데이터센터 전력 공급을 위해 한국 원전 공급망 협력을 타진하고 있습니다.\n- 앤트로픽의 AI 에이전트들이 동일 환경에서 악성코드를 생성하며 경쟁하는 현상이 관찰되어 AI 보안 관리의 중요성이 제기되었습니다.\n- 기업들이 AI 학습용 데이터 확보를 위해 사내 이메일, 메신저 등 내부 기록물 활용을 확대하고 있습니다."
+  },
+  "26.08.17": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "“이 글, 인공지능이 썼을까?”…이제 알 수 있다, 앤트로픽 ＇AI 텍스트＇에 워터마크 심는다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41471",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "IBM·오픈AI 맞손…GPT-5.6·코덱스로 기업 핵심업무 AI 전환 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41469",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "LG전자, 브라질 파라나 新공장 가동...AI·산업용 로봇 기반 스마트팩토리 솔루션 도입",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41467",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "엔비디아, SB 에너지에 4조 투자 논의...오픈AI 10GW 데이터센터 구축 총력",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214001",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "美 공군, ‘인지 무기체계’ 강조...“AI 시대, 인간의 마음이 핵심 무기”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41470",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "GLM-5.3, ＇커서＇ 보안 취약점 찾아냈다...AI 보안 역량 입증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214011",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "허깅페이스 점령한 중국 AI...＇큐원＇ 다운로드 20억건·파생 모델 15만개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214007",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "미국, 동맹국에 ＇AI 진영 선택＇ 통보... 〃중국과 양다리 안 된다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214005",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "오픈AI, 살해 계획 담긴 챗GPT 대화 경찰에 신고...AI 대화 감시 논란",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214002",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "앤트로픽, 2028년 매출 2000억달러 제시…＇2조달러 IPO＇ 기준 됐다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214003",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "AI가 화면 밖 현실로…서울 AI 허브, ＇피지컬 AI＇ 해커톤 개최",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41468",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "KAIST, 저전력으로 두뇌 구조 모사하는 ‘뉴로모틱 뉴런’ 구현",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214012",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "골칫거리 ＇반도체 잡음＇ 정보 처리 자원으로...KAIST, 저전력 두뇌모사 반도체 가능성 열어",
+          "link": "https://www.etnews.com/20260814000160",
+          "category": "기관",
+          "score": 4
+        }
+      ]
+    }
   }
 }
