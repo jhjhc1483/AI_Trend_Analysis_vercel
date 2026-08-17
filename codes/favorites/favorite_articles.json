@@ -6,16 +6,10 @@
     "score": 4
   },
   {
-    "title": "비드래프트, 범용 LLM서 ‘인과누설’ 탐지…AI 안전성 진단 ‘AX-RAY’ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213958",
-    "category": "민간",
-    "score": 3
-  },
-  {
     "title": "노제경 마스오토 부대표 〃E2E AI로 2028년 무인 화물운송 시대 연다〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=213762",
     "category": "민간",
-    "score": 4
+    "score": 3
   },
   {
     "title": "오픈AI, 코덱스 대대적 개편 예고… 속도 94%·메모리 88% 감축",
@@ -24,10 +18,34 @@
     "score": 4
   },
   {
+    "title": "비드래프트, 범용 LLM서 ‘인과누설’ 탐지…AI 안전성 진단 ‘AX-RAY’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=213958",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "AI 서버 수요에 MLCC 납기 양극화…고사양 제품 10개월 임박",
+    "link": "https://www.etnews.com/20260816000048",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "[人사이트] 김장우 망고부스트 대표 “AI 데이터센터의 ＇혈관＇ 네트워크·패브릭”",
+    "link": "https://www.etnews.com/20260817000082",
+    "category": "민간",
+    "score": 3
+  },
+  {
     "title": "LG, 냉각장치 넘어 AI팩토리 통째로 공급한다",
     "link": "https://www.etnews.com/20260817000034",
     "category": "민간",
     "score": 4
+  },
+  {
+    "title": "“향후 AI 활용이 연구 기관·조직 R&D 역량 격차 좌우하게 될 것”",
+    "link": "https://www.etnews.com/20260817000015",
+    "category": "기관",
+    "score": 3
   },
   {
     "title": "美 AI 데이터센터 가동 시 석탄발전소 27기급 온실가스 배출",
@@ -39,24 +57,6 @@
     "title": "수은, 글렌코어에 10억달러 금융지원…AI 필수재 ＇구리＇ 공급망 확보",
     "link": "https://www.etnews.com/20260817000012",
     "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214026",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "[人사이트] 김장우 망고부스트 대표 “AI 데이터센터의 ＇혈관＇ 네트워크·패브릭”",
-    "link": "https://www.etnews.com/20260817000082",
-    "category": "민간",
     "score": 4
-  },
-  {
-    "title": "화성시, AI시민리더 20명 인증…지역 AI교육 본격화",
-    "link": "https://www.etnews.com/20260817000011",
-    "category": "기관",
-    "score": 3
   }
 ]
