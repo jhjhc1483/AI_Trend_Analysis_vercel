@@ -1,47 +1,42 @@
-📢26.08.17 AI 일일 동향📢
+📢26.08.18 AI 일일 동향📢
 
 📰 오늘의 기사
 [민간]
-◾ “이 글, 인공지능이 썼을까?”…이제 알 수 있다, 앤트로픽 ＇AI 텍스트＇에 워터마크 심는다
-https://www.aitimes.kr/news/articleView.html?idxno=41471
+◾ 비드래프트, 범용 LLM서 ‘인과누설’ 탐지…AI 안전성 진단 ‘AX-RAY’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=213958
 
-◾ IBM·오픈AI 맞손…GPT-5.6·코덱스로 기업 핵심업무 AI 전환 가속
-https://www.aitimes.kr/news/articleView.html?idxno=41469
+◾ 노제경 마스오토 부대표 〃E2E AI로 2028년 무인 화물운송 시대 연다〃
+https://www.aitimes.com/news/articleView.html?idxno=213762
 
-◾ LG전자, 브라질 파라나 新공장 가동...AI·산업용 로봇 기반 스마트팩토리 솔루션 도입
-https://www.aitimes.kr/news/articleView.html?idxno=41467
+◾ LG, 냉각장치 넘어 AI팩토리 통째로 공급한다
+https://www.etnews.com/20260817000034
 
-◾ 엔비디아, SB 에너지에 4조 투자 논의...오픈AI 10GW 데이터센터 구축 총력
-https://www.aitimes.com/news/articleView.html?idxno=214001
+◾ 업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대”
+https://www.aitimes.com/news/articleView.html?idxno=214026
+
+◾ [人사이트] 김장우 망고부스트 대표 “AI 데이터센터의 ＇혈관＇ 네트워크·패브릭”
+https://www.etnews.com/20260817000082
 
 [기관]
-◾ AI가 화면 밖 현실로…서울 AI 허브, ＇피지컬 AI＇ 해커톤 개최
-https://www.aitimes.kr/news/articleView.html?idxno=41468
+◾ 수은, 글렌코어에 10억달러 금융지원…AI 필수재 ＇구리＇ 공급망 확보
+https://www.etnews.com/20260817000012
 
-◾ KAIST, 저전력으로 두뇌 구조 모사하는 ‘뉴로모틱 뉴런’ 구현
-https://www.aitimes.com/news/articleView.html?idxno=214012
-
-◾ 골칫거리 ＇반도체 잡음＇ 정보 처리 자원으로...KAIST, 저전력 두뇌모사 반도체 가능성 열어
-https://www.etnews.com/20260814000160
+◾ 화성시, AI시민리더 20명 인증…지역 AI교육 본격화
+https://www.etnews.com/20260817000011
 
 [해외]
-◾ 美 공군, ‘인지 무기체계’ 강조...“AI 시대, 인간의 마음이 핵심 무기”
-https://www.aitimes.kr/news/articleView.html?idxno=41470
+◾ 독일 모의전서 입증된 우크라이나 드론의 위력…미군 기갑부대, 전술 재검토 착수
+https://www.aitimes.com/news/articleView.html?idxno=214017
 
-◾ GLM-5.3, ＇커서＇ 보안 취약점 찾아냈다...AI 보안 역량 입증
-https://www.aitimes.com/news/articleView.html?idxno=214011
+◾ 오픈AI, 코덱스 대대적 개편 예고… 속도 94%·메모리 88% 감축
+https://www.aitimes.com/news/articleView.html?idxno=214016
 
-◾ 허깅페이스 점령한 중국 AI...＇큐원＇ 다운로드 20억건·파생 모델 15만개
-https://www.aitimes.com/news/articleView.html?idxno=214007
+◾ 美 AI 데이터센터 가동 시 석탄발전소 27기급 온실가스 배출
+https://www.etnews.com/20260817000036
 
-◾ 미국, 동맹국에 ＇AI 진영 선택＇ 통보... 〃중국과 양다리 안 된다〃
-https://www.aitimes.com/news/articleView.html?idxno=214005
-
-◾ 오픈AI, 살해 계획 담긴 챗GPT 대화 경찰에 신고...AI 대화 감시 논란
-https://www.aitimes.com/news/articleView.html?idxno=214002
-
-◾ 앤트로픽, 2028년 매출 2000억달러 제시…＇2조달러 IPO＇ 기준 됐다
-https://www.aitimes.com/news/articleView.html?idxno=214003
+📚 간행물
+◾ [제1303호] AI 기반 미디어 압축을 위한 텐서(Tensor) 압축 표준 기술의 등장
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1303%ED%98%B8%5D%20AI%20%EA%B8%B0%EB%B0%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%95%95%EC%B6%95%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%85%90%EC%84%9C%28Tensor%29%20%EC%95%95%EC%B6%95%20%ED%91%9C%EC%A4%80%20%EA%B8%B0%EC%88%A0%EC%9D%98%20%EB%93%B1%EC%9E%A5
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
