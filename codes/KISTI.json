@@ -542,5 +542,29 @@
         "년": "2026",
         "월": "08",
         "일": "14"
+    },
+    {
+        "제목": "Market Insight 405 : 그래핀(Graphene)",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750650",
+        "년": "2026",
+        "월": "08",
+        "일": "18"
+    },
+    {
+        "제목": "Market Insight 404 : 헬스케어 AI 시장",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750649",
+        "년": "2026",
+        "월": "08",
+        "일": "18"
+    },
+    {
+        "제목": "Market Insight 403 : 지능형 사물 인터넷(AIoT)",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750648",
+        "년": "2026",
+        "월": "08",
+        "일": "18"
     }
 ]
