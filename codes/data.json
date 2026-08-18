@@ -22000,28 +22000,22 @@
           "score": 4
         },
         {
-          "title": "“한국 AI, 미국·중국 이어 세계 3강 굳혔다”…독자 AI 모델 3팀 다음 단계 진출",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41486",
-          "category": "기관",
-          "score": 5
-        },
-        {
           "title": "오픈AI, 전세계 14개 AI 정책 연구 지원...국내 연세대 선정",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214054",
           "category": "기관",
           "score": 3
         },
         {
-          "title": "[속보] 독파모 2차 평가, 업스테이지·SKT·LG AI연구원 통과",
-          "link": "https://www.etnews.com/20260818000173",
+          "title": "업스테이지·SKT·LG 독파모 3차 평가 진출...모티프 탈락",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214041",
           "category": "기관",
           "score": 4
         },
         {
-          "title": "코레일-인천공항공사, SOC AI 협력…철도·항공 데이터 한데 묶는다",
-          "link": "https://www.etnews.com/20260818000108",
+          "title": "업스테이지·LG·SKT, ＇독파모＇ 최종 단계 진출…내년 초 2개팀 선정",
+          "link": "https://www.etnews.com/20260818000323",
           "category": "기관",
-          "score": 3
+          "score": 4
         },
         {
           "title": "조달청, AI부터 안티드론까지 미래기술 74개 공공현장 푼다…＇혁신제품 시범구매＇ 3차 선정",
@@ -22032,14 +22026,20 @@
       ],
       "민간": [
         {
+          "title": "“한국 AI, 미국·중국 이어 세계 3강 굳혔다”…독자 AI 모델 3팀 다음 단계 진출",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41486",
+          "category": "민간",
+          "score": 4
+        },
+        {
           "title": "카스퍼스키, AI 에이전트용 악성코드·백도어 탐지... 에이전틱 AI로 위장한 악성코드 1만5,000개 이상 확인",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41480",
           "category": "민간",
           "score": 3
         },
         {
-          "title": "엔비디아 RTX GPU, 로컬 AI에서 프론티어급 큐웬3.8-27B 코딩 에이전트 구현",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41479",
+          "title": "카카오 “경량 모델 ‘카나나-2’, 안전성 평가서 글로벌 최고 수준”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214049",
           "category": "민간",
           "score": 3
         },
@@ -22060,33 +22060,9 @@
           "link": "https://www.etnews.com/20260818000219",
           "category": "민간",
           "score": 4
-        },
-        {
-          "title": "카스퍼스키, AI 에이전트 보안검사 기능 출시…＇섀도 AI＇ 대응",
-          "link": "https://www.etnews.com/20260818000121",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "KT, 농협경제지주·한국MS 손잡고 유통 AX 사업 확장",
-          "link": "https://www.etnews.com/20260818000087",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "신세계免, ＇비전 AI＇ 안전관리 구축…명동점·물류센터 적용",
-          "link": "https://www.etnews.com/20260818000072",
-          "category": "민간",
-          "score": 3
         }
       ],
       "해외": [
-        {
-          "title": "젠슨 황 〃오픈AI 데이터센터 보증, ＇순환 금융＇ 아니다...임대료 직접 지불〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214050",
-          "category": "해외",
-          "score": 4
-        },
         {
           "title": "앤트로픽, 연간 매출 92조 돌파...두 달 만에 1.4배 폭풍 성장",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214039",
@@ -22106,16 +22082,10 @@
           "score": 3
         },
         {
-          "title": "오라클, AWS와 전략적 협력 강화…기업 DB 이전·AI 활용 가속화",
-          "link": "https://www.etnews.com/20260818000130",
+          "title": "카스퍼스키, AI 에이전트 보안검사 기능 출시…＇섀도 AI＇ 대응",
+          "link": "https://www.etnews.com/20260818000121",
           "category": "해외",
           "score": 3
-        },
-        {
-          "title": "오픈AI, 엔비디아 지원에 10GW 오하이오 데이터센터 임대",
-          "link": "https://www.etnews.com/20260818000002",
-          "category": "해외",
-          "score": 4
         }
       ],
       "간행물": [
@@ -22123,7 +22093,7 @@
           "title": "Market Insight 405 : 그래핀(Graphene)",
           "link": "https://astinet.kr/reports/market-insights/750650",
           "category": "간행물",
-          "score": 3
+          "score": 4
         },
         {
           "title": "Market Insight 404 : 헬스케어 AI 시장",
@@ -22136,15 +22106,8 @@
           "link": "https://astinet.kr/reports/market-insights/750648",
           "category": "간행물",
           "score": 5
-        },
-        {
-          "title": "(2026년 6월 말 기준) 유·무선통신서비스 가입 현황 및 무선데이터 트래픽 통계",
-          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260818-000001&cpage=1&rows=10&searchTarget=all",
-          "category": "간행물",
-          "score": 3
         }
       ]
-    },
-    "briefing": "- 조달청, AI 기술부터 안티드론까지 미래 기술 74개를 공공 현장에 도입하는 '혁신제품 시범구매' 대상자로 선정했습니다.\n- 카스퍼스키, 에이전틱 AI로 위장한 악성코드 급증에 대응하기 위해 AI 에이전트 보안 검사 기능 출시를 제안했습니다.\n- 포스코DX, 전력 효율을 높인 국산 NPU 기반 '비전 AI 플랫폼' 개발을 통해 산업 현장 적용 가능성을 제시했습니다."
+    }
   }
 }

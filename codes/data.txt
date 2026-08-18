@@ -2,11 +2,14 @@
 
 📰 오늘의 기사
 [민간]
+◾ “한국 AI, 미국·중국 이어 세계 3강 굳혔다”…독자 AI 모델 3팀 다음 단계 진출
+https://www.aitimes.kr/news/articleView.html?idxno=41486
+
 ◾ 카스퍼스키, AI 에이전트용 악성코드·백도어 탐지... 에이전틱 AI로 위장한 악성코드 1만5,000개 이상 확인
 https://www.aitimes.kr/news/articleView.html?idxno=41480
 
-◾ 엔비디아 RTX GPU, 로컬 AI에서 프론티어급 큐웬3.8-27B 코딩 에이전트 구현
-https://www.aitimes.kr/news/articleView.html?idxno=41479
+◾ 카카오 “경량 모델 ‘카나나-2’, 안전성 평가서 글로벌 최고 수준”
+https://www.aitimes.com/news/articleView.html?idxno=214049
 
 ◾ 알리바바 클라우드, 韓 제3 데이터센터 가동…AI 풀스택 사업 강화
 https://www.etnews.com/20260818000325
@@ -17,38 +20,23 @@ https://www.etnews.com/20260818000299
 ◾ 포스코DX, 국산 NPU 기반 ＇비전 AI 플랫폼＇ 개발…전력 사용 줄인다
 https://www.etnews.com/20260818000219
 
-◾ 카스퍼스키, AI 에이전트 보안검사 기능 출시…＇섀도 AI＇ 대응
-https://www.etnews.com/20260818000121
-
-◾ KT, 농협경제지주·한국MS 손잡고 유통 AX 사업 확장
-https://www.etnews.com/20260818000087
-
-◾ 신세계免, ＇비전 AI＇ 안전관리 구축…명동점·물류센터 적용
-https://www.etnews.com/20260818000072
-
 [기관]
 ◾ ｢독자 AI 파운데이션 모델｣ 프로젝트 2차 단계평가 결과 발표
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187672&searchOpt=ALL&searchTxt=
 
-◾ “한국 AI, 미국·중국 이어 세계 3강 굳혔다”…독자 AI 모델 3팀 다음 단계 진출
-https://www.aitimes.kr/news/articleView.html?idxno=41486
-
 ◾ 오픈AI, 전세계 14개 AI 정책 연구 지원...국내 연세대 선정
 https://www.aitimes.com/news/articleView.html?idxno=214054
 
-◾ [속보] 독파모 2차 평가, 업스테이지·SKT·LG AI연구원 통과
-https://www.etnews.com/20260818000173
+◾ 업스테이지·SKT·LG 독파모 3차 평가 진출...모티프 탈락
+https://www.aitimes.com/news/articleView.html?idxno=214041
 
-◾ 코레일-인천공항공사, SOC AI 협력…철도·항공 데이터 한데 묶는다
-https://www.etnews.com/20260818000108
+◾ 업스테이지·LG·SKT, ＇독파모＇ 최종 단계 진출…내년 초 2개팀 선정
+https://www.etnews.com/20260818000323
 
 ◾ 조달청, AI부터 안티드론까지 미래기술 74개 공공현장 푼다…＇혁신제품 시범구매＇ 3차 선정
 https://www.etnews.com/20260818000083
 
 [해외]
-◾ 젠슨 황 〃오픈AI 데이터센터 보증, ＇순환 금융＇ 아니다...임대료 직접 지불〃
-https://www.aitimes.com/news/articleView.html?idxno=214050
-
 ◾ 앤트로픽, 연간 매출 92조 돌파...두 달 만에 1.4배 폭풍 성장
 https://www.aitimes.com/news/articleView.html?idxno=214039
 
@@ -58,11 +46,8 @@ https://www.aitimes.com/news/articleView.html?idxno=214038
 ◾ 포티넷, AI 보안 스타트업 ＇버추 AI＇ 인수
 https://www.etnews.com/20260818000262
 
-◾ 오라클, AWS와 전략적 협력 강화…기업 DB 이전·AI 활용 가속화
-https://www.etnews.com/20260818000130
-
-◾ 오픈AI, 엔비디아 지원에 10GW 오하이오 데이터센터 임대
-https://www.etnews.com/20260818000002
+◾ 카스퍼스키, AI 에이전트 보안검사 기능 출시…＇섀도 AI＇ 대응
+https://www.etnews.com/20260818000121
 
 📚 간행물
 ◾ Market Insight 405 : 그래핀(Graphene)
@@ -73,9 +58,6 @@ https://astinet.kr/reports/market-insights/750649
 
 ◾ Market Insight 403 : 지능형 사물 인터넷(AIoT)
 https://astinet.kr/reports/market-insights/750648
-
-◾ (2026년 6월 말 기준) 유·무선통신서비스 가입 현황 및 무선데이터 트래픽 통계
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260818-000001&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
