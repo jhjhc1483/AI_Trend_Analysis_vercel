@@ -1,182 +1,122 @@
 [
   {
-    "title": "피지컬 AI, 국방분야 접목 속도 높인다",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExOTI5NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방",
+    "title": "｢독자 AI 파운데이션 모델｣ 프로젝트 2차 단계평가 결과 발표",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187672&searchOpt=ALL&searchTxt=",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "“한국 AI, 미국·중국 이어 세계 3강 굳혔다”…독자 AI 모델 3팀 다음 단계 진출",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41486",
+    "category": "기관",
     "score": 5
   },
   {
-    "title": "AI로 태양 폭풍 일으키는 ‘활성영역’ 최대 12시간 전 예측한다...NASA, 슬라이딩 윈도 트랜스포머 AI 개발",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41477",
+    "title": "카스퍼스키, AI 에이전트용 악성코드·백도어 탐지... 에이전틱 AI로 위장한 악성코드 1만5,000개 이상 확인",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41480",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "“AI가 세상을 점으로만 본다면?”…칼텍, 연속적인 물리세계 이해하는 ‘뉴럴 오퍼레이터’ 프레임워크 제시",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41474",
+    "title": "엔비디아 RTX GPU, 로컬 AI에서 프론티어급 큐웬3.8-27B 코딩 에이전트 구현",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41479",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "업스테이지 “다음 AI 요약에 ‘솔라’ 전면 적용...실사용 확대”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214026",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "B2C AI 검색 노하우 B2B로 확장… 라이너, 전담 조직 ＇AX 디비전＇ 출범",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214025",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "오픈AI, 코덱스 대대적 개편 예고… 속도 94%·메모리 88% 감축",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214016",
+    "title": "젠슨 황 〃오픈AI 데이터센터 보증, ＇순환 금융＇ 아니다...임대료 직접 지불〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214050",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "독일 모의전서 입증된 우크라이나 드론의 위력…미군 기갑부대, 전술 재검토 착수",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214017",
+    "title": "앤트로픽, 연간 매출 92조 돌파...두 달 만에 1.4배 폭풍 성장",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214039",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "손짓·음성 알아듣는 로봇청소기…미국 매틱, ＇매틱 큐＇로 중국과 차별화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214022",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "〃원하는 AI 벤치마크 직접 만든다〃…아티피셜 애널리시스, ＇옵티마＇ 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214024",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "〃하네스 따라 성과 10% 차〃…＇딥시크-V4 플래시＇ 테스트 결과 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214019",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "비드래프트, 범용 LLM서 ‘인과누설’ 탐지…AI 안전성 진단 ‘AX-RAY’ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=213958",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "KT-서울대병원, 의료 AX 플랫폼 구축 협력",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214014",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "AI 서버 수요에 MLCC 납기 양극화…고사양 제품 10개월 임박",
-    "link": "https://www.etnews.com/20260816000048",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "＇데이터 안 풀고 분석＇ 동형암호, 산업 현장 적용처 찾는다",
-    "link": "https://www.etnews.com/20260817000035",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "[人사이트] 김장우 망고부스트 대표 “AI 데이터센터의 ＇혈관＇ 네트워크·패브릭”",
-    "link": "https://www.etnews.com/20260817000082",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "LG, 냉각장치 넘어 AI팩토리 통째로 공급한다",
-    "link": "https://www.etnews.com/20260817000034",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "“향후 AI 활용이 연구 기관·조직 R&D 역량 격차 좌우하게 될 것”",
-    "link": "https://www.etnews.com/20260817000015",
+    "title": "오픈AI, 전세계 14개 AI 정책 연구 지원...국내 연세대 선정",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214054",
     "category": "기관",
     "score": 3
   },
   {
-    "title": "삼성생명, AI로 ＇예상 인수심사·보험설계＇ 한번에…특허등록 완료",
-    "link": "https://www.etnews.com/20260817000053",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "＇AI＇ 장착한 HR 플랫폼, 2분기 실적 질주",
-    "link": "https://www.etnews.com/20260814000216",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "스포티파이는 ＇AI 페르소나＇까지…국내 플랫폼은 ＇눈치보기＇",
-    "link": "https://www.etnews.com/20260813000274",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "AI 맹신 경계해야…코펜하겐 IT대 “AI 검색 시 2명 중 1명 과잉의존”",
-    "link": "https://www.etnews.com/20260817000051",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "美 AI 데이터센터 가동 시 석탄발전소 27기급 온실가스 배출",
-    "link": "https://www.etnews.com/20260817000036",
+    "title": "엔비디아, 오픈AI 오하이오 데이터센터에 최대 148조 보증 지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214038",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "KT-서울대병원, 의료 AX 플랫폼 구축 맞손…공공의료 혁신",
-    "link": "https://www.etnews.com/20260817000033",
+    "title": "알리바바 클라우드, 韓 제3 데이터센터 가동…AI 풀스택 사업 강화",
+    "link": "https://www.etnews.com/20260818000325",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "美 대학생 22% 전공 변경 “AI가 할 수 있는 것은 피해”",
-    "link": "https://www.etnews.com/20260817000032",
+    "title": "구글 클라우드, 신한투자증권 ＇차세대 AI 에이전트 플랫폼＇ 구축 지원",
+    "link": "https://www.etnews.com/20260818000299",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "포티넷, AI 보안 스타트업 ＇버추 AI＇ 인수",
+    "link": "https://www.etnews.com/20260818000262",
     "category": "해외",
     "score": 3
   },
   {
-    "title": "젠스파크·SBVA, AI 에이전트 미래 논의…“장기 수행형 에이전트 뜬다”",
-    "link": "https://www.etnews.com/20260817000026",
+    "title": "포스코DX, 국산 NPU 기반 ＇비전 AI 플랫폼＇ 개발…전력 사용 줄인다",
+    "link": "https://www.etnews.com/20260818000219",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "AIT에너지, AI 냉각 체험센터 개관…액체냉각 사업 본격화",
-    "link": "https://www.etnews.com/20260817000025",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "[2026 전남광주미래산업박람회] 달구, ＇응급의료 AI 플랫폼＇ 선보인다",
-    "link": "https://www.etnews.com/20260814000341",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "[2026 전남광주미래산업박람회] 두이엔지, AI 기반 자동검사 장비·AMR 공개",
-    "link": "https://www.etnews.com/20260814000339",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "수은, 글렌코어에 10억달러 금융지원…AI 필수재 ＇구리＇ 공급망 확보",
-    "link": "https://www.etnews.com/20260817000012",
+    "title": "[속보] 독파모 2차 평가, 업스테이지·SKT·LG AI연구원 통과",
+    "link": "https://www.etnews.com/20260818000173",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "화성시, AI시민리더 20명 인증…지역 AI교육 본격화",
-    "link": "https://www.etnews.com/20260817000011",
+    "title": "오라클, AWS와 전략적 협력 강화…기업 DB 이전·AI 활용 가속화",
+    "link": "https://www.etnews.com/20260818000130",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "카스퍼스키, AI 에이전트 보안검사 기능 출시…＇섀도 AI＇ 대응",
+    "link": "https://www.etnews.com/20260818000121",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "코레일-인천공항공사, SOC AI 협력…철도·항공 데이터 한데 묶는다",
+    "link": "https://www.etnews.com/20260818000108",
     "category": "기관",
     "score": 3
+  },
+  {
+    "title": "KT, 농협경제지주·한국MS 손잡고 유통 AX 사업 확장",
+    "link": "https://www.etnews.com/20260818000087",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "조달청, AI부터 안티드론까지 미래기술 74개 공공현장 푼다…＇혁신제품 시범구매＇ 3차 선정",
+    "link": "https://www.etnews.com/20260818000083",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "신세계免, ＇비전 AI＇ 안전관리 구축…명동점·물류센터 적용",
+    "link": "https://www.etnews.com/20260818000072",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "오픈AI, 엔비디아 지원에 10GW 오하이오 데이터센터 임대",
+    "link": "https://www.etnews.com/20260818000002",
+    "category": "해외",
+    "score": 4
   }
 ]

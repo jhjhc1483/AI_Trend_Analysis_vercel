@@ -1,7 +1,25 @@
 [
   {
-    "title": "[제1303호] AI 기반 미디어 압축을 위한 텐서(Tensor) 압축 표준 기술의 등장",
-    "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1303%ED%98%B8%5D%20AI%20%EA%B8%B0%EB%B0%98%20%EB%AF%B8%EB%94%94%EC%96%B4%20%EC%95%95%EC%B6%95%EC%9D%84%20%EC%9C%84%ED%95%9C%20%ED%85%90%EC%84%9C%28Tensor%29%20%EC%95%95%EC%B6%95%20%ED%91%9C%EC%A4%80%20%EA%B8%B0%EC%88%A0%EC%9D%98%20%EB%93%B1%EC%9E%A5",
+    "title": "Market Insight 405 : 그래핀(Graphene)",
+    "link": "https://astinet.kr/reports/market-insights/750650",
+    "category": "간행물",
+    "score": 3
+  },
+  {
+    "title": "Market Insight 404 : 헬스케어 AI 시장",
+    "link": "https://astinet.kr/reports/market-insights/750649",
+    "category": "간행물",
+    "score": 4
+  },
+  {
+    "title": "Market Insight 403 : 지능형 사물 인터넷(AIoT)",
+    "link": "https://astinet.kr/reports/market-insights/750648",
+    "category": "간행물",
+    "score": 5
+  },
+  {
+    "title": "(2026년 6월 말 기준) 유·무선통신서비스 가입 현황 및 무선데이터 트래픽 통계",
+    "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260818-000001&cpage=1&rows=10&searchTarget=all",
     "category": "간행물",
     "score": 3
   }

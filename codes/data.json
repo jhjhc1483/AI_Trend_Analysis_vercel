@@ -21989,5 +21989,161 @@
       ]
     },
     "briefing": "- 국방부 관계자들 사이에서 물리적 세계와 상호작용하는 ‘피지컬 AI’를 국방 분야에 접목하려는 움직임이 가속화되고 있습니다.\n- 독일 모의전에서 입증된 우크라이나 드론의 위력으로 인해, 미군 기갑부대가 기존 전술에 대한 재검토에 착수했습니다.\n- AI 활용 능력이 향후 연구 기관 및 조직의 R&D 역량 격차를 결정짓는 핵심 요소가 될 것이라는 전망이 제기되었습니다."
+  },
+  "26.08.19": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "｢독자 AI 파운데이션 모델｣ 프로젝트 2차 단계평가 결과 발표",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187672&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "“한국 AI, 미국·중국 이어 세계 3강 굳혔다”…독자 AI 모델 3팀 다음 단계 진출",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41486",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "오픈AI, 전세계 14개 AI 정책 연구 지원...국내 연세대 선정",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214054",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "[속보] 독파모 2차 평가, 업스테이지·SKT·LG AI연구원 통과",
+          "link": "https://www.etnews.com/20260818000173",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "코레일-인천공항공사, SOC AI 협력…철도·항공 데이터 한데 묶는다",
+          "link": "https://www.etnews.com/20260818000108",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "조달청, AI부터 안티드론까지 미래기술 74개 공공현장 푼다…＇혁신제품 시범구매＇ 3차 선정",
+          "link": "https://www.etnews.com/20260818000083",
+          "category": "기관",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "카스퍼스키, AI 에이전트용 악성코드·백도어 탐지... 에이전틱 AI로 위장한 악성코드 1만5,000개 이상 확인",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41480",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "엔비디아 RTX GPU, 로컬 AI에서 프론티어급 큐웬3.8-27B 코딩 에이전트 구현",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41479",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "알리바바 클라우드, 韓 제3 데이터센터 가동…AI 풀스택 사업 강화",
+          "link": "https://www.etnews.com/20260818000325",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "구글 클라우드, 신한투자증권 ＇차세대 AI 에이전트 플랫폼＇ 구축 지원",
+          "link": "https://www.etnews.com/20260818000299",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "포스코DX, 국산 NPU 기반 ＇비전 AI 플랫폼＇ 개발…전력 사용 줄인다",
+          "link": "https://www.etnews.com/20260818000219",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "카스퍼스키, AI 에이전트 보안검사 기능 출시…＇섀도 AI＇ 대응",
+          "link": "https://www.etnews.com/20260818000121",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "KT, 농협경제지주·한국MS 손잡고 유통 AX 사업 확장",
+          "link": "https://www.etnews.com/20260818000087",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "신세계免, ＇비전 AI＇ 안전관리 구축…명동점·물류센터 적용",
+          "link": "https://www.etnews.com/20260818000072",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "젠슨 황 〃오픈AI 데이터센터 보증, ＇순환 금융＇ 아니다...임대료 직접 지불〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214050",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 연간 매출 92조 돌파...두 달 만에 1.4배 폭풍 성장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214039",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "엔비디아, 오픈AI 오하이오 데이터센터에 최대 148조 보증 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214038",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "포티넷, AI 보안 스타트업 ＇버추 AI＇ 인수",
+          "link": "https://www.etnews.com/20260818000262",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오라클, AWS와 전략적 협력 강화…기업 DB 이전·AI 활용 가속화",
+          "link": "https://www.etnews.com/20260818000130",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, 엔비디아 지원에 10GW 오하이오 데이터센터 임대",
+          "link": "https://www.etnews.com/20260818000002",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "간행물": [
+        {
+          "title": "Market Insight 405 : 그래핀(Graphene)",
+          "link": "https://astinet.kr/reports/market-insights/750650",
+          "category": "간행물",
+          "score": 3
+        },
+        {
+          "title": "Market Insight 404 : 헬스케어 AI 시장",
+          "link": "https://astinet.kr/reports/market-insights/750649",
+          "category": "간행물",
+          "score": 4
+        },
+        {
+          "title": "Market Insight 403 : 지능형 사물 인터넷(AIoT)",
+          "link": "https://astinet.kr/reports/market-insights/750648",
+          "category": "간행물",
+          "score": 5
+        },
+        {
+          "title": "(2026년 6월 말 기준) 유·무선통신서비스 가입 현황 및 무선데이터 트래픽 통계",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260818-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 3
+        }
+      ]
+    }
   }
 }
