@@ -18,17 +18,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=41524
 ◾ AMD, AI 에너지 효율 4배 향상…2030년 20배 목표 순항
 https://www.aitimes.kr/news/articleView.html?idxno=41518
 
-◾ LG유플러스-연세대, AI-RAN 환경서 네트워크 전환 기술 검증
-https://www.aitimes.kr/news/articleView.html?idxno=41516
-
 ◾ 로브로스, AI 휴머노이드 9대 ＇반도체·자동차·물류＇ 현장 동시 투입
 https://www.aitimes.kr/news/articleView.html?idxno=41511
-
-◾ KT, 국내 대표 AI 기업들과 ‘모두의 AI’ 사업 나선다
-https://www.aitimes.kr/news/articleView.html?idxno=41505
-
-◾ 삼성전자, 광주에 2,400억원 투자…AI 데이터센터용 HVAC 생산라인 구축
-https://www.aitimes.kr/news/articleView.html?idxno=41504
 
 ◾ KT, 국산 반도체-모델-API 일체형 ＇소버린AI 어플라이언스＇ 출시
 https://www.aitimes.com/news/articleView.html?idxno=214108
@@ -39,17 +30,8 @@ https://www.etnews.com/20260819000118
 ◾ AI 에이전트 ＇월권＇ 막아라…IT서비스사, 통제체계 구축 속도
 https://www.etnews.com/20260819000269
 
-◾ 네이버, 에이전트로 지도 초개인화…플레이스 에이전트 신규 기술 개발 착수
-https://www.etnews.com/20260819000278
-
-◾ 엔코아, 한화시스템과 맞손…“제조 AX 사업 협력”
-https://www.etnews.com/20260819000274
-
-◾ 라온시큐어, 업스테이지 ＇독파모＇ 컨소 합류…AI 보안 맡아
-https://www.etnews.com/20260819000077
-
-◾ SK쉴더스, AI 에이전트 보안 강화…NHI 관리 나선다
-https://www.etnews.com/20260819000039
+◾ 통신 3사 ＇모두의AI＇ 출사표…“국민 모두에게 AI 혜택 제공”
+https://www.etnews.com/20260819000134
 
 ◾ KT, 국산 NPU·LLM 결합 ＇NPU LLM 스테이션＇ 출시
 https://www.etnews.com/20260819000020
