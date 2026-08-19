@@ -22110,5 +22110,181 @@
       ]
     },
     "briefing": "- 조달청이 AI 및 안티드론 기술 등 74개 미래 혁신제품을 공공 현장에 도입하기 위한 시범구매 사업을 추진합니다.\n- 카스퍼스키가 AI 에이전트로 위장한 악성코드와 섀도 AI 위협을 탐지 및 차단하는 보안 검사 기능을 출시했습니다.\n- 포스코DX가 전력 효율을 높인 국산 NPU 기반의 비전 AI 플랫폼을 개발하여 산업 현장 적용을 시도합니다."
+  },
+  "26.08.20": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "딥엑스 NPU,  과기부 ‘혁신제품’ 지정…국방·공공 AI 시장 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41514",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "모빌린트 AI 반도체, 해군 차세대 AI 경계체계에 공급…국방 시장 본격 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41513",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "윌로그·국방혁신기술보안협회, MOU…국방 물류·보안 AIoT 협력",
+          "link": "https://www.etnews.com/20260819000371",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "세레브라스, 혁신적인 AI 가속기 ‘CS-4’ 공개… GPU 대비 최대 30배 빠른 추론 속도",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41524",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "AMD, AI 에너지 효율 4배 향상…2030년 20배 목표 순항",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41518",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "LG유플러스-연세대, AI-RAN 환경서 네트워크 전환 기술 검증",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41516",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "로브로스, AI 휴머노이드 9대 ＇반도체·자동차·물류＇ 현장 동시 투입",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41511",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "KT, 국내 대표 AI 기업들과 ‘모두의 AI’ 사업 나선다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41505",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "삼성전자, 광주에 2,400억원 투자…AI 데이터센터용 HVAC 생산라인 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41504",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "KT, 국산 반도체-모델-API 일체형 ＇소버린AI 어플라이언스＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214108",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "[이슈플러스] AI 공룡 ＇루프 엔지니어링＇ 격전…“스스로 최적화하는 시대 열렸다”",
+          "link": "https://www.etnews.com/20260819000118",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "AI 에이전트 ＇월권＇ 막아라…IT서비스사, 통제체계 구축 속도",
+          "link": "https://www.etnews.com/20260819000269",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "네이버, 에이전트로 지도 초개인화…플레이스 에이전트 신규 기술 개발 착수",
+          "link": "https://www.etnews.com/20260819000278",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "엔코아, 한화시스템과 맞손…“제조 AX 사업 협력”",
+          "link": "https://www.etnews.com/20260819000274",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "라온시큐어, 업스테이지 ＇독파모＇ 컨소 합류…AI 보안 맡아",
+          "link": "https://www.etnews.com/20260819000077",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "SK쉴더스, AI 에이전트 보안 강화…NHI 관리 나선다",
+          "link": "https://www.etnews.com/20260819000039",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "KT, 국산 NPU·LLM 결합 ＇NPU LLM 스테이션＇ 출시",
+          "link": "https://www.etnews.com/20260819000020",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "DGIST, 자체 기술 역량으로 ＇인공지능 전환＇ 이끈다… 첨단 AI 캠퍼스 구축 본격화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41506",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "한국피지컬AI협회, 25일 ＇피지컬AI 글로벌 최강 전략＇ 개최…K-피지컬 AI 기술자립 논의",
+          "link": "https://www.etnews.com/20260819000116",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI, 오픈라우터서 ＇GPT-5.6＇ 절반가 할인...앤트로픽 사용량 2배 넘어",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214099",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "커서, 자체 코드 플랫폼 ＇오리진＇ 출시...〃사람 대신 에이전트 중심〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214101",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "〃기술 개발은 미국, 상업화는 중국〃...유니트리, 미국 연구 기반으로 로봇견 시장 장악",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214124",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "DJI, 미국 제재 소송서 반전...항소법원 〃중국 군수업체 지정 재검증하라〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214126",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "＇추론 칩＇ 에치드, 기업 가치 29조 돌파...한 달 만에 몸값 2배로 상승",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214109",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "딥시크, ＇루프＇ 오픈소스 승부수…AI 생태계 선점 경쟁 점화",
+          "link": "https://www.etnews.com/20260819000243",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, 보안 위협에 AI 개발 속도 늦췄다…모델 훈련 일시 중단",
+          "link": "https://www.etnews.com/20260819000001",
+          "category": "해외",
+          "score": 5
+        }
+      ],
+      "간행물": [
+        {
+          "title": "2025년도 에너지R&D 통계",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260819-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 3
+        }
+      ]
+    }
   }
 }
