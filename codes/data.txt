@@ -1,73 +1,125 @@
-📢26.08.20 AI 일일 동향📢
+📢26.08.21 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 딥엑스 NPU,  과기부 ‘혁신제품’ 지정…국방·공공 AI 시장 확대
-https://www.aitimes.kr/news/articleView.html?idxno=41514
+◾ [The AI] 국방 AI, 더 좋은 모델보다 더 나은 제도가 먼저다 ('26. 8. 18.)
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=878
 
-◾ 모빌린트 AI 반도체, 해군 차세대 AI 경계체계에 공급…국방 시장 본격 확대
-https://www.aitimes.kr/news/articleView.html?idxno=41513
+◾ AI 전쟁, 선택이 아닌 필수
+https://kookbang.dema.mil.kr/newsWeb/20260821/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=XF4gA4TF20g6f0ql93ka2GIXpEh8Uwk8nbWO9y5d1oYT5RiVeD5p!-172114094
 
-◾ 윌로그·국방혁신기술보안협회, MOU…국방 물류·보안 AIoT 협력
-https://www.etnews.com/20260819000371
+◾ [전자파학회 하계학술대회] AI 시대 통신 병목 뚫는 전파…국방·심우주로 무대 넓혔다
+https://www.etnews.com/20260820000287
+
+◾ 소프트캠프-인미래전략연구원, 공공·국방 보안시장 공략 협력
+https://www.etnews.com/20260820000253
+
+◾ AI가 바꾼 사이버전…24시간 내 공격 현실화
+https://www.etnews.com/20260820000071
+
+[육군]
+◾ [2026 UFS 연습] 드론·AI승리 보장하기에…강력한 힘
+https://kookbang.dema.mil.kr/newsWeb/20260821/11/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=XF4gA4TF20g6f0ql93ka2GIXpEh8Uwk8nbWO9y5d1oYT5RiVeD5p!-172114094
+
+◾ [2026 UFS 연습] 드론·AI승리 보장하기에…강력한 힘
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExOTU5NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
-◾ 세레브라스, 혁신적인 AI 가속기 ‘CS-4’ 공개… GPU 대비 최대 30배 빠른 추론 속도
-https://www.aitimes.kr/news/articleView.html?idxno=41524
+◾ 오픈AI, ‘제로 데이터 보존’ 고객 위한 프라이빗 안전 처리 공개…“콘텐츠 안 보고도 AI 오남용 탐지”
+https://www.aitimes.kr/news/articleView.html?idxno=41542
 
-◾ AMD, AI 에너지 효율 4배 향상…2030년 20배 목표 순항
-https://www.aitimes.kr/news/articleView.html?idxno=41518
+◾ 〃보는 데이터 넘어, 행동하는 데이터로〃…세일즈포스, ‘에이전틱 분석’ 시대 본격화
+https://www.aitimes.kr/news/articleView.html?idxno=41538
 
-◾ 로브로스, AI 휴머노이드 9대 ＇반도체·자동차·물류＇ 현장 동시 투입
-https://www.aitimes.kr/news/articleView.html?idxno=41511
+◾ LG유플러스, AI 기반 건물 관리 솔루션 ‘AI빌딩넷 by ixi’ 출시
+https://www.aitimes.kr/news/articleView.html?idxno=41536
 
-◾ KT, 국산 반도체-모델-API 일체형 ＇소버린AI 어플라이언스＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=214108
+◾ 클라우데라, 엔비디아와 협력해 아파치 스파크 가속… 클라우드 비용 절감
+https://www.aitimes.kr/news/articleView.html?idxno=41533
 
-◾ [이슈플러스] AI 공룡 ＇루프 엔지니어링＇ 격전…“스스로 최적화하는 시대 열렸다”
-https://www.etnews.com/20260819000118
+◾ 스틸컷, 서울대 공대에 딥페이크 선제방어 기술 상용 적용
+https://www.aitimes.kr/news/articleView.html?idxno=41532
 
-◾ AI 에이전트 ＇월권＇ 막아라…IT서비스사, 통제체계 구축 속도
-https://www.etnews.com/20260819000269
+◾ 와이즈스톤, LLM·생성형 AI 검증 리드할 ‘AI 테스트 아키텍트’ 양성 나서
+https://www.aitimes.kr/news/articleView.html?idxno=41525
 
-◾ 통신 3사 ＇모두의AI＇ 출사표…“국민 모두에게 AI 혜택 제공”
-https://www.etnews.com/20260819000134
+◾ 〃AI 에이전트 허점 먼저 파악한다〃...파브릭스, 자율형 레드팀 도구 ‘닉스’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=214176
 
-◾ KT, 국산 NPU·LLM 결합 ＇NPU LLM 스테이션＇ 출시
-https://www.etnews.com/20260819000020
+◾ 래블업, ＇OCP 코리아 테크 데이＇서 AI 에이전트 보안·이기종 가속기 테스트베드 발표
+https://www.aitimes.com/news/articleView.html?idxno=214179
+
+◾ AI 학습에 개인정보 활용 길 열린다
+https://www.etnews.com/20260820000393
+
+◾ 제논, 개방형 AI 에이전트 포털 ＇제나＇로 모두의 AI 출사표
+https://www.etnews.com/20260820000380
+
+◾ 마키나락스, AI 컨퍼런스 ＇어텐션＇ 9월 개최…“AI 주권 확보해야”
+https://www.etnews.com/20260820000362
+
+◾ 제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”
+https://www.etnews.com/20260820000166
+
+◾ 국산 NPU업계 “개방형 AI 인프라 생태계 구축해야”
+https://www.etnews.com/20260820000118
+
+◾ LG CNS, 타워팰리스에 경비로봇 도입…RX 플랫폼 ＇피지컬웍스＇ 적용
+https://www.etnews.com/20260820000013
+
+◾ KT, 16개 AI 스타트업 손잡고 AX 사업 발굴
+https://www.etnews.com/20260820000081
 
 [기관]
-◾ DGIST, 자체 기술 역량으로 ＇인공지능 전환＇ 이끈다… 첨단 AI 캠퍼스 구축 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=41506
+◾ 과기정통부, 개방형 AI 컴퓨팅 인프라 생태계 구축을 위한 민관 협력 방안 논의
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187680&searchOpt=ALL&searchTxt=
 
-◾ 한국피지컬AI협회, 25일 ＇피지컬AI 글로벌 최강 전략＇ 개최…K-피지컬 AI 기술자립 논의
-https://www.etnews.com/20260819000116
+◾ KT, 인공지능 스타트업 16개사 선정...미래 AX 사업 발굴 나선다
+https://www.aitimes.kr/news/articleView.html?idxno=41531
+
+◾ KAIST, 산소 ‘전용 통로’로 AI 반도체 성능 높이고 전력 낮춘다
+https://www.aitimes.com/news/articleView.html?idxno=214177
+
+◾ ETRI, ＇OCP 코리아 테크 데이＇서 국산 AI 반도체 경쟁력 높일 시스템SW 3종 공개
+https://www.aitimes.com/news/articleView.html?idxno=214180
+
+◾ 한국연구재단, 전사 AX 본격화…AI 전략·실행체계 구축
+https://www.etnews.com/20260820000408
+
+◾ 30년 만에 고용센터 대수술…AI가 행정 맡고 취업상담 시간 4배 늘린다
+https://www.etnews.com/20260820000167
+
+◾ 정부, 국유재산 1403조 ＇돈 되는 자산＇으로…개발 늘리고 AI로 관리
+https://www.etnews.com/20260820000129
+
+◾ 정부, 8800억 초장기펀드 가동…AI·반도체 외 첨단산업에 40% 투자
+https://www.etnews.com/20260820000289
+
+◾ 금감원, AI로 코인 시세조종 잡는다…탐지부터 보고서까지 자동화
+https://www.etnews.com/20260820000038
+
+◾ 제4대 AICA 단장 “누가 올까” 관심…2단계·AI반도체·독립기관 등 현안 산적
+https://www.etnews.com/20260819000370
 
 [해외]
-◾ 오픈AI, 오픈라우터서 ＇GPT-5.6＇ 절반가 할인...앤트로픽 사용량 2배 넘어
-https://www.aitimes.com/news/articleView.html?idxno=214099
+◾ 세레브라스, 차세대 AI 가속기 ＇CS-4＇ 공개…〃GPU 대비 최대 30배 빠른 추론 성능〃
+https://www.aitimes.com/news/articleView.html?idxno=214166
 
-◾ 커서, 자체 코드 플랫폼 ＇오리진＇ 출시...〃사람 대신 에이전트 중심〃
-https://www.aitimes.com/news/articleView.html?idxno=214101
+◾ 디노티시아, OCP서 벡터 DB 반도체 ＇VDPU＇로 스토리지 병목 해소한다
+https://www.aitimes.com/news/articleView.html?idxno=214175
 
-◾ 〃기술 개발은 미국, 상업화는 중국〃...유니트리, 미국 연구 기반으로 로봇견 시장 장악
-https://www.aitimes.com/news/articleView.html?idxno=214124
+◾ 오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져
+https://www.aitimes.com/news/articleView.html?idxno=214142
 
-◾ DJI, 미국 제재 소송서 반전...항소법원 〃중국 군수업체 지정 재검증하라〃
-https://www.aitimes.com/news/articleView.html?idxno=214126
-
-◾ ＇추론 칩＇ 에치드, 기업 가치 29조 돌파...한 달 만에 몸값 2배로 상승
-https://www.aitimes.com/news/articleView.html?idxno=214109
-
-◾ 딥시크, ＇루프＇ 오픈소스 승부수…AI 생태계 선점 경쟁 점화
-https://www.etnews.com/20260819000243
-
-◾ 오픈AI, 보안 위협에 AI 개발 속도 늦췄다…모델 훈련 일시 중단
-https://www.etnews.com/20260819000001
+◾ [테크 차이나] 논문 다음은 누가 맡나…중국 ＇전국중점실험실＇ 재편 속뜻
+https://www.etnews.com/20260812000040
 
 📚 간행물
-◾ 2025년도 에너지R&D 통계
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260819-000001&cpage=1&rows=10&searchTarget=all
+◾ [26-23] 미국 하원, 「AI 킬스위치법」(안) 발의 ('26.7.23)
+https://www.kisa.or.kr/20201/form?postSeq=292&page=1
+
+◾ [26-22] 미국 하원, 「프런티어법」(안) 발의 ('26.7.23)
+https://www.kisa.or.kr/20201/form?postSeq=291&page=1
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
