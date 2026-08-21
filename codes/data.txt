@@ -1,125 +1,57 @@
-📢26.08.21 AI 일일 동향📢
+📢26.08.22 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ [The AI] 국방 AI, 더 좋은 모델보다 더 나은 제도가 먼저다 ('26. 8. 18.)
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=878
-
-◾ AI 전쟁, 선택이 아닌 필수
-https://kookbang.dema.mil.kr/newsWeb/20260821/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=XF4gA4TF20g6f0ql93ka2GIXpEh8Uwk8nbWO9y5d1oYT5RiVeD5p!-172114094
-
-◾ [전자파학회 하계학술대회] AI 시대 통신 병목 뚫는 전파…국방·심우주로 무대 넓혔다
-https://www.etnews.com/20260820000287
-
-◾ 소프트캠프-인미래전략연구원, 공공·국방 보안시장 공략 협력
-https://www.etnews.com/20260820000253
-
-◾ AI가 바꾼 사이버전…24시간 내 공격 현실화
-https://www.etnews.com/20260820000071
-
-[육군]
-◾ [2026 UFS 연습] 드론·AI승리 보장하기에…강력한 힘
-https://kookbang.dema.mil.kr/newsWeb/20260821/11/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=XF4gA4TF20g6f0ql93ka2GIXpEh8Uwk8nbWO9y5d1oYT5RiVeD5p!-172114094
-
-◾ [2026 UFS 연습] 드론·AI승리 보장하기에…강력한 힘
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzExOTU5NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ SIA-명지대학교 ‘국방 AI 센터’ 설립… 국방 스타트업 기술 실증·글로벌 진출 기반 마련
+https://www.aitimes.kr/news/articleView.html?idxno=41551
 
 [민간]
-◾ 오픈AI, ‘제로 데이터 보존’ 고객 위한 프라이빗 안전 처리 공개…“콘텐츠 안 보고도 AI 오남용 탐지”
-https://www.aitimes.kr/news/articleView.html?idxno=41542
+◾ 커서, 장기 목표 기능 ＇/goal＇ 도입...스스로 작업하는 자율 에이전트 진화
+https://www.aitimes.com/news/articleView.html?idxno=214205
 
-◾ 〃보는 데이터 넘어, 행동하는 데이터로〃…세일즈포스, ‘에이전틱 분석’ 시대 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=41538
+◾ 휴먼 랩스, 피지컬 AI 전용 ＇인간 데이터＇ 플랫폼 구축...로봇 스킬 학습 가속
+https://www.aitimes.com/news/articleView.html?idxno=214226
 
-◾ LG유플러스, AI 기반 건물 관리 솔루션 ‘AI빌딩넷 by ixi’ 출시
-https://www.aitimes.kr/news/articleView.html?idxno=41536
+◾ 아이에이클라우드, OCP서 모듈형 AI 데이터센터 ＇네오큐브＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=214228
 
-◾ 클라우데라, 엔비디아와 협력해 아파치 스파크 가속… 클라우드 비용 절감
-https://www.aitimes.kr/news/articleView.html?idxno=41533
+◾ 삼성전자 SAIT, AI 반도체 ＇초미세 배선 저항＇ 난제 풀 기술 구현
+https://www.etnews.com/20260821000219
 
-◾ 스틸컷, 서울대 공대에 딥페이크 선제방어 기술 상용 적용
-https://www.aitimes.kr/news/articleView.html?idxno=41532
+◾ 투모로로보틱스, AWS 피지컬 AI 프론티어 1기 선정
+https://www.etnews.com/20260821000181
 
-◾ 와이즈스톤, LLM·생성형 AI 검증 리드할 ‘AI 테스트 아키텍트’ 양성 나서
-https://www.aitimes.kr/news/articleView.html?idxno=41525
+◾ 카카오, AI·투자사업 인적분할…＇카카오AI·카카오X＇로 재편
+https://www.etnews.com/20260821000086
 
-◾ 〃AI 에이전트 허점 먼저 파악한다〃...파브릭스, 자율형 레드팀 도구 ‘닉스’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=214176
-
-◾ 래블업, ＇OCP 코리아 테크 데이＇서 AI 에이전트 보안·이기종 가속기 테스트베드 발표
-https://www.aitimes.com/news/articleView.html?idxno=214179
-
-◾ AI 학습에 개인정보 활용 길 열린다
-https://www.etnews.com/20260820000393
-
-◾ 제논, 개방형 AI 에이전트 포털 ＇제나＇로 모두의 AI 출사표
-https://www.etnews.com/20260820000380
-
-◾ 마키나락스, AI 컨퍼런스 ＇어텐션＇ 9월 개최…“AI 주권 확보해야”
-https://www.etnews.com/20260820000362
-
-◾ 제조기업 84% 피지컬AI 도입한다…“다음은 휴머노이드”
-https://www.etnews.com/20260820000166
-
-◾ 국산 NPU업계 “개방형 AI 인프라 생태계 구축해야”
-https://www.etnews.com/20260820000118
-
-◾ LG CNS, 타워팰리스에 경비로봇 도입…RX 플랫폼 ＇피지컬웍스＇ 적용
-https://www.etnews.com/20260820000013
-
-◾ KT, 16개 AI 스타트업 손잡고 AX 사업 발굴
-https://www.etnews.com/20260820000081
+◾ KT, 전자파학회서 고효율 AI 인프라 전략 제시
+https://www.etnews.com/20260821000038
 
 [기관]
-◾ 과기정통부, 개방형 AI 컴퓨팅 인프라 생태계 구축을 위한 민관 협력 방안 논의
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187680&searchOpt=ALL&searchTxt=
+◾ 공공조달 AI 대전환 속도 낸다… 조달청, ‘인공지능조달혁신과’출범
+https://www.aitimes.kr/news/articleView.html?idxno=41549
 
-◾ KT, 인공지능 스타트업 16개사 선정...미래 AX 사업 발굴 나선다
-https://www.aitimes.kr/news/articleView.html?idxno=41531
+◾ 포티투마루, 화성시 ＇민원 행정 AI 플랫폼＇ 구축한다
+https://www.aitimes.com/news/articleView.html?idxno=214231
 
-◾ KAIST, 산소 ‘전용 통로’로 AI 반도체 성능 높이고 전력 낮춘다
-https://www.aitimes.com/news/articleView.html?idxno=214177
+◾ 〃AI로 사회문제 해결한다〃…과기부, 2026 AI·디지털 챌린지 공모
+https://www.aitimes.com/news/articleView.html?idxno=214211
 
-◾ ETRI, ＇OCP 코리아 테크 데이＇서 국산 AI 반도체 경쟁력 높일 시스템SW 3종 공개
-https://www.aitimes.com/news/articleView.html?idxno=214180
+◾ 전북도, ＇피지컬AI·로봇 산업＇ 양대 축으로 육성…전주기 생태계 구축
+https://www.etnews.com/20260821000094
 
-◾ 한국연구재단, 전사 AX 본격화…AI 전략·실행체계 구축
-https://www.etnews.com/20260820000408
-
-◾ 30년 만에 고용센터 대수술…AI가 행정 맡고 취업상담 시간 4배 늘린다
-https://www.etnews.com/20260820000167
-
-◾ 정부, 국유재산 1403조 ＇돈 되는 자산＇으로…개발 늘리고 AI로 관리
-https://www.etnews.com/20260820000129
-
-◾ 정부, 8800억 초장기펀드 가동…AI·반도체 외 첨단산업에 40% 투자
-https://www.etnews.com/20260820000289
-
-◾ 금감원, AI로 코인 시세조종 잡는다…탐지부터 보고서까지 자동화
-https://www.etnews.com/20260820000038
-
-◾ 제4대 AICA 단장 “누가 올까” 관심…2단계·AI반도체·독립기관 등 현안 산적
-https://www.etnews.com/20260819000370
+◾ 조달청, AI 전담조직 신설…＇지능형 조달＇ 속도
+https://www.etnews.com/20260821000050
 
 [해외]
-◾ 세레브라스, 차세대 AI 가속기 ＇CS-4＇ 공개…〃GPU 대비 최대 30배 빠른 추론 성능〃
-https://www.aitimes.com/news/articleView.html?idxno=214166
+◾ 마이크론, 14조 투자해 미국 첫 AI 메모리 전문 연구소 설립
+https://www.aitimes.com/news/articleView.html?idxno=214209
 
-◾ 디노티시아, OCP서 벡터 DB 반도체 ＇VDPU＇로 스토리지 병목 해소한다
-https://www.aitimes.com/news/articleView.html?idxno=214175
+◾ 〃시연 한 번으로 기술 습득〃…제너럴리스트, 로봇 모델 ＇GEN-1.5＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=214204
 
-◾ 오픈AI, 2분기 매출 9조·영업손실 17조...앤트로픽과 격차 벌어져
-https://www.aitimes.com/news/articleView.html?idxno=214142
-
-◾ [테크 차이나] 논문 다음은 누가 맡나…중국 ＇전국중점실험실＇ 재편 속뜻
-https://www.etnews.com/20260812000040
-
-📚 간행물
-◾ [26-23] 미국 하원, 「AI 킬스위치법」(안) 발의 ('26.7.23)
-https://www.kisa.or.kr/20201/form?postSeq=292&page=1
-
-◾ [26-22] 미국 하원, 「프런티어법」(안) 발의 ('26.7.23)
-https://www.kisa.or.kr/20201/form?postSeq=291&page=1
+◾ 앤트로픽, 기업 데이터 통제권 강화…이달말 IPO 신청
+https://www.etnews.com/20260821000003
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

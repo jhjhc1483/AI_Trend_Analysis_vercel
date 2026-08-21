@@ -22496,5 +22496,113 @@
       ]
     },
     "briefing": "- 국방 AI 분야에서 기술적 고도화뿐만 아니라 이를 뒷받침할 제도적 기반 마련이 선행되어야 한다는 주장이 제기되었습니다.\n- 최근 UFS 연습에서 드론과 AI를 활용한 전력의 중요성이 강조됨에 따라, 우리 군의 승리를 보장하기 위한 강력한 AI 역량 강화 필요성이 대두되었습니다.\n- AI 기술 발전으로 인해 사이버전의 공격 속도가 24시간 이내로 단축되는 등 위협이 현실화됨에 따라 관련 대응 체계의 중요성이 커지고 있습니다."
+  },
+  "26.08.22": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "SIA-명지대학교 ‘국방 AI 센터’ 설립… 국방 스타트업 기술 실증·글로벌 진출 기반 마련",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41551",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "공공조달 AI 대전환 속도 낸다… 조달청, ‘인공지능조달혁신과’출범",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41549",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "포티투마루, 화성시 ＇민원 행정 AI 플랫폼＇ 구축한다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214231",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "〃AI로 사회문제 해결한다〃…과기부, 2026 AI·디지털 챌린지 공모",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214211",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "전북도, ＇피지컬AI·로봇 산업＇ 양대 축으로 육성…전주기 생태계 구축",
+          "link": "https://www.etnews.com/20260821000094",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "조달청, AI 전담조직 신설…＇지능형 조달＇ 속도",
+          "link": "https://www.etnews.com/20260821000050",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "커서, 장기 목표 기능 ＇/goal＇ 도입...스스로 작업하는 자율 에이전트 진화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214205",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "휴먼 랩스, 피지컬 AI 전용 ＇인간 데이터＇ 플랫폼 구축...로봇 스킬 학습 가속",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214226",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "아이에이클라우드, OCP서 모듈형 AI 데이터센터 ＇네오큐브＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214228",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "삼성전자 SAIT, AI 반도체 ＇초미세 배선 저항＇ 난제 풀 기술 구현",
+          "link": "https://www.etnews.com/20260821000219",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "투모로로보틱스, AWS 피지컬 AI 프론티어 1기 선정",
+          "link": "https://www.etnews.com/20260821000181",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "카카오, AI·투자사업 인적분할…＇카카오AI·카카오X＇로 재편",
+          "link": "https://www.etnews.com/20260821000086",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "KT, 전자파학회서 고효율 AI 인프라 전략 제시",
+          "link": "https://www.etnews.com/20260821000038",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "마이크론, 14조 투자해 미국 첫 AI 메모리 전문 연구소 설립",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214209",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "〃시연 한 번으로 기술 습득〃…제너럴리스트, 로봇 모델 ＇GEN-1.5＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214204",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "앤트로픽, 기업 데이터 통제권 강화…이달말 IPO 신청",
+          "link": "https://www.etnews.com/20260821000003",
+          "category": "해외",
+          "score": 5
+        }
+      ]
+    }
   }
 }
