@@ -9,31 +9,40 @@ https://www.etnews.com/20260820000196
 ◾ 오픈AI, 최고급 ＇GPT-5.6 솔＇ 가격 한시 인하…3개월간 20%↓
 https://www.etnews.com/20260823000066
 
-◾ 대기업부터 스타트업까지…보안 특화 AI 사업 ＇4파전＇ 전망
-https://www.etnews.com/20260821000126
+◾ 카카오, ＇카카오AI＇와 ＇카카오X＇로 나눴다!...‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다
+https://www.aitimes.kr/news/articleView.html?idxno=41560
 
-◾ 디플리, 음향 AI로 ＇로봇의 귀＇ 단다…내년 美 시장 본격 진출
-https://www.etnews.com/20260821000127
+◾ 에임인텔리전스 〃AI 사고 막으려면 공격·방어 결합 ＇퍼플티밍＇이 해답〃
+https://www.aitimes.com/news/articleView.html?idxno=214018
 
-◾ [뉴스줌인] 카카오, AI와 투자 회사로 쪼갠다…＇복합기업 할인＇ 해소 승부수
-https://www.etnews.com/20260821000253
+◾ “솔라 프로 4로 코드 리뷰 가능”…업스테이지, ‘코드 솔라’ 공개
+https://www.aitimes.com/news/articleView.html?idxno=214235
 
 [기관]
-◾ 서울시, 생성형 AI 위협 대응 첫 ＇사이버보안 기본계획＇ 수립 추진
-https://www.etnews.com/20260821000248
-
 ◾ KT, ＇모두의 AI＇ 컨소시엄 구성…국산 NPU·AI 모델·클라우드 결집
 https://www.etnews.com/20260823000050
+
+◾ 서울시, 생성형 AI 위협 대응 첫 ＇사이버보안 기본계획＇ 수립 추진
+https://www.etnews.com/20260821000248
 
 ◾ 행안부, AI 친화적 보고서 전면 도입…“표·그림 대신 서술형 텍스트로”
 https://www.etnews.com/20260823000027
 
-◾ 스마트인재개발원, K-하이테크 플랫폼 운영…지역 산업 AX 전환 지원
-https://www.etnews.com/20260823000018
-
 [해외]
+◾ 〃AI 모델 해킹 사고 때문?〃…오픈AI, 캘리포니아 AI 규제법 지지로 급선회
+https://www.aitimes.com/news/articleView.html?idxno=214257
+
+◾ 앤트로픽, IPO서 138조 조달 목표…역대 최대 상장 기록 경신 전망
+https://www.aitimes.com/news/articleView.html?idxno=214254
+
 ◾ 엔비디아, 고객사에 AI 서버 가격 15% 인상 예고
 https://www.etnews.com/20260823000044
+
+◾ 〃LLM보다 하네스가 핵심〃…엔비디아 AVO, 장기 에이전트 가능성 입증
+https://www.aitimes.com/news/articleView.html?idxno=214256
+
+◾ 리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증
+https://www.aitimes.com/news/articleView.html?idxno=214258
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

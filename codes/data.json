@@ -22721,32 +22721,6 @@
   },
   "26.08.24": {
     "categorized": {
-      "민간": [
-        {
-          "title": "오픈AI, 최고급 ＇GPT-5.6 솔＇ 가격 한시 인하…3개월간 20%↓",
-          "link": "https://www.etnews.com/20260823000066",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "대기업부터 스타트업까지…보안 특화 AI 사업 ＇4파전＇ 전망",
-          "link": "https://www.etnews.com/20260821000126",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "디플리, 음향 AI로 ＇로봇의 귀＇ 단다…내년 美 시장 본격 진출",
-          "link": "https://www.etnews.com/20260821000127",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "[뉴스줌인] 카카오, AI와 투자 회사로 쪼갠다…＇복합기업 할인＇ 해소 승부수",
-          "link": "https://www.etnews.com/20260821000253",
-          "category": "민간",
-          "score": 3
-        }
-      ],
       "국방": [
         {
           "title": "AI 기반 미래 전장 해법 찾는다…＇2026 국방 AX 및 차세대 보안 융합 컨퍼런스＇ 9월 3일 개최",
@@ -22755,16 +22729,42 @@
           "score": 5
         }
       ],
+      "민간": [
+        {
+          "title": "오픈AI, 최고급 ＇GPT-5.6 솔＇ 가격 한시 인하…3개월간 20%↓",
+          "link": "https://www.etnews.com/20260823000066",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "카카오, ＇카카오AI＇와 ＇카카오X＇로 나눴다!...‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41560",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "에임인텔리전스 〃AI 사고 막으려면 공격·방어 결합 ＇퍼플티밍＇이 해답〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214018",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "“솔라 프로 4로 코드 리뷰 가능”…업스테이지, ‘코드 솔라’ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214235",
+          "category": "민간",
+          "score": 4
+        }
+      ],
       "기관": [
         {
-          "title": "서울시, 생성형 AI 위협 대응 첫 ＇사이버보안 기본계획＇ 수립 추진",
-          "link": "https://www.etnews.com/20260821000248",
+          "title": "KT, ＇모두의 AI＇ 컨소시엄 구성…국산 NPU·AI 모델·클라우드 결집",
+          "link": "https://www.etnews.com/20260823000050",
           "category": "기관",
           "score": 4
         },
         {
-          "title": "KT, ＇모두의 AI＇ 컨소시엄 구성…국산 NPU·AI 모델·클라우드 결집",
-          "link": "https://www.etnews.com/20260823000050",
+          "title": "서울시, 생성형 AI 위협 대응 첫 ＇사이버보안 기본계획＇ 수립 추진",
+          "link": "https://www.etnews.com/20260821000248",
           "category": "기관",
           "score": 4
         },
@@ -22773,23 +22773,40 @@
           "link": "https://www.etnews.com/20260823000027",
           "category": "기관",
           "score": 3
-        },
-        {
-          "title": "스마트인재개발원, K-하이테크 플랫폼 운영…지역 산업 AX 전환 지원",
-          "link": "https://www.etnews.com/20260823000018",
-          "category": "기관",
-          "score": 3
         }
       ],
       "해외": [
+        {
+          "title": "〃AI 모델 해킹 사고 때문?〃…오픈AI, 캘리포니아 AI 규제법 지지로 급선회",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214257",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, IPO서 138조 조달 목표…역대 최대 상장 기록 경신 전망",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214254",
+          "category": "해외",
+          "score": 4
+        },
         {
           "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
           "link": "https://www.etnews.com/20260823000044",
           "category": "해외",
           "score": 4
+        },
+        {
+          "title": "〃LLM보다 하네스가 핵심〃…엔비디아 AVO, 장기 에이전트 가능성 입증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214256",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214258",
+          "category": "해외",
+          "score": 3
         }
       ]
-    },
-    "briefing": "- 9월 3일 개최되는 '2026 국방 AX 및 차세대 보안 융합 컨퍼런스'에서 AI 기반의 미래 전장 대응 방안이 논의될 예정입니다.\n- 서울시가 생성형 AI의 보안 위협에 대응하기 위한 첫 '사이버보안 기본계획' 수립을 추진합니다.\n- 행정안전부가 AI 학습 효율성을 높이기 위해 보고서 작성 방식을 서술형 텍스트 중심으로 변경하는 방안을 도입합니다."
+    }
   }
 }
