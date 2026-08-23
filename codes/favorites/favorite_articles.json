@@ -1,103 +1,61 @@
 [
   {
-    "title": "화웨이, 모바일 AI 시대 겨냥 ‘싱글랜 22.1’ 출시…AI 에이전트 네트워크 기반 강화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41555",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "구글이 말하는 ‘풀스택 AI’…인프라부터 제품까지 5개 계층이 핵심",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41554",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "앤트로픽, 구글 TPU 주역 영입…자체 AI 칩 개발 가속",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214247",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "엔비디아, 데이터센터 개발사 클로버리프 지분 투자… 〃전력·부지부터 잡는다〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214244",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "앤트로픽, ＇미소스 5＇ 적용 범위 확대…악용 차단하고 사이버 방어 지원",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214242",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "오픈AI, ＇GPT-5.6 솔＇까지 가격 일시 인하...코덱스 사용자 2천만 돌파",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214240",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "엔비디아, 국내 NPU 스타트업 리벨리온과 인수 협상 중",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214241",
+    "title": "오픈AI, 최고급 ＇GPT-5.6 솔＇ 가격 한시 인하…3개월간 20%↓",
+    "link": "https://www.etnews.com/20260823000066",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "＇비전 프로＇ 대신 AI·스마트 안경에 올인…애플, 200명 구조조정",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214243",
-    "category": "해외",
-    "score": 3
+    "title": "AI 기반 미래 전장 해법 찾는다…＇2026 국방 AX 및 차세대 보안 융합 컨퍼런스＇ 9월 3일 개최",
+    "link": "https://www.etnews.com/20260820000196",
+    "category": "국방",
+    "score": 5
   },
   {
-    "title": "딥시크, 멀티모달 에이전트 ＇V4-플래시-비전＇ 공개...＇오퍼스 4.8＇에 도전",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214238",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "[8월21일] 오픈AI가 ‘컴퓨터 유즈’에 보인 자신감…9년간 이어온 ‘행동하는 AI’의 현재",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214199",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "정부, ‘미래대응기금’ 신설…초과세수로 AI·첨단기술 집중 투자",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214237",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "앤트로픽, ＇2조달러 몸값＇ 상장 추진…역대 최대 IPO 노린다",
-    "link": "https://www.etnews.com/20260822000033",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "＇범정부 AIDC 추진단＇ 만든다...메가프로젝트 R&D사업 전담",
-    "link": "https://www.etnews.com/20260821000256",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "복지부, APEC 보건실무그룹 회의 참석…AI 기반 의료혁신 공유",
-    "link": "https://www.etnews.com/20260822000026",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "[반도체 라이징 스타]<3>오피뉴로, 초저전력 뉴로모픽 AI 칩 개발",
-    "link": "https://www.etnews.com/20260821000149",
+    "title": "대기업부터 스타트업까지…보안 특화 AI 사업 ＇4파전＇ 전망",
+    "link": "https://www.etnews.com/20260821000126",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "포트홀·순찰로봇·새빛봇까지…수원시, 생활행정 AI 전환 본격화",
-    "link": "https://www.etnews.com/20260822000022",
+    "title": "서울시, 생성형 AI 위협 대응 첫 ＇사이버보안 기본계획＇ 수립 추진",
+    "link": "https://www.etnews.com/20260821000248",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "디플리, 음향 AI로 ＇로봇의 귀＇ 단다…내년 美 시장 본격 진출",
+    "link": "https://www.etnews.com/20260821000127",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "KT, ＇모두의 AI＇ 컨소시엄 구성…국산 NPU·AI 모델·클라우드 결집",
+    "link": "https://www.etnews.com/20260823000050",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
+    "link": "https://www.etnews.com/20260823000044",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "행안부, AI 친화적 보고서 전면 도입…“표·그림 대신 서술형 텍스트로”",
+    "link": "https://www.etnews.com/20260823000027",
     "category": "기관",
     "score": 3
   },
   {
-    "title": "전남대 소프트웨어중심대학사업단-업스테이지, ＇광주·전라권 AI 에이전트 핸즈온 교육＇ 성료",
-    "link": "https://www.etnews.com/20260822000002",
+    "title": "[뉴스줌인] 카카오, AI와 투자 회사로 쪼갠다…＇복합기업 할인＇ 해소 승부수",
+    "link": "https://www.etnews.com/20260821000253",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "스마트인재개발원, K-하이테크 플랫폼 운영…지역 산업 AX 전환 지원",
+    "link": "https://www.etnews.com/20260823000018",
     "category": "기관",
     "score": 3
   }
