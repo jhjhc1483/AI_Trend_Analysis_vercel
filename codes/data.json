@@ -22718,5 +22718,77 @@
       ]
     },
     "briefing": "- 앤트로픽이 미소스 5 모델의 적용 범위를 확대하여 사이버 방어 지원 기능을 강화하겠다고 밝혔습니다.\n- 정부가 초과 세수를 활용해 AI 및 첨단 기술에 집중 투자하는 '미래대응기금' 신설을 추진합니다.\n- 정부가 메가 프로젝트 R&D 사업을 전담할 '범정부 AIDC(AI 데이터센터) 추진단' 구성을 추진합니다."
+  },
+  "26.08.24": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "오픈AI, 최고급 ＇GPT-5.6 솔＇ 가격 한시 인하…3개월간 20%↓",
+          "link": "https://www.etnews.com/20260823000066",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "대기업부터 스타트업까지…보안 특화 AI 사업 ＇4파전＇ 전망",
+          "link": "https://www.etnews.com/20260821000126",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "디플리, 음향 AI로 ＇로봇의 귀＇ 단다…내년 美 시장 본격 진출",
+          "link": "https://www.etnews.com/20260821000127",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[뉴스줌인] 카카오, AI와 투자 회사로 쪼갠다…＇복합기업 할인＇ 해소 승부수",
+          "link": "https://www.etnews.com/20260821000253",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "국방": [
+        {
+          "title": "AI 기반 미래 전장 해법 찾는다…＇2026 국방 AX 및 차세대 보안 융합 컨퍼런스＇ 9월 3일 개최",
+          "link": "https://www.etnews.com/20260820000196",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "서울시, 생성형 AI 위협 대응 첫 ＇사이버보안 기본계획＇ 수립 추진",
+          "link": "https://www.etnews.com/20260821000248",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "KT, ＇모두의 AI＇ 컨소시엄 구성…국산 NPU·AI 모델·클라우드 결집",
+          "link": "https://www.etnews.com/20260823000050",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "행안부, AI 친화적 보고서 전면 도입…“표·그림 대신 서술형 텍스트로”",
+          "link": "https://www.etnews.com/20260823000027",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "스마트인재개발원, K-하이테크 플랫폼 운영…지역 산업 AX 전환 지원",
+          "link": "https://www.etnews.com/20260823000018",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "엔비디아, 고객사에 AI 서버 가격 15% 인상 예고",
+          "link": "https://www.etnews.com/20260823000044",
+          "category": "해외",
+          "score": 4
+        }
+      ]
+    }
   }
 }
