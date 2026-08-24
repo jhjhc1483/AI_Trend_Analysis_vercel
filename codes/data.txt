@@ -1,48 +1,157 @@
-📢26.08.24 AI 일일 동향📢
+📢26.08.25 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ AI 기반 미래 전장 해법 찾는다…＇2026 국방 AX 및 차세대 보안 융합 컨퍼런스＇ 9월 3일 개최
-https://www.etnews.com/20260820000196
+◾ AI의 군사적 활용과 한계에 대한 이해
+https://kookbang.dema.mil.kr/newsWeb/20260825/1/ATCE_CTGR_0050060000/view.do;JSESSIONID_kookbnagWEB=fag0oVPZJ1EzSbU_D-8BEgBxCwvOagZRkrb9JgbOVUEHrSfsZ9ny!-172114094
+
+◾ [반도체 인재양성 산실]국립목포대 화합물반도체센터, AI·전기차·국방·우주 등 차세대 산업 견인
+https://www.etnews.com/20260818000256
 
 [민간]
-◾ 오픈AI, 최고급 ＇GPT-5.6 솔＇ 가격 한시 인하…3개월간 20%↓
-https://www.etnews.com/20260823000066
+◾ AMD, AI 도입 비용 계산하는 ‘토크노믹스 계산기’ 공개…손익분기점과 최적 하드웨어 구성 제안
+https://www.aitimes.kr/news/articleView.html?idxno=41573
 
-◾ 카카오, ＇카카오AI＇와 ＇카카오X＇로 나눴다!...‘두 개의 엔진’으로 AI 시대 고속 성장 이끈다
-https://www.aitimes.kr/news/articleView.html?idxno=41560
+◾ 현대차·기아, 사내 해커톤 ＇24H 코드 레이스＇ 성료...생성형  AI 활용한 바이브 코딩 통해 아이디어 빠르게 구현·고도화
+https://www.aitimes.kr/news/articleView.html?idxno=41571
 
-◾ 에임인텔리전스 〃AI 사고 막으려면 공격·방어 결합 ＇퍼플티밍＇이 해답〃
-https://www.aitimes.com/news/articleView.html?idxno=214018
+◾ 노르마, 제3회 글로벌 퀀텀 AI 경진대회 본선 출발....미국·캐나다·프랑스·인도 등 100명 이상 예선 참가
+https://www.aitimes.kr/news/articleView.html?idxno=41567
 
-◾ “솔라 프로 4로 코드 리뷰 가능”…업스테이지, ‘코드 솔라’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=214235
+◾ 삼성SDS, 서울대 AI 네이티브 캠퍼스 구축 지원... ＇차세대 네트워크 플랫폼 전환＇ 사업 수주
+https://www.aitimes.kr/news/articleView.html?idxno=41564
+
+◾ 코난테크놀로지, 실사례 중심 ‘AI 서밋’ 9월9일 개최…”도구 넘어 ‘일하는’ AI”
+https://www.aitimes.com/news/articleView.html?idxno=214300
+
+◾ 그렙, 미국 웨스트클리프대학에 AI 시험감독·역량평가 솔루션 제공
+https://www.aitimes.com/news/articleView.html?idxno=214298
+
+◾ SKT, 서울대와 ‘10년 협력’ 이어가…AI 강좌로 인재 양성 지원
+https://www.aitimes.com/news/articleView.html?idxno=214293
+
+◾ 은행 보안도 AI 전환…＇실제 공격 가능성＇까지 검증
+https://www.etnews.com/20260824000093
+
+◾ BNK부산은행, ＇AI크루＇ 출범…M365 코파일럿으로 일하는 방식 바꾼다
+https://www.etnews.com/20260824000292
+
+◾ “사람 1명당 AI 에이전트 79개”…기업 보안 비상
+https://www.etnews.com/20260824000267
+
+◾ 코난테크놀로지, 내달 법률·발전·제조 고객과 ＇AI 서밋 2026＇ 개최
+https://www.etnews.com/20260824000263
+
+◾ 신한투자증권, ＇AX 챔피언스데이＇ 개최…AX 코디네이터 109명 참여
+https://www.etnews.com/20260824000250
+
+◾ 삼성SDS, 서울대 SDN 기반 ＇AI 네이티브 캠퍼스＇ 구현
+https://www.etnews.com/20260824000241
+
+◾ NH농협은행, AI 안면인증 단말기 ＇AI스마트패드＇ 시범 도입
+https://www.etnews.com/20260824000189
+
+◾ 메가존·핑거, 금융 AX 시장 공략 협력...300억 상호 투자
+https://www.etnews.com/20260824000135
+
+◾ 딥노이드, 생성형 의료AI ＇M4CXR＇ 민간 종합병원 첫 공급
+https://www.etnews.com/20260824000038
+
+◾ 현대차·기아, 사내 해커톤 ＇24H 코드 레이스＇ 성료…SDV 앱 생태계 확장
+https://www.etnews.com/20260824000026
+
+◾ 현대차, 9월 대규모 신입 채용…SDV·AI·로보틱스 인재 확보 총력
+https://www.etnews.com/20260824000019
 
 [기관]
-◾ KT, ＇모두의 AI＇ 컨소시엄 구성…국산 NPU·AI 모델·클라우드 결집
-https://www.etnews.com/20260823000050
+◾ DGIST, 과기부 50억 차세대 AI 과제 선정...과학·공학 난제 풀 ‘AI 역학자’ 개발
+https://www.aitimes.kr/news/articleView.html?idxno=41574
 
-◾ 서울시, 생성형 AI 위협 대응 첫 ＇사이버보안 기본계획＇ 수립 추진
-https://www.etnews.com/20260821000248
+◾ “국산 AI 모델 확보만으론 부족”…AI 주권 기준 ‘보유’에서 ‘운용’으로
+https://www.aitimes.kr/news/articleView.html?idxno=41562
 
-◾ 행안부, AI 친화적 보고서 전면 도입…“표·그림 대신 서술형 텍스트로”
-https://www.etnews.com/20260823000027
+◾ 과기부 “AI와 과학기술 결합해 공학 분야 한계 돌파할 것”
+https://www.aitimes.com/news/articleView.html?idxno=214312
+
+◾ 자율주행 AI 실증 전국으로 확대한다
+https://kookbang.dema.mil.kr/newsWeb/20260825/9/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=fag0oVPZJ1EzSbU_D-8BEgBxCwvOagZRkrb9JgbOVUEHrSfsZ9ny!-172114094
+
+◾ DGIST, AI가 스스로 판별하고 해석하는 AI 역학자 원천기술 개발 착수
+https://www.etnews.com/20260824000320
+
+◾ 정부, ＇AI 윤리원칙＇ 제정…인간중심성·안전성·신뢰성 등 7대 원칙 제시
+https://www.etnews.com/20260824000239
+
+◾ 과기정통부, 물리·수학 원리 익힌 AI 개발 착수…“과학 난제 해결 기대”
+https://www.etnews.com/20260824000153
+
+◾ 정부, 자율주행 AI 실증 규모·지역 확대…상용화 속도
+https://www.etnews.com/20260824000228
+
+◾ 국립창원대 SW중심대학사업단, 피지컬 AI 인재 양성 ＇코딩 로봇 경진대회＇ 성료
+https://www.etnews.com/20260824000201
+
+◾ ICT 규제샌드박스 문답에 AI 활용…300개 기업 ＇규제 신속 확인＇ 지원
+https://www.etnews.com/20260824000146
+
+◾ GIST, 대학생 AI·로봇 인재 발굴…＇제10회 창의융합 AX-챌린지＇ 개최
+https://www.etnews.com/20260824000028
 
 [해외]
-◾ 〃AI 모델 해킹 사고 때문?〃…오픈AI, 캘리포니아 AI 규제법 지지로 급선회
-https://www.aitimes.com/news/articleView.html?idxno=214257
+◾ 엔비디아 젠슨 황, “오픈 모델이 AI 산업 재편”... ‘오픈 AI 모델’ 직접 키운다
+https://www.aitimes.kr/news/articleView.html?idxno=41566
 
-◾ 앤트로픽, IPO서 138조 조달 목표…역대 최대 상장 기록 경신 전망
-https://www.aitimes.com/news/articleView.html?idxno=214254
+◾ 엔비디아, 퍼플렉시티에 수십억달러 투자 논의…기업 가치 41조 평가
+https://www.aitimes.com/news/articleView.html?idxno=214316
 
-◾ 엔비디아, 고객사에 AI 서버 가격 15% 인상 예고
-https://www.etnews.com/20260823000044
+◾ 엔비디아, AI 모델 라우팅 병목 뚫었다...‘선형 연산’으로 KV 캐시 전송 성공
+https://www.aitimes.com/news/articleView.html?idxno=214291
 
-◾ 〃LLM보다 하네스가 핵심〃…엔비디아 AVO, 장기 에이전트 가능성 입증
-https://www.aitimes.com/news/articleView.html?idxno=214256
+◾ 맥북에서 돌리는 ＇무삭제 큐원 3.8＇ 등장...엔비디아 GPU·클라우드 없이 구동
+https://www.aitimes.com/news/articleView.html?idxno=214299
 
-◾ 리퀴드 AI ‘디스파크’, 메모리 병목 뚫었다…소형 모델이 미리 쓰고 대형 모델이 검증
-https://www.aitimes.com/news/articleView.html?idxno=214258
+◾ 메타, 스마트 안경에 해킹 불가 ‘물리적 킬 스위치’ 도입...사생활 침해 논란 잡는다
+https://www.aitimes.com/news/articleView.html?idxno=214304
+
+◾ 테슬라·우버·웨이모, 라스베이거스서 로보택시 8000대 운행 허가 획득
+https://www.aitimes.com/news/articleView.html?idxno=214306
+
+◾ ＇페이블 5＇ 주춤하는 새 오픈AI 기업 시장 맹추격...〃7월부터 성장률 추월〃
+https://www.aitimes.com/news/articleView.html?idxno=214280
+
+◾ AI에 올인한 알리바바, 투자 위해 14조 대규모 증자 단행
+https://www.aitimes.com/news/articleView.html?idxno=214284
+
+◾ 오픈AI, 개발자 행사 ＇데브데이 익스체인지＇ 10월22일 서울서 연다
+https://www.aitimes.com/news/articleView.html?idxno=214310
+
+◾ 스스로 문제 만들고 해결 전략까지 구축....오픈소스 ＇오르니스-1.5＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=214261
+
+◾ 딥시크, 주말 API 할증 없앤다…토·일요일 ＇오프피크＇ 단가 단일화
+https://www.aitimes.com/news/articleView.html?idxno=214279
+
+◾ GPT에 해킹된 AI 플랫폼 허깅페이스 ＇18조＇ 매각 추진
+https://www.etnews.com/20260824000014
+
+◾ 오픈AI, 주(州)별 규제 반대하다 캘리포니아에 AI규제 강화 요구
+https://www.etnews.com/20260824000012
+
+◾ 엔비디아, 첨단 오픈소스 AI 개발사 우회 인수
+https://www.etnews.com/20260824000010
+
+📚 간행물
+◾ Market Insight 408 : 자율 주행 정밀 지도 시스템
+https://astinet.kr/reports/market-insights/750656
+
+◾ Market Insight 407 : 자율 주행 물류 로봇(AMR)
+https://astinet.kr/reports/market-insights/750655
+
+◾ Market Insight 406 : 사이버 보안
+https://astinet.kr/reports/market-insights/750654
+
+◾ [제1304호] PQC 전환의 현장 -통신 인프라 적용과 표준화 과제
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1304%ED%98%B8%5D%20PQC%20%EC%A0%84%ED%99%98%EC%9D%98%20%ED%98%84%EC%9E%A5%20-%ED%86%B5%EC%8B%A0%20%EC%9D%B8%ED%94%84%EB%9D%BC%20%EC%A0%81%EC%9A%A9%EA%B3%BC%20%ED%91%9C%EC%A4%80%ED%99%94%20%EA%B3%BC%EC%A0%9C
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
