@@ -23118,5 +23118,245 @@
       ]
     },
     "briefing": "- AI의 군사적 활용과 관련하여 기술적 효용성과 더불어 그에 따른 한계를 명확히 이해해야 한다는 논의가 제기되었습니다.\n- 국립목포대 화합물반도체센터가 AI와 국방 분야를 포함한 차세대 산업을 견인할 인재 양성 거점으로 주목받고 있습니다.\n- 정부가 AI 윤리원칙을 제정하고 인간중심성·안전성·신뢰성 등 7대 원칙을 제시하며 AI 운용의 기준을 마련했습니다."
+  },
+  "26.08.26": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "과기정통부, 「K-문샷 AI 휴머노이드 미션」 현장소통",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187688&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "에이전틱 AI 글로벌 표준 선점을 위해 에이전트형 인공지능 재단(AAIF)과의 협력 추진",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187692&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "“민간 AI 역량 모아 공공문제 해결한다”...행안부, ‘2026년 AI 분석모델 개발 경진대회’ 개최",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41595",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "〃국민이 주인 되는 정부, AI로 만든다〃... 행안부, ＇AI 민주정부＇ 실현 본격 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41594",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "전기 7배 덜 먹는 ＇사람 뇌＇ 닮은 차세대 AI 반도체 소자 개발... GIST이상한 교수팀, 저전력 뉴로모픽 정보처리 소자 활용 기대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41582",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "한국전자통신연구원, ‘AAIF’ 가입…국내 ＇에이전틱 AI 글로벌 표준 선점＇ 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214338",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "정부, ＇AI 민원서포터＇ 전국 확산…“민원 처리서 해결 중심으로”",
+          "link": "https://www.etnews.com/20260825000260",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "금융위, 개인사업자 마이데이터 도입…AI가 금리인하·정책자금 신청까지",
+          "link": "https://www.etnews.com/20260825000167",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "전주시, ＇행정 AI 대전환＇ 본격 시동…AX 추진단, 교육 등 활동 돌입",
+          "link": "https://www.etnews.com/20260825000123",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "국민주권, AI로 구현… 행안부, ＇AI 민주정부＇ 실현 본격화",
+          "link": "https://www.etnews.com/20260825000201",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "과기정통부, ＇K-문샷＇ AI 휴머노이드 미션 전문가 간담회 개최",
+          "link": "https://www.etnews.com/20260825000263",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "당정, 내년 800조원대 슈퍼예산…“3대 메가·AI 집중 투자”",
+          "link": "https://www.etnews.com/20260825000229",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "과기정통부, AAIF와 협력해 ＇에이전틱 AI 국제표준＇ 선도 추진",
+          "link": "https://www.etnews.com/20260825000191",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "AI 정부 시대, 공공 메일도 달라진다…＇보안＇ 넘어 ＇AI 업무 인프라＇로",
+          "link": "https://www.etnews.com/20260825000053",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "몰렉스 ＇CAEPlus＇ 에 투자, AI 데이터 센터용 능동형 액체 냉각 솔루션 통한 개발 및 검증 속도 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41593",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "온세미, AI 데이터센터 전력 과제 해결 방안 제시...중전압 AC를 저전압 DC로 직접 변환",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41587",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "“PoC 넘어 실제 현장으로”… 어드밴텍, 엔비디아 IGX Thor 기반 ‘피지컬 AI’ 해법 제시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41583",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "솔트룩스 ‘구버’, 직접 만드는 AI 에이전트 ‘AI버디’ 기능 공개… MCP 연동으로 실무까지 원스톱",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41579",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "솔트룩스 ＇구버＇, 1분 만에 나만의 AI 에이전트 만든다…＇AI 버디＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214356",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "솔트룩스 ＇구버＇, 맞춤형 AI 에이전트 생성·공유 지원",
+          "link": "https://www.etnews.com/20260825000388",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "한국피지컬AI협회, 기술 국산화 넘어 생태계 조성 본격화",
+          "link": "https://www.etnews.com/20260825000254",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "에이아이코리아, ＇AME 2026＇에서 유무인 자율주행 지게차 공개",
+          "link": "https://www.etnews.com/20260825000240",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "HD현대삼호, 항만 무인 컨테이너크레인 AI 예지보전 플랫폼 상용화 착수",
+          "link": "https://www.etnews.com/20260825000217",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "LS-모티프테크놀로지스, 제조 현장 맞춤형 AI 모델 공동 개발",
+          "link": "https://www.etnews.com/20260825000206",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "고려대, GPU 낭비 줄이고 학습 속도 최대 8.8배 단축",
+          "link": "https://www.etnews.com/20260825000193",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "서강대, 양자 AI 최대 난제 ＇배런 플래토＇ 완화 알고리즘 개발…화학물질 독성 예측 성공",
+          "link": "https://www.etnews.com/20260825000188",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "한컴, 남양유업과 MOU 체결…에이전틱 OS 기업 현장 적용 본격화",
+          "link": "https://www.etnews.com/20260825000152",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "LG이노텍, 美 채용연계형 행사서 ＇피지컬 AI＇ 글로벌 인재  영입戰",
+          "link": "https://www.etnews.com/20260825000071",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오스코텍, 항암제 내성 차단 AI 플랫폼 ＇리벤델＇ 구축",
+          "link": "https://www.etnews.com/20260825000030",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "엔비디아, 스페이스X ＇그록 AI＇ 인프라 기가와트급 컴퓨팅 규모로 확장",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41589",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "인텔, 에이전틱 AI 아키텍처 3종 공개…데이터센터부터 엣지까지 확장",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41578",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "중국 해커, ＇딥시크＇ 탑재하고 사이버 공격 2배 폭증...〃가성비 좋고 장벽 낮아〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214344",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214341",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "영국, 우크라이나 전장 AI 빅데이터 확보...국방·안보 AI 공동 개발 착수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214335",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "우크라이나·러시아 드론 자율 공격 피해에 서로 ＇맞불 주장＇",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214345",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "[테크 차이나] 샤오미, ＇쉬안제(Xuanjie)＇ 자체 개발 칩 3종 공개…스마트폰 넘어 AI·자동차까지 정조준",
+          "link": "https://www.etnews.com/20260825000161",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "부산시와 스페인 무르시아시, AI 기반 도시 인프라 재난 리스크 예측 플랫폼 개발",
+          "link": "https://www.etnews.com/20260825000178",
+          "category": "해외",
+          "score": 3
+        }
+      ],
+      "육군": [
+        {
+          "title": "AI로 입영길 더 편하게…메타존, ＇수요응답형 군입대 버스＇ 실증",
+          "link": "https://www.etnews.com/20260825000377",
+          "category": "육군",
+          "score": 3
+        }
+      ]
+    }
   }
 }
