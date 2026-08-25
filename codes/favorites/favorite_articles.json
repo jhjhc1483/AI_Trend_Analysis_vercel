@@ -3,7 +3,7 @@
     "title": "과기정통부, 「K-문샷 AI 휴머노이드 미션」 현장소통",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187688&searchOpt=ALL&searchTxt=",
     "category": "기관",
-    "score": 5
+    "score": 4
   },
   {
     "title": "에이전틱 AI 글로벌 표준 선점을 위해 에이전트형 인공지능 재단(AAIF)과의 협력 추진",
@@ -12,10 +12,16 @@
     "score": 5
   },
   {
+    "title": "미스트랄·휴메인, 사우디 ‘주권형 AI’ 구축 맞손…수억 유로 규모 전략 협력",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41596",
+    "category": "해외",
+    "score": 4
+  },
+  {
     "title": "“민간 AI 역량 모아 공공문제 해결한다”...행안부, ‘2026년 AI 분석모델 개발 경진대회’ 개최",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41595",
     "category": "기관",
-    "score": 4
+    "score": 3
   },
   {
     "title": "〃국민이 주인 되는 정부, AI로 만든다〃... 행안부, ＇AI 민주정부＇ 실현 본격 추진",
@@ -30,15 +36,33 @@
     "score": 3
   },
   {
+    "title": "한컴, 남양유업과 에이전틱 OS 현장 적용 추진… 기업 업무 환경 실증 착수",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41591",
+    "category": "민간",
+    "score": 3
+  },
+  {
     "title": "엔비디아, 스페이스X ＇그록 AI＇ 인프라 기가와트급 컴퓨팅 규모로 확장",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41589",
     "category": "해외",
-    "score": 5
+    "score": 4
   },
   {
     "title": "온세미, AI 데이터센터 전력 과제 해결 방안 제시...중전압 AC를 저전압 DC로 직접 변환",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41587",
     "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "두나무앤파트너스, 英 AI 추론 최적화 기업 ‘칼로섬’에 500만 달러 투자",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41585",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "에브리봇, 中 엑스스퀘어와 휴머노이드 업무협력…로봇 데이터 사업까지 확장 검토",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41584",
+    "category": "해외",
     "score": 3
   },
   {
@@ -54,10 +78,16 @@
     "score": 4
   },
   {
+    "title": "엑시온, 인텔 ‘인지니어스’선정… AI영상관제 글로벌 사업화 가속",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41580",
+    "category": "민간",
+    "score": 3
+  },
+  {
     "title": "솔트룩스 ‘구버’, 직접 만드는 AI 에이전트 ‘AI버디’ 기능 공개… MCP 연동으로 실무까지 원스톱",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41579",
     "category": "민간",
-    "score": 4
+    "score": 3
   },
   {
     "title": "인텔, 에이전틱 AI 아키텍처 3종 공개…데이터센터부터 엣지까지 확장",
@@ -66,22 +96,34 @@
     "score": 4
   },
   {
+    "title": "[데일리시큐] K-방산은 달리는데, 정부의 CMMC 대응은 제대로 작동하고 있나 ('26. 8. 24.)",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=889",
+    "category": "국방",
+    "score": 4
+  },
+  {
+    "title": "앤드류 응이 제시한 AI 엔지니어링 역량 6가지...“불확실성 제어가 핵심”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214329",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "머스크 〃그록, 앤트로픽에 뒤처져〃...＇83조원 인수＇ 커서에 코딩 격차 극복 당부",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214324",
+    "category": "해외",
+    "score": 3
+  },
+  {
     "title": "중국 해커, ＇딥시크＇ 탑재하고 사이버 공격 2배 폭증...〃가성비 좋고 장벽 낮아〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214344",
     "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "솔트룩스 ＇구버＇, 1분 만에 나만의 AI 에이전트 만든다…＇AI 버디＇ 출시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214356",
-    "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "샤오펑 로봇 자회사 도고틱스, 1.2조 유치…중국 휴머노이드 역대 최대 규모",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214341",
     "category": "해외",
-    "score": 4
+    "score": 3
   },
   {
     "title": "영국, 우크라이나 전장 AI 빅데이터 확보...국방·안보 AI 공동 개발 착수",
@@ -102,6 +144,12 @@
     "score": 4
   },
   {
+    "title": "소통을 넘어 데이터로 그리고 확장으로",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260826/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=vkA5xXcyJtUOEDjcRNN-oKgMXYgYDKNuc-5nfMJ8ZTK8vKykodm2!-172114094",
+    "category": "육군",
+    "score": 3
+  },
+  {
     "title": "솔트룩스 ＇구버＇, 맞춤형 AI 에이전트 생성·공유 지원",
     "link": "https://www.etnews.com/20260825000388",
     "category": "민간",
@@ -110,7 +158,7 @@
   {
     "title": "한국피지컬AI협회, 기술 국산화 넘어 생태계 조성 본격화",
     "link": "https://www.etnews.com/20260825000254",
-    "category": "민간",
+    "category": "기관",
     "score": 4
   },
   {
@@ -135,7 +183,7 @@
     "title": "전주시, ＇행정 AI 대전환＇ 본격 시동…AX 추진단, 교육 등 활동 돌입",
     "link": "https://www.etnews.com/20260825000123",
     "category": "기관",
-    "score": 3
+    "score": 4
   },
   {
     "title": "국민주권, AI로 구현… 행안부, ＇AI 민주정부＇ 실현 본격화",
@@ -144,22 +192,28 @@
     "score": 4
   },
   {
+    "title": "에스원, 학교 안전 AI 고도화…화재·침입·폭력 실시간 감지",
+    "link": "https://www.etnews.com/20260825000290",
+    "category": "민간",
+    "score": 3
+  },
+  {
     "title": "과기정통부, ＇K-문샷＇ AI 휴머노이드 미션 전문가 간담회 개최",
     "link": "https://www.etnews.com/20260825000263",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "에이아이코리아, ＇AME 2026＇에서 유무인 자율주행 지게차 공개",
-    "link": "https://www.etnews.com/20260825000240",
+    "title": "한국자동차연구원, ＇2026 AME＇ 참가…“차세대 AI 자율주행 기술 제시”",
+    "link": "https://www.etnews.com/20260825000246",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "당정, 내년 800조원대 슈퍼예산…“3대 메가·AI 집중 투자”",
-    "link": "https://www.etnews.com/20260825000229",
-    "category": "기관",
-    "score": 5
+    "title": "에이아이코리아, ＇AME 2026＇에서 유무인 자율주행 지게차 공개",
+    "link": "https://www.etnews.com/20260825000240",
+    "category": "민간",
+    "score": 3
   },
   {
     "title": "HD현대삼호, 항만 무인 컨테이너크레인 AI 예지보전 플랫폼 상용화 착수",
@@ -171,30 +225,18 @@
     "title": "[테크 차이나] 샤오미, ＇쉬안제(Xuanjie)＇ 자체 개발 칩 3종 공개…스마트폰 넘어 AI·자동차까지 정조준",
     "link": "https://www.etnews.com/20260825000161",
     "category": "해외",
-    "score": 4
+    "score": 3
   },
   {
     "title": "LS-모티프테크놀로지스, 제조 현장 맞춤형 AI 모델 공동 개발",
     "link": "https://www.etnews.com/20260825000206",
-    "category": "민간",
-    "score": 3
+    "category": "국방",
+    "score": 4
   },
   {
     "title": "과기정통부, AAIF와 협력해 ＇에이전틱 AI 국제표준＇ 선도 추진",
     "link": "https://www.etnews.com/20260825000191",
     "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "고려대, GPU 낭비 줄이고 학습 속도 최대 8.8배 단축",
-    "link": "https://www.etnews.com/20260825000193",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "서강대, 양자 AI 최대 난제 ＇배런 플래토＇ 완화 알고리즘 개발…화학물질 독성 예측 성공",
-    "link": "https://www.etnews.com/20260825000188",
-    "category": "민간",
     "score": 4
   },
   {
@@ -204,9 +246,9 @@
     "score": 3
   },
   {
-    "title": "한컴, 남양유업과 MOU 체결…에이전틱 OS 기업 현장 적용 본격화",
-    "link": "https://www.etnews.com/20260825000152",
-    "category": "민간",
+    "title": "전북테크노파크, ＇2026 무인이동체 X 민군협력엑스포＇ 참가…방산혁신클러스터 등 홍보",
+    "link": "https://www.etnews.com/20260825000064",
+    "category": "국방",
     "score": 3
   },
   {
