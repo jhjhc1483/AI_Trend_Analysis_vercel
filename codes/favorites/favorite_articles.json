@@ -9,7 +9,7 @@
     "title": "공공데이터 TOP100 조기개방… “글로벌 AI 경쟁력 확보의 핵심”",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187708&searchOpt=ALL&searchTxt=",
     "category": "기관",
-    "score": 4
+    "score": 3
   },
   {
     "title": "「독자 AI 파운데이션 모델」 프로젝트로 확보한 AI 학습용 데이터 29종 본격 개방",
@@ -38,7 +38,7 @@
   {
     "title": "한전KDN, 전력 AX 솔루션 3종 공개...전력 계통 안정·현장 안전 제고",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41639",
-    "category": "민간",
+    "category": "기관",
     "score": 3
   },
   {
@@ -68,8 +68,20 @@
   {
     "title": "네이버클라우드-LG CNS, 풀스택 자체 기술로 보안 특화 AI 구축 나선다",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41629",
-    "category": "국방",
+    "category": "민간",
     "score": 5
+  },
+  {
+    "title": "KT, ‘모두의 AI’ 청사진 공개... “국민의 모든 일상에 함께하는 AI”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41628",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "뉴타닉스, NAI 2.8·NKP 2.19 출시...기업이 원하는 방식으로 프로덕션 환경서 에이전틱 AI 운영 지원",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41627",
+    "category": "민간",
+    "score": 3
   },
   {
     "title": "KAIST, 써모 피셔 사이언티픽과‘자율실험실’구축…AI가 설계하고 로봇이 실험한다 새창으로 읽기",
@@ -78,10 +90,22 @@
     "score": 4
   },
   {
+    "title": "中 지푸AI, 차세대 모델 ‘GLM-5.3-Flash’ 오픈웨이트로 공개…“프런티어급 AI 성능을 10분의 1 비용으로”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41624",
+    "category": "해외",
+    "score": 4
+  },
+  {
     "title": "SKT 컨소시엄, 사이버 보안 특화 AI 모델 개발 도전...대한민국 지킬 방패 만든다",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41622",
     "category": "국방",
     "score": 5
+  },
+  {
+    "title": "[데일리시큐] K-드론의 세계 진출, 보안과 신뢰의 장벽을 넘어야 한다 ('26. 8. 26.)",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=899",
+    "category": "국방",
+    "score": 4
   },
   {
     "title": "엔비디아, ＇오픈소스＇ 허깅페이스 18조에 인수...AI 생태계 수직통합",
@@ -111,7 +135,7 @@
     "title": "탐지부터 조치까지 자동화...SKT 컨소시엄, 정부 보안 AI 사업 출사표",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214486",
     "category": "국방",
-    "score": 5
+    "score": 4
   },
   {
     "title": "딥시크, 올해 매출 1000억 눈앞...7개월 만에 10배 폭증",
@@ -126,6 +150,24 @@
     "score": 4
   },
   {
+    "title": "과기부, 독파모 프로젝트서 확보한 AI 학습용 데이터 29종 개방",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214500",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "한국딥러닝, 40여종 문서 대응 ＇딥에이전트 for 보험＇ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214487",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "주한 루마니아 국방무관단과 대드론 체계 발전 논의",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20260828/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=X0FFfK5Wp9hl2b4XAq9_QvC7JmH2EOi6g1ySbmgq64Wvh9HgudBS!1119777534",
+    "category": "국방",
+    "score": 4
+  },
+  {
     "title": "육군56사단 중구대대, 교육용 드론 지원 받아",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260827/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=X0FFfK5Wp9hl2b4XAq9_QvC7JmH2EOi6g1ySbmgq64Wvh9HgudBS!1119777534",
     "category": "육군",
@@ -136,5 +178,125 @@
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260828/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=X0FFfK5Wp9hl2b4XAq9_QvC7JmH2EOi6g1ySbmgq64Wvh9HgudBS!1119777534",
     "category": "국방",
     "score": 4
+  },
+  {
+    "title": "육군56사단 중구대대, 교육용 드론 지원 받아",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDE0NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군",
+    "score": 3
+  },
+  {
+    "title": "독파모 축적 데이터 개방…LG만 선별·4개사는 전체 공개",
+    "link": "https://www.etnews.com/20260827000432",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "SK텔레콤, 독파모 평가 첫 1위…이어 업스테이지·LG·모티프",
+    "link": "https://www.etnews.com/20260827000431",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "“피지컬AI 1강 도약, 차세대 통신 핵심 역할해야”…초저지연 해소가 관건",
+    "link": "https://www.etnews.com/20260827000398",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "SKT, SKB 인적분할…AIDC 전문법인 ＇SK호라이즌＇ 설립",
+    "link": "https://www.etnews.com/20260827000387",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "한전KDN, 전력 AI 솔루션 3종 공개…AX 본격화",
+    "link": "https://www.etnews.com/20260827000383",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "[제8회 AI 정부혁신 콘퍼런스] AI가 일하는 정부로…“도입보다 실행 기반이 중요”",
+    "link": "https://www.etnews.com/20260827000226",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "AI 데이터센터 전력 0.001초마다 ＇출렁＇…정부, 전용 그리드코드 만든다",
+    "link": "https://www.etnews.com/20260827000250",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "앤트로픽 “AWS 서울 리전서 오퍼스5·소네트5 곧 서비스”",
+    "link": "https://www.etnews.com/20260827000336",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "KIRO 로봇직업혁신센터, 로봇과 AI 결합한 로봇AI교육혁신센터로 개편…27일 현판식 개최",
+    "link": "https://www.etnews.com/20260827000277",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "모티프 ＇독파모 이의제기＇에 절차 검증…배경훈 부총리 “평가방식 재검토”",
+    "link": "https://www.etnews.com/20260827000262",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "정부, 휴머노이드 2.3조·피지컬 AI 2.8조 투자…＇국산 풀스택＇ 승부수",
+    "link": "https://www.etnews.com/20260827000256",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "AI 강국 도약 ＇통신인프라 투자 민관 협의체＇ 본격 가동",
+    "link": "https://www.etnews.com/20260827000166",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "사상 최대 실적 엔비디아, “내년 70% 성장, 실제 수요는 그 이상”",
+    "link": "https://www.etnews.com/20260827000238",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "현대차·기아, 협력사 AX 지원 ＇AI 특화 공동훈련센터＇ 개소",
+    "link": "https://www.etnews.com/20260827000193",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "네이버클라우드·LG CNS, 보안 특화 AI 사업 참여",
+    "link": "https://www.etnews.com/20260827000169",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "사이버안보학회, 내달 7일 ＇AIDC 보안 기술 워크숍＇ 개최",
+    "link": "https://www.etnews.com/20260827000167",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "미국서 한국 ＇뇌 장치＇ 원격 조절 성공...KAIST, 거리 초월한 치료기기 연구 기반 마련",
+    "link": "https://www.etnews.com/20260827000149",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "韓총리, “클릭 한 번 줄여 국민 경쟁력 제고”…범정부 UI/UX 위원회 출범",
+    "link": "https://www.etnews.com/20260827000144",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "“AI거점대학을 축으로 교육·연구·산학협력 체계 고도화” 경북대, 대구앵커사업 1차년도 성과공유회 개최",
+    "link": "https://www.etnews.com/20260827000141",
+    "category": "기관",
+    "score": 3
   }
 ]
