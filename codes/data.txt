@@ -1,142 +1,83 @@
-📢26.08.27 AI 일일 동향📢
+📢26.08.28 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 미 ‘리플리케이터’ 전략으로 본 한국군 발전방향
-https://kookbang.dema.mil.kr/newsWeb/20260827/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=JHQ-_JROG0Ue-w1oHJm2EbiFwdiTrPwdB4DGpnFYCCaqBBl2slEQ!1119777534
+◾ 네이버클라우드-LG CNS, 풀스택 자체 기술로 보안 특화 AI 구축 나선다
+https://www.aitimes.kr/news/articleView.html?idxno=41629
 
-◾ ‘장병e음’ 국방 디지털 혁신 플랫폼으로 자리매김
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzExOTk1NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ SKT 컨소시엄, 사이버 보안 특화 AI 모델 개발 도전...대한민국 지킬 방패 만든다
+https://www.aitimes.kr/news/articleView.html?idxno=41622
 
-◾ 국방부 「장병e음」 플랫폼, ICT 어워드 최고상 수상
-https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzExOTk1MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 탐지부터 조치까지 자동화...SKT 컨소시엄, 정부 보안 AI 사업 출사표
+https://www.aitimes.com/news/articleView.html?idxno=214486
 
-◾ KTL, 데이터 품질부터 사업화까지…AI 기반 방산·우주항공 검증체계 공개
-https://www.etnews.com/20260826000300
+◾ “여의도 상공에 뜬 드론을 무력화하라”
+https://kookbang.dema.mil.kr/newsWeb/20260828/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=X0FFfK5Wp9hl2b4XAq9_QvC7JmH2EOi6g1ySbmgq64Wvh9HgudBS!1119777534
 
-◾ 비드래프트 논문 하나가 만든 삼단 구조…연구·AX-RAY·국가 보안 AI
-https://www.etnews.com/20260826000288
-
-◾ 네이버 D2SF, 방산·제조 인프라 스타트업 ＇포지＇에 투자
-https://www.etnews.com/20260826000090
+[육군]
+◾ 육군56사단 중구대대, 교육용 드론 지원 받아
+https://kookbang.dema.mil.kr/newsWeb/20260827/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=X0FFfK5Wp9hl2b4XAq9_QvC7JmH2EOi6g1ySbmgq64Wvh9HgudBS!1119777534
 
 [민간]
-◾ 배충식 KAIST 총장, “피지컬AI, 향후 5년이 승부처…대한민국 세계 1등 국가 만들어야”
-https://www.aitimes.kr/news/articleView.html?idxno=41615
+◾ SKT, AIDC 인프라 컴퍼니 ‘SK호라이즌’ 출범...‘아시아 AI 인프라 허브’를 향한 진용 구축
+https://www.aitimes.kr/news/articleView.html?idxno=41641
 
-◾ 마음AI 손병희 대표, “로봇의 경험을 국가 AI 자산으로”…피지컬AI 행동데이터 표준 제안
-https://www.aitimes.kr/news/articleView.html?idxno=41613
+◾ 한전KDN, 전력 AX 솔루션 3종 공개...전력 계통 안정·현장 안전 제고
+https://www.aitimes.kr/news/articleView.html?idxno=41639
 
-◾ LG CNS, 삼송 데이터센터에 ‘차세대 액체냉각’ 도입…AI 팩토리 인프라 시장 선점
-https://www.aitimes.kr/news/articleView.html?idxno=41612
-
-◾ SK AX, SAP와 ‘AI 네이티브 엔터프라이즈’ 동맹 강화…기업운영 AX혁신 가속
-https://www.aitimes.kr/news/articleView.html?idxno=41606
-
-◾ 마키나락스, LLM 기반 코드 분석으로 PLC 메모리 최적화…삼성디스플레이 베트남 적용
-https://www.aitimes.kr/news/articleView.html?idxno=41598
-
-◾ 〃트랜스포머 한계 극복〃...물리 법칙 이해하는 신개념 ＇피지컬 AI＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=214393
-
-◾ 현대차, 완성차 넘어 ‘피지컬 AI’ 전환… 2029년 새만금 DC 가동
-https://www.aitimes.com/news/articleView.html?idxno=214417
-
-◾ 앤트로픽·구글 지원하는 AI 보안 스타트업, 삼성 등서 1900억 투자 유치
-https://www.aitimes.com/news/articleView.html?idxno=214406
-
-◾ DIP, ＇제조 AI 솔루션 개발·실증＇ 지원…니어네트웍스·정원산업 선정
-https://www.etnews.com/20260826000007
-
-◾ LG전자, 제조사·OS 안가리는 ＇車 AI 플랫폼＇ 만든다
-https://www.etnews.com/20260826000312
-
-◾ 마키나락스, 삼성디스플레이 베트남 설비 제어 AI로 최적화
-https://www.etnews.com/20260826000263
-
-◾ 네이버·LG vs SKT·업스테이지…보안 특화 AI 경쟁 본격화
-https://www.etnews.com/20260826000209
-
-◾ LG CNS, AIDC 핵심 승부처 ＇액체냉각＇ 시장 본격 진출…네이버클라우드와 삼송데이터센터에 DTC 적용
-https://www.etnews.com/20260826000083
-
-◾ 카카오 AI 돛, 지역 AI 창업가 지원…부산서 첫 교류 행사 개최
-https://www.etnews.com/20260826000077
-
-◾ 버즈니, 기업용 바이브 코딩 플랫폼 ＇세이코드＇ 출시
-https://www.etnews.com/20260826000073
-
-◾ LGU+, 글로벌 자율 네트워크 역량 평가 모델 개발
-https://www.etnews.com/20260826000056
+◾ SKT, AIDC 전문 기업 ＇SK호라이즌＇ 설립...SK하이퍼와 차별점은
+https://www.aitimes.com/news/articleView.html?idxno=214501
 
 [기관]
-◾ ｢사이버 보안 특화 AI 파운데이션 모델 개발｣ 사업 공모 결과
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187701&searchOpt=ALL&searchTxt=
+◾ (보도참고) ｢독자 AI 파운데이션 모델｣ 프로젝트 2차 단계평가 결과를 상세히 공개합니다.
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187709&searchOpt=ALL&searchTxt=
 
-◾ 국민이 체감하는 인공지능 서비스 신속하게 구현한다 과기정통부, 국민AI서비스혁신추진단 신설
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187700&searchOpt=ALL&searchTxt=
+◾ 공공데이터 TOP100 조기개방… “글로벌 AI 경쟁력 확보의 핵심”
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187708&searchOpt=ALL&searchTxt=
 
-◾ BCI 얼라이언스 출범...“2035년 BCI 상용화 추진”
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187696&searchOpt=ALL&searchTxt=
+◾ 「독자 AI 파운데이션 모델」 프로젝트로 확보한 AI 학습용 데이터 29종 본격 개방
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187704&searchOpt=ALL&searchTxt=
 
-◾ 과기부 ＇사이버 보안 AI＇ 공모 접수 완료…SKT·네이버클라우드 맞대결
-https://www.aitimes.com/news/articleView.html?idxno=214419
+◾ 인공지능시대 통신인프라 투자 촉진 위한 ‘민·관협의체’ 본격 가동
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187703&searchOpt=ALL&searchTxt=
 
-◾ 과기부, AI 서비스 설계･개발 담당 ‘혁신추진단’ 신설…민간전문가 공개 모집
-https://www.aitimes.com/news/articleView.html?idxno=214394
+◾ 과기정통부, 범용인공지능(AGI) 시대 준비를 위한제2차 「과학기술·인공지능 미래전략회의」 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187707&searchOpt=ALL&searchTxt=
 
-◾ 과기부, ‘BCI 얼라이언스’ 출범...“2035년 BCI 상용화 추진”
-https://www.aitimes.com/news/articleView.html?idxno=214388
+◾ 독자 AI 파운데이션 모델 5개 정예팀, AI 학습 데이터 29종 전격 개방
+https://www.aitimes.kr/news/articleView.html?idxno=41636
 
-◾ “AI 데이터센터 경쟁 3~4년 내 결정”…업계, 세재 지원 촉구
-https://www.etnews.com/20260826000339
+◾ 인공지능 데이터센터 전력망 안정적으로 연결한다… 기후부, AIDC 연구회 본격 가동
+https://www.aitimes.kr/news/articleView.html?idxno=41634
 
-◾ 정부 개발자 조직 ＇국민AI서비스혁신추진단＇ 신설…서비스 신속 개발 기대
-https://www.etnews.com/20260826000247
+◾ 산림청, AI 기반 사이버보안과 개인정보보호 강화...전문가 자문회의 개최
+https://www.aitimes.kr/news/articleView.html?idxno=41633
 
-◾ 한국투자증권, 전북도·군산시·SGC에너지와 AIDC 개발…연내 60MW급 착공 목표
-https://www.etnews.com/20260826000211
+◾ 국립공원공단, 위성영상·AI 활용 국립공원 환경 모니터링 챌린지 개최
+https://www.aitimes.kr/news/articleView.html?idxno=41632
 
-◾ 조달청, 기술평가에 AI 투입…우수제품·협상계약 대상 실증 착수
-https://www.etnews.com/20260826000162
-
-◾ 지식재산처, 정부 부처 AI 정책 분석 플랫폼 시범운영
-https://www.etnews.com/20260826000140
-
-◾ “수기 방문대장 역사 속으로”…바른정보기술, 국내 최대 국가 AI데이터센터에 ＇제로패스＇ 공급
-https://www.etnews.com/20260825000395
+◾ KAIST, 써모 피셔 사이언티픽과‘자율실험실’구축…AI가 설계하고 로봇이 실험한다 새창으로 읽기
+https://www.aitimes.kr/news/articleView.html?idxno=41623
 
 [해외]
-◾ 알리바바, 웹·데스크톱 기반 올인원 AI 에이전트 ‘큐웬워크 국제판’ 공개…글로벌 업무용 AI 에이전트 시장 공략
-https://www.aitimes.kr/news/articleView.html?idxno=41618
+◾ 엔비디아, ＇오픈소스＇ 허깅페이스 18조에 인수...AI 생태계 수직통합
+https://www.aitimes.com/news/articleView.html?idxno=214502
 
-◾ 구글 클라우드, 금융∙법률 산업 특화 AI ＇제미나이 엔터프라이즈＇ 출시
-https://www.aitimes.kr/news/articleView.html?idxno=41611
+◾ 오픈AI 〃AGI 임계점에 도달…올해 말 내부 구축 완료할 것〃
+https://www.aitimes.com/news/articleView.html?idxno=214477
 
-◾ 애플, M5 맥스·M5 울트라 탑재 미니PC ‘맥 스튜디오’ 공개…온디바이스 AI 성능 최대 4.3배 향상
-https://www.aitimes.kr/news/articleView.html?idxno=41604
+◾ 〃영상 한 번 보면 바로 따라한다〃...스킬드 AI, 로봇 파운데이션 모델 ＇S1＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=214494
 
-◾ 오픈AI, 자체 AI 추론칩 ‘할라페뇨’ 성능 전격 공개… “와트당 AI 처리량·응답속도 모두 잡았다”
-https://www.aitimes.kr/news/articleView.html?idxno=41603
+◾ 딥시크, 올해 매출 1000억 눈앞...7개월 만에 10배 폭증
+https://www.aitimes.com/news/articleView.html?idxno=214464
 
-◾ 엔비디아, ‘젯슨 오린 나노 2’ 공개…엔트리급 엣지 AI 성능 2배 높인다
-https://www.aitimes.kr/news/articleView.html?idxno=41600
-
-◾ WSJ “앤트로픽, AI 잠재 시장규모 30조달러 제시할 것”
-https://www.etnews.com/20260826000333
-
-◾ 아티피셜 어낼리시스 “한국 AI 경쟁력, 미·중 이어 세계 3위”
-https://www.etnews.com/20260826000257
-
-◾ 리벨리온, 칼로섬과 파트너십… 영국 소버린 AI 프로젝트 공동 참여
-https://www.etnews.com/20260826000191
-
-◾ 파이오링크, 필리핀 국가 사이버관제 구축 착수…AI 내재화 전략 제시
-https://www.etnews.com/20260826000082
+◾ 오픈AI 〃에이전트 1200개 집단 행동 확인〃…허깅페이스 해킹 전말 공개
+https://www.aitimes.com/news/articleView.html?idxno=214495
 
 📚 간행물
-◾ 로봇 파운데이션 모델 기술 동향 [주간기술동향 2219호]
-https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1404&cpage=1&rows=10&searchTarget=all
+◾ WRC 2026으로 본 중국 로봇 산업의 현주소 [AI·ICT Brief 2026-30호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260827-000001&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

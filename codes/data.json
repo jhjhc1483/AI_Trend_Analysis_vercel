@@ -23682,5 +23682,165 @@
       ]
     },
     "briefing": "- 미군의 ‘리플리케이터’ 전략을 분석하며 향후 한국군의 AI 및 무인체계 발전 방향에 대한 논의가 제기되었습니다.\n- 국방 디지털 혁신 플랫폼인 ‘장병e음’이 ICT 어워드에서 최고상을 수상하며 그 기술적 가치를 입증했습니다.\n- KTL이 데이터 품질부터 사업화까지 지원하는 AI 기반 방산·우주항공 검증체계를 공개하여 군 관련 기술 신뢰성 확보의 기반을 마련했습니다."
+  },
+  "26.08.28": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "(보도참고) ｢독자 AI 파운데이션 모델｣ 프로젝트 2차 단계평가 결과를 상세히 공개합니다.",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187709&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "공공데이터 TOP100 조기개방… “글로벌 AI 경쟁력 확보의 핵심”",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187708&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "「독자 AI 파운데이션 모델」 프로젝트로 확보한 AI 학습용 데이터 29종 본격 개방",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187704&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "인공지능시대 통신인프라 투자 촉진 위한 ‘민·관협의체’ 본격 가동",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187703&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "과기정통부, 범용인공지능(AGI) 시대 준비를 위한제2차 「과학기술·인공지능 미래전략회의」 개최",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187707&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "독자 AI 파운데이션 모델 5개 정예팀, AI 학습 데이터 29종 전격 개방",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41636",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "인공지능 데이터센터 전력망 안정적으로 연결한다… 기후부, AIDC 연구회 본격 가동",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41634",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "산림청, AI 기반 사이버보안과 개인정보보호 강화...전문가 자문회의 개최",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41633",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "국립공원공단, 위성영상·AI 활용 국립공원 환경 모니터링 챌린지 개최",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41632",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "KAIST, 써모 피셔 사이언티픽과‘자율실험실’구축…AI가 설계하고 로봇이 실험한다 새창으로 읽기",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41623",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "SKT, AIDC 인프라 컴퍼니 ‘SK호라이즌’ 출범...‘아시아 AI 인프라 허브’를 향한 진용 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41641",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "한전KDN, 전력 AX 솔루션 3종 공개...전력 계통 안정·현장 안전 제고",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41639",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "SKT, AIDC 전문 기업 ＇SK호라이즌＇ 설립...SK하이퍼와 차별점은",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214501",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "국방": [
+        {
+          "title": "네이버클라우드-LG CNS, 풀스택 자체 기술로 보안 특화 AI 구축 나선다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41629",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "SKT 컨소시엄, 사이버 보안 특화 AI 모델 개발 도전...대한민국 지킬 방패 만든다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41622",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "탐지부터 조치까지 자동화...SKT 컨소시엄, 정부 보안 AI 사업 출사표",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214486",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "“여의도 상공에 뜬 드론을 무력화하라”",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260828/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=X0FFfK5Wp9hl2b4XAq9_QvC7JmH2EOi6g1ySbmgq64Wvh9HgudBS!1119777534",
+          "category": "국방",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "엔비디아, ＇오픈소스＇ 허깅페이스 18조에 인수...AI 생태계 수직통합",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214502",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "오픈AI 〃AGI 임계점에 도달…올해 말 내부 구축 완료할 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214477",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "〃영상 한 번 보면 바로 따라한다〃...스킬드 AI, 로봇 파운데이션 모델 ＇S1＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214494",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "딥시크, 올해 매출 1000억 눈앞...7개월 만에 10배 폭증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214464",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI 〃에이전트 1200개 집단 행동 확인〃…허깅페이스 해킹 전말 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214495",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "육군": [
+        {
+          "title": "육군56사단 중구대대, 교육용 드론 지원 받아",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260827/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=X0FFfK5Wp9hl2b4XAq9_QvC7JmH2EOi6g1ySbmgq64Wvh9HgudBS!1119777534",
+          "category": "육군",
+          "score": 3
+        }
+      ],
+      "간행물": [
+        {
+          "title": "WRC 2026으로 본 중국 로봇 산업의 현주소 [AI·ICT Brief 2026-30호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260827-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 4
+        }
+      ]
+    }
   }
 }
