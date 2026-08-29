@@ -5,8 +5,17 @@
 ◾ 비디오 생성 AI ‘제미나이 옴니 1.1 플래시’ 공개… “4K 업스케일링 및 제어 기능 강화”
 https://www.aitimes.kr/news/articleView.html?idxno=41654
 
+◾ 텐센트, 차세대 모델 ＇Hy4 프리뷰＇ 오픈 출시로 기업용 시장 정조준
+https://www.aitimes.com/news/articleView.html?idxno=214596
+
 ◾ 허깅페이스, 55만원짜리 오픈소스 로봇 ＇마이크로덕＇ 공개
 https://www.aitimes.com/news/articleView.html?idxno=214607
+
+◾ 실리콘밸리 매료시킨 ‘인스팅트’ 3.5조 가치 인정...〃진짜 AI 비서〃
+https://www.aitimes.com/news/articleView.html?idxno=214605
+
+◾ 셀렉트스타 〃AI 안전성, 빅테크도 못 다루는 로컬 리스크 해결이 핵심〃
+https://www.aitimes.com/news/articleView.html?idxno=214585
 
 ◾ 구글, 구매한 전자책과 ＇제미나이 노트북＇ 연결…‘전문가 인텔리전스’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=214600
@@ -27,15 +36,12 @@ https://www.etnews.com/20260828000213
 ◾ 하정우 전 AI미래기획수석, “AI 경쟁력, 메모리·데이터·전력이 좌우”
 https://www.aitimes.kr/news/articleView.html?idxno=41656
 
-◾ 포스텍, AI·철강AX·이차전지 등 경북형 아젠다 발굴 착수
-https://www.etnews.com/20260829000003
-
 [해외]
 ◾ “AI가 이제 현실 세계를 움직인다”…앤트로픽, ＇모델 하드웨어 표준(MHS)’ 프리뷰 공개
 https://www.aitimes.kr/news/articleView.html?idxno=41657
 
-◾ 텐센트, 차세대 모델 ＇Hy4 프리뷰＇ 오픈 출시로 기업용 시장 정조준
-https://www.aitimes.com/news/articleView.html?idxno=214596
+◾ [8월28일] 엔비디아는 왜 허깅페이스를 인수할까…〃오픈 모델 다운에서 배포로〃
+https://www.aitimes.com/news/articleView.html?idxno=214542
 
 ◾ 앤트로픽 〃AI가 인간 대신 정렬 작업 수행…안전성 크게 높였다〃
 https://www.aitimes.com/news/articleView.html?idxno=214608
@@ -48,9 +54,6 @@ https://www.aitimes.com/news/articleView.html?idxno=214601
 
 ◾ 미국, 중국의 AI 칩 ＇우회 원격 접속＇ 차단 추진…수출 통제 허점 막는다
 https://www.aitimes.com/news/articleView.html?idxno=214602
-
-◾ 클로드 테스트 중 700GB 홈 디렉터리 삭제...〃안전 분류기가 사고 키워〃
-https://www.aitimes.com/news/articleView.html?idxno=214594
 
 ◾ 메타, 8B 모델로 ‘클로드 오퍼스 4.5’ 성능 구현한 ‘에보하네스-RL’ 공개
 https://www.aitimes.com/news/articleView.html?idxno=214593

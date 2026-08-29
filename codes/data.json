@@ -24137,8 +24137,26 @@
           "score": 3
         },
         {
+          "title": "텐센트, 차세대 모델 ＇Hy4 프리뷰＇ 오픈 출시로 기업용 시장 정조준",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214596",
+          "category": "민간",
+          "score": 3
+        },
+        {
           "title": "허깅페이스, 55만원짜리 오픈소스 로봇 ＇마이크로덕＇ 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214607",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "실리콘밸리 매료시킨 ‘인스팅트’ 3.5조 가치 인정...〃진짜 AI 비서〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214605",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "셀렉트스타 〃AI 안전성, 빅테크도 못 다루는 로컬 리스크 해결이 핵심〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214585",
           "category": "민간",
           "score": 3
         },
@@ -24181,10 +24199,10 @@
           "score": 4
         },
         {
-          "title": "텐센트, 차세대 모델 ＇Hy4 프리뷰＇ 오픈 출시로 기업용 시장 정조준",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214596",
+          "title": "[8월28일] 엔비디아는 왜 허깅페이스를 인수할까…〃오픈 모델 다운에서 배포로〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214542",
           "category": "해외",
-          "score": 3
+          "score": 4
         },
         {
           "title": "앤트로픽 〃AI가 인간 대신 정렬 작업 수행…안전성 크게 높였다〃",
@@ -24211,12 +24229,6 @@
           "score": 5
         },
         {
-          "title": "클로드 테스트 중 700GB 홈 디렉터리 삭제...〃안전 분류기가 사고 키워〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214594",
-          "category": "해외",
-          "score": 3
-        },
-        {
           "title": "메타, 8B 모델로 ‘클로드 오퍼스 4.5’ 성능 구현한 ‘에보하네스-RL’ 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214593",
           "category": "해외",
@@ -24229,15 +24241,8 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41656",
           "category": "기관",
           "score": 4
-        },
-        {
-          "title": "포스텍, AI·철강AX·이차전지 등 경북형 아젠다 발굴 착수",
-          "link": "https://www.etnews.com/20260829000003",
-          "category": "기관",
-          "score": 3
         }
       ]
-    },
-    "briefing": "- 미국 정부가 중국의 AI 칩 우회 원격 접속을 차단하기 위한 수출 통제 강화 방안을 추진 중입니다.\n- 앤트로픽이 AI 모델이 물리적 하드웨어를 제어하는 표준 규격인 '모델 하드웨어 표준(MHS)'을 공개했습니다.\n- 하정우 전 AI미래기획수석이 국가적 AI 경쟁력 확보를 위해 메모리·데이터·전력 자원의 중요성을 강조했습니다."
+    }
   }
 }
