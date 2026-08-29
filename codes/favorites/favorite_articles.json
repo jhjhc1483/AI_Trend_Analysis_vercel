@@ -1,91 +1,103 @@
 [
   {
-    "title": "「모두의 AI」 프로젝트, 사업자 선정 결과 발표",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187712&searchOpt=ALL&searchTxt=",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "〃세계 1위 AI와 1위 AI CRM이 만났다〃…세일즈포스·앤트로픽, ＇클로드포스＇ 발표",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41651",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "NIA, 공공 AX 현장 활용 본격화...AI 정부 실험실 이용자 설명회 개최",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41647",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "〃전 국민 AI 비서 나온다〃...SKT, 10월 베타 출시 국내 최대 AI 서비스 생태계 구축",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41646",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "구글, ＇제미나이 3.8 플래시＇ 내부 테스트 포착...＇월간 출시＇ 속도전",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214546",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "앤트로픽, AI와 물리 장비 잇는 ＇MHS＇ 공개...〃MCP 피지컬 AI 버전〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214531",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "구글, ‘제미나이 옴니 1.1 플래시’ 공개…영상 생성·편집 제어 기능 대폭 강화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214576",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "소프트뱅크, ＇가정용＇ 휴머노이드 기업 1X 과반 지분 인수 추진",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214552",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "미 법원 〃앤트로픽 블랙리스트 지정은 위법〃...트럼프 행정부 보복 조치에 제동",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214562",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "모두의 AI, SK텔레콤·KT·카카오 선정…2대 1 경쟁 뚫어",
-    "link": "https://www.etnews.com/20260828000039",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "두나무-비자, 스테이블코인·AI 기반 차세대 결제 혁신 추진",
-    "link": "https://www.etnews.com/20260828000020",
+    "title": "비디오 생성 AI ‘제미나이 옴니 1.1 플래시’ 공개… “4K 업스케일링 및 제어 기능 강화”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41654",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "글로벌 기업 120곳 공개서한…“AI발 사이버 공격 목전…공동 대응해야”",
-    "link": "https://www.etnews.com/20260828000015",
+    "title": "“AI가 이제 현실 세계를 움직인다”…앤트로픽, ＇모델 하드웨어 표준(MHS)’ 프리뷰 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41657",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "산단공, 중소·중견 제조기업 ＇AI 두뇌＇ 심는다…230억 투입해 범용 모델 구축",
-    "link": "https://www.etnews.com/20260828000256",
+    "title": "하정우 전 AI미래기획수석, “AI 경쟁력, 메모리·데이터·전력이 좌우”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41656",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "소프트자이온, 과기정통부 AX 원스톱 지원포털 ＇AX360°＇ 구축 완료…산업 전반 AX 전환 및 기업 성장 지원",
-    "link": "https://www.etnews.com/20260828000209",
+    "title": "텐센트, 차세대 모델 ＇Hy4 프리뷰＇ 오픈 출시로 기업용 시장 정조준",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214596",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "앤트로픽 〃AI가 인간 대신 정렬 작업 수행…안전성 크게 높였다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214608",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "허깅페이스, 55만원짜리 오픈소스 로봇 ＇마이크로덕＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214607",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "앤트로픽, 엔스케일 계약 이어 칩 스타트업 협상…컴퓨팅 용량 확보 ＇총력전＇",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214604",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "구글, 구매한 전자책과 ＇제미나이 노트북＇ 연결…‘전문가 인텔리전스’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214600",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "구글, ＇제미나이 라이브＇에 에이전트 탑재…음성으로 일정·이메일 제어",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214599",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "a16z, AI 하드웨어 공급망 병목 해결 위해 1.5조 규모 ＇머신 에이지＇ 펀드 출범",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214601",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "미국, 중국의 AI 칩 ＇우회 원격 접속＇ 차단 추진…수출 통제 허점 막는다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214602",
+    "category": "해외",
+    "score": 5
+  },
+  {
+    "title": "클로드 테스트 중 700GB 홈 디렉터리 삭제...〃안전 분류기가 사고 키워〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214594",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "메타, 8B 모델로 ‘클로드 오퍼스 4.5’ 성능 구현한 ‘에보하네스-RL’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214593",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "포스텍, AI·철강AX·이차전지 등 경북형 아젠다 발굴 착수",
+    "link": "https://www.etnews.com/20260829000003",
     "category": "기관",
     "score": 3
   },
   {
-    "title": "카카오, 정부 ＇모두의 AI＇ 사업자 선정…카톡·전화 AI 기반 베타 서비스 9월 공개",
-    "link": "https://www.etnews.com/20260828000138",
+    "title": "[2026 전남광주미래산업박람회] 지에프, AI·로봇 미래농업 혁신기술 뽐낸다",
+    "link": "https://www.etnews.com/20260826000168",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "[2026 전남광주미래산업박람회] 뉴로메카, 피지컬 AI 플랫폼 ＇PSF＇ 등 전시",
+    "link": "https://www.etnews.com/20260827000150",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "“AI 에이전트 시대, ＇토큰 거버넌스＇ 필요”…SK, ＇토큰 이코노미＇ 사내서 낸다",
+    "link": "https://www.etnews.com/20260828000213",
     "category": "민간",
     "score": 4
   }
