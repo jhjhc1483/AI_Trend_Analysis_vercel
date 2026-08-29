@@ -2,11 +2,14 @@
 
 📰 오늘의 기사
 [민간]
-◾ 〃세계 1위 AI와 1위 AI CRM이 만났다〃…세일즈포스·앤트로픽, ＇클로드포스＇ 발표
-https://www.aitimes.kr/news/articleView.html?idxno=41651
-
 ◾ 〃전 국민 AI 비서 나온다〃...SKT, 10월 베타 출시 국내 최대 AI 서비스 생태계 구축
 https://www.aitimes.kr/news/articleView.html?idxno=41646
+
+◾ 두나무-비자, 스테이블코인·AI 기반 차세대 결제 혁신 추진
+https://www.etnews.com/20260828000020
+
+◾ 카카오, 정부 ＇모두의 AI＇ 사업자 선정…카톡·전화 AI 기반 베타 서비스 9월 공개
+https://www.etnews.com/20260828000138
 
 [기관]
 ◾ 「모두의 AI」 프로젝트, 사업자 선정 결과 발표
@@ -15,13 +18,22 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ NIA, 공공 AX 현장 활용 본격화...AI 정부 실험실 이용자 설명회 개최
 https://www.aitimes.kr/news/articleView.html?idxno=41647
 
-◾ SKT는 ＇행동형 비서＇, 카카오는 ＇카톡＇, KT는 ＇다음＇…＇모두의 AI＇ 전략은
-https://www.aitimes.com/news/articleView.html?idxno=214567
-
 ◾ 모두의 AI, SK텔레콤·KT·카카오 선정…2대 1 경쟁 뚫어
 https://www.etnews.com/20260828000039
 
+◾ 산단공, 중소·중견 제조기업 ＇AI 두뇌＇ 심는다…230억 투입해 범용 모델 구축
+https://www.etnews.com/20260828000256
+
+◾ 소프트자이온, 과기정통부 AX 원스톱 지원포털 ＇AX360°＇ 구축 완료…산업 전반 AX 전환 및 기업 성장 지원
+https://www.etnews.com/20260828000209
+
 [해외]
+◾ 〃세계 1위 AI와 1위 AI CRM이 만났다〃…세일즈포스·앤트로픽, ＇클로드포스＇ 발표
+https://www.aitimes.kr/news/articleView.html?idxno=41651
+
+◾ 구글, ＇제미나이 3.8 플래시＇ 내부 테스트 포착...＇월간 출시＇ 속도전
+https://www.aitimes.com/news/articleView.html?idxno=214546
+
 ◾ 앤트로픽, AI와 물리 장비 잇는 ＇MHS＇ 공개...〃MCP 피지컬 AI 버전〃
 https://www.aitimes.com/news/articleView.html?idxno=214531
 

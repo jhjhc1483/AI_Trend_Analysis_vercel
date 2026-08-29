@@ -8,20 +8,26 @@
   {
     "title": "〃세계 1위 AI와 1위 AI CRM이 만났다〃…세일즈포스·앤트로픽, ＇클로드포스＇ 발표",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41651",
-    "category": "민간",
+    "category": "해외",
     "score": 4
   },
   {
     "title": "NIA, 공공 AX 현장 활용 본격화...AI 정부 실험실 이용자 설명회 개최",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41647",
     "category": "기관",
-    "score": 4
+    "score": 3
   },
   {
     "title": "〃전 국민 AI 비서 나온다〃...SKT, 10월 베타 출시 국내 최대 AI 서비스 생태계 구축",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41646",
     "category": "민간",
-    "score": 3
+    "score": 4
+  },
+  {
+    "title": "구글, ＇제미나이 3.8 플래시＇ 내부 테스트 포착...＇월간 출시＇ 속도전",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214546",
+    "category": "해외",
+    "score": 4
   },
   {
     "title": "앤트로픽, AI와 물리 장비 잇는 ＇MHS＇ 공개...〃MCP 피지컬 AI 버전〃",
@@ -33,24 +39,18 @@
     "title": "구글, ‘제미나이 옴니 1.1 플래시’ 공개…영상 생성·편집 제어 기능 대폭 강화",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214576",
     "category": "해외",
-    "score": 3
+    "score": 4
   },
   {
     "title": "소프트뱅크, ＇가정용＇ 휴머노이드 기업 1X 과반 지분 인수 추진",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214552",
     "category": "해외",
-    "score": 3
+    "score": 4
   },
   {
     "title": "미 법원 〃앤트로픽 블랙리스트 지정은 위법〃...트럼프 행정부 보복 조치에 제동",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214562",
     "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "SKT는 ＇행동형 비서＇, 카카오는 ＇카톡＇, KT는 ＇다음＇…＇모두의 AI＇ 전략은",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=214567",
-    "category": "기관",
     "score": 4
   },
   {
@@ -60,9 +60,33 @@
     "score": 4
   },
   {
+    "title": "두나무-비자, 스테이블코인·AI 기반 차세대 결제 혁신 추진",
+    "link": "https://www.etnews.com/20260828000020",
+    "category": "민간",
+    "score": 3
+  },
+  {
     "title": "글로벌 기업 120곳 공개서한…“AI발 사이버 공격 목전…공동 대응해야”",
     "link": "https://www.etnews.com/20260828000015",
     "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "산단공, 중소·중견 제조기업 ＇AI 두뇌＇ 심는다…230억 투입해 범용 모델 구축",
+    "link": "https://www.etnews.com/20260828000256",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "소프트자이온, 과기정통부 AX 원스톱 지원포털 ＇AX360°＇ 구축 완료…산업 전반 AX 전환 및 기업 성장 지원",
+    "link": "https://www.etnews.com/20260828000209",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "카카오, 정부 ＇모두의 AI＇ 사업자 선정…카톡·전화 AI 기반 베타 서비스 9월 공개",
+    "link": "https://www.etnews.com/20260828000138",
+    "category": "민간",
     "score": 4
   }
 ]
