@@ -24245,5 +24245,203 @@
       ]
     },
     "briefing": "- 구글이 '제미나이 라이브'에 일정과 이메일을 음성으로 제어할 수 있는 AI 에이전트 기능을 탑재했습니다.\n- 미국 정부가 중국의 AI 칩 우회 원격 접속을 차단하기 위한 수출 통제 강화 방안을 추진하고 있습니다.\n- 앤트로픽이 AI가 인간 대신 정렬 작업을 수행하여 안전성을 높이는 기술을 개발했다고 밝혔습니다."
+  },
+  "26.08.31": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "이 대통령, AI 미래전략 수석에 이해민 의원 선임…국가AI전략위 부위원장에 하정우 지명",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41666",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "하정우 전 수석, AI전략위 복귀...‘구글 출신’ 이해민 AI수석 합류",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214624",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "KT, 서울대·KAIST와 AI 공동연구 최종 성과 공유...핵심 기술 내재화 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214609",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "국가인공지능전략위 부위원장에 하정우",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260831/3/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=cKxUD1bf1HOJh3n9vKF-hXHd9TEnRzy-JhSbW04uc8g1NHrTpHhZ!1119777534",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "[李, 2기 개각] AI 콘트롤타워 부재 해소…메가프로젝트 속도전 기대",
+          "link": "https://www.etnews.com/20260830000090",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "“지방정부 AX가 답이다”…AI 민주정부 실현, 현장 전문가 7인의 제언",
+          "link": "https://www.etnews.com/20260830000081",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "“AI 행정결정에 이의제기 할 수 있어야”…전자정부법 개정 논의 본격화",
+          "link": "https://www.etnews.com/20260830000080",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "연구현장을 교육 현장으로...UST, 신설 ＇AI 모빌리티＇ 전공 포함해 내년도 전기 1차 석박사과정 신입생 모집",
+          "link": "https://www.etnews.com/20260830000079",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "철도시설 유지관리 AI로 손쉽게...철도연 ＇레일닥터＇ 플랫폼, 현장 적용 길 열려",
+          "link": "https://www.etnews.com/20260830000078",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "국립공주대, 피지컬AI 인재양성·생태계 구축…“산학 협력 피지컬AI 선도캠퍼스 마련”",
+          "link": "https://www.etnews.com/20260828000150",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "하정우 “에너지, AI·반도체·모빌리티, 우주산업 연결해 전남광주를 글로벌 AI 핵심 공급망 축으로”",
+          "link": "https://www.etnews.com/20260830000046",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "“인공지능, 수백만 소재 중 쓸 수 있는 후보 처음부터 골라낸다”...MIT, AI로 ‘안정적인 신소재’ 생성 기술 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41664",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "록히드마틴, 괌 방어체계에 AI 기반 통합전투관리 기술 공개…“AI로 위협에 더 빠르게 대응”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41663",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "〃AI가 AI 칩을 만든다〃...＇핫칩스 2026＇서 확인된 반도체 설계의 대변혁",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214627",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "웨이모, 테슬라 향해 직격탄… “2억마일 뛰어보니 카메라만으론 한계”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214626",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "소니·워너, 앤트로픽에 저작권 소송...〃클로드 훈련용 음악 무단 취득〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214614",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "CXMT, 미 국방부 상대 소송 제기...〃중국 군수업체 지정은 자의적〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214612",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "＇클로드 코드＇ 주간 한도 25% 인상…실제 17% 감소에 개발자 ＇발끈＇",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214616",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, ＇코덱스＇ 용량 한계 보완 조치 단행…〃사용 효율 최대 50% 개선〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214613",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI ＇아스트라＇ 성능 포착...웹 개발부터 3D 그래픽까지 원샷 구현",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214611",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, 스페이스X 인수 ＇커서＇에 모델 제공 중단...머스크와 갈등 격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214610",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "“머라이어 캐리·테일러 스위프트 곡으로 AI 학습”…앤트로픽, 또 저작권 피소",
+          "link": "https://www.etnews.com/20260830000063",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, 스페이스X 인수된 ＇커서＇ 계약해지…올트먼·머스크 또 신경전",
+          "link": "https://www.etnews.com/20260830000059",
+          "category": "해외",
+          "score": 3
+        }
+      ],
+      "민간": [
+        {
+          "title": "[AI 이슈] AI가 스마트폰을 ‘몰래카메라 탐지기’로…KAIST-싱가포르대, 저비용 탐지 AI 기술 제시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41662",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "은행권, ＇코인 자금세탁＇ 막는다…AI로 의심거래까지 추적",
+          "link": "https://www.etnews.com/20260828000222",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "SKT·카카오·KT, ＇모두의 AI＇ 개발 시동…1000만 MAU 목표",
+          "link": "https://www.etnews.com/20260828000220",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "美 AI 전력난, K원전이 뚫는다…KNA, 美 댈러스서 원전 협력",
+          "link": "https://www.etnews.com/20260830000072",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "KT-서울대-KAIST, AI 공동 연구 성과 공유",
+          "link": "https://www.etnews.com/20260830000007",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "KT, AI 기반 상품추천 개인화 서비스 내달 출시…업무시스템 AI로 전면 개편",
+          "link": "https://www.etnews.com/20260828000268",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "육군": [
+        {
+          "title": "육군 ‘드론·로봇 전술시범단’ 창설",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260831/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=cKxUD1bf1HOJh3n9vKF-hXHd9TEnRzy-JhSbW04uc8g1NHrTpHhZ!1119777534",
+          "category": "육군",
+          "score": 5
+        },
+        {
+          "title": "육군 ‘드론·로봇 전술시범단’ 창설",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDMyNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군",
+          "score": 5
+        }
+      ]
+    }
   }
 }
