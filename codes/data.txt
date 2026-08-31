@@ -1,6 +1,7 @@
 📢26.09.01 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
 ◾ 자율비행 속 ‘완벽 통제’ 지켜낸다
 https://kookbang.dema.mil.kr/newsWeb/20260901/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=_nZZtQ9NzW7qW0uY_WQz2yKldVbRXg-s1hRISGkOYDRh2dXLDlyf!-172114094
 
@@ -11,20 +12,8 @@ https://kookbang.dema.mil.kr/newsWeb/20260901/1/ATCE_CTGR_0020010029/view.do;JSE
 https://www.etnews.com/20260831000301
 
 [민간]
-◾ 구글, AI 평가도 ‘이중맹검’ 시대 연다…“모델도 시험문제도 서로 못 본다”
-https://www.aitimes.kr/news/articleView.html?idxno=41681
-
-◾ 〃사진 찍으면 AI가 알아서 기록해준다〃...SKT, AI 글래스 촬영 사진 기록하는 ‘에이닷 로그’ 선보여
-https://www.aitimes.kr/news/articleView.html?idxno=41676
-
 ◾ 솔트룩스, “1인 1 AI 에이전트 시대 앞당긴다”...‘모두의 AI’ KT 컨소시엄 핵심 파트너 참여
 https://www.aitimes.kr/news/articleView.html?idxno=41671
-
-◾ DGIST·유한양행·제이인츠바이오·연세-유일한 폐암 연구소, 바이오산업 AX 공동연구 업무협약 체결
-https://www.aitimes.kr/news/articleView.html?idxno=41669
-
-◾ 이스트소프트,  AI 비서 ‘알비서’ 하반기 출시… 가장 쓰기 편한 설치형 에이전트
-https://www.aitimes.kr/news/articleView.html?idxno=41667
 
 ◾ 숭실대, 클로드 기반 보안 AI ＇무네메＇ 개발…글로벌 벤치마크 91% 달성
 https://www.aitimes.com/news/articleView.html?idxno=214661
@@ -32,66 +21,36 @@ https://www.aitimes.com/news/articleView.html?idxno=214661
 ◾ NC AI, 업스테이지·퓨리오사AI와 사우디서 ＇K-AI 기술력＇ 알린다
 https://www.aitimes.com/news/articleView.html?idxno=214660
 
-◾ 솔트룩스, ‘모두의 AI’ KT 컨소시엄 참여…공공 에이전트 구축 담당
-https://www.aitimes.com/news/articleView.html?idxno=214654
-
-◾ SKT, AI 안경으로 찍은 사진 정리해주는 ＇에이닷 로그＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=214640
-
 ◾ 민간 주도 ＇미래기술 전략포럼＇ 출범…AI·반도체 기술주권 확보 나선다
 https://www.etnews.com/20260831000332
-
-◾ 엘리스그룹, IPO 자금 활용 ＇모듈 데이터센터＇ 전국 확대한다
-https://www.etnews.com/20260831000262
-
-◾ 애니파이브, 위즈도메인·테크DNA 통합…AI 기반 IP·R&D 플랫폼 기업 도약
-https://www.etnews.com/20260831000033
-
-◾ 한미그룹-메가존 AX 동맹…제약·헬스케어 디지털 혁신 ＇맞손＇
-https://www.etnews.com/20260831000313
 
 ◾ NC AI, 메가존 등 풀스택 AI 컨소시엄과 사우디 공략 본격화
 https://www.etnews.com/20260831000281
 
+◾ [알림] AI 네이티브 시대 기업 혁신 전략 모색…＇CAIO 서밋 2026＇ 개최
+https://www.etnews.com/20260831000228
+
 ◾ KT “우리은행 상담 업무 60% AI봇으로 처리한다”…에이전틱 AICC 구축
 https://www.etnews.com/20260831000113
-
-◾ SKT, AI 글래스 사진 자동 정리하는 ＇에이닷 로그＇ 출시
-https://www.etnews.com/20260831000066
 
 ◾ 디지캡, 콘텐츠 제작용 생성형 AI 플랫폼 ＇DreamAX＇ 출시
 https://www.etnews.com/20260828000017
 
 [기관]
-◾ NIA, ‘AI가 바로 활용하는 재난안전 지식데이터’ 새로운 구축·활용 모델 제시
-https://www.aitimes.kr/news/articleView.html?idxno=41673
-
 ◾ NIA, 인공지능 3대 강국 실현 위한 인재모집...2026년 하반기 신입직원 채용
 https://www.aitimes.kr/news/articleView.html?idxno=41670
 
 ◾ ('26. 8. 31.) 국가AI전략위, 하정우 신임 상근부위원장 취임
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=902
 
-◾ [게시판] 라온메디, 25억 ‘국가전략 AI 의료과제’ 선정 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=214664
-
 ◾ 광주대 앵커사업단 AX실증교육센터, 기업 맞춤형 AI 실무교육
 https://www.etnews.com/20260831000370
-
-◾ 전남광주, AI 2단계 기술개발·실증 본격화…5년간 4557억 투입
-https://www.etnews.com/20260831000361
-
-◾ 나주시, 전국 최초 AI 통합돌봄 ＇케어링크＇ 시범 운영…기관·대상자·보호자 연결
-https://www.etnews.com/20260831000360
 
 ◾ 하정우 부위원장, 세계 AI 공급망 핵심국가 예고…“3강 성과 내겠다”
 https://www.etnews.com/20260831000357
 
 ◾ 하정우 부위원장 “국가AI전략위, AI 거버넌스 구심점될 것”
 https://www.etnews.com/20260831000247
-
-◾ 클루커스, K-ICT Week in 부산서 “네이버클라우드 기반 공공 특화 AIOps 플랫폼 공개”
-https://www.etnews.com/20260831000086
 
 ◾ KISA, 생성형 AI 활용 실전형 모의해킹 대회 개최
 https://www.etnews.com/20260831000058
@@ -102,33 +61,18 @@ https://www.etnews.com/20260831000047
 ◾ 충남도, 전국 첫 ＇AI 기본사회＇ 만든다…도민 기본권 보장 모델 구축
 https://www.etnews.com/20260831000040
 
-◾ DGIST·유한양행·제이인츠바이오, 바이오산언 AX 공동연구 착수
-https://www.etnews.com/20260831000024
-
 [해외]
+◾ 구글, AI 평가도 ‘이중맹검’ 시대 연다…“모델도 시험문제도 서로 못 본다”
+https://www.aitimes.kr/news/articleView.html?idxno=41681
+
 ◾ 구글, 벤치마크에 ＇하네스＇ 씌웠더니…〃숨겨진 AI 실력 끌어낸다〃
 https://www.aitimes.com/news/articleView.html?idxno=214657
 
 ◾ 구글, 멀티 에이전트 ＇팀워크＇ 공개…〃플래시 모델로 난제 해결〃
 https://www.aitimes.com/news/articleView.html?idxno=214663
 
-◾ GPT-5.6 솔, 코딩 넘어 가상 CPU 설계까지…게임 ‘둠’ 구동 성공
-https://www.aitimes.com/news/articleView.html?idxno=214615
-
-◾ 〃코덱스로 게임 개발 공식 바꾼다〃...오픈AI, ＇게임 빌더스 서울＇ 열어
-https://www.aitimes.com/news/articleView.html?idxno=214658
-
-◾ 오픈AI, 챗GPT 워크·코덱스에 ‘관리자 플러그인’ 도입...대화로 워크스페이스 관리
-https://www.aitimes.com/news/articleView.html?idxno=214617
-
-◾ ＇초기 스마트폰 강자＇ 블랙베리의 부활...자동차 이어 로봇 AI 노린다
-https://www.aitimes.com/news/articleView.html?idxno=214651
-
 ◾ 메타, AI 전용 통신 규격 ‘메타RoCE’ 공개…수십만 GPU 네트워크 병목 잡는다
 https://www.aitimes.com/news/articleView.html?idxno=214618
-
-◾ 앤트로픽, 과학자용 ＇클로드 팀 플랜＇ 출시...1만명에 무료 제공
-https://www.aitimes.com/news/articleView.html?idxno=214650
 
 ◾ 바이낸스, AI 에이전트 연결 플랫폼 ＇에이전트 OS＇ 공개
 https://www.etnews.com/20260831000095
