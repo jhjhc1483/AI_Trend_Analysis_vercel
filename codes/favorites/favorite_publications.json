@@ -1,1 +1,32 @@
-[]
+[
+  {
+    "title": "Market Insight 412 : 데이터센터 전력 솔루션",
+    "link": "https://astinet.kr/reports/market-insights/750661",
+    "category": "간행물",
+    "score": 4
+  },
+  {
+    "title": "Market Insight 409 : 제조 AIoT",
+    "link": "https://astinet.kr/reports/market-insights/750658",
+    "category": "간행물",
+    "score": 4
+  },
+  {
+    "title": "웨어러블 AI 생태계 확산: 스마트폰 너머로 흩어지는 AI 外 [IITP 디지털 아웃룩 2026-8월호]",
+    "link": "https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260831-000011&cpage=1&rows=10&searchTarget=all",
+    "category": "간행물",
+    "score": 4
+  },
+  {
+    "title": "글로벌 IT 산업 시가총액 100대 기업 변천과 시사점 [ICT SPOT ISSUE(2026-05호)]",
+    "link": "https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260831-000010&cpage=1&rows=10&searchTarget=all",
+    "category": "간행물",
+    "score": 3
+  },
+  {
+    "title": "[제1305호] 트럼프 2기 행정부의 AI·디지털 정책 동향과 시사점",
+    "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1305%ED%98%B8%5D%20%ED%8A%B8%EB%9F%BC%ED%94%84%202%EA%B8%B0%20%ED%96%89%EC%A0%95%EB%B6%80%EC%9D%98%20AI%C2%B7%EB%94%94%EC%A7%80%ED%84%B8%20%EC%A0%95%EC%B1%85%20%EB%8F%99%ED%96%A5%EA%B3%BC%20%EC%8B%9C%EC%82%AC%EC%A0%90",
+    "category": "간행물",
+    "score": 5
+  }
+]

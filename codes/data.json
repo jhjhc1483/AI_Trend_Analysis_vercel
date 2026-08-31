@@ -24374,5 +24374,279 @@
       ]
     },
     "briefing": "- 록히드마틴이 괌 방어체계의 신속한 위협 대응을 위해 AI 기반의 통합전투관리 기술을 공개했습니다.\n- 육군이 드론 및 로봇을 활용한 전술 운용의 효율성을 높이기 위해 ‘드론·로봇 전술시범단’을 창설했습니다.\n- AI 행정결정에 대한 이의제기권을 보장하기 위해 전자정부법 개정에 관한 논의가 본격화되었습니다."
+  },
+  "26.09.01": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "구글, AI 평가도 ‘이중맹검’ 시대 연다…“모델도 시험문제도 서로 못 본다”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41681",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "〃사진 찍으면 AI가 알아서 기록해준다〃...SKT, AI 글래스 촬영 사진 기록하는 ‘에이닷 로그’ 선보여",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41676",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "솔트룩스, “1인 1 AI 에이전트 시대 앞당긴다”...‘모두의 AI’ KT 컨소시엄 핵심 파트너 참여",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41671",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "이스트소프트,  AI 비서 ‘알비서’ 하반기 출시… 가장 쓰기 편한 설치형 에이전트",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41667",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "숭실대, 클로드 기반 보안 AI ＇무네메＇ 개발…글로벌 벤치마크 91% 달성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214661",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "SKT, AI 안경으로 찍은 사진 정리해주는 ＇에이닷 로그＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214640",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "KT “우리은행 상담 업무 60% AI봇으로 처리한다”…에이전틱 AICC 구축",
+          "link": "https://www.etnews.com/20260831000113",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "바이낸스, AI 에이전트 연결 플랫폼 ＇에이전트 OS＇ 공개",
+          "link": "https://www.etnews.com/20260831000095",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "클루커스, K-ICT Week in 부산서 “네이버클라우드 기반 공공 특화 AIOps 플랫폼 공개”",
+          "link": "https://www.etnews.com/20260831000086",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "SKT, AI 글래스 사진 자동 정리하는 ＇에이닷 로그＇ 출시",
+          "link": "https://www.etnews.com/20260831000066",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "UNIST, ＇AI 개인화 기술＇ 고도화한 ＇ExPerT＇ 개발",
+          "link": "https://www.etnews.com/20260831000047",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "디지캡, 콘텐츠 제작용 생성형 AI 플랫폼 ＇DreamAX＇ 출시",
+          "link": "https://www.etnews.com/20260828000017",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "DGIST·유한양행·제이인츠바이오, 바이오산언 AX 공동연구 착수",
+          "link": "https://www.etnews.com/20260831000024",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "기관": [
+        {
+          "title": "NIA, ‘AI가 바로 활용하는 재난안전 지식데이터’ 새로운 구축·활용 모델 제시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41673",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "NIA, 인공지능 3대 강국 실현 위한 인재모집...2026년 하반기 신입직원 채용",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41670",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "('26. 8. 31.) 국가AI전략위, 하정우 신임 상근부위원장 취임",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=902",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "솔트룩스, ‘모두의 AI’ KT 컨소시엄 참여…공공 에이전트 구축 담당",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214654",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "광주대 앵커사업단 AX실증교육센터, 기업 맞춤형 AI 실무교육",
+          "link": "https://www.etnews.com/20260831000370",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "전남광주, AI 2단계 기술개발·실증 본격화…5년간 4557억 투입",
+          "link": "https://www.etnews.com/20260831000361",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "나주시, 전국 최초 AI 통합돌봄 ＇케어링크＇ 시범 운영…기관·대상자·보호자 연결",
+          "link": "https://www.etnews.com/20260831000360",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "하정우 부위원장, 세계 AI 공급망 핵심국가 예고…“3강 성과 내겠다”",
+          "link": "https://www.etnews.com/20260831000357",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "민간 주도 ＇미래기술 전략포럼＇ 출범…AI·반도체 기술주권 확보 나선다",
+          "link": "https://www.etnews.com/20260831000332",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "하정우 부위원장 “국가AI전략위, AI 거버넌스 구심점될 것”",
+          "link": "https://www.etnews.com/20260831000247",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "KISA, 생성형 AI 활용 실전형 모의해킹 대회 개최",
+          "link": "https://www.etnews.com/20260831000058",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "충남도, 전국 첫 ＇AI 기본사회＇ 만든다…도민 기본권 보장 모델 구축",
+          "link": "https://www.etnews.com/20260831000040",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "아스테로모프 AI 모델, 세계적 권위 국제물리올림피아드서 금메달 성적 기록",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41668",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글, 벤치마크에 ＇하네스＇ 씌웠더니…〃숨겨진 AI 실력 끌어낸다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214657",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "구글, 멀티 에이전트 ＇팀워크＇ 공개…〃플래시 모델로 난제 해결〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214663",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "GPT-5.6 솔, 코딩 넘어 가상 CPU 설계까지…게임 ‘둠’ 구동 성공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214615",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "〃코덱스로 게임 개발 공식 바꾼다〃...오픈AI, ＇게임 빌더스 서울＇ 열어",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214658",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, 챗GPT 워크·코덱스에 ‘관리자 플러그인’ 도입...대화로 워크스페이스 관리",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214617",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "메타, AI 전용 통신 규격 ‘메타RoCE’ 공개…수십만 GPU 네트워크 병목 잡는다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214618",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 과학자용 ＇클로드 팀 플랜＇ 출시...1만명에 무료 제공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214650",
+          "category": "해외",
+          "score": 3
+        }
+      ],
+      "육군": [
+        {
+          "title": "디지털 교육콘텐츠 공유 플랫폼 구축",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260901/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=_nZZtQ9NzW7qW0uY_WQz2yKldVbRXg-s1hRISGkOYDRh2dXLDlyf!-172114094",
+          "category": "육군",
+          "score": 4
+        }
+      ],
+      "국방": [
+        {
+          "title": "자율비행 속 ‘완벽 통제’ 지켜낸다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260901/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=_nZZtQ9NzW7qW0uY_WQz2yKldVbRXg-s1hRISGkOYDRh2dXLDlyf!-172114094",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "무인 자동화 포탑…교전 반응성 혁신적 도약",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260901/1/ATCE_CTGR_0020010029/view.do;JSESSIONID_kookbnagWEB=_nZZtQ9NzW7qW0uY_WQz2yKldVbRXg-s1hRISGkOYDRh2dXLDlyf!-172114094",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "디지털 교육콘텐츠 공유 플랫폼 구축",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDM4OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "코난테크놀로지, 영풍전자와 제조·방산 온톨로지 기반 AI 에이전트 개발",
+          "link": "https://www.etnews.com/20260831000301",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "간행물": [
+        {
+          "title": "Market Insight 412 : 데이터센터 전력 솔루션",
+          "link": "https://astinet.kr/reports/market-insights/750661",
+          "category": "간행물",
+          "score": 4
+        },
+        {
+          "title": "Market Insight 409 : 제조 AIoT",
+          "link": "https://astinet.kr/reports/market-insights/750658",
+          "category": "간행물",
+          "score": 4
+        },
+        {
+          "title": "웨어러블 AI 생태계 확산: 스마트폰 너머로 흩어지는 AI 外 [IITP 디지털 아웃룩 2026-8월호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260831-000011&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 4
+        },
+        {
+          "title": "글로벌 IT 산업 시가총액 100대 기업 변천과 시사점 [ICT SPOT ISSUE(2026-05호)]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260831-000010&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 3
+        },
+        {
+          "title": "[제1305호] 트럼프 2기 행정부의 AI·디지털 정책 동향과 시사점",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1305%ED%98%B8%5D%20%ED%8A%B8%EB%9F%BC%ED%94%84%202%EA%B8%B0%20%ED%96%89%EC%A0%95%EB%B6%80%EC%9D%98%20AI%C2%B7%EB%94%94%EC%A7%80%ED%84%B8%20%EC%A0%95%EC%B1%85%20%EB%8F%99%ED%96%A5%EA%B3%BC%20%EC%8B%9C%EC%82%AC%EC%A0%90",
+          "category": "간행물",
+          "score": 5
+        }
+      ]
+    }
   }
 }
