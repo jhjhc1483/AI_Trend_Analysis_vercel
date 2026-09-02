@@ -30,22 +30,16 @@
     "score": 3
   },
   {
-    "title": "링커스앤컴퍼니, Quantum Expo Korea 2026서 통합 양자보안 운용 방안 소개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41708",
-    "category": "민간",
-    "score": 3
-  },
-  {
     "title": "IBM “AI 성능보다 ‘신뢰할 수 있는 운영 능력’이 관건…새로운 인프라 준비해야”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214723",
-    "category": "민간",
+    "category": "해외",
     "score": 4
   },
   {
     "title": "메타, 실시간 음성 ＇뮤즈 보이스 트랜스크라이브＇ 공개...단어 오류율 1위",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214745",
     "category": "해외",
-    "score": 3
+    "score": 4
   },
   {
     "title": "〃필요한 장면 스스로 탐색〃...구글, 제미나이 ＇에이전트 비디오 분석＇ 도입",
@@ -56,7 +50,7 @@
   {
     "title": "런웨이, 실시간 인터페이스 생성 ‘솔라리스’ 공개...〃SW 패러다임 전환〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214753",
-    "category": "민간",
+    "category": "해외",
     "score": 4
   },
   {
@@ -78,10 +72,22 @@
     "score": 3
   },
   {
+    "title": "웨이모·죽스, 로보택시 미국 서비스 동시 확대...테슬라 ‘사이버캡’ 출시에 맞불",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214757",
+    "category": "해외",
+    "score": 4
+  },
+  {
     "title": "KT, ‘안전 AX 솔루션’ 선보인다…“재난 대응부터 보이스피싱 예방까지”",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=214764",
     "category": "민간",
     "score": 3
+  },
+  {
+    "title": "오픈AI ＇아스트라＇ 출시 임박…다중 안전 조치로 ＇심각＇ 위험 통제",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214736",
+    "category": "해외",
+    "score": 5
   },
   {
     "title": "파수 AI, 가상화 방식 ‘DRM 소스코드 보안’ 솔루션 출시",

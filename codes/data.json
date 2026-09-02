@@ -24959,14 +24959,26 @@
           "score": 4
         },
         {
+          "title": "IBM “AI 성능보다 ‘신뢰할 수 있는 운영 능력’이 관건…새로운 인프라 준비해야”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214723",
+          "category": "해외",
+          "score": 4
+        },
+        {
           "title": "메타, 실시간 음성 ＇뮤즈 보이스 트랜스크라이브＇ 공개...단어 오류율 1위",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214745",
           "category": "해외",
-          "score": 3
+          "score": 4
         },
         {
           "title": "〃필요한 장면 스스로 탐색〃...구글, 제미나이 ＇에이전트 비디오 분석＇ 도입",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214749",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "런웨이, 실시간 인터페이스 생성 ‘솔라리스’ 공개...〃SW 패러다임 전환〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214753",
           "category": "해외",
           "score": 4
         },
@@ -24981,6 +24993,18 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214763",
           "category": "해외",
           "score": 3
+        },
+        {
+          "title": "웨이모·죽스, 로보택시 미국 서비스 동시 확대...테슬라 ‘사이버캡’ 출시에 맞불",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214757",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "오픈AI ＇아스트라＇ 출시 임박…다중 안전 조치로 ＇심각＇ 위험 통제",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214736",
+          "category": "해외",
+          "score": 5
         }
       ],
       "민간": [
@@ -24989,24 +25013,6 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41712",
           "category": "민간",
           "score": 3
-        },
-        {
-          "title": "링커스앤컴퍼니, Quantum Expo Korea 2026서 통합 양자보안 운용 방안 소개",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41708",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "IBM “AI 성능보다 ‘신뢰할 수 있는 운영 능력’이 관건…새로운 인프라 준비해야”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214723",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "런웨이, 실시간 인터페이스 생성 ‘솔라리스’ 공개...〃SW 패러다임 전환〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214753",
-          "category": "민간",
-          "score": 4
         },
         {
           "title": "퍼플렉시티, 맥용 ‘하이브리드 컴퓨팅’ 출시...클라우드·온디바이스 AI 통합",
@@ -25061,7 +25067,6 @@
           "score": 4
         }
       ]
-    },
-    "briefing": "- 국방부가 국방 AI 대전환을 통한 스마트 정예강군 육성을 위해 '국방 인공지능(AI) 전략 포럼'을 개최했습니다.\n- 국방 분야의 첨단 기술 조기 도입을 위해 뒷받침되어야 할 법제 정비의 필요성이 제기되었습니다.\n- 오픈AI가 인간 개입 없이 사이버 취약점을 탐지하고 공격할 수 있는 보안 특화 AI 모델 '아스트라'의 공개를 예고했습니다."
+    }
   }
 }

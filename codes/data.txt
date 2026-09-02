@@ -18,15 +18,6 @@ https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTM
 ◾ NC AI, 오디오 생성 AI 서비스 ‘바르코 사운드’ 정식 오픈... 사운드 디자인의 장벽을 허물다!
 https://www.aitimes.kr/news/articleView.html?idxno=41712
 
-◾ 링커스앤컴퍼니, Quantum Expo Korea 2026서 통합 양자보안 운용 방안 소개
-https://www.aitimes.kr/news/articleView.html?idxno=41708
-
-◾ IBM “AI 성능보다 ‘신뢰할 수 있는 운영 능력’이 관건…새로운 인프라 준비해야”
-https://www.aitimes.com/news/articleView.html?idxno=214723
-
-◾ 런웨이, 실시간 인터페이스 생성 ‘솔라리스’ 공개...〃SW 패러다임 전환〃
-https://www.aitimes.com/news/articleView.html?idxno=214753
-
 ◾ 퍼플렉시티, 맥용 ‘하이브리드 컴퓨팅’ 출시...클라우드·온디바이스 AI 통합
 https://www.aitimes.com/news/articleView.html?idxno=214756
 
@@ -50,17 +41,29 @@ https://www.aitimes.kr/news/articleView.html?idxno=41717
 ◾ 앤트로픽, ‘클로드 페이블 5.1·미토스 5.1’ 공개…‘AI 연구원’으로 진화하는 에이전트
 https://www.aitimes.kr/news/articleView.html?idxno=41716
 
+◾ IBM “AI 성능보다 ‘신뢰할 수 있는 운영 능력’이 관건…새로운 인프라 준비해야”
+https://www.aitimes.com/news/articleView.html?idxno=214723
+
 ◾ 메타, 실시간 음성 ＇뮤즈 보이스 트랜스크라이브＇ 공개...단어 오류율 1위
 https://www.aitimes.com/news/articleView.html?idxno=214745
 
 ◾ 〃필요한 장면 스스로 탐색〃...구글, 제미나이 ＇에이전트 비디오 분석＇ 도입
 https://www.aitimes.com/news/articleView.html?idxno=214749
 
+◾ 런웨이, 실시간 인터페이스 생성 ‘솔라리스’ 공개...〃SW 패러다임 전환〃
+https://www.aitimes.com/news/articleView.html?idxno=214753
+
 ◾ 월드랩스, 옴니 월드모델 ‘아틀라스’ 공개...사진 한 장으로 3D 공간 추론
 https://www.aitimes.com/news/articleView.html?idxno=214750
 
 ◾ 허깅페이스 소형 로봇 ‘마이크로덕’ 초반 흥행…중국 록칩 NPU 탑재
 https://www.aitimes.com/news/articleView.html?idxno=214763
+
+◾ 웨이모·죽스, 로보택시 미국 서비스 동시 확대...테슬라 ‘사이버캡’ 출시에 맞불
+https://www.aitimes.com/news/articleView.html?idxno=214757
+
+◾ 오픈AI ＇아스트라＇ 출시 임박…다중 안전 조치로 ＇심각＇ 위험 통제
+https://www.aitimes.com/news/articleView.html?idxno=214736
 
 📚 간행물
 ◾ ICT주요품목동향조사 2026년 2분기호
