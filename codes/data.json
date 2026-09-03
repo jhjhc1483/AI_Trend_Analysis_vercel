@@ -25074,26 +25074,8 @@
     "categorized": {
       "국방": [
         {
-          "title": "[전문가 기고] AI 시대 다영역작전을 위한 국방력 강화 방안",
-          "link": "https://www.etnews.com/20260903000056",
-          "category": "국방",
-          "score": 5
-        },
-        {
-          "title": "“드론 도입도 5년”…정부, 신안보 기업 육성에 ＇한국형 OTA·인큐텔＇ 띄운다",
-          "link": "https://www.etnews.com/20260903000166",
-          "category": "국방",
-          "score": 5
-        },
-        {
-          "title": "인천시, 490억원 투입해 AI 기반 대드론 방산클러스터 구축",
-          "link": "https://www.etnews.com/20260903000002",
-          "category": "국방",
-          "score": 5
-        },
-        {
-          "title": "텔레픽스 “우주 궤도 실증 성공…위성 온보드AI가 스스로 촬영 위치 찾아”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214804",
+          "title": "국방반도체 기술 자립,  산·학·연과 함께 100대 핵심과제 만든다!",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59115&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
           "category": "국방",
           "score": 5
         },
@@ -25102,18 +25084,6 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41743",
           "category": "국방",
           "score": 5
-        },
-        {
-          "title": "산·학·연 뭉쳐 국방반도체 기술 자립 나선다",
-          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMDU1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-          "category": "국방",
-          "score": 4
-        },
-        {
-          "title": "AI 기반 사이버위협 대응 역량 높인다",
-          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDU2OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-          "category": "국방",
-          "score": 4
         },
         {
           "title": "드론·AI 첨단기술군 전환 대폭 증액",
@@ -25125,124 +25095,116 @@
           "title": "산·학·연 뭉쳐 국방반도체 기술 자립 나선다",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260904/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=MeNorUA_JJXZMgH1PET5AeQb-C0UB9KIxpdw_OtlORmfzFR_imIE!-172114094",
           "category": "국방",
-          "score": 4
+          "score": 5
         },
         {
           "title": "AI 기반 사이버위협 대응 역량 높인다",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260904/10/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=MeNorUA_JJXZMgH1PET5AeQb-C0UB9KIxpdw_OtlORmfzFR_imIE!-172114094",
           "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "AI 기반 사이버위협 대응 역량 높인다",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDU2OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "[전문가 기고] AI 시대 다영역작전을 위한 국방력 강화 방안",
+          "link": "https://www.etnews.com/20260903000056",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "“드론 도입도 5년”…정부, 신안보 기업 육성에 ＇한국형 OTA·인큐텔＇ 띄운다",
+          "link": "https://www.etnews.com/20260903000166",
+          "category": "국방",
           "score": 4
         },
         {
-          "title": "국방반도체 기술 자립,  산·학·연과 함께 100대 핵심과제 만든다!",
-          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59115&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "title": "인천시, 490억원 투입해 AI 기반 대드론 방산클러스터 구축",
+          "link": "https://www.etnews.com/20260903000002",
           "category": "국방",
           "score": 5
         }
       ],
       "육군": [
         {
-          "title": "플리토, 육군과 AI 기반 민원상담체계 개발 나선다",
-          "link": "https://www.etnews.com/20260903000203",
-          "category": "육군",
-          "score": 4
-        },
-        {
           "title": "플리토, 육군과 AI 민원상담체계 개발로 국방 AX 혁신",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41739",
           "category": "육군",
           "score": 5
-        }
-      ],
-      "민간": [
-        {
-          "title": "구글·메타, 같은 날 AI 모델 출시…코딩 성능 경쟁 점화",
-          "link": "https://www.etnews.com/20260903000417",
-          "category": "민간",
-          "score": 4
         },
         {
-          "title": "네이버클라우드, ＇보안 특화 AI＇ 최종 선정…700B급 모델 2개 개발",
-          "link": "https://www.etnews.com/20260903000259",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "CJ대한통운, 용인 물류센터에 ＇휴머노이드 로봇＇ 첫 투입",
-          "link": "https://www.etnews.com/20260903000070",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "삼성SDS, 美서 ＇RX ART 2026＇ 개최…RX 본격 추진",
-          "link": "https://www.etnews.com/20260903000033",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "마키나락스 〃프론티어 모델도 못 푼 현장 문제, AI OS·FDE로 해결〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214815",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "NC AI, LG전자와 K-반도체 탑재한 휴머노이드 기술 개발 협력",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214784",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "의료 AI, 환자가 왜? 어떻게 변화했는지까지 학습해야...분당서울대병원 양은주 교수팀, 원인·과정까지 학습하는 새로운 접근법(CRTC) 제시",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41752",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "MIPS, 피지컬 AI용 플랫폼 3종 출시…AI 추론·실시간 제어·안전 기능별 최적화",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41751",
-          "category": "민간",
-          "score": 3
+          "title": "플리토, 육군과 AI 기반 민원상담체계 개발 나선다",
+          "link": "https://www.etnews.com/20260903000203",
+          "category": "육군",
+          "score": 5
         }
       ],
       "기관": [
-        {
-          "title": "크라우드웍스, 정부 ＇AI 에이전트 안전·신뢰 검증＇ 데이터셋 구축",
-          "link": "https://www.etnews.com/20260903000276",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "서울시, AI 보안 체계 전 기관 확대…“사이버 공격 초기 탐지·차단”",
-          "link": "https://www.etnews.com/20260903000165",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "보건의료데이터 표준 선도병원 1곳→4곳…의료AI 활용기반 넓힌다",
-          "link": "https://www.etnews.com/20260903000005",
-          "category": "기관",
-          "score": 3
-        },
-        {
-          "title": "[게시판] 라온피플, 702억 규모 ‘피지컬 AI 국책사업’ 선정 등 단신",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214820",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "전북대병원, ‘초지능 호흡기 인공지능 센터’ 개소...10만 건 이상 호흡기 임상데이터, 진단부터 맞춤형 치료제 개발까지",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41750",
-          "category": "기관",
-          "score": 3
-        },
         {
           "title": "라온피플, 702억원 규모 ‘피지컬 AI 국책사업’ 선정...국가대표 컨소시엄 합류 ‘무인공장 두뇌’ 기술 개발",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41737",
           "category": "기관",
           "score": 4
+        },
+        {
+          "title": "네이버클라우드, ＇보안 특화 AI＇ 최종 선정…700B급 모델 2개 개발",
+          "link": "https://www.etnews.com/20260903000259",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "크라우드웍스, 정부 ＇AI 에이전트 안전·신뢰 검증＇ 데이터셋 구축",
+          "link": "https://www.etnews.com/20260903000276",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "보건의료데이터 표준 선도병원 1곳→4곳…의료AI 활용기반 넓힌다",
+          "link": "https://www.etnews.com/20260903000005",
+          "category": "기관",
+          "score": 4
         }
       ],
       "해외": [
+        {
+          "title": "인월드 AI, 맥락·감정 읽는 음성 모델 ＇실시간 TTS-2＇ 공개...아티피셜 애널리시스 1위 등극",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214813",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 트럼프 행정부와 관계 회복...상무장관 〃다시 올바른 편에 섰다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214792",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "WSJ 〃구글, ＇제미나이 3.5 프로＇ 폐기...차세대 모델 집중〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214803",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "구글·메타, 같은 날 AI 모델 출시…코딩 성능 경쟁 점화",
+          "link": "https://www.etnews.com/20260903000417",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "[IFA 2026]샤오미, 칩·AI·가전·전기차 묶어 유럽 공략…“생태계 통째로 진출”",
+          "link": "https://www.etnews.com/20260903000424",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "美 마이크론, HBM 생산능력 2배 확대…삼성·SK 격차 줄인다",
+          "link": "https://www.etnews.com/20260903000221",
+          "category": "해외",
+          "score": 3
+        },
         {
           "title": "뉴욕시, 초·중학생 교실 내 생성형 AI 1년간 금지",
           "link": "https://www.etnews.com/20260903000012",
@@ -25250,7 +25212,57 @@
           "score": 3
         }
       ],
+      "민간": [
+        {
+          "title": "마키나락스 〃프론티어 모델도 못 푼 현장 문제, AI OS·FDE로 해결〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214815",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "텔레픽스 “우주 궤도 실증 성공…위성 온보드AI가 스스로 촬영 위치 찾아”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214804",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "틸론, 차세대 VDI ＇디스테이션 X＇ GS인증 1등급 획득…독자개발 ＇계층적 다중 AI 시스템＇ 인터페이스 탑재",
+          "link": "https://www.etnews.com/20260903000325",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "기업 AI ROI, 에이전트·데이터·추론 인프라에서 해법 찾는다…＇NABS 2026＇ 개최",
+          "link": "https://www.etnews.com/20260903000059",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "롯데렌터카 G car, ＇대화형 AI 예약서비스＇ 출시",
+          "link": "https://www.etnews.com/20260903000044",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "KT클라우드, LS일렉트릭와 AIDC ＇전력 인프라＇ 협력…모듈형 DC 구축",
+          "link": "https://www.etnews.com/20260903000043",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "삼성SDS, 美서 ＇RX ART 2026＇ 개최…RX 본격 추진",
+          "link": "https://www.etnews.com/20260903000033",
+          "category": "민간",
+          "score": 4
+        }
+      ],
       "간행물": [
+        {
+          "title": "글로벌 디지털 산업·정책 동향(2026년 8월호)",
+          "link": "https://www.kisa.or.kr/20208/form?postSeq=41&page=1",
+          "category": "간행물",
+          "score": 4
+        },
         {
           "title": "Hot Chips 2026, 미국 양자, 중국 기업 육성 [AI·ICT Brief 2026-31호]",
           "link": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260903-000003&cpage=1&rows=10&searchTarget=all",
@@ -25262,15 +25274,8 @@
           "link": "https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260903-000002&cpage=1&rows=10&searchTarget=all",
           "category": "간행물",
           "score": 5
-        },
-        {
-          "title": "글로벌 디지털 산업·정책 동향(2026년 8월호)",
-          "link": "https://www.kisa.or.kr/20208/form?postSeq=41&page=1",
-          "category": "간행물",
-          "score": 4
         }
       ]
-    },
-    "briefing": "- 2027년 국방예산안에 AI 및 유무인체계 구축을 위해 7,727억 원의 예산 편성이 추진됩니다.\n- 육군이 플리토와 협력하여 AI 기반 민원상담체계 개발을 추진하며 국방 AX 혁신을 모색합니다.\n- 정부가 국방 분야의 신안보 기업 육성을 위해 한국형 OTA(국방기술지원조직) 및 인큐텔 도입 방안을 제시했습니다."
+    }
   }
 }
