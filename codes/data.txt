@@ -1,73 +1,104 @@
-📢26.09.03 AI 일일 동향📢
+📢26.09.04 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ “국방 AI 대전환 추진 스마트 정예강군 가속”
-https://kookbang.dema.mil.kr/newsWeb/20260903/12/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=KrFjlZqC6MLJBIM_VqZXdEpioPYEBDS67iE32WQ9fD1mbOXTs80-!-172114094
+◾ [전문가 기고] AI 시대 다영역작전을 위한 국방력 강화 방안
+https://www.etnews.com/20260903000056
 
-◾ 첨단기술 조기 도입, 법제가 곧 전투력이다
-https://kookbang.dema.mil.kr/newsWeb/20260903/2/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=KrFjlZqC6MLJBIM_VqZXdEpioPYEBDS67iE32WQ9fD1mbOXTs80-!-172114094
+◾ “드론 도입도 5년”…정부, 신안보 기업 육성에 ＇한국형 OTA·인큐텔＇ 띄운다
+https://www.etnews.com/20260903000166
 
-◾ “국방 AI 대전환 추진 스마트 정예강군 가속”
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMDUwNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 인천시, 490억원 투입해 AI 기반 대드론 방산클러스터 구축
+https://www.etnews.com/20260903000002
 
-◾ 국방부, 「국방 인공지능(AI) 전략 포럼」 개최
-https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyMDUwMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 텔레픽스 “우주 궤도 실증 성공…위성 온보드AI가 스스로 촬영 위치 찾아”
+https://www.aitimes.com/news/articleView.html?idxno=214804
+
+◾ 2027년 국방예산 73조원 돌파, 역대 최대… AI·유무인체계에 7,727억원 투입
+https://www.aitimes.kr/news/articleView.html?idxno=41743
+
+◾ 산·학·연 뭉쳐 국방반도체 기술 자립 나선다
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMDU1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ AI 기반 사이버위협 대응 역량 높인다
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDU2OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 드론·AI 첨단기술군 전환 대폭 증액
+https://kookbang.dema.mil.kr/newsWeb/20260904/11/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=MeNorUA_JJXZMgH1PET5AeQb-C0UB9KIxpdw_OtlORmfzFR_imIE!-172114094
+
+◾ 산·학·연 뭉쳐 국방반도체 기술 자립 나선다
+https://kookbang.dema.mil.kr/newsWeb/20260904/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=MeNorUA_JJXZMgH1PET5AeQb-C0UB9KIxpdw_OtlORmfzFR_imIE!-172114094
+
+◾ AI 기반 사이버위협 대응 역량 높인다
+https://kookbang.dema.mil.kr/newsWeb/20260904/10/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=MeNorUA_JJXZMgH1PET5AeQb-C0UB9KIxpdw_OtlORmfzFR_imIE!-172114094
+
+◾ 국방반도체 기술 자립,  산·학·연과 함께 100대 핵심과제 만든다!
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59115&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
+
+[육군]
+◾ 플리토, 육군과 AI 기반 민원상담체계 개발 나선다
+https://www.etnews.com/20260903000203
+
+◾ 플리토, 육군과 AI 민원상담체계 개발로 국방 AX 혁신
+https://www.aitimes.kr/news/articleView.html?idxno=41739
 
 [민간]
-◾ NC AI, 오디오 생성 AI 서비스 ‘바르코 사운드’ 정식 오픈... 사운드 디자인의 장벽을 허물다!
-https://www.aitimes.kr/news/articleView.html?idxno=41712
+◾ 구글·메타, 같은 날 AI 모델 출시…코딩 성능 경쟁 점화
+https://www.etnews.com/20260903000417
 
-◾ 퍼플렉시티, 맥용 ‘하이브리드 컴퓨팅’ 출시...클라우드·온디바이스 AI 통합
-https://www.aitimes.com/news/articleView.html?idxno=214756
+◾ 네이버클라우드, ＇보안 특화 AI＇ 최종 선정…700B급 모델 2개 개발
+https://www.etnews.com/20260903000259
 
-◾ KT, ‘안전 AX 솔루션’ 선보인다…“재난 대응부터 보이스피싱 예방까지”
-https://www.aitimes.com/news/articleView.html?idxno=214764
+◾ CJ대한통운, 용인 물류센터에 ＇휴머노이드 로봇＇ 첫 투입
+https://www.etnews.com/20260903000070
 
-◾ 파수 AI, 가상화 방식 ‘DRM 소스코드 보안’ 솔루션 출시
-https://www.aitimes.com/news/articleView.html?idxno=214759
+◾ 삼성SDS, 美서 ＇RX ART 2026＇ 개최…RX 본격 추진
+https://www.etnews.com/20260903000033
+
+◾ 마키나락스 〃프론티어 모델도 못 푼 현장 문제, AI OS·FDE로 해결〃
+https://www.aitimes.com/news/articleView.html?idxno=214815
+
+◾ NC AI, LG전자와 K-반도체 탑재한 휴머노이드 기술 개발 협력
+https://www.aitimes.com/news/articleView.html?idxno=214784
+
+◾ 의료 AI, 환자가 왜? 어떻게 변화했는지까지 학습해야...분당서울대병원 양은주 교수팀, 원인·과정까지 학습하는 새로운 접근법(CRTC) 제시
+https://www.aitimes.kr/news/articleView.html?idxno=41752
+
+◾ MIPS, 피지컬 AI용 플랫폼 3종 출시…AI 추론·실시간 제어·안전 기능별 최적화
+https://www.aitimes.kr/news/articleView.html?idxno=41751
 
 [기관]
-◾ 새만금, 피지컬AI와 AI데이터센터의 거점으로 거듭난다..새만금청, 2027년 예산 2,222억원
-https://www.aitimes.kr/news/articleView.html?idxno=41721
+◾ 크라우드웍스, 정부 ＇AI 에이전트 안전·신뢰 검증＇ 데이터셋 구축
+https://www.etnews.com/20260903000276
 
-◾ 과기정통부, ‘창업가형 석·박사급 고급인재 육성’ 본격 추진...KAIST·포항공대·UNIST·조선대 4개 대학 AI 창업 거점으로
-https://www.aitimes.kr/news/articleView.html?idxno=41719
+◾ 서울시, AI 보안 체계 전 기관 확대…“사이버 공격 초기 탐지·차단”
+https://www.etnews.com/20260903000165
+
+◾ 보건의료데이터 표준 선도병원 1곳→4곳…의료AI 활용기반 넓힌다
+https://www.etnews.com/20260903000005
+
+◾ [게시판] 라온피플, 702억 규모 ‘피지컬 AI 국책사업’ 선정 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=214820
+
+◾ 전북대병원, ‘초지능 호흡기 인공지능 센터’ 개소...10만 건 이상 호흡기 임상데이터, 진단부터 맞춤형 치료제 개발까지
+https://www.aitimes.kr/news/articleView.html?idxno=41750
+
+◾ 라온피플, 702억원 규모 ‘피지컬 AI 국책사업’ 선정...국가대표 컨소시엄 합류 ‘무인공장 두뇌’ 기술 개발
+https://www.aitimes.kr/news/articleView.html?idxno=41737
 
 [해외]
-◾ 오픈AI, 사이버보안 ‘Critical’ AI 모델 ‘아스트라’ 공개 예고…“인간 개입 없이 취약점 탐지·공격 가능”
-https://www.aitimes.kr/news/articleView.html?idxno=41717
-
-◾ 앤트로픽, ‘클로드 페이블 5.1·미토스 5.1’ 공개…‘AI 연구원’으로 진화하는 에이전트
-https://www.aitimes.kr/news/articleView.html?idxno=41716
-
-◾ IBM “AI 성능보다 ‘신뢰할 수 있는 운영 능력’이 관건…새로운 인프라 준비해야”
-https://www.aitimes.com/news/articleView.html?idxno=214723
-
-◾ 메타, 실시간 음성 ＇뮤즈 보이스 트랜스크라이브＇ 공개...단어 오류율 1위
-https://www.aitimes.com/news/articleView.html?idxno=214745
-
-◾ 〃필요한 장면 스스로 탐색〃...구글, 제미나이 ＇에이전트 비디오 분석＇ 도입
-https://www.aitimes.com/news/articleView.html?idxno=214749
-
-◾ 런웨이, 실시간 인터페이스 생성 ‘솔라리스’ 공개...〃SW 패러다임 전환〃
-https://www.aitimes.com/news/articleView.html?idxno=214753
-
-◾ 월드랩스, 옴니 월드모델 ‘아틀라스’ 공개...사진 한 장으로 3D 공간 추론
-https://www.aitimes.com/news/articleView.html?idxno=214750
-
-◾ 허깅페이스 소형 로봇 ‘마이크로덕’ 초반 흥행…중국 록칩 NPU 탑재
-https://www.aitimes.com/news/articleView.html?idxno=214763
-
-◾ 웨이모·죽스, 로보택시 미국 서비스 동시 확대...테슬라 ‘사이버캡’ 출시에 맞불
-https://www.aitimes.com/news/articleView.html?idxno=214757
-
-◾ 오픈AI ＇아스트라＇ 출시 임박…다중 안전 조치로 ＇심각＇ 위험 통제
-https://www.aitimes.com/news/articleView.html?idxno=214736
+◾ 뉴욕시, 초·중학생 교실 내 생성형 AI 1년간 금지
+https://www.etnews.com/20260903000012
 
 📚 간행물
-◾ ICT주요품목동향조사 2026년 2분기호
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260902-000001&cpage=1&rows=10&searchTarget=all
+◾ Hot Chips 2026, 미국 양자, 중국 기업 육성 [AI·ICT Brief 2026-31호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260903-000003&cpage=1&rows=10&searchTarget=all
+
+◾ 2026 중국 AI 혁신 동향 [ICT SPOT ISSUE(2026-06호)]
+https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-260903-000002&cpage=1&rows=10&searchTarget=all
+
+◾ 글로벌 디지털 산업·정책 동향(2026년 8월호)
+https://www.kisa.or.kr/20208/form?postSeq=41&page=1
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
