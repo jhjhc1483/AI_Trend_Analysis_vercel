@@ -25278,5 +25278,127 @@
       ]
     },
     "briefing": "- 육군이 플리토와 협력하여 AI 기반 민원상담체계 개발을 추진합니다.\n- 정부가 2027년 국방예산 중 AI 및 유무인체계 분야에 7,727억 원 투입을 계획했습니다.\n- 국방반도체 기술 자립을 위해 산·학·연이 협력하여 100대 핵심과제 도출을 추진합니다."
+  },
+  "26.09.05": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "에브리존 ＇화이트디펜더＇, 국방 AX 보안 기술 선보여",
+          "link": "https://www.etnews.com/20260904000037",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214854",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "브룩필드 회장, 네이버 찾았다…1GW AI 팩토리 속도",
+          "link": "https://www.etnews.com/20260904000336",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "LG, 글로벌 빅테크·AI 미래인재와 ‘AI 축제’...‘LG SPARK 2026’ 개최, 마곡 LG사이언스파크서",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41772",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "네이버 이해진 의장, 브룩필드 브루스 플랫 회장과 회동… AI 팩토리 구축 사업 순항 확인",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41765",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "인텔리빅스, 코스닥 상장예비심사 통과...공공·산업·국방·글로벌·피지컬 AI로 성장동력 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41761",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI, ＇GPT-6 아스트라＇ 출시…“AGI 시대 진입”",
+          "link": "https://www.etnews.com/20260904000011",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214830",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "엔비디아, 차세대 AI PC 칩 ＇RTX 스파크＇ 10월 출시...개인용 AI 라우터 ＇페어＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214850",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "젠슨 황, 〃전 세계 개발자와 기관의 AI 접근성을 확대할 것”...허깅페이스 17.5조원에 인수",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41759",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "세계 최고 AI 모델 ‘GPT-6 아스트라’ 전격 공개... 오픈AI, 〃AGI 전환점에 섰다, AI 자율성 새 단계로〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41756",
+          "category": "해외",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "과기부, ＇모두의 AI＇ 간담회 개최…2500억 예산으로 국민 체감 AI 서비스 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214869",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "「모두의 AI」 프로젝트 착수 간담회 개최",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187740&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "“국민 누구나 AI를 쓴다”…정부 ‘모두의 AI’ 출격, SKT·카카오·KT 연내 서비스 경쟁",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41767",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "〃AI 업무비서, 실수해도‘처음부터 다시’ 없다〃…KAIST ‘세이프큐엘’, 틀린 곳만 고친다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41764",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "간행물": [
+        {
+          "title": "데이터 스튜어드십의 제도화 방향: 데이터 스튜어드 직무체계 설계 중심으로",
+          "link": "https://www.kisti.re.kr/post/policy-report/7094",
+          "category": "간행물",
+          "score": 3
+        },
+        {
+          "title": "[The LENS 2026-10] AI 산출물 신뢰성 확보를 위한 미국의 정책 접근 : 연방거래위원회 「AI 정확성 정책성명서(안)」 분석",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29956&parentSeq=29956",
+          "category": "간행물",
+          "score": 5
+        },
+        {
+          "title": "2025년 신산업 산업기술인력 수요전망(loT가전, XR, 지능형 로봇)",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260904-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 4
+        }
+      ]
+    }
   }
 }
