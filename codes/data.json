@@ -25286,27 +25286,33 @@
           "title": "에브리존 ＇화이트디펜더＇, 국방 AX 보안 기술 선보여",
           "link": "https://www.etnews.com/20260904000037",
           "category": "국방",
-          "score": 4
+          "score": 5
         },
         {
           "title": "오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214854",
           "category": "국방",
           "score": 5
+        },
+        {
+          "title": "인텔리빅스, 코스닥 상장예비심사 통과...공공·산업·국방·글로벌·피지컬 AI로 성장동력 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41761",
+          "category": "국방",
+          "score": 4
         }
       ],
       "민간": [
         {
-          "title": "브룩필드 회장, 네이버 찾았다…1GW AI 팩토리 속도",
-          "link": "https://www.etnews.com/20260904000336",
+          "title": "이해진 네이버 의장, 브룩필드 회장과 회동… ‘1GW급 AI 팩토리 사업’ 후속 논의",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214871",
           "category": "민간",
           "score": 4
         },
         {
-          "title": "LG, 글로벌 빅테크·AI 미래인재와 ‘AI 축제’...‘LG SPARK 2026’ 개최, 마곡 LG사이언스파크서",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41772",
+          "title": "LG그룹, AI 혁신 가속화…＇LG 스파크 2026＇ 개최",
+          "link": "https://www.etnews.com/20260904000069",
           "category": "민간",
-          "score": 4
+          "score": 3
         },
         {
           "title": "네이버 이해진 의장, 브룩필드 브루스 플랫 회장과 회동… AI 팩토리 구축 사업 순항 확인",
@@ -25315,19 +25321,27 @@
           "score": 4
         },
         {
-          "title": "인텔리빅스, 코스닥 상장예비심사 통과...공공·산업·국방·글로벌·피지컬 AI로 성장동력 확대",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41761",
+          "title": "〃AI 업무비서, 실수해도‘처음부터 다시’ 없다〃…KAIST ‘세이프큐엘’, 틀린 곳만 고친다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41764",
           "category": "민간",
+          "score": 3
+        }
+      ],
+      "기관": [
+        {
+          "title": "“국민 누구나 AI를 쓴다”…정부 ‘모두의 AI’ 출격, SKT·카카오·KT 연내 서비스 경쟁",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41767",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "「모두의 AI」 프로젝트 착수 간담회 개최",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187740&searchOpt=ALL&searchTxt=",
+          "category": "기관",
           "score": 4
         }
       ],
       "해외": [
-        {
-          "title": "오픈AI, ＇GPT-6 아스트라＇ 출시…“AGI 시대 진입”",
-          "link": "https://www.etnews.com/20260904000011",
-          "category": "해외",
-          "score": 5
-        },
         {
           "title": "엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=214830",
@@ -25335,8 +25349,20 @@
           "score": 5
         },
         {
-          "title": "엔비디아, 차세대 AI PC 칩 ＇RTX 스파크＇ 10월 출시...개인용 AI 라우터 ＇페어＇ 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214850",
+          "title": "오픈AI, ＇GPT-6 아스트라＇ 출시…“AGI 시대 진입”",
+          "link": "https://www.etnews.com/20260904000011",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "미국, G20과 ＇AI 규제 완화＇ 합의...젠슨 황 〃규제보다 인프라 우선〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214785",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽 〃중국 AI, 다크웹서 도난 카드로 클로드 무단 증류〃 폭로",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=214838",
           "category": "해외",
           "score": 4
         },
@@ -25351,32 +25377,6 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41756",
           "category": "해외",
           "score": 5
-        }
-      ],
-      "기관": [
-        {
-          "title": "과기부, ＇모두의 AI＇ 간담회 개최…2500억 예산으로 국민 체감 AI 서비스 추진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=214869",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "「모두의 AI」 프로젝트 착수 간담회 개최",
-          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187740&searchOpt=ALL&searchTxt=",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "“국민 누구나 AI를 쓴다”…정부 ‘모두의 AI’ 출격, SKT·카카오·KT 연내 서비스 경쟁",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41767",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "〃AI 업무비서, 실수해도‘처음부터 다시’ 없다〃…KAIST ‘세이프큐엘’, 틀린 곳만 고친다",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41764",
-          "category": "기관",
-          "score": 3
         }
       ],
       "간행물": [
@@ -25399,7 +25399,6 @@
           "score": 4
         }
       ]
-    },
-    "briefing": "- 에브리존이 국방 분야 AX(AI 전환) 보안 기술을 선보이며 국방 보안 강화 가능성을 제시했습니다.\n- KAIST가 AI 업무 비서의 오류 발생 시 해당 부분만 수정하는 ‘세이프큐엘’ 기술을 개발했습니다.\n- 인텔리빅스가 상장 예비심사를 통과하며 향후 국방 및 피지컬 AI 분야로의 사업 확장을 예고했습니다."
+    }
   }
 }
