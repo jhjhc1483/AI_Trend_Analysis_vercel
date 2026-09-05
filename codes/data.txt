@@ -1,65 +1,6 @@
-📢26.09.05 AI 일일 동향📢
+📢26.09.06 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 에브리존 ＇화이트디펜더＇, 국방 AX 보안 기술 선보여
-https://www.etnews.com/20260904000037
-
-◾ 오픈AI, AI 에이전트 위협 맞서 ‘디펜스 팩토리’ 공개…보안 전 과정 자동화
-https://www.aitimes.com/news/articleView.html?idxno=214854
-
-◾ 인텔리빅스, 코스닥 상장예비심사 통과...공공·산업·국방·글로벌·피지컬 AI로 성장동력 확대
-https://www.aitimes.kr/news/articleView.html?idxno=41761
-
-[민간]
-◾ 이해진 네이버 의장, 브룩필드 회장과 회동… ‘1GW급 AI 팩토리 사업’ 후속 논의
-https://www.aitimes.com/news/articleView.html?idxno=214871
-
-◾ LG그룹, AI 혁신 가속화…＇LG 스파크 2026＇ 개최
-https://www.etnews.com/20260904000069
-
-◾ 네이버 이해진 의장, 브룩필드 브루스 플랫 회장과 회동… AI 팩토리 구축 사업 순항 확인
-https://www.aitimes.kr/news/articleView.html?idxno=41765
-
-◾ 〃AI 업무비서, 실수해도‘처음부터 다시’ 없다〃…KAIST ‘세이프큐엘’, 틀린 곳만 고친다
-https://www.aitimes.kr/news/articleView.html?idxno=41764
-
-[기관]
-◾ “국민 누구나 AI를 쓴다”…정부 ‘모두의 AI’ 출격, SKT·카카오·KT 연내 서비스 경쟁
-https://www.aitimes.kr/news/articleView.html?idxno=41767
-
-◾ 「모두의 AI」 프로젝트 착수 간담회 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187740&searchOpt=ALL&searchTxt=
-
-[해외]
-◾ 엔비디아, 허깅페이스 17.5조 인수 발표...오픈소스 생태계 주도권 확보
-https://www.aitimes.com/news/articleView.html?idxno=214830
-
-◾ 오픈AI, ＇GPT-6 아스트라＇ 출시…“AGI 시대 진입”
-https://www.etnews.com/20260904000011
-
-◾ 미국, G20과 ＇AI 규제 완화＇ 합의...젠슨 황 〃규제보다 인프라 우선〃
-https://www.aitimes.com/news/articleView.html?idxno=214785
-
-◾ 앤트로픽 〃중국 AI, 다크웹서 도난 카드로 클로드 무단 증류〃 폭로
-https://www.aitimes.com/news/articleView.html?idxno=214838
-
-◾ 젠슨 황, 〃전 세계 개발자와 기관의 AI 접근성을 확대할 것”...허깅페이스 17.5조원에 인수
-https://www.aitimes.kr/news/articleView.html?idxno=41759
-
-◾ 세계 최고 AI 모델 ‘GPT-6 아스트라’ 전격 공개... 오픈AI, 〃AGI 전환점에 섰다, AI 자율성 새 단계로〃
-https://www.aitimes.kr/news/articleView.html?idxno=41756
-
-📚 간행물
-◾ 데이터 스튜어드십의 제도화 방향: 데이터 스튜어드 직무체계 설계 중심으로
-https://www.kisti.re.kr/post/policy-report/7094
-
-◾ [The LENS 2026-10] AI 산출물 신뢰성 확보를 위한 미국의 정책 접근 : 연방거래위원회 「AI 정확성 정책성명서(안)」 분석
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29956&parentSeq=29956
-
-◾ 2025년 신산업 산업기술인력 수요전망(loT가전, XR, 지능형 로봇)
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260904-000001&cpage=1&rows=10&searchTarget=all
-
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
 (링크를 꾹 누른 후 '열기'를 누르면 백그라운드 재생이 가능합니다.(안드로이드 기준))
