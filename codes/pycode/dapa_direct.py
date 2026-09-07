@@ -1,0 +1,92 @@
+import requests
+from bs4 import BeautifulSoup
+import pandas as pd
+import os
+import json
+
+# 방위사업청 보도자료 URL
+target_url = "https://www.dapa.go.kr/dapa/doc/selectDocList.do?menuSeq=3069&bbsSeq=326"
+
+# 브라우저 User-Agent 및 헤더 설정 (ScraperAPI 대신 직접 요청)
+headers = {
+    'User-Agent': 'Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36',
+    'Accept': 'text/html,application/xhtml+xml,application/xml;q=0.9,image/avif,image/webp,image/apng,*/*;q=0.8',
+    'Accept-Language': 'ko-KR,ko;q=0.9,en-US;q=0.8,en;q=0.7',
+    'Connection': 'keep-alive'
+}
+
+data = []
+
+try:
+    # 직접 웹페이지 요청 (타임아웃 30초)
+    response = requests.get(target_url, headers=headers, timeout=30)
+    response.raise_for_status()
+
+    html = response.text
+    soup = BeautifulSoup(html, 'html.parser')
+    category = "방사청 보도자료"
+
+    for a in range(1, 11):
+        try:
+            name_elem = soup.select_one(f".list-table > tbody > tr:nth-child({a}) > td > a > p")
+            link_elem = soup.select_one(f".list-table > tbody > tr:nth-child({a}) > td > a")
+            date_elem = soup.select_one(f".list-table > tbody > tr:nth-child({a}) > td:nth-child(3)")
+
+            if name_elem and link_elem and date_elem:
+                name = name_elem.text.strip()
+                link_temp = link_elem.attrs.get('onclick', '')
+                code = link_temp.split("'")[1] if "'" in link_temp else ""
+
+                link = f"https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq={code}&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10"
+
+                date = date_elem.text.strip()
+                date_temp_list = date.split('-')
+                if len(date_temp_list) == 3:
+                    years, month, day = date_temp_list
+                    data.append([name, category, link, years, month, day])
+        except AttributeError as e:
+            print(f"{a}번째 항목 파싱 중 오류: {e}")
+            continue
+
+except requests.exceptions.RequestException as e:
+    print(f"웹페이지 직접 요청 중 오류 발생: {e}")
+
+df9 = pd.DataFrame(data, columns=['제목', '분류', '링크', '년', '월', '일'])
+os.makedirs('codes', exist_ok=True)
+full_path = 'codes/dapa.json'
+new_data = df9.to_dict('records')
+
+existing_data = []
+
+# 1. 기존 JSON 파일 로드
+if os.path.exists(full_path):
+    try:
+        with open(full_path, 'r', encoding='utf-8') as f:
+            content = f.read()
+            if content:
+                existing_data = json.loads(content)
+            else:
+                print("기존 JSON 파일은 존재하지만 비어 있습니다. 새 데이터만 저장합니다.")
+    except Exception as e:
+        print(f"기존 JSON 파일 로드 중 오류 발생 ({e}). 새 데이터만 저장합니다.")
+        existing_data = []
+
+# 2. 새 데이터와 기존 데이터를 합치기
+combined_data = existing_data + new_data
+
+# 3. 중복 제거
+seen_links = set()
+final_data = []
+
+for item in combined_data:
+    link = item.get('링크')
+
+    if link and link not in seen_links:
+        final_data.append(item)
+        seen_links.add(link)
+
+# 4. 최종 데이터를 JSON 파일로 저장
+with open(full_path, 'w', encoding='utf-8') as f:
+    json.dump(final_data, f, indent=4, ensure_ascii=False)
+
+print(f"[방사청(직접 요청)] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
