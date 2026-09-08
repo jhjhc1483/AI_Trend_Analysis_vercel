@@ -49,61 +49,10 @@ jobs:
         run: |
           sudo apt-get update
           sudo apt-get install -y google-chrome-stable
-      - name: Select Scraper API Key (3-Key Rotation)
-        env:
-          KEY_1: ${{ secrets.SCRAPER_API_KEY }}
-          KEY_2: ${{ secrets.SCRAPER_API_KEY_2 }}
-          KEY_3: ${{ secrets.SCRAPER_API_KEY_3 }}
-        run: |
-          export TZ="Asia/Seoul"
-          DAY=$(date +%-d)        # 오늘 일자 (1~31)
-          MOD=$(( DAY % 3 ))      # 3으로 나눈 나머지 (0, 1, 2)
-          CRON="${{ github.event.schedule }}"
-
-          if [ "$CRON" = "30 16 * * *" ]; then
-            # [2회차] 오전 1:30 실행
-            if [ $MOD -eq 1 ]; then
-              CHOSEN_KEY="$KEY_2"
-              KEY_NAME="2번 키"
-            elif [ $MOD -eq 2 ]; then
-              CHOSEN_KEY="$KEY_1"
-              KEY_NAME="1번 키"
-            else
-              CHOSEN_KEY="$KEY_3"
-              KEY_NAME="3번 키"
-            fi
-          else
-            # [1회차] 오전 1:00 실행 (또는 수동 실행)
-            if [ $MOD -eq 1 ]; then
-              CHOSEN_KEY="$KEY_1"
-              KEY_NAME="1번 키"
-            elif [ $MOD -eq 2 ]; then
-              CHOSEN_KEY="$KEY_3"
-              KEY_NAME="3번 키"
-            else
-              CHOSEN_KEY="$KEY_2"
-              KEY_NAME="2번 키"
-            fi
-          fi
-
-          # 3번 키 미설정 시 1번 키로 fallback 방어
-          if [ -z "$CHOSEN_KEY" ]; then
-            echo "경고: 선택된 키가 비어있어 기본 1번 키를 사용합니다."
-            CHOSEN_KEY="$KEY_1"
-            KEY_NAME="1번 키(기본)"
-          fi
-
-          echo "=========================================="
-          echo " 실행 일시: $(date +'%Y-%m-%d %H:%M:%S KST')"
-          echo " 실행 모드: ${CRON:-수동 실행(workflow_dispatch)}"
-          echo " 오늘 날짜 mod 3: $MOD"
-          echo " 적용된 Scraper API 키: $KEY_NAME"
-          echo "=========================================="
-
-          # 다음 단계에서 SCRAPER_API_KEY로 사용할 수 있도록 GitHub 환경변수에 저장
-          echo "SCRAPER_API_KEY=$CHOSEN_KEY" >> $GITHUB_ENV
-
       - name: Run All Python Scripts
+        env:
+          # 오전 1시 30분 실행일 때는 2번 키를, 그 외(오전 1시 또는 수동실행)일 때는 1번 키를 사용
+          SCRAPER_API_KEY: ${{ github.event.schedule == '30 16 * * *' && secrets.SCRAPER_API_KEY_2 || secrets.SCRAPER_API_KEY }}
         run: |
           python codes/pycode/mnd.py
           python codes/pycode/etnews.py  
@@ -143,4 +92,3 @@ jobs:
           file_pattern: 'codes/*.json public/update_time.json'
           commit_message: 'Automated data update: All sources [skip ci]'
           branch: main
-
