@@ -1,45 +1,69 @@
 [
   {
-    "title": "('26. 9. 8.) 국가AI전략위 출범 1년, 대한민국 AI 대전환 성과 본격화",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=923",
+    "title": "국가AI전략위, AI 보안 전면화·국방 특화 AI 등 성과 낸다",
+    "link": "https://www.etnews.com/20260908000210",
+    "category": "국방",
+    "score": 5
+  },
+  {
+    "title": "국가AI전략위 2기, 기술·의제 등 글로벌 AI 핵심 공급망 박차",
+    "link": "https://www.etnews.com/20260908000373",
     "category": "기관",
     "score": 5
   },
   {
-    "title": "미스트랄 AI, 삼성전자 주도로 4.7조원 시리즈D 투자 유치…‘주권형 오픈 웨이트 AI’ 본격 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41824",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "퀄컴, 아마존과 차세대 AI 데이터센터용 맞춤형 반도체 공동 개발",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41821",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "삼성SDS, AI 도입 넘어 기업 AX 혁신 이끈다…‘다차원 AI 풀스택’ 전략 제시",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41807",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "KT, KAIST·다임리서치와 “AI와 로봇 연결해 제조 공정 자율화 선도”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41805",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "한국피지컬AI협회, ‘Physical AI EXPO’ 내년 송도컨벤시아서 첫 개최",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41802",
+    "title": "정부, AI 전문 공무원 2만명 육성…6000명 동시 접속 AI 실험실도 구축",
+    "link": "https://www.etnews.com/20260908000198",
     "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "[AI와 디지털전환] AI 공격 시대, 에이전틱 지휘체계로",
+    "link": "https://www.etnews.com/20260908000234",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "일레븐랩스, CRO로 오픈AI 출신 애슐리 크레이머 영입",
+    "link": "https://www.etnews.com/20260908000362",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "미스트랄AI, 삼성전자·EQT 등 30억유로 투자 확보",
+    "link": "https://www.etnews.com/20260908000359",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "[人사이트]김녹원 딥엑스 대표 “라즈베리 파이로 개발자 선점…피지컬 AI 양산 시장 연다”",
+    "link": "https://www.etnews.com/20260908000073",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "세미파이브, 삼성 4나노 AI 추론 가속기 ＇하이퍼엑셀 베르다＇ 첫 양산",
+    "link": "https://www.etnews.com/20260908000265",
+    "category": "민간",
     "score": 3
   },
   {
-    "title": "한컴, NPU 기반 AX 시장 공략 나선다...한컴이노스트림·퓨리오사AI와 기업·공공 온프레미스 AI 시장 공동 공략",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41803",
+    "title": "S2W, 범죄수사 특화 AI 에이전트 출시…자비스에 탑재",
+    "link": "https://www.etnews.com/20260908000212",
     "category": "민간",
     "score": 3
+  },
+  {
+    "title": "Arm, 상하이서 차세대 ＇모바일·로봇용＇ 연산설계 동시 공개",
+    "link": "https://www.etnews.com/20260908000098",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "에임인텔리전스 〃AGI급 ＇아스트라＇도 보안 공백 여전...다음은 로봇·자율주행〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214964",
+    "category": "해외",
+    "score": 4
   },
   {
     "title": "중국 인민해방군, ＇휴머노이드 로봇 병사＇ 실전 투입 속도",
@@ -54,118 +78,100 @@
     "score": 4
   },
   {
+    "title": "삼성SDS, ＇로봇 오케스트레이션＇으로 생산라인 1000곳 RX 추진",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215002",
+    "category": "민간",
+    "score": 4
+  },
+  {
     "title": "48단계 캡차 게임 최초 완파… GPT-6 아스트라, ＇컴퓨터 유즈＇ 성능 입증",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215003",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "국가AI전략위 2기, 기술·의제 등 글로벌 AI 핵심 공급망 박차",
-    "link": "https://www.etnews.com/20260908000373",
+    "title": "피씨엔, 강남 ‘PCN AI센터’ 개소…기술개발·사업 확대 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=214993",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "('26. 9. 8.) 국가AI전략위 출범 1년, 대한민국 AI 대전환 성과 본격화",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=923",
     "category": "기관",
     "score": 5
   },
   {
-    "title": "[KPCA쇼 2026]LG이노텍, AI가속기용 패키지 기판 첫선…심텍·티엘비 ＇소캠＇ 전면에",
-    "link": "https://www.etnews.com/20260908000058",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "[AI와 디지털전환] AI 공격 시대, 에이전틱 지휘체계로",
-    "link": "https://www.etnews.com/20260908000234",
-    "category": "기타",
-    "score": 3
-  },
-  {
-    "title": "[人사이트]김녹원 딥엑스 대표 “라즈베리 파이로 개발자 선점…피지컬 AI 양산 시장 연다”",
-    "link": "https://www.etnews.com/20260908000073",
-    "category": "민간",
+    "title": "퀄컴, 아마존과 차세대 AI 데이터센터용 맞춤형 반도체 공동 개발",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41821",
+    "category": "해외",
     "score": 4
   },
   {
-    "title": "시높시스, ＇컨버지 코리아 2026＇ 개최…AI 기반 엔지니어링 혁신 논의",
-    "link": "https://www.etnews.com/20260908000304",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "대전시, AI로 도시를 읽고 디지털 트윈으로 안전 설계한다",
-    "link": "https://www.etnews.com/20260908000111",
+    "title": "한전KDN, ‘AIDC 보안 기술 워크숍’ 개최...N2SF 보안정책 내재화 모색",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41818",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "국가AI전략위, AI 보안 전면화·국방 특화 AI 등 성과 낸다",
-    "link": "https://www.etnews.com/20260908000210",
+    "title": "자율주행차 ‘실수’ 예측 돕는 AI 설명 기술 개발...MIT, ‘CW-Net’으로 자율주행 AI 판단, 사람이 이해할 수 있는 개념으로 변환",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41816",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "GC녹십자, 산업통상부·KEIT 주관 ‘AI 활용 백신 제조·품질관리 시스템 개발’ 과제 선정",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41810",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "삼성SDS, AI 도입 넘어 기업 AX 혁신 이끈다…‘다차원 AI 풀스택’ 전략 제시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41807",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "KT, KAIST·다임리서치와 “AI와 로봇 연결해 제조 공정 자율화 선도”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41805",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "데이터·분석 도구 자율 활용하는 에이전트 구현...에스투더블유, 자율형 수사 AI 에이전트 ‘DRI’ 출시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41804",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "한컴, NPU 기반 AX 시장 공략 나선다...한컴이노스트림·퓨리오사AI와 기업·공공 온프레미스 AI 시장 공동 공략",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41803",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "AI·ICT 역량 결합 전투 수행력 높인다",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDc4NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "국방",
     "score": 5
   },
   {
-    "title": "루닛, 세계폐암학회서 AI 기반 정밀의료 연구 3건 공개",
-    "link": "https://www.etnews.com/20260908000272",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "세미파이브, 삼성 4나노 AI 추론 가속기 ＇하이퍼엑셀 베르다＇ 첫 양산",
-    "link": "https://www.etnews.com/20260908000265",
-    "category": "민간",
+    "title": "육군 상무대에 독립적 전력 공급망 ‘마이크로그리드’ 구축",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDc4NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군",
     "score": 4
   },
   {
-    "title": "아이엘, 7300평 스마트팩토리 추진…＇피지컬AI＇ 거점으로",
-    "link": "https://www.etnews.com/20260908000264",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "＇아이언맨＇ 나노 슈트 현실로 만든다… 미래 판기술 위원회 공식 출범",
-    "link": "https://www.etnews.com/20260908000261",
-    "category": "기관",
+    "title": "육군, 중소 방산기업 혁신기술 접목한다",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDc4MyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군",
     "score": 4
   },
   {
-    "title": "S2W, 범죄수사 특화 AI 에이전트 출시…자비스에 탑재",
-    "link": "https://www.etnews.com/20260908000212",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "GC녹십자, ＇AI 백신 공장＇ 만든다…산자부 국책과제 선정",
-    "link": "https://www.etnews.com/20260908000206",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "정부, AI 전문 공무원 2만명 육성…6000명 동시 접속 AI 실험실도 구축",
-    "link": "https://www.etnews.com/20260908000198",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "테라텍, KSC 2026서 NPU·AI 자원관리·HPC 아우르는 차세대 AI 인프라 공개",
-    "link": "https://www.etnews.com/20260908000175",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "[미리보는 AINEX 2026]〈하〉바닷속 AI 인프라 경쟁…해저케이블 해법 모색",
-    "link": "https://www.etnews.com/20260908000160",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "위존, ＇M.AX 전문기업＇ 선정…제조 AI 전환 사업 확대",
-    "link": "https://www.etnews.com/20260908000153",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "Arm, 상하이서 차세대 ＇모바일·로봇용＇ 연산설계 동시 공개",
-    "link": "https://www.etnews.com/20260908000098",
-    "category": "해외",
-    "score": 4
+    "title": "유·무인 전력 AI로 통합 작전능력 극대화",
+    "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyMDc5MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방",
+    "score": 5
   },
   {
     "title": "육군, 중소 방산기업 혁신기술 접목한다",
@@ -183,13 +189,7 @@
     "title": "육군 상무대에 독립적 전력 공급망 ‘마이크로그리드’ 구축",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260909/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534",
     "category": "육군",
-    "score": 3
-  },
-  {
-    "title": "기갑·기계화부대 미래전 대응방안 모색",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260909/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534",
-    "category": "육군",
-    "score": 3
+    "score": 4
   },
   {
     "title": "유·무인 전력 AI로 통합 작전능력 극대화",
@@ -200,36 +200,12 @@
   {
     "title": "AI로 행정혁신 이끈 공무원에 인센티브 확대한다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260909/2/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534",
-    "category": "기관",
+    "category": "국방",
     "score": 4
   },
   {
     "title": "AI 강군으로의 열쇠 ‘국방 AI 촉진자’",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260909/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534",
-    "category": "국방",
-    "score": 5
-  },
-  {
-    "title": "AI·ICT 역량 결합 전투 수행력 높인다",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDc4NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방",
-    "score": 5
-  },
-  {
-    "title": "육군 상무대에 독립적 전력 공급망 ‘마이크로그리드’ 구축",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDc4NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "육군",
-    "score": 3
-  },
-  {
-    "title": "육군, 중소 방산기업 혁신기술 접목한다",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDc4MyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "육군",
-    "score": 4
-  },
-  {
-    "title": "유·무인 전력 AI로 통합 작전능력 극대화",
-    "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyMDc5MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "국방",
     "score": 5
   }
