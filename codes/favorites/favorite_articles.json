@@ -30,16 +30,22 @@
     "score": 3
   },
   {
-    "title": "유일로보틱스-SK온, 휴머노이드 전고체 배터리 개발",
-    "link": "https://www.etnews.com/20260909000223",
+    "title": "공공의료 AI ＇고속도로＇ 놓는다…병원 공동 클라우드 구축 첫 삽",
+    "link": "https://www.etnews.com/20260909000333",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "카카오 자율주행택시, 강남서 1.3만㎞ 달리며 ＇돌발상황＇ 학습…연내 E2E로 진화",
+    "link": "https://www.etnews.com/20260909000306",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "오픈AI, 사이버 보안 접근권 ＇데이브레이크＇ 韓 기업 5개사 확대",
-    "link": "https://www.etnews.com/20260909000281",
-    "category": "해외",
-    "score": 4
+    "title": "VM웨어, 가상화 넘어 ＇AI 프라이빗 클라우드＇로…VCF 전환 가속",
+    "link": "https://www.etnews.com/20260909000299",
+    "category": "민간",
+    "score": 3
   },
   {
     "title": "원주·천안아산·새만금·광주에 ＇K-AI 시티＇…2030년 AI 도시모델 만든다",
@@ -48,22 +54,16 @@
     "score": 4
   },
   {
-    "title": "HS효성인포, Arm 서버·NPU 결합…AI 인프라 시장 공략",
-    "link": "https://www.etnews.com/20260909000266",
-    "category": "민간",
-    "score": 3
+    "title": "[포토] AI수상드론 코봇",
+    "link": "https://www.etnews.com/20260909000260",
+    "category": "국방",
+    "score": 4
   },
   {
     "title": "카카오, AI 영상 생성 연산 줄이는 적응형 토큰화 기술 공개",
     "link": "https://www.etnews.com/20260909000245",
     "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "한국방송통신전파진흥원, 5G 특화망에 AI·양자보안 접목…4대 R&D 성과 공개",
-    "link": "https://www.etnews.com/20260909000205",
-    "category": "기관",
-    "score": 3
+    "score": 4
   },
   {
     "title": "퀄컴, 아마존과 10년간 80조원 AI 데이터센터 칩 공급 협약",
@@ -72,8 +72,8 @@
     "score": 5
   },
   {
-    "title": "충남도, 당진에 AI 데이터센터 건립…1조2405억 투입 산업 생태계 확대",
-    "link": "https://www.etnews.com/20260909000033",
+    "title": "공장 덮친 AI 패권 경쟁…韓, 10월 ＇K-커넥트 AI＇로 맞불",
+    "link": "https://www.etnews.com/20260909000141",
     "category": "기관",
     "score": 4
   },
@@ -84,80 +84,14 @@
     "score": 3
   },
   {
-    "title": "과기부, 프랑스와 AI·양자기술 협력 강화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215061",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "오픈AI, ‘아스트라’ 사이버 모델 준비…“강력한 성능은 곧 강력한 보안”",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215065",
-    "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "인셉션, 초당 1107토큰 생성하는 ‘머큐리 2.5’ 공개...〃지능·비용 다 잡았다〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215057",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "〃모든 DNA 변이 AI로 본다〃...구글 딥마인드, ＇알파게놈 아틀라스＇ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215033",
-    "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "미국, 딥시크·문샷 등 중국 AI 기업 6곳 비난...〃미국 기술 악의적 복제〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215064",
-    "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "퀄컴, 아마존과 AI 추론 칩 공동 개발...〃스마트폰 넘어 데이터센터로〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215041",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "엔비디아, GPU 커널까지 러스트로 개발하는 ‘CUDA 러스트’ 공개...안전한 AI 인프라 구축",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215062",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "〃AI 무한 경쟁이 인류 위협〃…앤트로픽 핵심 연구원 사직",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215058",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "KAIST 교원창업기업 파네시아, 메타와 ‘차세대 AI 데이터센터 구조’ 제시",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215052",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "“AI가 답하는 시대 넘어 일을 대신한다”…메타, 누구나 사용하는 개인용 AI 에이전트 ‘뮤즈’ 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41837",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "GPT-5.6 솔, 양자컴퓨터 실험 자동화…AI 에이전트가 측정부터 분석·다음 실험까지 수행",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41834",
-    "category": "해외",
-    "score": 4
-  },
-  {
     "title": "대동, 산업부 431억원 규모 ＇K-온디바이스 AI반도체＇ 무인 농작업 로봇 과제 총괄",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=41830",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "삼성전자, 미스트랄 AI와 전략적 파트너십...미스트랄 AI 기술 결합한 자체 AI 모델 구축",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41826",
+    "title": "“혁신, AI 데이터센터가 하나의 칩처럼 움직인다”…파네시아·메타, CXL 기반 AI 인프라 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41811",
     "category": "민간",
     "score": 4
   },
@@ -190,6 +124,66 @@
     "link": "https://kookbang.dema.mil.kr/newsWeb/20260910/4/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=b0GHj8d0RPZO3QvIqKeF3pAm1qZrEXDY84pDZ7kSRJI2NB98JngE!1119777534",
     "category": "국방",
     "score": 3
+  },
+  {
+    "title": "과기부, 프랑스와 AI·양자기술 협력 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215061",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "오픈AI, ‘아스트라’ 사이버 모델 준비…“강력한 성능은 곧 강력한 보안”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215065",
+    "category": "민간",
+    "score": 5
+  },
+  {
+    "title": "인셉션, 초당 1107토큰 생성하는 ‘머큐리 2.5’ 공개...〃지능·비용 다 잡았다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215057",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "〃모든 DNA 변이 AI로 본다〃...구글 딥마인드, ＇알파게놈 아틀라스＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215033",
+    "category": "민간",
+    "score": 5
+  },
+  {
+    "title": "엔비디아, GPU 커널까지 러스트로 개발하는 ‘CUDA 러스트’ 공개...안전한 AI 인프라 구축",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215062",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "KAIST 교원창업기업 파네시아, 메타와 ‘차세대 AI 데이터센터 구조’ 제시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215052",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "“AI가 답하는 시대 넘어 일을 대신한다”…메타, 누구나 사용하는 개인용 AI 에이전트 ‘뮤즈’ 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41837",
+    "category": "민간",
+    "score": 5
+  },
+  {
+    "title": "GPT-5.6 솔, 양자컴퓨터 실험 자동화…AI 에이전트가 측정부터 분석·다음 실험까지 수행",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41834",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "미국, 딥시크·문샷 등 중국 AI 기업 6곳 비난...〃미국 기술 악의적 복제〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215064",
+    "category": "해외",
+    "score": 5
+  },
+  {
+    "title": "〃AI 무한 경쟁이 인류 위협〃…앤트로픽 핵심 연구원 사직",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215058",
+    "category": "해외",
+    "score": 4
   },
   {
     "title": "아스트라, 48단계 ‘인간증명’ 통과",
