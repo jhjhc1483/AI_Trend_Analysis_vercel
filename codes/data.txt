@@ -1,122 +1,113 @@
-📢26.09.09 AI 일일 동향📢
+📢26.09.10 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 국가AI전략위, AI 보안 전면화·국방 특화 AI 등 성과 낸다
-https://www.etnews.com/20260908000210
+◾ ‘계약 사전점검 AI 에이전트’ 최우수상
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMDg3OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ AI·ICT 역량 결합 전투 수행력 높인다
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDc4NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ ‘계약 사전점검 AI 에이전트’ 최우수상
+https://kookbang.dema.mil.kr/newsWeb/20260910/13/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=b0GHj8d0RPZO3QvIqKeF3pAm1qZrEXDY84pDZ7kSRJI2NB98JngE!1119777534
 
-◾ 유·무인 전력 AI로 통합 작전능력 극대화
-https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyMDc5MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ AI·ICT 역량 결합 전투 수행력 높인다
-https://kookbang.dema.mil.kr/newsWeb/20260909/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534
-
-◾ 유·무인 전력 AI로 통합 작전능력 극대화
-https://kookbang.dema.mil.kr/newsWeb/20260909/2/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534
-
-◾ AI로 행정혁신 이끈 공무원에 인센티브 확대한다
-https://kookbang.dema.mil.kr/newsWeb/20260909/2/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534
-
-◾ AI 강군으로의 열쇠 ‘국방 AI 촉진자’
-https://kookbang.dema.mil.kr/newsWeb/20260909/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534
+◾ 7단계 AI 활용법으로 업무 역량 향상
+https://kookbang.dema.mil.kr/newsWeb/20260910/4/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=b0GHj8d0RPZO3QvIqKeF3pAm1qZrEXDY84pDZ7kSRJI2NB98JngE!1119777534
 
 [육군]
-◾ 육군 상무대에 독립적 전력 공급망 ‘마이크로그리드’ 구축
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDc4NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 해병대 AI 아이디어 시제품으로 구현
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyMDg4NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 육군, 중소 방산기업 혁신기술 접목한다
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMDc4MyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 육군, 중소 방산기업 혁신기술 접목한다
-https://kookbang.dema.mil.kr/newsWeb/20260909/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534
-
-◾ 육군 상무대에 독립적 전력 공급망 ‘마이크로그리드’ 구축
-https://kookbang.dema.mil.kr/newsWeb/20260909/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=1mOCnwM4pHQKyv_CJxTqJXG4jsE3jsXWxbacG1U3xULzrFw27bL5!1119777534
+◾ 해병대 AI 아이디어 시제품으로 구현
+https://kookbang.dema.mil.kr/newsWeb/20260910/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=b0GHj8d0RPZO3QvIqKeF3pAm1qZrEXDY84pDZ7kSRJI2NB98JngE!1119777534
 
 [민간]
-◾ 일레븐랩스, CRO로 오픈AI 출신 애슐리 크레이머 영입
-https://www.etnews.com/20260908000362
+◾ 삼성전자, 미스트랄 AI와 반도체 특화 AI 개발…설계·제조 혁신
+https://www.etnews.com/20260908000385
 
-◾ 미스트랄AI, 삼성전자·EQT 등 30억유로 투자 확보
-https://www.etnews.com/20260908000359
+◾ 농경지 벌까지 잡아낸 AI…한국공학대, 연구진 국제 대회서 최종 2위
+https://www.etnews.com/20260909000397
 
-◾ [人사이트]김녹원 딥엑스 대표 “라즈베리 파이로 개발자 선점…피지컬 AI 양산 시장 연다”
-https://www.etnews.com/20260908000073
+◾ 통신 3사, 하반기 AI·정보보안 인재 유치 가속…“AX 경쟁력 확보”
+https://www.etnews.com/20260909000227
 
-◾ 세미파이브, 삼성 4나노 AI 추론 가속기 ＇하이퍼엑셀 베르다＇ 첫 양산
-https://www.etnews.com/20260908000265
+◾ 유일로보틱스-SK온, 휴머노이드 전고체 배터리 개발
+https://www.etnews.com/20260909000223
 
-◾ S2W, 범죄수사 특화 AI 에이전트 출시…자비스에 탑재
-https://www.etnews.com/20260908000212
+◾ HS효성인포, Arm 서버·NPU 결합…AI 인프라 시장 공략
+https://www.etnews.com/20260909000266
 
-◾ 미스트랄, 삼성 주도로 4.4조 투자 유치…〃소버린 AI 구축 가속〃
-https://www.aitimes.com/news/articleView.html?idxno=215009
+◾ 카카오, AI 영상 생성 연산 줄이는 적응형 토큰화 기술 공개
+https://www.etnews.com/20260909000245
 
-◾ 삼성SDS, ＇로봇 오케스트레이션＇으로 생산라인 1000곳 RX 추진
-https://www.aitimes.com/news/articleView.html?idxno=215002
+◾ 퀄컴, 아마존과 AI 추론 칩 공동 개발...〃스마트폰 넘어 데이터센터로〃
+https://www.aitimes.com/news/articleView.html?idxno=215041
 
-◾ 피씨엔, 강남 ‘PCN AI센터’ 개소…기술개발·사업 확대 강화
-https://www.aitimes.com/news/articleView.html?idxno=214993
+◾ 엔비디아, GPU 커널까지 러스트로 개발하는 ‘CUDA 러스트’ 공개...안전한 AI 인프라 구축
+https://www.aitimes.com/news/articleView.html?idxno=215062
 
-◾ 삼성SDS, AI 도입 넘어 기업 AX 혁신 이끈다…‘다차원 AI 풀스택’ 전략 제시
-https://www.aitimes.kr/news/articleView.html?idxno=41807
+◾ KAIST 교원창업기업 파네시아, 메타와 ‘차세대 AI 데이터센터 구조’ 제시
+https://www.aitimes.com/news/articleView.html?idxno=215052
 
-◾ KT, KAIST·다임리서치와 “AI와 로봇 연결해 제조 공정 자율화 선도”
-https://www.aitimes.kr/news/articleView.html?idxno=41805
-
-◾ 데이터·분석 도구 자율 활용하는 에이전트 구현...에스투더블유, 자율형 수사 AI 에이전트 ‘DRI’ 출시
-https://www.aitimes.kr/news/articleView.html?idxno=41804
-
-◾ 한컴, NPU 기반 AX 시장 공략 나선다...한컴이노스트림·퓨리오사AI와 기업·공공 온프레미스 AI 시장 공동 공략
-https://www.aitimes.kr/news/articleView.html?idxno=41803
+◾ 삼성전자, 미스트랄 AI와 전략적 파트너십...미스트랄 AI 기술 결합한 자체 AI 모델 구축
+https://www.aitimes.kr/news/articleView.html?idxno=41826
 
 [기관]
-◾ 국가AI전략위 2기, 기술·의제 등 글로벌 AI 핵심 공급망 박차
-https://www.etnews.com/20260908000373
+◾ 과기정통부, 프랑스와 AI·반도체·양자 기술 협력 본격화
+https://www.etnews.com/20260909000403
 
-◾ 정부, AI 전문 공무원 2만명 육성…6000명 동시 접속 AI 실험실도 구축
-https://www.etnews.com/20260908000198
+◾ “AI가속기+전력비율로 AIDC 규정”…업계 “학습·서비스용 기준 달라야”
+https://www.etnews.com/20260909000387
 
-◾ [AI와 디지털전환] AI 공격 시대, 에이전틱 지휘체계로
-https://www.etnews.com/20260908000234
+◾ 원주·천안아산·새만금·광주에 ＇K-AI 시티＇…2030년 AI 도시모델 만든다
+https://www.etnews.com/20260909000280
 
-◾ ('26. 9. 8.) 국가AI전략위 출범 1년, 대한민국 AI 대전환 성과 본격화
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=923
+◾ 한국방송통신전파진흥원, 5G 특화망에 AI·양자보안 접목…4대 R&D 성과 공개
+https://www.etnews.com/20260909000205
 
-◾ 한전KDN, ‘AIDC 보안 기술 워크숍’ 개최...N2SF 보안정책 내재화 모색
-https://www.aitimes.kr/news/articleView.html?idxno=41818
+◾ 충남도, 당진에 AI 데이터센터 건립…1조2405억 투입 산업 생태계 확대
+https://www.etnews.com/20260909000033
 
-◾ GC녹십자, 산업통상부·KEIT 주관 ‘AI 활용 백신 제조·품질관리 시스템 개발’ 과제 선정
-https://www.aitimes.kr/news/articleView.html?idxno=41810
+◾ 캠코, JDC와 감사 역량 강화 협약…인공지능(AI) 감사기법 교류
+https://www.etnews.com/20260909000151
+
+◾ 과기부, 프랑스와 AI·양자기술 협력 강화
+https://www.aitimes.com/news/articleView.html?idxno=215061
+
+◾ 대동, 산업부 431억원 규모 ＇K-온디바이스 AI반도체＇ 무인 농작업 로봇 과제 총괄
+https://www.aitimes.kr/news/articleView.html?idxno=41830
 
 [해외]
-◾ Arm, 상하이서 차세대 ＇모바일·로봇용＇ 연산설계 동시 공개
-https://www.etnews.com/20260908000098
+◾ 오픈AI, 사이버 보안 접근권 ＇데이브레이크＇ 韓 기업 5개사 확대
+https://www.etnews.com/20260909000281
 
-◾ 에임인텔리전스 〃AGI급 ＇아스트라＇도 보안 공백 여전...다음은 로봇·자율주행〃
-https://www.aitimes.com/news/articleView.html?idxno=214964
+◾ 퀄컴, 아마존과 10년간 80조원 AI 데이터센터 칩 공급 협약
+https://www.etnews.com/20260909000175
 
-◾ 중국 인민해방군, ＇휴머노이드 로봇 병사＇ 실전 투입 속도
-https://www.aitimes.com/news/articleView.html?idxno=214981
+◾ 오픈AI, ‘아스트라’ 사이버 모델 준비…“강력한 성능은 곧 강력한 보안”
+https://www.aitimes.com/news/articleView.html?idxno=215065
 
-◾ 48단계 캡차 게임 최초 완파… GPT-6 아스트라, ＇컴퓨터 유즈＇ 성능 입증
-https://www.aitimes.com/news/articleView.html?idxno=215003
+◾ 인셉션, 초당 1107토큰 생성하는 ‘머큐리 2.5’ 공개...〃지능·비용 다 잡았다〃
+https://www.aitimes.com/news/articleView.html?idxno=215057
 
-◾ 퀄컴, 아마존과 차세대 AI 데이터센터용 맞춤형 반도체 공동 개발
-https://www.aitimes.kr/news/articleView.html?idxno=41821
+◾ 〃모든 DNA 변이 AI로 본다〃...구글 딥마인드, ＇알파게놈 아틀라스＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=215033
 
-◾ 자율주행차 ‘실수’ 예측 돕는 AI 설명 기술 개발...MIT, ‘CW-Net’으로 자율주행 AI 판단, 사람이 이해할 수 있는 개념으로 변환
-https://www.aitimes.kr/news/articleView.html?idxno=41816
+◾ 미국, 딥시크·문샷 등 중국 AI 기업 6곳 비난...〃미국 기술 악의적 복제〃
+https://www.aitimes.com/news/articleView.html?idxno=215064
+
+◾ 〃AI 무한 경쟁이 인류 위협〃…앤트로픽 핵심 연구원 사직
+https://www.aitimes.com/news/articleView.html?idxno=215058
+
+◾ “AI가 답하는 시대 넘어 일을 대신한다”…메타, 누구나 사용하는 개인용 AI 에이전트 ‘뮤즈’ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=41837
+
+◾ GPT-5.6 솔, 양자컴퓨터 실험 자동화…AI 에이전트가 측정부터 분석·다음 실험까지 수행
+https://www.aitimes.kr/news/articleView.html?idxno=41834
+
+◾ 아스트라, 48단계 ‘인간증명’ 통과
+https://kookbang.dema.mil.kr/newsWeb/20260910/5/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=b0GHj8d0RPZO3QvIqKeF3pAm1qZrEXDY84pDZ7kSRJI2NB98JngE!1119777534
 
 📚 간행물
-◾ [The LENS 2026-11] 중국 AI 에이전트 상호 운용 표준화 전략 분석
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=29970&parentSeq=29970
-
-◾ 「AX 2.0 우리의 준비」단행본
-https://www.iitp.kr/web/lay1/bbs/S1T14C63/A/22/view.do?article_seq=4576&sort=latest&cpage=1&rows=10
+◾ 피지컬 AI의 발전에 따른 기술 및 표준화 방향 [주간기술동향 2220호]
+https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1405&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
