@@ -2,6 +2,9 @@
 
 📰 오늘의 기사
 [국방]
+◾ [포토] AI수상드론 코봇
+https://www.etnews.com/20260909000260
+
 ◾ ‘계약 사전점검 AI 에이전트’ 최우수상
 https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMDg3OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
@@ -28,58 +31,17 @@ https://www.etnews.com/20260909000397
 ◾ 통신 3사, 하반기 AI·정보보안 인재 유치 가속…“AX 경쟁력 확보”
 https://www.etnews.com/20260909000227
 
-◾ 유일로보틱스-SK온, 휴머노이드 전고체 배터리 개발
-https://www.etnews.com/20260909000223
+◾ 카카오 자율주행택시, 강남서 1.3만㎞ 달리며 ＇돌발상황＇ 학습…연내 E2E로 진화
+https://www.etnews.com/20260909000306
 
-◾ HS효성인포, Arm 서버·NPU 결합…AI 인프라 시장 공략
-https://www.etnews.com/20260909000266
+◾ VM웨어, 가상화 넘어 ＇AI 프라이빗 클라우드＇로…VCF 전환 가속
+https://www.etnews.com/20260909000299
 
 ◾ 카카오, AI 영상 생성 연산 줄이는 적응형 토큰화 기술 공개
 https://www.etnews.com/20260909000245
 
-◾ 퀄컴, 아마존과 AI 추론 칩 공동 개발...〃스마트폰 넘어 데이터센터로〃
-https://www.aitimes.com/news/articleView.html?idxno=215041
-
-◾ 엔비디아, GPU 커널까지 러스트로 개발하는 ‘CUDA 러스트’ 공개...안전한 AI 인프라 구축
-https://www.aitimes.com/news/articleView.html?idxno=215062
-
-◾ KAIST 교원창업기업 파네시아, 메타와 ‘차세대 AI 데이터센터 구조’ 제시
-https://www.aitimes.com/news/articleView.html?idxno=215052
-
-◾ 삼성전자, 미스트랄 AI와 전략적 파트너십...미스트랄 AI 기술 결합한 자체 AI 모델 구축
-https://www.aitimes.kr/news/articleView.html?idxno=41826
-
-[기관]
-◾ 과기정통부, 프랑스와 AI·반도체·양자 기술 협력 본격화
-https://www.etnews.com/20260909000403
-
-◾ “AI가속기+전력비율로 AIDC 규정”…업계 “학습·서비스용 기준 달라야”
-https://www.etnews.com/20260909000387
-
-◾ 원주·천안아산·새만금·광주에 ＇K-AI 시티＇…2030년 AI 도시모델 만든다
-https://www.etnews.com/20260909000280
-
-◾ 한국방송통신전파진흥원, 5G 특화망에 AI·양자보안 접목…4대 R&D 성과 공개
-https://www.etnews.com/20260909000205
-
-◾ 충남도, 당진에 AI 데이터센터 건립…1조2405억 투입 산업 생태계 확대
-https://www.etnews.com/20260909000033
-
-◾ 캠코, JDC와 감사 역량 강화 협약…인공지능(AI) 감사기법 교류
-https://www.etnews.com/20260909000151
-
-◾ 과기부, 프랑스와 AI·양자기술 협력 강화
-https://www.aitimes.com/news/articleView.html?idxno=215061
-
-◾ 대동, 산업부 431억원 규모 ＇K-온디바이스 AI반도체＇ 무인 농작업 로봇 과제 총괄
-https://www.aitimes.kr/news/articleView.html?idxno=41830
-
-[해외]
-◾ 오픈AI, 사이버 보안 접근권 ＇데이브레이크＇ 韓 기업 5개사 확대
-https://www.etnews.com/20260909000281
-
-◾ 퀄컴, 아마존과 10년간 80조원 AI 데이터센터 칩 공급 협약
-https://www.etnews.com/20260909000175
+◾ “혁신, AI 데이터센터가 하나의 칩처럼 움직인다”…파네시아·메타, CXL 기반 AI 인프라 공개
+https://www.aitimes.kr/news/articleView.html?idxno=41811
 
 ◾ 오픈AI, ‘아스트라’ 사이버 모델 준비…“강력한 성능은 곧 강력한 보안”
 https://www.aitimes.com/news/articleView.html?idxno=215065
@@ -90,17 +52,52 @@ https://www.aitimes.com/news/articleView.html?idxno=215057
 ◾ 〃모든 DNA 변이 AI로 본다〃...구글 딥마인드, ＇알파게놈 아틀라스＇ 공개
 https://www.aitimes.com/news/articleView.html?idxno=215033
 
-◾ 미국, 딥시크·문샷 등 중국 AI 기업 6곳 비난...〃미국 기술 악의적 복제〃
-https://www.aitimes.com/news/articleView.html?idxno=215064
+◾ 엔비디아, GPU 커널까지 러스트로 개발하는 ‘CUDA 러스트’ 공개...안전한 AI 인프라 구축
+https://www.aitimes.com/news/articleView.html?idxno=215062
 
-◾ 〃AI 무한 경쟁이 인류 위협〃…앤트로픽 핵심 연구원 사직
-https://www.aitimes.com/news/articleView.html?idxno=215058
+◾ KAIST 교원창업기업 파네시아, 메타와 ‘차세대 AI 데이터센터 구조’ 제시
+https://www.aitimes.com/news/articleView.html?idxno=215052
 
 ◾ “AI가 답하는 시대 넘어 일을 대신한다”…메타, 누구나 사용하는 개인용 AI 에이전트 ‘뮤즈’ 공개
 https://www.aitimes.kr/news/articleView.html?idxno=41837
 
 ◾ GPT-5.6 솔, 양자컴퓨터 실험 자동화…AI 에이전트가 측정부터 분석·다음 실험까지 수행
 https://www.aitimes.kr/news/articleView.html?idxno=41834
+
+[기관]
+◾ 과기정통부, 프랑스와 AI·반도체·양자 기술 협력 본격화
+https://www.etnews.com/20260909000403
+
+◾ “AI가속기+전력비율로 AIDC 규정”…업계 “학습·서비스용 기준 달라야”
+https://www.etnews.com/20260909000387
+
+◾ 공공의료 AI ＇고속도로＇ 놓는다…병원 공동 클라우드 구축 첫 삽
+https://www.etnews.com/20260909000333
+
+◾ 원주·천안아산·새만금·광주에 ＇K-AI 시티＇…2030년 AI 도시모델 만든다
+https://www.etnews.com/20260909000280
+
+◾ 공장 덮친 AI 패권 경쟁…韓, 10월 ＇K-커넥트 AI＇로 맞불
+https://www.etnews.com/20260909000141
+
+◾ 캠코, JDC와 감사 역량 강화 협약…인공지능(AI) 감사기법 교류
+https://www.etnews.com/20260909000151
+
+◾ 대동, 산업부 431억원 규모 ＇K-온디바이스 AI반도체＇ 무인 농작업 로봇 과제 총괄
+https://www.aitimes.kr/news/articleView.html?idxno=41830
+
+◾ 과기부, 프랑스와 AI·양자기술 협력 강화
+https://www.aitimes.com/news/articleView.html?idxno=215061
+
+[해외]
+◾ 퀄컴, 아마존과 10년간 80조원 AI 데이터센터 칩 공급 협약
+https://www.etnews.com/20260909000175
+
+◾ 미국, 딥시크·문샷 등 중국 AI 기업 6곳 비난...〃미국 기술 악의적 복제〃
+https://www.aitimes.com/news/articleView.html?idxno=215064
+
+◾ 〃AI 무한 경쟁이 인류 위협〃…앤트로픽 핵심 연구원 사직
+https://www.aitimes.com/news/articleView.html?idxno=215058
 
 ◾ 아스트라, 48단계 ‘인간증명’ 통과
 https://kookbang.dema.mil.kr/newsWeb/20260910/5/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=b0GHj8d0RPZO3QvIqKeF3pAm1qZrEXDY84pDZ7kSRJI2NB98JngE!1119777534
