@@ -40,6 +40,9 @@ https://www.etnews.com/20260910000090
 ◾ SKT, ＇모두의 AI＇ 컨소시엄 출범…의료·돌봄·교육 등 8개 특화 서비스 개발
 https://www.etnews.com/20260910000083
 
+◾ KT-서울아산병원, ＇AI 병원＇ 구축 맞손
+https://www.etnews.com/20260910000055
+
 ◾ 텔레픽스, 구글 딥마인드 액셀러레이터 ‘지구를 위한 AI’ 국내 유일 선정
 https://www.aitimes.com/news/articleView.html?idxno=215092
 
@@ -49,15 +52,15 @@ https://www.aitimes.com/news/articleView.html?idxno=215091
 ◾ HD현대중, “발전엔진·SMR 핵심 경쟁력 확보해 글로벌 AI 인프라 시장 선점할 것”... 울산에 1조 원 투자
 https://www.aitimes.kr/news/articleView.html?idxno=41865
 
-◾ 최태원 회장, AX 현장경영… ‘AI 풀스택 프로바이더’ 실행 현황 확인
-https://www.aitimes.kr/news/articleView.html?idxno=41862
-
 ◾ 에스투더블유, 오픈AI 주도 글로벌 사이버보안 이니셔티브 ‘데이브레이크’ 참여
 https://www.aitimes.kr/news/articleView.html?idxno=41848
 
 [기관]
 ◾ [패키징 발전 정책 포럼] 반도체 패키징 3대 키워드 ＇하이브리드 본딩·CPO·AI＇
 https://www.etnews.com/20260910000270
+
+◾ [패키징 발전 정책 포럼]“AI 투자 1.1조달러 돌파…기판 생산 부하 2.5배 급증”
+https://www.etnews.com/20260910000021
 
 ◾ 피지컬AI 핵심부품 예산 5배 확대…정부, 로봇산업 육성 속도
 https://www.etnews.com/20260910000287
@@ -70,9 +73,6 @@ https://www.etnews.com/20260910000125
 
 ◾ 티오리, 국가 보안 AI 모델 개발 참여…실전형 AI 훈련환경 구축
 https://www.etnews.com/20260910000063
-
-◾ KT-서울아산병원, ＇AI 병원＇ 구축 맞손
-https://www.etnews.com/20260910000055
 
 ◾ KAIST, 행동 넘어 ‘뇌파’로 사람 의도 파악하는 AI 기술 개발
 https://www.aitimes.com/news/articleView.html?idxno=215115
@@ -93,11 +93,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=41849
 ◾ 오픈AI, ＇아스트라＇ 수요 폭증에 프로 요금제 가입 중단 시사
 https://www.etnews.com/20260910000421
 
-◾ [패키징 발전 정책 포럼]“AI 투자 1.1조달러 돌파…기판 생산 부하 2.5배 급증”
-https://www.etnews.com/20260910000021
-
-◾ AI가 보고 묻고 운전 경로까지 짠다…알리바바 ＇큐웬＇의 진화, 자율주행용 통합 모델 공개
-https://www.aitimes.kr/news/articleView.html?idxno=41867
+◾ 유니티, 클로드 코드용 공식 플러그인 공개…AI 개발 워크플로 강화
+https://www.etnews.com/20260910000187
 
 ◾ 메탄 배출, 우주에서 AI가 ‘범인’ 찾는다…구글·NASA, AI 위성영상 분석해 배출원 추적
 https://www.aitimes.kr/news/articleView.html?idxno=41858
