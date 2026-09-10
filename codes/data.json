@@ -26352,16 +26352,10 @@
           "score": 4
         },
         {
-          "title": "[패키징 발전 정책 포럼]“AI 투자 1.1조달러 돌파…기판 생산 부하 2.5배 급증”",
-          "link": "https://www.etnews.com/20260910000021",
+          "title": "유니티, 클로드 코드용 공식 플러그인 공개…AI 개발 워크플로 강화",
+          "link": "https://www.etnews.com/20260910000187",
           "category": "해외",
           "score": 3
-        },
-        {
-          "title": "AI가 보고 묻고 운전 경로까지 짠다…알리바바 ＇큐웬＇의 진화, 자율주행용 통합 모델 공개",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41867",
-          "category": "해외",
-          "score": 4
         },
         {
           "title": "메탄 배출, 우주에서 AI가 ‘범인’ 찾는다…구글·NASA, AI 위성영상 분석해 배출원 추적",
@@ -26374,6 +26368,12 @@
         {
           "title": "[패키징 발전 정책 포럼] 반도체 패키징 3대 키워드 ＇하이브리드 본딩·CPO·AI＇",
           "link": "https://www.etnews.com/20260910000270",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[패키징 발전 정책 포럼]“AI 투자 1.1조달러 돌파…기판 생산 부하 2.5배 급증”",
+          "link": "https://www.etnews.com/20260910000021",
           "category": "기관",
           "score": 4
         },
@@ -26398,12 +26398,6 @@
         {
           "title": "티오리, 국가 보안 AI 모델 개발 참여…실전형 AI 훈련환경 구축",
           "link": "https://www.etnews.com/20260910000063",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "KT-서울아산병원, ＇AI 병원＇ 구축 맞손",
-          "link": "https://www.etnews.com/20260910000055",
           "category": "기관",
           "score": 4
         },
@@ -26467,7 +26461,13 @@
           "title": "SKT, ＇모두의 AI＇ 컨소시엄 출범…의료·돌봄·교육 등 8개 특화 서비스 개발",
           "link": "https://www.etnews.com/20260910000083",
           "category": "민간",
-          "score": 4
+          "score": 3
+        },
+        {
+          "title": "KT-서울아산병원, ＇AI 병원＇ 구축 맞손",
+          "link": "https://www.etnews.com/20260910000055",
+          "category": "민간",
+          "score": 3
         },
         {
           "title": "텔레픽스, 구글 딥마인드 액셀러레이터 ‘지구를 위한 AI’ 국내 유일 선정",
@@ -26488,12 +26488,6 @@
           "score": 4
         },
         {
-          "title": "최태원 회장, AX 현장경영… ‘AI 풀스택 프로바이더’ 실행 현황 확인",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41862",
-          "category": "민간",
-          "score": 4
-        },
-        {
           "title": "에스투더블유, 오픈AI 주도 글로벌 사이버보안 이니셔티브 ‘데이브레이크’ 참여",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=41848",
           "category": "민간",
@@ -26505,7 +26499,7 @@
           "title": "[K-ICT WEEK in BUSAN 2026] AI 수상드론에서 휴머노이드까지…연신 “우와”",
           "link": "https://www.etnews.com/20260910000262",
           "category": "국방",
-          "score": 5
+          "score": 4
         },
         {
           "title": "민통선 관광, AI로 ‘더 안전하고 자유롭게’",
@@ -26543,7 +26537,7 @@
           "title": "미래 전장을 담아낼 KCTC의 진화",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260911/4/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=uwKMrwwOeLVEBu0WsMAHK306gByPiIL6S40TmzBJYXI3NbUcHXUQ!1119777534",
           "category": "육군",
-          "score": 4
+          "score": 3
         }
       ],
       "간행물": [
@@ -26560,7 +26554,6 @@
           "score": 5
         }
       ]
-    },
-    "briefing": "- KCTC가 미래 전장 환경을 반영하여 인공지능 기반의 첨단 기술을 융합한 전투력 발전 방안을 모색하고 있습니다.\n- 국가 보안 AI 모델 개발 및 실전형 AI 훈련 환경 구축을 위한 프로젝트에 티오리 등 관련 기관이 참여하고 있습니다.\n- 조선소 현장 등에 지능형 기지국(AI-RAN) 기반의 AI 로봇을 도입하여 안전과 생산성을 동시에 확보하는 실증이 진행되고 있습니다."
+    }
   }
 }
