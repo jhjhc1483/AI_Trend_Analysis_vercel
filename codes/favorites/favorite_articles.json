@@ -6,32 +6,20 @@
     "score": 5
   },
   {
-    "title": "DGIST, 피지컬 AI 에이전트 기술 개발 착수…과기정통부 ＇AI최고급 신진연구자 지원사업＇ 선정",
-    "link": "https://www.etnews.com/20260911000002",
-    "category": "기관",
-    "score": 4
+    "title": "“AI로 인류 멸망” 경고에…앤트로픽 “치명적 ＇모기 바이러스＇ 무기화 시도…AI 악용 차단”",
+    "link": "https://www.etnews.com/20260911000108",
+    "category": "해외",
+    "score": 5
   },
   {
-    "title": "조달청, 직원이 직접 만든 AI로 ‘조달업무 혁신’ 속도낸다… 현업 직원이 개발한 AI 서비스 7종 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41875",
-    "category": "기관",
+    "title": "＇AI 인류멸망＇ 경고에…美 의회는 “규제”·국방부는 “종말론”",
+    "link": "https://www.etnews.com/20260911000019",
+    "category": "해외",
     "score": 4
-  },
-  {
-    "title": "한국국토정보공사, ＇AI 전략위원회＇ 출범…디지털 국토 리더로 도약",
-    "link": "https://www.etnews.com/20260911000280",
-    "category": "기관",
-    "score": 3
   },
   {
     "title": "국민연금, 기금운용에 LG ＇엑사원＇ 적용…기금운용 AI 전환 시동",
     "link": "https://www.etnews.com/20260911000173",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "첨단 의료 AI 보안·안전성 검증…＇2026 첨단AI 의료제품 레드팀 챌린지 및 기술 워크숍＇ 마무리",
-    "link": "https://www.etnews.com/20260911000178",
     "category": "기관",
     "score": 4
   },
@@ -42,26 +30,14 @@
     "score": 4
   },
   {
-    "title": "“AI로 인류 멸망” 경고에…앤트로픽 “치명적 ＇모기 바이러스＇ 무기화 시도…AI 악용 차단”",
-    "link": "https://www.etnews.com/20260911000108",
-    "category": "해외",
-    "score": 5
+    "title": "네이버-LG, 18일 보안 특화 AI 개발 착수…“세계 1위 도전”",
+    "link": "https://www.etnews.com/20260910000303",
+    "category": "민간",
+    "score": 4
   },
   {
-    "title": "＇AI 인류멸망＇ 경고에…美 의회는 “규제”·국방부는 “종말론”",
-    "link": "https://www.etnews.com/20260911000019",
-    "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "엔비디아, 팔란티어와 핵심 공급망 위한 소버린 인텔리전스 구현",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41880",
-    "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "오픈AI, 美 정부에 ＇반값 AI＇ 공급…지방정부까지 확대",
-    "link": "https://www.etnews.com/20260911000015",
+    "title": "미국 정치권, AI 규제 법안 발의 박차...〃AI 개발자도 인류 멸종 믿어〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215156",
     "category": "해외",
     "score": 4
   },
@@ -72,9 +48,33 @@
     "score": 4
   },
   {
-    "title": "앤트로픽, 중국 기업 ＇무단 증류＇ 폭로…〃프록시 타고 클로드 우회 복제〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215138",
+    "title": "오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 ＇데이터 에이전트＇ 도입",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215146",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "오픈AI, 월가 겨냥한 ＇금융 특화 챗GPT＇ 공개...〃기업 분석부터 보고서 생성까지〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215141",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "엔비디아, 팔란티어와 핵심 공급망 위한 소버린 인텔리전스 구현",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41880",
     "category": "해외",
     "score": 4
+  },
+  {
+    "title": "조달청, 직원이 직접 만든 AI로 ‘조달업무 혁신’ 속도낸다… 현업 직원이 개발한 AI 서비스 7종 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41875",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "퀄컴, 〃스마트폰 AI 두뇌 확 바꾼다〃…‘에이전틱 AI’ 겨냥 차세대 헥사곤 NPU 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=41869",
+    "category": "민간",
+    "score": 3
   }
 ]

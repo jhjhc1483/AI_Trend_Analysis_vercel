@@ -6,24 +6,27 @@
 https://www.aitimes.kr/news/articleView.html?idxno=41872
 
 [민간]
-◾ 국민연금, 기금운용에 LG ＇엑사원＇ 적용…기금운용 AI 전환 시동
-https://www.etnews.com/20260911000173
-
 ◾ “보안 AI 수요 크게 늘 것”…네이버, 특화 모델로 글로벌 정상 도전
 https://www.etnews.com/20260910000408
 
+◾ 네이버-LG, 18일 보안 특화 AI 개발 착수…“세계 1위 도전”
+https://www.etnews.com/20260910000303
+
+◾ 오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 ＇데이터 에이전트＇ 도입
+https://www.aitimes.com/news/articleView.html?idxno=215146
+
+◾ 오픈AI, 월가 겨냥한 ＇금융 특화 챗GPT＇ 공개...〃기업 분석부터 보고서 생성까지〃
+https://www.aitimes.com/news/articleView.html?idxno=215141
+
+◾ 퀄컴, 〃스마트폰 AI 두뇌 확 바꾼다〃…‘에이전틱 AI’ 겨냥 차세대 헥사곤 NPU 공개
+https://www.aitimes.kr/news/articleView.html?idxno=41869
+
 [기관]
-◾ DGIST, 피지컬 AI 에이전트 기술 개발 착수…과기정통부 ＇AI최고급 신진연구자 지원사업＇ 선정
-https://www.etnews.com/20260911000002
+◾ 국민연금, 기금운용에 LG ＇엑사원＇ 적용…기금운용 AI 전환 시동
+https://www.etnews.com/20260911000173
 
 ◾ 조달청, 직원이 직접 만든 AI로 ‘조달업무 혁신’ 속도낸다… 현업 직원이 개발한 AI 서비스 7종 공개
 https://www.aitimes.kr/news/articleView.html?idxno=41875
-
-◾ 한국국토정보공사, ＇AI 전략위원회＇ 출범…디지털 국토 리더로 도약
-https://www.etnews.com/20260911000280
-
-◾ 첨단 의료 AI 보안·안전성 검증…＇2026 첨단AI 의료제품 레드팀 챌린지 및 기술 워크숍＇ 마무리
-https://www.etnews.com/20260911000178
 
 [해외]
 ◾ “AI로 인류 멸망” 경고에…앤트로픽 “치명적 ＇모기 바이러스＇ 무기화 시도…AI 악용 차단”
@@ -32,17 +35,14 @@ https://www.etnews.com/20260911000108
 ◾ ＇AI 인류멸망＇ 경고에…美 의회는 “규제”·국방부는 “종말론”
 https://www.etnews.com/20260911000019
 
-◾ 엔비디아, 팔란티어와 핵심 공급망 위한 소버린 인텔리전스 구현
-https://www.aitimes.kr/news/articleView.html?idxno=41880
-
-◾ 오픈AI, 美 정부에 ＇반값 AI＇ 공급…지방정부까지 확대
-https://www.etnews.com/20260911000015
+◾ 미국 정치권, AI 규제 법안 발의 박차...〃AI 개발자도 인류 멸종 믿어〃
+https://www.aitimes.com/news/articleView.html?idxno=215156
 
 ◾ 알트먼 〃첨단 AI 개발 속도 조절 검토…타 회사 동참 제안〃
 https://www.aitimes.com/news/articleView.html?idxno=215176
 
-◾ 앤트로픽, 중국 기업 ＇무단 증류＇ 폭로…〃프록시 타고 클로드 우회 복제〃
-https://www.aitimes.com/news/articleView.html?idxno=215138
+◾ 엔비디아, 팔란티어와 핵심 공급망 위한 소버린 인텔리전스 구현
+https://www.aitimes.kr/news/articleView.html?idxno=41880
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
