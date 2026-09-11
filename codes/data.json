@@ -26556,5 +26556,95 @@
       ]
     },
     "briefing": "- 육군 과학화전투훈련단(KCTC)이 미래 전장 환경을 반영하기 위한 진화 방향을 모색하고 있습니다.\n- 티오리가 국가 보안 AI 모델 개발 및 실전형 AI 훈련 환경 구축 프로젝트에 참여했습니다.\n- 교육 훈련과 첨단 기술을 융합하여 미래 전투력을 발전시키기 위한 방안이 논의되었습니다."
+  },
+  "26.09.12": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "시선AI, 국방망 AI 코딩·보안 자동화 플랫폼 구축…〃K-팔란티어 꿈꾼다〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41872",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "DGIST, 피지컬 AI 에이전트 기술 개발 착수…과기정통부 ＇AI최고급 신진연구자 지원사업＇ 선정",
+          "link": "https://www.etnews.com/20260911000002",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "조달청, 직원이 직접 만든 AI로 ‘조달업무 혁신’ 속도낸다… 현업 직원이 개발한 AI 서비스 7종 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41875",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "한국국토정보공사, ＇AI 전략위원회＇ 출범…디지털 국토 리더로 도약",
+          "link": "https://www.etnews.com/20260911000280",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "첨단 의료 AI 보안·안전성 검증…＇2026 첨단AI 의료제품 레드팀 챌린지 및 기술 워크숍＇ 마무리",
+          "link": "https://www.etnews.com/20260911000178",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "국민연금, 기금운용에 LG ＇엑사원＇ 적용…기금운용 AI 전환 시동",
+          "link": "https://www.etnews.com/20260911000173",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "“보안 AI 수요 크게 늘 것”…네이버, 특화 모델로 글로벌 정상 도전",
+          "link": "https://www.etnews.com/20260910000408",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "“AI로 인류 멸망” 경고에…앤트로픽 “치명적 ＇모기 바이러스＇ 무기화 시도…AI 악용 차단”",
+          "link": "https://www.etnews.com/20260911000108",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "＇AI 인류멸망＇ 경고에…美 의회는 “규제”·국방부는 “종말론”",
+          "link": "https://www.etnews.com/20260911000019",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "엔비디아, 팔란티어와 핵심 공급망 위한 소버린 인텔리전스 구현",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41880",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "오픈AI, 美 정부에 ＇반값 AI＇ 공급…지방정부까지 확대",
+          "link": "https://www.etnews.com/20260911000015",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "알트먼 〃첨단 AI 개발 속도 조절 검토…타 회사 동참 제안〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215176",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 중국 기업 ＇무단 증류＇ 폭로…〃프록시 타고 클로드 우회 복제〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215138",
+          "category": "해외",
+          "score": 4
+        }
+      ]
+    }
   }
 }
