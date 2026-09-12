@@ -26647,5 +26647,93 @@
       ]
     },
     "briefing": "- 시선AI가 국방망 내 AI 코딩 및 보안 자동화 플랫폼 구축을 추진하며 K-팔란티어를 지향하고 있습니다.\n- 엔비디아와 팔란티어가 협력을 통해 핵심 공급망을 위한 소버린 인텔리전스 구현에 나섰습니다.\n- 미국 국방부는 최근 제기된 AI 인류 멸망 가능성 경고와 관련해 이를 종말론적인 시각으로 평가했습니다."
+  },
+  "26.09.13": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야",
+          "link": "https://www.etnews.com/20260911000245",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "기업 절반이 CISO 둔다…AI 확산에 역할도 ＇전사 위험관리＇로",
+          "link": "https://www.etnews.com/20260911000235",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, ＇GPT-라이브-1＇ API 출시...〃실시간 대화 에이전트 구현〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215145",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 클로드 코드 ＇플러그인 평가＇ 공개…플러그인 성능·기여도 검증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215184",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "세일즈포스, ＇에이전트 난립＇ 잡는다...통합 관리 ＇트러스트 엔터프라이즈 AI 하네스＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215190",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, ＇에이전트 API＇ 공개 베타 출시...〃에이전트 구축 쉬워진다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215181",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상",
+          "link": "https://www.etnews.com/20260911000288",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "앤트로픽의 경고 〃AI 성장 결실, 노동 아닌 자본으로 몰릴 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215164",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "구글, AI 도구 학습 ＇툴그래드＇ 공개...〃답부터 만들고 질문 붙여 성공률 99.8%〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215188",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 ＇하네스데브＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215182",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "트럼프, AI 종말론 위험 일축…〃중국 우위가 최우선〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215185",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "“AI가 DNA의 진화를 읽었다”…UC버클리, 질병 유발 변이 찾아내는 AI ‘GPN-Star’ 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41886",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "“AI가 공격 도구 넘어 공격 자체를 조율한다”...앤트로픽, 실제 AI 악용 사례 전격 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41885",
+          "category": "해외",
+          "score": 5
+        }
+      ]
+    }
   }
 }

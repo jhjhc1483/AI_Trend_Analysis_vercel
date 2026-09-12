@@ -1,48 +1,47 @@
-📢26.09.12 AI 일일 동향📢
+📢26.09.13 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 시선AI, 국방망 AI 코딩·보안 자동화 플랫폼 구축…〃K-팔란티어 꿈꾼다〃
-https://www.aitimes.kr/news/articleView.html?idxno=41872
-
 [민간]
-◾ “보안 AI 수요 크게 늘 것”…네이버, 특화 모델로 글로벌 정상 도전
-https://www.etnews.com/20260910000408
+◾ 무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야
+https://www.etnews.com/20260911000245
 
-◾ 네이버-LG, 18일 보안 특화 AI 개발 착수…“세계 1위 도전”
-https://www.etnews.com/20260910000303
+◾ 기업 절반이 CISO 둔다…AI 확산에 역할도 ＇전사 위험관리＇로
+https://www.etnews.com/20260911000235
 
-◾ 오픈AI, 챗GPT 워크에 기업 데이터 분석 도구 ＇데이터 에이전트＇ 도입
-https://www.aitimes.com/news/articleView.html?idxno=215146
+◾ 오픈AI, ＇GPT-라이브-1＇ API 출시...〃실시간 대화 에이전트 구현〃
+https://www.aitimes.com/news/articleView.html?idxno=215145
 
-◾ 오픈AI, 월가 겨냥한 ＇금융 특화 챗GPT＇ 공개...〃기업 분석부터 보고서 생성까지〃
-https://www.aitimes.com/news/articleView.html?idxno=215141
+◾ 앤트로픽, 클로드 코드 ＇플러그인 평가＇ 공개…플러그인 성능·기여도 검증
+https://www.aitimes.com/news/articleView.html?idxno=215184
 
-◾ 퀄컴, 〃스마트폰 AI 두뇌 확 바꾼다〃…‘에이전틱 AI’ 겨냥 차세대 헥사곤 NPU 공개
-https://www.aitimes.kr/news/articleView.html?idxno=41869
+◾ 세일즈포스, ＇에이전트 난립＇ 잡는다...통합 관리 ＇트러스트 엔터프라이즈 AI 하네스＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=215190
+
+◾ 오픈AI, ＇에이전트 API＇ 공개 베타 출시...〃에이전트 구축 쉬워진다〃
+https://www.aitimes.com/news/articleView.html?idxno=215181
 
 [기관]
-◾ 국민연금, 기금운용에 LG ＇엑사원＇ 적용…기금운용 AI 전환 시동
-https://www.etnews.com/20260911000173
-
-◾ 조달청, 직원이 직접 만든 AI로 ‘조달업무 혁신’ 속도낸다… 현업 직원이 개발한 AI 서비스 7종 공개
-https://www.aitimes.kr/news/articleView.html?idxno=41875
+◾ 공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상
+https://www.etnews.com/20260911000288
 
 [해외]
-◾ “AI로 인류 멸망” 경고에…앤트로픽 “치명적 ＇모기 바이러스＇ 무기화 시도…AI 악용 차단”
-https://www.etnews.com/20260911000108
+◾ 앤트로픽의 경고 〃AI 성장 결실, 노동 아닌 자본으로 몰릴 것〃
+https://www.aitimes.com/news/articleView.html?idxno=215164
 
-◾ ＇AI 인류멸망＇ 경고에…美 의회는 “규제”·국방부는 “종말론”
-https://www.etnews.com/20260911000019
+◾ 구글, AI 도구 학습 ＇툴그래드＇ 공개...〃답부터 만들고 질문 붙여 성공률 99.8%〃
+https://www.aitimes.com/news/articleView.html?idxno=215188
 
-◾ 미국 정치권, AI 규제 법안 발의 박차...〃AI 개발자도 인류 멸종 믿어〃
-https://www.aitimes.com/news/articleView.html?idxno=215156
+◾ AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 ＇하네스데브＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=215182
 
-◾ 알트먼 〃첨단 AI 개발 속도 조절 검토…타 회사 동참 제안〃
-https://www.aitimes.com/news/articleView.html?idxno=215176
+◾ 트럼프, AI 종말론 위험 일축…〃중국 우위가 최우선〃
+https://www.aitimes.com/news/articleView.html?idxno=215185
 
-◾ 엔비디아, 팔란티어와 핵심 공급망 위한 소버린 인텔리전스 구현
-https://www.aitimes.kr/news/articleView.html?idxno=41880
+◾ “AI가 DNA의 진화를 읽었다”…UC버클리, 질병 유발 변이 찾아내는 AI ‘GPN-Star’ 개발
+https://www.aitimes.kr/news/articleView.html?idxno=41886
+
+◾ “AI가 공격 도구 넘어 공격 자체를 조율한다”...앤트로픽, 실제 AI 악용 사례 전격 공개
+https://www.aitimes.kr/news/articleView.html?idxno=41885
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
