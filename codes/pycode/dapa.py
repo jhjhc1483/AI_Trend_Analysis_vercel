@@ -3,8 +3,10 @@ from bs4 import BeautifulSoup
 import pandas as pd
 import os
 import json
-
 import itertools
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # 환경 변수에서 API 키 불러오기
 SCRAPER_API_KEY = os.environ.get('SCRAPER_API_KEY')

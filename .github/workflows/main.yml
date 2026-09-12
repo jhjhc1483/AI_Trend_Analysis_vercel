@@ -108,6 +108,10 @@ jobs:
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           SCRAPER_KEY_NAME: ${{ env.SCRAPER_KEY_NAME }}
+          SCRAPER_API_KEY: ${{ env.SCRAPER_API_KEY }}
+          KEY_1: ${{ secrets.SCRAPER_API_KEY }}
+          KEY_2: ${{ secrets.SCRAPER_API_KEY_2 }}
+          KEY_3: ${{ secrets.SCRAPER_API_KEY_3 }}
         run: |
           python codes/pycode/run_crawlers.py
 

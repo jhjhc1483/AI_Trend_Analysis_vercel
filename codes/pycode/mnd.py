@@ -11,6 +11,9 @@ import urllib.parse
 import base64
 
 import itertools
+from dotenv import load_dotenv
+
+load_dotenv()
 
 # 환경 변수에서 API 키 불러오기
 SCRAPER_API_KEY = os.environ.get('SCRAPER_API_KEY')

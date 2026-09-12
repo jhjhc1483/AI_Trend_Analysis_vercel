@@ -27,6 +27,7 @@ chrome_options.add_argument('--lang=ko_KR') # 한국어 설정
 
 service = Service(executable_path=ChromeDriverManager().install())
 driver = webdriver.Chrome(service=service, options=chrome_options)
+driver.set_page_load_timeout(30)
 
 driver.execute_script("Object.defineProperty(navigator, 'webdriver', {get: () => undefined})")
 
