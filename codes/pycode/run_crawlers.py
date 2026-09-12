@@ -5,6 +5,7 @@ import subprocess
 import re
 import argparse
 import smtplib
+import requests
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
@@ -19,7 +20,8 @@ if sys.platform == "win32":
     except Exception:
         pass
 
-load_dotenv(override=True)
+load_dotenv(override=False)
+ORIGINAL_SCRAPER_API_KEY = os.environ.get("SCRAPER_API_KEY", "")
 
 # ================= 설정 부분 =================
 SENDER_EMAIL = "aiforarmy@gmail.com"
@@ -57,6 +59,100 @@ def get_current_kst():
         return datetime.now()
 
 
+def check_scraper_api_credits(api_key):
+    """
+    ScraperAPI 계정의 잔여 크레딧 및 상태를 조회합니다.
+    (Account 조회 API는 크레딧이 전혀 차감되지 않는 무료 API입니다 - 0 credit consumption)
+    성공 시 잔여 크레딧(int), 실패 시 -1 반환
+    """
+    if not api_key:
+        return -1
+    try:
+        url = f"https://api.scraperapi.com/account?api_key={api_key.strip()}"
+        res = requests.get(url, timeout=4)
+        if res.status_code == 200:
+            data = res.json()
+            return data.get("creditsLeft", 0)
+        return -1
+    except Exception:
+        return -1
+
+
+def resolve_best_scraper_api_key():
+    """
+    현재 설정된 키와 후보 키(1번, 2번, 3번, 여분 키)의 잔여 크레딧을 점검하여,
+    크레딧이 남아있는 최적의 키를 반환합니다.
+    크레딧이 0이거나 오류인 경우 자동으로 살아있는 키로 Fallback합니다.
+    """
+    current_key = os.environ.get("SCRAPER_API_KEY", "")
+    current_name = os.environ.get("SCRAPER_KEY_NAME", "배정된 키")
+
+    # .env 파일 직접 파싱 (환경 변수 덮어쓰기 방지)
+    env_vals = {}
+    try:
+        from dotenv import dotenv_values
+        env_vals = dotenv_values()
+    except Exception:
+        pass
+
+    # 후보 키 수집 (GitHub Actions secrets 또는 .env 파일)
+    candidates = [
+        ("1번 키", os.environ.get("KEY_1") or env_vals.get("SCRAPER_API_KEY") or os.environ.get("SCRAPER_API_KEY_1")),
+        ("2번 키", os.environ.get("KEY_2") or env_vals.get("SCRAPER_API_KEY_2") or os.environ.get("SCRAPER_API_KEY_2")),
+        ("3번 키", os.environ.get("KEY_3") or env_vals.get("SCRAPER_API_KEY_3") or os.environ.get("SCRAPER_API_KEY_3")),
+        ("여분 키", env_vals.get("SCRAPER_API_KEY_Spare") or os.environ.get("SCRAPER_API_KEY_Spare")),
+    ]
+
+    valid_candidates = []
+    seen = set()
+    for name, k in candidates:
+        if k and k.strip() and k.strip() not in seen:
+            seen.add(k.strip())
+            valid_candidates.append((name, k.strip()))
+
+    if not valid_candidates:
+        return current_key, current_name
+
+    # 현재 키의 매핑 명칭 보정
+    for name, k in valid_candidates:
+        if k == current_key:
+            current_name = name
+            break
+
+    # 1. 현재 배정된 키의 잔여 크레딧 체크
+    current_credits = check_scraper_api_credits(current_key) if current_key else -1
+    if current_credits > 0:
+        return current_key, f"{current_name} (잔여: {current_credits:,}개)"
+
+    print(f"\n⚠️ [ScraperAPI 감지] {current_name}의 잔여 크레딧이 0개이거나 조회 불가(상태: {current_credits}).")
+    print("🔍 사용 가능한 대체 ScraperAPI 키 크레딧 점검 중 (계정 조회는 크레딧을 소모하지 않습니다)...")
+
+    # 2. 후보 키들 중 크레딧이 가장 많이 남은 키 탐색
+    best_key = None
+    best_name = None
+    max_credits = -1
+
+    for name, k in valid_candidates:
+        credits = check_scraper_api_credits(k)
+        if credits >= 0:
+            print(f" - {name}: {credits:,}개 잔여")
+        else:
+            print(f" - {name}: 조회 실패/비활성")
+
+        if credits > max_credits:
+            max_credits = credits
+            best_key = k
+            best_name = name
+
+    if best_key and max_credits > 0:
+        print(f"🔄 [스마트 폴백 적용] 잔여 크레딧이 가장 많은 '{best_name}'(잔여: {max_credits:,}개)로 자동 전환합니다!")
+        os.environ["SCRAPER_API_KEY"] = best_key
+        return best_key, f"{best_name} (자동 폴백, 잔여: {max_credits:,}개)"
+
+    print("⚠️ 모든 Scraper API 키의 크레딧이 소진되었거나 조회할 수 없습니다. 기존 키로 계속 진행합니다.")
+    return current_key, f"{current_name} (크레딧 부족 주의)"
+
+
 def run_single_crawler(script_name, display_name):
     """
     개별 크롤러 스크립트를 실행하고 결과를 집계합니다.
@@ -80,6 +176,8 @@ def run_single_crawler(script_name, display_name):
 
     env = os.environ.copy()
     env["PYTHONUNBUFFERED"] = "1"
+    if "SCRAPER_API_KEY" in os.environ:
+        env["SCRAPER_API_KEY"] = os.environ["SCRAPER_API_KEY"]
 
     output_lines = []
     return_code = 0
@@ -131,21 +229,44 @@ def run_single_crawler(script_name, display_name):
     if total_match:
         total_count = int(total_match.group(1))
 
-    is_success = (return_code == 0)
+    # 치명적 오류 감지 (403 Forbidden, Timeout, 전체 프로세스 에러 등)
+    critical_error_keywords = [
+        "403 Client Error",
+        "Forbidden for url",
+        "Read timed out",
+        "Connection timed out",
+        "전체 프로세스 에러",
+        "크롤링 중 오류",
+        "웹페이지 요청 중 오류 발생",
+        "웹페이지 우회 요청 중 오류 발생",
+        "Traceback (most recent call last):",
+        "HTTPConnectionPool",
+    ]
+    detected_errors = []
+    for line in output_lines:
+        if any(kw in line for kw in critical_error_keywords):
+            detected_errors.append(line.strip())
 
-    # 비정상 종료 시 에러 요약 추출
+    # [핵심] 종료 코드가 0이더라도, 치명적 오류가 출력되고 신규 수집이 0건이면 명백한 실패로 판정!
+    if return_code != 0:
+        is_success = False
+    elif detected_errors and new_count == 0:
+        is_success = False
+        if not error_summary:
+            error_summary = " | ".join(detected_errors[-2:])
+    else:
+        is_success = True
+
+    # 비정상 종료 시 에러 요약 추출 보완
     if not is_success and not error_summary:
-        # 출력 내용 중 핵심 에러/예외 문장 추출
         error_candidates = []
         for line in output_lines:
             if any(kw in line for kw in ["Error", "Exception", "Traceback", "Failed", "실패", "오류"]):
                 error_candidates.append(line.strip())
 
         if error_candidates:
-            # 마지막 주요 에러 2~3줄
             error_summary = " | ".join(error_candidates[-3:])
         elif output_lines:
-            # 마지막 출력 3줄
             error_summary = " | ".join([l.strip() for l in output_lines[-3:] if l.strip()])
         else:
             error_summary = f"비정상 종료 (종료 코드: {return_code})"
@@ -349,7 +470,8 @@ def main():
     kst_now = get_current_kst()
     kst_now_str = kst_now.strftime("%Y-%m-%d %H:%M:%S")
 
-    scraper_key_name = os.environ.get("SCRAPER_KEY_NAME", "기본 키")
+    # ScraperAPI 키 사전 점검 및 스마트 폴백 수행
+    _, scraper_key_name = resolve_best_scraper_api_key()
 
     print("=" * 60)
     print(f"🚀 AI Trend 크롤링 통합 스마트 러너 시작")

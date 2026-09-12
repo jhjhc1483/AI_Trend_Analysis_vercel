@@ -24,9 +24,9 @@ else:
 # 1. 세션 및 재시도(Retry) 설정
 session = requests.Session()
 retries = Retry(
-    total=5,            
-    backoff_factor=2,   
-    status_forcelist=[403, 500, 502, 503, 504],
+    total=2,
+    backoff_factor=1,
+    status_forcelist=[500, 502, 503, 504],  # 403(크레딧 부족/인증오류)은 재시도 제외
     raise_on_status=False
 )
 session.mount("https://", HTTPAdapter(max_retries=retries))
