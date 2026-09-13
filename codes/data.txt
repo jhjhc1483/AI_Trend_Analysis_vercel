@@ -2,21 +2,17 @@
 
 📰 오늘의 기사
 [국방]
-◾ 현대차그룹, ‘데이터 플라이휠’ 가동…Atria AI로 서울 도심 자율주행 공개
-https://www.aitimes.kr/news/articleView.html?idxno=41893
-
 ◾ 주사·수액 이상징후 실시간 분석 솔루션 ‘대상’ 영예
 https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMTAzNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 동시다발적 공중위협 군집드론으로 막는다
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTA1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 ◾ 주사·수액 이상징후 실시간 분석 솔루션 ‘대상’ 영예
 https://kookbang.dema.mil.kr/newsWeb/20260914/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FqScDb-y8Q0o4zlbP8CoPMBylww3m_BBI17VK4TbF6N6nvSyDwX6!1119777534
 
 ◾ AI가 보좌하고 인간이 결단하는 해군 지휘체계
 https://kookbang.dema.mil.kr/newsWeb/20260914/1/ATCE_CTGR_0050140000/view.do;JSESSIONID_kookbnagWEB=FqScDb-y8Q0o4zlbP8CoPMBylww3m_BBI17VK4TbF6N6nvSyDwX6!1119777534
-
-[육군]
-◾ 동시다발적 공중위협 군집드론으로 막는다
-https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTA1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
 ◾ 최태원 SK 회장, “울산 AI 데이터센터 협의, 900㎿까지 진척”
@@ -34,11 +30,24 @@ https://www.etnews.com/20260911000249
 ◾ LGD, 비개발자 출신 AI 전문가 육성 ＇AX 스쿼드＇ 확대
 https://www.etnews.com/20260911000202
 
+◾ 2028년 엔비디아, 2029년 자체 ＇아트리아 AI＇…현대차그룹, 자율주행 ＇투트랙＇ 양산 속도전
+https://www.etnews.com/20260913000001
+
+◾ 신한카드, 카드사 최초 ‘챗지피티 포 카카오’와 연계... AI 대화형 금융 서비스 선보인다
+https://www.aitimes.kr/news/articleView.html?idxno=41894
+
+◾ 현대차그룹, ‘데이터 플라이휠’ 가동…Atria AI로 서울 도심 자율주행 공개
+https://www.aitimes.kr/news/articleView.html?idxno=41893
+
+[기관]
+◾ KOSA·메가존클라우드, 도쿄서 AI·SW 기업 일본 진출 지원...현지기업과 1:1 비즈니스 상담회
+https://www.etnews.com/20260913000060
+
 ◾ 삼성전자, ＇갤럭시 AI 클래스＇ 2학기 모집…AI 윤리·활용법 신설
 https://www.etnews.com/20260913000007
 
-◾ 2028년 엔비디아, 2029년 자체 ＇아트리아 AI＇…현대차그룹, 자율주행 ＇투트랙＇ 양산 속도전
-https://www.etnews.com/20260913000001
+◾ AWS, 한국 ＇국민대·서울대·연세대＇ 포함...18개국 132개 대학에 AI 코딩 에이전트 ‘키로’ 1년 무료 제공
+https://www.aitimes.kr/news/articleView.html?idxno=41890
 
 [해외]
 ◾ AI 3대 기업 CEO “개발 속도 늦춰야”…오픈AI는 상장 연기
@@ -59,8 +68,17 @@ https://www.aitimes.com/news/articleView.html?idxno=215205
 ◾ 엔비디아, 앤트로픽 초대형 IPO에 ＇13조 앵커 투자＇ 논의
 https://www.aitimes.com/news/articleView.html?idxno=215196
 
+◾ AI 데이터센터에 발목 잡힌 오라클…매출 폭증에도 재무 부담 가중
+https://www.aitimes.com/news/articleView.html?idxno=215201
+
 ◾ 오픈AI ＇불량 에이전트＇ 루비젬스까지 해킹 시도…〃데이터 수집일 뿐〃
 https://www.aitimes.com/news/articleView.html?idxno=215199
+
+◾ 알트먼 〃2026년 상장은 시기상조…안전성 확보가 최우선 과제〃
+https://www.aitimes.com/news/articleView.html?idxno=215198
+
+◾ 아모데이 〃첨단 모델 개발 속도 줄이자〃...알트먼·머스크도 〃동의〃
+https://www.aitimes.com/news/articleView.html?idxno=215195
 
 ◾ 아모데이 CEO, AI 개발 속도 늦춰야…재귀적 자기개선·AI 에이전트 군집 위험 경고
 https://www.aitimes.kr/news/articleView.html?idxno=41891
