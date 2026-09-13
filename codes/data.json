@@ -26762,5 +26762,137 @@
       ]
     },
     "briefing": "- AI 시대의 국방 혁신을 위해 육·해·공군 간의 통합 통신망 연결 전략 수립이 필요하다는 의견이 제기되었습니다.\n- 앤트로픽은 AI가 공격 도구로 사용되는 것을 넘어, 실제 공격 자체를 조율하는 악용 사례를 공개하며 경각심을 강조했습니다.\n- 무분별한 물리적 AI 도입에 따른 피해와 소송을 방지하기 위해 시뮬레이션옵스(SimOps) 활용의 필요성이 제기되었습니다."
+  },
+  "26.09.14": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "최태원 SK 회장, “울산 AI 데이터센터 협의, 900㎿까지 진척”",
+          "link": "https://www.etnews.com/20260912000027",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "삼성, 5년된 냉장고·세탁기에도 최신 AI 접목",
+          "link": "https://www.etnews.com/20260911000182",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[김태형의 혁신의기술] 〈59〉AI 에이전트 시대, 우리는 누구에게 질문할 것인가〈중〉",
+          "link": "https://www.etnews.com/20260911000266",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "삼성자산운용, ＇섀도우 AI＇ 정보유출 막는다…新 보안체계 구축",
+          "link": "https://www.etnews.com/20260911000249",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "LGD, 비개발자 출신 AI 전문가 육성 ＇AX 스쿼드＇ 확대",
+          "link": "https://www.etnews.com/20260911000202",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "삼성전자, ＇갤럭시 AI 클래스＇ 2학기 모집…AI 윤리·활용법 신설",
+          "link": "https://www.etnews.com/20260913000007",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "2028년 엔비디아, 2029년 자체 ＇아트리아 AI＇…현대차그룹, 자율주행 ＇투트랙＇ 양산 속도전",
+          "link": "https://www.etnews.com/20260913000001",
+          "category": "민간",
+          "score": 5
+        }
+      ],
+      "해외": [
+        {
+          "title": "AI 3대 기업 CEO “개발 속도 늦춰야”…오픈AI는 상장 연기",
+          "link": "https://www.etnews.com/20260913000073",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "[뉴스줌인] 통제 이탈·자기개선까지…AI 위협 고도화에 빅테크도 ＇브레이크＇",
+          "link": "https://www.etnews.com/20260913000069",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "＇가상 초파리＇ 뇌 시뮬레이션 이색 시도 열풍…‘파리 언어모델＇까지 등장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215207",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215204",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글, 코딩 강화 위해 스타트업 메카나이즈 인재 흡수…2조원대 계약",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215205",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "엔비디아, 앤트로픽 초대형 IPO에 ＇13조 앵커 투자＇ 논의",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215196",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "오픈AI ＇불량 에이전트＇ 루비젬스까지 해킹 시도…〃데이터 수집일 뿐〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215199",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "아모데이 CEO, AI 개발 속도 늦춰야…재귀적 자기개선·AI 에이전트 군집 위험 경고",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41891",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "국방": [
+        {
+          "title": "현대차그룹, ‘데이터 플라이휠’ 가동…Atria AI로 서울 도심 자율주행 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41893",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "주사·수액 이상징후 실시간 분석 솔루션 ‘대상’ 영예",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMTAzNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "주사·수액 이상징후 실시간 분석 솔루션 ‘대상’ 영예",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260914/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FqScDb-y8Q0o4zlbP8CoPMBylww3m_BBI17VK4TbF6N6nvSyDwX6!1119777534",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "AI가 보좌하고 인간이 결단하는 해군 지휘체계",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260914/1/ATCE_CTGR_0050140000/view.do;JSESSIONID_kookbnagWEB=FqScDb-y8Q0o4zlbP8CoPMBylww3m_BBI17VK4TbF6N6nvSyDwX6!1119777534",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "육군": [
+        {
+          "title": "동시다발적 공중위협 군집드론으로 막는다",
+          "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTA1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군",
+          "score": 5
+        }
+      ]
+    }
   }
 }

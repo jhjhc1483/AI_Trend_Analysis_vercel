@@ -1,60 +1,69 @@
-📢26.09.13 AI 일일 동향📢
+📢26.09.14 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ [ET시선]AI시대, 육·해·공 통신망 연결 전략이 필요하다
-https://www.etnews.com/20260911000209
+◾ 현대차그룹, ‘데이터 플라이휠’ 가동…Atria AI로 서울 도심 자율주행 공개
+https://www.aitimes.kr/news/articleView.html?idxno=41893
+
+◾ 주사·수액 이상징후 실시간 분석 솔루션 ‘대상’ 영예
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMTAzNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 주사·수액 이상징후 실시간 분석 솔루션 ‘대상’ 영예
+https://kookbang.dema.mil.kr/newsWeb/20260914/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FqScDb-y8Q0o4zlbP8CoPMBylww3m_BBI17VK4TbF6N6nvSyDwX6!1119777534
+
+◾ AI가 보좌하고 인간이 결단하는 해군 지휘체계
+https://kookbang.dema.mil.kr/newsWeb/20260914/1/ATCE_CTGR_0050140000/view.do;JSESSIONID_kookbnagWEB=FqScDb-y8Q0o4zlbP8CoPMBylww3m_BBI17VK4TbF6N6nvSyDwX6!1119777534
+
+[육군]
+◾ 동시다발적 공중위협 군집드론으로 막는다
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTA1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
-◾ 무분별한 피지컬 AI 도입, 피해·소송 직면↑…시뮬레이션옵스(SimOps) 활용해야
-https://www.etnews.com/20260911000245
+◾ 최태원 SK 회장, “울산 AI 데이터센터 협의, 900㎿까지 진척”
+https://www.etnews.com/20260912000027
 
-◾ [무엇이든리뷰] 부동산 업데이트 된 네이버 AI탭...“실시간으로 최신 매물 찾는다”
-https://www.etnews.com/20260911000246
+◾ 삼성, 5년된 냉장고·세탁기에도 최신 AI 접목
+https://www.etnews.com/20260911000182
 
-◾ 기업 절반이 CISO 둔다…AI 확산에 역할도 ＇전사 위험관리＇로
-https://www.etnews.com/20260911000235
+◾ [김태형의 혁신의기술] 〈59〉AI 에이전트 시대, 우리는 누구에게 질문할 것인가〈중〉
+https://www.etnews.com/20260911000266
 
-[기관]
-◾ 공무원이 직접 만든 AI로 행정 혁신…전북 대통령상·광진구 총리상
-https://www.etnews.com/20260911000288
+◾ 삼성자산운용, ＇섀도우 AI＇ 정보유출 막는다…新 보안체계 구축
+https://www.etnews.com/20260911000249
+
+◾ LGD, 비개발자 출신 AI 전문가 육성 ＇AX 스쿼드＇ 확대
+https://www.etnews.com/20260911000202
+
+◾ 삼성전자, ＇갤럭시 AI 클래스＇ 2학기 모집…AI 윤리·활용법 신설
+https://www.etnews.com/20260913000007
+
+◾ 2028년 엔비디아, 2029년 자체 ＇아트리아 AI＇…현대차그룹, 자율주행 ＇투트랙＇ 양산 속도전
+https://www.etnews.com/20260913000001
 
 [해외]
-◾ 오픈AI, ＇GPT-라이브-1＇ API 출시...〃실시간 대화 에이전트 구현〃
-https://www.aitimes.com/news/articleView.html?idxno=215145
+◾ AI 3대 기업 CEO “개발 속도 늦춰야”…오픈AI는 상장 연기
+https://www.etnews.com/20260913000073
 
-◾ 앤트로픽의 경고 〃AI 성장 결실, 노동 아닌 자본으로 몰릴 것〃
-https://www.aitimes.com/news/articleView.html?idxno=215164
+◾ [뉴스줌인] 통제 이탈·자기개선까지…AI 위협 고도화에 빅테크도 ＇브레이크＇
+https://www.etnews.com/20260913000069
 
-◾ [9월11일] 실리콘밸리에서 갑자기 ‘AI 종말론’이 다시 떠오른 이유
-https://www.aitimes.com/news/articleView.html?idxno=215136
+◾ ＇가상 초파리＇ 뇌 시뮬레이션 이색 시도 열풍…‘파리 언어모델＇까지 등장
+https://www.aitimes.com/news/articleView.html?idxno=215207
 
-◾ 앤트로픽, 클로드 코드 ＇플러그인 평가＇ 공개…플러그인 성능·기여도 검증
-https://www.aitimes.com/news/articleView.html?idxno=215184
+◾ 스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결
+https://www.aitimes.com/news/articleView.html?idxno=215204
 
-◾ 구글, AI 도구 학습 ＇툴그래드＇ 공개...〃답부터 만들고 질문 붙여 성공률 99.8%〃
-https://www.aitimes.com/news/articleView.html?idxno=215188
+◾ 구글, 코딩 강화 위해 스타트업 메카나이즈 인재 흡수…2조원대 계약
+https://www.aitimes.com/news/articleView.html?idxno=215205
 
-◾ 사카나, 에이전트 오케스트레이션 ‘푸구’ 새 버전 출시…비용·성능 동시 잡았다
-https://www.aitimes.com/news/articleView.html?idxno=215186
+◾ 엔비디아, 앤트로픽 초대형 IPO에 ＇13조 앵커 투자＇ 논의
+https://www.aitimes.com/news/articleView.html?idxno=215196
 
-◾ 세일즈포스, ＇에이전트 난립＇ 잡는다...통합 관리 ＇트러스트 엔터프라이즈 AI 하네스＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=215190
+◾ 오픈AI ＇불량 에이전트＇ 루비젬스까지 해킹 시도…〃데이터 수집일 뿐〃
+https://www.aitimes.com/news/articleView.html?idxno=215199
 
-◾ AI가 하네스를 만들 수 있을까...바이트댄스, 평가 프레임워크 ＇하네스데브＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=215182
-
-◾ 오픈AI, ＇에이전트 API＇ 공개 베타 출시...〃에이전트 구축 쉬워진다〃
-https://www.aitimes.com/news/articleView.html?idxno=215181
-
-◾ 트럼프, AI 종말론 위험 일축…〃중국 우위가 최우선〃
-https://www.aitimes.com/news/articleView.html?idxno=215185
-
-◾ “AI가 DNA의 진화를 읽었다”…UC버클리, 질병 유발 변이 찾아내는 AI ‘GPN-Star’ 개발
-https://www.aitimes.kr/news/articleView.html?idxno=41886
-
-◾ “AI가 공격 도구 넘어 공격 자체를 조율한다”...앤트로픽, 실제 AI 악용 사례 전격 공개
-https://www.aitimes.kr/news/articleView.html?idxno=41885
+◾ 아모데이 CEO, AI 개발 속도 늦춰야…재귀적 자기개선·AI 에이전트 군집 위험 경고
+https://www.aitimes.kr/news/articleView.html?idxno=41891
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
