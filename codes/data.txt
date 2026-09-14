@@ -1,87 +1,148 @@
-📢26.09.14 AI 일일 동향📢
+📢26.09.15 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 주사·수액 이상징후 실시간 분석 솔루션 ‘대상’ 영예
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMTAzNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 코난테크놀로지, 25억원 규모 국방 OSINT 플랫폼 구축사업 수주
+https://www.etnews.com/20260914000352
 
-◾ 동시다발적 공중위협 군집드론으로 막는다
-https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTA1MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ HD현대중공업-ETL,  美 국방부 FCT 통과한 스텔스 도료 기술, 차세대 함정에 적용
+https://www.aitimes.kr/news/articleView.html?idxno=41907
 
-◾ 주사·수액 이상징후 실시간 분석 솔루션 ‘대상’ 영예
-https://kookbang.dema.mil.kr/newsWeb/20260914/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FqScDb-y8Q0o4zlbP8CoPMBylww3m_BBI17VK4TbF6N6nvSyDwX6!1119777534
+◾ 국방부, 군인자녀 AI 교육·체험 기회 제공
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMTA5MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ AI가 보좌하고 인간이 결단하는 해군 지휘체계
-https://kookbang.dema.mil.kr/newsWeb/20260914/1/ATCE_CTGR_0050140000/view.do;JSESSIONID_kookbnagWEB=FqScDb-y8Q0o4zlbP8CoPMBylww3m_BBI17VK4TbF6N6nvSyDwX6!1119777534
+◾ 국방부-LG유플러스, 「아이드림 챌린지 AI Plus 캠프」 개최
+https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyMTA4MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 국방부, 군인자녀 AI 교육·체험 기회 제공
+https://kookbang.dema.mil.kr/newsWeb/20260915/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Tx-hjkJJIJkShj_pb3q6xwfVnZBTFWqxoQUF-OkCq-d4Cyhwxd_b!1119777534
 
 [민간]
-◾ 최태원 SK 회장, “울산 AI 데이터센터 협의, 900㎿까지 진척”
-https://www.etnews.com/20260912000027
+◾ 젠슨 황도 찾은 NIPA·AA 협약식…엔비디아와 AI 협력 모색
+https://www.etnews.com/20260914000417
 
-◾ 삼성, 5년된 냉장고·세탁기에도 최신 AI 접목
-https://www.etnews.com/20260911000182
+◾ 원프레딕트, ＇제조 AI＇ 기술성평가 통과…연내 상장 심사 신청
+https://www.etnews.com/20260914000400
 
-◾ [김태형의 혁신의기술] 〈59〉AI 에이전트 시대, 우리는 누구에게 질문할 것인가〈중〉
-https://www.etnews.com/20260911000266
+◾ 카톡 채널 AI 상담원, 이달 말 등판 …알아서 답하는 ＇카나나 상담매니저＇ 고도화
+https://www.etnews.com/20260914000194
 
-◾ 삼성자산운용, ＇섀도우 AI＇ 정보유출 막는다…新 보안체계 구축
-https://www.etnews.com/20260911000249
+◾ 대한조선, 설계·생산·품질·안전 등 전 영역으로 AI 활용 확대
+https://www.etnews.com/20260914000339
 
-◾ LGD, 비개발자 출신 AI 전문가 육성 ＇AX 스쿼드＇ 확대
-https://www.etnews.com/20260911000202
+◾ 네이버벤처스, 美 ＇포지트론 AI＇에 신규 투자…성장 단계 스타트업 본격 발굴
+https://www.etnews.com/20260914000311
 
-◾ 2028년 엔비디아, 2029년 자체 ＇아트리아 AI＇…현대차그룹, 자율주행 ＇투트랙＇ 양산 속도전
-https://www.etnews.com/20260913000001
+◾ SK텔레콤, AI 개발자 지원 플랫폼 ＇에이닷 콘솔＇ 띄운다
+https://www.etnews.com/20260911000297
 
-◾ 신한카드, 카드사 최초 ‘챗지피티 포 카카오’와 연계... AI 대화형 금융 서비스 선보인다
-https://www.aitimes.kr/news/articleView.html?idxno=41894
+◾ LG AI연구원, 자율 실험실·로봇으로 산업 현장 바꾼다
+https://www.etnews.com/20260914000264
 
-◾ 현대차그룹, ‘데이터 플라이휠’ 가동…Atria AI로 서울 도심 자율주행 공개
-https://www.aitimes.kr/news/articleView.html?idxno=41893
+◾ AI 에이전트로 ＇팀＇ 구성…한컴, 세계 최초 AI 워크포스 플랫폼 ＇노마디안＇ 출시
+https://www.etnews.com/20260914000253
+
+◾ 위즈코어, KRAIN 2026서 피지컬 AI 기반제조 자율 운영 모델 소개
+https://www.etnews.com/20260914000187
+
+◾ 위드네트웍스 ＇호크아이＇, 와이파이 AP를 AI 보안센서로…무선 위협 실시간 대응
+https://www.etnews.com/20260913000041
+
+◾ 코그니션, 키미 K3 기반 코딩 모델 ＇SWE-2＇ 출시...〃페이블 5.1 맞먹는 성능〃
+https://www.aitimes.com/news/articleView.html?idxno=215233
+
+◾ 업스테이지, ‘솔라 미니 4’ 무료 프리뷰 공개…“프로급 성능 구현”
+https://www.aitimes.com/news/articleView.html?idxno=215245
+
+◾ 업스테이지, 엔비디아 본사 방문…GPU 지원 등 5개 안건 논의
+https://www.aitimes.com/news/articleView.html?idxno=215244
+
+◾ “2분기 연속 흑자” 앤트로픽, 2조달러 IPO 앞두고 수익성 입증
+https://www.aitimes.com/news/articleView.html?idxno=215223
+
+◾ 앤트로픽, NYSE 대신 나스닥 선택…스페이스X 이어 초대형 기술주 상장
+https://www.aitimes.com/news/articleView.html?idxno=215220
+
+◾ 와이즈넛, 대화로 만드는 AI 에이전트 공개…“기능 수정·추가도 손쉽게”
+https://www.aitimes.com/news/articleView.html?idxno=215238
+
+◾ 〃3D 사무실서 일하는 AI 에이전트〃...한컴, 워크포스 플랫폼 ＇노마디안＇ 선보여
+https://www.aitimes.com/news/articleView.html?idxno=215228
+
+◾ 공간AI 기업 메이사, ‘스케일업 팁스 R&D’ 선정… 3D 공간기술로 비GPS 항법 시장 진출
+https://www.aitimes.kr/news/articleView.html?idxno=41908
+
+◾ LG AI연구원, 제조·금융·과학 ‘전문가 AI’ 공개…자율공장부터 신소재·신약·금융 예측까지
+https://www.aitimes.kr/news/articleView.html?idxno=41904
+
+◾ 딥엑스, 저전력 AI 추론 기술 ‘녹색기술’ 인증 획득...전력 소모 최대 26% 절감, 동작 온도도 20도 이상 낮춰
+https://www.aitimes.kr/news/articleView.html?idxno=41902
+
+◾ LG디스플레이, AI전문가 육성 위한 ‘AX 스쿼드’ 확대...AI 내재화 통한 기술 중심 회사 전환
+https://www.aitimes.kr/news/articleView.html?idxno=41900
 
 [기관]
-◾ KOSA·메가존클라우드, 도쿄서 AI·SW 기업 일본 진출 지원...현지기업과 1:1 비즈니스 상담회
-https://www.etnews.com/20260913000060
+◾ 항우연, 연구·행정 전반 AI 전환 본격화…＇KARI BRAIN＇ 구축
+https://www.etnews.com/20260914000426
 
-◾ 삼성전자, ＇갤럭시 AI 클래스＇ 2학기 모집…AI 윤리·활용법 신설
-https://www.etnews.com/20260913000007
+◾ 과기정통부, 31개 AI 스타트업 실리콘밸리 진출·협력 타진
+https://www.etnews.com/20260914000379
 
-◾ AWS, 한국 ＇국민대·서울대·연세대＇ 포함...18개국 132개 대학에 AI 코딩 에이전트 ‘키로’ 1년 무료 제공
-https://www.aitimes.kr/news/articleView.html?idxno=41890
+◾ 지케스, ＇99파트너데이 2026＇ 개최… AI관제·AI공공안전 중심 미래 전략 제시
+https://www.etnews.com/20260914000189
+
+◾ 한-중앙아시아 미래 인공지능·과학기술 동반관계((파트너십) 장관회의 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187773&searchOpt=ALL&searchTxt=
+
+◾ “위성사진 속 건물 하나가 바뀌었다, AI는 알아챌까?”...GIST, AI 문맥 인식 및 영상 이해도 검증 기준 개발
+https://www.aitimes.kr/news/articleView.html?idxno=41899
+
+◾ 사이버 위협 대응 역량 및 보안 주권 강화...S2W, 정부 주도 ‘보안 특화 AI 파운데이션 모델’ 개발 사업 참여
+https://www.aitimes.kr/news/articleView.html?idxno=41897
 
 [해외]
-◾ AI 3대 기업 CEO “개발 속도 늦춰야”…오픈AI는 상장 연기
-https://www.etnews.com/20260913000073
+◾ [이슈플러스] AGI 향해 질주하는 AI…속도조절론 속 한국 해법은 ＇안전한 가속＇
+https://www.etnews.com/20260914000272
 
-◾ [뉴스줌인] 통제 이탈·자기개선까지…AI 위협 고도화에 빅테크도 ＇브레이크＇
-https://www.etnews.com/20260913000069
+◾ [이슈플러스]AI 속도 조절에 갈린 美 정치권…中은 “글로벌 진전 가로막을 것”
+https://www.etnews.com/20260914000269
 
-◾ ＇가상 초파리＇ 뇌 시뮬레이션 이색 시도 열풍…‘파리 언어모델＇까지 등장
-https://www.aitimes.com/news/articleView.html?idxno=215207
+◾ 골드만삭스, 휴머노이드 전망 3배 이상 상향…＇실험＇에서 ＇양산＇으로
+https://www.etnews.com/20260914000236
 
-◾ 스페이스X, 미공개 고객과 월 1.5조 규모 컴퓨팅 계약 체결
-https://www.aitimes.com/news/articleView.html?idxno=215204
+◾ AI 속도조절론에 트럼프 “유지”·오바마 “통제”...핵심 선거 의제 부상
+https://www.etnews.com/20260914000004
 
-◾ 구글, 코딩 강화 위해 스타트업 메카나이즈 인재 흡수…2조원대 계약
-https://www.aitimes.com/news/articleView.html?idxno=215205
+◾ 美 NSA AI·中 등 5개 조직 신설...사이버 안보 대응 전력 강화
+https://www.etnews.com/20260914000003
 
-◾ 엔비디아, 앤트로픽 초대형 IPO에 ＇13조 앵커 투자＇ 논의
-https://www.aitimes.com/news/articleView.html?idxno=215196
+◾ 중국 ＇키미＇, 클로드 무단 우회 연결 파문…안보·기업 기밀 유출 논란
+https://www.aitimes.com/news/articleView.html?idxno=215229
 
-◾ AI 데이터센터에 발목 잡힌 오라클…매출 폭증에도 재무 부담 가중
-https://www.aitimes.com/news/articleView.html?idxno=215201
+◾ 시진핑, 브릭스 중심 ＇AI 오픈소스 동맹＇ 제안...〃미국 독점 견제〃
+https://www.aitimes.com/news/articleView.html?idxno=215225
 
-◾ 오픈AI ＇불량 에이전트＇ 루비젬스까지 해킹 시도…〃데이터 수집일 뿐〃
-https://www.aitimes.com/news/articleView.html?idxno=215199
+◾ 나델라 CEO, “슈퍼인텔리전스, 인간 통제 벗어나면 추구할 가치 없다”…AI 주도권 독점 경고
+https://www.aitimes.kr/news/articleView.html?idxno=41910
 
-◾ 알트먼 〃2026년 상장은 시기상조…안전성 확보가 최우선 과제〃
-https://www.aitimes.com/news/articleView.html?idxno=215198
+◾ 샘 올트먼, “AI 개발 멈추자는 것 아니다”…프런티어 AI ‘속도 조절’ 공개 선언
+https://www.aitimes.kr/news/articleView.html?idxno=41906
 
-◾ 아모데이 〃첨단 모델 개발 속도 줄이자〃...알트먼·머스크도 〃동의〃
-https://www.aitimes.com/news/articleView.html?idxno=215195
+◾ 허사비스, “AGI 몇 년 안에 온다, 산업혁명보다 10배 큰 변화·10배 빠르게〃...프런티어 AI 표준기구 제시
+https://www.aitimes.kr/news/articleView.html?idxno=41905
 
-◾ 아모데이 CEO, AI 개발 속도 늦춰야…재귀적 자기개선·AI 에이전트 군집 위험 경고
-https://www.aitimes.kr/news/articleView.html?idxno=41891
+📚 간행물
+◾ Market Insight 417 : 금융 양자컴퓨팅(Quantum Computing in...
+https://astinet.kr/reports/market-insights/750668
+
+◾ [제1307호] AI 신뢰성과 블록체인
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1307%ED%98%B8%5D%20AI%20%EC%8B%A0%EB%A2%B0%EC%84%B1%EA%B3%BC%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8
+
+◾ 2026년 정보통신산업진흥에 관한 연차보고서 [국문]
+https://www.iitp.kr/web/lay1/bbs/S1T62C70/A/21/view.do?article_seq=4578&sort=latest&cpage=1&rows=10
+
+◾ [법제동향] '26년 상반기 국내 입법동향
+https://www.kisa.or.kr/20201/form?postSeq=294&page=1
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
