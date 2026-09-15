@@ -1,161 +1,161 @@
-📢26.09.15 AI 일일 동향📢
+📢26.09.16 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 코난테크놀로지, 25억원 규모 국방 OSINT 플랫폼 구축사업 수주
-https://www.etnews.com/20260914000352
+◾ AI·AX 활용 우주항공력 발전 모색
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTE2NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ HD현대중공업-ETL,  美 국방부 FCT 통과한 스텔스 도료 기술, 차세대 함정에 적용
-https://www.aitimes.kr/news/articleView.html?idxno=41907
+◾ AI·AX 활용 우주항공력 발전 모색
+https://kookbang.dema.mil.kr/newsWeb/20260916/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=0nimjW8pCRFxxRzEYwHiiQcisZ0GRMGz3pEe5ihap1ebBS_o4-3x!-172114094
 
-◾ 사이버 위협 대응 역량 및 보안 주권 강화...S2W, 정부 주도 ‘보안 특화 AI 파운데이션 모델’ 개발 사업 참여
-https://www.aitimes.kr/news/articleView.html?idxno=41897
-
-◾ 국방부, 군인자녀 AI 교육·체험 기회 제공
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMTA5MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 국방부-LG유플러스, 「아이드림 챌린지 AI Plus 캠프」 개최
-https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyMTA4MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 국방부, 군인자녀 AI 교육·체험 기회 제공
-https://kookbang.dema.mil.kr/newsWeb/20260915/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Tx-hjkJJIJkShj_pb3q6xwfVnZBTFWqxoQUF-OkCq-d4Cyhwxd_b!1119777534
-
-◾ 몇 시간을 몇 초로…결심이 빨라질 때 생기는 일
-https://kookbang.dema.mil.kr/newsWeb/20260915/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=Tx-hjkJJIJkShj_pb3q6xwfVnZBTFWqxoQUF-OkCq-d4Cyhwxd_b!1119777534
+[육군]
+◾ 디지털 전환 시대, 육군 학교 교육이 갈 곳은…
+https://kookbang.dema.mil.kr/newsWeb/20260916/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=0nimjW8pCRFxxRzEYwHiiQcisZ0GRMGz3pEe5ihap1ebBS_o4-3x!-172114094
 
 [민간]
-◾ 젠슨 황도 찾은 NIPA·AA 협약식…엔비디아와 AI 협력 모색
-https://www.etnews.com/20260914000417
+◾ 에퀴닉스, 에이전틱 AI 대응 네트워크 자동화…국내 데이터센터도 확충
+https://www.etnews.com/20260915000431
 
-◾ 원프레딕트, ＇제조 AI＇ 기술성평가 통과…연내 상장 심사 신청
-https://www.etnews.com/20260914000400
+◾ 시큐아이, 30일 AI 보안 콘퍼런스 개최…신기술·고객 사례 공개
+https://www.etnews.com/20260915000430
 
-◾ 카톡 채널 AI 상담원, 이달 말 등판 …알아서 답하는 ＇카나나 상담매니저＇ 고도화
-https://www.etnews.com/20260914000194
+◾ 아이비즈소프트웨어, 제약·바이오 제조현장 ＇암묵지＇ AI 자산화 본격 추진
+https://www.etnews.com/20260915000399
 
-◾ 대한조선, 설계·생산·품질·안전 등 전 영역으로 AI 활용 확대
-https://www.etnews.com/20260914000339
+◾ 다이퀘스트·유엔이·컨포트랩, 팩토리 AX 플랫폼 ＇알로＇ 공동 사업화...사라지는 제조 현장의 경험, AI가 이어받는다
+https://www.etnews.com/20260915000380
 
-◾ 네이버벤처스, 美 ＇포지트론 AI＇에 신규 투자…성장 단계 스타트업 본격 발굴
-https://www.etnews.com/20260914000311
+◾ [IT리더스포럼]유회준 카이스트 교수, “NPU 다음은 PIM·뉴로모픽…AI반도체 진화”
+https://www.etnews.com/20260915000326
 
-◾ SK텔레콤, AI 개발자 지원 플랫폼 ＇에이닷 콘솔＇ 띄운다
-https://www.etnews.com/20260911000297
+◾ GC메디아이 ＇의사랑 AI＇ 출시 3주 만에 의료기관 1천곳 확보
+https://www.etnews.com/20260915000355
 
-◾ LG AI연구원, 자율 실험실·로봇으로 산업 현장 바꾼다
-https://www.etnews.com/20260914000264
+◾ 솔트룩스, 천경해운 AX 교육 실시…AI 업무혁신 과제 발굴
+https://www.etnews.com/20260915000341
 
-◾ AI 에이전트로 ＇팀＇ 구성…한컴, 세계 최초 AI 워크포스 플랫폼 ＇노마디안＇ 출시
-https://www.etnews.com/20260914000253
+◾ 신한은행, KS-CQI 12년 연속 수상…전화상담·AI보이스봇 석권
+https://www.etnews.com/20260915000337
 
-◾ 딥엑스, 저전력 AI 추론 기술 ＇녹색기술＇ 인증 획득
-https://www.etnews.com/20260914000238
+◾ 카카오, AI 앱 ＇카나나＇ 내달 종료…카카오톡 AI에 집중
+https://www.etnews.com/20260915000317
 
-◾ 위즈코어, KRAIN 2026서 피지컬 AI 기반제조 자율 운영 모델 소개
-https://www.etnews.com/20260914000187
+◾ [르포]SK이노, 울산CLX에 ＇듀얼 브레인＇ 적용…2030년 ＇AI 중심 조직＇ 전환
+https://www.etnews.com/20260915000040
 
-◾ 위드네트웍스 ＇호크아이＇, 와이파이 AP를 AI 보안센서로…무선 위협 실시간 대응
-https://www.etnews.com/20260913000041
+◾ kt클라우드 AIDC 1GW 추가 공급...＇AX 인프라 파트너＇로 도약
+https://www.etnews.com/20260915000192
 
-◾ 코그니션, 키미 K3 기반 코딩 모델 ＇SWE-2＇ 출시...〃페이블 5.1 맞먹는 성능〃
-https://www.aitimes.com/news/articleView.html?idxno=215233
+◾ AI 상담 고도화 SKT·KT·LGU+, 콜센터품질지수 최우수
+https://www.etnews.com/20260915000136
 
-◾ 텐센트, 음성 생성·편집 모델 ＇AuK＇ 공개...〃오디오용 나노바나나〃
-https://www.aitimes.com/news/articleView.html?idxno=215235
+◾ 조폐공사, 경영진도 ＇바이브 코딩＇…AI로 일하는 조직 만든다
+https://www.etnews.com/20260915000123
 
-◾ 업스테이지, ‘솔라 미니 4’ 무료 프리뷰 공개…“프로급 성능 구현”
-https://www.aitimes.com/news/articleView.html?idxno=215245
+◾ 라이너, AI 질문 토큰 비용 50% 절감 ＇모델 API＇ 출시
+https://www.etnews.com/20260915000097
 
-◾ 프린스턴대, 이전 계산 결과 이어서 토큰 생성하는 ＇순환 루프 변환기＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=215227
+◾ 체크포인트, 기존 방화벽에 AI 보안 통합…MCP까지 탐지·제어
+https://www.etnews.com/20260915000054
 
-◾ “2분기 연속 흑자” 앤트로픽, 2조달러 IPO 앞두고 수익성 입증
-https://www.aitimes.com/news/articleView.html?idxno=215223
+◾ SKT, AI 에이전트 업무 ＇문자＇로 승인…RCS 표준화 주도
+https://www.etnews.com/20260915000036
 
-◾ 앤트로픽, NYSE 대신 나스닥 선택…스페이스X 이어 초대형 기술주 상장
-https://www.aitimes.com/news/articleView.html?idxno=215220
+◾ 〃탈모약 개발·암 진단·주식 투자도 AI로〃...LG, 전문가 AI로 승부수
+https://www.aitimes.com/news/articleView.html?idxno=215257
 
-◾ 와이즈넛, 대화로 만드는 AI 에이전트 공개…“기능 수정·추가도 손쉽게”
-https://www.aitimes.com/news/articleView.html?idxno=215238
+◾ 오픈AI, ＇아이폰 카메라 기술＇ 개발한 스타트업 인수…AI 하드웨어 박차
+https://www.aitimes.com/news/articleView.html?idxno=215285
 
-◾ 〃3D 사무실서 일하는 AI 에이전트〃...한컴, 워크포스 플랫폼 ＇노마디안＇ 선보여
-https://www.aitimes.com/news/articleView.html?idxno=215228
+◾ 〃독점 정보 유출 막아라〃...엔비디아·팔란티어, 첨단 AI 모델 도입 축소
+https://www.aitimes.com/news/articleView.html?idxno=215294
 
-◾ 공간AI 기업 메이사, ‘스케일업 팁스 R&D’ 선정… 3D 공간기술로 비GPS 항법 시장 진출
-https://www.aitimes.kr/news/articleView.html?idxno=41908
+◾ “AI 에이전트가 상호 거래·정산까지”...카카오페이 자율결제 실증 완료
+https://www.aitimes.com/news/articleView.html?idxno=215311
 
-◾ LG AI연구원, 제조·금융·과학 ‘전문가 AI’ 공개…자율공장부터 신소재·신약·금융 예측까지
-https://www.aitimes.kr/news/articleView.html?idxno=41904
+◾ MS, ＇인본주의적 AI 행동 강령＇ 공개...〃AI는 인간에게 종속돼야〃
+https://www.aitimes.com/news/articleView.html?idxno=215268
 
-◾ 딥엑스, 저전력 AI 추론 기술 ‘녹색기술’ 인증 획득...전력 소모 최대 26% 절감, 동작 온도도 20도 이상 낮춰
-https://www.aitimes.kr/news/articleView.html?idxno=41902
+◾ 유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입
+https://www.aitimes.kr/news/articleView.html?idxno=41929
 
-◾ LG디스플레이, AI전문가 육성 위한 ‘AX 스쿼드’ 확대...AI 내재화 통한 기술 중심 회사 전환
-https://www.aitimes.kr/news/articleView.html?idxno=41900
+◾ “AI 데이터센터, 폐열 재활용하면 최대 비용 48%·온실가스 72% ↓”
+https://www.aitimes.kr/news/articleView.html?idxno=41925
 
-◾ 한컴, 세계 최초 AI 워크포스 플랫폼 ＇노마디안＇...3D 업무 공간에 AI 직원 및 팀 구현
-https://www.aitimes.kr/news/articleView.html?idxno=41896
+◾ 애플, AI로 완전히 다시 만든 ‘시리 AI’ 공개…‘질문에 답하는 시리’에서 ‘일을 처리하는 AI’로
+https://www.aitimes.kr/news/articleView.html?idxno=41918
 
 [기관]
-◾ 항우연, 연구·행정 전반 AI 전환 본격화…＇KARI BRAIN＇ 구축
-https://www.etnews.com/20260914000426
+◾ 한국SW·ICT총연합회, 운영위원회 개최…SW·AI 산업 현안 공동 대응
+https://www.etnews.com/20260915000409
 
-◾ 과기정통부, 31개 AI 스타트업 실리콘밸리 진출·협력 타진
-https://www.etnews.com/20260914000379
+◾ 빅테크 AI, 먹통 돼도 보상규정 없다
+https://www.etnews.com/20260915000330
 
-◾ GIST, AI 문맥 인식·영상 이해도 검증 기준 개발
-https://www.etnews.com/20260914000172
+◾ [단독]건양대병원, 자체 AI 데이터센터 구축…최대 200억원 투입
+https://www.etnews.com/20260915000312
 
-◾ 한-중앙아시아 미래 인공지능·과학기술 동반관계((파트너십) 장관회의 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187773&searchOpt=ALL&searchTxt=
+◾ 수은, 우즈베키스탄과 전략적 사업발굴 MOU…핵심광물·AI 등 6대 분야 협력
+https://www.etnews.com/20260915000323
 
-◾ “위성사진 속 건물 하나가 바뀌었다, AI는 알아챌까?”...GIST, AI 문맥 인식 및 영상 이해도 검증 기준 개발
-https://www.aitimes.kr/news/articleView.html?idxno=41899
+◾ AI로 취약점 찾는다…KISA, 정보보호 기업 지원 강화
+https://www.etnews.com/20260915000059
+
+◾ 노르마, 제3회 글로벌 퀀텀 AI 경진대회 시상식 개최 “서울대팀 대상···총 6개팀에 상금 1500만원 수여”
+https://www.etnews.com/20260915000274
+
+◾ 정부, AI 가스안전 혁신·합리적 규제 ＇속도＇
+https://www.etnews.com/20260915000219
+
+◾ UNIST, AI데이터센터 친환경 저비용 설계 제안
+https://www.etnews.com/20260915000125
+
+◾ 국내 AI 업계, ＇속도 조절론＇에 〃취지 공감하나 규제 투명성 확보돼야〃
+https://www.aitimes.com/news/articleView.html?idxno=215251
+
+◾ 인공지능으I로 전세사기 위험 미리 진단한다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187777&searchOpt=ALL&searchTxt=
+
+◾ 산불 대피길 찾고 반복 민원 예측...행안부, AI로 ‘한발 앞선 행정’ 추진
+https://www.aitimes.kr/news/articleView.html?idxno=41932
 
 [해외]
-◾ [이슈플러스]AI 속도 조절에 갈린 美 정치권…中은 “글로벌 진전 가로막을 것”
-https://www.etnews.com/20260914000269
+◾ 젠슨 황, 트럼프와 공개 통화…“AI 종말론은 사기” 공감
+https://www.etnews.com/20260915000444
 
-◾ 골드만삭스, 휴머노이드 전망 3배 이상 상향…＇실험＇에서 ＇양산＇으로
-https://www.etnews.com/20260914000236
+◾ EU, 15세 미만 SNS·AI 챗봇 이용 제한 추진
+https://www.etnews.com/20260915000436
 
-◾ AI 속도조절론에 트럼프 “유지”·오바마 “통제”...핵심 선거 의제 부상
-https://www.etnews.com/20260914000004
+◾ [테크 차이나] 中 AI 앱 시장, 월간 사용자 5.77억명…동반·교육형 AI가 뜬다
+https://www.etnews.com/20260915000199
 
-◾ 美 NSA AI·中 등 5개 조직 신설...사이버 안보 대응 전력 강화
-https://www.etnews.com/20260914000003
+◾ 오라클, 2만명 감원 이어 또다시 해고…AI 투자·활용 여파
+https://www.etnews.com/20260915000058
 
-◾ 중국 ＇키미＇, 클로드 무단 우회 연결 파문…안보·기업 기밀 유출 논란
-https://www.aitimes.com/news/articleView.html?idxno=215229
+◾ [인터뷰] 비욘 호브란드 CIQ 사장 “AI 인프라 경쟁력, GPU 아닌 운영체제부터 결정된다”
+https://www.etnews.com/20260910000389
 
-◾ 시진핑, 브릭스 중심 ＇AI 오픈소스 동맹＇ 제안...〃미국 독점 견제〃
-https://www.aitimes.com/news/articleView.html?idxno=215225
+◾ 앤트로픽 ＇페이블 5.1＇, 370년 미해결 난제 암호 44분 만에 풀었다
+https://www.aitimes.com/news/articleView.html?idxno=215301
 
-◾ 나델라 CEO, “슈퍼인텔리전스, 인간 통제 벗어나면 추구할 가치 없다”…AI 주도권 독점 경고
-https://www.aitimes.kr/news/articleView.html?idxno=41910
+◾ 중국 연구진, ＇스스로 진화하는 AI＇ 5단계 구분법 공개...〃현재는 2단계 수준〃
+https://www.aitimes.com/news/articleView.html?idxno=215284
 
-◾ 샘 올트먼, “AI 개발 멈추자는 것 아니다”…프런티어 AI ‘속도 조절’ 공개 선언
-https://www.aitimes.kr/news/articleView.html?idxno=41906
+◾ 〃뇌처럼 학습한다〃…사카나 AI, 역전파 대체 기술 ＇PC-ALM＇ 발표
+https://www.aitimes.com/news/articleView.html?idxno=215305
 
-◾ 허사비스, “AGI 몇 년 안에 온다, 산업혁명보다 10배 큰 변화·10배 빠르게〃...프런티어 AI 표준기구 제시
-https://www.aitimes.kr/news/articleView.html?idxno=41905
+◾ 알로이드, 영국 국방부와 7개월 만에 터보제트엔진 띄웠다… ‘디지털 제조’ 속도전
+https://www.aitimes.kr/news/articleView.html?idxno=41936
 
-[기타]
-◾ [이슈플러스] AGI 향해 질주하는 AI…속도조절론 속 한국 해법은 ＇안전한 가속＇
-https://www.etnews.com/20260914000272
+◾ 생성형 AI의 치명적 약점 해결…MIT, 안전 규칙 지키는 AI 기술 ‘하드플로우’가 안전선 지킨다
+https://www.aitimes.kr/news/articleView.html?idxno=41922
 
 📚 간행물
-◾ Market Insight 417 : 금융 양자컴퓨팅(Quantum Computing in...
-https://astinet.kr/reports/market-insights/750668
+◾ 2026년 8월 정보통신산업(ICT) 수출입 동향
+https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260915-000002&cpage=1&rows=10&searchTarget=all
 
-◾ [제1307호] AI 신뢰성과 블록체인
-https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1307%ED%98%B8%5D%20AI%20%EC%8B%A0%EB%A2%B0%EC%84%B1%EA%B3%BC%20%EB%B8%94%EB%A1%9D%EC%B2%B4%EC%9D%B8
-
-◾ 2026년 정보통신산업진흥에 관한 연차보고서 [국문]
-https://www.iitp.kr/web/lay1/bbs/S1T62C70/A/21/view.do?article_seq=4578&sort=latest&cpage=1&rows=10
-
-◾ [법제동향] '26년 상반기 국내 입법동향
-https://www.kisa.or.kr/20201/form?postSeq=294&page=1
+◾ 2025년 인공지능산업 실태조사
+https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260915-000001&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
