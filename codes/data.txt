@@ -5,6 +5,9 @@
 ◾ AI·AX 활용 우주항공력 발전 모색
 https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTE2NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
+◾ 수직이착륙 무인항공기 국내 개발 착수
+https://kookbang.dema.mil.kr/newsWeb/20260916/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=0nimjW8pCRFxxRzEYwHiiQcisZ0GRMGz3pEe5ihap1ebBS_o4-3x!-172114094
+
 ◾ AI·AX 활용 우주항공력 발전 모색
 https://kookbang.dema.mil.kr/newsWeb/20260916/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=0nimjW8pCRFxxRzEYwHiiQcisZ0GRMGz3pEe5ihap1ebBS_o4-3x!-172114094
 
@@ -13,29 +16,23 @@ https://kookbang.dema.mil.kr/newsWeb/20260916/1/ATCE_CTGR_0010050000/view.do;JSE
 https://kookbang.dema.mil.kr/newsWeb/20260916/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=0nimjW8pCRFxxRzEYwHiiQcisZ0GRMGz3pEe5ihap1ebBS_o4-3x!-172114094
 
 [민간]
+◾ 젠슨 황, 트럼프와 공개 통화…“AI 종말론은 사기” 공감
+https://www.etnews.com/20260915000444
+
 ◾ 에퀴닉스, 에이전틱 AI 대응 네트워크 자동화…국내 데이터센터도 확충
 https://www.etnews.com/20260915000431
 
 ◾ 시큐아이, 30일 AI 보안 콘퍼런스 개최…신기술·고객 사례 공개
 https://www.etnews.com/20260915000430
 
-◾ 아이비즈소프트웨어, 제약·바이오 제조현장 ＇암묵지＇ AI 자산화 본격 추진
-https://www.etnews.com/20260915000399
+◾ [단독]건양대병원, 자체 AI 데이터센터 구축…최대 200억원 투입
+https://www.etnews.com/20260915000312
 
 ◾ 다이퀘스트·유엔이·컨포트랩, 팩토리 AX 플랫폼 ＇알로＇ 공동 사업화...사라지는 제조 현장의 경험, AI가 이어받는다
 https://www.etnews.com/20260915000380
 
 ◾ [IT리더스포럼]유회준 카이스트 교수, “NPU 다음은 PIM·뉴로모픽…AI반도체 진화”
 https://www.etnews.com/20260915000326
-
-◾ GC메디아이 ＇의사랑 AI＇ 출시 3주 만에 의료기관 1천곳 확보
-https://www.etnews.com/20260915000355
-
-◾ 솔트룩스, 천경해운 AX 교육 실시…AI 업무혁신 과제 발굴
-https://www.etnews.com/20260915000341
-
-◾ 신한은행, KS-CQI 12년 연속 수상…전화상담·AI보이스봇 석권
-https://www.etnews.com/20260915000337
 
 ◾ 카카오, AI 앱 ＇카나나＇ 내달 종료…카카오톡 AI에 집중
 https://www.etnews.com/20260915000317
@@ -46,17 +43,11 @@ https://www.etnews.com/20260915000040
 ◾ kt클라우드 AIDC 1GW 추가 공급...＇AX 인프라 파트너＇로 도약
 https://www.etnews.com/20260915000192
 
-◾ AI 상담 고도화 SKT·KT·LGU+, 콜센터품질지수 최우수
-https://www.etnews.com/20260915000136
-
-◾ 조폐공사, 경영진도 ＇바이브 코딩＇…AI로 일하는 조직 만든다
-https://www.etnews.com/20260915000123
-
 ◾ 라이너, AI 질문 토큰 비용 50% 절감 ＇모델 API＇ 출시
 https://www.etnews.com/20260915000097
 
-◾ 체크포인트, 기존 방화벽에 AI 보안 통합…MCP까지 탐지·제어
-https://www.etnews.com/20260915000054
+◾ AI 시대 새로운 공격 표적 ＇API Key＇…기업 키 관리체계 중요성 커진다
+https://www.etnews.com/20260915000044
 
 ◾ SKT, AI 에이전트 업무 ＇문자＇로 승인…RCS 표준화 주도
 https://www.etnews.com/20260915000036
@@ -67,9 +58,6 @@ https://www.aitimes.com/news/articleView.html?idxno=215257
 ◾ 오픈AI, ＇아이폰 카메라 기술＇ 개발한 스타트업 인수…AI 하드웨어 박차
 https://www.aitimes.com/news/articleView.html?idxno=215285
 
-◾ 〃독점 정보 유출 막아라〃...엔비디아·팔란티어, 첨단 AI 모델 도입 축소
-https://www.aitimes.com/news/articleView.html?idxno=215294
-
 ◾ “AI 에이전트가 상호 거래·정산까지”...카카오페이 자율결제 실증 완료
 https://www.aitimes.com/news/articleView.html?idxno=215311
 
@@ -79,36 +67,24 @@ https://www.aitimes.com/news/articleView.html?idxno=215268
 ◾ 유니버설 로봇, AI 시대 겨냥한 7세대 공개…‘물리적 AI’ 산업 현장 투입
 https://www.aitimes.kr/news/articleView.html?idxno=41929
 
-◾ “AI 데이터센터, 폐열 재활용하면 최대 비용 48%·온실가스 72% ↓”
-https://www.aitimes.kr/news/articleView.html?idxno=41925
+◾ 시티아이랩, 현대건설 본사에 멀티모달 AI 융복합 기반 전기차 화재 예측 솔루션 구축
+https://www.aitimes.kr/news/articleView.html?idxno=41921
 
 ◾ 애플, AI로 완전히 다시 만든 ‘시리 AI’ 공개…‘질문에 답하는 시리’에서 ‘일을 처리하는 AI’로
 https://www.aitimes.kr/news/articleView.html?idxno=41918
 
 [기관]
-◾ 한국SW·ICT총연합회, 운영위원회 개최…SW·AI 산업 현안 공동 대응
-https://www.etnews.com/20260915000409
-
 ◾ 빅테크 AI, 먹통 돼도 보상규정 없다
 https://www.etnews.com/20260915000330
 
-◾ [단독]건양대병원, 자체 AI 데이터센터 구축…최대 200억원 투입
-https://www.etnews.com/20260915000312
-
-◾ 수은, 우즈베키스탄과 전략적 사업발굴 MOU…핵심광물·AI 등 6대 분야 협력
-https://www.etnews.com/20260915000323
+◾ KISA, 현대차·기아와 車 사이버 침해사고 모의훈련
+https://www.etnews.com/20260915000039
 
 ◾ AI로 취약점 찾는다…KISA, 정보보호 기업 지원 강화
 https://www.etnews.com/20260915000059
 
 ◾ 노르마, 제3회 글로벌 퀀텀 AI 경진대회 시상식 개최 “서울대팀 대상···총 6개팀에 상금 1500만원 수여”
 https://www.etnews.com/20260915000274
-
-◾ 정부, AI 가스안전 혁신·합리적 규제 ＇속도＇
-https://www.etnews.com/20260915000219
-
-◾ UNIST, AI데이터센터 친환경 저비용 설계 제안
-https://www.etnews.com/20260915000125
 
 ◾ 국내 AI 업계, ＇속도 조절론＇에 〃취지 공감하나 규제 투명성 확보돼야〃
 https://www.aitimes.com/news/articleView.html?idxno=215251
@@ -120,9 +96,6 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 https://www.aitimes.kr/news/articleView.html?idxno=41932
 
 [해외]
-◾ 젠슨 황, 트럼프와 공개 통화…“AI 종말론은 사기” 공감
-https://www.etnews.com/20260915000444
-
 ◾ EU, 15세 미만 SNS·AI 챗봇 이용 제한 추진
 https://www.etnews.com/20260915000436
 
