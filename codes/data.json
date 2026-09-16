@@ -27513,6 +27513,229 @@
     "briefing": "- 국방 분야에서 AI와 AX 기술을 활용해 우주항공력을 발전시키기 위한 방안이 모색되었습니다.\n- 육군 학교 교육이 디지털 전환 시대에 나아가야 할 방향성에 대한 논의가 제기되었습니다.\n- 알로이드사가 영국 국방부와 협력하여 디지털 제조 기술을 활용해 7개월 만에 터보제트엔진 개발을 완료했습니다."
   },
   "26.09.17": {
-    "briefing": "- 국방 분야에서 AI와 AX(인공지능 전환)를 활용한 우주항공력 발전 방향에 대한 모색이 이루어졌습니다.\n- 육군 내 디지털 전환 시대를 대비하여 학교 교육의 발전 방향에 대한 논의가 제기되었습니다.\n- 영국 국방부가 알로이드사와 협력하여 디지털 제조 기술을 통해 7개월 만에 터보제트엔진을 개발해 비행에 성공했습니다."
+    "categorized": {
+      "국방": [
+        {
+          "title": "플리토, 한화오션 조선업 맞춤형 AI 통번역 ＇오톡＇ 구축",
+          "link": "https://www.etnews.com/20260916000383",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "NHN클라우드, 고려대와 공동 기술개발 맞손…국방 AX 지원 본격화",
+          "link": "https://www.etnews.com/20260916000222",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "AI 사이버작전 수행체계 구축 논의",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTE4MiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "AI 기반 정보 교란·드론 침투 실전 대응능력 강화",
+          "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTE5MyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "AI 사이버작전 수행체계 구축 논의",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260917/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=G9yrqnCGsx3DlF65tcdnlQmZhrI4vR2U_DRjYJuFIsLJna05nzX1!1119777534",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "AI 기반 정보 교란·드론 침투 실전 대응능력 강화",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260917/4/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=G9yrqnCGsx3DlF65tcdnlQmZhrI4vR2U_DRjYJuFIsLJna05nzX1!1119777534",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "[IT메가비전 2026] 홍진배 IITP 원장 “AI 에이전트 시대, 보안 R&D 적극 지원”",
+          "link": "https://www.etnews.com/20260916000014",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[IT메가비전 2026] “AI 보안도 국가 경쟁력”…정부, ＇약한 고리＇ 보완 시급",
+          "link": "https://www.etnews.com/20260916000312",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "피지컬 AI 막는 전파규제 개선…로봇 레이다 실외 운용 허용",
+          "link": "https://www.etnews.com/20260916000269",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "전북도, 전국 최초 피지컬AI 실증단지 조성 지역 선정…2030년까지 총 7368억 투입",
+          "link": "https://www.etnews.com/20260916000124",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "카카오, 2030년 매출 6조 목표…내달 AI 에이전트 시연",
+          "link": "https://www.etnews.com/20260916000379",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "네이버, AI 위험 110종 분류…답변 안전성 검증",
+          "link": "https://www.etnews.com/20260916000352",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "[단독] LG유플러스, 차량용 AI 에이전트 출격…＇익시 드라이브＇ 선보인다",
+          "link": "https://www.etnews.com/20260916000169",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "안랩, ＇AI 네이티브 보안 플랫폼 기업＇ 전환…2035년 매출 1조 달성",
+          "link": "https://www.etnews.com/20260916000219",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "LG전자, ＇LG AI 데브콘 2026＇ 개최…“개발자 1500명과 최신기술 공유”",
+          "link": "https://www.etnews.com/20260916000115",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "리벨리온, 日 데이터센터에 ＇리벨랙＇ 상용 공급…100대 이상 확대 추진",
+          "link": "https://www.etnews.com/20260916000082",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "메타, 자체 AI 칩 본격 배치...비용·전력 절감 속도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215334",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "어질리티, 사람 접근하면 멈추는 차세대 휴머노이드 ＇디지트 5＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215355",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "리벨리온, 일본 현지에 AI 추론 인프라 지원…‘리벨랙’ 100대 이상 공급 계획",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215358",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "세일즈포스-엔비디아, CRM 전용 추론 모델 ＇코아＇ 공개...〃빅테크 의존 낮춘다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215351",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "KAIST, 말 알아듣고 스스로 길 찾는 로봇으로 국제대회 1·2위 석권",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215348",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "네이버, 실제 서비스에 ‘AI 안전성 체계’ 적용...세이프티 리포트 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215340",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "＇LG AI 데브콘＇ 개최...LG전자, AI 활용 소프트웨어 개발 혁신 가속화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41948",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "SKT, 글로벌 보안 기업 F5와 AI 클라우드 보안 파트너십...웹·API 공격 및 디도스·봇 공격 방어 역량 강화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41946",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "시스코, 스플렁크에 온프레미스 AI 탑재…‘에이전틱 SOC’ 본격 확대",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41940",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "로봇이 낯선 공간도 헤매지 않는다... 정확도·속도↑ 공간 인식 AI 기술 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41938",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "〃클로드 코드에 타사 모델 연결했더니 계정 정지〃...앤트로픽 〃차단 안 한다〃 해명",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215343",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "“속도 늦춰야” vs “안전은 자율책임”…AI 감속론, 실리콘밸리 넘어 워싱턴 확산",
+          "link": "https://www.etnews.com/20260916000265",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "어질리티, 차세대 휴머노이드 공개…＇안전펜스 없는 공장＇ 노린다",
+          "link": "https://www.etnews.com/20260916000119",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "英 육군, 8대 드론 군집비행 실험 성공…AI·자율화 기술로 미래 전장 대응",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41954",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "AI가 F-16 조종해 맞붙는다…290개 팀 뚫은 16팀 ‘AI 공중전",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41950",
+          "category": "해외",
+          "score": 5
+        }
+      ],
+      "육군": [
+        {
+          "title": "육사, AI 활용 교수·학습방법 개선",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTE4NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군",
+          "score": 4
+        },
+        {
+          "title": "육사, AI 활용 교수·학습방법 개선",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260917/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=G9yrqnCGsx3DlF65tcdnlQmZhrI4vR2U_DRjYJuFIsLJna05nzX1!1119777534",
+          "category": "육군",
+          "score": 4
+        }
+      ],
+      "간행물": [
+        {
+          "title": "행정·공공기관 정보시스템 표준예방점검 가이드 자료 공유",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99852&bcIdx=29995&parentSeq=29995",
+          "category": "간행물",
+          "score": 3
+        },
+        {
+          "title": "2026년 행정·공공기관 정보시스템 운영·관리 설명회 자료 공유",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99852&bcIdx=29992&parentSeq=29992",
+          "category": "간행물",
+          "score": 3
+        }
+      ]
+    }
   }
 }
