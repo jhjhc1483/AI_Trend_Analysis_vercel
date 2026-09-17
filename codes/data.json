@@ -27738,5 +27738,255 @@
       ]
     },
     "briefing": "- 육군사관학교가 AI 기술을 활용해 교육 효과를 높이기 위한 교수·학습 방법 개선을 추진합니다.\n- 영국 육군이 8대의 드론을 활용한 군집비행 실험에 성공하며 AI 및 자율화 기술을 통한 미래 전장 대응 능력을 강화하고 있습니다.\n- 군 당국과 전문가들 사이에서 AI를 활용한 사이버작전 수행체계 구축과 정보 교란 및 드론 침투에 대비한 실전 대응 역량 강화 필요성이 제기되었습니다."
+  },
+  "26.09.18": {
+    "categorized": {
+      "육군": [
+        {
+          "title": "램파드, 육군 사이버발전 세미나서 AI 기반 네트워크 이상탐지 기술 선봬",
+          "link": "https://www.etnews.com/20260917000491",
+          "category": "육군",
+          "score": 5
+        },
+        {
+          "title": "육군 MRO 노하우, 폴란드에 전수",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTI0NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군",
+          "score": 4
+        },
+        {
+          "title": "[도약하는 지상군, 자랑스러운 K방산] 다족형 로봇과 함께 경계작전 이상 무",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260918/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=zPSw3aE4frpihEj50JQY4q0oZBJC3gcWY92_8uLaOP2FpWk-70dA!1119777534",
+          "category": "육군",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "“보안은 혁신의 필수조건”…이종석 국정원장, AI 시대 사이버안보 강조",
+          "link": "https://www.etnews.com/20260917000479",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "KT, 전북 ＇다크팩토리＇ 구축 참여…엣지 AI 데이터센터 개발",
+          "link": "https://www.etnews.com/20260917000240",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "농식품부, 부처 최초 ＇AI 민원행정＇ 가동…1만7000건 분석해 답변까지",
+          "link": "https://www.etnews.com/20260917000138",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "인천공항공사, 에스에스티랩과 AI 원형 보안검색기 국산화…유럽 기준 통과",
+          "link": "https://www.etnews.com/20260917000196",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[게시판] NC AI, 1.4조 전북·경남 피지컬 AI 국책과제 참여 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215421",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[게시판] KT, 과기부 ‘AI 다크팩토리 설계·구축 솔루션 개발’과제 참여 등 단신",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215422",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "「AI를 일상에서 한글·산수처럼」 전국민 AI 역량 강화 정책, 국민이 직접 이름 짓는다",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187791&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "“과기정통부, 지역 맞춤형 AI융합 인재양성에 나선다” 원주 ｢AI융합혁신교육원｣ 개소",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187790&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "과기정통부, 한양대에 ‘AI반도체 혁신연구소’ 개소... ‘K-AI 반도체 풀패키지’ 인재 양성 박차",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187785&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "박완수 도지사, 중국 상하이 ‘장강 AI 로봇밸리’ 방문...‘제조 AI 실증·확산 거점’ 조성 박차",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41977",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "경남 제조 AI 센터 개소, 지역 제조기업의 AI 전환 본격화...올해까지 도내 기업에 인프라 전면 무료 개방",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41976",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "국방": [
+        {
+          "title": "한화, K9·천무 무인화-UGV 6종 구축…“AI 유무인 전환 기술 확보”",
+          "link": "https://www.etnews.com/20260917000462",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "대한항공, 독자 개발 ＇AI 군집 드론＇ 비행·동시타격 시연 성공",
+          "link": "https://www.etnews.com/20260917000337",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "국방재정 분야 AI 활용 업무혁신 공유",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMTIzNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "AI·국제인도법, 공존의 길 찾는다",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTI1MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "국방재정 분야 AI 활용 업무혁신 공유",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260918/4/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=zPSw3aE4frpihEj50JQY4q0oZBJC3gcWY92_8uLaOP2FpWk-70dA!1119777534",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "초연결로 하나 된 유·무인 복합전력…미래전 판 바꾸는 K방산",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260918/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=zPSw3aE4frpihEj50JQY4q0oZBJC3gcWY92_8uLaOP2FpWk-70dA!1119777534",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "AI·국제인도법, 공존의 길 찾는다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260918/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=zPSw3aE4frpihEj50JQY4q0oZBJC3gcWY92_8uLaOP2FpWk-70dA!1119777534",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "노타, 인텔과 AI 영상관제 패키지 출시…NVA·B70 결합",
+          "link": "https://www.etnews.com/20260917000522",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "삼성전자 “AI 응답속도 10배”…3D 적층 ＇zHBM＇ 승부수",
+          "link": "https://www.etnews.com/20260917000290",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "IRENA 사무총장 “AI·반도체 전력, 재생e가 가장 빠른 해법…韓 기술 충분”",
+          "link": "https://www.etnews.com/20260917000250",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "구광모 LG그룹 회장, 사장단 회의서 “AI, 미래 경쟁력 좌우…집요한 실행력 갖춰야”",
+          "link": "https://www.etnews.com/20260917000180",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "〃국산 휴머노이드로 담낭 절제까지〃...삼성서울병원 로봇 수술 시연",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215413",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "브릴스, 산업용 로봇 넘어 ‘피지컬 AI’로…RFM·VLA 기반 차세대 로봇 플랫폼 본격화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41965",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "넘즈AI, 정형 데이터 모델 ＇코실로＇ 탭아레나 세계 1위 차지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215363",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "새로운 스텔스 모델 ＇유니온 알파＇ 등장...〃GPT-5.6 테라 가격으로 페이블 5급 성능〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215398",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글, 수학 특화 AI ＇딥씽크 V3 매스매티카＇ 내부 테스트 정황 포착",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215399",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "피어리오딕 랩스, 재료과학 AI ＇네온＇ 공개...〃첨단 모델 성능 뛰어넘어〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215414",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "〃환각·타입 오류 없다〃...오픈AI 출신, 의사결정 특화 AI ＇제브＇ 선보여",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215416",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글 딥마인드 ＇AGI 연구소＇ 출범...〃인류 사회 영향·안전 통제 집중 연구〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215388",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "노보 노디스크, 앤트로픽 ‘클로드’로 신약 개발 속도 낸다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215406",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "노키아·마이크로소프트, 통신망에 ‘AI 에이전트’ 심는다…자율 네트워크 전환 가속",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41978",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "하이크비전, 대규모 AI 모델 ‘관란’ 업데이트…영상 보안 넘어 AI 에이전트로 진화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41968",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, 인공지능 ‘돌발행동’ 감시 강화",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260918/2/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=zPSw3aE4frpihEj50JQY4q0oZBJC3gcWY92_8uLaOP2FpWk-70dA!1119777534",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "간행물": [
+        {
+          "title": "＇26년 상반기 국내 산업재산권 출원 동향 및 주요 특징 [지식재산 통계 이슈리포트 2026-3호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-260917-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 3
+        },
+        {
+          "title": "네트워크 API, FBI 사이버전략, 유럽혁신법 [AI·ICT Brief 2026-33호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-260917-000005&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 5
+        }
+      ]
+    }
   }
 }
