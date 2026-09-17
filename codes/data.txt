@@ -8,6 +8,9 @@ https://www.etnews.com/20260917000462
 ◾ 대한항공, 독자 개발 ＇AI 군집 드론＇ 비행·동시타격 시연 성공
 https://www.etnews.com/20260917000337
 
+◾ 인천공항공사, 에스에스티랩과 AI 원형 보안검색기 국산화…유럽 기준 통과
+https://www.etnews.com/20260917000196
+
 ◾ 국방재정 분야 AI 활용 업무혁신 공유
 https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMTIzNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
@@ -27,27 +30,27 @@ https://kookbang.dema.mil.kr/newsWeb/20260918/5/ATCE_CTGR_0010030000/view.do;JSE
 ◾ 램파드, 육군 사이버발전 세미나서 AI 기반 네트워크 이상탐지 기술 선봬
 https://www.etnews.com/20260917000491
 
-◾ 육군 MRO 노하우, 폴란드에 전수
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTI0NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ [도약하는 지상군, 자랑스러운 K방산] 다족형 로봇과 함께 경계작전 이상 무
-https://kookbang.dema.mil.kr/newsWeb/20260918/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=zPSw3aE4frpihEj50JQY4q0oZBJC3gcWY92_8uLaOP2FpWk-70dA!1119777534
-
 [민간]
 ◾ 노타, 인텔과 AI 영상관제 패키지 출시…NVA·B70 결합
 https://www.etnews.com/20260917000522
 
-◾ 삼성전자 “AI 응답속도 10배”…3D 적층 ＇zHBM＇ 승부수
-https://www.etnews.com/20260917000290
-
-◾ IRENA 사무총장 “AI·반도체 전력, 재생e가 가장 빠른 해법…韓 기술 충분”
-https://www.etnews.com/20260917000250
-
 ◾ 구광모 LG그룹 회장, 사장단 회의서 “AI, 미래 경쟁력 좌우…집요한 실행력 갖춰야”
 https://www.etnews.com/20260917000180
 
+◾ 넘즈AI, 정형 데이터 모델 ＇코실로＇ 탭아레나 세계 1위 차지
+https://www.aitimes.com/news/articleView.html?idxno=215363
+
+◾ 피어리오딕 랩스, 재료과학 AI ＇네온＇ 공개...〃첨단 모델 성능 뛰어넘어〃
+https://www.aitimes.com/news/articleView.html?idxno=215414
+
+◾ 〃환각·타입 오류 없다〃...오픈AI 출신, 의사결정 특화 AI ＇제브＇ 선보여
+https://www.aitimes.com/news/articleView.html?idxno=215416
+
 ◾ 〃국산 휴머노이드로 담낭 절제까지〃...삼성서울병원 로봇 수술 시연
 https://www.aitimes.com/news/articleView.html?idxno=215413
+
+◾ AAII 국내 1위 ‘모티프 3’ 29일까지 API 무료 공개...〃에이전트에 집중〃
+https://www.aitimes.com/news/articleView.html?idxno=215415
 
 ◾ 브릴스, 산업용 로봇 넘어 ‘피지컬 AI’로…RFM·VLA 기반 차세대 로봇 플랫폼 본격화
 https://www.aitimes.kr/news/articleView.html?idxno=41965
@@ -56,14 +59,14 @@ https://www.aitimes.kr/news/articleView.html?idxno=41965
 ◾ “보안은 혁신의 필수조건”…이종석 국정원장, AI 시대 사이버안보 강조
 https://www.etnews.com/20260917000479
 
+◾ 韓-IEA, 아시아 에너지 공급망 ＇공동 방어망＇ 구축…AI 전력수요 대응
+https://www.etnews.com/20260917000236
+
 ◾ KT, 전북 ＇다크팩토리＇ 구축 참여…엣지 AI 데이터센터 개발
 https://www.etnews.com/20260917000240
 
 ◾ 농식품부, 부처 최초 ＇AI 민원행정＇ 가동…1만7000건 분석해 답변까지
 https://www.etnews.com/20260917000138
-
-◾ 인천공항공사, 에스에스티랩과 AI 원형 보안검색기 국산화…유럽 기준 통과
-https://www.etnews.com/20260917000196
 
 ◾ [게시판] NC AI, 1.4조 전북·경남 피지컬 AI 국책과제 참여 등 단신
 https://www.aitimes.com/news/articleView.html?idxno=215421
@@ -80,27 +83,18 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 과기정통부, 한양대에 ‘AI반도체 혁신연구소’ 개소... ‘K-AI 반도체 풀패키지’ 인재 양성 박차
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187785&searchOpt=ALL&searchTxt=
 
-◾ 박완수 도지사, 중국 상하이 ‘장강 AI 로봇밸리’ 방문...‘제조 AI 실증·확산 거점’ 조성 박차
-https://www.aitimes.kr/news/articleView.html?idxno=41977
-
 ◾ 경남 제조 AI 센터 개소, 지역 제조기업의 AI 전환 본격화...올해까지 도내 기업에 인프라 전면 무료 개방
 https://www.aitimes.kr/news/articleView.html?idxno=41976
 
 [해외]
-◾ 넘즈AI, 정형 데이터 모델 ＇코실로＇ 탭아레나 세계 1위 차지
-https://www.aitimes.com/news/articleView.html?idxno=215363
+◾ IRENA 사무총장 “AI·반도체 전력, 재생e가 가장 빠른 해법…韓 기술 충분”
+https://www.etnews.com/20260917000250
 
 ◾ 새로운 스텔스 모델 ＇유니온 알파＇ 등장...〃GPT-5.6 테라 가격으로 페이블 5급 성능〃
 https://www.aitimes.com/news/articleView.html?idxno=215398
 
 ◾ 구글, 수학 특화 AI ＇딥씽크 V3 매스매티카＇ 내부 테스트 정황 포착
 https://www.aitimes.com/news/articleView.html?idxno=215399
-
-◾ 피어리오딕 랩스, 재료과학 AI ＇네온＇ 공개...〃첨단 모델 성능 뛰어넘어〃
-https://www.aitimes.com/news/articleView.html?idxno=215414
-
-◾ 〃환각·타입 오류 없다〃...오픈AI 출신, 의사결정 특화 AI ＇제브＇ 선보여
-https://www.aitimes.com/news/articleView.html?idxno=215416
 
 ◾ 구글 딥마인드 ＇AGI 연구소＇ 출범...〃인류 사회 영향·안전 통제 집중 연구〃
 https://www.aitimes.com/news/articleView.html?idxno=215388
