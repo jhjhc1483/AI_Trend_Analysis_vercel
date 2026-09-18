@@ -28016,13 +28016,37 @@
           "score": 3
         },
         {
+          "title": "근무 시간에 회사로 찾아가는 AI 교육, 기업 AX 문턱 낮춘다…강소기업협회 G밸리지회·한국소프트웨어인재개발원 업무협약",
+          "link": "https://www.etnews.com/20260918000183",
+          "category": "민간",
+          "score": 3
+        },
+        {
           "title": "제논, 컴퓨터 화면 조작·업무 수행 AI ＇훈민＇ 오픈소스 공개",
           "link": "https://www.etnews.com/20260918000168",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "유라클, ＇2026 AI 서밋＇ 개최…“AI 에이전트, 코드 넘어 모듈로”",
+          "link": "https://www.etnews.com/20260918000055",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "셀렉트스타 〃AI 검증, 일회성 시험 아냐〃...전 주기 상시 평가 체계 강조",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215439",
           "category": "민간",
           "score": 4
         }
       ],
       "기관": [
+        {
+          "title": "한국탄소산업진흥원, 지역과 함께 AI 에이전트 활용 공공업무 혁신 해법 모색",
+          "link": "https://www.etnews.com/20260918000154",
+          "category": "기관",
+          "score": 4
+        },
         {
           "title": "충북도-LG AI연구원, 첨단소재 AX 플랫폼 구축 맞손",
           "link": "https://www.etnews.com/20260918000062",
@@ -28030,8 +28054,8 @@
           "score": 4
         },
         {
-          "title": "셀렉트스타 〃AI 검증, 일회성 시험 아냐〃...전 주기 상시 평가 체계 강조",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215439",
+          "title": "NIA-행안부 AI 민주정부 실현 30대 핵심과제 3분기 주관기관 협의회 개최",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41987",
           "category": "기관",
           "score": 4
         }
@@ -28041,7 +28065,7 @@
           "title": "젠슨 황 “엔비디아, 내년 칩 판매량 2배로 증가”",
           "link": "https://www.etnews.com/20260918000015",
           "category": "해외",
-          "score": 5
+          "score": 4
         },
         {
           "title": "젠슨황·저커버그·머스크, 트럼프 설득…AI규제기구 저지",
@@ -28062,28 +28086,10 @@
           "score": 4
         },
         {
-          "title": "〃AI 검색 속도 최대 20배〃...구글, 차세대 프레임워크 ＇R4T＇ 발표",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215460",
-          "category": "해외",
-          "score": 4
-        },
-        {
-          "title": "저커버그·젠슨 황·머스크, 트럼프 직접 설득…백악관 ＇AI 규제안＇ 무산",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215469",
-          "category": "해외",
-          "score": 5
-        },
-        {
           "title": "오픈AI, ‘법률용 아스트라’ 발표...빅 로펌·기술 기업 맞춤 AI 지원",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215450",
           "category": "해외",
-          "score": 4
-        },
-        {
-          "title": "화웨이, 차세대 AI 칩 출시 앞당긴다...〃대규모 연결로 엔비디아 추격〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215455",
-          "category": "해외",
-          "score": 4
+          "score": 3
         },
         {
           "title": "AI 에이전트 ‘블랙박스’ 없앤다…알리바바, 코드 수정 없이 실행 과정 추적",
@@ -28096,9 +28102,14 @@
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42000",
           "category": "해외",
           "score": 4
+        },
+        {
+          "title": "[AI 이슈] “변호사에게 맡기던 일, AI가 한다”…오픈AI, 법률 특화 ‘아스트라 포 로’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=41995",
+          "category": "해외",
+          "score": 3
         }
       ]
-    },
-    "briefing": "- 네이버클라우드가 군의 통제권 아래 민간 기술을 신속하게 전력화하는 국방 AI 협력 모델을 제시했습니다.\n- 아주대학교 육군 AX협력센터가 지휘관 대상 AI 교육을 시작하며 육군 내 AI 인재 양성을 본격화했습니다.\n- 한국항공대학교가 주최한 ‘AI 파일럿 탑건 챌린지’에서 290개 팀을 제치고 우수한 AI 파일럿 기술을 선보인 첫 대상 수상 팀이 배출되었습니다."
+    }
   }
 }
