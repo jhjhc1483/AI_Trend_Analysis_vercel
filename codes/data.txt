@@ -19,15 +19,27 @@ https://www.etnews.com/20260918000299
 ◾ AI스페라, AITEM에 MS 에이전트 적용…보안 자동 고도화
 https://www.etnews.com/20260918000214
 
+◾ 근무 시간에 회사로 찾아가는 AI 교육, 기업 AX 문턱 낮춘다…강소기업협회 G밸리지회·한국소프트웨어인재개발원 업무협약
+https://www.etnews.com/20260918000183
+
 ◾ 제논, 컴퓨터 화면 조작·업무 수행 AI ＇훈민＇ 오픈소스 공개
 https://www.etnews.com/20260918000168
 
-[기관]
-◾ 충북도-LG AI연구원, 첨단소재 AX 플랫폼 구축 맞손
-https://www.etnews.com/20260918000062
+◾ 유라클, ＇2026 AI 서밋＇ 개최…“AI 에이전트, 코드 넘어 모듈로”
+https://www.etnews.com/20260918000055
 
 ◾ 셀렉트스타 〃AI 검증, 일회성 시험 아냐〃...전 주기 상시 평가 체계 강조
 https://www.aitimes.com/news/articleView.html?idxno=215439
+
+[기관]
+◾ 한국탄소산업진흥원, 지역과 함께 AI 에이전트 활용 공공업무 혁신 해법 모색
+https://www.etnews.com/20260918000154
+
+◾ 충북도-LG AI연구원, 첨단소재 AX 플랫폼 구축 맞손
+https://www.etnews.com/20260918000062
+
+◾ NIA-행안부 AI 민주정부 실현 30대 핵심과제 3분기 주관기관 협의회 개최
+https://www.aitimes.kr/news/articleView.html?idxno=41987
 
 [해외]
 ◾ 젠슨 황 “엔비디아, 내년 칩 판매량 2배로 증가”
@@ -42,23 +54,17 @@ https://www.aitimes.com/news/articleView.html?idxno=215459
 ◾ 〃낯선 가정서 집안일 척척〃...피규어 AI, 로봇 모델 ＇헬릭스 2.5＇ 공개
 https://www.aitimes.com/news/articleView.html?idxno=215470
 
-◾ 〃AI 검색 속도 최대 20배〃...구글, 차세대 프레임워크 ＇R4T＇ 발표
-https://www.aitimes.com/news/articleView.html?idxno=215460
-
-◾ 저커버그·젠슨 황·머스크, 트럼프 직접 설득…백악관 ＇AI 규제안＇ 무산
-https://www.aitimes.com/news/articleView.html?idxno=215469
-
 ◾ 오픈AI, ‘법률용 아스트라’ 발표...빅 로펌·기술 기업 맞춤 AI 지원
 https://www.aitimes.com/news/articleView.html?idxno=215450
-
-◾ 화웨이, 차세대 AI 칩 출시 앞당긴다...〃대규모 연결로 엔비디아 추격〃
-https://www.aitimes.com/news/articleView.html?idxno=215455
 
 ◾ AI 에이전트 ‘블랙박스’ 없앤다…알리바바, 코드 수정 없이 실행 과정 추적
 https://www.aitimes.kr/news/articleView.html?idxno=42001
 
 ◾ 앤트로픽, 생명과학 AI 빗장 푼다…‘고위험 연구’까지 허용
 https://www.aitimes.kr/news/articleView.html?idxno=42000
+
+◾ [AI 이슈] “변호사에게 맡기던 일, AI가 한다”…오픈AI, 법률 특화 ‘아스트라 포 로’ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=41995
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
