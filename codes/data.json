@@ -28112,5 +28112,97 @@
       ]
     },
     "briefing": "- 네이버클라우드가 군의 AI 통제권 확보와 민간 기술을 활용한 신속 전력화를 핵심으로 하는 국방 AX 협력 모델을 제시했습니다.\n- 아주대학교 육군 AX협력센터가 지휘관을 대상으로 AI 교육을 시작하며 육군 내 AI 인재 양성을 본격화했습니다.\n- 한국항공대학교가 개최한 ‘AI 파일럿 탑건 챌린지’에서 290개 팀을 제치고 최고의 AI 파일럿 모델이 선정되었습니다."
+  },
+  "26.09.20": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "로보티즈, 휴머노이드 양산 시계 빨라진다…＇연 1만대＇ 목표",
+          "link": "https://www.etnews.com/20260918000070",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "[반도체 라이징 스타]<5>망고부스트, 독자 개발 DPU 앞세워 ＇AI 인프라 국산화＇ 도전",
+          "link": "https://www.etnews.com/20260918000076",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "＇애플 인수설＇ 프리즘ML, 270억 매개변수 모델 5.9GB로 압축",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215479",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "메타, 에이전트 ＇뮤즈＇ 맥으로 확대…앱스토어 1위 인기 속 ＇보안＇ 부각",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215478",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215494",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글 ＇제미나이＇, 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215493",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "Z.ai “AI가 AI 실행 인프라 스스로 구축...＇재귀적 자기개선＇의 시작”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215483",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "알리바바, 보고 듣고 행동하는 옴니모달 ＇큐원3.8-옴니-플래시＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215481",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "스페이스XAI, ‘그록 보이스 트랜스크라이브 2.0’ 공개...전사 정확도 1위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215485",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "조비, 사람 조종 없이 미국 대륙 횡단…＇최초＇ 완전 자율비행 성공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215488",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "술레이만 〃오픈AI의 ＇셀프 프롬프트 인젝션＇은 매우 심각한 상황〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215486",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215482",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215480",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "앤트로픽-액센추어, AI 안전성 평가에 5년간 각각 10억 달러 투자",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42007",
+          "category": "해외",
+          "score": 4
+        }
+      ]
+    }
   }
 }

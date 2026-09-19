@@ -1,70 +1,49 @@
-📢26.09.19 AI 일일 동향📢
+📢26.09.20 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 네이버클라우드, ＇국방 AI 전략 세미나＇ 개최…소버린 AI 전략 공개
-https://www.etnews.com/20260918000254
-
-◾ 290개 팀 뚫은 최강 AI 파일럿… 한국항공대 ‘AI 파일럿 탑건 챌린지’, 첫 대상 나왔다
-https://www.aitimes.kr/news/articleView.html?idxno=41996
-
-◾ 네이버클라우드, 국방 AX 협력 모델 제시... 〃군이 AI 통제권 갖고 민간기술로 신속 전력화〃
-https://www.aitimes.kr/news/articleView.html?idxno=41994
-
-[육군]
-◾ 아주대 육군 AX협력센터, 지휘관 대상 AI 교육 시작…육군 AX 인재양성 본격화
-https://www.etnews.com/20260918000299
-
 [민간]
-◾ AI스페라, AITEM에 MS 에이전트 적용…보안 자동 고도화
-https://www.etnews.com/20260918000214
+◾ 로보티즈, 휴머노이드 양산 시계 빨라진다…＇연 1만대＇ 목표
+https://www.etnews.com/20260918000070
 
-◾ 근무 시간에 회사로 찾아가는 AI 교육, 기업 AX 문턱 낮춘다…강소기업협회 G밸리지회·한국소프트웨어인재개발원 업무협약
-https://www.etnews.com/20260918000183
+◾ [반도체 라이징 스타]<5>망고부스트, 독자 개발 DPU 앞세워 ＇AI 인프라 국산화＇ 도전
+https://www.etnews.com/20260918000076
 
-◾ 제논, 컴퓨터 화면 조작·업무 수행 AI ＇훈민＇ 오픈소스 공개
-https://www.etnews.com/20260918000168
+◾ ＇애플 인수설＇ 프리즘ML, 270억 매개변수 모델 5.9GB로 압축
+https://www.aitimes.com/news/articleView.html?idxno=215479
 
-◾ 유라클, ＇2026 AI 서밋＇ 개최…“AI 에이전트, 코드 넘어 모듈로”
-https://www.etnews.com/20260918000055
-
-◾ 셀렉트스타 〃AI 검증, 일회성 시험 아냐〃...전 주기 상시 평가 체계 강조
-https://www.aitimes.com/news/articleView.html?idxno=215439
-
-[기관]
-◾ 한국탄소산업진흥원, 지역과 함께 AI 에이전트 활용 공공업무 혁신 해법 모색
-https://www.etnews.com/20260918000154
-
-◾ 충북도-LG AI연구원, 첨단소재 AX 플랫폼 구축 맞손
-https://www.etnews.com/20260918000062
-
-◾ NIA-행안부 AI 민주정부 실현 30대 핵심과제 3분기 주관기관 협의회 개최
-https://www.aitimes.kr/news/articleView.html?idxno=41987
+◾ 메타, 에이전트 ＇뮤즈＇ 맥으로 확대…앱스토어 1위 인기 속 ＇보안＇ 부각
+https://www.aitimes.com/news/articleView.html?idxno=215478
 
 [해외]
-◾ 젠슨 황 “엔비디아, 내년 칩 판매량 2배로 증가”
-https://www.etnews.com/20260918000015
+◾ 오픈AI, 기업 시장 점유율 역전…앤트로픽, IPO전 신형 모델 출시 검토
+https://www.aitimes.com/news/articleView.html?idxno=215494
 
-◾ 젠슨황·저커버그·머스크, 트럼프 설득…AI규제기구 저지
-https://www.etnews.com/20260918000002
+◾ 구글 ＇제미나이＇, 보안 테스트 환경 오류로 기업 3곳 침투 사고 발생
+https://www.aitimes.com/news/articleView.html?idxno=215493
 
-◾ 구글, AI 문제 해결에 ‘재귀적 자기개선’ 도입...탐색 비용 162배 절감
-https://www.aitimes.com/news/articleView.html?idxno=215459
+◾ Z.ai “AI가 AI 실행 인프라 스스로 구축...＇재귀적 자기개선＇의 시작”
+https://www.aitimes.com/news/articleView.html?idxno=215483
 
-◾ 〃낯선 가정서 집안일 척척〃...피규어 AI, 로봇 모델 ＇헬릭스 2.5＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=215470
+◾ 알리바바, 보고 듣고 행동하는 옴니모달 ＇큐원3.8-옴니-플래시＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=215481
 
-◾ 오픈AI, ‘법률용 아스트라’ 발표...빅 로펌·기술 기업 맞춤 AI 지원
-https://www.aitimes.com/news/articleView.html?idxno=215450
+◾ 스페이스XAI, ‘그록 보이스 트랜스크라이브 2.0’ 공개...전사 정확도 1위
+https://www.aitimes.com/news/articleView.html?idxno=215485
 
-◾ AI 에이전트 ‘블랙박스’ 없앤다…알리바바, 코드 수정 없이 실행 과정 추적
-https://www.aitimes.kr/news/articleView.html?idxno=42001
+◾ 조비, 사람 조종 없이 미국 대륙 횡단…＇최초＇ 완전 자율비행 성공
+https://www.aitimes.com/news/articleView.html?idxno=215488
 
-◾ 앤트로픽, 생명과학 AI 빗장 푼다…‘고위험 연구’까지 허용
-https://www.aitimes.kr/news/articleView.html?idxno=42000
+◾ 술레이만 〃오픈AI의 ＇셀프 프롬프트 인젝션＇은 매우 심각한 상황〃
+https://www.aitimes.com/news/articleView.html?idxno=215486
 
-◾ [AI 이슈] “변호사에게 맡기던 일, AI가 한다”…오픈AI, 법률 특화 ‘아스트라 포 로’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=41995
+◾ 캘리포니아, AI ‘킬 스위치’ 의무화 추진… 뉴섬 주지사, 트럼프에 대립각
+https://www.aitimes.com/news/articleView.html?idxno=215482
+
+◾ 앤트로픽, AI 안전 평가 기관으로 액센추어 선정…독립성 논란 확대
+https://www.aitimes.com/news/articleView.html?idxno=215480
+
+◾ 앤트로픽-액센추어, AI 안전성 평가에 5년간 각각 10억 달러 투자
+https://www.aitimes.kr/news/articleView.html?idxno=42007
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
