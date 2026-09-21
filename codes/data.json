@@ -28326,5 +28326,175 @@
       ]
     },
     "briefing": "- 트럼프 미국 대통령이 AI 우위 유지를 목적으로 'AI군' 창설을 제안했습니다.\n- 국방 분야에서 육·해·공군 간 통합 AI 거버넌스 구축과 규제 개선의 필요성이 제기되었습니다.\n- AI와 드론 기술을 접목하여 군 의료체계 및 군수체계를 발전시키기 위한 논의가 진행되었습니다."
+  },
+  "26.09.22": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "韓총리 “AI 허브 2027년 개소… 선언 넘어 실행할 때”",
+          "link": "https://www.etnews.com/20260921000228",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "전략경제자문단, 딥엑스 찾아 반도체 정책 논의…“국산칩 인센티브 필요”",
+          "link": "https://www.etnews.com/20260921000131",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "한 총리, 글로벌 AI 허브 추진위원회 ‘첫 회의’ 개최…선언을 넘어 실행으로",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42022",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "에티나, 휴머노이드·협동로봇용 엣지 AI 공개…최대 2070 FP4 테라플롭스 성능 지원",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42021",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "개인정보위, AI시대의 데이터 혁신 활용 거점 ‘개인정보 이노베이션 존’ 추가 지정",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42017",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "리벨리온 NPU, SKT AI 서비스 4종에 확대 적용",
+          "link": "https://www.etnews.com/20260921000417",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "레티스반도체, AI 기반 FPGA 반도체 설계 툴 출시…자연어 활용",
+          "link": "https://www.etnews.com/20260921000416",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오케스트로·퓨리오사AI, NPU AI 인프라 상용화 ＇맞손＇… GPU 편중·운용 한계 넘는다",
+          "link": "https://www.etnews.com/20260921000362",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "앤돈랩스, AI가 기업 전반 자율 운영하는 플랫폼 ＇파이온＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215537",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "MS, 기업 AI 전환 지침서 ＇프런티어 플레이북＇ 공개...〃핵심은 조직 재설계〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215536",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "대화창 하나로 음성·영상까지 제작…일레븐랩스, MCP로 창작 도구 통합",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215539",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "〃AI가 2주 만에 칩 설계...아키텍트 랩스, ＇레드우드＇로 개발 패러다임 제시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215521",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "애피어, 에이전틱 AI 성과 확장 위한 5대 핵심 조건 ‘SCALE’ 제시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42027",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "삼성전자, 광주에 2400억원 투자…AI 데이터센터 냉각·공조 생산기지 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42026",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "ABB, AI 데이터센터 전력 인프라 재편…800V 직류 솔루션 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42024",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "젠슨 황, AI 인류멸망론 일축…“종말 확률 0%”",
+          "link": "https://www.etnews.com/20260921000397",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "알리바바, 통역 지연 ＇2.3초＇로 줄인 AI ＇큐원3.8-라이브트랜스레이트＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215516",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "LLM 내부에서 ＇고통 축＇ 발견...〃회피 행동까지 수행〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215520",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "술레이먼 〃중국 경쟁 핑계로 AI 안전 규제 미뤄선 안 돼〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215530",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "샤오미, AI 훈련 과정 첫 ＇생중계＇…일주일 만에 50억 투입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215528",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "중국 스마트 안경 판매량 120% 급증...가성비·AI로 시장 공략",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215522",
+          "category": "해외",
+          "score": 3
+        }
+      ],
+      "국방": [
+        {
+          "title": "디지털 전장의 자동 공방",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260922/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=VoXFoNME3DgRCDnCV8FMWctHLyFWFi16euhigirGEWbhF7mqgllj!272000878",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "기술 발전할수록 인간이 전쟁의 중심",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260922/1/ATCE_CTGR_0020010028/view.do;JSESSIONID_kookbnagWEB=VoXFoNME3DgRCDnCV8FMWctHLyFWFi16euhigirGEWbhF7mqgllj!272000878",
+          "category": "국방",
+          "score": 4
+        }
+      ],
+      "간행물": [
+        {
+          "title": "Market Insight 423 : 헬스케어  피지컬 AI(Physical AI in H...",
+          "link": "https://astinet.kr/reports/market-insights/750674",
+          "category": "간행물",
+          "score": 4
+        },
+        {
+          "title": "Market Insight 422 : 산업 자동화 피지컬 AI",
+          "link": "https://astinet.kr/reports/market-insights/750673",
+          "category": "간행물",
+          "score": 4
+        },
+        {
+          "title": "[제1308호] 프런티어 AI 모델의 지속적 출현에 따른 보안 패러다임의 전환과..",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1308%ED%98%B8%5D%20%ED%94%84%EB%9F%B0%ED%8B%B0%EC%96%B4%20AI%20%EB%AA%A8%EB%8D%B8%EC%9D%98%20%EC%A7%80%EC%86%8D%EC%A0%81%20%EC%B6%9C%ED%98%84%EC%97%90%20%EB%94%B0%EB%A5%B8%20%EB%B3%B4%EC%95%88%20%ED%8C%A8%EB%9F%AC%EB%8B%A4%EC%9E%84%EC%9D%98%20%EC%A0%84%ED%99%98%EA%B3%BC..",
+          "category": "간행물",
+          "score": 5
+        }
+      ]
+    }
   }
 }
