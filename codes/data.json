@@ -28329,38 +28329,6 @@
   },
   "26.09.22": {
     "categorized": {
-      "기관": [
-        {
-          "title": "韓총리 “AI 허브 2027년 개소… 선언 넘어 실행할 때”",
-          "link": "https://www.etnews.com/20260921000228",
-          "category": "기관",
-          "score": 5
-        },
-        {
-          "title": "전략경제자문단, 딥엑스 찾아 반도체 정책 논의…“국산칩 인센티브 필요”",
-          "link": "https://www.etnews.com/20260921000131",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "한 총리, 글로벌 AI 허브 추진위원회 ‘첫 회의’ 개최…선언을 넘어 실행으로",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42022",
-          "category": "기관",
-          "score": 5
-        },
-        {
-          "title": "에티나, 휴머노이드·협동로봇용 엣지 AI 공개…최대 2070 FP4 테라플롭스 성능 지원",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42021",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "개인정보위, AI시대의 데이터 혁신 활용 거점 ‘개인정보 이노베이션 존’ 추가 지정",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42017",
-          "category": "기관",
-          "score": 4
-        }
-      ],
       "민간": [
         {
           "title": "리벨리온 NPU, SKT AI 서비스 4종에 확대 적용",
@@ -28381,8 +28349,32 @@
           "score": 4
         },
         {
+          "title": "AI, 해킹 방어에서 인간 앞섰다…韓 보안 역량도 입증",
+          "link": "https://www.etnews.com/20260921000352",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "더존비즈온, 국제표준 기반 ＇AI 거버넌스 사무국＇ 출범…5개 본부 체제",
+          "link": "https://www.etnews.com/20260921000309",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[창간기획]크래프톤, 게임 넘어 피지컬 AI까지…＇AI 퍼스트＇ 기업 전환 가속",
+          "link": "https://www.etnews.com/20260910000216",
+          "category": "민간",
+          "score": 3
+        },
+        {
           "title": "앤돈랩스, AI가 기업 전반 자율 운영하는 플랫폼 ＇파이온＇ 공개",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215537",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오픈아트, AI 이미지·비디오 모델 평가 ＇아레나＇ 출시...〃용도별 최적 모델 찾아준다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215531",
           "category": "민간",
           "score": 3
         },
@@ -28390,7 +28382,7 @@
           "title": "MS, 기업 AI 전환 지침서 ＇프런티어 플레이북＇ 공개...〃핵심은 조직 재설계〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215536",
           "category": "민간",
-          "score": 3
+          "score": 4
         },
         {
           "title": "대화창 하나로 음성·영상까지 제작…일레븐랩스, MCP로 창작 도구 통합",
@@ -28414,13 +28406,81 @@
           "title": "삼성전자, 광주에 2400억원 투자…AI 데이터센터 냉각·공조 생산기지 구축",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42026",
           "category": "민간",
-          "score": 4
+          "score": 5
         },
         {
           "title": "ABB, AI 데이터센터 전력 인프라 재편…800V 직류 솔루션 공개",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42024",
           "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "에티나, 휴머노이드·협동로봇용 엣지 AI 공개…최대 2070 FP4 테라플롭스 성능 지원",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42021",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "한 번 배운 풀이 기억…스마트폰 AI가 비슷한 문제 스스로 푼다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42013",
+          "category": "민간",
           "score": 3
+        },
+        {
+          "title": "30년간 분자를 쫓았다…이근우 오리엔텀 부사장, 〃이제 양자컴퓨터로 금융 난제 푼다〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42014",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "기관": [
+        {
+          "title": "[AI 세이프가드] ① “AI 통제권 확보할 마지막 ＇골든타임＇…안전장치 서둘러야”",
+          "link": "https://www.etnews.com/20260914000441",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "전주시, 피지컬AI 시험·검인증 거점 육성 추진…실증공유센터 유치 모색",
+          "link": "https://www.etnews.com/20260921000100",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "KOSA, 과기정통부·NIA와 손잡고 국민 체감형 에이전틱 AI 서비스 발굴 연구",
+          "link": "https://www.etnews.com/20260921000260",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "韓총리 “AI 허브 2027년 개소… 선언 넘어 실행할 때”",
+          "link": "https://www.etnews.com/20260921000228",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "전략경제자문단, 딥엑스 찾아 반도체 정책 논의…“국산칩 인센티브 필요”",
+          "link": "https://www.etnews.com/20260921000131",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "한 총리, 글로벌 AI 허브 추진위원회 ‘첫 회의’ 개최…선언을 넘어 실행으로",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42022",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "기획예산처, ‘AI가 읽기 쉬운’ ‘27년 정부예산안 사업설명자료 공개 지침 배포",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42018",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "개인정보위, AI시대의 데이터 혁신 활용 거점 ‘개인정보 이노베이션 존’ 추가 지정",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42017",
+          "category": "기관",
+          "score": 4
         }
       ],
       "해외": [
@@ -28428,7 +28488,7 @@
           "title": "젠슨 황, AI 인류멸망론 일축…“종말 확률 0%”",
           "link": "https://www.etnews.com/20260921000397",
           "category": "해외",
-          "score": 4
+          "score": 3
         },
         {
           "title": "알리바바, 통역 지연 ＇2.3초＇로 줄인 AI ＇큐원3.8-라이브트랜스레이트＇ 공개",
@@ -28440,19 +28500,7 @@
           "title": "LLM 내부에서 ＇고통 축＇ 발견...〃회피 행동까지 수행〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215520",
           "category": "해외",
-          "score": 3
-        },
-        {
-          "title": "술레이먼 〃중국 경쟁 핑계로 AI 안전 규제 미뤄선 안 돼〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215530",
-          "category": "해외",
           "score": 4
-        },
-        {
-          "title": "샤오미, AI 훈련 과정 첫 ＇생중계＇…일주일 만에 50억 투입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215528",
-          "category": "해외",
-          "score": 3
         },
         {
           "title": "중국 스마트 안경 판매량 120% 급증...가성비·AI로 시장 공략",
@@ -28495,7 +28543,6 @@
           "score": 5
         }
       ]
-    },
-    "briefing": "- 디지털 전장에서 AI를 활용한 자동 공방 체계의 기술적 발전과 그에 따른 인간의 역할 재정립 필요성이 강조되었습니다.\n- 오케스트로와 퓨리오사AI가 GPU 편중 현상과 운용 한계를 극복하기 위해 국산 NPU 기반 AI 인프라 상용화를 추진합니다.\n- 프런티어 AI 모델의 지속적인 등장에 따라 군을 포함한 보안 패러다임의 전환과 대응책 마련의 필요성이 제기되었습니다."
+    }
   }
 }

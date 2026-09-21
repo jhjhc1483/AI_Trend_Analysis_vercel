@@ -18,8 +18,20 @@ https://www.etnews.com/20260921000416
 ◾ 오케스트로·퓨리오사AI, NPU AI 인프라 상용화 ＇맞손＇… GPU 편중·운용 한계 넘는다
 https://www.etnews.com/20260921000362
 
+◾ AI, 해킹 방어에서 인간 앞섰다…韓 보안 역량도 입증
+https://www.etnews.com/20260921000352
+
+◾ 더존비즈온, 국제표준 기반 ＇AI 거버넌스 사무국＇ 출범…5개 본부 체제
+https://www.etnews.com/20260921000309
+
+◾ [창간기획]크래프톤, 게임 넘어 피지컬 AI까지…＇AI 퍼스트＇ 기업 전환 가속
+https://www.etnews.com/20260910000216
+
 ◾ 앤돈랩스, AI가 기업 전반 자율 운영하는 플랫폼 ＇파이온＇ 공개
 https://www.aitimes.com/news/articleView.html?idxno=215537
+
+◾ 오픈아트, AI 이미지·비디오 모델 평가 ＇아레나＇ 출시...〃용도별 최적 모델 찾아준다〃
+https://www.aitimes.com/news/articleView.html?idxno=215531
 
 ◾ MS, 기업 AI 전환 지침서 ＇프런티어 플레이북＇ 공개...〃핵심은 조직 재설계〃
 https://www.aitimes.com/news/articleView.html?idxno=215536
@@ -39,7 +51,25 @@ https://www.aitimes.kr/news/articleView.html?idxno=42026
 ◾ ABB, AI 데이터센터 전력 인프라 재편…800V 직류 솔루션 공개
 https://www.aitimes.kr/news/articleView.html?idxno=42024
 
+◾ 에티나, 휴머노이드·협동로봇용 엣지 AI 공개…최대 2070 FP4 테라플롭스 성능 지원
+https://www.aitimes.kr/news/articleView.html?idxno=42021
+
+◾ 한 번 배운 풀이 기억…스마트폰 AI가 비슷한 문제 스스로 푼다
+https://www.aitimes.kr/news/articleView.html?idxno=42013
+
+◾ 30년간 분자를 쫓았다…이근우 오리엔텀 부사장, 〃이제 양자컴퓨터로 금융 난제 푼다〃
+https://www.aitimes.kr/news/articleView.html?idxno=42014
+
 [기관]
+◾ [AI 세이프가드] ① “AI 통제권 확보할 마지막 ＇골든타임＇…안전장치 서둘러야”
+https://www.etnews.com/20260914000441
+
+◾ 전주시, 피지컬AI 시험·검인증 거점 육성 추진…실증공유센터 유치 모색
+https://www.etnews.com/20260921000100
+
+◾ KOSA, 과기정통부·NIA와 손잡고 국민 체감형 에이전틱 AI 서비스 발굴 연구
+https://www.etnews.com/20260921000260
+
 ◾ 韓총리 “AI 허브 2027년 개소… 선언 넘어 실행할 때”
 https://www.etnews.com/20260921000228
 
@@ -49,8 +79,8 @@ https://www.etnews.com/20260921000131
 ◾ 한 총리, 글로벌 AI 허브 추진위원회 ‘첫 회의’ 개최…선언을 넘어 실행으로
 https://www.aitimes.kr/news/articleView.html?idxno=42022
 
-◾ 에티나, 휴머노이드·협동로봇용 엣지 AI 공개…최대 2070 FP4 테라플롭스 성능 지원
-https://www.aitimes.kr/news/articleView.html?idxno=42021
+◾ 기획예산처, ‘AI가 읽기 쉬운’ ‘27년 정부예산안 사업설명자료 공개 지침 배포
+https://www.aitimes.kr/news/articleView.html?idxno=42018
 
 ◾ 개인정보위, AI시대의 데이터 혁신 활용 거점 ‘개인정보 이노베이션 존’ 추가 지정
 https://www.aitimes.kr/news/articleView.html?idxno=42017
@@ -64,12 +94,6 @@ https://www.aitimes.com/news/articleView.html?idxno=215516
 
 ◾ LLM 내부에서 ＇고통 축＇ 발견...〃회피 행동까지 수행〃
 https://www.aitimes.com/news/articleView.html?idxno=215520
-
-◾ 술레이먼 〃중국 경쟁 핑계로 AI 안전 규제 미뤄선 안 돼〃
-https://www.aitimes.com/news/articleView.html?idxno=215530
-
-◾ 샤오미, AI 훈련 과정 첫 ＇생중계＇…일주일 만에 50억 투입
-https://www.aitimes.com/news/articleView.html?idxno=215528
 
 ◾ 중국 스마트 안경 판매량 120% 급증...가성비·AI로 시장 공략
 https://www.aitimes.com/news/articleView.html?idxno=215522
