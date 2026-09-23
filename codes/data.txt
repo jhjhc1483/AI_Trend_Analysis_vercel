@@ -25,11 +25,14 @@ https://www.etnews.com/20260923000159
 https://www.etnews.com/20260923000133
 
 [해외]
+◾ [스냅드래곤 서밋]퀄컴, 차세대 모바일 시스템온칩 2종 공개 “에이전틱 AI 시대 연다”
+https://www.etnews.com/20260923000060
+
+◾ 앤드리슨 호로위츠, 대학 대안 ＇AI 아카데미＇ 출범...젊은 창업가 육성
+https://www.aitimes.com/news/articleView.html?idxno=215596
+
 ◾ 퀄컴, 차세대 온디바이스 AI 칩 공개…〃에이전트 중심 경험 전환〃
 https://www.aitimes.com/news/articleView.html?idxno=215614
-
-◾ AWS, 토큰 비용 28% 낮춘 AI 에이전트 실행환경 ＇스트랜즈 하네스＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=215620
 
 ◾ 중국, 딥시크·문샷 수사 중...〃국방·민감 정보, 미국 서버로 넘어가〃
 https://www.aitimes.com/news/articleView.html?idxno=215610

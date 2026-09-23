@@ -28860,21 +28860,27 @@
           "title": "LG전자-SK엔무브, AI 데이터센터용 열 관리 기술 공동 개발한다",
           "link": "https://www.etnews.com/20260923000039",
           "category": "민간",
-          "score": 4
+          "score": 3
         }
       ],
       "해외": [
+        {
+          "title": "[스냅드래곤 서밋]퀄컴, 차세대 모바일 시스템온칩 2종 공개 “에이전틱 AI 시대 연다”",
+          "link": "https://www.etnews.com/20260923000060",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤드리슨 호로위츠, 대학 대안 ＇AI 아카데미＇ 출범...젊은 창업가 육성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215596",
+          "category": "해외",
+          "score": 3
+        },
         {
           "title": "퀄컴, 차세대 온디바이스 AI 칩 공개…〃에이전트 중심 경험 전환〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215614",
           "category": "해외",
           "score": 4
-        },
-        {
-          "title": "AWS, 토큰 비용 28% 낮춘 AI 에이전트 실행환경 ＇스트랜즈 하네스＇ 공개",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215620",
-          "category": "해외",
-          "score": 3
         },
         {
           "title": "중국, 딥시크·문샷 수사 중...〃국방·민감 정보, 미국 서버로 넘어가〃",
@@ -28901,7 +28907,6 @@
           "score": 5
         }
       ]
-    },
-    "briefing": "- 구테흐스 UN 사무총장이 AI가 인간의 생사를 결정하지 않도록 킬러 로봇 사용 금지를 촉구했습니다.\n- 중국 당국이 딥시크 등 자국 AI 기업이 민감한 국방 정보를 미국 서버로 유출했는지 여부를 조사 중입니다.\n- 유엔 안보리에서 샘 알트먼 등 주요 AI 리더들이 참석한 가운데 글로벌 차원의 AI 안전 논의가 진행되었습니다."
+    }
   }
 }
