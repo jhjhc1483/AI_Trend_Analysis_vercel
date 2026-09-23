@@ -28814,5 +28814,93 @@
       ]
     },
     "briefing": "- 김승연 한화 회장이 한화시스템 구미사업장을 방문하여 국방 AI 역량 확보의 중요성을 강조했습니다.\n- 육군을 비롯한 국방 분야에서 데이터 기반의 지능형 총수명주기관리 체계 구축 방안이 논의되었습니다.\n- 미국과 영국이 인공지능 및 자율무인체계 협력을 확대하며, 무인 잠수정에서 어뢰 발사에 성공하는 등 무인 플랫폼 기술을 고도화하고 있습니다."
+  },
+  "26.09.24": {
+    "categorized": {
+      "기관": [
+        {
+          "title": "개인정보위, 민관 정책협의회 개최…AI 에이전트 개인정보 보호 방안 논의",
+          "link": "https://www.etnews.com/20260923000077",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "빅밸류 방문한 국가데이터처장, 민관 AX 협력 논의",
+          "link": "https://www.etnews.com/20260923000159",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "李대통령, UN총회서 ＇건설적 기여국 연대＇ 제안…“글로벌 AI허브 조성”",
+          "link": "https://www.etnews.com/20260923000133",
+          "category": "기관",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "유비쿼스, 광통신 장비에 AI 심었다…KT와 상용망 실증 추진",
+          "link": "https://www.etnews.com/20260923000138",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[스냅드래곤 서밋]모듈러 인수한 퀄컴 “특정 벤더 의존 않는 ＇개방형 AI 소프트웨어 플랫폼＇ 구축”",
+          "link": "https://www.etnews.com/20260923000105",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "우리금융, 6000억원 규모 포항 AI 데이터센터 PF 약정 체결…그룹 역량 결집",
+          "link": "https://www.etnews.com/20260923000070",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "LG전자-SK엔무브, AI 데이터센터용 열 관리 기술 공동 개발한다",
+          "link": "https://www.etnews.com/20260923000039",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "퀄컴, 차세대 온디바이스 AI 칩 공개…〃에이전트 중심 경험 전환〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215614",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "AWS, 토큰 비용 28% 낮춘 AI 에이전트 실행환경 ＇스트랜즈 하네스＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215620",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "중국, 딥시크·문샷 수사 중...〃국방·민감 정보, 미국 서버로 넘어가〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215610",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "알트먼·아모데이·딥시크 총출동…유엔 안보리서 ＇AI 안전＇ 논의",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215613",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "트럼프 〃AI 명칭 ＇초지능＇으로 변경〃…글로벌 규약도 거부",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215609",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구테흐스 UN 사무총장, “AI에 생사 결정 맡겨선 안 돼”…킬러 로봇 금지 촉구",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42052",
+          "category": "해외",
+          "score": 5
+        }
+      ]
+    }
   }
 }
