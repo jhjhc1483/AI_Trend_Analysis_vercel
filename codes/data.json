@@ -28909,5 +28909,77 @@
       ]
     },
     "briefing": "- 구테흐스 UN 사무총장이 AI가 생사를 결정하는 이른바 '킬러 로봇' 사용 금지의 필요성을 강조했습니다.\n- 중국 정부가 딥시크 등 자국 AI 기업의 국방 및 민감 정보가 미국 서버로 유출될 가능성을 우려해 수사에 착수했습니다.\n- 유엔 안보리 회의에서 알트먼 등 주요 AI 기업 대표들이 모여 AI 안전과 관련된 국제적 논의를 진행했습니다."
+  },
+  "26.09.25": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "오픈AI, ＇챗GPT 음성＇에 에이전트 결합...〃말 한마디로 앱 조작·업무 처리〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215635",
+          "category": "민간",
+          "score": 5
+        },
+        {
+          "title": "앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215633",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "메타, AI 에이전트 ＇뮤즈＇에 음성·실시간 영상 탑재…AI 안경으로 확장",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42064",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "AI, 생명의 비밀을 풀기 시작했다…클로드, 〃새로운 유전자 편집 메커니즘 단서 찾았다!〃",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42061",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "국방": [
+        {
+          "title": "오픈AI, 우크라이나에 사이버 보안 ＇데이브레이크＇ 무료 지원...〃러시아 공격 대응〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215641",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI 에이전트, ＇정부 망＇까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215640",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "샘 올트먼, UN안보리 회의에서 인공지능(AI)과 국제 안보 주제 발언",
+          "link": "https://www.etnews.com/20260924000044",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "오픈AI·앤트로픽, UN서 ＇AI 인간 통제 상실＇ 경고…美는 규제 반대",
+          "link": "https://www.etnews.com/20260924000041",
+          "category": "해외",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "경기도, 제조현장 피지컬 AI 확산 시동…10월 민관 협의체 발대식",
+          "link": "https://www.etnews.com/20260924000004",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "새만금개발청, 현대차그룹  ＇AI 데이터센터＇ 건축심의 본격 착수",
+          "link": "https://www.etnews.com/20260922000449",
+          "category": "기관",
+          "score": 4
+        }
+      ]
+    }
   }
 }
