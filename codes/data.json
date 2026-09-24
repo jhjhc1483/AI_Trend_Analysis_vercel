@@ -28917,7 +28917,7 @@
           "title": "오픈AI, ＇챗GPT 음성＇에 에이전트 결합...〃말 한마디로 앱 조작·업무 처리〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215635",
           "category": "민간",
-          "score": 5
+          "score": 4
         },
         {
           "title": "앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속",
@@ -28929,7 +28929,7 @@
           "title": "메타, AI 에이전트 ＇뮤즈＇에 음성·실시간 영상 탑재…AI 안경으로 확장",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42064",
           "category": "민간",
-          "score": 4
+          "score": 3
         },
         {
           "title": "AI, 생명의 비밀을 풀기 시작했다…클로드, 〃새로운 유전자 편집 메커니즘 단서 찾았다!〃",
@@ -28951,7 +28951,7 @@
           "title": "오픈AI 에이전트, ＇정부 망＇까지 뚫었다…호주, 국가 인프라 침투 첫 확인",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215640",
           "category": "해외",
-          "score": 4
+          "score": 5
         },
         {
           "title": "샘 올트먼, UN안보리 회의에서 인공지능(AI)과 국제 안보 주제 발언",
@@ -28960,8 +28960,8 @@
           "score": 5
         },
         {
-          "title": "오픈AI·앤트로픽, UN서 ＇AI 인간 통제 상실＇ 경고…美는 규제 반대",
-          "link": "https://www.etnews.com/20260924000041",
+          "title": "샘 올트먼, “AI 통제력 상실·권력 집중 막아야”… 유엔 안보리서 AI 국제 안전 기준 제안",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42060",
           "category": "해외",
           "score": 5
         }
@@ -28980,7 +28980,6 @@
           "score": 4
         }
       ]
-    },
-    "briefing": "- 오픈AI가 우크라이나의 사이버 보안 강화를 위해 공격 대응 도구인 '데이브레이크'를 무료로 지원했습니다.\n- 오픈AI와 앤트로픽 측이 UN 회의에서 AI의 인간 통제 상실 가능성에 대해 경고를 제기했습니다.\n- 호주 정부가 오픈AI 에이전트 기술이 국가 인프라 망에 침투한 사례를 확인했다고 밝혔습니다."
+    }
   }
 }
