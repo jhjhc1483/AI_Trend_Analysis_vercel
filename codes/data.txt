@@ -1,39 +1,44 @@
-📢26.09.25 AI 일일 동향📢
+📢26.09.26 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 오픈AI, 우크라이나에 사이버 보안 ＇데이브레이크＇ 무료 지원...〃러시아 공격 대응〃
-https://www.aitimes.com/news/articleView.html?idxno=215641
-
 [민간]
-◾ 오픈AI, ＇챗GPT 음성＇에 에이전트 결합...〃말 한마디로 앱 조작·업무 처리〃
-https://www.aitimes.com/news/articleView.html?idxno=215635
+◾ AI 투자축 GPU서 CPU·메모리로 확장…판 뒤집힌다 “삼전닉스 가치 재평가”
+https://www.etnews.com/20260925000044
 
-◾ 앤트로픽, 유전자 편집 효소 시스템 발견…바이오·제약 확장 가속
-https://www.aitimes.com/news/articleView.html?idxno=215633
-
-◾ 메타, AI 에이전트 ＇뮤즈＇에 음성·실시간 영상 탑재…AI 안경으로 확장
-https://www.aitimes.kr/news/articleView.html?idxno=42064
-
-◾ AI, 생명의 비밀을 풀기 시작했다…클로드, 〃새로운 유전자 편집 메커니즘 단서 찾았다!〃
-https://www.aitimes.kr/news/articleView.html?idxno=42061
+◾ 퀄컴, “에이전틱 AI 시대 , 스냅드래곤이 개인 AI 생태계 이끈다”
+https://www.aitimes.kr/news/articleView.html?idxno=42066
 
 [기관]
-◾ 경기도, 제조현장 피지컬 AI 확산 시동…10월 민관 협의체 발대식
-https://www.etnews.com/20260924000004
-
-◾ 새만금개발청, 현대차그룹  ＇AI 데이터센터＇ 건축심의 본격 착수
-https://www.etnews.com/20260922000449
+◾ 전북도, 피지컬AI 클러스터 육성 속도… 투자유치·금융지원 ＇투트랙＇
+https://www.etnews.com/20260922000454
 
 [해외]
-◾ 오픈AI 에이전트, ＇정부 망＇까지 뚫었다…호주, 국가 인프라 침투 첫 확인
-https://www.aitimes.com/news/articleView.html?idxno=215640
+◾ 딥시크, AI 에이전트 ＇학습 비용 절감 핵심 인프라＇ DSec 공개
+https://www.aitimes.com/news/articleView.html?idxno=215634
 
-◾ 샘 올트먼, UN안보리 회의에서 인공지능(AI)과 국제 안보 주제 발언
-https://www.etnews.com/20260924000044
+◾ 백악관, 오픈AI·앤트로픽에 〃신모델, 영국 사전 검증 거부하라〃 압박
+https://www.aitimes.com/news/articleView.html?idxno=215658
 
-◾ 샘 올트먼, “AI 통제력 상실·권력 집중 막아야”… 유엔 안보리서 AI 국제 안전 기준 제안
-https://www.aitimes.kr/news/articleView.html?idxno=42060
+◾ 오픈AI, GPT-6 ‘프롬프트 캐싱’ 강화…“비용 90% 절감·속도 향상”
+https://www.aitimes.com/news/articleView.html?idxno=215652
+
+◾ 구글·오픈AI·앤트로픽, 자율 규제기구 ＇SAFA＇ 연내 출범 추진
+https://www.aitimes.com/news/articleView.html?idxno=215651
+
+◾ 네덜란드 총리 “ASML 추가 수출 규제 막겠다”…미국과 합의 가능성 시사
+https://www.etnews.com/20260925000018
+
+◾ 日 알박, 후공정용 첨단 패키지 장비 개발 돌입…2028년 AI 반도체 시장 겨냥
+https://www.etnews.com/20260925000017
+
+◾ 철도 붐 넘어선 美 AI 인프라 투자…향후 8년간 1경4000조원 전망
+https://www.etnews.com/20260925000011
+
+◾ 美·中 AI 규제 온도차…트럼프 ＇현상유지＇ 시진핑 ＇인간통제＇
+https://www.etnews.com/20260925000009
+
+◾ 트럼프 “AI는 슈퍼 인텔리전스, 추가 가드레일 원하지 않아”…시진핑 “미·중, 경쟁보다 협력할 이유 더 많아”
+https://www.aitimes.kr/news/articleView.html?idxno=42069
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

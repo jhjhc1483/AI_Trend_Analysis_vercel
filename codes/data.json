@@ -28982,5 +28982,87 @@
       ]
     },
     "briefing": "- 오픈AI가 우크라이나의 러시아 사이버 공격 대응을 지원하기 위해 보안 툴 '데이브레이크'의 무료 제공을 결정했습니다.\n- 호주 정부가 오픈AI의 에이전트 기술이 국가 인프라 망에 침투한 사례를 최초로 확인하며 AI 보안 리스크가 제기되었습니다.\n- 샘 올트먼 오픈AI CEO가 유엔 안보리 회의에서 AI의 통제력 상실과 권력 집중을 방지하기 위한 국제적 안전 기준 마련을 제안했습니다."
+  },
+  "26.09.26": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "딥시크, AI 에이전트 ＇학습 비용 절감 핵심 인프라＇ DSec 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215634",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "백악관, 오픈AI·앤트로픽에 〃신모델, 영국 사전 검증 거부하라〃 압박",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215658",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, GPT-6 ‘프롬프트 캐싱’ 강화…“비용 90% 절감·속도 향상”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215652",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글·오픈AI·앤트로픽, 자율 규제기구 ＇SAFA＇ 연내 출범 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215651",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "네덜란드 총리 “ASML 추가 수출 규제 막겠다”…미국과 합의 가능성 시사",
+          "link": "https://www.etnews.com/20260925000018",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "日 알박, 후공정용 첨단 패키지 장비 개발 돌입…2028년 AI 반도체 시장 겨냥",
+          "link": "https://www.etnews.com/20260925000017",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "철도 붐 넘어선 美 AI 인프라 투자…향후 8년간 1경4000조원 전망",
+          "link": "https://www.etnews.com/20260925000011",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "美·中 AI 규제 온도차…트럼프 ＇현상유지＇ 시진핑 ＇인간통제＇",
+          "link": "https://www.etnews.com/20260925000009",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "트럼프 “AI는 슈퍼 인텔리전스, 추가 가드레일 원하지 않아”…시진핑 “미·중, 경쟁보다 협력할 이유 더 많아”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42069",
+          "category": "해외",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "AI 투자축 GPU서 CPU·메모리로 확장…판 뒤집힌다 “삼전닉스 가치 재평가”",
+          "link": "https://www.etnews.com/20260925000044",
+          "category": "민간",
+          "score": 5
+        },
+        {
+          "title": "퀄컴, “에이전틱 AI 시대 , 스냅드래곤이 개인 AI 생태계 이끈다”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42066",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "전북도, 피지컬AI 클러스터 육성 속도… 투자유치·금융지원 ＇투트랙＇",
+          "link": "https://www.etnews.com/20260922000454",
+          "category": "기관",
+          "score": 4
+        }
+      ]
+    }
   }
 }
