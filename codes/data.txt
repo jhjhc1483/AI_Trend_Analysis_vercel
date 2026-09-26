@@ -2,43 +2,52 @@
 
 📰 오늘의 기사
 [민간]
+◾ 말 못하는 AI ＇제브＇가 실리콘밸리 흔들었다...〃일주일 새 몸값 50배 뛰어〃
+https://www.aitimes.com/news/articleView.html?idxno=215675
+
 ◾ 머스크 〃연말까지 콜로서스 2 GPU 두 배 증설〃... 최대 121만개 달성
 https://www.aitimes.com/news/articleView.html?idxno=215674
-
-◾ 구글, 우주에서 AI 칩 첫 시험...‘선캐처 프로젝트’ 10월 본격화
-https://www.aitimes.com/news/articleView.html?idxno=215670
 
 ◾ 트웰브랩스, 스마트 제조·피지컬 AI로 B2B 사업 영토 대폭 확장
 https://www.aitimes.com/news/articleView.html?idxno=215656
 
-◾ 오픈AI, ＇GPT-6 사이버＇ 공개 임박…API 넘어 ＇전용 배포＇ 선보인다
-https://www.aitimes.com/news/articleView.html?idxno=215667
-
 ◾ MS, 에이전트·코딩 통합 새 ＇코파일럿＇ 공개…＇AI 시대 업무 OS＇ 선언
 https://www.aitimes.com/news/articleView.html?idxno=215662
+
+◾ “비정형 공정 난제 AI로 푼다”…카본식스, 피지컬 AI로 제조 혁신
+https://www.etnews.com/20260926000048
 
 ◾ ‘제미나이 3.8 라이브’ 라이브 아바타 탑재…실시간 대화형 영상 AI 에이전트 시대 연다
 https://www.aitimes.kr/news/articleView.html?idxno=42070
 
 [기관]
-◾ 트럼프·미 하원의장, 빅테크 수장들과 29일 AI 안전 회의 예정
-https://www.aitimes.com/news/articleView.html?idxno=215673
-
 ◾ AI 환각·편향 국민이 직접 찾는다…인공지능안전연구소, ＇AI 안전 지킴이＇ 가동
 https://www.etnews.com/20260926000054
 
 [해외]
+◾ 구글, 우주에서 AI 칩 첫 시험...‘선캐처 프로젝트’ 10월 본격화
+https://www.aitimes.com/news/articleView.html?idxno=215670
+
+◾ 트럼프·미 하원의장, 빅테크 수장들과 29일 AI 안전 회의 예정
+https://www.aitimes.com/news/articleView.html?idxno=215673
+
+◾ 딥시크, 매출 두 달 만에 2배 껑충...〃가격 인상에도 1.4조 달성〃
+https://www.aitimes.com/news/articleView.html?idxno=215672
+
 ◾ 미 항소법원 〃국방부의 앤트로픽 배제 조치는 정당〃
 https://www.aitimes.com/news/articleView.html?idxno=215668
 
 ◾ 빌 게이츠 〃AI가 10억명 목숨 위협할 수도〃…정부 개입·규제법 제정 촉구
 https://www.aitimes.com/news/articleView.html?idxno=215669
 
+◾ 오픈AI, ＇GPT-6 사이버＇ 공개 임박…API 넘어 ＇전용 배포＇ 선보인다
+https://www.aitimes.com/news/articleView.html?idxno=215667
+
 ◾ 미중 정상 백악관 회담...시진핑 〃AI 통제〃 vs 트럼프 〃현상 유지〃
 https://www.aitimes.com/news/articleView.html?idxno=215663
 
-◾ 앤트로픽, 아카마이와 16조원 규모 클라우드 컴퓨팅 계약
-https://www.etnews.com/20260926000007
+◾ “오픈AI AI 에이전트, 美 정부 사이트 비정상 접근”
+https://www.etnews.com/20260926000056
 
 ◾ [테크 차이나] 中 AI 에이전트 시장, ＇대화＇에서 ＇실행＇으로
 https://www.etnews.com/20260923000164
