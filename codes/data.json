@@ -29065,5 +29065,93 @@
       ]
     },
     "briefing": "- 딥시크가 AI 에이전트의 학습 비용을 낮출 수 있는 핵심 인프라 기술인 'DSec'을 공개했습니다.\n- 미국 내 AI 인프라 투자 규모가 향후 8년간 1경 4,000조 원에 이를 것이라는 전망이 제기되었습니다.\n- 트럼프 전 대통령은 AI 분야의 추가적인 규제 도입에 부정적인 입장을, 시진핑 주석은 미·중 간의 협력을 강조하는 입장을 보였습니다."
+  },
+  "26.09.27": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "머스크 〃연말까지 콜로서스 2 GPU 두 배 증설〃... 최대 121만개 달성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215674",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "구글, 우주에서 AI 칩 첫 시험...‘선캐처 프로젝트’ 10월 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215670",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "트웰브랩스, 스마트 제조·피지컬 AI로 B2B 사업 영토 대폭 확장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215656",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, ＇GPT-6 사이버＇ 공개 임박…API 넘어 ＇전용 배포＇ 선보인다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215667",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "MS, 에이전트·코딩 통합 새 ＇코파일럿＇ 공개…＇AI 시대 업무 OS＇ 선언",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215662",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "‘제미나이 3.8 라이브’ 라이브 아바타 탑재…실시간 대화형 영상 AI 에이전트 시대 연다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42070",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "기관": [
+        {
+          "title": "트럼프·미 하원의장, 빅테크 수장들과 29일 AI 안전 회의 예정",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215673",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "AI 환각·편향 국민이 직접 찾는다…인공지능안전연구소, ＇AI 안전 지킴이＇ 가동",
+          "link": "https://www.etnews.com/20260926000054",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "미 항소법원 〃국방부의 앤트로픽 배제 조치는 정당〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215668",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "빌 게이츠 〃AI가 10억명 목숨 위협할 수도〃…정부 개입·규제법 제정 촉구",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215669",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "미중 정상 백악관 회담...시진핑 〃AI 통제〃 vs 트럼프 〃현상 유지〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215663",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "앤트로픽, 아카마이와 16조원 규모 클라우드 컴퓨팅 계약",
+          "link": "https://www.etnews.com/20260926000007",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "[테크 차이나] 中 AI 에이전트 시장, ＇대화＇에서 ＇실행＇으로",
+          "link": "https://www.etnews.com/20260923000164",
+          "category": "해외",
+          "score": 3
+        }
+      ]
+    }
   }
 }
