@@ -1,56 +1,39 @@
-📢26.09.27 AI 일일 동향📢
+📢26.09.28 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 친환경·자율운항 선박이 온다…해양안보가 가야 할 길은?
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyMTYwNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 함포 운용·관리 AI챗봇 현장 적용 가능성 확인
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyMTYwNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
 [민간]
-◾ 말 못하는 AI ＇제브＇가 실리콘밸리 흔들었다...〃일주일 새 몸값 50배 뛰어〃
-https://www.aitimes.com/news/articleView.html?idxno=215675
+◾ KT, AI 모델 라우팅 기술로 글로벌 2위…“기업 AX 지원”
+https://www.aitimes.com/news/articleView.html?idxno=215686
 
-◾ 머스크 〃연말까지 콜로서스 2 GPU 두 배 증설〃... 최대 121만개 달성
-https://www.aitimes.com/news/articleView.html?idxno=215674
-
-◾ 트웰브랩스, 스마트 제조·피지컬 AI로 B2B 사업 영토 대폭 확장
-https://www.aitimes.com/news/articleView.html?idxno=215656
-
-◾ MS, 에이전트·코딩 통합 새 ＇코파일럿＇ 공개…＇AI 시대 업무 OS＇ 선언
-https://www.aitimes.com/news/articleView.html?idxno=215662
-
-◾ “비정형 공정 난제 AI로 푼다”…카본식스, 피지컬 AI로 제조 혁신
-https://www.etnews.com/20260926000048
-
-◾ ‘제미나이 3.8 라이브’ 라이브 아바타 탑재…실시간 대화형 영상 AI 에이전트 시대 연다
-https://www.aitimes.kr/news/articleView.html?idxno=42070
+◾ LG전자, AI 데이터센터 냉각솔루션 분야 엔비디아 공식 파트너 됐다
+https://www.aitimes.kr/news/articleView.html?idxno=42071
 
 [기관]
-◾ AI 환각·편향 국민이 직접 찾는다…인공지능안전연구소, ＇AI 안전 지킴이＇ 가동
-https://www.etnews.com/20260926000054
+◾ 제3회 대한민국 인공지능 혁신대상…＇AI+피지컬 AI 로봇＇ 혁신기업 찾는다
+https://www.etnews.com/20260922000101
+
+◾ 기획처, 내부 업무망에 국산 LLM 도입…공무원 AI 활용 확대
+https://www.etnews.com/20260927000063
+
+◾ 대전시, AI 기본계획 수립 본격화…산·학·연·관 거버넌스 구축
+https://www.etnews.com/20260922000187
+
+◾ 행안부, 재난안전 AX 종합계획 가동...사전 대비형 재난관리에 9400억원 투자
+https://www.etnews.com/20260927000039
+
+◾ 전북도, 현대차 투자 연계 ＇피지컬AI·청정수소·AI데이터센터＇ 3대 축 육성
+https://www.etnews.com/20260927000031
 
 [해외]
-◾ 구글, 우주에서 AI 칩 첫 시험...‘선캐처 프로젝트’ 10월 본격화
-https://www.aitimes.com/news/articleView.html?idxno=215670
-
-◾ 트럼프·미 하원의장, 빅테크 수장들과 29일 AI 안전 회의 예정
-https://www.aitimes.com/news/articleView.html?idxno=215673
-
-◾ 딥시크, 매출 두 달 만에 2배 껑충...〃가격 인상에도 1.4조 달성〃
-https://www.aitimes.com/news/articleView.html?idxno=215672
-
-◾ 미 항소법원 〃국방부의 앤트로픽 배제 조치는 정당〃
-https://www.aitimes.com/news/articleView.html?idxno=215668
-
-◾ 빌 게이츠 〃AI가 10억명 목숨 위협할 수도〃…정부 개입·규제법 제정 촉구
-https://www.aitimes.com/news/articleView.html?idxno=215669
-
-◾ 오픈AI, ＇GPT-6 사이버＇ 공개 임박…API 넘어 ＇전용 배포＇ 선보인다
-https://www.aitimes.com/news/articleView.html?idxno=215667
-
-◾ 미중 정상 백악관 회담...시진핑 〃AI 통제〃 vs 트럼프 〃현상 유지〃
-https://www.aitimes.com/news/articleView.html?idxno=215663
-
-◾ “오픈AI AI 에이전트, 美 정부 사이트 비정상 접근”
-https://www.etnews.com/20260926000056
-
-◾ [테크 차이나] 中 AI 에이전트 시장, ＇대화＇에서 ＇실행＇으로
-https://www.etnews.com/20260923000164
+◾ 美·中, AI 위험·혜택 논의하는 소통 채널 구축한다
+https://www.etnews.com/20260927000053
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
