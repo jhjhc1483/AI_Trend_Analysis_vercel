@@ -5,6 +5,9 @@
 ◾ 마키나락스, ＇AI 참모＇ 군 지휘통제체계 적용...을지연습서 실증 나서
 https://www.aitimes.com/news/articleView.html?idxno=215711
 
+◾ 마키나락스, 군 전장망 첫 AI 운용체계 적용…UFS서 실증
+https://www.etnews.com/20260928000394
+
 ◾ 국방부 최초 민간 클라우드 도입 시스템 순항…민간 기술 안정성 입증
 https://www.etnews.com/20260928000345
 
@@ -14,25 +17,16 @@ https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59191&menuSeq=3069&bbsSeq=32
 ◾ 민간 정보통신기술 국방 활용 확대 모색
 https://kookbang.dema.mil.kr/newsWeb/20260929/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878
 
-◾ 첨단 국방과학기술 분야 콘텐츠 교류·협력 강화
-https://kookbang.dema.mil.kr/newsWeb/20260929/15/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878
-
-◾ 국제표준부터 정보기술까지…K방산 국제 경쟁력 강화
-https://kookbang.dema.mil.kr/newsWeb/20260929/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878
-
 ◾ AI 아는 조직에서 활용하는 조직으로
 https://kookbang.dema.mil.kr/newsWeb/20260929/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878
 
 ◾ NIA-국방부, 700만 국방 관계자가 이용하는 원스톱 국방 플랫폼 ‘장병e음’ 성과공유
 https://www.aitimes.kr/news/articleView.html?idxno=42091
 
-◾ AI 접목 미래 교량 운용전략 모색
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTY5NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 마키나락스, 군 ‘전장망 최초’ AI 운영환경 적용...2026 UFS 통해 첫 실증
+https://www.aitimes.kr/news/articleView.html?idxno=42077
 
 [육군]
-◾ 마키나락스, 군 전장망 첫 AI 운용체계 적용…UFS서 실증
-https://www.etnews.com/20260928000394
-
 ◾ 대전시, 육군과 ＇방산 AX＇ 동맹…AI 입고 방산 키운다
 https://www.etnews.com/20260928000141
 
@@ -42,21 +36,24 @@ https://kookbang.dema.mil.kr/newsWeb/20260929/4/ATCE_CTGR_0010030000/view.do;JSE
 ◾ 육군·대전시, 국방 AX 협력체계 구축
 https://kookbang.dema.mil.kr/newsWeb/20260929/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878
 
-◾ 마키나락스, 군 ‘전장망 최초’ AI 운영환경 적용...2026 UFS 통해 첫 실증
-https://www.aitimes.kr/news/articleView.html?idxno=42077
+◾ AI 접목 미래 교량 운용전략 모색
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTY5NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 ◾ 육군·대전시, 국방 AX 협력체계 구축
 https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTY5MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
+◾ 모빌린트 “LG·두산·대동 로봇 맞춤형 온디바이스 AI 반도체 개발할 것”
+https://www.aitimes.com/news/articleView.html?idxno=215731
+
 ◾ 모빌린트, LG전자·두산로보틱스·대동과 온디바이스 AI 칩 공동 개발
 https://www.etnews.com/20260928000302
 
-◾ 대웅제약, AI로 의약품 제형 설계…53억원 국책과제 주관
-https://www.etnews.com/20260928000188
+◾ 정재헌 SKT 대표 “AI 에이전트 윤리, 업계 함의로 정부 기준 마련을”
+https://www.etnews.com/20260928000361
 
-◾ 한화자산운용, 자체 AI 플랫폼 ＇오딘＇ 도입…투자 데이터 분석 고도화
-https://www.etnews.com/20260928000088
+◾ “AI 아바타가 인력 공백 채운다”...딥브레인AI, 중소기업용 ‘고객 응대 AI 아바타’ 도입 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42082
 
 [기관]
 ◾ kt클라우드, 군산 대규모 AI 데이터센터 구축 착수… SGC에너지와 협력
@@ -68,14 +65,11 @@ https://www.etnews.com/20260928000156
 ◾ [정보통신 미래모임]공공 AI 전환 본격화…업계 “민간 역할·보안 기준 세워야”
 https://www.etnews.com/20260928000184
 
-◾ 정재헌 SKT 대표 “AI 에이전트 윤리, 업계 함의로 정부 기준 마련을”
-https://www.etnews.com/20260928000361
-
-◾ 개인정보위·통신3사 ＇유통망 개인정보보호·AI 규제 명확화＇ 집중 논의…소통채널도 신설
-https://www.etnews.com/20260928000320
-
 ◾ 개인정보위, AI 시대 개인정보 보호 국제협력 논의
 https://www.etnews.com/20260928000149
+
+◾ “AI 기반 과학기술 연구 미래 논의”…제1회 AI4Sci 코리아 개막
+https://www.etnews.com/20260928000105
 
 ◾ AI기반 과학기술 연구의 현재와 미래, 국내외 석학 모여 논의 - ｢AI4Sci Korea 2026｣ 국제학술대회 국내 첫 개최 -
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187809&searchOpt=ALL&searchTxt=
@@ -83,21 +77,12 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 인공지능으로 만드는 안전한 일상... 행안부, 재난안전 분야 AI 전환 본격 시동
 https://www.aitimes.kr/news/articleView.html?idxno=42088
 
-◾ 국토부  ＇인공지능·스마트 도시＇, 석·박사 인재 키울 대학 4곳 공모
-https://www.aitimes.kr/news/articleView.html?idxno=42086
-
 [해외]
 ◾ 우크라이나, ＇로봇 군단＇ 발족...드론 이어 지상 전장 무인화 박차
 https://www.aitimes.com/news/articleView.html?idxno=215725
 
-◾ 앤트로픽, 클로드로 이론물리학 난제 ‘9루프 산란 진폭’ 계산 성공
-https://www.aitimes.com/news/articleView.html?idxno=215716
-
 ◾ 미국·러시아, 유엔 AI 무기 협약서 ＇인간 감독＇ 안전장치 삭제
 https://www.aitimes.com/news/articleView.html?idxno=215728
-
-◾ 빌 게이츠 〃트럼프의 AI 안전장치 거부는 착오...중국도 규제 동참할 것〃
-https://www.aitimes.com/news/articleView.html?idxno=215717
 
 ◾ 중국, 미국 제치고 최상위 AI 인재 1위…한국은 자국 잔류율 77%로 2위
 https://www.aitimes.com/news/articleView.html?idxno=215722
