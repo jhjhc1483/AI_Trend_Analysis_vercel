@@ -29274,20 +29274,8 @@
           "score": 4
         },
         {
-          "title": "앤트로픽, 클로드로 이론물리학 난제 ‘9루프 산란 진폭’ 계산 성공",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215716",
-          "category": "해외",
-          "score": 4
-        },
-        {
           "title": "미국·러시아, 유엔 AI 무기 협약서 ＇인간 감독＇ 안전장치 삭제",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215728",
-          "category": "해외",
-          "score": 5
-        },
-        {
-          "title": "빌 게이츠 〃트럼프의 AI 안전장치 거부는 착오...중국도 규제 동참할 것〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215717",
           "category": "해외",
           "score": 4
         },
@@ -29295,7 +29283,7 @@
           "title": "중국, 미국 제치고 최상위 AI 인재 1위…한국은 자국 잔류율 77%로 2위",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215722",
           "category": "해외",
-          "score": 4
+          "score": 3
         },
         {
           "title": "클로드 ‘Computer Use’는 어떻게 사람처럼 컴퓨터를 조작하는가...김용덕 변리사, 앤트로픽의 AI 에이전트 특허 분석",
@@ -29318,6 +29306,12 @@
           "score": 5
         },
         {
+          "title": "마키나락스, 군 전장망 첫 AI 운용체계 적용…UFS서 실증",
+          "link": "https://www.etnews.com/20260928000394",
+          "category": "국방",
+          "score": 5
+        },
+        {
           "title": "국방부 최초 민간 클라우드 도입 시스템 순항…민간 기술 안정성 입증",
           "link": "https://www.etnews.com/20260928000345",
           "category": "국방",
@@ -29336,18 +29330,6 @@
           "score": 4
         },
         {
-          "title": "첨단 국방과학기술 분야 콘텐츠 교류·협력 강화",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20260929/15/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878",
-          "category": "국방",
-          "score": 3
-        },
-        {
-          "title": "국제표준부터 정보기술까지…K방산 국제 경쟁력 강화",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20260929/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878",
-          "category": "국방",
-          "score": 3
-        },
-        {
           "title": "AI 아는 조직에서 활용하는 조직으로",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20260929/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878",
           "category": "국방",
@@ -29357,22 +29339,16 @@
           "title": "NIA-국방부, 700만 국방 관계자가 이용하는 원스톱 국방 플랫폼 ‘장병e음’ 성과공유",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42091",
           "category": "국방",
-          "score": 3
+          "score": 4
         },
         {
-          "title": "AI 접목 미래 교량 운용전략 모색",
-          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTY5NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "title": "마키나락스, 군 ‘전장망 최초’ AI 운영환경 적용...2026 UFS 통해 첫 실증",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42077",
           "category": "국방",
           "score": 5
         }
       ],
       "육군": [
-        {
-          "title": "마키나락스, 군 전장망 첫 AI 운용체계 적용…UFS서 실증",
-          "link": "https://www.etnews.com/20260928000394",
-          "category": "육군",
-          "score": 5
-        },
         {
           "title": "대전시, 육군과 ＇방산 AX＇ 동맹…AI 입고 방산 키운다",
           "link": "https://www.etnews.com/20260928000141",
@@ -29392,8 +29368,8 @@
           "score": 5
         },
         {
-          "title": "마키나락스, 군 ‘전장망 최초’ AI 운영환경 적용...2026 UFS 통해 첫 실증",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42077",
+          "title": "AI 접목 미래 교량 운용전략 모색",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTY5NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
           "category": "육군",
           "score": 5
         },
@@ -29409,7 +29385,7 @@
           "title": "kt클라우드, 군산 대규모 AI 데이터센터 구축 착수… SGC에너지와 협력",
           "link": "https://www.etnews.com/20260928000067",
           "category": "기관",
-          "score": 3
+          "score": 4
         },
         {
           "title": "[정보통신 미래모임] “행정 전면 AI로 재설계”…＇AI 민주정부＇ 속도",
@@ -29424,20 +29400,14 @@
           "score": 4
         },
         {
-          "title": "정재헌 SKT 대표 “AI 에이전트 윤리, 업계 함의로 정부 기준 마련을”",
-          "link": "https://www.etnews.com/20260928000361",
-          "category": "기관",
-          "score": 3
-        },
-        {
-          "title": "개인정보위·통신3사 ＇유통망 개인정보보호·AI 규제 명확화＇ 집중 논의…소통채널도 신설",
-          "link": "https://www.etnews.com/20260928000320",
-          "category": "기관",
-          "score": 3
-        },
-        {
           "title": "개인정보위, AI 시대 개인정보 보호 국제협력 논의",
           "link": "https://www.etnews.com/20260928000149",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "“AI 기반 과학기술 연구 미래 논의”…제1회 AI4Sci 코리아 개막",
+          "link": "https://www.etnews.com/20260928000105",
           "category": "기관",
           "score": 3
         },
@@ -29451,16 +29421,16 @@
           "title": "인공지능으로 만드는 안전한 일상... 행안부, 재난안전 분야 AI 전환 본격 시동",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42088",
           "category": "기관",
-          "score": 3
-        },
-        {
-          "title": "국토부  ＇인공지능·스마트 도시＇, 석·박사 인재 키울 대학 4곳 공모",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42086",
-          "category": "기관",
-          "score": 3
+          "score": 4
         }
       ],
       "민간": [
+        {
+          "title": "모빌린트 “LG·두산·대동 로봇 맞춤형 온디바이스 AI 반도체 개발할 것”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215731",
+          "category": "민간",
+          "score": 4
+        },
         {
           "title": "모빌린트, LG전자·두산로보틱스·대동과 온디바이스 AI 칩 공동 개발",
           "link": "https://www.etnews.com/20260928000302",
@@ -29468,14 +29438,14 @@
           "score": 4
         },
         {
-          "title": "대웅제약, AI로 의약품 제형 설계…53억원 국책과제 주관",
-          "link": "https://www.etnews.com/20260928000188",
+          "title": "정재헌 SKT 대표 “AI 에이전트 윤리, 업계 함의로 정부 기준 마련을”",
+          "link": "https://www.etnews.com/20260928000361",
           "category": "민간",
           "score": 3
         },
         {
-          "title": "한화자산운용, 자체 AI 플랫폼 ＇오딘＇ 도입…투자 데이터 분석 고도화",
-          "link": "https://www.etnews.com/20260928000088",
+          "title": "“AI 아바타가 인력 공백 채운다”...딥브레인AI, 중소기업용 ‘고객 응대 AI 아바타’ 도입 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42082",
           "category": "민간",
           "score": 3
         }
@@ -29488,7 +29458,6 @@
           "score": 5
         }
       ]
-    },
-    "briefing": "- 마키나락스가 군 전장망에 최초로 AI 운영 환경을 적용하여 2026년 을지 자유의 방패(UFS) 연습에서 실증을 추진합니다.\n- 대전시와 육군이 국방 분야의 AI 전환(AX) 가속화를 위한 협력 체계를 구축하고 관련 산업 육성에 나섰습니다.\n- 미국과 러시아가 유엔 AI 무기 협약 과정에서 '인간 감독'에 관한 안전장치 조항 삭제를 주장하여 논란이 제기되었습니다."
+    }
   }
 }
