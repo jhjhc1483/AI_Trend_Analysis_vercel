@@ -29263,5 +29263,231 @@
       ]
     },
     "briefing": "- 함포 운용 및 관리 분야에 AI 챗봇을 적용할 수 있는 가능성이 확인되었습니다.\n- 행정안전부가 재난안전 관리 체계에 AI를 도입하는 종합계획을 가동하고 9,400억 원 규모의 투자를 추진합니다.\n- 싱가포르를 중심으로 AI 모델 출시 전 안전성을 검증하는 제3자 생태계 구축 움직임이 확산되고 있습니다."
+  },
+  "26.09.29": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "우크라이나, ＇로봇 군단＇ 발족...드론 이어 지상 전장 무인화 박차",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215725",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 클로드로 이론물리학 난제 ‘9루프 산란 진폭’ 계산 성공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215716",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "미국·러시아, 유엔 AI 무기 협약서 ＇인간 감독＇ 안전장치 삭제",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215728",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "빌 게이츠 〃트럼프의 AI 안전장치 거부는 착오...중국도 규제 동참할 것〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215717",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "중국, 미국 제치고 최상위 AI 인재 1위…한국은 자국 잔류율 77%로 2위",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215722",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "클로드 ‘Computer Use’는 어떻게 사람처럼 컴퓨터를 조작하는가...김용덕 변리사, 앤트로픽의 AI 에이전트 특허 분석",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42093",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "Arm, 클라우드·엣지·피지컬 AI 아우르는 ‘AI 포털’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42081",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "국방": [
+        {
+          "title": "마키나락스, ＇AI 참모＇ 군 지휘통제체계 적용...을지연습서 실증 나서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215711",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "국방부 최초 민간 클라우드 도입 시스템 순항…민간 기술 안정성 입증",
+          "link": "https://www.etnews.com/20260928000345",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "K-방산의 지속 가능한 성장, 국제표준과 첨단기술로 뒷받침한다",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59191&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "민간 정보통신기술 국방 활용 확대 모색",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260929/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "첨단 국방과학기술 분야 콘텐츠 교류·협력 강화",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260929/15/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878",
+          "category": "국방",
+          "score": 3
+        },
+        {
+          "title": "국제표준부터 정보기술까지…K방산 국제 경쟁력 강화",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260929/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878",
+          "category": "국방",
+          "score": 3
+        },
+        {
+          "title": "AI 아는 조직에서 활용하는 조직으로",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260929/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "NIA-국방부, 700만 국방 관계자가 이용하는 원스톱 국방 플랫폼 ‘장병e음’ 성과공유",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42091",
+          "category": "국방",
+          "score": 3
+        },
+        {
+          "title": "AI 접목 미래 교량 운용전략 모색",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTY5NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "육군": [
+        {
+          "title": "마키나락스, 군 전장망 첫 AI 운용체계 적용…UFS서 실증",
+          "link": "https://www.etnews.com/20260928000394",
+          "category": "육군",
+          "score": 5
+        },
+        {
+          "title": "대전시, 육군과 ＇방산 AX＇ 동맹…AI 입고 방산 키운다",
+          "link": "https://www.etnews.com/20260928000141",
+          "category": "육군",
+          "score": 5
+        },
+        {
+          "title": "AI 접목 미래 교량 운용전략 모색",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260929/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878",
+          "category": "육군",
+          "score": 5
+        },
+        {
+          "title": "육군·대전시, 국방 AX 협력체계 구축",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20260929/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=K_Dp8bn_WlXU9P4dm7xm_Mxzpnrc0BINBZdz0wng0MTg3Uwk5N4g!272000878",
+          "category": "육군",
+          "score": 5
+        },
+        {
+          "title": "마키나락스, 군 ‘전장망 최초’ AI 운영환경 적용...2026 UFS 통해 첫 실증",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42077",
+          "category": "육군",
+          "score": 5
+        },
+        {
+          "title": "육군·대전시, 국방 AX 협력체계 구축",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMTY5MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "kt클라우드, 군산 대규모 AI 데이터센터 구축 착수… SGC에너지와 협력",
+          "link": "https://www.etnews.com/20260928000067",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "[정보통신 미래모임] “행정 전면 AI로 재설계”…＇AI 민주정부＇ 속도",
+          "link": "https://www.etnews.com/20260928000156",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[정보통신 미래모임]공공 AI 전환 본격화…업계 “민간 역할·보안 기준 세워야”",
+          "link": "https://www.etnews.com/20260928000184",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "정재헌 SKT 대표 “AI 에이전트 윤리, 업계 함의로 정부 기준 마련을”",
+          "link": "https://www.etnews.com/20260928000361",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "개인정보위·통신3사 ＇유통망 개인정보보호·AI 규제 명확화＇ 집중 논의…소통채널도 신설",
+          "link": "https://www.etnews.com/20260928000320",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "개인정보위, AI 시대 개인정보 보호 국제협력 논의",
+          "link": "https://www.etnews.com/20260928000149",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "AI기반 과학기술 연구의 현재와 미래, 국내외 석학 모여 논의 - ｢AI4Sci Korea 2026｣ 국제학술대회 국내 첫 개최 -",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187809&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "인공지능으로 만드는 안전한 일상... 행안부, 재난안전 분야 AI 전환 본격 시동",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42088",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "국토부  ＇인공지능·스마트 도시＇, 석·박사 인재 키울 대학 4곳 공모",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42086",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "민간": [
+        {
+          "title": "모빌린트, LG전자·두산로보틱스·대동과 온디바이스 AI 칩 공동 개발",
+          "link": "https://www.etnews.com/20260928000302",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "대웅제약, AI로 의약품 제형 설계…53억원 국책과제 주관",
+          "link": "https://www.etnews.com/20260928000188",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "한화자산운용, 자체 AI 플랫폼 ＇오딘＇ 도입…투자 데이터 분석 고도화",
+          "link": "https://www.etnews.com/20260928000088",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[제1309호] TTA 정보보호 시험·인증체계와 AI 시대 대응 방향",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1309%ED%98%B8%5D%20TTA%20%EC%A0%95%EB%B3%B4%EB%B3%B4%ED%98%B8%20%EC%8B%9C%ED%97%98%C2%B7%EC%9D%B8%EC%A6%9D%EC%B2%B4%EA%B3%84%EC%99%80%20AI%20%EC%8B%9C%EB%8C%80%20%EB%8C%80%EC%9D%91%20%EB%B0%A9%ED%96%A5",
+          "category": "간행물",
+          "score": 5
+        }
+      ]
+    }
   }
 }
