@@ -17,13 +17,6 @@ https://kookbang.dema.mil.kr/newsWeb/20260930/1/ATCE_CTGR_0050020000/view.do;JSE
 ◾ AI·로봇 군수 현장 적용 방안 모색
 https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTgwNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 공군, 서울대와 국방기술 협력 맞손
-https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTgwMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-[육군]
-◾ 현장의 작은 제안이 육군 교리를 바꾼다
-https://kookbang.dema.mil.kr/newsWeb/20260930/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=ej_u2u5i5iCWjJdtJ4KKRg7594co9Hl1k7jWqbC4ineO9hu_B4V0!-733402127
-
 [민간]
 ◾ 메타, ‘엔터프라이즈 플랫폼’ 출범…기업용 AI 시장 본격 도전
 https://www.aitimes.com/news/articleView.html?idxno=215743
@@ -34,30 +27,45 @@ https://www.aitimes.com/news/articleView.html?idxno=215760
 ◾ 삼성 6개사, 미국 AI 인프라 기업 헬릭스에 1.4조 투자
 https://www.aitimes.com/news/articleView.html?idxno=215753
 
-◾ 카카오, 인공지능안전연구소와 AI 안전성 검증 확대한다
-https://www.etnews.com/20260929000055
+◾ 쿠도커뮤니케이션, 국내 최초 AI 에이전트 기반 AI CITY 선도 모델 구축
+https://www.etnews.com/20260929000313
+
+◾ 삼성, AI 데이터센터 ＇판＇ 짠다…美 AI인프라 기업에 1.4조 투자
+https://www.etnews.com/20260929000238
+
+◾ 삼성SDI, AI 데이터센터용 배터리 솔루션 공개…＇차세대 원통형 LFP 배터리＇ 첫선
+https://www.etnews.com/20260929000111
+
+◾ 네이버지도 도보 길안내, 메타 AI 글래스로 듣는다
+https://www.etnews.com/20260929000068
 
 ◾ 네이버, 멕시코 AI 시장 노크…정부·기업과 첫 현지 협력 논의
 https://www.etnews.com/20260929000030
 
-◾ “AI 활용 후보물질 발굴부터 검증까지”...케이메디허브, AI 신약개발 허브로 도약한다
-https://www.etnews.com/20260929000016
-
-◾ AMD, AI 스타트업 ＇월드랩스＇ 82억달러에 인수
-https://www.etnews.com/20260929000012
-
 ◾ 현대엔지니어링, ‘군산 AI 데이터센터 신축 사업’ 수주
 https://www.aitimes.kr/news/articleView.html?idxno=42109
+
+◾ LG전자, 블록처럼 연결하는 모듈러 솔루션...AI 데이터센터 냉각 시장 공략
+https://www.aitimes.kr/news/articleView.html?idxno=42098
+
+◾ 삼성 6개사, 美 AI 인프라 플랫폼 ＇헬릭스＇에 10억 달러 투자…데이터센터·전력 정조준
+https://www.aitimes.kr/news/articleView.html?idxno=42094
 
 [기관]
 ◾ 과기부, AI중심대학 18개교·AX대학원 15개교 출범
 https://www.aitimes.com/news/articleView.html?idxno=215766
 
+◾ 출연연 중심 ＇AI 융합연구＇ 본격 지원 이뤄진다
+https://www.etnews.com/20260929000333
+
+◾ [초지능 시대 인재양성] 18개 AI중심대학, 전교생 기초교육하고 전공과 AI 잇는다
+https://www.etnews.com/20260929000164
+
 ◾ 전북대, 국가 피지컬AI 본사업 핵심과제 대거 선정…2652억 투입
 https://www.etnews.com/20260929000214
 
-◾ KISA, 부천시·경찰과 AI 기반 실종자 탐색체계 구축
-https://www.etnews.com/20260929000159
+◾ 한국벤처투자, 퓨리오사AI·업스테이지와 손잡고 국산 AI챗봇 구축
+https://www.etnews.com/20260929000165
 
 ◾ 우주청, 국가위성 표준 영상 6.7만장 공개…“AI 기반 위성정보 활용산업 육성”
 https://www.etnews.com/20260929000061
@@ -68,6 +76,18 @@ https://www.etnews.com/20260929000053
 ◾ 독파모, ＇프런티어 AI＇로 재편 전망…정부 “최상위 모델 재원 집중 필요”
 https://www.etnews.com/20260929000114
 
+◾ 카카오, 인공지능안전연구소와 AI 안전성 검증 확대한다
+https://www.etnews.com/20260929000055
+
+◾ 아이웍스-김해시, 환각 검증 sLM 자체 개발…행정 AI 플랫폼 고도화
+https://www.etnews.com/20260929000052
+
+◾ 3개월 법적 분쟁 끝…이지케어텍, 362억 공공병원 AI 클라우드 사업 품었다
+https://www.etnews.com/20260929000027
+
+◾ “AI 활용 후보물질 발굴부터 검증까지”...케이메디허브, AI 신약개발 허브로 도약한다
+https://www.etnews.com/20260929000016
+
 ◾ 과기정통부, 대학 교육 AI 중심 전환 본격화 AI중심대학 18개교·AX대학원 15개교 출범
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187815&searchOpt=ALL&searchTxt=
 
@@ -77,11 +97,11 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 국가위성 표준영상 대규모 공개...인공지능기반 위성정보 활용산업 키운다
 https://www.aitimes.kr/news/articleView.html?idxno=42106
 
-◾ 한국산업인력공단, 국가자격시험 인공지능 활용 부정행위 대응 역량 강화
-https://www.aitimes.kr/news/articleView.html?idxno=42103
+◾ “문맥은 살리고 개인정보만 가린다”....서울대 이재진 교수팀, 한국어 맞춤 정밀 AI 비식별화 기술 개발
+https://www.aitimes.kr/news/articleView.html?idxno=42101
 
-◾ 국방부-우주항공청, 제3회 미래국방과학기술 정책협의회 우주분과 공동 개최
-https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyMTc3NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 움직임의 흐름 읽는 AI 반도체 개발…KAIST, 웨어러블 기기 활용 기대
+https://www.aitimes.kr/news/articleView.html?idxno=42100
 
 [해외]
 ◾ 플로리다주, 오픈AI ＇안전장치 없는＇ 신규 모델 개발 금지 가처분 신청
@@ -99,18 +119,30 @@ https://www.aitimes.com/news/articleView.html?idxno=215751
 ◾ “AI가 AI 개발 가속”…＇지능 폭발＇ 경고 속 빅테크 행보 엇갈려
 https://www.etnews.com/20260929000262
 
+◾ AI 석학 등 세계 연구진 22인, 수백만명 대체할 ＇지능 폭발＇ 대비 촉구
+https://www.etnews.com/20260929000014
+
+◾ AMD, AI 스타트업 ＇월드랩스＇ 82억달러에 인수
+https://www.etnews.com/20260929000012
+
 ◾ 앤트로픽, ‘클로드 소넷 5.5’ 공개…코딩 성능 대폭 향상·속도 30%↑, 비용 30%↓
 https://www.aitimes.kr/news/articleView.html?idxno=42111
-
-◾ AMD, 다음 수는 ‘AI 두뇌’...피이페이 리 교수 ＇월드랩스＇ 11조원에 인수
-https://www.aitimes.kr/news/articleView.html?idxno=42104
 
 ◾ 엔비디아, AI 에이전트 전 계층 보안 강화…“AI 보안은 엔지니어링 문제”
 https://www.aitimes.kr/news/articleView.html?idxno=42097
 
 📚 간행물
+◾ Market Insight 428 : 모빌리티용 재활용 소재
+https://astinet.kr/reports/market-insights/750679
+
+◾ Market Insight 427 : 양액 재배 시스템
+https://astinet.kr/reports/market-insights/750678
+
 ◾ Market Insight 426 : 재료정보학시장 (Materials Informatic...
 https://astinet.kr/reports/market-insights/750677
+
+◾ Market Insight 425 : 로보어드바이저 (Robo-Advisor)
+https://astinet.kr/reports/market-insights/750676
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
