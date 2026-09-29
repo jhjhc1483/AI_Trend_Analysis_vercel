@@ -936,7 +936,8 @@
                 } else if (line.startsWith('◾')) {
                     const title = line.replace('◾', '').trim();
                     const url = lines[i + 1] && lines[i + 1].startsWith('http') ? lines[i + 1].trim() : '#';
-                    if (currentSection) currentSection.articles.push({ title, url });
+                    const score = findScoreForArticle(title, url);
+                    if (currentSection) currentSection.articles.push({ title, url, score });
                     if (url !== '#') i++;
                 } else if (line.startsWith('✅')) {
                     const footer = document.getElementById('gemini-footer');
@@ -947,6 +948,18 @@
 
             currentSections = sections;
             renderAll(sections);
+        }
+
+        function findScoreForArticle(title, url) {
+            if (!allHistoryData) return undefined;
+            for (const d of Object.keys(allHistoryData)) {
+                const catObj = allHistoryData[d]?.categorized || {};
+                for (const cat of Object.keys(catObj)) {
+                    const found = catObj[cat]?.find(a => (a.link && a.link === url) || (a.title && a.title.trim() === title.trim()));
+                    if (found && found.score) return found.score;
+                }
+            }
+            return undefined;
         }
 
         function renderHistoryDate(dateKey) {
@@ -1003,6 +1016,9 @@
                     }))
                 });
             }
+
+            const footer = document.getElementById('gemini-footer');
+            if (footer) footer.innerText = '위 내용은 GEMINI에 의해 작성됨.';
 
             currentSections = sections;
             renderAll(sections);
@@ -1486,6 +1502,56 @@
         // ========================================
         // Initialization
         // ========================================
+        async function loadInitialData() {
+            try {
+                const response = await fetch('codes/data.json?t=' + Date.now());
+                if (!response.ok) throw new Error('data.json 로드 실패');
+                allHistoryData = await response.json();
+
+                const dates = Object.keys(allHistoryData).sort((a, b) => b.localeCompare(a));
+
+                if (dates.length > 0) {
+                    const historyDateInput = document.getElementById('history-date');
+                    const historyTrigger = document.getElementById('history-trigger');
+
+                    if (historyTrigger && historyDateInput) {
+                        historyTrigger.addEventListener('click', () => {
+                            if (typeof historyDateInput.showPicker === 'function') {
+                                historyDateInput.showPicker();
+                            } else {
+                                historyDateInput.click();
+                            }
+                        });
+
+                        const formattedDates = dates.map(d => '20' + d.replace(/\./g, '-'));
+                        historyDateInput.min = formattedDates[formattedDates.length - 1];
+                        historyDateInput.max = formattedDates[0];
+                        historyDateInput.value = formattedDates[0];
+
+                        historyDateInput.addEventListener('change', (e) => {
+                            const selectedDate = e.target.value;
+                            const key = selectedDate.substring(2).replace(/-/g, '.');
+                            if (allHistoryData[key]) renderHistoryDate(key);
+                            else alert('해당 날짜의 데이터가 없습니다.');
+                        });
+                    }
+
+                    // 최신 날짜로 즉시 렌더링 (score 및 필독/주목 뱃지 포함!)
+                    renderHistoryDate(dates[0]);
+
+                    // Render time series charts
+                    renderTimeSeriesCharts();
+                    return;
+                }
+            } catch (error) {
+                console.warn('data.json 로드 실패, data.txt 폴백 실행:', error);
+            }
+
+            // 폴백: data.json 로드 실패 시
+            fetchBriefing();
+            fetchLatestText();
+        }
+
         document.addEventListener('DOMContentLoaded', async () => {
             // Theme
             initTheme();
@@ -1495,53 +1561,11 @@
             const audioPlayer = document.getElementById('audioPlayer');
             if (audioPlayer) audioPlayer.src = `public/audio.mp3?t=${Date.now()}`;
 
-            // Briefing
-            fetchBriefing();
-
-            // Latest data (from data.txt)
-            fetchLatestText();
-
             // Search
             initSearch();
 
-            // History data (data.json)
-            try {
-                const response = await fetch('codes/data.json?t=' + Date.now());
-                if (!response.ok) return;
-                allHistoryData = await response.json();
-
-                const dates = Object.keys(allHistoryData).sort((a, b) => b.localeCompare(a));
-
-                if (dates.length > 0) {
-                    const historyDateInput = document.getElementById('history-date');
-                    const historyTrigger = document.getElementById('history-trigger');
-
-                    historyTrigger.addEventListener('click', () => {
-                        if (typeof historyDateInput.showPicker === 'function') {
-                            historyDateInput.showPicker();
-                        } else {
-                            historyDateInput.click();
-                        }
-                    });
-
-                    const formattedDates = dates.map(d => '20' + d.replace(/\./g, '-'));
-                    historyDateInput.min = formattedDates[formattedDates.length - 1];
-                    historyDateInput.max = formattedDates[0];
-                    historyDateInput.value = "";
-
-                    historyDateInput.addEventListener('change', (e) => {
-                        const selectedDate = e.target.value;
-                        const key = selectedDate.substring(2).replace(/-/g, '.');
-                        if (allHistoryData[key]) renderHistoryDate(key);
-                        else alert('해당 날짜의 데이터가 없습니다.');
-                    });
-
-                    // Render time series charts
-                    renderTimeSeriesCharts();
-                }
-            } catch (error) {
-                console.error('History load skip:', error);
-            }
+            // Load initial data (data.json first to show scores & badges, fallback to data.txt)
+            await loadInitialData();
         });
     </script>
 </body>
