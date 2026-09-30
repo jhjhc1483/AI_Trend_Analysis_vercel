@@ -1,254 +1,284 @@
 [
   {
-    "title": "플로리다주, 오픈AI ＇안전장치 없는＇ 신규 모델 개발 금지 가처분 신청",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215769",
+    "title": "〃아스트라급 지능을 5분의 1 가격에〃…오픈AI, ＇GPT-6.1 솔＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215778",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "알트먼·아모데이, 호주 의회 AI 청문회 불참...오픈AI는 CSO 파견",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215771",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "메타, ‘엔터프라이즈 플랫폼’ 출범…기업용 AI 시장 본격 도전",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215743",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "과기부, AI중심대학 18개교·AX대학원 15개교 출범",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215766",
+    "title": "배경훈 장관 “독파모 계속된다…SPC 프론티어 AI 도전과 병행”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215817",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "저커버그·아모데이·젠슨 황, 29일 트럼프와 백악관서 AI 정책 논의",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215747",
+    "title": "구글, AI 모델 재학습 없이 ‘하네스’ 스스로 개선하는 ‘RRSI’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215802",
     "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "리퀴드 AI, 의사결정 모델 ‘d1’ 출시...〃기존 1위 제브 제쳤다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215799",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "리사 수 AMD CEO, 10월8일 방한…국내 NPU 기업과 인프라 협력 구체화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215815",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "알리바바, 대화 타이밍까지 판단하는 음성 AI ‘큐원-오디오-3.1-리얼타임’ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215808",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "NYT 〃오픈AI, 직원·외부 연구원 AI 보안 경고 묵살〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215814",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "AWS, 서울 리전서 최신 ＇클로드＇ 모델 제공...〃데이터 국경 안 넘는다〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215807",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "〃인류 멸종 확률 50%〃...AI 연구원 22인 ＇경고 인터뷰＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215796",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "오픈AI, 호주 정부망 무단 접근 사과...〃재발 방지·특별 조사팀 구성〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215795",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "구글·MS, AI 데이터 표준 ＇아파치 오시＇ 합류…＇폐쇄 생태계＇ 연다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215803",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "딥시크, 화웨이 ＇어센드＇용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215798",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "SAS “韓 기업, AI 안전성 신뢰 높아져…감독 강화 효과”",
+    "link": "https://www.etnews.com/20260930000451",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "포티투마루, 9개국 장·차관에 ＇공공 AX 5대 전략＇ 제시",
+    "link": "https://www.etnews.com/20260930000445",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "AI 생성물 표시·알고리즘 투명성 강화…방미통위 ＇미디어 기본사회＇ 시동",
+    "link": "https://www.etnews.com/20260930000440",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "한림대, ＇AI 혁신인재양성＇ 선정…155억원 투입해 AX 석·박사 키운다",
+    "link": "https://www.etnews.com/20260930000436",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "공공부문 44% ＇AI 도입 성과 공백＇…“진단체계 혁신해야”",
+    "link": "https://www.etnews.com/20260930000417",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "LG전자-MS, ＇사람처럼 대화하는＇ 씽큐온 만든다…끼어들기도 척척",
+    "link": "https://www.etnews.com/20260930000216",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "국가 AI 안전 마스터플랜 12월 나온다…민·관 실무 협의 시동",
+    "link": "https://www.etnews.com/20260930000391",
+    "category": "기관",
     "score": 5
   },
   {
-    "title": "카카오, AI안전연구소와 AI 안전성 평가 도구 개발",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215760",
+    "title": "로봇·방산·이차전지 특화단지 신규 지정…韓총리, “30년까지 AI로봇 20만대 보급”",
+    "link": "https://www.etnews.com/20260930000333",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "AI로 무장한 해커…국내 악성 침해사고 3건 중 1건 AI 활용",
+    "link": "https://www.etnews.com/20260930000330",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "오픈AI, 안전 문제로 ＇GPT-6.1 아스트라＇ 출시 철회...〃기만·무단 접근〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215751",
-    "category": "해외",
+    "title": "박세웅 ETRI 원장 “AI 기반 국가임무 중심 연구기관으로 대전환”",
+    "link": "https://www.etnews.com/20260930000297",
+    "category": "기관",
     "score": 4
   },
   {
-    "title": "삼성 6개사, 미국 AI 인프라 기업 헬릭스에 1.4조 투자",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215753",
+    "title": "삼성전자 AI 포럼 개최…오픈AI 리처드 호 “실행은 AI에 위임, 판단은 사람이”",
+    "link": "https://www.etnews.com/20260930000273",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "출연연 중심 ＇AI 융합연구＇ 본격 지원 이뤄진다",
-    "link": "https://www.etnews.com/20260929000333",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "쿠도커뮤니케이션, 국내 최초 AI 에이전트 기반 AI CITY 선도 모델 구축",
-    "link": "https://www.etnews.com/20260929000313",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "[초지능 시대 인재양성] 18개 AI중심대학, 전교생 기초교육하고 전공과 AI 잇는다",
-    "link": "https://www.etnews.com/20260929000164",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "“AI가 AI 개발 가속”…＇지능 폭발＇ 경고 속 빅테크 행보 엇갈려",
-    "link": "https://www.etnews.com/20260929000262",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "삼성, AI 데이터센터 ＇판＇ 짠다…美 AI인프라 기업에 1.4조 투자",
-    "link": "https://www.etnews.com/20260929000238",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "전북대, 국가 피지컬AI 본사업 핵심과제 대거 선정…2652억 투입",
-    "link": "https://www.etnews.com/20260929000214",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "한국벤처투자, 퓨리오사AI·업스테이지와 손잡고 국산 AI챗봇 구축",
-    "link": "https://www.etnews.com/20260929000165",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "우주청, 국가위성 표준 영상 6.7만장 공개…“AI 기반 위성정보 활용산업 육성”",
-    "link": "https://www.etnews.com/20260929000061",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "범정부 AI·데이터행정 협력체계 본격 가동",
-    "link": "https://www.etnews.com/20260929000053",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "독파모, ＇프런티어 AI＇로 재편 전망…정부 “최상위 모델 재원 집중 필요”",
-    "link": "https://www.etnews.com/20260929000114",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "삼성SDI, AI 데이터센터용 배터리 솔루션 공개…＇차세대 원통형 LFP 배터리＇ 첫선",
-    "link": "https://www.etnews.com/20260929000111",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "네이버지도 도보 길안내, 메타 AI 글래스로 듣는다",
-    "link": "https://www.etnews.com/20260929000068",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "카카오, 인공지능안전연구소와 AI 안전성 검증 확대한다",
-    "link": "https://www.etnews.com/20260929000055",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "아이웍스-김해시, 환각 검증 sLM 자체 개발…행정 AI 플랫폼 고도화",
-    "link": "https://www.etnews.com/20260929000052",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "네이버, 멕시코 AI 시장 노크…정부·기업과 첫 현지 협력 논의",
-    "link": "https://www.etnews.com/20260929000030",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "3개월 법적 분쟁 끝…이지케어텍, 362억 공공병원 AI 클라우드 사업 품었다",
-    "link": "https://www.etnews.com/20260929000027",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "“AI 활용 후보물질 발굴부터 검증까지”...케이메디허브, AI 신약개발 허브로 도약한다",
-    "link": "https://www.etnews.com/20260929000016",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "AI 석학 등 세계 연구진 22인, 수백만명 대체할 ＇지능 폭발＇ 대비 촉구",
-    "link": "https://www.etnews.com/20260929000014",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "AMD, AI 스타트업 ＇월드랩스＇ 82억달러에 인수",
-    "link": "https://www.etnews.com/20260929000012",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "과기정통부, 대학 교육 AI 중심 전환 본격화 AI중심대학 18개교·AX대학원 15개교 출범",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187815&searchOpt=ALL&searchTxt=",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "과기정통부, 서울대에 ‘인공지능(AI) 반도체 혁신연구소’ 개소... 산·학 협력으로 차세대 인공지능 반도체 기술개발·핵심인재 양성",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187812&searchOpt=ALL&searchTxt=",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "AI·로봇 군수 현장 적용 방안 모색",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260930/3/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=ej_u2u5i5iCWjJdtJ4KKRg7594co9Hl1k7jWqbC4ineO9hu_B4V0!-733402127",
+    "title": "티오리 ＇진트＇, 美 DARPA AI 통신 앱 보안 연구 수행",
+    "link": "https://www.etnews.com/20260930000257",
     "category": "국방",
     "score": 5
   },
   {
-    "title": "공군, 서울대와 국방기술 협력 맞손",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260930/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=ej_u2u5i5iCWjJdtJ4KKRg7594co9Hl1k7jWqbC4ineO9hu_B4V0!-733402127",
-    "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "미래 전장의 혈관 ‘상용 저궤도위성’",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260930/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=ej_u2u5i5iCWjJdtJ4KKRg7594co9Hl1k7jWqbC4ineO9hu_B4V0!-733402127",
-    "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "AI가 고도화될수록 인간 판단력이 중요하다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20260930/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=ej_u2u5i5iCWjJdtJ4KKRg7594co9Hl1k7jWqbC4ineO9hu_B4V0!-733402127",
-    "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "앤트로픽, ‘클로드 소넷 5.5’ 공개…코딩 성능 대폭 향상·속도 30%↑, 비용 30%↓",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42111",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "현대엔지니어링, ‘군산 AI 데이터센터 신축 사업’ 수주",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42109",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "국가위성 표준영상 대규모 공개...인공지능기반 위성정보 활용산업 키운다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42106",
+    "title": "지식재산처, 특허 데이터 961만 건 AI 학습용으로 푼다…민간 무료 개방",
+    "link": "https://www.etnews.com/20260930000245",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "“문맥은 살리고 개인정보만 가린다”....서울대 이재진 교수팀, 한국어 맞춤 정밀 AI 비식별화 기술 개발",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42101",
+    "title": "“규제 기다리다 혁신기업 사라진다”…AI·전문가가 정책 검증하는 ＇RegDAO＇ 제안",
+    "link": "https://www.etnews.com/20260930000223",
     "category": "기관",
     "score": 3
   },
   {
-    "title": "움직임의 흐름 읽는 AI 반도체 개발…KAIST, 웨어러블 기기 활용 기대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42100",
+    "title": "서울AI재단·전자신문, 내달 7일 ＇서울 AI 윤리·거버넌스 포럼＇ 개최",
+    "link": "https://www.etnews.com/20260930000205",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "국립금오공대, 과기부 ＇AI중심대학·AX대학원＇ 동시 선정 쾌거…“K-전략산업 이끌 AI·AX 인재 키운다”",
+    "link": "https://www.etnews.com/20260930000203",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "LG전자, 블록처럼 연결하는 모듈러 솔루션...AI 데이터센터 냉각 시장 공략",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42098",
+    "title": "직스테크놀로지·한신공영·정도, AI 기반 ＇데이터센터 스마트 건설＇ 맞손",
+    "link": "https://www.etnews.com/20260930000175",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "엔비디아, AI 에이전트 전 계층 보안 강화…“AI 보안은 엔지니어링 문제”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42097",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "삼성 6개사, 美 AI 인프라 플랫폼 ＇헬릭스＇에 10억 달러 투자…데이터센터·전력 정조준",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42094",
+    "title": "엔비디아, 11월 서울서 AI 데이 연다…삼성·SK·네이버 등 20개사 참여",
+    "link": "https://www.etnews.com/20260930000159",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "AI·로봇 군수 현장 적용 방안 모색",
-    "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMTgwNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방",
+    "title": "“기존 보안으론 지능형 웹쉘 못 막는다”… UMV기술, GITEX AI에서 기술력 뽐내",
+    "link": "https://www.etnews.com/20260930000156",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "부산시, AI중심대학에 맞춰 지역 AX 인재양성 시동",
+    "link": "https://www.etnews.com/20260930000154",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "글로벌 AI 허브 입지 선정 공청회 개최",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187827&searchOpt=ALL&searchTxt=",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "한-영, 인공지능 분야 협력 강화 방안 논의",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187821&searchOpt=ALL&searchTxt=",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "민‧관이 함께 국가 인공지능 안전 종합계획 수립 추진",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187823&searchOpt=ALL&searchTxt=",
+    "category": "기관",
     "score": 5
+  },
+  {
+    "title": "인공지능(AI) 협력으로 글로벌 디지털 공동 번영 모색, 제12회 글로벌 ICT 리더십 포럼 개최",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187818&searchOpt=ALL&searchTxt=",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "영국, 우크라이나 전장 데이터로 AI 드론 군집 개발…최대 12개 기업 참여",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42133",
+    "category": "해외",
+    "score": 5
+  },
+  {
+    "title": "美 정부 온라인 서비스 통합 포털 ‘아메리카닷거브’ 출범…제미나이로 1억명 공공서비스 지원",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42130",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "온세미, 자동차 사업 성장 모델 피지컬 AI로 확장... 지능형 기계 분야서 새로운 성장 기회 모색",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42128",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "라이드플럭스, KGM·현대모비스와 맞손…완성차 B2B ‘AI 드라이버’ 탑재",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42127",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "전영현 부회장, 〃에이전틱 AI, 업무와 조직문화 근본적으로 바꿀 것〃",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42126",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "美 정부, ‘AI’ 대신 ‘슈퍼 인텔리전스(SI)’ 쓴다…트럼프, “새로운 지능 시대 개막”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42125",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "글로벌 ‘로봇 공장’ 시대 개막··· 브릴스, 2027년 상반기 송도 휴머노이드 센터 오픈",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42122",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "NIA, AI데이터안심활용센터 개소...데이터 활용 고신뢰존과 협업·소통을 위한 AI라운지로 재탄생",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42120",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "〃AI 성능·자원·비용을 한눈에〃…마키나락스, 기업 AI 주권 강화 위한 런웨이 업데이트 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42119",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "AMD, 라이젠 AI 맥스+ 프로 400 시리즈 탑재 에이전틱 PC 출시... 3,000억 파라미터 AI 모델 로컬 구동",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42117",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "배경훈 부총리 “독파모는 계속된다”…프론티어 AI도 동시에 도전",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42113",
+    "category": "기관",
+    "score": 4
   }
 ]
