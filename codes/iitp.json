@@ -1702,5 +1702,29 @@
         "년": "2026",
         "월": "09",
         "일": "30"
+    },
+    {
+        "제목": "2026년 8월 온라인쇼핑동향",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-261001-000002&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "10",
+        "일": "01"
+    },
+    {
+        "제목": "2026년 3분기 벤처기업 경기실사지수(BSI)",
+        "분류": "정부 정책자료",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-261001-000001&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "10",
+        "일": "01"
+    },
+    {
+        "제목": "자율AI, 첨단 AI 개발 통제, 미·중 AI 대화 [AI·ICT Brief 2026-34호]",
+        "분류": "AI · ICT Brief",
+        "링크": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-261001-000029&cpage=1&rows=10&searchTarget=all",
+        "년": "2026",
+        "월": "10",
+        "일": "01"
     }
 ]
