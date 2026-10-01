@@ -30083,14 +30083,26 @@
     "categorized": {
       "민간": [
         {
-          "title": "앤트로픽 “LLM·로봇 함께 쓰면 업무 자동화 80% 가능”",
-          "link": "https://www.etnews.com/20261001000495",
+          "title": "KT, 병원 AX 전문 내부 조직 개설...“의료 특화 AI로 환자 편의·행정 효율 개선〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215840",
           "category": "민간",
-          "score": 4
+          "score": 3
+        },
+        {
+          "title": "인핸스, IBK기업은행 ＇온톨로지 AI 데이터 분석＇ 실증 착수",
+          "link": "https://www.etnews.com/20261001000476",
+          "category": "민간",
+          "score": 3
         },
         {
           "title": "한화오션, 임원 15명 승진…제조·AX 혁신 방점",
           "link": "https://www.etnews.com/20261001000465",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "한국딥러닝, 문서 분석 AI ＇딥 에이전트＇ 모바일 앱 출시",
+          "link": "https://www.etnews.com/20261001000460",
           "category": "민간",
           "score": 3
         },
@@ -30101,16 +30113,22 @@
           "score": 4
         },
         {
-          "title": "AI가전, 중소·생활가전까지 확산…싸고 가벼운 AI 칩 수요 커진다",
-          "link": "https://www.etnews.com/20261001000279",
+          "title": "동아ST, AI 신약개발 기업 갤럭스와 맞손…신규 ADC 후보물질 발굴",
+          "link": "https://www.etnews.com/20261001000377",
           "category": "민간",
           "score": 3
         },
         {
-          "title": "현대차그룹·한국도로공사, 고속도로서 ＇차세대 충전·피지컬 AI＇ 실증",
-          "link": "https://www.etnews.com/20261001000161",
+          "title": "신한은행 2만5000명 고객정보 유출…AI봇 웹공격 가능성",
+          "link": "https://www.etnews.com/20261001000357",
           "category": "민간",
           "score": 4
+        },
+        {
+          "title": "카이헬스-마리아의료재단, 배아 넘어 난자로 AI 연구 확대… ＇AI 기반 맞춤형 배양＇ 가능성 제시",
+          "link": "https://www.etnews.com/20261001000360",
+          "category": "민간",
+          "score": 3
         },
         {
           "title": "현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력",
@@ -30119,39 +30137,31 @@
           "score": 4
         },
         {
-          "title": "카카오, ‘AI 돛 서밋 26’ 성료… “카카오그룹 AX 역량 부산에 모았다”",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42153",
+          "title": "LG전자, 글로벌 칠러 생산능력 확대... AI 데이터센터 냉각 솔루션 공급 늘린다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42145",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "AMD, 임베디드 설계 전 과정에 에이전틱 AI 탑재…‘AMD 로스’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42142",
           "category": "민간",
           "score": 3
         }
       ],
-      "기관": [
+      "해외": [
         {
-          "title": "국가AI전략위 “AI 속도조절 없다”…역량 키우며 검증·통제 강화 제안",
-          "link": "https://www.etnews.com/20261001000397",
-          "category": "기관",
-          "score": 5
+          "title": "앤트로픽 “LLM·로봇 함께 쓰면 업무 자동화 80% 가능”",
+          "link": "https://www.etnews.com/20261001000495",
+          "category": "해외",
+          "score": 4
         },
         {
-          "title": "중진공-산기평, AI·데이터로 정부 지원사업 부정·부적정 잡는다",
-          "link": "https://www.etnews.com/20261001000304",
-          "category": "기관",
+          "title": "가트너 “AI로 대체된 인력 30%, 재고용될 것…＇AI 레디＇ 인재 필요”",
+          "link": "https://www.etnews.com/20261001000456",
+          "category": "해외",
           "score": 3
         },
-        {
-          "title": "서울시, AI 학습 데이터 표준화·공유...＇레벨4 자율주행 시내버스＇ 2030년까지 500대 도입",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42155",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "('26. 10. 1.) 국가AI전략위, ‘AI 개발 속도조절론’ 관련 세미나 개최",
-          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=987",
-          "category": "기관",
-          "score": 4
-        }
-      ],
-      "해외": [
         {
           "title": "화학사고·폭발현장에 휴머노이드 투입…싱가포르, 2028년 실전 배치",
           "link": "https://www.etnews.com/20261001000272",
@@ -30165,16 +30175,54 @@
           "score": 4
         },
         {
-          "title": "AMD, 임베디드 설계 전 과정에 에이전틱 AI 탑재…‘AMD 로스’ 공개",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42142",
-          "category": "해외",
-          "score": 4
-        },
-        {
           "title": "트럼프·글로벌 AI 6대 기업, ‘슈퍼 인텔리전스’ 공동 안전협약 서명…내부통제·외부감사·이사회 감독 강화",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42138",
           "category": "해외",
           "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "개인정보위, 부산 데이터 활용 현장 점검…AI 시대 제도 정비",
+          "link": "https://www.etnews.com/20261001000227",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "국가AI전략위 “AI 속도조절 없다”…역량 키우며 검증·통제 강화 제안",
+          "link": "https://www.etnews.com/20261001000397",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "질병청, 국가건강정보포털 ＇온톨로지＇로 개편…AI 건강정보 활용 기반 마련한다",
+          "link": "https://www.etnews.com/20261001000325",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "현대차그룹·한국도로공사, 고속도로서 ＇차세대 충전·피지컬 AI＇ 실증",
+          "link": "https://www.etnews.com/20261001000161",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "서울시, AI 학습 데이터 표준화·공유...＇레벨4 자율주행 시내버스＇ 2030년까지 500대 도입",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42155",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[국가AI전략위] AI 개발 속도조절론 관련 세미나 발제자료",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=984",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "('26. 10. 1.) 국가AI전략위, ‘AI 개발 속도조절론’ 관련 세미나 개최",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=987",
+          "category": "기관",
+          "score": 4
         }
       ],
       "국방": [
@@ -30183,6 +30231,12 @@
           "link": "https://kookbang.dema.mil.kr/newsWeb/20261002/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878",
           "category": "국방",
           "score": 5
+        },
+        {
+          "title": "[78주년 국군의 날] 지상엔 AI·첨단 과학기술 무기 ‘위용’  하늘엔 한미 연합 전투기 편대 ‘위엄’",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261002/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878",
+          "category": "국방",
+          "score": 4
         },
         {
           "title": "인공지능 전문 인재 현장 목소리 청취",
@@ -30246,10 +30300,9 @@
           "title": "[The LENS 2026-12] G20 혁신장관회의의 AI·신흥기술 정책 논의 동향",
           "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30038&parentSeq=30038",
           "category": "간행물",
-          "score": 4
+          "score": 5
         }
       ]
-    },
-    "briefing": "- 국방부가 78주년 국군의 날을 맞아 '소버린 AI' 기술을 활용해 무인·자율 체계를 고도화할 계획을 밝혔습니다.\n- 육군이 경계작전에 인공지능을 접목하여 스마트 부대로 탈바꿈하는 '지능형 스마트 육군' 구축에 속도를 내고 있습니다.\n- 국가AI전략위가 AI 개발 경쟁 속에서 역량을 강화하는 동시에 검증 및 통제 체계를 강화할 필요성을 제기했습니다."
+    }
   }
 }
