@@ -1,166 +1,89 @@
-📢26.10.01 AI 일일 동향📢
+📢26.10.02 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 티오리 ＇진트＇, 美 DARPA AI 통신 앱 보안 연구 수행
-https://www.etnews.com/20260930000257
+◾ [78주년 국군의 날] 국방부, ‘소버린 AI’ 활용 무인·자율 고도화 박차
+https://kookbang.dema.mil.kr/newsWeb/20261002/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878
+
+◾ 인공지능 전문 인재 현장 목소리 청취
+https://kookbang.dema.mil.kr/newsWeb/20261002/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878
+
+◾ [78주년 국군의 날] 해군, 로봇 승조원 개발 전투원 생존성 강화
+https://kookbang.dema.mil.kr/newsWeb/20261002/4/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878
+
+◾ [78주년 국군의 날] 공군, 국방 최초 생성형 플랫폼 등 대전환 추진
+https://kookbang.dema.mil.kr/newsWeb/20261002/3/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878
+
+◾ [78주년 국군의 날] 해군, 로봇 승조원 개발 전투원 생존성 강화
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyMjAxMSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ [78주년 국군의 날] 공군, 국방 최초 생성형 플랫폼 등 대전환 추진
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMjAxNCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+[육군]
+◾ [78주년 국군의 날] 경계작전 접목 ‘지능형 스마트 육군’ 변화
+https://kookbang.dema.mil.kr/newsWeb/20261002/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878
+
+◾ [78주년 국군의 날] 경계작전 접목 ‘지능형 스마트 육군’ 변화
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMjAxMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
-◾ 리사 수 AMD CEO, 10월8일 방한…국내 NPU 기업과 인프라 협력 구체화
-https://www.aitimes.com/news/articleView.html?idxno=215815
+◾ 앤트로픽 “LLM·로봇 함께 쓰면 업무 자동화 80% 가능”
+https://www.etnews.com/20261001000495
 
-◾ AWS, 서울 리전서 최신 ＇클로드＇ 모델 제공...〃데이터 국경 안 넘는다〃
-https://www.aitimes.com/news/articleView.html?idxno=215807
+◾ 한화오션, 임원 15명 승진…제조·AX 혁신 방점
+https://www.etnews.com/20261001000465
 
-◾ SAS “韓 기업, AI 안전성 신뢰 높아져…감독 강화 효과”
-https://www.etnews.com/20260930000451
+◾ 업스테이지, 소형 LLM ＇솔라 미니 4＇ 공개…350억 파라미터 규모
+https://www.etnews.com/20261001000457
 
-◾ LG전자-MS, ＇사람처럼 대화하는＇ 씽큐온 만든다…끼어들기도 척척
-https://www.etnews.com/20260930000216
+◾ AI가전, 중소·생활가전까지 확산…싸고 가벼운 AI 칩 수요 커진다
+https://www.etnews.com/20261001000279
 
-◾ AI로 무장한 해커…국내 악성 침해사고 3건 중 1건 AI 활용
-https://www.etnews.com/20260930000330
+◾ 현대차그룹·한국도로공사, 고속도로서 ＇차세대 충전·피지컬 AI＇ 실증
+https://www.etnews.com/20261001000161
 
-◾ 삼성전자 AI 포럼 개최…오픈AI 리처드 호 “실행은 AI에 위임, 판단은 사람이”
-https://www.etnews.com/20260930000273
+◾ 현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력
+https://www.aitimes.kr/news/articleView.html?idxno=42154
 
-◾ 직스테크놀로지·한신공영·정도, AI 기반 ＇데이터센터 스마트 건설＇ 맞손
-https://www.etnews.com/20260930000175
-
-◾ 엔비디아, 11월 서울서 AI 데이 연다…삼성·SK·네이버 등 20개사 참여
-https://www.etnews.com/20260930000159
-
-◾ “기존 보안으론 지능형 웹쉘 못 막는다”… UMV기술, GITEX AI에서 기술력 뽐내
-https://www.etnews.com/20260930000156
-
-◾ 라이드플럭스, KGM·현대모비스와 맞손…완성차 B2B ‘AI 드라이버’ 탑재
-https://www.aitimes.kr/news/articleView.html?idxno=42127
-
-◾ 전영현 부회장, 〃에이전틱 AI, 업무와 조직문화 근본적으로 바꿀 것〃
-https://www.aitimes.kr/news/articleView.html?idxno=42126
-
-◾ 글로벌 ‘로봇 공장’ 시대 개막··· 브릴스, 2027년 상반기 송도 휴머노이드 센터 오픈
-https://www.aitimes.kr/news/articleView.html?idxno=42122
-
-◾ 〃AI 성능·자원·비용을 한눈에〃…마키나락스, 기업 AI 주권 강화 위한 런웨이 업데이트 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42119
-
-◾ AMD, 라이젠 AI 맥스+ 프로 400 시리즈 탑재 에이전틱 PC 출시... 3,000억 파라미터 AI 모델 로컬 구동
-https://www.aitimes.kr/news/articleView.html?idxno=42117
+◾ 카카오, ‘AI 돛 서밋 26’ 성료… “카카오그룹 AX 역량 부산에 모았다”
+https://www.aitimes.kr/news/articleView.html?idxno=42153
 
 [기관]
-◾ 배경훈 장관 “독파모 계속된다…SPC 프론티어 AI 도전과 병행”
-https://www.aitimes.com/news/articleView.html?idxno=215817
+◾ 국가AI전략위 “AI 속도조절 없다”…역량 키우며 검증·통제 강화 제안
+https://www.etnews.com/20261001000397
 
-◾ 포티투마루, 9개국 장·차관에 ＇공공 AX 5대 전략＇ 제시
-https://www.etnews.com/20260930000445
+◾ 중진공-산기평, AI·데이터로 정부 지원사업 부정·부적정 잡는다
+https://www.etnews.com/20261001000304
 
-◾ AI 생성물 표시·알고리즘 투명성 강화…방미통위 ＇미디어 기본사회＇ 시동
-https://www.etnews.com/20260930000440
+◾ 서울시, AI 학습 데이터 표준화·공유...＇레벨4 자율주행 시내버스＇ 2030년까지 500대 도입
+https://www.aitimes.kr/news/articleView.html?idxno=42155
 
-◾ 한림대, ＇AI 혁신인재양성＇ 선정…155억원 투입해 AX 석·박사 키운다
-https://www.etnews.com/20260930000436
-
-◾ 공공부문 44% ＇AI 도입 성과 공백＇…“진단체계 혁신해야”
-https://www.etnews.com/20260930000417
-
-◾ 국가 AI 안전 마스터플랜 12월 나온다…민·관 실무 협의 시동
-https://www.etnews.com/20260930000391
-
-◾ 로봇·방산·이차전지 특화단지 신규 지정…韓총리, “30년까지 AI로봇 20만대 보급”
-https://www.etnews.com/20260930000333
-
-◾ 박세웅 ETRI 원장 “AI 기반 국가임무 중심 연구기관으로 대전환”
-https://www.etnews.com/20260930000297
-
-◾ 지식재산처, 특허 데이터 961만 건 AI 학습용으로 푼다…민간 무료 개방
-https://www.etnews.com/20260930000245
-
-◾ “규제 기다리다 혁신기업 사라진다”…AI·전문가가 정책 검증하는 ＇RegDAO＇ 제안
-https://www.etnews.com/20260930000223
-
-◾ 서울AI재단·전자신문, 내달 7일 ＇서울 AI 윤리·거버넌스 포럼＇ 개최
-https://www.etnews.com/20260930000205
-
-◾ 국립금오공대, 과기부 ＇AI중심대학·AX대학원＇ 동시 선정 쾌거…“K-전략산업 이끌 AI·AX 인재 키운다”
-https://www.etnews.com/20260930000203
-
-◾ 부산시, AI중심대학에 맞춰 지역 AX 인재양성 시동
-https://www.etnews.com/20260930000154
-
-◾ 글로벌 AI 허브 입지 선정 공청회 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187827&searchOpt=ALL&searchTxt=
-
-◾ 한-영, 인공지능 분야 협력 강화 방안 논의
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187821&searchOpt=ALL&searchTxt=
-
-◾ 민‧관이 함께 국가 인공지능 안전 종합계획 수립 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187823&searchOpt=ALL&searchTxt=
-
-◾ 인공지능(AI) 협력으로 글로벌 디지털 공동 번영 모색, 제12회 글로벌 ICT 리더십 포럼 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187818&searchOpt=ALL&searchTxt=
-
-◾ NIA, AI데이터안심활용센터 개소...데이터 활용 고신뢰존과 협업·소통을 위한 AI라운지로 재탄생
-https://www.aitimes.kr/news/articleView.html?idxno=42120
-
-◾ 배경훈 부총리 “독파모는 계속된다”…프론티어 AI도 동시에 도전
-https://www.aitimes.kr/news/articleView.html?idxno=42113
+◾ ('26. 10. 1.) 국가AI전략위, ‘AI 개발 속도조절론’ 관련 세미나 개최
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=987
 
 [해외]
-◾ 〃아스트라급 지능을 5분의 1 가격에〃…오픈AI, ＇GPT-6.1 솔＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=215778
+◾ 화학사고·폭발현장에 휴머노이드 투입…싱가포르, 2028년 실전 배치
+https://www.etnews.com/20261001000272
 
-◾ 구글, AI 모델 재학습 없이 ‘하네스’ 스스로 개선하는 ‘RRSI’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=215802
+◾ [AI 리뷰] BMW, 소프트웨어 정의 차량 넘어 ＇AI 정의 차량’ 시대 선언
+https://www.aitimes.kr/news/articleView.html?idxno=42157
 
-◾ 리퀴드 AI, 의사결정 모델 ‘d1’ 출시...〃기존 1위 제브 제쳤다〃
-https://www.aitimes.com/news/articleView.html?idxno=215799
+◾ AMD, 임베디드 설계 전 과정에 에이전틱 AI 탑재…‘AMD 로스’ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42142
 
-◾ 알리바바, 대화 타이밍까지 판단하는 음성 AI ‘큐원-오디오-3.1-리얼타임’ 공개
-https://www.aitimes.com/news/articleView.html?idxno=215808
-
-◾ NYT 〃오픈AI, 직원·외부 연구원 AI 보안 경고 묵살〃
-https://www.aitimes.com/news/articleView.html?idxno=215814
-
-◾ 〃인류 멸종 확률 50%〃...AI 연구원 22인 ＇경고 인터뷰＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=215796
-
-◾ 오픈AI, 호주 정부망 무단 접근 사과...〃재발 방지·특별 조사팀 구성〃
-https://www.aitimes.com/news/articleView.html?idxno=215795
-
-◾ 구글·MS, AI 데이터 표준 ＇아파치 오시＇ 합류…＇폐쇄 생태계＇ 연다
-https://www.aitimes.com/news/articleView.html?idxno=215803
-
-◾ 딥시크, 화웨이 ＇어센드＇용 핵심 소프트웨어 공개… ‘탈엔비디아’ 동맹 가속
-https://www.aitimes.com/news/articleView.html?idxno=215798
-
-◾ 영국, 우크라이나 전장 데이터로 AI 드론 군집 개발…최대 12개 기업 참여
-https://www.aitimes.kr/news/articleView.html?idxno=42133
-
-◾ 美 정부 온라인 서비스 통합 포털 ‘아메리카닷거브’ 출범…제미나이로 1억명 공공서비스 지원
-https://www.aitimes.kr/news/articleView.html?idxno=42130
-
-◾ 온세미, 자동차 사업 성장 모델 피지컬 AI로 확장... 지능형 기계 분야서 새로운 성장 기회 모색
-https://www.aitimes.kr/news/articleView.html?idxno=42128
-
-◾ 美 정부, ‘AI’ 대신 ‘슈퍼 인텔리전스(SI)’ 쓴다…트럼프, “새로운 지능 시대 개막”
-https://www.aitimes.kr/news/articleView.html?idxno=42125
+◾ 트럼프·글로벌 AI 6대 기업, ‘슈퍼 인텔리전스’ 공동 안전협약 서명…내부통제·외부감사·이사회 감독 강화
+https://www.aitimes.kr/news/articleView.html?idxno=42138
 
 📚 간행물
-◾ AI Full Stack 경쟁과 경쟁정책의 과제: AI 연결 인프라를 중심으로
-https://www.kisdi.re.kr/report/view.do?key=m2101113024153&masterId=4333446&arrMasterId=4333446&artId=1974516
+◾ 자율AI, 첨단 AI 개발 통제, 미·중 AI 대화 [AI·ICT Brief 2026-34호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-261001-000029&cpage=1&rows=10&searchTarget=all
 
-◾ 로보택시, 자율주행 실증을 넘어 상용 서비스로 확대 外 [IITP 디지털 아웃룩 2026-9월호]
-https://www.iitp.kr/web/lay1/program/S1T62C67/itfind/view.do?seq=02-001-260930-000001&cpage=1&rows=10&searchTarget=all
+◾ [디지털서비스 이슈리포트2026-9] AI 에이전트 시대, 서비스의 접점이 바뀐다 : SaaS 역할과 디지털서비스의 구조 전환
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=30043&parentSeq=30043
 
-◾ [제33권 제3호] 공공행정 AI 도입에 대한 과장급 공무원의 인식 유형 연구: AI 도입의 전제조건과 우선순위에 관한 Q방법론적 탐색
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=30027&parentSeq=30027
-
-◾ [제33권 제3호] AI 알고리즘 기술과 민주주의: 구조모형 분석
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=30026&parentSeq=30026
-
-◾ [제33권 제3호] 생성형 AI가 사용자 인지역량에 미치는 영향과 정책적 시사점
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=65684&bcIdx=30025&parentSeq=30025
+◾ [The LENS 2026-12] G20 혁신장관회의의 AI·신흥기술 정책 논의 동향
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30038&parentSeq=30038
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
