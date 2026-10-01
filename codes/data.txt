@@ -5,6 +5,9 @@
 ◾ [78주년 국군의 날] 국방부, ‘소버린 AI’ 활용 무인·자율 고도화 박차
 https://kookbang.dema.mil.kr/newsWeb/20261002/9/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878
 
+◾ [78주년 국군의 날] 지상엔 AI·첨단 과학기술 무기 ‘위용’  하늘엔 한미 연합 전투기 편대 ‘위엄’
+https://kookbang.dema.mil.kr/newsWeb/20261002/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878
+
 ◾ 인공지능 전문 인재 현장 목소리 청취
 https://kookbang.dema.mil.kr/newsWeb/20261002/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=26D5Qu8E5O3ATwr874C-7GqQsvnacNWkr0C7jF52_ertqLDpXipC!272000878
 
@@ -28,49 +31,73 @@ https://kookbang.dema.mil.kr/newsWeb/20261002/6/ATCE_CTGR_0010030000/view.do;JSE
 https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMjAxMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
-◾ 앤트로픽 “LLM·로봇 함께 쓰면 업무 자동화 80% 가능”
-https://www.etnews.com/20261001000495
+◾ KT, 병원 AX 전문 내부 조직 개설...“의료 특화 AI로 환자 편의·행정 효율 개선〃
+https://www.aitimes.com/news/articleView.html?idxno=215840
+
+◾ 인핸스, IBK기업은행 ＇온톨로지 AI 데이터 분석＇ 실증 착수
+https://www.etnews.com/20261001000476
 
 ◾ 한화오션, 임원 15명 승진…제조·AX 혁신 방점
 https://www.etnews.com/20261001000465
 
+◾ 한국딥러닝, 문서 분석 AI ＇딥 에이전트＇ 모바일 앱 출시
+https://www.etnews.com/20261001000460
+
 ◾ 업스테이지, 소형 LLM ＇솔라 미니 4＇ 공개…350억 파라미터 규모
 https://www.etnews.com/20261001000457
 
-◾ AI가전, 중소·생활가전까지 확산…싸고 가벼운 AI 칩 수요 커진다
-https://www.etnews.com/20261001000279
+◾ 동아ST, AI 신약개발 기업 갤럭스와 맞손…신규 ADC 후보물질 발굴
+https://www.etnews.com/20261001000377
 
-◾ 현대차그룹·한국도로공사, 고속도로서 ＇차세대 충전·피지컬 AI＇ 실증
-https://www.etnews.com/20261001000161
+◾ 신한은행 2만5000명 고객정보 유출…AI봇 웹공격 가능성
+https://www.etnews.com/20261001000357
+
+◾ 카이헬스-마리아의료재단, 배아 넘어 난자로 AI 연구 확대… ＇AI 기반 맞춤형 배양＇ 가능성 제시
+https://www.etnews.com/20261001000360
 
 ◾ 현대차그룹, 한국도로공사와 차세대 충전 인프라 및 피지컬 AI 실증 협력
 https://www.aitimes.kr/news/articleView.html?idxno=42154
 
-◾ 카카오, ‘AI 돛 서밋 26’ 성료… “카카오그룹 AX 역량 부산에 모았다”
-https://www.aitimes.kr/news/articleView.html?idxno=42153
+◾ LG전자, 글로벌 칠러 생산능력 확대... AI 데이터센터 냉각 솔루션 공급 늘린다
+https://www.aitimes.kr/news/articleView.html?idxno=42145
+
+◾ AMD, 임베디드 설계 전 과정에 에이전틱 AI 탑재…‘AMD 로스’ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42142
 
 [기관]
+◾ 개인정보위, 부산 데이터 활용 현장 점검…AI 시대 제도 정비
+https://www.etnews.com/20261001000227
+
 ◾ 국가AI전략위 “AI 속도조절 없다”…역량 키우며 검증·통제 강화 제안
 https://www.etnews.com/20261001000397
 
-◾ 중진공-산기평, AI·데이터로 정부 지원사업 부정·부적정 잡는다
-https://www.etnews.com/20261001000304
+◾ 질병청, 국가건강정보포털 ＇온톨로지＇로 개편…AI 건강정보 활용 기반 마련한다
+https://www.etnews.com/20261001000325
+
+◾ 현대차그룹·한국도로공사, 고속도로서 ＇차세대 충전·피지컬 AI＇ 실증
+https://www.etnews.com/20261001000161
 
 ◾ 서울시, AI 학습 데이터 표준화·공유...＇레벨4 자율주행 시내버스＇ 2030년까지 500대 도입
 https://www.aitimes.kr/news/articleView.html?idxno=42155
+
+◾ [국가AI전략위] AI 개발 속도조절론 관련 세미나 발제자료
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000011&num=984
 
 ◾ ('26. 10. 1.) 국가AI전략위, ‘AI 개발 속도조절론’ 관련 세미나 개최
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=987
 
 [해외]
+◾ 앤트로픽 “LLM·로봇 함께 쓰면 업무 자동화 80% 가능”
+https://www.etnews.com/20261001000495
+
+◾ 가트너 “AI로 대체된 인력 30%, 재고용될 것…＇AI 레디＇ 인재 필요”
+https://www.etnews.com/20261001000456
+
 ◾ 화학사고·폭발현장에 휴머노이드 투입…싱가포르, 2028년 실전 배치
 https://www.etnews.com/20261001000272
 
 ◾ [AI 리뷰] BMW, 소프트웨어 정의 차량 넘어 ＇AI 정의 차량’ 시대 선언
 https://www.aitimes.kr/news/articleView.html?idxno=42157
-
-◾ AMD, 임베디드 설계 전 과정에 에이전틱 AI 탑재…‘AMD 로스’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42142
 
 ◾ 트럼프·글로벌 AI 6대 기업, ‘슈퍼 인텔리전스’ 공동 안전협약 서명…내부통제·외부감사·이사회 감독 강화
 https://www.aitimes.kr/news/articleView.html?idxno=42138
