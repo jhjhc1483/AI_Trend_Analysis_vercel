@@ -1,61 +1,50 @@
-📢26.10.03 AI 일일 동향📢
+📢26.10.04 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 최대선 센터장 〃사이버보안 특화 모델 AI 기본법 사각지대...기준 마련 시급〃
-https://www.aitimes.com/news/articleView.html?idxno=215867
-
-◾ 한전, 변전소 AI 감시에 ＇국산 NPU＇ 투입…리벨리온과 현장 실증
-https://www.etnews.com/20261002000127
-
-◾ 국방정보통신협회-명지대, 국방 AI 보안 현대화 협력
-https://www.etnews.com/20261002000005
-
 [민간]
-◾ 구글 딥마인드, AI가 만든 단백질·유전체 추적하는 워터마크 기술 공개
-https://www.aitimes.com/news/articleView.html?idxno=215902
+◾ 아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개
+https://www.aitimes.com/news/articleView.html?idxno=215887
 
-[기관]
-◾ 국가AI전략위 〃AI 속도조절보다 RSI 초지능 완성 전 기술 추격 우선〃
-https://www.aitimes.com/news/articleView.html?idxno=215868
+◾ 버블쉐어, AI 검색 성과 분석 솔루션 공개…”단순 노출보다 정확한 인용이 핵심”
+https://www.aitimes.com/news/articleView.html?idxno=215693
 
-◾ 이해민 AI수석 “부처 간 칸막이 없애야”…CAIO협의회 첫 주재
-https://www.etnews.com/20261002000206
+◾ ＇나만의 클로드 코드＇ 만든다...앤트로픽, 커스텀 확장 기능 ＇모드＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=215932
 
-◾ 한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손
-https://www.etnews.com/20261002000009
+◾ 딥시크, 데스크톱 앱 ＇딥시크 하네스＇ 출시...〃챗·코딩·문서 통합〃
+https://www.aitimes.com/news/articleView.html?idxno=215933
 
-◾ 더존비즈온, ＇원 AI PE＇로 서울시 행정지원 AI 에이전트 구현
-https://www.etnews.com/20261002000051
+◾ 앤트로픽, ＇클로드 프론티어 아카데미＇ 출범... 1300억 투입해 FDE 1만명 양성
+https://www.aitimes.com/news/articleView.html?idxno=215931
 
-◾ 국산 인공지능 반도체 성능지표 'K-Perf', 공공 현장 도입 검증에 첫 활용
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187843&searchOpt=ALL&searchTxt=
+◾ 애플, AI 에이전트 무단 접근 증가로 맥OS ＇전체 디스크 접근＇ 제어 강화
+https://www.aitimes.com/news/articleView.html?idxno=215938
 
-◾ 행안부, 6대 핵심가치 담은 ‘공공부문 AI 윤리기준’ 최종 확정...공공분야 인공지능 신뢰성 확보한다
-https://www.aitimes.kr/news/articleView.html?idxno=42170
+◾ 회계 업무서 AI ＇완벽＇ 단계 도달…인간 ＇37%＇ 역전
+https://www.aitimes.com/news/articleView.html?idxno=215935
 
-◾ ('26. 10. 2.) 제5차 인공지능책임관(CAIO) 협의회 개최
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=991
+◾ AI가 금융권 취약점 훑었다…은행 해킹 피해 ＇속출＇
+https://www.etnews.com/20261003000032
 
 [해외]
-◾ 머스크, 미 국방부 ＇미래 전쟁＇ 자문으로 공직 복귀...AI·드론 중심 미래전 대비
-https://www.aitimes.com/news/articleView.html?idxno=215912
+◾ 텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아로
+https://www.aitimes.com/news/articleView.html?idxno=215909
 
-◾ 오픈AI, ＇불량 에이전트＇ 무단 활동 100여곳 조직에 통보
-https://www.aitimes.com/news/articleView.html?idxno=215896
+◾ 메타, 오픈소스 ＇뮤즈 가젯＇ 공개...AI 에이전트 하드웨어 이식 본격화
+https://www.aitimes.com/news/articleView.html?idxno=215936
 
-◾ 앤트로픽, 중국 ＇GLM-5.3＇ 해킹 위험성 경고...〃클로드 미소스와 맞먹는 능력〃
-https://www.aitimes.com/news/articleView.html?idxno=215893
+◾ 엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다
+https://www.aitimes.com/news/articleView.html?idxno=215937
 
-◾ 러시아군, 정찰장비에 AI 탑재…소형 드론 자동 탐지·식별 추진
-https://www.aitimes.kr/news/articleView.html?idxno=42173
+◾ AWS, AI 데이터센터 반발 정면 돌파…지역사회에 1.4조 추가 투입
+https://www.aitimes.com/news/articleView.html?idxno=215939
 
-📚 간행물
-◾ 지식재산 통계 FOCUS 28호
-https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-261002-000001&cpage=1&rows=10&searchTarget=all
+◾ [10월2일] 〃뜻밖의 주인공은 로그인과 플러그인〃…알트먼이 보여준 챗GPT의 다음 무대
+https://www.aitimes.com/news/articleView.html?idxno=215882
 
-◾ 지능정보윤리 이슈리포트 2026년 2호(Vol.7, No.2)
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99858&bcIdx=30049&parentSeq=30049
+[기타]
+◾ AI ＇생각의 사슬＇ 무력화되나…＇순환 깊이＇ 기술이 부른 불투명성 우려
+https://www.aitimes.com/news/articleView.html?idxno=215934
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

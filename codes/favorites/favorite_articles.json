@@ -1,92 +1,86 @@
 [
   {
-    "title": "최대선 센터장 〃사이버보안 특화 모델 AI 기본법 사각지대...기준 마련 시급〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215867",
-    "category": "국방",
+    "title": "아마존, 에이전트 전용 의사결정 모델 ‘스트랜즈 디사이더 2B’ 오픈 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215887",
+    "category": "민간",
     "score": 4
   },
   {
-    "title": "국가AI전략위 〃AI 속도조절보다 RSI 초지능 완성 전 기술 추격 우선〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215868",
-    "category": "기관",
-    "score": 5
+    "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아로",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215909",
+    "category": "해외",
+    "score": 4
   },
   {
-    "title": "구글 딥마인드, AI가 만든 단백질·유전체 추적하는 워터마크 기술 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215902",
+    "title": "버블쉐어, AI 검색 성과 분석 솔루션 공개…”단순 노출보다 정확한 인용이 핵심”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215693",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "머스크, 미 국방부 ＇미래 전쟁＇ 자문으로 공직 복귀...AI·드론 중심 미래전 대비",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215912",
-    "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "오픈AI, ＇불량 에이전트＇ 무단 활동 100여곳 조직에 통보",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215896",
-    "category": "해외",
+    "title": "＇나만의 클로드 코드＇ 만든다...앤트로픽, 커스텀 확장 기능 ＇모드＇ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215932",
+    "category": "민간",
     "score": 4
   },
   {
-    "title": "앤트로픽, 중국 ＇GLM-5.3＇ 해킹 위험성 경고...〃클로드 미소스와 맞먹는 능력〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=215893",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "이해민 AI수석 “부처 간 칸막이 없애야”…CAIO협의회 첫 주재",
-    "link": "https://www.etnews.com/20261002000206",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "한전, 변전소 AI 감시에 ＇국산 NPU＇ 투입…리벨리온과 현장 실증",
-    "link": "https://www.etnews.com/20261002000127",
-    "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "한전, 국산 AI반도체 평가 지표 첫 적용…리벨리온·TTA와 맞손",
-    "link": "https://www.etnews.com/20261002000009",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "더존비즈온, ＇원 AI PE＇로 서울시 행정지원 AI 에이전트 구현",
-    "link": "https://www.etnews.com/20261002000051",
-    "category": "기관",
+    "title": "딥시크, 데스크톱 앱 ＇딥시크 하네스＇ 출시...〃챗·코딩·문서 통합〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215933",
+    "category": "민간",
     "score": 3
   },
   {
-    "title": "국방정보통신협회-명지대, 국방 AI 보안 현대화 협력",
-    "link": "https://www.etnews.com/20261002000005",
-    "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "국산 인공지능 반도체 성능지표 'K-Perf', 공공 현장 도입 검증에 첫 활용",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187843&searchOpt=ALL&searchTxt=",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "러시아군, 정찰장비에 AI 탑재…소형 드론 자동 탐지·식별 추진",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42173",
+    "title": "메타, 오픈소스 ＇뮤즈 가젯＇ 공개...AI 에이전트 하드웨어 이식 본격화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215936",
     "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "행안부, 6대 핵심가치 담은 ‘공공부문 AI 윤리기준’ 최종 확정...공공분야 인공지능 신뢰성 확보한다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42170",
-    "category": "기관",
     "score": 4
   },
   {
-    "title": "('26. 10. 2.) 제5차 인공지능책임관(CAIO) 협의회 개최",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=991",
-    "category": "기관",
+    "title": "앤트로픽, ＇클로드 프론티어 아카데미＇ 출범... 1300억 투입해 FDE 1만명 양성",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215931",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "애플, AI 에이전트 무단 접근 증가로 맥OS ＇전체 디스크 접근＇ 제어 강화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215938",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215937",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "AWS, AI 데이터센터 반발 정면 돌파…지역사회에 1.4조 추가 투입",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215939",
+    "category": "해외",
     "score": 4
+  },
+  {
+    "title": "회계 업무서 AI ＇완벽＇ 단계 도달…인간 ＇37%＇ 역전",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215935",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "AI ＇생각의 사슬＇ 무력화되나…＇순환 깊이＇ 기술이 부른 불투명성 우려",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215934",
+    "category": "기타",
+    "score": 3
+  },
+  {
+    "title": "[10월2일] 〃뜻밖의 주인공은 로그인과 플러그인〃…알트먼이 보여준 챗GPT의 다음 무대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215882",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "AI가 금융권 취약점 훑었다…은행 해킹 피해 ＇속출＇",
+    "link": "https://www.etnews.com/20261003000032",
+    "category": "민간",
+    "score": 3
   }
 ]
