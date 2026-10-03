@@ -30433,16 +30433,10 @@
           "score": 4
         },
         {
-          "title": "버블쉐어, AI 검색 성과 분석 솔루션 공개…”단순 노출보다 정확한 인용이 핵심”",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215693",
-          "category": "민간",
-          "score": 3
-        },
-        {
           "title": "＇나만의 클로드 코드＇ 만든다...앤트로픽, 커스텀 확장 기능 ＇모드＇ 출시",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215932",
           "category": "민간",
-          "score": 4
+          "score": 3
         },
         {
           "title": "딥시크, 데스크톱 앱 ＇딥시크 하네스＇ 출시...〃챗·코딩·문서 통합〃",
@@ -30451,14 +30445,26 @@
           "score": 3
         },
         {
+          "title": "메타, 오픈소스 ＇뮤즈 가젯＇ 공개...AI 에이전트 하드웨어 이식 본격화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215936",
+          "category": "민간",
+          "score": 4
+        },
+        {
           "title": "앤트로픽, ＇클로드 프론티어 아카데미＇ 출범... 1300억 투입해 FDE 1만명 양성",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215931",
           "category": "민간",
           "score": 3
         },
         {
-          "title": "애플, AI 에이전트 무단 접근 증가로 맥OS ＇전체 디스크 접근＇ 제어 강화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215938",
+          "title": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215937",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "AWS, AI 데이터센터 반발 정면 돌파…지역사회에 1.4조 추가 투입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215939",
           "category": "민간",
           "score": 3
         },
@@ -30469,10 +30475,16 @@
           "score": 3
         },
         {
+          "title": "AI ＇생각의 사슬＇ 무력화되나…＇순환 깊이＇ 기술이 부른 불투명성 우려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215934",
+          "category": "민간",
+          "score": 3
+        },
+        {
           "title": "AI가 금융권 취약점 훑었다…은행 해킹 피해 ＇속출＇",
           "link": "https://www.etnews.com/20261003000032",
           "category": "민간",
-          "score": 3
+          "score": 4
         }
       ],
       "해외": [
@@ -30480,42 +30492,15 @@
           "title": "텐센트, 오라클서 AI 칩 10만개 임대…규제 피하려 동남아로",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215909",
           "category": "해외",
-          "score": 4
-        },
-        {
-          "title": "메타, 오픈소스 ＇뮤즈 가젯＇ 공개...AI 에이전트 하드웨어 이식 본격화",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215936",
-          "category": "해외",
-          "score": 4
-        },
-        {
-          "title": "엔비디아, 4999달러짜리 ‘DGX 스파크’ 출시...메모리 대란에 가격 낮췄다",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215937",
-          "category": "해외",
           "score": 3
-        },
-        {
-          "title": "AWS, AI 데이터센터 반발 정면 돌파…지역사회에 1.4조 추가 투입",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215939",
-          "category": "해외",
-          "score": 4
         },
         {
           "title": "[10월2일] 〃뜻밖의 주인공은 로그인과 플러그인〃…알트먼이 보여준 챗GPT의 다음 무대",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=215882",
           "category": "해외",
-          "score": 3
-        }
-      ],
-      "기타": [
-        {
-          "title": "AI ＇생각의 사슬＇ 무력화되나…＇순환 깊이＇ 기술이 부른 불투명성 우려",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=215934",
-          "category": "기타",
-          "score": 3
+          "score": 4
         }
       ]
-    },
-    "briefing": "- 딥시크가 챗봇, 코딩, 문서 작업을 통합 지원하는 데스크톱 앱 '딥시크 하네스'를 출시했습니다.\n- AI가 금융권의 보안 취약점을 악용하면서 은행권의 해킹 피해 사례가 속출하고 있습니다.\n- 회계 업무 분야에서 AI의 성능이 인간의 업무 역량을 앞질렀다는 분석 결과가 나왔습니다."
+    }
   }
 }
