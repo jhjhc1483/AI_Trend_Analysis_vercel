@@ -1,20 +1,26 @@
 [
   {
+    "title": "원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215688",
+    "category": "민간",
+    "score": 3
+  },
+  {
     "title": "화면 안 보고 게임한다…GPT-6 아스트라, ＇WoW＇ 40분 만에 클리어",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215945",
     "category": "해외",
-    "score": 4
+    "score": 3
   },
   {
     "title": "〃클로드가 일하고, 클로드가 감시한다〃... 앤트로픽, 새 플러그인 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215949",
     "category": "해외",
-    "score": 4
+    "score": 3
   },
   {
     "title": "구글, 제미나이 요금제 개편..무료·저가 요금제서 ＇프로＇ 모델 뺀다",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215946",
-    "category": "민간",
+    "category": "해외",
     "score": 3
   },
   {
@@ -26,14 +32,20 @@
   {
     "title": "머스크 〃TSMC와 테라팹 칩 생산 협력 논의〃 확인",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215952",
-    "category": "민간",
+    "category": "해외",
     "score": 4
   },
   {
     "title": "오픈AI 내부 모델, 종료 일정 알아채고 ＇생존 조치＇ 모색",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=215950",
     "category": "해외",
-    "score": 4
+    "score": 3
+  },
+  {
+    "title": "태양광 발전량·전력가격 예측하는 AI…일본 ESS 충·방전 자동화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=215870",
+    "category": "민간",
+    "score": 3
   },
   {
     "title": "오픈AI 안전 총괄, 조직 문화 비판하며 사직...〃시행착오 시대 끝났다〃",
@@ -42,8 +54,20 @@
     "score": 3
   },
   {
+    "title": "2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응",
+    "link": "https://www.etnews.com/20261004000031",
+    "category": "기관",
+    "score": 3
+  },
+  {
     "title": "경남대 유남현 교수, 獨 IDTA서 제조데이터·피지컬AI 연구 발표",
     "link": "https://www.etnews.com/20261004000007",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "네이버, 스타트업 투자 활황…2022년 이후 최대 전망",
+    "link": "https://www.etnews.com/20261002000055",
     "category": "민간",
     "score": 3
   }

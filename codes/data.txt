@@ -2,11 +2,18 @@
 
 📰 오늘의 기사
 [민간]
-◾ 구글, 제미나이 요금제 개편..무료·저가 요금제서 ＇프로＇ 모델 뺀다
-https://www.aitimes.com/news/articleView.html?idxno=215946
+◾ 원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”
+https://www.aitimes.com/news/articleView.html?idxno=215688
 
-◾ 머스크 〃TSMC와 테라팹 칩 생산 협력 논의〃 확인
-https://www.aitimes.com/news/articleView.html?idxno=215952
+◾ 태양광 발전량·전력가격 예측하는 AI…일본 ESS 충·방전 자동화
+https://www.aitimes.com/news/articleView.html?idxno=215870
+
+◾ 네이버, 스타트업 투자 활황…2022년 이후 최대 전망
+https://www.etnews.com/20261002000055
+
+[기관]
+◾ 2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응
+https://www.etnews.com/20261004000031
 
 ◾ 경남대 유남현 교수, 獨 IDTA서 제조데이터·피지컬AI 연구 발표
 https://www.etnews.com/20261004000007
@@ -18,8 +25,14 @@ https://www.aitimes.com/news/articleView.html?idxno=215945
 ◾ 〃클로드가 일하고, 클로드가 감시한다〃... 앤트로픽, 새 플러그인 공개
 https://www.aitimes.com/news/articleView.html?idxno=215949
 
+◾ 구글, 제미나이 요금제 개편..무료·저가 요금제서 ＇프로＇ 모델 뺀다
+https://www.aitimes.com/news/articleView.html?idxno=215946
+
 ◾ 알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...〃소버린 AI용〃
 https://www.aitimes.com/news/articleView.html?idxno=215951
+
+◾ 머스크 〃TSMC와 테라팹 칩 생산 협력 논의〃 확인
+https://www.aitimes.com/news/articleView.html?idxno=215952
 
 ◾ 오픈AI 내부 모델, 종료 일정 알아채고 ＇생존 조치＇ 모색
 https://www.aitimes.com/news/articleView.html?idxno=215950
