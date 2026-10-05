@@ -30586,5 +30586,145 @@
       ]
     },
     "briefing": "- 과기정통부와 KISA가 사이버 보안 강화를 위해 2.8만 개 기업에 보안 점검을 권고하고 해킹 대응에 총력을 기울일 방침입니다.\n- 앤트로픽이 AI가 직접 업무를 수행하고 모니터링하는 새로운 플러그인을 공개하며 AI의 자율적 작업 범위를 확대했습니다.\n- 독일 IDTA에서 경남대 유남현 교수가 제조 데이터와 물리적 AI를 결합한 기술 연구를 발표하며 산업 현장의 AI 활용 가능성을 제시했습니다."
+  },
+  "26.10.06": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "뉴럴링크, 5만시간 뇌 데이터 사전학습…BCI도 ＇파운데이션 모델＇ 시대 열렸다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215977",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "MIT·사카나, 자가 진화 AI 에이전트 ＇SIFT＇ 발표...＇검증 비용 병목＇ 해결",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215967",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215971",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "손정의 〃초지능, 잘못된 손에 들어가면 극도로 위험〃…AI 안전성에 이례적 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215965",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "LG전자, 美 ＇에어 컨트롤 콘셉트＇와 5GW AIDC 냉각솔루션 장기 공급계약",
+          "link": "https://www.etnews.com/20261005000109",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "화웨이-퀄컴, 5G·AI·컴퓨팅 특허 포괄 라이선스 체결…미국 특허 일부도 거래",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42180",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI ＇에이전트 폭주＇에 사면초가... 전 세계서 법적·규제 경고 폭풍",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=215968",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "[이슈플러스] 금융권서 현실화한 AI 해킹…전 산업 보안 ＇비상＇",
+          "link": "https://www.etnews.com/20261005000112",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "오픈AI 안전 담당 사임…“AI 통제력 상실, 원전 사고보다 위험”",
+          "link": "https://www.etnews.com/20261005000111",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "샘 올트먼 오픈AI CEO “AI 혜택 위해 위험 감수해야”…앤트로픽과 차별화",
+          "link": "https://www.etnews.com/20261005000103",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "트럼프 대통령, AI 전략 총괄 ＇초지능 포스＇ 발족…수장에 국가정보국장",
+          "link": "https://www.etnews.com/20261005000088",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "안두릴, 수중 음향통신 기업 ‘포포토 모뎀’ 인수…자율 수중드론 수백 대 연결한다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42184",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "美 주도 17개국, ‘교토 과학 비전’ 채택…인공지능으로 과학 연구 방식 바꾼다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42182",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 〃1억 달러 투입, 기업 AI 인재 1만명 양성〃…‘프론티어 배치 엔지니어’ 육성",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42179",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "독파모, ＇프런티어 AI·산업 확산＇ 투트랙 재편…중국 넘는다",
+          "link": "https://www.etnews.com/20261005000080",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "KAIST, 데이터 추가·삭제에도 검색 정확도 유지하는 ＇CONDA＇ 개발",
+          "link": "https://www.etnews.com/20261005000014",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "서초구, ＇서초 AI전트＇ 고도화…900개 공공서비스 대화만으로 검색·예약",
+          "link": "https://www.etnews.com/20261005000073",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "전국 기지국, 피지컬AI 거점 인프라로 진화…기술확보 첫 시동",
+          "link": "https://www.etnews.com/20261001000462",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "韓, 국제표준화기구(ISO) 이사국 연임…국표원, “AI·양자 표준 주도”",
+          "link": "https://www.etnews.com/20261004000029",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "국방": [
+        {
+          "title": "“미래전, AI 리더십 갖춰야”",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMjE4NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 4
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[제1310호] 2028·2030 AI 노동시장 시나리오 분석",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1310%ED%98%B8%5D%202028%C2%B72030%20AI%20%EB%85%B8%EB%8F%99%EC%8B%9C%EC%9E%A5%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20%EB%B6%84%EC%84%9D",
+          "category": "간행물",
+          "score": 4
+        }
+      ]
+    }
   }
 }
