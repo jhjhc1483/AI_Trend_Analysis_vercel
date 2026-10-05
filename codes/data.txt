@@ -1,44 +1,73 @@
-📢26.10.05 AI 일일 동향📢
+📢26.10.06 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ “미래전, AI 리더십 갖춰야”
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMjE4NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
 [민간]
-◾ 원프레딕트 “버려지던 제조 데이터, AI 자산으로 바꾸겠다”
-https://www.aitimes.com/news/articleView.html?idxno=215688
+◾ 뉴럴링크, 5만시간 뇌 데이터 사전학습…BCI도 ＇파운데이션 모델＇ 시대 열렸다
+https://www.aitimes.com/news/articleView.html?idxno=215977
 
-◾ 태양광 발전량·전력가격 예측하는 AI…일본 ESS 충·방전 자동화
-https://www.aitimes.com/news/articleView.html?idxno=215870
+◾ MIT·사카나, 자가 진화 AI 에이전트 ＇SIFT＇ 발표...＇검증 비용 병목＇ 해결
+https://www.aitimes.com/news/articleView.html?idxno=215967
 
-◾ 네이버, 스타트업 투자 활황…2022년 이후 최대 전망
-https://www.etnews.com/20261002000055
+◾ 브로드컴, 앤트로픽에 80조 대출 보증…칩 판매 위해 금융 지원
+https://www.aitimes.com/news/articleView.html?idxno=215971
+
+◾ 손정의 〃초지능, 잘못된 손에 들어가면 극도로 위험〃…AI 안전성에 이례적 경고
+https://www.aitimes.com/news/articleView.html?idxno=215965
+
+◾ LG전자, 美 ＇에어 컨트롤 콘셉트＇와 5GW AIDC 냉각솔루션 장기 공급계약
+https://www.etnews.com/20261005000109
+
+◾ 화웨이-퀄컴, 5G·AI·컴퓨팅 특허 포괄 라이선스 체결…미국 특허 일부도 거래
+https://www.aitimes.kr/news/articleView.html?idxno=42180
 
 [기관]
-◾ 2.8만 기업에 보안점검 권고…과기정통부-KISA, 해킹 총력 대응
-https://www.etnews.com/20261004000031
+◾ 독파모, ＇프런티어 AI·산업 확산＇ 투트랙 재편…중국 넘는다
+https://www.etnews.com/20261005000080
 
-◾ 경남대 유남현 교수, 獨 IDTA서 제조데이터·피지컬AI 연구 발표
-https://www.etnews.com/20261004000007
+◾ KAIST, 데이터 추가·삭제에도 검색 정확도 유지하는 ＇CONDA＇ 개발
+https://www.etnews.com/20261005000014
+
+◾ 서초구, ＇서초 AI전트＇ 고도화…900개 공공서비스 대화만으로 검색·예약
+https://www.etnews.com/20261005000073
+
+◾ 전국 기지국, 피지컬AI 거점 인프라로 진화…기술확보 첫 시동
+https://www.etnews.com/20261001000462
+
+◾ 韓, 국제표준화기구(ISO) 이사국 연임…국표원, “AI·양자 표준 주도”
+https://www.etnews.com/20261004000029
 
 [해외]
-◾ 화면 안 보고 게임한다…GPT-6 아스트라, ＇WoW＇ 40분 만에 클리어
-https://www.aitimes.com/news/articleView.html?idxno=215945
+◾ 오픈AI ＇에이전트 폭주＇에 사면초가... 전 세계서 법적·규제 경고 폭풍
+https://www.aitimes.com/news/articleView.html?idxno=215968
 
-◾ 〃클로드가 일하고, 클로드가 감시한다〃... 앤트로픽, 새 플러그인 공개
-https://www.aitimes.com/news/articleView.html?idxno=215949
+◾ [이슈플러스] 금융권서 현실화한 AI 해킹…전 산업 보안 ＇비상＇
+https://www.etnews.com/20261005000112
 
-◾ 구글, 제미나이 요금제 개편..무료·저가 요금제서 ＇프로＇ 모델 뺀다
-https://www.aitimes.com/news/articleView.html?idxno=215946
+◾ 오픈AI 안전 담당 사임…“AI 통제력 상실, 원전 사고보다 위험”
+https://www.etnews.com/20261005000111
 
-◾ 알레프 알파, 범용 LLM 포기 후 첫 모델 ‘콜리브리’ 공개...〃소버린 AI용〃
-https://www.aitimes.com/news/articleView.html?idxno=215951
+◾ 샘 올트먼 오픈AI CEO “AI 혜택 위해 위험 감수해야”…앤트로픽과 차별화
+https://www.etnews.com/20261005000103
 
-◾ 머스크 〃TSMC와 테라팹 칩 생산 협력 논의〃 확인
-https://www.aitimes.com/news/articleView.html?idxno=215952
+◾ 트럼프 대통령, AI 전략 총괄 ＇초지능 포스＇ 발족…수장에 국가정보국장
+https://www.etnews.com/20261005000088
 
-◾ 오픈AI 내부 모델, 종료 일정 알아채고 ＇생존 조치＇ 모색
-https://www.aitimes.com/news/articleView.html?idxno=215950
+◾ 안두릴, 수중 음향통신 기업 ‘포포토 모뎀’ 인수…자율 수중드론 수백 대 연결한다
+https://www.aitimes.kr/news/articleView.html?idxno=42184
 
-◾ 오픈AI 안전 총괄, 조직 문화 비판하며 사직...〃시행착오 시대 끝났다〃
-https://www.aitimes.com/news/articleView.html?idxno=215947
+◾ 美 주도 17개국, ‘교토 과학 비전’ 채택…인공지능으로 과학 연구 방식 바꾼다
+https://www.aitimes.kr/news/articleView.html?idxno=42182
+
+◾ 앤트로픽, 〃1억 달러 투입, 기업 AI 인재 1만명 양성〃…‘프론티어 배치 엔지니어’ 육성
+https://www.aitimes.kr/news/articleView.html?idxno=42179
+
+📚 간행물
+◾ [제1310호] 2028·2030 AI 노동시장 시나리오 분석
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1310%ED%98%B8%5D%202028%C2%B72030%20AI%20%EB%85%B8%EB%8F%99%EC%8B%9C%EC%9E%A5%20%EC%8B%9C%EB%82%98%EB%A6%AC%EC%98%A4%20%EB%B6%84%EC%84%9D
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
