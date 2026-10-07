@@ -1,9 +1,27 @@
 [
   {
+    "title": "카카오모빌리티-고려대, 모빌리티 기술로 국방 AX 가속화",
+    "link": "https://www.etnews.com/20261007000162",
+    "category": "국방",
+    "score": 5
+  },
+  {
+    "title": "김천석 전북대 첨단방산학과 특임교수, 국방신속획득기술연구원장 취임",
+    "link": "https://www.etnews.com/20261007000145",
+    "category": "국방",
+    "score": 3
+  },
+  {
+    "title": "구글, ‘나노 바나나 2.1’ 공개...성능 높이고 비용은 반값으로",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216030",
+    "category": "민간",
+    "score": 4
+  },
+  {
     "title": "AMD, 연내 국내 ＇AI 연구센터＇ 설립...정부와 메가프로젝트 협력 추진",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216042",
     "category": "민간",
-    "score": 5
+    "score": 4
   },
   {
     "title": "구글, AI 데이터센터 전력 확보 위해 3.6GW 규모 원전 계약 체결",
@@ -12,46 +30,46 @@
     "score": 4
   },
   {
-    "title": "호주 청문회 출석한 오픈AI·앤트로픽 〃에이전트 사고 신고 의무화 찬성〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216035",
-    "category": "해외",
-    "score": 4
-  },
-  {
     "title": "미스트랄, 1조 매개변수 ‘라지 4’ 공개...〃사이버 보안·오픈 모델 최상위〃",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216024",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "한전KPS, AI 감사 부작용 막는다…＇이지스＇ 구축 착수",
-    "link": "https://www.etnews.com/20261007000435",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "오픈AI·팔란티어 경남에 온다…＇2026 더 넥스트 AI＇ 개막 D-7",
-    "link": "https://www.etnews.com/20261007000406",
-    "category": "기관",
-    "score": 5
-  },
-  {
-    "title": "트웰브랩스, 피지컬 AI 학습 최적화 ＇페가수스 1.6＇ 출시",
-    "link": "https://www.etnews.com/20261007000346",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "세계 병원 리더 2000여명 서울 집결…＇의료 AI 공동 원칙＇ 마련한다",
-    "link": "https://www.etnews.com/20261007000300",
-    "category": "기관",
+    "title": "오픈AI·팔란티어 경남에 온다…＇2026 더 넥스트 AI＇ 개막 D-7",
+    "link": "https://www.etnews.com/20261007000406",
+    "category": "민간",
     "score": 4
   },
   {
     "title": "리사 수 AMD 회장 “＇한국 AI 연구센터＇ 연내 설립…연구원 수백명 채용”",
     "link": "https://www.etnews.com/20261007000261",
     "category": "민간",
-    "score": 5
+    "score": 4
+  },
+  {
+    "title": "＇국정 PM＇ 자처한 韓 총리…“국정 현안, AI·데이터 연계로 뚫겠다”",
+    "link": "https://www.etnews.com/20261007000357",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "가스公, CEO 주도 AX TF 발족…정보자산에 AI 결합해 업무 혁신",
+    "link": "https://www.etnews.com/20261007000343",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "코트라, 30년까지 ＇AI 무역인재＇ 1만명 키운다",
+    "link": "https://www.etnews.com/20261007000313",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "세계 병원 리더 2000여명 서울 집결…＇의료 AI 공동 원칙＇ 마련한다",
+    "link": "https://www.etnews.com/20261007000300",
+    "category": "기관",
+    "score": 3
   },
   {
     "title": "금융보안원, 금융권 AI 에이전트 보안 평가기준 마련",
@@ -63,31 +81,55 @@
     "title": "과기부, ＇AI 기반 사회보장 플랫폼＇ 민투SW사업 인정…1호 사업 기대감",
     "link": "https://www.etnews.com/20261007000204",
     "category": "기관",
-    "score": 4
+    "score": 3
   },
   {
-    "title": "카카오모빌리티-고려대, 모빌리티 기술로 국방 AX 가속화",
-    "link": "https://www.etnews.com/20261007000162",
-    "category": "국방",
-    "score": 5
+    "title": "뉴욕시의회, AI 빅테크 청문회…전직 내부고발자 〃통제력 상실〃 경고",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216008",
+    "category": "해외",
+    "score": 3
   },
   {
-    "title": "김천석 전북대 첨단방산학과 특임교수, 국방신속획득기술연구원장 취임",
-    "link": "https://www.etnews.com/20261007000145",
-    "category": "국방",
-    "score": 4
+    "title": "호주 청문회 출석한 오픈AI·앤트로픽 〃에이전트 사고 신고 의무화 찬성〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216035",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "딥시크, 투자 수요 폭발…IPO 전 자금 조달 규모 2배 확대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216026",
+    "category": "해외",
+    "score": 3
   },
   {
     "title": "보스턴다이나믹스, 피지컬 AI 힘싣는다…로히트 프라사드 신임 CEO 영입",
     "link": "https://www.etnews.com/20261007000094",
     "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "“목소리만 듣고 치매 위험 알아챈다”…日 지자체, AI 앱 첫 실험",
+    "link": "https://www.etnews.com/20261006000405",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "AI와 미래 전쟁, 책 속에서 해답 찾기",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261008/5/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=ua0YLbQ0RCT-gBKkNVF6hp8jjHnT7RyooqTAtzvaiSMNDluPqwJT!272000878",
+    "category": "국방",
     "score": 4
   },
   {
-    "title": "한화자산운용, ＇AI 네이티브 운용사＇ 전환…사내 해커톤 ＇2026 AI플러스톤＇ 성료",
-    "link": "https://www.etnews.com/20261007000077",
-    "category": "민간",
+    "title": "AI 시대, 전사다움은 무엇인가",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261008/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=ua0YLbQ0RCT-gBKkNVF6hp8jjHnT7RyooqTAtzvaiSMNDluPqwJT!272000878",
+    "category": "국방",
     "score": 3
+  },
+  {
+    "title": "드론 정비기술·운용·교육 협력 추진",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261008/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=ua0YLbQ0RCT-gBKkNVF6hp8jjHnT7RyooqTAtzvaiSMNDluPqwJT!272000878",
+    "category": "육군",
+    "score": 4
   },
   {
     "title": "수이 개발사 미스틴랩스, 구글과 AI 에이전트 검증 기술 개발",
@@ -102,64 +144,16 @@
     "score": 3
   },
   {
-    "title": "전남테크노파크, AI·로봇 확산모델 신규 협업과제 발굴 추진",
-    "link": "https://www.etnews.com/20261007000051",
-    "category": "기관",
-    "score": 3
-  },
-  {
     "title": "구글, 美최대 원전기업과 3.6GW 전력공급 계약…AIDC 전력 수요 대응",
     "link": "https://www.etnews.com/20261007000037",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "롯데이노베이트, 주거 분야 AX 추진…AI 음성 제어 서비스 선봬",
-    "link": "https://www.etnews.com/20261007000025",
     "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "佛 미스트랄, 1조 파라미터 개방형 AI 모델 공개…“中 경쟁사 능가”",
     "link": "https://www.etnews.com/20261007000013",
     "category": "해외",
     "score": 4
-  },
-  {
-    "title": "“로봇도 사람처럼 공간의 과거를 기억한다”… DGIST, 차세대 자율 로봇 기술 세계 무대 석권",
-    "link": "https://www.etnews.com/20261007000008",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "롯데하이마트, 물류센터에 ＇휴머노이드 로봇＇ 투입한다",
-    "link": "https://www.etnews.com/20261006000426",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "MD 리사 수 회장 만난 국산 AI 반도체, 글로벌 진출 문 두드린다",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187853&searchOpt=ALL&searchTxt=",
-    "category": "기관",
-    "score": 5
-  },
-  {
-    "title": "드론 정비기술·운용·교육 협력 추진",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261008/8/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=ua0YLbQ0RCT-gBKkNVF6hp8jjHnT7RyooqTAtzvaiSMNDluPqwJT!272000878",
-    "category": "육군",
-    "score": 4
-  },
-  {
-    "title": "AI와 미래 전쟁, 책 속에서 해답 찾기",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261008/5/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=ua0YLbQ0RCT-gBKkNVF6hp8jjHnT7RyooqTAtzvaiSMNDluPqwJT!272000878",
-    "category": "국방",
-    "score": 3
-  },
-  {
-    "title": "AI 시대, 전사다움은 무엇인가",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261008/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=ua0YLbQ0RCT-gBKkNVF6hp8jjHnT7RyooqTAtzvaiSMNDluPqwJT!272000878",
-    "category": "국방",
-    "score": 3
   },
   {
     "title": "인텔 제온6, 에이전틱 AI CPU 성능 입증…AMD EPYC 대비 최대 1.67배 처리량",
@@ -183,18 +177,24 @@
     "title": "앤트로픽, 사이버 보안 AI ‘이중용도’ 대응…접근 권한 3단계로 확대",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42209",
     "category": "해외",
-    "score": 5
+    "score": 4
   },
   {
     "title": "구글, 네이티브 멀티모달 임베딩 지원 7.4억 파라미터 온디바이스 오픈 모델 ‘임베딩젬마2’ 공개",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42208",
     "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "MD 리사 수 회장 만난 국산 AI 반도체, 글로벌 진출 문 두드린다",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187853&searchOpt=ALL&searchTxt=",
+    "category": "기관",
     "score": 4
   },
   {
     "title": "현대엔지니어링, 군산 AI 데이터센터에 이어 ‘원창동 데이터센터 신축 사업’ 수주",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42207",
-    "category": "민간",
+    "category": "기관",
     "score": 3
   },
   {
@@ -202,24 +202,6 @@
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42206",
     "category": "기관",
     "score": 3
-  },
-  {
-    "title": "ARTEX 실제 공격 시도 포착…에버스핀, 에버세이프 웹으로 AI 공격 탐지",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42204",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "지멘스·TSMC, AI 기반 반도체 설계 자동화 고도화...공동 혁신 통해 설계부터 테이프아웃까지 생산성 향상",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42200",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "드론 정비기술·운용·교육 협력 추진",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMjM5NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "육군",
-    "score": 4
   },
   {
     "title": "AI와 미래 전쟁, 책 속에서 해답 찾기",
