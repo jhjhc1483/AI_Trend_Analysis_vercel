@@ -6,14 +6,14 @@
     "score": 5
   },
   {
-    "title": "누리호 올라탄 토종 AI 반도체, 우주 궤도서 성능 실증 나선다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216085",
+    "title": "모빌린트 NPU, 누리호 타고 우주로…K-AI 반도체 최초",
+    "link": "https://www.etnews.com/20261008000189",
     "category": "국방",
     "score": 4
   },
   {
-    "title": "모빌린트 NPU, 누리호 타고 우주로…K-AI 반도체 최초",
-    "link": "https://www.etnews.com/20261008000189",
+    "title": "누리호 올라탄 토종 AI 반도체, 우주 궤도서 성능 실증 나선다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216085",
     "category": "국방",
     "score": 4
   },
@@ -24,21 +24,33 @@
     "score": 4
   },
   {
-    "title": "크래프톤, 서울대와 월드모델 공동연구…게임 넘어 로보틱스로 AI 확장",
-    "link": "https://www.etnews.com/20261008000277",
-    "category": "민간",
-    "score": 4
-  },
-  {
     "title": "SKT·업스테이지, 보안기업 6곳과 AI 사이버보안 협의체 출범",
     "link": "https://www.etnews.com/20261008000073",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "구글-유니티, AI 게임 제작 플랫폼 맞손... 자연어로 게임 만들고 글로벌 배포",
-    "link": "https://www.etnews.com/20261008000161",
+    "title": "카카오, 국제 AI 학회서 MoE 학습 최적화·모델 경량화 성과 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216073",
     "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "리퀴드 AI, 10배 큰 체급 제친 멀티모달 의사결정 모델 ‘d1-3B’ 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216087",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "스페이스X, AI 칩 구매에 53조 조달 추진...GPU 121만개 확보 나선다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216061",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "저커버그 부부의 바이오허브, 미 정부·구글과 2.4조 AI 생물학 데이터 구축",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216081",
+    "category": "해외",
     "score": 3
   },
   {
@@ -48,16 +60,10 @@
     "score": 4
   },
   {
-    "title": "케임브리지, AI 에이전트끼리 ‘암호학적 신뢰’ 만든다…서로 믿지 않아도 사실 검증",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42237",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "AI로 데이터센터 전력·환경 부담 줄인다…MIT 델리트루 교수, “AI가 ＇AI 인프라＇ 최적화”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42236",
-    "category": "해외",
-    "score": 4
+    "title": "“AI 시대, 공장의 경쟁력은 전력 인프라가 좌우”...슈나이더 일렉트릭, AI 팩토리 인프라 청사진 제시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42231",
+    "category": "기관",
+    "score": 3
   },
   {
     "title": "휴머노이드 넘어 ‘피지컬 AI’새 판 짠다...KAIST, ‘Physical AI KOREA 2026’ 개최",
@@ -81,6 +87,6 @@
     "title": "삼성전자, 3분기 영업익 107조원 ‘사상 최대’…AI 반도체 슈퍼사이클 올라탔다",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42220",
     "category": "민간",
-    "score": 4
+    "score": 5
   }
 ]
