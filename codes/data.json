@@ -31211,5 +31211,115 @@
       ]
     },
     "briefing": "- 카카오모빌리티와 고려대가 모빌리티 기술을 활용해 국방 분야 AI 전환(AX) 가속화를 추진합니다.\n- MIT가 미지의 환경에서도 충돌 없이 드론 비행을 보장하는 동적 환경 대응 기술 'SANDO'를 개발했습니다.\n- 육군이 드론 정비 및 운용, 교육 분야의 전문성을 강화하기 위한 협력 체계 구축에 나섰습니다."
+  },
+  "26.10.09": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "인텔리빅스, GOP 지키는 ‘AI 경계병’ 만든다…방사청 62억원 규모 R&D 착수",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42234",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "누리호 올라탄 토종 AI 반도체, 우주 궤도서 성능 실증 나선다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216085",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "모빌린트 NPU, 누리호 타고 우주로…K-AI 반도체 최초",
+          "link": "https://www.etnews.com/20261008000189",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "해경, ＇바다 위의 스마트한 눈＇... AI 항공 채증영상 분석 시스템으로  해양 감시 체계 혁신",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42223",
+          "category": "국방",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "〃독파모·모두의 AI 더 안전하게〃...SKT, 업스테이지와 AI 보안 동맹 결성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216069",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "크래프톤, 서울대와 월드모델 공동연구…게임 넘어 로보틱스로 AI 확장",
+          "link": "https://www.etnews.com/20261008000277",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "SKT·업스테이지, 보안기업 6곳과 AI 사이버보안 협의체 출범",
+          "link": "https://www.etnews.com/20261008000073",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "구글-유니티, AI 게임 제작 플랫폼 맞손... 자연어로 게임 만들고 글로벌 배포",
+          "link": "https://www.etnews.com/20261008000161",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "삼성전자, 3분기 영업익 107조원 ‘사상 최대’…AI 반도체 슈퍼사이클 올라탔다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42220",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "반도체가 자라는 ‘시작점’까지 설계… 고집적·저전력 AI 반도체 구현의 새 길",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187854&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "휴머노이드 넘어 ‘피지컬 AI’새 판 짠다...KAIST, ‘Physical AI KOREA 2026’ 개최",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42226",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "케임브리지, AI 에이전트끼리 ‘암호학적 신뢰’ 만든다…서로 믿지 않아도 사실 검증",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42237",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "AI로 데이터센터 전력·환경 부담 줄인다…MIT 델리트루 교수, “AI가 ＇AI 인프라＇ 최적화”",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42236",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "엔비디아·마이크로소프트, 윈도우를 AI 에이전트 플랫폼으로…RTX 스파크로 로컬 AI 확장",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42225",
+          "category": "해외",
+          "score": 5
+        }
+      ],
+      "간행물": [
+        {
+          "title": "2026 개인정보 이슈 심층 분석 보고서(VOL.1) - 프라이버시 강화 기술(PETs)",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=487&page=1",
+          "category": "간행물",
+          "score": 4
+        },
+        {
+          "title": "AI Scientist 최신 개발동향과 미래상 제시 [ICT SPOT ISSUE(2026-07호)]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-261008-000001&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 5
+        }
+      ]
+    }
   }
 }
