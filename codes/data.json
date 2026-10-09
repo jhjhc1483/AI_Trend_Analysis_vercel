@@ -31328,5 +31328,75 @@
       ]
     },
     "briefing": "- 인텔리빅스가 방위사업청과 협력하여 GOP 경계 강화를 위한 ‘AI 경계병’ 기술 연구개발에 착수했습니다.\n- 모빌린트의 국산 AI 반도체가 누리호에 탑재되어 우주 궤도에서의 성능 실증에 나섭니다.\n- 해양경찰청이 AI 기반의 항공 채증영상 분석 시스템을 도입하여 해양 감시 체계의 혁신을 추진합니다."
+  },
+  "26.10.10": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "앤트로픽 ＇클로드 사이언스＇, 인류 최초 자외선 전체 하늘 지도 완성",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216106",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, 연구원 해고 논란 해명...〃안전 제기 보복 아닌 보안 위반〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216105",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "영국·일본, AI·첨단컴퓨팅 협력 강화…AI 안전성 평가·연구자 교류·컴퓨팅 인프라 공동 활용 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42249",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "트럼프, 머스크·젠슨 황·리사 수 등 6명에 美 최고 과학기술 훈장 수여…‘과학 황금기’ 선언",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42247",
+          "category": "해외",
+          "score": 3
+        }
+      ],
+      "민간": [
+        {
+          "title": "앤트로픽, ‘클로드 대시보드·모션’ 공개…〃기업 데이터 분석·영상 제작〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216095",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "〃오픈소스 취약점 AI가 잡는다〃...앤트로픽, 무료 보안 검사 도구 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216101",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "구글, 기업용 ＇제미나이 에이전트＇ 출시…＇아르곤＇·＇클로드＇ 동시 탑재",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "범용 AI 에이전트 ‘제미나이 에이전트’ 공개…구글 클라우드, 기업 업무 전 과정 자동화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42241",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "경기도, AI 집적단지 지정 기준 마련…전석훈 의원, 조례안 6일 입법예고",
+          "link": "https://www.etnews.com/20261009000068",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "구글, AI 생성물 가려내는 ‘신스ID 디텍터’ 전 세계 개방…오픈AI·엔비디아·카카오도 지원",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42240",
+          "category": "기관",
+          "score": 4
+        }
+      ]
+    }
   }
 }
