@@ -11,6 +11,12 @@ https://www.aitimes.com/news/articleView.html?idxno=216101
 ◾ 구글, 기업용 ＇제미나이 에이전트＇ 출시…＇아르곤＇·＇클로드＇ 동시 탑재
 https://www.aitimes.com/news/articleView.html?idxno=216096
 
+◾ 앤트로픽, 오픈소스 보안 취약점 무료 탐지 서비스 공개…최강 AI 모델로 코드 보안 진단
+https://www.aitimes.kr/news/articleView.html?idxno=42243
+
+◾ 앤트로픽, ‘클로드 하이쿠 5.5’ 출시…실행 비용 75% 낮춘 고속 AI 모델
+https://www.aitimes.kr/news/articleView.html?idxno=42242
+
 ◾ 범용 AI 에이전트 ‘제미나이 에이전트’ 공개…구글 클라우드, 기업 업무 전 과정 자동화
 https://www.aitimes.kr/news/articleView.html?idxno=42241
 
@@ -27,6 +33,12 @@ https://www.aitimes.com/news/articleView.html?idxno=216106
 
 ◾ 오픈AI, 연구원 해고 논란 해명...〃안전 제기 보복 아닌 보안 위반〃
 https://www.aitimes.com/news/articleView.html?idxno=216105
+
+◾ 오픈AI 해고 연구원 3인 〃AI 추론 감시 기능 보존해야〃
+https://www.aitimes.com/news/articleView.html?idxno=216093
+
+◾ [10월8일] “수학 문제 4000개에 AI 투입해 성과”…오픈AI가 보여준 과학연구의 변화
+https://www.aitimes.com/news/articleView.html?idxno=216072
 
 ◾ 영국·일본, AI·첨단컴퓨팅 협력 강화…AI 안전성 평가·연구자 교류·컴퓨팅 인프라 공동 활용 추진
 https://www.aitimes.kr/news/articleView.html?idxno=42249
