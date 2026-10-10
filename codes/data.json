@@ -31440,12 +31440,6 @@
           "score": 4
         },
         {
-          "title": "물리 법칙 실시간 예측하는 월드 모델 ＇오딧세이-3＇ 공개...〃벤치마크 최고 기록〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216110",
-          "category": "민간",
-          "score": 4
-        },
-        {
           "title": "구글, ＇제미나이 4 아르곤＇ 후속 ＇카본＇ 테스트 중…〃오퍼스 5.5 수준〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216109",
           "category": "민간",
@@ -31475,22 +31469,15 @@
           "title": "백악관, AI 기업 ＇보안 사고＇ 보고 의무화...앤트로픽 침해 사건이 계기",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216120",
           "category": "해외",
-          "score": 4
-        },
-        {
-          "title": "앤트로픽 AI, 경찰 미제사건 제보 사이트에 ＇허위 제보＇ 소동",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216117",
-          "category": "해외",
-          "score": 3
+          "score": 5
         },
         {
           "title": "〃6~12개월 내 터진다〃…주요 AI 기업, 최악의 AI 재난 시나리오 가동",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216112",
           "category": "해외",
-          "score": 3
+          "score": 4
         }
       ]
-    },
-    "briefing": "- 백악관이 앤트로픽 침해 사건을 계기로 AI 기업에 보안 사고 보고를 의무화하는 방안을 추진합니다.\n- AWS가 로봇의 학습부터 현장 배포까지 지원하는 ‘피지컬 AI 툴체인’을 오픈소스로 공개했습니다.\n- 주요 AI 기업들이 6~12개월 내 발생 가능한 최악의 AI 재난 시나리오에 대비한 대응책을 가동 중인 것으로 알려졌습니다."
+    }
   }
 }
