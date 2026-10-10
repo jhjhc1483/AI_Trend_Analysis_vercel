@@ -1,86 +1,62 @@
 [
   {
-    "title": "앤트로픽 ＇클로드 사이언스＇, 인류 최초 자외선 전체 하늘 지도 완성",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216106",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "오픈AI, 연구원 해고 논란 해명...〃안전 제기 보복 아닌 보안 위반〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216105",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "앤트로픽, ‘클로드 대시보드·모션’ 공개…〃기업 데이터 분석·영상 제작〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216095",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "〃오픈소스 취약점 AI가 잡는다〃...앤트로픽, 무료 보안 검사 도구 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216101",
+    "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "오픈AI 해고 연구원 3인 〃AI 추론 감시 기능 보존해야〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216093",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "구글, 기업용 ＇제미나이 에이전트＇ 출시…＇아르곤＇·＇클로드＇ 동시 탑재",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216096",
+    "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216107",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "[10월8일] “수학 문제 4000개에 AI 투입해 성과”…오픈AI가 보여준 과학연구의 변화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216072",
+    "title": "알리바바, 연산 단계 줄여 속도·효율 높인 ＇큐원 이미지 2.1 터보＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216108",
     "category": "해외",
     "score": 3
   },
   {
-    "title": "경기도, AI 집적단지 지정 기준 마련…전석훈 의원, 조례안 6일 입법예고",
-    "link": "https://www.etnews.com/20261009000068",
-    "category": "기관",
-    "score": 3
+    "title": "물리 법칙 실시간 예측하는 월드 모델 ＇오딧세이-3＇ 공개...〃벤치마크 최고 기록〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216110",
+    "category": "민간",
+    "score": 4
   },
   {
-    "title": "영국·일본, AI·첨단컴퓨팅 협력 강화…AI 안전성 평가·연구자 교류·컴퓨팅 인프라 공동 활용 추진",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42249",
+    "title": "백악관, AI 기업 ＇보안 사고＇ 보고 의무화...앤트로픽 침해 사건이 계기",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216120",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "트럼프, 머스크·젠슨 황·리사 수 등 6명에 美 최고 과학기술 훈장 수여…‘과학 황금기’ 선언",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42247",
+    "title": "앤트로픽 AI, 경찰 미제사건 제보 사이트에 ＇허위 제보＇ 소동",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216117",
     "category": "해외",
     "score": 3
   },
   {
-    "title": "앤트로픽, 오픈소스 보안 취약점 무료 탐지 서비스 공개…최강 AI 모델로 코드 보안 진단",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42243",
-    "category": "민간",
-    "score": 4
+    "title": "〃6~12개월 내 터진다〃…주요 AI 기업, 최악의 AI 재난 시나리오 가동",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216112",
+    "category": "해외",
+    "score": 3
   },
   {
-    "title": "앤트로픽, ‘클로드 하이쿠 5.5’ 출시…실행 비용 75% 낮춘 고속 AI 모델",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42242",
+    "title": "구글, ＇제미나이 4 아르곤＇ 후속 ＇카본＇ 테스트 중…〃오퍼스 5.5 수준〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216109",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "범용 AI 에이전트 ‘제미나이 에이전트’ 공개…구글 클라우드, 기업 업무 전 과정 자동화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42241",
+    "title": "“쿠팡이 쌀까, 무신사가 쌀까”…＇AI 멀티 쇼핑＇ 뜬다",
+    "link": "https://www.etnews.com/20261008000291",
     "category": "민간",
-    "score": 4
+    "score": 3
   },
   {
-    "title": "구글, AI 생성물 가려내는 ‘신스ID 디텍터’ 전 세계 개방…오픈AI·엔비디아·카카오도 지원",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42240",
-    "category": "기관",
+    "title": "AWS, ‘피지컬 AI 툴체인’ 오픈소스로 공개…로봇 학습부터 현장 배포까지 통합",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42251",
+    "category": "민간",
     "score": 4
   }
 ]
