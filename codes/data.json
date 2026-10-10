@@ -31423,5 +31423,73 @@
       ]
     },
     "briefing": "- 앤트로픽이 기업의 오픈소스 코드 보안 취약점을 무료로 탐지하고 진단하는 서비스를 공개했습니다.\n- 영국과 일본이 AI 안전성 평가와 컴퓨팅 인프라 공동 활용을 위한 협력을 강화하기로 했습니다.\n- 구글이 기업 업무의 전 과정을 자동화하는 범용 AI 에이전트 ‘제미나이 에이전트’를 출시했습니다."
+  },
+  "26.10.11": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216107",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "물리 법칙 실시간 예측하는 월드 모델 ＇오딧세이-3＇ 공개...〃벤치마크 최고 기록〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216110",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "구글, ＇제미나이 4 아르곤＇ 후속 ＇카본＇ 테스트 중…〃오퍼스 5.5 수준〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216109",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "“쿠팡이 쌀까, 무신사가 쌀까”…＇AI 멀티 쇼핑＇ 뜬다",
+          "link": "https://www.etnews.com/20261008000291",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "AWS, ‘피지컬 AI 툴체인’ 오픈소스로 공개…로봇 학습부터 현장 배포까지 통합",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42251",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "알리바바, 연산 단계 줄여 속도·효율 높인 ＇큐원 이미지 2.1 터보＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216108",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "백악관, AI 기업 ＇보안 사고＇ 보고 의무화...앤트로픽 침해 사건이 계기",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216120",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽 AI, 경찰 미제사건 제보 사이트에 ＇허위 제보＇ 소동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216117",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "〃6~12개월 내 터진다〃…주요 AI 기업, 최악의 AI 재난 시나리오 가동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216112",
+          "category": "해외",
+          "score": 3
+        }
+      ]
+    }
   }
 }
