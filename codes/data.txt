@@ -8,9 +8,6 @@ https://www.aitimes.com/news/articleView.html?idxno=216122
 ◾ MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시
 https://www.aitimes.com/news/articleView.html?idxno=216107
 
-◾ 물리 법칙 실시간 예측하는 월드 모델 ＇오딧세이-3＇ 공개...〃벤치마크 최고 기록〃
-https://www.aitimes.com/news/articleView.html?idxno=216110
-
 ◾ 구글, ＇제미나이 4 아르곤＇ 후속 ＇카본＇ 테스트 중…〃오퍼스 5.5 수준〃
 https://www.aitimes.com/news/articleView.html?idxno=216109
 
@@ -26,9 +23,6 @@ https://www.aitimes.com/news/articleView.html?idxno=216108
 
 ◾ 백악관, AI 기업 ＇보안 사고＇ 보고 의무화...앤트로픽 침해 사건이 계기
 https://www.aitimes.com/news/articleView.html?idxno=216120
-
-◾ 앤트로픽 AI, 경찰 미제사건 제보 사이트에 ＇허위 제보＇ 소동
-https://www.aitimes.com/news/articleView.html?idxno=216117
 
 ◾ 〃6~12개월 내 터진다〃…주요 AI 기업, 최악의 AI 재난 시나리오 가동
 https://www.aitimes.com/news/articleView.html?idxno=216112
