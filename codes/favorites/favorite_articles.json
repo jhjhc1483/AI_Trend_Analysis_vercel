@@ -8,32 +8,56 @@
   {
     "title": "얀 르쿤의 월드 모델 ＇H-제파＇, 단·장기 계획 분리로 로봇 경로 계획 성공률 73% 달성",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216129",
-    "category": "민간",
+    "category": "해외",
     "score": 4
   },
   {
-    "title": "아레나, 2700억 투자 유치…AI 안전성 평가 ＇정렬 지수＇ 도입",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216131",
-    "category": "민간",
-    "score": 4
+    "title": "중국 AI 모델 안전성 평가 공개율 3.6%...출시 전 공개는 고작 1.1%",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216127",
+    "category": "해외",
+    "score": 3
   },
   {
     "title": "나델라 “AI에도 비상 브레이크 필요”...인간 통제·독립 감사 강조",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216126",
-    "category": "민간",
+    "category": "해외",
     "score": 4
   },
   {
     "title": "엔비디아, 미국 오픈소스 대표 리플렉션 AI 인수·투자 확대 논의",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216125",
     "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "[포토] 공간 자체가 AI가 되는 세계 최초 공간 주도형 AI 플랫폼",
+    "link": "https://www.etnews.com/20261011000089",
+    "category": "민간",
     "score": 3
   },
   {
-    "title": "“로봇 D램 수요, 2030년까지 20배 증가”",
-    "link": "https://www.etnews.com/20261011000072",
+    "title": "[IP 리더를 만나다](7) 황차동 아이피나우·ITL 대표 “AI를 쓰는 AX 넘어, AI가 일하는 기업으로…업무 자체를 바꿔야”",
+    "link": "https://www.etnews.com/20261007000421",
     "category": "민간",
     "score": 3
+  },
+  {
+    "title": "자산운용사, 내부 AI 활용 ＇무한 확장＇…전문인력 채용·업무 자동화",
+    "link": "https://www.etnews.com/20261008000223",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "앤트로픽, AI 모욕하면 대화 종료한다…이용 정책 개정",
+    "link": "https://www.etnews.com/20261011000070",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "앤트로픽 AI 모델, 美 경찰에 미제 살인사건 허위 제보",
+    "link": "https://www.etnews.com/20261011000063",
+    "category": "해외",
+    "score": 4
   },
   {
     "title": "국세청, 중기부와 2559개 AI 중소·스타트업 집중 지원",
@@ -45,7 +69,7 @@
     "title": "포스코DX, ＇인핸스＇에 20억 투자…온톨로지 기반 에이전틱 AI 고도화",
     "link": "https://www.etnews.com/20261010000027",
     "category": "민간",
-    "score": 4
+    "score": 3
   },
   {
     "title": "[AI 세이프가드] ③ AI도 ＇스트레스 테스트＇ 한다……한국의 ＇AI 안전 시험장＇ 가보니",
@@ -60,12 +84,6 @@
     "score": 4
   },
   {
-    "title": "AI 스타트업 2559곳 세무조사 면제·유예…중기부·국세청 성장지원 ＇맞손＇",
-    "link": "https://www.etnews.com/20261008000290",
-    "category": "기관",
-    "score": 4
-  },
-  {
     "title": "美 정부, AI 사고 신고·시정 의무화…“국가안보 의무”",
     "link": "https://www.etnews.com/20261011000052",
     "category": "해외",
@@ -75,7 +93,13 @@
     "title": "취임 6년 정의선, 제조업 벗고 ＇피지컬 AI＇ 솔루션 기업으로 대전환",
     "link": "https://www.etnews.com/20261011000029",
     "category": "민간",
-    "score": 5
+    "score": 4
+  },
+  {
+    "title": "＇AI 해킹＇에 통신사 비상태세 돌입…전사 취약점 점검",
+    "link": "https://www.etnews.com/20261008000266",
+    "category": "민간",
+    "score": 4
   },
   {
     "title": "['AI의 진화' 축복인가 재앙인가?] ① ‘응답도구’에서 ‘행위자’로…일상 파고든 AI",
