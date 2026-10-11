@@ -1,50 +1,86 @@
 [
   {
-    "title": "엔비디아, AI 추론 칩 d-매트릭스에 투자 계획…GPU 중심 생태계 확장",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216122",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개…오픈AI도 API 정식 출시",
+    "title": "MS, 에이전트 의사결정 특화 모델 ‘디시전-1’ 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216107",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "알리바바, 연산 단계 줄여 속도·효율 높인 ＇큐원 이미지 2.1 터보＇ 공개",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216108",
-    "category": "해외",
+    "title": "얀 르쿤의 월드 모델 ＇H-제파＇, 단·장기 계획 분리로 로봇 경로 계획 성공률 73% 달성",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216129",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "아레나, 2700억 투자 유치…AI 안전성 평가 ＇정렬 지수＇ 도입",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216131",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "나델라 “AI에도 비상 브레이크 필요”...인간 통제·독립 감사 강조",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216126",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "엔비디아, 미국 오픈소스 대표 리플렉션 AI 인수·투자 확대 논의",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216125",
+    "category": "민간",
     "score": 3
   },
   {
-    "title": "백악관, AI 기업 ＇보안 사고＇ 보고 의무화...앤트로픽 침해 사건이 계기",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216120",
+    "title": "“로봇 D램 수요, 2030년까지 20배 증가”",
+    "link": "https://www.etnews.com/20261011000072",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "국세청, 중기부와 2559개 AI 중소·스타트업 집중 지원",
+    "link": "https://www.etnews.com/20261011000061",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "포스코DX, ＇인핸스＇에 20억 투자…온톨로지 기반 에이전틱 AI 고도화",
+    "link": "https://www.etnews.com/20261010000027",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "[AI 세이프가드] ③ AI도 ＇스트레스 테스트＇ 한다……한국의 ＇AI 안전 시험장＇ 가보니",
+    "link": "https://www.etnews.com/20261008000313",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "[AI 세이프가드] 〃AI 답변 오류 검증…피해 막아〃 〃에이전트 과업수행 전과정 평가〃",
+    "link": "https://www.etnews.com/20261008000310",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "AI 스타트업 2559곳 세무조사 면제·유예…중기부·국세청 성장지원 ＇맞손＇",
+    "link": "https://www.etnews.com/20261008000290",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "美 정부, AI 사고 신고·시정 의무화…“국가안보 의무”",
+    "link": "https://www.etnews.com/20261011000052",
     "category": "해외",
     "score": 5
   },
   {
-    "title": "〃6~12개월 내 터진다〃…주요 AI 기업, 최악의 AI 재난 시나리오 가동",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216112",
-    "category": "해외",
-    "score": 4
+    "title": "취임 6년 정의선, 제조업 벗고 ＇피지컬 AI＇ 솔루션 기업으로 대전환",
+    "link": "https://www.etnews.com/20261011000029",
+    "category": "민간",
+    "score": 5
   },
   {
-    "title": "구글, ＇제미나이 4 아르곤＇ 후속 ＇카본＇ 테스트 중…〃오퍼스 5.5 수준〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216109",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "“쿠팡이 쌀까, 무신사가 쌀까”…＇AI 멀티 쇼핑＇ 뜬다",
-    "link": "https://www.etnews.com/20261008000291",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "AWS, ‘피지컬 AI 툴체인’ 오픈소스로 공개…로봇 학습부터 현장 배포까지 통합",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42251",
-    "category": "민간",
-    "score": 4
+    "title": "['AI의 진화' 축복인가 재앙인가?] ① ‘응답도구’에서 ‘행위자’로…일상 파고든 AI",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261012/1/ATCE_CTGR_0020060010/view.do;JSESSIONID_kookbnagWEB=XlUsjXLvAHUB-AhgoQX-aKSg5VqjfB0R42A3DiYmJl9A3y8cNOQo!272000878",
+    "category": "국방",
+    "score": 5
   }
 ]
