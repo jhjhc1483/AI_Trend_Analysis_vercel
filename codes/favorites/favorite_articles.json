@@ -18,12 +18,6 @@
     "score": 4
   },
   {
-    "title": "전남광주시, AI자율운영조선소로 조선산업 AX 본격화… 4천억 투자",
-    "link": "https://www.etnews.com/20261012000361",
-    "category": "민간",
-    "score": 4
-  },
-  {
     "title": "SK텔레콤, 해외 5GW AIDC 추가 확보 나선다…아시아 AI 인프라 허브로",
     "link": "https://www.etnews.com/20261012000272",
     "category": "민간",
@@ -36,15 +30,21 @@
     "score": 5
   },
   {
-    "title": "수이, AI 에이전트 인프라 선도…“5년 내 전통 금융거래 사라질 것”",
-    "link": "https://www.etnews.com/20261012000217",
+    "title": "얀 르쿤 “AI 종말론은 과도한 우려…차세대 혁명은 ＇월드모델＇이 이끌 것”",
+    "link": "https://www.etnews.com/20261012000358",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "Ai2, MoE 학습 효율 2.7배 높인 오픈소스 프레임워크 ＇올모 코어 3＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216173",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "소진공, 소공인 제조현장에 피지컬AI 도입 추진…숙련기술 보존·인력난 해소",
-    "link": "https://www.etnews.com/20261012000356",
-    "category": "기관",
+    "title": "오르카라우터, 100만 토큰 컨텍스트 지원 사이버 보안 모델 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216167",
+    "category": "해외",
     "score": 4
   },
   {
@@ -60,6 +60,18 @@
     "score": 5
   },
   {
+    "title": "포항TP-TTA, 지역 제조업 AX 촉진 위한 업무협약…표준화·시험·평가 협력체계 구축",
+    "link": "https://www.etnews.com/20261012000119",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "소진공, 소공인 제조현장에 피지컬AI 도입 추진…숙련기술 보존·인력난 해소",
+    "link": "https://www.etnews.com/20261012000356",
+    "category": "기관",
+    "score": 4
+  },
+  {
     "title": "AWS, 피지컬 AI 개발 전 과정 지원하는 오픈소스 툴체인 공개",
     "link": "https://www.etnews.com/20261012000055",
     "category": "민간",
@@ -68,38 +80,38 @@
   {
     "title": "KT컨소시엄 17개사 한자리에… ＇모두의 AI＇ 출시 계획 논의",
     "link": "https://www.etnews.com/20261012000021",
-    "category": "기관",
-    "score": 4
+    "category": "민간",
+    "score": 3
   },
   {
     "title": "네이버지도, 구글·삼성·메타 AI 글래스 연동…전용 음성호출 기능 도입",
     "link": "https://www.etnews.com/20261012000013",
     "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "뉴엔AI, ＇AI FESTA 26＇서 AI 인과추론부터 MCP까지 차세대 AI 기술 ＇총망라＇",
     "link": "https://www.etnews.com/20261011000094",
     "category": "민간",
-    "score": 4
+    "score": 3
+  },
+  {
+    "title": "비즈폼, 문서 생성부터 검증·표준화까지…AI 문서 서비스 ＇비즈폼AI＇ 출시",
+    "link": "https://www.etnews.com/20261008000054",
+    "category": "민간",
+    "score": 3
   },
   {
     "title": "피지컬 AI 기술·산업·정책·투자를 한자리에 「피지컬 AI Tech Week」 13일 개막",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187856&searchOpt=ALL&searchTxt=",
     "category": "기관",
-    "score": 5
+    "score": 4
   },
   {
     "title": "AI·데이터 기반 국방혁신 가속화",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20261013/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Tk0yTcLNRcg8oPl1nv9ZIoCWwqqEget7y3k0oditZeBcBvh-jwnH!-733402127",
     "category": "국방",
     "score": 5
-  },
-  {
-    "title": "기록이  남아야 잘못을 고친다 AI ‘블랙박스’",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261013/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=Tk0yTcLNRcg8oPl1nv9ZIoCWwqqEget7y3k0oditZeBcBvh-jwnH!-733402127",
-    "category": "국방",
-    "score": 3
   },
   {
     "title": "조선업 AI 전환 제조공정 전반으로 확대",
@@ -120,6 +132,12 @@
     "score": 5
   },
   {
+    "title": "구글, 핏빗 에어·엣지에 AI 건강 관리 강화…운동 자동 감지 100종 이상으로 확대",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42270",
+    "category": "해외",
+    "score": 3
+  },
+  {
     "title": "텔레다인 FLIR, AI 기반 항공 ISR 소프트웨어 공개…지상 표적 실시간 탐지·추적",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42269",
     "category": "해외",
@@ -129,7 +147,7 @@
     "title": "나델라 CEO, “초지능 AI, 내부자 위협처럼 통제해야”…기업 보안 7대 원칙 제시",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42268",
     "category": "해외",
-    "score": 4
+    "score": 5
   },
   {
     "title": "美 국방부, AI 기업 ＇에어＇에 2억 달러 계약…육군 차세대 지휘통제 고도화",
@@ -165,7 +183,7 @@
     "title": "노르마, 양자기술로 AI 다이어트 나섰다…‘QC4AI’ 전략 공개",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42254",
     "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "AI·데이터 기반 국방혁신 가속화",
