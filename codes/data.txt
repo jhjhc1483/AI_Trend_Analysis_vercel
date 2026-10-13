@@ -27,25 +27,19 @@ https://www.aitimes.com/news/articleView.html?idxno=216206
 ◾ 크래프톤, 사상 최대 규모 ＇AI 네이티브＇ 신입 채용 나서
 https://www.aitimes.com/news/articleView.html?idxno=216202
 
-◾ MS ＇코파일럿＇ 기업 평가 반등…변화 주도한 라만나, 오피스 수장으로
-https://www.aitimes.com/news/articleView.html?idxno=216208
-
-◾ AI 업무 플랫폼 ＇팔레트 에이전트＇ 글로벌 출시…〃기획부터 앱 제작까지 통합 지원〃
-https://www.aitimes.com/news/articleView.html?idxno=216199
-
-◾ 지멘스, AX 실행 로드맵 제시…＇인텔리전스 센터 X＇ 본격 가동
-https://www.etnews.com/20261013000376
-
 ◾ 인텔, 에이전틱 AI 대응한 ＇GPU D-시리즈·제온 랙＇ 공개
 https://www.etnews.com/20261013000208
 
 ◾ [KES2026]손안의 AI부터 공장까지…삼성전자 ＇일상 속 AI＇·LG전자 ＇산업까지 확장＇
 https://www.etnews.com/20261013000179
 
-[기관]
-◾ 배경훈 부총리 “피지컬 AI 1강 달성해야”…얼라이언스 본격 가동
-https://www.etnews.com/20261013000437
+◾ “안 읽은 업무 메시지 요약하고 답장보내줘”…카톡서 말 한마디로 업무 처리
+https://www.etnews.com/20261013000083
 
+◾ 현대차·기아, AI 데이터 인프라 기업 바스트 데이터에 전략적 투자…자율주행·로보틱스 데이터 병목 뚫는다
+https://www.aitimes.kr/news/articleView.html?idxno=42275
+
+[기관]
 ◾ 로봇이 우편물 분류하고 농사짓고…범부처 피지컬 AI 개발·실증 확대
 https://www.etnews.com/20261013000255
 
@@ -58,6 +52,9 @@ https://www.etnews.com/20261013000220
 ◾ AI기본법·데이터산업법 개정안 통과…“정부가 만든 AI 데이터 ＇AI허브＇로”
 https://www.etnews.com/20261013000288
 
+◾ 배경훈 부총리 “피지컬 AI 1강 달성해야”…얼라이언스 본격 가동
+https://www.etnews.com/20261013000437
+
 ◾ 배경훈 부총리, 피지컬 AI 얼라이언스와 현장 중심의 실질적 성과 창출 가속화
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187859&searchOpt=ALL&searchTxt=
 
@@ -68,14 +65,20 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 https://www.aitimes.kr/news/articleView.html?idxno=42279
 
 [해외]
+◾ 트럼프 행정부, AI 테스트 전담 기관 백악관 직속 편입...의사결정 통합 가속화
+https://www.aitimes.com/news/articleView.html?idxno=216193
+
 ◾ 메타, 자체 최고 모델 ‘뮤즈 원더’ 출시로 프런티어 경쟁 합류
 https://www.aitimes.com/news/articleView.html?idxno=216176
 
 ◾ 오픈AI, ＇GPT-6.1 솔＇ 컨텍스트 길이 50만 토큰으로 대폭 상향
 https://www.aitimes.com/news/articleView.html?idxno=216196
 
-◾ 트럼프 행정부, AI 테스트 전담 기관 백악관 직속 편입...의사결정 통합 가속화
-https://www.aitimes.com/news/articleView.html?idxno=216193
+◾ 오픈AI, 비용 문제로 접었던 ＇소라＇ 외부 스타트업에 라이선스 추진
+https://www.aitimes.com/news/articleView.html?idxno=216197
+
+◾ 메타, 차세대 AI 에이전트 ＇뮤즈 원더·뮤즈 원더 풀＇ 공개…장기 기억·지속 추론으로 복잡한 업무 수행
+https://www.aitimes.kr/news/articleView.html?idxno=42272
 
 ◾ Arm, AI 에이전트 시대 CPU 성능 평가 기준 바꾼다…랙당 성능 최대 1.99배
 https://www.aitimes.kr/news/articleView.html?idxno=42282
@@ -85,9 +88,6 @@ https://www.aitimes.kr/news/articleView.html?idxno=42276
 
 ◾ 마이크로소프트, 자체 AI 칩 ‘마이아’ 멀티기가와트급 확대…2027년 추론 인프라 주력으로
 https://www.aitimes.kr/news/articleView.html?idxno=42273
-
-◾ 메타, 차세대 AI 에이전트 ＇뮤즈 원더·뮤즈 원더 풀＇ 공개…장기 기억·지속 추론으로 복잡한 업무 수행
-https://www.aitimes.kr/news/articleView.html?idxno=42272
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
