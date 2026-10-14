@@ -1,93 +1,109 @@
-📢26.10.14 AI 일일 동향📢
+📢26.10.15 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 경기도, 전국 첫 판교 국방 AX 거점…AI·로봇 기업 실증·사업화 지원
-https://www.etnews.com/20261013000452
+◾ 한남대, ＇국방 AX 거점＇ 판교서 첫 출범…5년간 268억 투입
+https://www.etnews.com/20261014000326
 
-◾ ‘국방드론본부 신설’ 국무회의 의결
-https://kookbang.dema.mil.kr/newsWeb/20261014/11/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=LcQ3G-GK21O4DDtgWw4n-uRnkvep_fIUkpSQwjbh9R9Z_7b3CWor!272000878
+◾ ['AI의 진화' 축복인가 재앙인가?] ④ 전문가 인터뷰
+https://kookbang.dema.mil.kr/newsWeb/20261015/1/ATCE_CTGR_0020060010/view.do;JSESSIONID_kookbnagWEB=Zag8AehWTj51Ex8gV6ik2gitgX10r56B9JVYyv7ld8zrjfTUY7CO!-992138957
 
-◾ “AI 기술력이 국력이자 안보 역량”
-https://kookbang.dema.mil.kr/newsWeb/20261014/6/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=LcQ3G-GK21O4DDtgWw4n-uRnkvep_fIUkpSQwjbh9R9Z_7b3CWor!272000878
+◾ 미래 전장과 군·테크 복합체의 실상
+https://kookbang.dema.mil.kr/newsWeb/20261015/2/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=Zag8AehWTj51Ex8gV6ik2gitgX10r56B9JVYyv7ld8zrjfTUY7CO!-992138957
 
-◾ ['AI의 진화' 축복인가 재앙인가?] ③ 군사작전 AI정보는 믿을 수 있나?
-https://kookbang.dema.mil.kr/newsWeb/20261014/1/ATCE_CTGR_0020060010/view.do;JSESSIONID_kookbnagWEB=LcQ3G-GK21O4DDtgWw4n-uRnkvep_fIUkpSQwjbh9R9Z_7b3CWor!272000878
-
-◾ ‘국방드론본부 신설’ 국무회의 의결
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMjcyMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ “AI 기술력이 국력이자 안보 역량”
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMjcxNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ AI 3강 한국의 도전…초번영 역량에 달렸다
+https://kookbang.dema.mil.kr/newsWeb/20261015/6/ATCE_CTGR_0020020015/view.do;JSESSIONID_kookbnagWEB=Zag8AehWTj51Ex8gV6ik2gitgX10r56B9JVYyv7ld8zrjfTUY7CO!-992138957
 
 [민간]
-◾ 5000만 사용자 국민 메신저 카톡, AI 에이전트 허브로 진화 조준
-https://www.aitimes.com/news/articleView.html?idxno=216206
+◾ LG CNS, 일본 통신사 KDDI와 동남아 에이전틱·피지컬 AI 시장 공조
+https://www.aitimes.com/news/articleView.html?idxno=216238
 
-◾ 크래프톤, 사상 최대 규모 ＇AI 네이티브＇ 신입 채용 나서
-https://www.aitimes.com/news/articleView.html?idxno=216202
+◾ [SEDEX 2026]SK하이닉스, HBM만으로는 부족…＇신개념 AI 메모리＇ 꺼냈다
+https://www.etnews.com/20261014000408
 
-◾ 인텔, 에이전틱 AI 대응한 ＇GPU D-시리즈·제온 랙＇ 공개
-https://www.etnews.com/20261013000208
+◾ 마키나락스, 산업부 R&D 참여…AI로 단조 공정 자율화
+https://www.etnews.com/20261014000400
 
-◾ [KES2026]손안의 AI부터 공장까지…삼성전자 ＇일상 속 AI＇·LG전자 ＇산업까지 확장＇
-https://www.etnews.com/20261013000179
+◾ KT, 피지컬 AI 사업화 과제 26개 발굴…카이스트와 무인공장 실증 추진
+https://www.etnews.com/20261014000314
 
-◾ “안 읽은 업무 메시지 요약하고 답장보내줘”…카톡서 말 한마디로 업무 처리
-https://www.etnews.com/20261013000083
+◾ LX판토스, 로봇·AI 전환 기술 연구·실증 거점 ＇TDL Lab＇ 개소
+https://www.etnews.com/20261014000298
 
-◾ 현대차·기아, AI 데이터 인프라 기업 바스트 데이터에 전략적 투자…자율주행·로보틱스 데이터 병목 뚫는다
-https://www.aitimes.kr/news/articleView.html?idxno=42275
+◾ 의사결정 모델도 멀티모달로 진화… vLLM·클라우드플레어 모델 공개
+https://www.aitimes.com/news/articleView.html?idxno=216213
+
+◾ KT, 최대 800Gbps ＇AI 전용회선＇ 출시…기존 대비 대역폭 8배 확대
+https://www.etnews.com/20261014000069
+
+◾ 그룹아이비, AI 에이전트로 사이버 위협 분석 자동화
+https://www.etnews.com/20261014000042
+
+◾ AI스페라, 싱가포르서 AI 보안 자동화 기술 공개
+https://www.etnews.com/20261014000026
+
+◾ LG전자·애플, AI홈 IoT 기기 7종 공동 개발…비전 AI·자동 출입 기술로 생태계 확장
+https://www.aitimes.kr/news/articleView.html?idxno=42291
+
+◾ 메타, 글로벌 AI 해커톤 참가자 공모…〃총상금 100만 달러 걸고 에이전트·로보틱스 혁신 겨룬다〃
+https://www.aitimes.kr/news/articleView.html?idxno=42288
 
 [기관]
-◾ 로봇이 우편물 분류하고 농사짓고…범부처 피지컬 AI 개발·실증 확대
-https://www.etnews.com/20261013000255
+◾ 금융위, 8800억원 규모 ＇초장기기술투자펀드＇ 운용사 7곳 선정…연말 자금 집행
+https://www.etnews.com/20261014000473
 
-◾ 반도체부터 로봇까지 5대 전시회 하나로…산업부 ＇K-커넥트 AI＇ 출범
-https://www.etnews.com/20261013000322
+◾ 공공 에이전틱 AI 도입 문 넓어진다…주요 AI 플랫폼 등록 이어져
+https://www.etnews.com/20261014000115
 
-◾ 산업부, AI·로봇 규제 빗장 풀었다
-https://www.etnews.com/20261013000220
+◾ AI·로봇 산업 생태계 전략 국회포럼 21일 개최
+https://www.etnews.com/20261014000334
 
-◾ AI기본법·데이터산업법 개정안 통과…“정부가 만든 AI 데이터 ＇AI허브＇로”
-https://www.etnews.com/20261013000288
+◾ K-문샷 반도체 미션 가동…정부-삼성-SK 뭉쳐 반도체 성능 100배 개선 도전
+https://www.etnews.com/20261014000252
 
-◾ 배경훈 부총리 “피지컬 AI 1강 달성해야”…얼라이언스 본격 가동
-https://www.etnews.com/20261013000437
+◾ AI가 연구자 지식 실험 계획에 반영...화학연, ＇AI 자율실험＇ 기술 개발
+https://www.etnews.com/20261014000146
 
-◾ 배경훈 부총리, 피지컬 AI 얼라이언스와 현장 중심의 실질적 성과 창출 가속화
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187859&searchOpt=ALL&searchTxt=
+◾ AI에 말로 지시하면 광통신망 설정...ETRI, ＇LLM 기반 광액세스망 운용 기술＇ 개발
+https://www.etnews.com/20261014000074
 
-◾ 국가 AI 데이터의 체계적 관리·활용을 위한 ｢AI기본법｣, ｢데이터산업법｣ 개정안 국무회의 통과
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187861&searchOpt=ALL&searchTxt=
+◾ 류제명 제2차관, 「피지컬 AI Tech Day」 참석
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187862&searchOpt=ALL&searchTxt=
 
-◾ 이소영 중기부 장관, “AI 대전환, 중소기업이 주역”…스마트공장 넘어 피지컬 AI까지 지원
-https://www.aitimes.kr/news/articleView.html?idxno=42279
+◾ GIST-KETI-라보로 AI, 인간중심 피지컬 AI 공동연구…창작·돌봄 로봇 개발
+https://www.aitimes.kr/news/articleView.html?idxno=42296
 
 [해외]
-◾ 트럼프 행정부, AI 테스트 전담 기관 백악관 직속 편입...의사결정 통합 가속화
-https://www.aitimes.com/news/articleView.html?idxno=216193
+◾ 앤트로픽, 국방부 ＇공급망 위험＇ 지정 불복…항소법원에 재심 청구
+https://www.aitimes.com/news/articleView.html?idxno=216255
 
-◾ 메타, 자체 최고 모델 ‘뮤즈 원더’ 출시로 프런티어 경쟁 합류
-https://www.aitimes.com/news/articleView.html?idxno=216176
+◾ 앤트로픽, 가전기기에 바이러스처럼 자가 복제되는 ＇AI 웜＇ 경고
+https://www.etnews.com/20261014000313
 
-◾ 오픈AI, ＇GPT-6.1 솔＇ 컨텍스트 길이 50만 토큰으로 대폭 상향
-https://www.aitimes.com/news/articleView.html?idxno=216196
+◾ 오픈AI 회의실에 꽂힌 ＇수상한 USB＇… 챗봇에 도청기 질문한 사우디 직원 체포
+https://www.etnews.com/20261014000140
 
-◾ 오픈AI, 비용 문제로 접었던 ＇소라＇ 외부 스타트업에 라이선스 추진
-https://www.aitimes.com/news/articleView.html?idxno=216197
+◾ 조 차이 알리바바 회장, “오픈소스가 유럽 AI 주권의 기회”…승부처는 컴퓨팅 인프라
+https://www.aitimes.kr/news/articleView.html?idxno=42305
 
-◾ 메타, 차세대 AI 에이전트 ＇뮤즈 원더·뮤즈 원더 풀＇ 공개…장기 기억·지속 추론으로 복잡한 업무 수행
-https://www.aitimes.kr/news/articleView.html?idxno=42272
+◾ 영국·캐나다, AI 안보 협력 강화…프런티어 AI 위험 정보 공유·공동 평가 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42303
 
-◾ Arm, AI 에이전트 시대 CPU 성능 평가 기준 바꾼다…랙당 성능 최대 1.99배
-https://www.aitimes.kr/news/articleView.html?idxno=42282
+◾ [AI 이슈] “AI 자기 복제, 수개월 내 가능”…앤트로픽, 스마트 가전이 사이버 공격 거점 될 수도
+https://www.aitimes.kr/news/articleView.html?idxno=42300
 
-◾ AMD, 에이전틱 AI 전용 랙스케일 인프라 ‘헬리온’ 공개…CPU 3만2768코어까지 확장
-https://www.aitimes.kr/news/articleView.html?idxno=42276
+◾ 〃AI의 한계를 다시 쓴다〃…구글, 코딩·과학·로봇을 관통하는 ‘제미나이 4 아르곤’ 전 세계 출시
+https://www.aitimes.kr/news/articleView.html?idxno=42294
 
-◾ 마이크로소프트, 자체 AI 칩 ‘마이아’ 멀티기가와트급 확대…2027년 추론 인프라 주력으로
-https://www.aitimes.kr/news/articleView.html?idxno=42273
+◾ 더 똑똑해진 ‘홈팟 미니 2’ 공개…애플, 개인 맥락 이해하고 웹 지식 활용하는 차세대 AI 시리 탑재
+https://www.aitimes.kr/news/articleView.html?idxno=42292
+
+📚 간행물
+◾ 2026년 9월 정보통신산업(ICT) 수출입 동향
+https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-261014-000001&cpage=1&rows=10&searchTarget=all
+
+◾ AI 데이터센터 반도체 경쟁, 칩을 넘어 이기종·개방형 시스템으로 [ICT SPOT ISSUE(2026-08호)]
+https://www.iitp.kr/web/lay1/program/S1T62C68/itfind/view.do?seq=02-001-261014-000001&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
