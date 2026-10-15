@@ -32241,6 +32241,261 @@
     "briefing": "- 한남대가 판교에 '국방 AI(AX) 거점'을 출범하며 향후 5년간 268억 원을 투입해 국방 혁신을 지원할 계획입니다.\n- ETRI가 생성형 AI(LLM)에 말로 지시해 광통신망을 설정할 수 있는 운용 기술을 개발했습니다.\n- 영국과 캐나다가 프런티어 AI 관련 위험 정보를 공유하고 공동 평가를 추진하는 등 AI 안보 협력을 강화했습니다."
   },
   "26.10.16": {
-    "briefing": "- 한남대가 판교에 '국방 AI(AX) 거점'을 신설하고 향후 5년간 268억 원을 투입해 국방 혁신을 추진합니다.\n- 앤트로픽이 스마트 가전 기기에 바이러스처럼 자가 복제되는 'AI 웜'의 위험성을 경고하며 보안 취약 가능성을 제기했습니다.\n- 영국과 캐나다가 AI 안보 협력을 강화하여 프런티어 AI 관련 위험 정보를 공유하고 공동 평가를 추진하기로 했습니다."
+    "categorized": {
+      "해외": [
+        {
+          "title": "대규모 잠수함 계약까지 따낸 안두릴, 기업가치 120조로 껑충",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216288",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "오픈AI·앤트로픽 〃통제 어려운 중국 오픈 모델, 사이버 보안에 구멍〃 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216295",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "스페이스XSI, 최고 성능 ＇그록 보이스 3.0＇ 공개...〃실무 전화 해결률 1위〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216297",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "텐센트 에이전트도 보안망 우회...알리바바 지도 서비스 대량 스캔",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216284",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "허사비스 〃AI 에이전트 해킹, 시스템 보안 강화 촉구하는 조기 경고〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216292",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "앤트로픽, 싱가포르에 아태 5번째 거점 개설…정부와 AI 안전·평가 협력",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42321",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "화웨이, AI 시대 통신망 보안·복원력 강화 강조…차세대 IP 네트워크 구축 본격화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42320",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "애플, AI 스마트홈 허브 ‘홈뷰’ 공개…얼굴 인식부터 집안 보안까지 한 화면에",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42316",
+          "category": "해외",
+          "score": 3
+        }
+      ],
+      "민간": [
+        {
+          "title": "세일포인트, AI 보안도 AI에 맡긴다…자율형 에이전트 개발",
+          "link": "https://www.etnews.com/20261015000469",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "리퀴드 AI, 플래그십 모델 ＇LFM2.5-24B-A2B＇ 공개...〃온디바이스 에이전트 겨냥〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216299",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "MS, 2~6주 날씨 예보 공백 메우는 새로운 AI 프레임워크 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216301",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, 인프라 책임자 또 교체…데이터센터 직접 확보 속도",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216296",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "“딥엑스 NPU, 3W로 영상·언어 AI 구현”…라즈베리 파이 공식 소개",
+          "link": "https://www.etnews.com/20261015000348",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "투라인클라우드, 날리지큐브와 AX 공동사업 추진…RAG·AI 에이전트 기술 결합",
+          "link": "https://www.etnews.com/20261015000320",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "미·중 AI 대회서도 통했다···페르소나AI, ＇업무 실행형 에이전트＇로 해외 시장 공략",
+          "link": "https://www.etnews.com/20261015000315",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "베슬AI, 2030년 GPU 20만장 확보 추진…글로벌 네오클라우드 도약",
+          "link": "https://www.etnews.com/20261015000280",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "로봇 학습·AI글라스 차량정비…KT그룹, 현업 AX 사례 40여개 공유",
+          "link": "https://www.etnews.com/20261015000254",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "수산아이앤티, 美 씨패킷과 맞손…AI 네트워크 보안 시장 공략",
+          "link": "https://www.etnews.com/20261015000198",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "티오리, AI 해킹 도구 탐지 룰셋 무료 공개",
+          "link": "https://www.etnews.com/20261015000197",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "샌즈랩, AI가 변형한 악성코드서 원본 흔적 찾아",
+          "link": "https://www.etnews.com/20261015000190",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "델, AI 데이터 플랫폼 고도화…에이전트 이해도 높인다",
+          "link": "https://www.etnews.com/20261015000129",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "로제AI, 나스닥 상장 발판 글로벌 재난안전 AI 시장 공략 본격화",
+          "link": "https://www.etnews.com/20261015000108",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "AI가 스스로 움직이는 시대…카카오, ＇자율 에이전트＇ 윤리 기준 세웠다",
+          "link": "https://www.etnews.com/20261015000096",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "STEG, 아주대학교병원 권역외상센터에 AI 플랫폼 ＇AIRNET＇ 구축",
+          "link": "https://www.etnews.com/20261015000067",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "파두, SSD에서 파일 직접 쓰고 읽는 ＇FS-SSD＇ 공개…“차세대 AI 스토리지 시장 공략”",
+          "link": "https://www.etnews.com/20261015000055",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "[미리보는 테크서밋]<3>AI 확장 대응, 인텔·시높시스·퀄컴 ＇에이전틱 AI 구현할 혁신＇ 제시",
+          "link": "https://www.etnews.com/20261015000054",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "델 테크놀로지스, AI 데이터 플랫폼 고도화…에이전트 활용성 높인다",
+          "link": "https://www.etnews.com/20261015000031",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "카카오, 자율 AI 에이전트 윤리 체계 구축…‘SPIRIT·NORMA’로 전 주기 위험 관리",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42319",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "HD건설기계, 3MW급 초대형 발전 엔진 개발…AI 데이터센터 전력 시장 정조준",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42313",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "델, 기업 데이터에 ‘의미와 관계’ 입힌다…AI 에이전트 신뢰성 높이는 플랫폼 확장",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42309",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "인공지능이 장면 전환이 불러온 인물 추적 오류 잡았다…UNIST 백승렬 교수팀, 3D 복원 AI 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42308",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "SKT, AI-RAN으로 일반 차량 무인 이송 구현…글로벌 5G 혁신상 수상",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42306",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "기관": [
+        {
+          "title": "“피지컬 AI, 국제표준 선점해야”…PASA, 표준화 추진",
+          "link": "https://www.etnews.com/20261015000468",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "중기중앙회, LG CNS·메가존과 중소 제조기업 AI 전환 추진",
+          "link": "https://www.etnews.com/20261015000397",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "제조 AI전환 거점 경남의 든든한 방패 ＇경남정보보호지원센터＇ 공식 출범",
+          "link": "https://www.etnews.com/20261015000060",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "한국정보통신법학회, 20일 AI 윤리법제포럼 개최…에이전틱 AI 윤리 논의",
+          "link": "https://www.etnews.com/20261015000271",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "산림청, 업무지원 챗봇 가동…“임업직불금 궁금하면 AI에 물어보세요”",
+          "link": "https://www.etnews.com/20261015000120",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "한국AI융합기술인협회 등 4개 기관, ＇AI 활용 노하우와 바이브코딩＇ 특별 세미나 개최",
+          "link": "https://www.etnews.com/20261015000105",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "('26. 10. 15.) 국가AI전략위, 복지부와 함께 국가 의료·바이오 AI 혁신을 위한 바이오 데이터 기증에 솔선수범",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1030",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "간행물": [
+        {
+          "title": "정보보호 해외진출 전략거점 월간 주요동향(2026년 9월)",
+          "link": "https://www.kisa.or.kr/20203/form?postSeq=222&page=1",
+          "category": "간행물",
+          "score": 3
+        },
+        {
+          "title": "AX 전환의 성공 조건, 美 과학 이니셔티브 패키지, 中 ＇신질생산력 발전 의견＇ [AI·ICT Brief 2026-35호]",
+          "link": "https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-261015-000006&cpage=1&rows=10&searchTarget=all",
+          "category": "간행물",
+          "score": 5
+        }
+      ]
+    }
   }
 }
