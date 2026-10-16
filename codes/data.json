@@ -32498,5 +32498,133 @@
       ]
     },
     "briefing": "- KT그룹이 로봇 학습과 AI 글라스를 활용한 차량 정비 등 실제 현업 적용 사례 40여 개를 공유했습니다.\n- UNIST 연구팀이 AI 영상 분석 중 발생하는 인물 추적 오류를 해결하는 3D 복원 기술을 개발했습니다.\n- 국가AI전략위원회가 보건복지부와 협력하여 국가 의료·바이오 혁신을 위한 바이오 데이터 기증에 동참했습니다."
+  },
+  "26.10.17": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "인텔리빅스, 30일 코스닥 상장...〃안전 AI로 국방·자율주행·선박 공략〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216333",
+          "category": "국방",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘오픈AI 의존 줄일 독자 역량’ 부각",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216337",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "아마존, 일상 대화 기억·요약하는 개인용 AI 웨어러블 ＇비＇ 시리즈 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216332",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "트웰브랩스, 말로 요청하면 장면 찾고 편집하는 AI 에이전트 ‘자키’ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216341",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, 음성 모델 ‘GPT-라이브-1.1’ 공개...한국어 등 6개 언어 음성 개선",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216339",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "엔비디아, 기업용 에이전트 겨냥 120B ‘네모트론 3.5 슈퍼 VL’ 오픈 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216322",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "엣지에이아이·미 이피션트AI, 1000 TOPS급 피지컬 AI 반도체 공동개발",
+          "link": "https://www.etnews.com/20261016000231",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "프루프포인트, 데이터·AI 보안기업 베로니스 8.4조원에 인수",
+          "link": "https://www.etnews.com/20261016000285",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 AI 승부수",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42326",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "정현철 노르마 대표, AI 신경망 경량화 겨냥…‘QC4AI’ 사업 전략 제시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42318",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "美 FTC, 오픈AI·앤트로픽 보안사고 조사…경영진 소환 추진",
+          "link": "https://www.etnews.com/20261016000005",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "[테크 차이나] 中 산업용 AI 시장 2030년 3000억위안 돌파 전망…＇공정 원리+데이터＇가 성장 견인",
+          "link": "https://www.etnews.com/20261016000111",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "티오리 ＇진트＇, 오픈AI 이어 앤트로픽 보안 특화 AI 프로그램 참여",
+          "link": "https://www.etnews.com/20261016000059",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "美 뉴욕시 감사원장, 앤트로픽에 “AI 위험 해소할 때까지 IPO 중단해야”",
+          "link": "https://www.etnews.com/20261016000009",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "구글 퀀텀 AI, 양자컴퓨팅 최대 병목 뚫었다…매직 상태 오류 40배 줄여",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42325",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "“美 역대 최강, AI 오픈 웨이트 모델”…메타, 8160억 매개변수 ‘뮤즈 스파크 오픈’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42323",
+          "category": "해외",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "센스톤, AI 무인공장 보안 기술 개발…비인가 제어 명령 사전 차단",
+          "link": "https://www.etnews.com/20261016000344",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "“철강 현장 맞춤형 AI 혁신 생태계 조성”…RIST, ＇AX실증산단 구축사업 킥오프 미팅＇개최",
+          "link": "https://www.etnews.com/20261016000010",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "간행물": [
+        {
+          "title": "2026 개인정보 이슈 심층 분석 보고서(VOL.2) - 개인정보 유출과 랜섬웨어",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=488&page=1",
+          "category": "간행물",
+          "score": 4
+        }
+      ]
+    }
   }
 }

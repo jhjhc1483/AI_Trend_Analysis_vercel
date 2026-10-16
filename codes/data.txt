@@ -1,132 +1,67 @@
-📢26.10.16 AI 일일 동향📢
+📢26.10.17 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 인텔리빅스, 30일 코스닥 상장...〃안전 AI로 국방·자율주행·선박 공략〃
+https://www.aitimes.com/news/articleView.html?idxno=216333
+
 [민간]
-◾ 세일포인트, AI 보안도 AI에 맡긴다…자율형 에이전트 개발
-https://www.etnews.com/20261015000469
+◾ MS, 정식 출시 앞서 2.8조 매개변수 모델 공개…‘오픈AI 의존 줄일 독자 역량’ 부각
+https://www.aitimes.com/news/articleView.html?idxno=216337
 
-◾ 리퀴드 AI, 플래그십 모델 ＇LFM2.5-24B-A2B＇ 공개...〃온디바이스 에이전트 겨냥〃
-https://www.aitimes.com/news/articleView.html?idxno=216299
+◾ 아마존, 일상 대화 기억·요약하는 개인용 AI 웨어러블 ＇비＇ 시리즈 공개
+https://www.aitimes.com/news/articleView.html?idxno=216332
 
-◾ MS, 2~6주 날씨 예보 공백 메우는 새로운 AI 프레임워크 공개
-https://www.aitimes.com/news/articleView.html?idxno=216301
+◾ 트웰브랩스, 말로 요청하면 장면 찾고 편집하는 AI 에이전트 ‘자키’ 출시
+https://www.aitimes.com/news/articleView.html?idxno=216341
 
-◾ 오픈AI, 인프라 책임자 또 교체…데이터센터 직접 확보 속도
-https://www.aitimes.com/news/articleView.html?idxno=216296
+◾ 오픈AI, 음성 모델 ‘GPT-라이브-1.1’ 공개...한국어 등 6개 언어 음성 개선
+https://www.aitimes.com/news/articleView.html?idxno=216339
 
-◾ “딥엑스 NPU, 3W로 영상·언어 AI 구현”…라즈베리 파이 공식 소개
-https://www.etnews.com/20261015000348
+◾ 엔비디아, 기업용 에이전트 겨냥 120B ‘네모트론 3.5 슈퍼 VL’ 오픈 공개
+https://www.aitimes.com/news/articleView.html?idxno=216322
 
-◾ 투라인클라우드, 날리지큐브와 AX 공동사업 추진…RAG·AI 에이전트 기술 결합
-https://www.etnews.com/20261015000320
+◾ 엣지에이아이·미 이피션트AI, 1000 TOPS급 피지컬 AI 반도체 공동개발
+https://www.etnews.com/20261016000231
 
-◾ 미·중 AI 대회서도 통했다···페르소나AI, ＇업무 실행형 에이전트＇로 해외 시장 공략
-https://www.etnews.com/20261015000315
+◾ 프루프포인트, 데이터·AI 보안기업 베로니스 8.4조원에 인수
+https://www.etnews.com/20261016000285
 
-◾ 베슬AI, 2030년 GPU 20만장 확보 추진…글로벌 네오클라우드 도약
-https://www.etnews.com/20261015000280
+◾ 엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 AI 승부수
+https://www.aitimes.kr/news/articleView.html?idxno=42326
 
-◾ 로봇 학습·AI글라스 차량정비…KT그룹, 현업 AX 사례 40여개 공유
-https://www.etnews.com/20261015000254
-
-◾ 수산아이앤티, 美 씨패킷과 맞손…AI 네트워크 보안 시장 공략
-https://www.etnews.com/20261015000198
-
-◾ 티오리, AI 해킹 도구 탐지 룰셋 무료 공개
-https://www.etnews.com/20261015000197
-
-◾ 샌즈랩, AI가 변형한 악성코드서 원본 흔적 찾아
-https://www.etnews.com/20261015000190
-
-◾ 델, AI 데이터 플랫폼 고도화…에이전트 이해도 높인다
-https://www.etnews.com/20261015000129
-
-◾ 로제AI, 나스닥 상장 발판 글로벌 재난안전 AI 시장 공략 본격화
-https://www.etnews.com/20261015000108
-
-◾ AI가 스스로 움직이는 시대…카카오, ＇자율 에이전트＇ 윤리 기준 세웠다
-https://www.etnews.com/20261015000096
-
-◾ STEG, 아주대학교병원 권역외상센터에 AI 플랫폼 ＇AIRNET＇ 구축
-https://www.etnews.com/20261015000067
-
-◾ 파두, SSD에서 파일 직접 쓰고 읽는 ＇FS-SSD＇ 공개…“차세대 AI 스토리지 시장 공략”
-https://www.etnews.com/20261015000055
-
-◾ [미리보는 테크서밋]<3>AI 확장 대응, 인텔·시높시스·퀄컴 ＇에이전틱 AI 구현할 혁신＇ 제시
-https://www.etnews.com/20261015000054
-
-◾ 델 테크놀로지스, AI 데이터 플랫폼 고도화…에이전트 활용성 높인다
-https://www.etnews.com/20261015000031
-
-◾ 카카오, 자율 AI 에이전트 윤리 체계 구축…‘SPIRIT·NORMA’로 전 주기 위험 관리
-https://www.aitimes.kr/news/articleView.html?idxno=42319
-
-◾ HD건설기계, 3MW급 초대형 발전 엔진 개발…AI 데이터센터 전력 시장 정조준
-https://www.aitimes.kr/news/articleView.html?idxno=42313
-
-◾ 델, 기업 데이터에 ‘의미와 관계’ 입힌다…AI 에이전트 신뢰성 높이는 플랫폼 확장
-https://www.aitimes.kr/news/articleView.html?idxno=42309
-
-◾ 인공지능이 장면 전환이 불러온 인물 추적 오류 잡았다…UNIST 백승렬 교수팀, 3D 복원 AI 개발
-https://www.aitimes.kr/news/articleView.html?idxno=42308
-
-◾ SKT, AI-RAN으로 일반 차량 무인 이송 구현…글로벌 5G 혁신상 수상
-https://www.aitimes.kr/news/articleView.html?idxno=42306
+◾ 정현철 노르마 대표, AI 신경망 경량화 겨냥…‘QC4AI’ 사업 전략 제시
+https://www.aitimes.kr/news/articleView.html?idxno=42318
 
 [기관]
-◾ “피지컬 AI, 국제표준 선점해야”…PASA, 표준화 추진
-https://www.etnews.com/20261015000468
+◾ 센스톤, AI 무인공장 보안 기술 개발…비인가 제어 명령 사전 차단
+https://www.etnews.com/20261016000344
 
-◾ 중기중앙회, LG CNS·메가존과 중소 제조기업 AI 전환 추진
-https://www.etnews.com/20261015000397
-
-◾ 제조 AI전환 거점 경남의 든든한 방패 ＇경남정보보호지원센터＇ 공식 출범
-https://www.etnews.com/20261015000060
-
-◾ 한국정보통신법학회, 20일 AI 윤리법제포럼 개최…에이전틱 AI 윤리 논의
-https://www.etnews.com/20261015000271
-
-◾ 산림청, 업무지원 챗봇 가동…“임업직불금 궁금하면 AI에 물어보세요”
-https://www.etnews.com/20261015000120
-
-◾ 한국AI융합기술인협회 등 4개 기관, ＇AI 활용 노하우와 바이브코딩＇ 특별 세미나 개최
-https://www.etnews.com/20261015000105
-
-◾ ('26. 10. 15.) 국가AI전략위, 복지부와 함께 국가 의료·바이오 AI 혁신을 위한 바이오 데이터 기증에 솔선수범
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1030
+◾ “철강 현장 맞춤형 AI 혁신 생태계 조성”…RIST, ＇AX실증산단 구축사업 킥오프 미팅＇개최
+https://www.etnews.com/20261016000010
 
 [해외]
-◾ 대규모 잠수함 계약까지 따낸 안두릴, 기업가치 120조로 껑충
-https://www.aitimes.com/news/articleView.html?idxno=216288
+◾ 美 FTC, 오픈AI·앤트로픽 보안사고 조사…경영진 소환 추진
+https://www.etnews.com/20261016000005
 
-◾ 오픈AI·앤트로픽 〃통제 어려운 중국 오픈 모델, 사이버 보안에 구멍〃 경고
-https://www.aitimes.com/news/articleView.html?idxno=216295
+◾ [테크 차이나] 中 산업용 AI 시장 2030년 3000억위안 돌파 전망…＇공정 원리+데이터＇가 성장 견인
+https://www.etnews.com/20261016000111
 
-◾ 스페이스XSI, 최고 성능 ＇그록 보이스 3.0＇ 공개...〃실무 전화 해결률 1위〃
-https://www.aitimes.com/news/articleView.html?idxno=216297
+◾ 티오리 ＇진트＇, 오픈AI 이어 앤트로픽 보안 특화 AI 프로그램 참여
+https://www.etnews.com/20261016000059
 
-◾ 텐센트 에이전트도 보안망 우회...알리바바 지도 서비스 대량 스캔
-https://www.aitimes.com/news/articleView.html?idxno=216284
+◾ 美 뉴욕시 감사원장, 앤트로픽에 “AI 위험 해소할 때까지 IPO 중단해야”
+https://www.etnews.com/20261016000009
 
-◾ 허사비스 〃AI 에이전트 해킹, 시스템 보안 강화 촉구하는 조기 경고〃
-https://www.aitimes.com/news/articleView.html?idxno=216292
+◾ 구글 퀀텀 AI, 양자컴퓨팅 최대 병목 뚫었다…매직 상태 오류 40배 줄여
+https://www.aitimes.kr/news/articleView.html?idxno=42325
 
-◾ 앤트로픽, 싱가포르에 아태 5번째 거점 개설…정부와 AI 안전·평가 협력
-https://www.aitimes.kr/news/articleView.html?idxno=42321
-
-◾ 화웨이, AI 시대 통신망 보안·복원력 강화 강조…차세대 IP 네트워크 구축 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=42320
-
-◾ 애플, AI 스마트홈 허브 ‘홈뷰’ 공개…얼굴 인식부터 집안 보안까지 한 화면에
-https://www.aitimes.kr/news/articleView.html?idxno=42316
+◾ “美 역대 최강, AI 오픈 웨이트 모델”…메타, 8160억 매개변수 ‘뮤즈 스파크 오픈’ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42323
 
 📚 간행물
-◾ 정보보호 해외진출 전략거점 월간 주요동향(2026년 9월)
-https://www.kisa.or.kr/20203/form?postSeq=222&page=1
-
-◾ AX 전환의 성공 조건, 美 과학 이니셔티브 패키지, 中 ＇신질생산력 발전 의견＇ [AI·ICT Brief 2026-35호]
-https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-261015-000006&cpage=1&rows=10&searchTarget=all
+◾ 2026 개인정보 이슈 심층 분석 보고서(VOL.2) - 개인정보 유출과 랜섬웨어
+https://www.kisa.or.kr/20202/form?postSeq=488&page=1
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
