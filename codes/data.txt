@@ -2,14 +2,23 @@
 
 📰 오늘의 기사
 [민간]
+◾ [AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종
+https://www.aitimes.com/news/articleView.html?idxno=216368
+
 ◾ AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증
 https://www.aitimes.com/news/articleView.html?idxno=216367
+
+◾ GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견
+https://www.aitimes.com/news/articleView.html?idxno=216365
 
 ◾ 전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려
 https://www.aitimes.com/news/articleView.html?idxno=216364
 
 ◾ 오픈AI, 크롬용 ＇챗GPT＇ 확장 기능 강화...〃열린 탭 분석하고 직접 제어〃
 https://www.aitimes.com/news/articleView.html?idxno=216360
+
+◾ 앤트로픽, 신용등급 ‘투자적격’까지 한 단계…돈 빌리기 쉬워지나
+https://www.aitimes.com/news/articleView.html?idxno=216353
 
 ◾ 신입 면접에 AI 고객 도입…“10분간 대화하는 능력 보고 뽑는다”
 https://www.etnews.com/20261015000418
@@ -25,9 +34,6 @@ https://www.aitimes.com/news/articleView.html?idxno=216358
 ◾ 오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’
 https://www.aitimes.com/news/articleView.html?idxno=216366
 
-◾ GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견
-https://www.aitimes.com/news/articleView.html?idxno=216365
-
 ◾ 앤트로픽, 미 의회에 자체 AI 안전 법안 제안…〃정부 개입 제한·일부 주법 대체〃
 https://www.aitimes.com/news/articleView.html?idxno=216352
 
@@ -36,9 +42,6 @@ https://www.aitimes.com/news/articleView.html?idxno=216359
 
 ◾ G7, AI 금융 사이버 공격 막는다…실전 모의훈련 승인
 https://www.aitimes.com/news/articleView.html?idxno=216354
-
-◾ 앤트로픽, 신용등급 ‘투자적격’까지 한 단계…돈 빌리기 쉬워지나
-https://www.aitimes.com/news/articleView.html?idxno=216353
 
 ◾ 중국, 첨단 AI 모델 등 23가지 기술 수출 통제…오픈소스·API는 예외
 https://www.aitimes.com/news/articleView.html?idxno=216361
