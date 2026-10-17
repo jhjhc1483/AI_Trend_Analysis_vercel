@@ -1,74 +1,92 @@
 [
   {
-    "title": "인텔리빅스, 30일 코스닥 상장...〃안전 AI로 국방·자율주행·선박 공략〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216333",
-    "category": "국방",
-    "score": 5
-  },
-  {
-    "title": "센스톤, AI 무인공장 보안 기술 개발…비인가 제어 명령 사전 차단",
-    "link": "https://www.etnews.com/20261016000344",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "엣지에이아이·미 이피션트AI, 1000 TOPS급 피지컬 AI 반도체 공동개발",
-    "link": "https://www.etnews.com/20261016000231",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "프루프포인트, 데이터·AI 보안기업 베로니스 8.4조원에 인수",
-    "link": "https://www.etnews.com/20261016000285",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "티오리 ＇진트＇, 오픈AI 이어 앤트로픽 보안 특화 AI 프로그램 참여",
-    "link": "https://www.etnews.com/20261016000059",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "[미리보는 ITCE EXPO 2026]YH데이타베이스, AI 기반 보안·혁신 솔루션 출격… “산업 전반의 AX 전환 선도”",
-    "link": "https://www.etnews.com/20261016000012",
+    "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216367",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "“철강 현장 맞춤형 AI 혁신 생태계 조성”…RIST, ＇AX실증산단 구축사업 킥오프 미팅＇개최",
-    "link": "https://www.etnews.com/20261016000010",
+    "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "오픈AI, 크롬용 ＇챗GPT＇ 확장 기능 강화...〃열린 탭 분석하고 직접 제어〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…〃정부 개입 제한·일부 주법 대체〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216352",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "인도에서도 AI 에이전트 무단 침입 발생…〃개발사가 피해 기업에 보고〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216359",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "G7, AI 금융 사이버 공격 막는다…실전 모의훈련 승인",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216354",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "IMF “AI 기대 꺾이면 세계 성장률 1.3%p 하락 가능”…안전장치 촉구",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216358",
     "category": "기관",
-    "score": 4
+    "score": 3
   },
   {
-    "title": "美 뉴욕시 감사원장, 앤트로픽에 “AI 위험 해소할 때까지 IPO 중단해야”",
-    "link": "https://www.etnews.com/20261016000009",
+    "title": "앤트로픽, 신용등급 ‘투자적격’까지 한 단계…돈 빌리기 쉬워지나",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216353",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "중국, 첨단 AI 모델 등 23가지 기술 수출 통제…오픈소스·API는 예외",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216361",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "엔젤로보틱스, 창업자 공경철 대표 복귀...웨어러블 로봇 넘어 피지컬 AI 승부수",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42326",
+    "title": "신입 면접에 AI 고객 도입…“10분간 대화하는 능력 보고 뽑는다”",
+    "link": "https://www.etnews.com/20261015000418",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "구글 퀀텀 AI, 양자컴퓨팅 최대 병목 뚫었다…매직 상태 오류 40배 줄여",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42325",
-    "category": "해외",
+    "title": "“내 서버부터 살릴래”…AI에 ＇트롤리 딜레마＇ 던지자 충격 답변 나왔다",
+    "link": "https://www.etnews.com/20261017000017",
+    "category": "기타",
+    "score": 3
+  },
+  {
+    "title": "AI로 CCTV 영상도 조작…ONVIF, 위변조 검증 표준화 추진",
+    "link": "https://www.etnews.com/20261016000227",
+    "category": "민간",
     "score": 4
   },
   {
-    "title": "“美 역대 최강, AI 오픈 웨이트 모델”…메타, 8160억 매개변수 ‘뮤즈 스파크 오픈’ 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42323",
+    "title": "[라이징 2026] 몬로이 워크데이 CTO “AI 속도조절보다 위험 통제가 시급”",
+    "link": "https://www.etnews.com/20261016000226",
     "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "정현철 노르마 대표, AI 신경망 경량화 겨냥…‘QC4AI’ 사업 전략 제시",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42318",
-    "category": "민간",
     "score": 3
   }
 ]
