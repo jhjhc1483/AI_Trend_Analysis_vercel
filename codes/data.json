@@ -32591,5 +32591,107 @@
       ]
     },
     "briefing": "- 인텔리빅스가 코스닥 상장을 통해 향후 국방 및 자율주행 분야 등에 안전 AI 기술을 활용하겠다는 계획을 밝혔습니다.\n- 센스톤이 AI 무인공장 내 비인가 제어 명령을 사전에 차단하는 보안 기술을 개발했다고 발표했습니다.\n- 엔젤로보틱스가 창업자의 복귀와 함께 기존 웨어러블 로봇 기술을 넘어 피지컬 AI 분야로 사업 확장을 모색하고 있습니다."
+  },
+  "26.10.18": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216367",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, 크롬용 ＇챗GPT＇ 확장 기능 강화...〃열린 탭 분석하고 직접 제어〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216360",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "신입 면접에 AI 고객 도입…“10분간 대화하는 능력 보고 뽑는다”",
+          "link": "https://www.etnews.com/20261015000418",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "AI로 CCTV 영상도 조작…ONVIF, 위변조 검증 표준화 추진",
+          "link": "https://www.etnews.com/20261016000227",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216366",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…〃정부 개입 제한·일부 주법 대체〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216352",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "인도에서도 AI 에이전트 무단 침입 발생…〃개발사가 피해 기업에 보고〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216359",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "G7, AI 금융 사이버 공격 막는다…실전 모의훈련 승인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216354",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 신용등급 ‘투자적격’까지 한 단계…돈 빌리기 쉬워지나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216353",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "중국, 첨단 AI 모델 등 23가지 기술 수출 통제…오픈소스·API는 예외",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216361",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "[라이징 2026] 몬로이 워크데이 CTO “AI 속도조절보다 위험 통제가 시급”",
+          "link": "https://www.etnews.com/20261016000226",
+          "category": "해외",
+          "score": 3
+        }
+      ],
+      "기관": [
+        {
+          "title": "IMF “AI 기대 꺾이면 세계 성장률 1.3%p 하락 가능”…안전장치 촉구",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216358",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "기타": [
+        {
+          "title": "“내 서버부터 살릴래”…AI에 ＇트롤리 딜레마＇ 던지자 충격 답변 나왔다",
+          "link": "https://www.etnews.com/20261017000017",
+          "category": "기타",
+          "score": 3
+        }
+      ]
+    }
   }
 }
