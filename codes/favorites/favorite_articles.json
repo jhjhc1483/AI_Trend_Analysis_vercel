@@ -1,98 +1,92 @@
 [
   {
-    "title": "[AI 모델 신작] BFL ‘플럭스 3 이미지 클라인’ 등 5종",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216368",
-    "category": "민간",
-    "score": 3
+    "title": "드론부터 UGV까지…미래전장 무인체계 신기술 격돌",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261019/2/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=uatQRwGCd4PfODfESGY9ZyShSFAkrVFZLnfUQiMNSdeis7oHFlZH!-1895484071",
+    "category": "국방",
+    "score": 5
   },
   {
-    "title": "AI 코딩도 LLM만으론 부족…레플릿, ‘결정론적 시뮬레이터’로 검증",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216367",
-    "category": "민간",
-    "score": 3
+    "title": "미래 다영역 전장 핵심 전술 ‘킬웹’ 적용 방안 논의",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMzAzMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방",
+    "score": 5
   },
   {
-    "title": "오픈AI 도청 사건에 드러난 AI 첩보전…기업들은 이미 ‘스파이 경계’",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216366",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "GPT-6 아스트라, 미공개 물리 문제 98% 해결…전문가 오류도 발견",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216365",
+    "title": "＇2026 대구 글로벌 로봇 비즈니스 포럼＇, ＇피지컬 AI＇로 글로벌 비즈니스 혁신 이끈다",
+    "link": "https://www.etnews.com/20261016000014",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "전 오픈AI 연구원 “AI 내부 읽을 수 있다” 주장…기대·반론 엇갈려",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216364",
+    "title": "“AI, 기술을 넘어 일상이 되다”…역대 최대 규모 ＇FIX 2026＇ 대구서 개막",
+    "link": "https://www.etnews.com/20261016000013",
     "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "오픈AI, 크롬용 ＇챗GPT＇ 확장 기능 강화...〃열린 탭 분석하고 직접 제어〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216360",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "앤트로픽, 미 의회에 자체 AI 안전 법안 제안…〃정부 개입 제한·일부 주법 대체〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216352",
-    "category": "해외",
     "score": 4
   },
   {
-    "title": "인도에서도 AI 에이전트 무단 침입 발생…〃개발사가 피해 기업에 보고〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216359",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "G7, AI 금융 사이버 공격 막는다…실전 모의훈련 승인",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216354",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "IMF “AI 기대 꺾이면 세계 성장률 1.3%p 하락 가능”…안전장치 촉구",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216358",
+    "title": "휴머노이드 가이드라인 마련 착수…내년 시범보급 등 확산 대응",
+    "link": "https://www.etnews.com/20261018000058",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "앤트로픽, 신용등급 ‘투자적격’까지 한 단계…돈 빌리기 쉬워지나",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216353",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "중국, 첨단 AI 모델 등 23가지 기술 수출 통제…오픈소스·API는 예외",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216361",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "신입 면접에 AI 고객 도입…“10분간 대화하는 능력 보고 뽑는다”",
-    "link": "https://www.etnews.com/20261015000418",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "“내 서버부터 살릴래”…AI에 ＇트롤리 딜레마＇ 던지자 충격 답변 나왔다",
-    "link": "https://www.etnews.com/20261017000017",
-    "category": "기타",
-    "score": 3
-  },
-  {
-    "title": "AI로 CCTV 영상도 조작…ONVIF, 위변조 검증 표준화 추진",
-    "link": "https://www.etnews.com/20261016000227",
+    "title": "현대차·기아, 울산 EV 신공장 이달 양산 돌입…제조 AI ＇폴라리스＇ 공개",
+    "link": "https://www.etnews.com/20261016000208",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "[라이징 2026] 몬로이 워크데이 CTO “AI 속도조절보다 위험 통제가 시급”",
-    "link": "https://www.etnews.com/20261016000226",
+    "title": "“AI가 코드를 작성한다, 개발자는 무엇을 해야 할까?”…카네기멜런대·마이크로소프트, AI 시대 엔지니어 육성 나서",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42334",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "구글 딥마인드, AI 에이전트로 미지의 단백질 탐색…새 항균 펩타이드 후보 발굴",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42333",
     "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "원자 배열까지 이해하는 3차원 AI 개발…MIT, 차세대 배터리 소재 발굴 정확도 높였다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42330",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "공공기관, 2027년 지능형 네트워크 전환…AX 마중물",
+    "link": "https://www.etnews.com/20261016000224",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "5대 은행장, 19일 정무위 국감 출석…＇AI 해킹 사태＇ 관리 책무 시험대",
+    "link": "https://www.etnews.com/20261018000010",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "오픈AI, ‘GPT-6 아스트라 프로’ 업그레이드...에이전트 병렬 실행 지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216375",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "딥시크, 코딩 성능 높인 ‘V4.1 플래시’ 업데이트…검색 API도 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216370",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "“숨은 웹 자산부터 취약점까지”…스틸리언, AI 보안 솔루션 출시",
+    "link": "https://www.etnews.com/20261016000222",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "아란타 ＇위즈헬퍼원＇, KISA 정보보호제품 신속확인서 효력 연장… AI 기반 공격 시대 외부 원격접속 통제 강화",
+    "link": "https://www.etnews.com/20261016000207",
+    "category": "기관",
     "score": 3
   }
 ]
