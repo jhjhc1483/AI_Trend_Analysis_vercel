@@ -32700,5 +32700,107 @@
       ]
     },
     "briefing": "- 오픈AI의 도청 사건 등으로 기업 내 AI 스파이 경계가 강화됨에 따라 군 보안 분야에서도 AI 첩보 대응의 필요성이 제기되었습니다.\n- G7 국가들이 AI를 활용한 금융 사이버 공격에 대비하기 위해 실전 모의훈련을 승인하며 방어 체계 구축에 나섰습니다.\n- CCTV 영상 조작 등 AI를 악용한 보안 위협이 증가함에 따라 위변조 검증을 위한 국제 표준화 움직임이 추진되고 있습니다."
+  },
+  "26.10.19": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "드론부터 UGV까지…미래전장 무인체계 신기술 격돌",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261019/2/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=uatQRwGCd4PfODfESGY9ZyShSFAkrVFZLnfUQiMNSdeis7oHFlZH!-1895484071",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "미래 다영역 전장 핵심 전술 ‘킬웹’ 적용 방안 논의",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMzAzMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "＇2026 대구 글로벌 로봇 비즈니스 포럼＇, ＇피지컬 AI＇로 글로벌 비즈니스 혁신 이끈다",
+          "link": "https://www.etnews.com/20261016000014",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "“AI, 기술을 넘어 일상이 되다”…역대 최대 규모 ＇FIX 2026＇ 대구서 개막",
+          "link": "https://www.etnews.com/20261016000013",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "현대차·기아, 울산 EV 신공장 이달 양산 돌입…제조 AI ＇폴라리스＇ 공개",
+          "link": "https://www.etnews.com/20261016000208",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "“AI가 코드를 작성한다, 개발자는 무엇을 해야 할까?”…카네기멜런대·마이크로소프트, AI 시대 엔지니어 육성 나서",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42334",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "“숨은 웹 자산부터 취약점까지”…스틸리언, AI 보안 솔루션 출시",
+          "link": "https://www.etnews.com/20261016000222",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "기관": [
+        {
+          "title": "휴머노이드 가이드라인 마련 착수…내년 시범보급 등 확산 대응",
+          "link": "https://www.etnews.com/20261018000058",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "공공기관, 2027년 지능형 네트워크 전환…AX 마중물",
+          "link": "https://www.etnews.com/20261016000224",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "5대 은행장, 19일 정무위 국감 출석…＇AI 해킹 사태＇ 관리 책무 시험대",
+          "link": "https://www.etnews.com/20261018000010",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "아란타 ＇위즈헬퍼원＇, KISA 정보보호제품 신속확인서 효력 연장… AI 기반 공격 시대 외부 원격접속 통제 강화",
+          "link": "https://www.etnews.com/20261016000207",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "구글 딥마인드, AI 에이전트로 미지의 단백질 탐색…새 항균 펩타이드 후보 발굴",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42333",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "원자 배열까지 이해하는 3차원 AI 개발…MIT, 차세대 배터리 소재 발굴 정확도 높였다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42330",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, ‘GPT-6 아스트라 프로’ 업그레이드...에이전트 병렬 실행 지원",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216375",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "딥시크, 코딩 성능 높인 ‘V4.1 플래시’ 업데이트…검색 API도 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216370",
+          "category": "해외",
+          "score": 3
+        }
+      ]
+    }
   }
 }
