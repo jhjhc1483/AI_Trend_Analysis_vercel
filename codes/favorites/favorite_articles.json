@@ -6,20 +6,32 @@
     "score": 4
   },
   {
+    "title": "AI 추론 비용 최대 10분의 1로…오픈소스 ‘llm-d 1.0’ 공개, 기업용 AI 대규모 운영 본격화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42368",
+    "category": "민간",
+    "score": 3
+  },
+  {
     "title": "딥시크, AI 추론 비용 낮출 실전 엔진 ‘딥인퍼’ 전격 공개…대규모 추론 최적화 기술 오픈소스화",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42365",
-    "category": "민간",
+    "category": "해외",
     "score": 4
   },
   {
     "title": "마이크로소프트, AI 에이전트를 ‘내부자 위협’으로 규정…프로젝트 퍼셉션으로 실시간 통제 나선다",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42364",
     "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "AMD 살릴 라제 수석부사장, “피지컬 AI 성능, 연산량 아닌 행동의 정확한 타이밍으로 평가해야”",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42359",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "로봇의 두뇌 만드는 ＇드림 랩스＇, 설립 3개월 만에 시드 투자 1200억원 유치",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42355",
     "category": "민간",
     "score": 4
   },
@@ -30,16 +42,16 @@
     "score": 4
   },
   {
-    "title": "이소영 장관 “AI 성장 주역, 소수 대기업 뿐 아니라 중소기업도 주역돼야”",
-    "link": "https://www.etnews.com/20261020000419",
-    "category": "기관",
-    "score": 4
+    "title": "‘첨단과학기술 강군 도약’ 비전·전략 제시",
+    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMzIxNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방",
+    "score": 5
   },
   {
     "title": "올트먼 오픈AI CEO, ＇IAEA형 국제기구＇ 등 AI 안전 3대 시나리오 제안",
     "link": "https://www.etnews.com/20261020000385",
     "category": "해외",
-    "score": 4
+    "score": 5
   },
   {
     "title": "국가AI전략위, 강원도 정책현장 방문…하정우 “AI 성과 일상·산업과 연결”",
@@ -60,6 +72,24 @@
     "score": 3
   },
   {
+    "title": "류재철 LG전자 CEO “AI 데이터센터, 냉각 효율이 연산 전력 좌우”",
+    "link": "https://www.etnews.com/20261020000364",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "[人사이트]“K-표준이 곧 시장 제패 무기”…김규성 국표원장, AI·첨단산업 룰(Rule) 메이커 선언",
+    "link": "https://www.etnews.com/20261020000141",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "＇2026 제조지능 컨퍼런스＇ 28일 코엑스서 개막…피지컬 AI와 디지털트윈 결합 ＇조명＇",
+    "link": "https://www.etnews.com/20261020000335",
+    "category": "기관",
+    "score": 4
+  },
+  {
     "title": "中 해커, AI로 1139건 대량 공격…건당 5달러·성공률 10%",
     "link": "https://www.etnews.com/20261020000300",
     "category": "해외",
@@ -74,8 +104,14 @@
   {
     "title": "한국, 미국·중국·영국 등 6개국과 ＇AI 준비도＇ 최상위 평가",
     "link": "https://www.etnews.com/20261020000289",
-    "category": "해외",
-    "score": 3
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "[한국IT리더스포럼] 배성준 네이버클라우드 전무 “AI 팩토리 경쟁력은 운영 역량·수요 확보”",
+    "link": "https://www.etnews.com/20261020000256",
+    "category": "민간",
+    "score": 4
   },
   {
     "title": "[파워인터뷰] 윤희성 인더스트리얼AI 대표 “120시간 걸리던 검사 셋업, AI로 3시간 만에”",
@@ -88,6 +124,12 @@
     "link": "https://www.etnews.com/20261020000182",
     "category": "기관",
     "score": 4
+  },
+  {
+    "title": "MHS, 냉각수 60% 절감할 수 있는 AI 반도체 냉각판 개발",
+    "link": "https://www.etnews.com/20261020000181",
+    "category": "민간",
+    "score": 3
   },
   {
     "title": "드림랩스, 1200억원 시드 투자 유치…범용 로봇 AI 모델 공개",
@@ -111,7 +153,7 @@
     "title": "S2W, ＇VB 컨퍼런스＇서 AI 공급망 공격 탐지 기술 발표",
     "link": "https://www.etnews.com/20261020000120",
     "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "KAIST, 구름에 가린 위성영상 ＇빈 틈＇ 메우는 AI 개발…국방 분야도 활용 기대",
@@ -129,7 +171,13 @@
     "title": "GIST, AI 시각 인식 오류 유도 새 기술 개발…취약점 진단 정밀도 높여",
     "link": "https://www.etnews.com/20261020000040",
     "category": "기관",
-    "score": 4
+    "score": 3
+  },
+  {
+    "title": "컴트루테크놀로지, ＇제9회 Dreams Come True Conference＇ 개최…셜록홈즈 AI DLP 신기능 최초 공개",
+    "link": "https://www.etnews.com/20261020000038",
+    "category": "민간",
+    "score": 3
   },
   {
     "title": "KT, 아크릴과 의료 AX 공동사업 추진",
@@ -152,12 +200,6 @@
   {
     "title": "스카이폴AI, CAD·BIM 3D 설계 자동화 월드모델 ‘스카이-001’ 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216450",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "MDS테크, 국내 휴머노이드 홈로봇 프로젝트에 엔비디아 AI 플랫폼 패키지 공급",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216436",
     "category": "민간",
     "score": 3
   },
@@ -174,8 +216,8 @@
     "score": 5
   },
   {
-    "title": "엔스케일, 앤트로픽과 추가 60조 규모 컴퓨팅 계약 협상…총 120조 육박",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216446",
+    "title": "딥시크, 플래그십 모델 사전학습에 화웨이 칩 본격 투입...국산 AI 자립 속도",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216439",
     "category": "해외",
     "score": 4
   },
@@ -189,12 +231,12 @@
     "title": "빅웨이브로보틱스, 로봇 AI 통합 개발 플랫폼 ＇하이퍼 파운드리＇ 공개",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216427",
     "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "스마트 물류체계 이끌 인재 키운다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20261021/5/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=BHBa3_TRMT9OGuvKwKGDiDhhqLWGdqDdA40vqc2o3GQXRoEiHlRF!-992138957",
-    "category": "국방",
+    "category": "육군",
     "score": 4
   },
   {
