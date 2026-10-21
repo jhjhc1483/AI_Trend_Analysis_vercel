@@ -33314,196 +33314,72 @@
           "score": 5
         }
       ],
-      "민간": [
+      "해외": [
+        {
+          "title": "가트너, 2027년 10대 AI 전략 기술 발표…AI 에이전트 통제부터 디지털 주권까지",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42371",
+          "category": "해외",
+          "score": 4
+        },
         {
           "title": "오픈AI, 신약 개발 조율하는 AI 에이전트 만든다…신약 개발 플랫폼 ＇오케스트라 바이오＇ 인수",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42379",
-          "category": "민간",
+          "category": "해외",
           "score": 4
+        },
+        {
+          "title": "AMD·인텔, 파이토치 x86 CPU 최적화 통합…AI 개발 소프트웨어 장벽 낮춘다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42374",
+          "category": "해외",
+          "score": 3
         },
         {
           "title": "구글, 제미나이 차량용 AI에 개인화 지능 탑재…안드로이드 오토 전 세계 출시",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42375",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "가트너, 2027년 10대 AI 전략 기술 발표…AI 에이전트 통제부터 디지털 주권까지",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42371",
-          "category": "민간",
-          "score": 5
-        },
-        {
-          "title": "삼성전기, 엔비디아 전용 AI 반도체 기판 생산라인 구축…전략적 파트너십 체결",
-          "link": "https://www.etnews.com/20261021000453",
-          "category": "민간",
-          "score": 5
-        },
-        {
-          "title": "네이버, 美 AI 비서·음악 생성에 베팅…＇실행·창작＇ 기술 확보 나선다",
-          "link": "https://www.etnews.com/20261021000457",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "“과거 대화 기억하고 앱까지 넘나든다”…한국어 지원 앞둔 애플 ＇시리 AI＇",
-          "link": "https://www.etnews.com/20261021000257",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "플렉스, 한국MS와 손잡고 코파일럿 생태계 확장…기업 AX 속도",
-          "link": "https://www.etnews.com/20261021000247",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "롯데이노베이트, 강릉시와 MOU…AI 기반 모빌리티 사업 확대",
-          "link": "https://www.etnews.com/20261021000242",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "[CIO·CISO 세미나] 지용구 더존비즈온 대표 “AI 네이티브 기업, 일하는 방식 바꿔야”",
-          "link": "https://www.etnews.com/20261021000237",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "SKT·금감원, 보이스피싱 예방 협력…AI 탐지 기술 고도화",
-          "link": "https://www.etnews.com/20261021000181",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "아이솔, AI 돌봄로봇 ＇마이호리＇ 선보여···정서 교감부터 응급상황 대응까지",
-          "link": "https://www.etnews.com/20261021000159",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "대전혁신센터, 보육기업 모바휠, ＇이동형 음파 AI＇로 스마트 도로 안전 넓힌다",
-          "link": "https://www.etnews.com/20261021000156",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "어빌리티시스템즈, 플로버와 맞손…항만 자율주행 시스템 개발·검증체계 구축",
-          "link": "https://www.etnews.com/20261021000143",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "세오로보틱스, ＇2026 강릉 ITS 세계총회＇서 피지컬 AI 기반 자율 차선도색 로봇 시스템 선보여",
-          "link": "https://www.etnews.com/20261021000142",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "쿠도커뮤니케이션, 비접촉 AI 건강관리 ＇헬로＇ 플랫폼 확장",
-          "link": "https://www.etnews.com/20261021000113",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "셀렉트스타, 시스코와 AI 보안·신뢰성 협력 LOI 체결",
-          "link": "https://www.etnews.com/20261021000093",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216484",
-          "category": "민간",
-          "score": 3
-        }
-      ],
-      "기관": [
-        {
-          "title": "“의료AI 혜택 모두에게”…한국·WHO ＇AI 헬스케어 서울선언＇ 발표",
-          "link": "https://www.etnews.com/20261021000350",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "양자통신 상용화를 위한 실증 기반 확대 본격 착수",
-          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187878&searchOpt=ALL&searchTxt=",
-          "category": "기관",
-          "score": 3
-        },
-        {
-          "title": "경북도, ＇피지컬AI·로봇＇ 메가특구 닻 올렸다… “제조현장 과제, 투자·구매로 직결”",
-          "link": "https://www.etnews.com/20261021000421",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "현대차·레인보우 “AI로봇 산업화, 공공수요·정부 리더십 중요”",
-          "link": "https://www.etnews.com/20261021000390",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "행안부, ＇공공 AI 대전환 챌린지＇ 진행…“공무원 개발 AI 도구로 문제해결”",
-          "link": "https://www.etnews.com/20261021000284",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "“中企 AI 전환, 각자도생으론 한계”…협동조합 중심 ＇공동 AI공장＇ 해법 부상",
-          "link": "https://www.etnews.com/20261021000184",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "조주현 중기연 원장 “AI 도입은 생산성 아닌 경영전략 문제…中企 공동혁신 필요”",
-          "link": "https://www.etnews.com/20261021000196",
-          "category": "기관",
-          "score": 4
-        },
-        {
-          "title": "('26. 10. 21) 국가AI전략위, 소셜미디어 게시물 논란위원 해촉",
-          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1051",
-          "category": "기관",
-          "score": 3
-        },
-        {
-          "title": "('26. 10. 21.) 국가AI전략위, 대구서 '제조·로봇·모빌리티 AX' 정책현장 방문",
-          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1050",
-          "category": "기관",
-          "score": 4
-        }
-      ],
-      "해외": [
-        {
-          "title": "英보건경제연구소, 의료 AI·컴퓨터 시뮬레이션 투자 효과 분석…5년간 건강수명 3만7282년 늘리고 보건서비스 2조원 절감",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42383",
-          "category": "해외",
-          "score": 4
-        },
-        {
-          "title": "아모데이 CEO, AI 안전 정책 후퇴론 반박…“안전 위해 사업 기회 포기”",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42380",
           "category": "해외",
           "score": 3
         },
         {
-          "title": "메르세데스-벤츠, AI로 차량 개발 기간 최대 30% 단축…약 7400억원 투자",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42378",
+          "title": "오픈AI·엔비디아·AMD 부산 총집결…첨단패키징 심포지엄 ＇ISMP 2026＇ 내달 개막",
+          "link": "https://www.etnews.com/20261021000149",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "퀄컴, ＇산업 AI 엑스포＇서 국내 AI 스타트업 혁신 지원",
+          "link": "https://www.etnews.com/20261021000128",
           "category": "해외",
           "score": 3
         },
         {
-          "title": "[이슈플러스] AI 해킹, 스마트가전 연산자원까지 넘본다",
-          "link": "https://www.etnews.com/20261021000329",
+          "title": "오픈AI, 챗GPT에 사적 대화 숨기는 ＇채팅 잠금＇ 기능 도입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216470",
           "category": "해외",
-          "score": 4
+          "score": 3
         },
         {
           "title": "인셉션, 최고 성능 dLLM ＇머큐리 3＇ 공개...〃오픈AI·앤트로픽 맞먹어〃",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216483",
           "category": "해외",
           "score": 4
+        },
+        {
+          "title": "아마존 이어 구글도 자체칩 생태계 확장...＇토치TPU＇ 오픈소스 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216476",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "얼굴 나이 측정 넘어 암 환자 생존 위험 예측…하버드 연구진, 사진 분석 AI 개발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216498",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "fal, ＇시댄스 2.5＇보다 22배 빠른 비디오 모델 ＇플럭스 3 맥스＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216487",
+          "category": "해외",
+          "score": 3
         },
         {
           "title": "오픈AI, 신약 개발 관리 플랫폼 ＇오케스트라 바이오＇ 인수",
@@ -33521,7 +33397,7 @@
           "title": "자체 감시 기능 무력화한 오픈AI 에이전트…＇회피 성향＇ 조사",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216468",
           "category": "해외",
-          "score": 3
+          "score": 4
         },
         {
           "title": "시냅틱스, 구글 ＇코랄＇ 기반 엣지 AI 칩 공개...웨어러블·산업용 기기 겨냥",
@@ -33534,20 +33410,178 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216475",
           "category": "해외",
           "score": 4
+        },
+        {
+          "title": "메타, ＇뮤즈＇ 학습한 데이터센터 공개…GPU 100만까지 늘린다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216481",
+          "category": "해외",
+          "score": 4
         }
       ],
-      "육군": [
+      "기관": [
         {
-          "title": "육군, 남수단 한빛부대에 ‘스마트캠프’ 조성",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20261022/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=0rFgCxAJaf_mO_rULGEwBPcELZSnARPXjUDcfCGAd4RA4gO83fGy!-992138957",
-          "category": "육군",
+          "title": "“의료AI 혜택 모두에게”…한국·WHO ＇AI 헬스케어 서울선언＇ 발표",
+          "link": "https://www.etnews.com/20261021000350",
+          "category": "기관",
           "score": 4
         },
         {
-          "title": "‘드론 전사’ 향해 쉼 없이 뛴다",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20261022/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=0rFgCxAJaf_mO_rULGEwBPcELZSnARPXjUDcfCGAd4RA4gO83fGy!-992138957",
-          "category": "육군",
+          "title": "[뉴스줌인] 韓·WHO ＇서울선언＇…의료AI 검증·인력양성·국제 확산 추진",
+          "link": "https://www.etnews.com/20261021000349",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "경북도, ＇피지컬AI·로봇＇ 메가특구 닻 올렸다… “제조현장 과제, 투자·구매로 직결”",
+          "link": "https://www.etnews.com/20261021000421",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "경북도, 자동차·섬유·반도체 제조공정에 AI 적용…AI 팩토리 5개 과제 선정",
+          "link": "https://www.etnews.com/20261021000424",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "양자통신 상용화를 위한 실증 기반 확대 본격 착수",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187878&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "행안부, ＇공공 AI 대전환 챌린지＇ 진행…“공무원 개발 AI 도구로 문제해결”",
+          "link": "https://www.etnews.com/20261021000284",
+          "category": "기관",
           "score": 4
+        },
+        {
+          "title": "“中企 AI 전환, 각자도생으론 한계”…협동조합 중심 ＇공동 AI공장＇ 해법 부상",
+          "link": "https://www.etnews.com/20261021000184",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "조주현 중기연 원장 “AI 도입은 생산성 아닌 경영전략 문제…中企 공동혁신 필요”",
+          "link": "https://www.etnews.com/20261021000196",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216484",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "('26. 10. 21) 국가AI전략위, 소셜미디어 게시물 논란위원 해촉",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1051",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "('26. 10. 21.) 국가AI전략위, 대구서 '제조·로봇·모빌리티 AX' 정책현장 방문",
+          "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1050",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "삼성전기, 엔비디아 전용 AI 반도체 기판 생산라인 구축…전략적 파트너십 체결",
+          "link": "https://www.etnews.com/20261021000453",
+          "category": "민간",
+          "score": 5
+        },
+        {
+          "title": "네이버, 美 AI 비서·음악 생성에 베팅…＇실행·창작＇ 기술 확보 나선다",
+          "link": "https://www.etnews.com/20261021000457",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "현대차·레인보우 “AI로봇 산업화, 공공수요·정부 리더십 중요”",
+          "link": "https://www.etnews.com/20261021000390",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "＇2026 산업AI EXPO＇ 개막…200여개 기업, 제조·로봇 AI 기술 선보여",
+          "link": "https://www.etnews.com/20261021000381",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "씽킹AI “AI 분석 넘어 업무 실행으로”…에이전틱 AI 전략 제시",
+          "link": "https://www.etnews.com/20261021000367",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[특별인터뷰]윤병동 원프레딕트 대표, “제조업의 진정한 혁신, ＇AI 네이티브 팩토리＇에 달렸다”",
+          "link": "https://www.etnews.com/20261021000456",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "“과거 대화 기억하고 앱까지 넘나든다”…한국어 지원 앞둔 애플 ＇시리 AI＇",
+          "link": "https://www.etnews.com/20261021000257",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "플렉스, 한국MS와 손잡고 코파일럿 생태계 확장…기업 AX 속도",
+          "link": "https://www.etnews.com/20261021000247",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[CIO·CISO 세미나] 지용구 더존비즈온 대표 “AI 네이티브 기업, 일하는 방식 바꿔야”",
+          "link": "https://www.etnews.com/20261021000237",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "SKT·금감원, 보이스피싱 예방 협력…AI 탐지 기술 고도화",
+          "link": "https://www.etnews.com/20261021000181",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "아이솔, AI 돌봄로봇 ＇마이호리＇ 선보여···정서 교감부터 응급상황 대응까지",
+          "link": "https://www.etnews.com/20261021000159",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "대전혁신센터, 보육기업 모바휠, ＇이동형 음파 AI＇로 스마트 도로 안전 넓힌다",
+          "link": "https://www.etnews.com/20261021000156",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "세오로보틱스, ＇2026 강릉 ITS 세계총회＇서 피지컬 AI 기반 자율 차선도색 로봇 시스템 선보여",
+          "link": "https://www.etnews.com/20261021000142",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "쿠도커뮤니케이션, 비접촉 AI 건강관리 ＇헬로＇ 플랫폼 확장",
+          "link": "https://www.etnews.com/20261021000113",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "셀렉트스타, 시스코와 AI 보안·신뢰성 협력 LOI 체결",
+          "link": "https://www.etnews.com/20261021000093",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "네이버 D2SF, 온디바이스 AI 스타트업 트레이스위브에 투자",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216461",
+          "category": "민간",
+          "score": 3
         }
       ],
       "간행물": [
@@ -33558,7 +33592,6 @@
           "score": 4
         }
       ]
-    },
-    "briefing": "- 육군, 남수단 한빛부대에 ‘스마트캠프’를 조성하여 원격지 기반의 첨단 정보통신 체계 구축을 추진합니다.\n- 코난테크놀로지 등 국내 기업들이 공공 영역에서 검증된 '일하는 AI' 솔루션을 국방 및 제조 분야로 확산하기 위한 협력을 모색합니다.\n- 육군이 드론 및 무인체계 기반의 미래 전장 환경에 대비하여 국방 수송과 물류 체계의 혁신 방안을 검토합니다."
+    }
   }
 }
