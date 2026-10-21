@@ -23,37 +23,30 @@ https://kookbang.dema.mil.kr/newsWeb/20261022/2/ATCE_CTGR_0010030000/view.do;JSE
 ◾ 태평양서 화상강의…AI·미래전 역량 강화
 https://kookbang.dema.mil.kr/newsWeb/20261022/1/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=0rFgCxAJaf_mO_rULGEwBPcELZSnARPXjUDcfCGAd4RA4gO83fGy!-992138957
 
-[육군]
-◾ 육군, 남수단 한빛부대에 ‘스마트캠프’ 조성
-https://kookbang.dema.mil.kr/newsWeb/20261022/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=0rFgCxAJaf_mO_rULGEwBPcELZSnARPXjUDcfCGAd4RA4gO83fGy!-992138957
-
-◾ ‘드론 전사’ 향해 쉼 없이 뛴다
-https://kookbang.dema.mil.kr/newsWeb/20261022/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=0rFgCxAJaf_mO_rULGEwBPcELZSnARPXjUDcfCGAd4RA4gO83fGy!-992138957
-
 [민간]
-◾ 오픈AI, 신약 개발 조율하는 AI 에이전트 만든다…신약 개발 플랫폼 ＇오케스트라 바이오＇ 인수
-https://www.aitimes.kr/news/articleView.html?idxno=42379
-
-◾ 구글, 제미나이 차량용 AI에 개인화 지능 탑재…안드로이드 오토 전 세계 출시
-https://www.aitimes.kr/news/articleView.html?idxno=42375
-
-◾ 가트너, 2027년 10대 AI 전략 기술 발표…AI 에이전트 통제부터 디지털 주권까지
-https://www.aitimes.kr/news/articleView.html?idxno=42371
-
 ◾ 삼성전기, 엔비디아 전용 AI 반도체 기판 생산라인 구축…전략적 파트너십 체결
 https://www.etnews.com/20261021000453
 
 ◾ 네이버, 美 AI 비서·음악 생성에 베팅…＇실행·창작＇ 기술 확보 나선다
 https://www.etnews.com/20261021000457
 
+◾ 현대차·레인보우 “AI로봇 산업화, 공공수요·정부 리더십 중요”
+https://www.etnews.com/20261021000390
+
+◾ ＇2026 산업AI EXPO＇ 개막…200여개 기업, 제조·로봇 AI 기술 선보여
+https://www.etnews.com/20261021000381
+
+◾ 씽킹AI “AI 분석 넘어 업무 실행으로”…에이전틱 AI 전략 제시
+https://www.etnews.com/20261021000367
+
+◾ [특별인터뷰]윤병동 원프레딕트 대표, “제조업의 진정한 혁신, ＇AI 네이티브 팩토리＇에 달렸다”
+https://www.etnews.com/20261021000456
+
 ◾ “과거 대화 기억하고 앱까지 넘나든다”…한국어 지원 앞둔 애플 ＇시리 AI＇
 https://www.etnews.com/20261021000257
 
 ◾ 플렉스, 한국MS와 손잡고 코파일럿 생태계 확장…기업 AX 속도
 https://www.etnews.com/20261021000247
-
-◾ 롯데이노베이트, 강릉시와 MOU…AI 기반 모빌리티 사업 확대
-https://www.etnews.com/20261021000242
 
 ◾ [CIO·CISO 세미나] 지용구 더존비즈온 대표 “AI 네이티브 기업, 일하는 방식 바꿔야”
 https://www.etnews.com/20261021000237
@@ -67,9 +60,6 @@ https://www.etnews.com/20261021000159
 ◾ 대전혁신센터, 보육기업 모바휠, ＇이동형 음파 AI＇로 스마트 도로 안전 넓힌다
 https://www.etnews.com/20261021000156
 
-◾ 어빌리티시스템즈, 플로버와 맞손…항만 자율주행 시스템 개발·검증체계 구축
-https://www.etnews.com/20261021000143
-
 ◾ 세오로보틱스, ＇2026 강릉 ITS 세계총회＇서 피지컬 AI 기반 자율 차선도색 로봇 시스템 선보여
 https://www.etnews.com/20261021000142
 
@@ -79,21 +69,24 @@ https://www.etnews.com/20261021000113
 ◾ 셀렉트스타, 시스코와 AI 보안·신뢰성 협력 LOI 체결
 https://www.etnews.com/20261021000093
 
-◾ 이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주
-https://www.aitimes.com/news/articleView.html?idxno=216484
+◾ 네이버 D2SF, 온디바이스 AI 스타트업 트레이스위브에 투자
+https://www.aitimes.com/news/articleView.html?idxno=216461
 
 [기관]
 ◾ “의료AI 혜택 모두에게”…한국·WHO ＇AI 헬스케어 서울선언＇ 발표
 https://www.etnews.com/20261021000350
 
-◾ 양자통신 상용화를 위한 실증 기반 확대 본격 착수
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187878&searchOpt=ALL&searchTxt=
+◾ [뉴스줌인] 韓·WHO ＇서울선언＇…의료AI 검증·인력양성·국제 확산 추진
+https://www.etnews.com/20261021000349
 
 ◾ 경북도, ＇피지컬AI·로봇＇ 메가특구 닻 올렸다… “제조현장 과제, 투자·구매로 직결”
 https://www.etnews.com/20261021000421
 
-◾ 현대차·레인보우 “AI로봇 산업화, 공공수요·정부 리더십 중요”
-https://www.etnews.com/20261021000390
+◾ 경북도, 자동차·섬유·반도체 제조공정에 AI 적용…AI 팩토리 5개 과제 선정
+https://www.etnews.com/20261021000424
+
+◾ 양자통신 상용화를 위한 실증 기반 확대 본격 착수
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187878&searchOpt=ALL&searchTxt=
 
 ◾ 행안부, ＇공공 AI 대전환 챌린지＇ 진행…“공무원 개발 AI 도구로 문제해결”
 https://www.etnews.com/20261021000284
@@ -104,6 +97,9 @@ https://www.etnews.com/20261021000184
 ◾ 조주현 중기연 원장 “AI 도입은 생산성 아닌 경영전략 문제…中企 공동혁신 필요”
 https://www.etnews.com/20261021000196
 
+◾ 이스트소프트, 제주국제자유도시개발센터 ‘사내 생성 AI 언어모델 구축 사업’ 수주
+https://www.aitimes.com/news/articleView.html?idxno=216484
+
 ◾ ('26. 10. 21) 국가AI전략위, 소셜미디어 게시물 논란위원 해촉
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1051
 
@@ -111,20 +107,38 @@ https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1051
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1050
 
 [해외]
-◾ 英보건경제연구소, 의료 AI·컴퓨터 시뮬레이션 투자 효과 분석…5년간 건강수명 3만7282년 늘리고 보건서비스 2조원 절감
-https://www.aitimes.kr/news/articleView.html?idxno=42383
+◾ 가트너, 2027년 10대 AI 전략 기술 발표…AI 에이전트 통제부터 디지털 주권까지
+https://www.aitimes.kr/news/articleView.html?idxno=42371
 
-◾ 아모데이 CEO, AI 안전 정책 후퇴론 반박…“안전 위해 사업 기회 포기”
-https://www.aitimes.kr/news/articleView.html?idxno=42380
+◾ 오픈AI, 신약 개발 조율하는 AI 에이전트 만든다…신약 개발 플랫폼 ＇오케스트라 바이오＇ 인수
+https://www.aitimes.kr/news/articleView.html?idxno=42379
 
-◾ 메르세데스-벤츠, AI로 차량 개발 기간 최대 30% 단축…약 7400억원 투자
-https://www.aitimes.kr/news/articleView.html?idxno=42378
+◾ AMD·인텔, 파이토치 x86 CPU 최적화 통합…AI 개발 소프트웨어 장벽 낮춘다
+https://www.aitimes.kr/news/articleView.html?idxno=42374
 
-◾ [이슈플러스] AI 해킹, 스마트가전 연산자원까지 넘본다
-https://www.etnews.com/20261021000329
+◾ 구글, 제미나이 차량용 AI에 개인화 지능 탑재…안드로이드 오토 전 세계 출시
+https://www.aitimes.kr/news/articleView.html?idxno=42375
+
+◾ 오픈AI·엔비디아·AMD 부산 총집결…첨단패키징 심포지엄 ＇ISMP 2026＇ 내달 개막
+https://www.etnews.com/20261021000149
+
+◾ 퀄컴, ＇산업 AI 엑스포＇서 국내 AI 스타트업 혁신 지원
+https://www.etnews.com/20261021000128
+
+◾ 오픈AI, 챗GPT에 사적 대화 숨기는 ＇채팅 잠금＇ 기능 도입
+https://www.aitimes.com/news/articleView.html?idxno=216470
 
 ◾ 인셉션, 최고 성능 dLLM ＇머큐리 3＇ 공개...〃오픈AI·앤트로픽 맞먹어〃
 https://www.aitimes.com/news/articleView.html?idxno=216483
+
+◾ 아마존 이어 구글도 자체칩 생태계 확장...＇토치TPU＇ 오픈소스 공개
+https://www.aitimes.com/news/articleView.html?idxno=216476
+
+◾ 얼굴 나이 측정 넘어 암 환자 생존 위험 예측…하버드 연구진, 사진 분석 AI 개발
+https://www.aitimes.com/news/articleView.html?idxno=216498
+
+◾ fal, ＇시댄스 2.5＇보다 22배 빠른 비디오 모델 ＇플럭스 3 맥스＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=216487
 
 ◾ 오픈AI, 신약 개발 관리 플랫폼 ＇오케스트라 바이오＇ 인수
 https://www.aitimes.com/news/articleView.html?idxno=216485
@@ -140,6 +154,9 @@ https://www.aitimes.com/news/articleView.html?idxno=216493
 
 ◾ 가트너, 기업이 주목해야 할 ＇2027년 10대 전략기술＇ 발표
 https://www.aitimes.com/news/articleView.html?idxno=216475
+
+◾ 메타, ＇뮤즈＇ 학습한 데이터센터 공개…GPU 100만까지 늘린다
+https://www.aitimes.com/news/articleView.html?idxno=216481
 
 📚 간행물
 ◾ 광자 기반 변분 양자 알고리즘의 발전과 기술 동향 [주간기술동향 2223호]
