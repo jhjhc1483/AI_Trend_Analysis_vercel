@@ -26,19 +26,13 @@
   {
     "title": "앤트로픽, 기업용 AI 보안 분석 도구 ‘클로드 시큐리티’ 출시",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216549",
-    "category": "해외",
+    "category": "민간",
     "score": 4
   },
   {
-    "title": "클로드·그록으로 무장한 해커들, 중남미 은행 400여곳 사이버 공격 자동화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216541",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "美 보안업계 “PHP 보안 결함, AI 없으면 발견 못했다”",
-    "link": "https://www.etnews.com/20261022000406",
-    "category": "해외",
+    "title": "경북도, 제조AX·피지컬 AI 산업기반 국가 AI 전략에 연결",
+    "link": "https://www.etnews.com/20261022000403",
+    "category": "기관",
     "score": 4
   },
   {
@@ -48,28 +42,10 @@
     "score": 5
   },
   {
-    "title": "경북도, 제조AX·피지컬 AI 산업기반 국가 AI 전략에 연결",
-    "link": "https://www.etnews.com/20261022000403",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "AICA, ＇AI TECH 세미나＇ 개최…광주 국가 AI데이터센터 고도화 모색",
-    "link": "https://www.etnews.com/20261022000344",
-    "category": "기관",
-    "score": 3
-  },
-  {
     "title": "LG이노텍, 엔비디아 ＇피지컬 AI＇ 로봇 센싱 솔루션 개발 협력",
     "link": "https://www.etnews.com/20261022000116",
     "category": "민간",
     "score": 5
-  },
-  {
-    "title": "삼성전기, 엔비디아 등 美 빅테크로부터 AI 반도체 기판 전용라인 증설 투자 유치",
-    "link": "https://www.etnews.com/20261022000470",
-    "category": "민간",
-    "score": 4
   },
   {
     "title": "테슬라 “내년 2분기 고객차에 무감독 FSD 일부 적용…테라팹·옵티머스 양산 속도”",
@@ -78,40 +54,22 @@
     "score": 5
   },
   {
-    "title": "현대오토에버, 차세대 치안 솔루션 선봬…순찰 로봇·AI 결합",
-    "link": "https://www.etnews.com/20261022000157",
-    "category": "민간",
+    "title": "서울, 英 옵서버 선정 ＇세계 3대 AI 도시＇…AI 도입·활용 역량 1위",
+    "link": "https://www.etnews.com/20261022000156",
+    "category": "기관",
     "score": 3
-  },
-  {
-    "title": "KT클라우드, 50㎿ 규모 안산 AIDC 착공…수도권 AI 인프라 공급 확대",
-    "link": "https://www.etnews.com/20261022000143",
-    "category": "민간",
-    "score": 4
   },
   {
     "title": "포스코퓨처엠, 팔란티어 AI 플랫폼 도입…배터리 소재 사업 혁신",
     "link": "https://www.etnews.com/20261022000111",
     "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "젠슨 황, 투자 회의론 속 낙관…“모든 산업이 AI 기업 돼야”",
-    "link": "https://www.etnews.com/20261022000110",
-    "category": "민간",
     "score": 3
-  },
-  {
-    "title": "오픈AI, 구글 클라우드 기반 기업용 AI 모델·에이전트 지원",
-    "link": "https://www.etnews.com/20261022000106",
-    "category": "민간",
-    "score": 4
   },
   {
     "title": "[GM 포워드]GM “AI 기술로 신차 개발기간 50% 줄인다”…LMR 배터리로 가격 경쟁력↑",
     "link": "https://www.etnews.com/20261022000087",
     "category": "민간",
-    "score": 4
+    "score": 3
   },
   {
     "title": "SKT, 서울대·KAIST와 수학 난제 연구…독자 AI 모델 추론 성능 강화",
@@ -120,52 +78,16 @@
     "score": 4
   },
   {
-    "title": "테슬라, 3분기 매출 37조원…FSD 급증 속 AI 투자로 비용 부담",
-    "link": "https://www.etnews.com/20261022000024",
-    "category": "민간",
-    "score": 3
-  },
-  {
     "title": "위드네트웍스, AI 기반 ＇취약점 조합 상관분석＇ 제시",
     "link": "https://www.etnews.com/20261021000132",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "램리서치, 분기 매출 82억달러 ＇사상 최대＇…AI 반도체 투자에 성장",
-    "link": "https://www.etnews.com/20261022000002",
+    "title": "화성시, CCTV 관제요원 AI 교육…오탐·미탐 대응 역량 강화",
+    "link": "https://www.etnews.com/20261022000013",
     "category": "민간",
     "score": 3
-  },
-  {
-    "title": "7대 SEED, 분야별 이행전략 수립 본격화",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187880&searchOpt=ALL&searchTxt=",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "〃AI가 스스로 더 강력한 AI를 만드는 세상〃…＇재귀적 자기 개선＇, 초지능 경쟁의 새로운 분기점",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42402",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "보다폰, AI로 통신망 스스로 판단·제어한다…5G 전력 두 자릿수 절감, 장애 50% 감축 추진",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42399",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "도이치텔레콤·노키아·엔비디아, AI로 5G 업링크 속도 15% 향상…AI-RAN 상용화 가속",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42398",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "AI와 인간 수학자, 31년간 풀리지 않은 수학 난제 풀었다…MS 연구진, ＇KLS 추측＇ 증명 성공",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42397",
-    "category": "해외",
-    "score": 4
   },
   {
     "title": "엣지 AI 연산 최대 180 TOPS 구현…게택, 군사·재난·산업현장용 러기드 노트북 공개",
@@ -174,34 +96,10 @@
     "score": 4
   },
   {
-    "title": "메르세데스-벤츠·엔비디아, 도심 자율주행 새 지평…목적지까지 주행 지원하는 ＇엠비 드라이브 어시스트 프로＇ 출시",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42395",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "GM, 자율주행 대중화 승부수…AI 연산 성능 40배·하루 30억 마일 가상주행으로 SUV·픽업트럭까지 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42394",
-    "category": "해외",
-    "score": 3
-  },
-  {
     "title": "현대차그룹, 임직원 70% 생성형 AI 활용…73개 생산 공정에 AI 적용, 전사 AX 가속",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42393",
     "category": "민간",
     "score": 4
-  },
-  {
-    "title": "서울, AI 활용 역량 세계 1위…뉴욕·베이징 제친 ‘실행형 AI 도시’ 부상",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42391",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "구글 클라우드서 ＇오픈AI＇ 모델 쓴다…AI 플랫폼 ‘모델 개방 경쟁’ 가속",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42390",
-    "category": "해외",
-    "score": 3
   },
   {
     "title": "딥엑스, 교통 CCTV를 실시간 AI 감시망으로…초저전력 반도체로 글로벌 ITS 공략",
@@ -210,34 +108,16 @@
     "score": 3
   },
   {
-    "title": "AI 해킹도 뚫지 못했다…탈레스, 소프트웨어 취약점 탐지 차단 ＇센티넬 엔벨로프 플러스＇ 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42388",
-    "category": "민간",
-    "score": 3
-  },
-  {
     "title": "〃AI 에이전트, 보안 판 바꾼다〃…엔비디아 OpenShell 아키텍처 공개, 위험 행동 밀리초 만에 차단",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42387",
-    "category": "해외",
+    "category": "민간",
     "score": 4
-  },
-  {
-    "title": "엔비디아, 휴머노이드·AI 학습 기술 확대...범용 로봇 개발 위한 아이작 플랫폼 고도화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42386",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "델 테크놀로지스·엔비디아, 데스크톱부터 데이터센터까지 에이전틱 AI 인프라 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42385",
-    "category": "해외",
-    "score": 3
   },
   {
     "title": "('26. 10. 22.) 국가AI전략위, 포항서 '제조 현장부터  AI 데이터센터까지' 경북 AI 생태계 살펴",
     "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1056",
     "category": "기관",
-    "score": 5
+    "score": 4
   },
   {
     "title": "AI·드론 활용, 미래전 대응 교육혁신 모색",
