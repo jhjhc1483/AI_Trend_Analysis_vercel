@@ -33884,5 +33884,95 @@
       ]
     },
     "briefing": "- NC AI가 제조·조선·국방 분야의 디지털 전환(AX)을 위해 '풀스택 피지컬 AI' 기술 협력을 확대하고 있습니다.\n- 미국과 일본 등 주요국이 AI 사이버 보안 관련 입법 추진 및 안전기준 가이드라인을 강화하며 대응책 마련에 나서고 있습니다.\n- 앤트로픽이 전 세계 연구진과 생명과학 난제를 해결하기 위해 AI 모델 '클로드'를 활용한 공동연구를 제안했습니다."
+  },
+  "26.10.25": {
+    "categorized": {
+      "민간": [
+        {
+          "title": "피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216614",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 구글 클라우드서 최신 기능 쓰는 ＇관리형 클로드＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216613",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "구글 클라우드, 에이전트 전용 ＇컴퓨팅 엔진＇ 출시…마이크로VM으로 보안 격리",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216608",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216616",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, AI 보안 우회로 중단했던 모델 학습 재개…인터넷 차단 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 ＇B300＇ 32개 확인",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216617",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216606",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216604",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, “AI 안전성, 기업 혼자서는 확보 못 한다”…폴란드와 공동 검증체계 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42418",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "국방": [
+        {
+          "title": "국방정보통신협회, AI 기반 국방 사이버보안 대응 전략 논의",
+          "link": "https://www.etnews.com/20261024000039",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "“한국, AI ＇모럴 리더십＇ 잡아야”…안전·신뢰를 수출 경쟁력으로",
+          "link": "https://www.etnews.com/20261023000248",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[AI 세이프가드] ⑤ 좌담회 - “AI 안전은 산업 경쟁력 결정 요소”…＇안전한 가속＇ 주문",
+          "link": "https://www.etnews.com/20261023000154",
+          "category": "기관",
+          "score": 4
+        }
+      ]
+    }
   }
 }
