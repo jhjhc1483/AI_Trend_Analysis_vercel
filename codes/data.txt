@@ -8,10 +8,16 @@ https://www.etnews.com/20261023000175
 ◾ 우주군·극초음속·AI·드론…바뀌는 전장 패러다임, 기술 헤게모니 잡아라
 https://kookbang.dema.mil.kr/newsWeb/20261026/1/ATCE_CTGR_0020060011/view.do;JSESSIONID_kookbnagWEB=VTJ0YeULqpWKcneV8ZRxRQW9-RLFCQPymhZAzmbYGeXQzxQE7C4A!-992138957
 
+◾ 첨단기술이 국방콘텐츠에 미치는 영향 진단
+https://kookbang.dema.mil.kr/newsWeb/20261026/1/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=VTJ0YeULqpWKcneV8ZRxRQW9-RLFCQPymhZAzmbYGeXQzxQE7C4A!-992138957
+
 ◾ 한미 공군, AI 시대 국방 항공우주기상의 미래 논하다
 https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMzUwNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
+◾ 피차이 “매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”
+https://www.aitimes.com/news/articleView.html?idxno=216618
+
 ◾ 아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려
 https://www.aitimes.com/news/articleView.html?idxno=216620
 
@@ -24,27 +30,31 @@ https://www.aitimes.com/news/articleView.html?idxno=216627
 ◾ 머스크 “에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진
 https://www.aitimes.com/news/articleView.html?idxno=216624
 
-◾ 카드사 ＇에이전트 커머스＇ 시대 연다…내년 에이전트 페이 출시
-https://www.etnews.com/20261023000282
-
 ◾ 카카오, 온디바이스용 ＇카나나-o＇ 모델 확보…멀티모달 AI 기술 순차 공개
 https://www.etnews.com/20261023000188
 
+[기관]
+◾ 오라클 AI 월드 25일 개막…AI 중심 비즈니스 전략·미래 비전 제시
+https://www.etnews.com/20261025000100
+
+◾ 무보, 신보와 AI·빅데이터 감사 역량 키운다
+https://www.etnews.com/20261025000053
+
+◾ 고려대, 풀스택 교육으로 실전형 AI·AX 인재 양성한다
+https://www.etnews.com/20261023000231
+
 [해외]
-◾ 피차이 “매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”
-https://www.aitimes.com/news/articleView.html?idxno=216618
-
-◾ 오픈AI, 보안 우회로 중단했던 첨단 모델 학습 재개…인터넷 차단 강화
-https://www.aitimes.com/news/articleView.html?idxno=216615
-
 ◾ 英 정부, 6억 파운드 이상 AI 투자 승부수…바이오안보·사이버방어·피지컬 AI 집중 육성
 https://www.aitimes.kr/news/articleView.html?idxno=42419
+
+◾ 중국 AI 반도체 플랫폼 ＇쿤룬신＇, 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공
+https://www.aitimes.kr/news/articleView.html?idxno=42425
 
 ◾ 〃AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다〃...구글, 의료 AI로 글로벌 진단 격차 줄여
 https://www.aitimes.kr/news/articleView.html?idxno=42424
 
-◾ 중국 AI 반도체 플랫폼 ＇쿤룬신＇, 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공
-https://www.aitimes.kr/news/articleView.html?idxno=42425
+◾ 오픈AI, 데이터 분석도 AI에 맡긴다…보고서 작성부터 이상 징후 탐지까지 자동화
+https://www.aitimes.kr/news/articleView.html?idxno=42423
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
