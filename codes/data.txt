@@ -1,48 +1,50 @@
-📢26.10.25 AI 일일 동향📢
+📢26.10.26 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 국방정보통신협회, AI 기반 국방 사이버보안 대응 전략 논의
-https://www.etnews.com/20261024000039
+◾ 육·해·공에 흩어진 GPU 통합…국방AI데이터센터 밑그림 착수
+https://www.etnews.com/20261023000175
+
+◾ 우주군·극초음속·AI·드론…바뀌는 전장 패러다임, 기술 헤게모니 잡아라
+https://kookbang.dema.mil.kr/newsWeb/20261026/1/ATCE_CTGR_0020060011/view.do;JSESSIONID_kookbnagWEB=VTJ0YeULqpWKcneV8ZRxRQW9-RLFCQPymhZAzmbYGeXQzxQE7C4A!-992138957
+
+◾ 한미 공군, AI 시대 국방 항공우주기상의 미래 논하다
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMzUwNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
 [민간]
-◾ 피차이 “클라우드 매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”
-https://www.aitimes.com/news/articleView.html?idxno=216618
+◾ 아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려
+https://www.aitimes.com/news/articleView.html?idxno=216620
 
-◾ SK “AI 데이터센터 5GW에 464조 필요”…글로벌 빅테크와 투자 협상
-https://www.aitimes.com/news/articleView.html?idxno=216614
+◾ 엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 ＇네모트론 3.5 볼트＇ 출시
+https://www.aitimes.com/news/articleView.html?idxno=216625
 
-◾ 앤트로픽, 구글 클라우드서 최신 기능 쓰는 ＇관리형 클로드＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=216613
+◾ 리퀴드 AI, 실시간 추론 엔진 ‘RIPL’ 출시...AI 응답 지연 50ms 미만 겨냥
+https://www.aitimes.com/news/articleView.html?idxno=216627
 
-◾ 구글 클라우드, 에이전트 전용 ＇컴퓨팅 엔진＇ 출시…마이크로VM으로 보안 격리
-https://www.aitimes.com/news/articleView.html?idxno=216608
+◾ 머스크 “에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진
+https://www.aitimes.com/news/articleView.html?idxno=216624
 
-[기관]
-◾ “한국, AI ＇모럴 리더십＇ 잡아야”…안전·신뢰를 수출 경쟁력으로
-https://www.etnews.com/20261023000248
+◾ 카드사 ＇에이전트 커머스＇ 시대 연다…내년 에이전트 페이 출시
+https://www.etnews.com/20261023000282
 
-◾ [AI 세이프가드] ⑤ 좌담회 - “AI 안전은 산업 경쟁력 결정 요소”…＇안전한 가속＇ 주문
-https://www.etnews.com/20261023000154
+◾ 카카오, 온디바이스용 ＇카나나-o＇ 모델 확보…멀티모달 AI 기술 순차 공개
+https://www.etnews.com/20261023000188
 
 [해외]
-◾ 오픈AI 연구원 3명 해고, ‘순환 추론’ 유출 조사서 비롯…시그널 대화 쟁점
-https://www.aitimes.com/news/articleView.html?idxno=216616
+◾ 피차이 “매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”
+https://www.aitimes.com/news/articleView.html?idxno=216618
 
-◾ 오픈AI, AI 보안 우회로 중단했던 모델 학습 재개…인터넷 차단 강화
+◾ 오픈AI, 보안 우회로 중단했던 첨단 모델 학습 재개…인터넷 차단 강화
 https://www.aitimes.com/news/articleView.html?idxno=216615
 
-◾ 중국 국영 통신망서 수출 금지 엔비디아 칩 또 포착…첨단 ＇B300＇ 32개 확인
-https://www.aitimes.com/news/articleView.html?idxno=216617
+◾ 英 정부, 6억 파운드 이상 AI 투자 승부수…바이오안보·사이버방어·피지컬 AI 집중 육성
+https://www.aitimes.kr/news/articleView.html?idxno=42419
 
-◾ 딥시크·미니맥스, 중국 정부 AI 모델 해외 수출 승인 획득
-https://www.aitimes.com/news/articleView.html?idxno=216606
+◾ 〃AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다〃...구글, 의료 AI로 글로벌 진단 격차 줄여
+https://www.aitimes.kr/news/articleView.html?idxno=42424
 
-◾ 구글 ‘제미나이 4 카본’ 외부 테스트설…“3D 개선됐지만 속도 느려”
-https://www.aitimes.com/news/articleView.html?idxno=216604
-
-◾ 오픈AI, “AI 안전성, 기업 혼자서는 확보 못 한다”…폴란드와 공동 검증체계 구축
-https://www.aitimes.kr/news/articleView.html?idxno=42418
+◾ 중국 AI 반도체 플랫폼 ＇쿤룬신＇, 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공
+https://www.aitimes.kr/news/articleView.html?idxno=42425
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

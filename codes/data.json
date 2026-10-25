@@ -33975,5 +33975,99 @@
       ]
     },
     "briefing": "- 국방정보통신협회에서 AI 기술을 활용한 국방 사이버보안 대응 전략의 필요성을 논의했습니다.\n- 오픈AI가 폴란드 정부와 공동 검증체계를 구축하며 AI 안전성은 기업 단독으로 확보하기 어렵다는 입장을 밝혔습니다.\n- 중국 국영 통신망에서 수출이 금지된 엔비디아의 첨단 AI 칩이 다시 한번 포착되었습니다."
+  },
+  "26.10.26": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "육·해·공에 흩어진 GPU 통합…국방AI데이터센터 밑그림 착수",
+          "link": "https://www.etnews.com/20261023000175",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "우주군·극초음속·AI·드론…바뀌는 전장 패러다임, 기술 헤게모니 잡아라",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261026/1/ATCE_CTGR_0020060011/view.do;JSESSIONID_kookbnagWEB=VTJ0YeULqpWKcneV8ZRxRQW9-RLFCQPymhZAzmbYGeXQzxQE7C4A!-992138957",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "한미 공군, AI 시대 국방 항공우주기상의 미래 논하다",
+          "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMzUwNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "아마존, AI 수요 폭증에 내년 컴퓨팅 용량 완판...2028년 예약도 몰려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216620",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "엔비디아, 로컬 에이전트·로봇 겨냥 4GB 모델 ＇네모트론 3.5 볼트＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216625",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "리퀴드 AI, 실시간 추론 엔진 ‘RIPL’ 출시...AI 응답 지연 50ms 미만 겨냥",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216627",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "머스크 “에이전트로 통신 수요 1000배 증가”…기지국 8만곳 확보 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216624",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "카드사 ＇에이전트 커머스＇ 시대 연다…내년 에이전트 페이 출시",
+          "link": "https://www.etnews.com/20261023000282",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "카카오, 온디바이스용 ＇카나나-o＇ 모델 확보…멀티모달 AI 기술 순차 공개",
+          "link": "https://www.etnews.com/20261023000188",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "피차이 “매출 포기하더라도 첨단 AI 개발에 컴퓨팅 우선 투입”",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216618",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, 보안 우회로 중단했던 첨단 모델 학습 재개…인터넷 차단 강화",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216615",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "英 정부, 6억 파운드 이상 AI 투자 승부수…바이오안보·사이버방어·피지컬 AI 집중 육성",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42419",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "〃AI, 지하 4km 광산에서도 45초 만에 결핵 선별한다〃...구글, 의료 AI로 글로벌 진단 격차 줄여",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42424",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "중국 AI 반도체 플랫폼 ＇쿤룬신＇, 미니맥스 신모델 ‘M3.1 플래시’ 즉시 구동 성공",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42425",
+          "category": "해외",
+          "score": 3
+        }
+      ]
+    }
   }
 }
