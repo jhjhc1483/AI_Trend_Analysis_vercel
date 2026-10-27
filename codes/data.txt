@@ -18,14 +18,11 @@ https://kookbang.dema.mil.kr/newsWeb/20261028/1/ATCE_CTGR_0010020000/view.do;JSE
 ◾ 네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극
 https://www.aitimes.com/news/articleView.html?idxno=216729
 
-◾ 케이던스, 엔비디아 기반 반도체 설계 AI ＇마에스트로＇ 공개…자체 데이터 학습 지원
-https://www.aitimes.com/news/articleView.html?idxno=216719
-
 ◾ KT, AI 모델 500개 통합 ‘토큰팩토리’ 출시…토큰 최대 25% 절감
 https://www.aitimes.com/news/articleView.html?idxno=216709
 
-◾ 메타, AI 인프라 투자에 역대 최대 126조 외부 조달 나선다
-https://www.aitimes.com/news/articleView.html?idxno=216704
+◾ 제논, 기업용 보안 AI 가드레일 솔루션 ＇젠가드＇ 출시
+https://www.etnews.com/20261027000431
 
 ◾ [AI 막는 AI] 로그프레소, AI 에이전트로 탐지부터 대응까지 보안 자동화
 https://www.etnews.com/20261026000434
@@ -33,31 +30,10 @@ https://www.etnews.com/20261026000434
 ◾ [AI 막는 AI] 위협 현실화…사이버 방어도 AI가 필수
 https://www.etnews.com/20261027000012
 
-◾ [AI 막는 AI] 이글루, 에이전틱 SOC로 보안 관제·위협 대응 자동화
-https://www.etnews.com/20261027000222
-
 ◾ 네이버, 브룩필드와 90억달러 AI 인프라 계약…AI 팩토리 본격 추진
 https://www.etnews.com/20261027000413
 
-◾ 두산, 김제에 AI 데이터센터용 광모듈 CCL 전용 라인 구축
-https://www.etnews.com/20261027000386
-
-◾ 이재용, 삼성 미래 먹거리 로봇 사업 챙긴다…RX사업추진실 방문
-https://www.etnews.com/20261027000345
-
-◾ KT, 500개 AI모델이 최적의 답 제시하는 ＇토큰 팩토리＇ 공개…독자 AI 생태계 시동
-https://www.etnews.com/20261027000311
-
 [기관]
-◾ 권대영 “청년 주거·일자리·금융 지원 강화”…AI 창업·재도전 뒷받침
-https://www.etnews.com/20261027000400
-
-◾ 산기원, 해외 연구진과 ＇5극3특＇ 제조AI 과제 발굴 나서
-https://www.etnews.com/20261027000357
-
-◾ “AX가 주도하는 미래 생산성 혁명”…산기협, ＇제4회 혁신기술포럼＇ 개최
-https://www.etnews.com/20261027000194
-
 ◾ 피지컬 AI 시대, 표준·특허로 설계한다…＇GISC 2026＇ 내달 2일 개막
 https://www.etnews.com/20261027000268
 
@@ -85,9 +61,6 @@ https://www.aitimes.kr/news/articleView.html?idxno=42451
 
 ◾ 엔비디아, 메타에 4조원 투자…‘뮤즈’ AI 동맹 확대, 개인용 슈퍼인텔리전스 가속
 https://www.aitimes.kr/news/articleView.html?idxno=42448
-
-◾ “AI가 수학·컴퓨터과학·물리학 난제 증명”…오픈AI, ＇수십 년 미해결 문제에 도전＇ 학계 검증 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=42443
 
 ◾ “이젠 AI가 컴퓨터도 대신 쓴다”…오픈AI, 반값에 더 똑똑해진 ‘GPT-6.1 테라’ 출시
 https://www.aitimes.kr/news/articleView.html?idxno=42440
