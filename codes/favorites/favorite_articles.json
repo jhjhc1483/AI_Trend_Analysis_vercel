@@ -3,13 +3,7 @@
     "title": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=216729",
     "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "케이던스, 엔비디아 기반 반도체 설계 AI ＇마에스트로＇ 공개…자체 데이터 학습 지원",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216719",
-    "category": "민간",
-    "score": 3
+    "score": 5
   },
   {
     "title": "KT, AI 모델 500개 통합 ‘토큰팩토리’ 출시…토큰 최대 25% 절감",
@@ -18,10 +12,10 @@
     "score": 4
   },
   {
-    "title": "메타, AI 인프라 투자에 역대 최대 126조 외부 조달 나선다",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216704",
+    "title": "제논, 기업용 보안 AI 가드레일 솔루션 ＇젠가드＇ 출시",
+    "link": "https://www.etnews.com/20261027000431",
     "category": "민간",
-    "score": 4
+    "score": 3
   },
   {
     "title": "＇몸값 2700조＇ 앤트로픽 “삼전닉스가 반도체 안주면 AI 멈춘다”",
@@ -33,25 +27,19 @@
     "title": "[AI 막는 AI] 로그프레소, AI 에이전트로 탐지부터 대응까지 보안 자동화",
     "link": "https://www.etnews.com/20261026000434",
     "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "[AI 막는 AI] 위협 현실화…사이버 방어도 AI가 필수",
     "link": "https://www.etnews.com/20261027000012",
     "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "지오멕스소프트, AI 스마트관제 중심 사업 재편…의료·국방·도로관리로 확장",
     "link": "https://www.etnews.com/20261027000351",
     "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "[AI 막는 AI] 이글루, 에이전틱 SOC로 보안 관제·위협 대응 자동화",
-    "link": "https://www.etnews.com/20261027000222",
-    "category": "민간",
-    "score": 3
+    "score": 5
   },
   {
     "title": "네이버, 브룩필드와 90억달러 AI 인프라 계약…AI 팩토리 본격 추진",
@@ -60,46 +48,10 @@
     "score": 4
   },
   {
-    "title": "권대영 “청년 주거·일자리·금융 지원 강화”…AI 창업·재도전 뒷받침",
-    "link": "https://www.etnews.com/20261027000400",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "두산, 김제에 AI 데이터센터용 광모듈 CCL 전용 라인 구축",
-    "link": "https://www.etnews.com/20261027000386",
-    "category": "민간",
-    "score": 3
-  },
-  {
     "title": "앤트로픽, 프런티어 AI모델 개발사 첫 나스닥 상장 도전",
     "link": "https://www.etnews.com/20261027000381",
     "category": "해외",
     "score": 4
-  },
-  {
-    "title": "산기원, 해외 연구진과 ＇5극3특＇ 제조AI 과제 발굴 나서",
-    "link": "https://www.etnews.com/20261027000357",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "이재용, 삼성 미래 먹거리 로봇 사업 챙긴다…RX사업추진실 방문",
-    "link": "https://www.etnews.com/20261027000345",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "KT, 500개 AI모델이 최적의 답 제시하는 ＇토큰 팩토리＇ 공개…독자 AI 생태계 시동",
-    "link": "https://www.etnews.com/20261027000311",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "“AX가 주도하는 미래 생산성 혁명”…산기협, ＇제4회 혁신기술포럼＇ 개최",
-    "link": "https://www.etnews.com/20261027000194",
-    "category": "기관",
-    "score": 3
   },
   {
     "title": "피지컬 AI 시대, 표준·특허로 설계한다…＇GISC 2026＇ 내달 2일 개막",
@@ -111,7 +63,7 @@
     "title": "미래기술 전략포럼, 11월 5일 국회서 3차 포럼 개최···＇전 국민 무료 AI＇ 청사진 제시",
     "link": "https://www.etnews.com/20261027000213",
     "category": "기관",
-    "score": 4
+    "score": 5
   },
   {
     "title": "방사청-지재처, 방산수출부터 국방 연구개발(R&D)까지 지식재산 협력 강화",
@@ -129,18 +81,6 @@
     "title": "방사청, 지재처와 ‘국방R&D 재산 보호’ 맞손",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20261028/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=PaJ_Fo5rzKB-W2RfQy_IuUFqLKy3T0j5QU9SS0bfl2wA13OJNBSJ!-825262916",
     "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "[디지털데일리] 하정우 AI전략위 “피지컬AI KPI 재설계해야…도입건수보단 체감 성과가 핵심” ('26. 10. 21.)",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=1066",
-    "category": "기관",
-    "score": 5
-  },
-  {
-    "title": "[뉴스1] 하정우 \"AI 해킹에 국가 차원 공동 대응 필요…금융사 보안책임도 강화\" ('26. 10. 18.)",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=1064",
-    "category": "기관",
     "score": 4
   },
   {
@@ -162,15 +102,21 @@
     "score": 4
   },
   {
-    "title": "“AI가 수학·컴퓨터과학·물리학 난제 증명”…오픈AI, ＇수십 년 미해결 문제에 도전＇ 학계 검증 본격화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42443",
+    "title": "“이젠 AI가 컴퓨터도 대신 쓴다”…오픈AI, 반값에 더 똑똑해진 ‘GPT-6.1 테라’ 출시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42440",
     "category": "해외",
     "score": 5
   },
   {
-    "title": "“이젠 AI가 컴퓨터도 대신 쓴다”…오픈AI, 반값에 더 똑똑해진 ‘GPT-6.1 테라’ 출시",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42440",
-    "category": "해외",
+    "title": "[디지털데일리] 하정우 AI전략위 “피지컬AI KPI 재설계해야…도입건수보단 체감 성과가 핵심” ('26. 10. 21.)",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=1066",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "[뉴스1] 하정우 \"AI 해킹에 국가 차원 공동 대응 필요…금융사 보안책임도 강화\" ('26. 10. 18.)",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=1064",
+    "category": "기관",
     "score": 5
   }
 ]
