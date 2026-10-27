@@ -1,188 +1,176 @@
 [
   {
-    "title": "역전파 없는 AI 학습 실험, 열흘 만에 4000배 빨라져…1.76시간→1.6초",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216671",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "MS, 관리자 없이 AI 1024개 협업하는 ‘에이전시’ 공개…스스로 역할도 나눠",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216662",
+    "title": "네이버, 브룩필드와 12조원 인프라 계약...엔비디아, 3대 주주로 등극",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216729",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "경북, 퓨리오사AI와 지역 AI 반도체 산업 생태계 조성 나서",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216678",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "중국 AI 컴퓨팅 내년 두 배로…65%는 미국산 칩에 의존",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216673",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "영국, ＇세계 최초＇ AI 생물보안 연구소 설립...1770억 투자",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216652",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "미래에셋증권·네이버클라우드 ＇AI 페스티벌＇ 개최…1052팀 참가",
-    "link": "https://www.etnews.com/20261026000428",
+    "title": "케이던스, 엔비디아 기반 반도체 설계 AI ＇마에스트로＇ 공개…자체 데이터 학습 지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216719",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "경북도·경산시, 퓨리오사AI와 손잡고 ＇국산 AI 반도체 생태계＇ 구축 나선다",
-    "link": "https://www.etnews.com/20261026000412",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "AI로 묻고 검색으로 확인…챗GPT 이용자 네이버·구글 교차 이용 급증했다",
-    "link": "https://www.etnews.com/20261026000292",
+    "title": "KT, AI 모델 500개 통합 ‘토큰팩토리’ 출시…토큰 최대 25% 절감",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216709",
     "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "홈쇼핑, ＇AI＇ 전담 조직 구축 잰걸음…전사적 ＇AX＇ 가속화",
-    "link": "https://www.etnews.com/20261023000252",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "하정우 부위원장 “AI 대전환 성패는 지역이 좌우”…＇국회 AI 미래전환＇ 출범",
-    "link": "https://www.etnews.com/20261026000303",
-    "category": "기관",
     "score": 4
   },
   {
-    "title": "중국 AI, 미국 턱밑 추격…문샷AI·딥시크 ＇AA 평가＇ 최상위권",
-    "link": "https://www.etnews.com/20261026000301",
+    "title": "메타, AI 인프라 투자에 역대 최대 126조 외부 조달 나선다",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216704",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "＇몸값 2700조＇ 앤트로픽 “삼전닉스가 반도체 안주면 AI 멈춘다”",
+    "link": "https://www.etnews.com/20261027000429",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "KTL, 마곡 AI모빌리티기술센터 개소…中企 기술 사업화 지원",
-    "link": "https://www.etnews.com/20261026000204",
-    "category": "기관",
+    "title": "[AI 막는 AI] 로그프레소, AI 에이전트로 탐지부터 대응까지 보안 자동화",
+    "link": "https://www.etnews.com/20261026000434",
+    "category": "민간",
     "score": 3
   },
   {
-    "title": "오픈AI, 스타트업 AI 서비스 지원 ＇모델 마스터즈＇ 국내 첫 개최",
-    "link": "https://www.etnews.com/20261026000132",
+    "title": "[AI 막는 AI] 위협 현실화…사이버 방어도 AI가 필수",
+    "link": "https://www.etnews.com/20261027000012",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "지오멕스소프트, AI 스마트관제 중심 사업 재편…의료·국방·도로관리로 확장",
+    "link": "https://www.etnews.com/20261027000351",
+    "category": "국방",
+    "score": 4
+  },
+  {
+    "title": "[AI 막는 AI] 이글루, 에이전틱 SOC로 보안 관제·위협 대응 자동화",
+    "link": "https://www.etnews.com/20261027000222",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "네이버, 브룩필드와 90억달러 AI 인프라 계약…AI 팩토리 본격 추진",
+    "link": "https://www.etnews.com/20261027000413",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "“앞구르기하는 오리 로봇 뭐야?”… 젠슨 황이 시연한 로봇에 예약주문 쏟아졌다",
-    "link": "https://www.etnews.com/20261026000090",
+    "title": "권대영 “청년 주거·일자리·금융 지원 강화”…AI 창업·재도전 뒷받침",
+    "link": "https://www.etnews.com/20261027000400",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "두산, 김제에 AI 데이터센터용 광모듈 CCL 전용 라인 구축",
+    "link": "https://www.etnews.com/20261027000386",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "앤트로픽, 프런티어 AI모델 개발사 첫 나스닥 상장 도전",
+    "link": "https://www.etnews.com/20261027000381",
     "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "ETRI, 주변 환경 기억해 행동에 반영하는 ＇로봇 AI＇ 개발...복합작업 성공률 24%p↑",
-    "link": "https://www.etnews.com/20261026000067",
-    "category": "민간",
     "score": 4
   },
   {
-    "title": "티쓰리큐, ＇2026 대한민국 AX 트렌드와 생존전략 컨퍼런스＇ 28일 개최",
-    "link": "https://www.etnews.com/20261026000047",
+    "title": "산기원, 해외 연구진과 ＇5극3특＇ 제조AI 과제 발굴 나서",
+    "link": "https://www.etnews.com/20261027000357",
     "category": "기관",
     "score": 3
   },
   {
-    "title": "SKT·카카오·KT 참여 ＇모두의 AI＇ 브랜드 국민 공모전 개시",
-    "link": "https://www.etnews.com/20261026000046",
-    "category": "기관",
-    "score": 3
-  },
-  {
-    "title": "씽크포비엘, 경찰청 ＇AI 영향 평가·위험 관리 기준＇ 연구…글로벌 수준 위험 관리 체계 마련",
-    "link": "https://www.etnews.com/20261026000044",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "빗썸, 사내 첫 ＇AI 공모전＇ 개최…업무 혁신 사례 107건 발굴",
-    "link": "https://www.etnews.com/20261026000043",
+    "title": "이재용, 삼성 미래 먹거리 로봇 사업 챙긴다…RX사업추진실 방문",
+    "link": "https://www.etnews.com/20261027000345",
     "category": "민간",
     "score": 3
   },
   {
-    "title": "빌 게이츠 “20년내 AI가 인간보다 우월...가장 혼란스런 시점”",
-    "link": "https://www.etnews.com/20261026000036",
-    "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "SKT, ＇AI 거버넌스 리포트＇ 첫 발간…실행체계·성과 공유",
-    "link": "https://www.etnews.com/20261026000031",
+    "title": "KT, 500개 AI모델이 최적의 답 제시하는 ＇토큰 팩토리＇ 공개…독자 AI 생태계 시동",
+    "link": "https://www.etnews.com/20261027000311",
     "category": "민간",
     "score": 4
   },
   {
-    "title": "전파감시 국제 기준, 인공지능·데이터 중심으로 새롭게 바뀐다",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187888&searchOpt=ALL&searchTxt=",
+    "title": "“AX가 주도하는 미래 생산성 혁명”…산기협, ＇제4회 혁신기술포럼＇ 개최",
+    "link": "https://www.etnews.com/20261027000194",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "피지컬 AI 시대, 표준·특허로 설계한다…＇GISC 2026＇ 내달 2일 개막",
+    "link": "https://www.etnews.com/20261027000268",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "AI 기술의 항공우주작전 접목 방안 모색",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261027/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=l3B6Ah0ViCQRjy68IlH7_p4sSeaqmUMsy_T90HDgQBrY7w2rWIdJ!-1895484071",
+    "title": "미래기술 전략포럼, 11월 5일 국회서 3차 포럼 개최···＇전 국민 무료 AI＇ 청사진 제시",
+    "link": "https://www.etnews.com/20261027000213",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "방사청-지재처, 방산수출부터 국방 연구개발(R&D)까지 지식재산 협력 강화",
+    "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59362&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+    "category": "국방",
+    "score": 4
+  },
+  {
+    "title": "국방 정보통신 핵심기술 발전 상호협력",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261028/3/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=PaJ_Fo5rzKB-W2RfQy_IuUFqLKy3T0j5QU9SS0bfl2wA13OJNBSJ!-825262916",
     "category": "국방",
     "score": 5
   },
   {
-    "title": "[첨단 기술이 바꾸는 전장 지형] ②첨단전력으로 도약한 우리 군",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261027/1/ATCE_CTGR_0020060011/view.do;JSESSIONID_kookbnagWEB=l3B6Ah0ViCQRjy68IlH7_p4sSeaqmUMsy_T90HDgQBrY7w2rWIdJ!-1895484071",
+    "title": "방사청, 지재처와 ‘국방R&D 재산 보호’ 맞손",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261028/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=PaJ_Fo5rzKB-W2RfQy_IuUFqLKy3T0j5QU9SS0bfl2wA13OJNBSJ!-825262916",
     "category": "국방",
     "score": 4
   },
   {
-    "title": "앤트로픽이 확보한 ‘학습을 가르치는 AI’ 특허…김용덕 변리사, 클로드의 정확성은 어떻게 훈련되는가",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42436",
-    "category": "해외",
-    "score": 4
+    "title": "[디지털데일리] 하정우 AI전략위 “피지컬AI KPI 재설계해야…도입건수보단 체감 성과가 핵심” ('26. 10. 21.)",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=1066",
+    "category": "기관",
+    "score": 5
   },
   {
-    "title": "16년 만에 바뀐 국제 전파감시 지침…한국 AI 분석 기술, 핵심 분야에 반영",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42433",
+    "title": "[뉴스1] 하정우 \"AI 해킹에 국가 차원 공동 대응 필요…금융사 보안책임도 강화\" ('26. 10. 18.)",
+    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000014&num=1064",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "“AI가 사람 대신 전화하고 업무까지 처리”…머스크, 그록 자율 통화 기능 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42430",
+    "title": "앤트로픽, 美 증권거래위원회에 기업공개 신청…나스닥 종목코드 ‘ANT’ 확정",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42453",
     "category": "해외",
     "score": 4
   },
   {
-    "title": "챗GPT에 기업 기밀 입력하면 AI가 사전 차단…솔트웨어, 민감정보 유출 방지 기술 특허 확보",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42429",
-    "category": "민간",
+    "title": "“AI가 코드 짜는 시대, 깃허브 대체한다”…전 깃허브 CEO, 차세대 개발 플랫폼 ‘엔타이어’ 출시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42451",
+    "category": "해외",
     "score": 4
   },
   {
-    "title": "AI 에이전트도 개발부터 폐기까지 관리…SKT, ‘AI 신뢰 경영’ 실행체계 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42428",
-    "category": "민간",
+    "title": "엔비디아, 메타에 4조원 투자…‘뮤즈’ AI 동맹 확대, 개인용 슈퍼인텔리전스 가속",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42448",
+    "category": "해외",
     "score": 4
   },
   {
-    "title": "“모르면 추측 대신 기억을 확인한다”…ETRI·GIST, 스스로 판단하고 행동하는 로봇 AI 플랫폼 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42427",
-    "category": "민간",
-    "score": 4
+    "title": "“AI가 수학·컴퓨터과학·물리학 난제 증명”…오픈AI, ＇수십 년 미해결 문제에 도전＇ 학계 검증 본격화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42443",
+    "category": "해외",
+    "score": 5
   },
   {
-    "title": "AI 기술의 항공우주작전 접목 방안 모색",
-    "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMzU4NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방",
+    "title": "“이젠 AI가 컴퓨터도 대신 쓴다”…오픈AI, 반값에 더 똑똑해진 ‘GPT-6.1 테라’ 출시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42440",
+    "category": "해외",
     "score": 5
   }
 ]
