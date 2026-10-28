@@ -21,9 +21,6 @@ https://www.etnews.com/20261028000184
 ◾ 드론·로봇 운용능력 뽐내고 실전성 강화
 https://kookbang.dema.mil.kr/newsWeb/20261029/13/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=DgKEV4tB5WYNSumYZc8wgqRVdMunLFnb2ebBGMFI9mAZmL3GJ4iG!1681223396
 
-◾ 드론·로봇 운용능력 뽐내고 실전성 강화
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMzY4NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
 [민간]
 ◾ MS, 비용 효율 20% 높인 차세대 보안 모델 ＇MAI 사이버 1.1 플래시＇ 출시
 https://www.aitimes.com/news/articleView.html?idxno=216757
@@ -31,29 +28,14 @@ https://www.aitimes.com/news/articleView.html?idxno=216757
 ◾ MS, 정교함 강화한 ＇MAI 이미지 2.7＇ 공개...AA 2위·아레나 3위 등극
 https://www.aitimes.com/news/articleView.html?idxno=216755
 
-◾ 챗GPT, 이제 애플 아이클라우드 메일·캘린더까지 연동
-https://www.aitimes.com/news/articleView.html?idxno=216753
-
 ◾ [테크서밋 2026]시높시스, “에이전틱 AI로 반도체·시스템 설계의 완전 자율화 시대 개척”
 https://www.etnews.com/20261028000215
 
 ◾ [테크서밋 2026]인텔코리아, “에이전틱 AI 시대, CPU가 핵심 인프라로 부상”
 https://www.etnews.com/20261028000281
 
-◾ [테크서밋 2026]모빌린트 “피지컬 AI, 서버-온디바이스 칩 ＇공통 설계＇로 도입 가속”
-https://www.etnews.com/20261028000328
-
-◾ “오픈 AI 데이터 유출 원천 차단”…밸류엑스, 중견기업 전용 폐쇄망 AI 인프라 ＇벙커 코어＇ 출시
-https://www.etnews.com/20261028000388
-
-◾ 오픈AI, 국내 기업 AI 활용 지원 ＇빌더 부트캠프＇ 개최
-https://www.etnews.com/20261028000286
-
 ◾ [오라클 AI 월드 2026] 래리 엘리슨 “AI로 산업별 SW 완성”…SaaS 종말론 반박
 https://www.etnews.com/20261028000241
-
-◾ 한자연, 국내 10개 기업과 ＇AI 커넥티드카＇ 기술 개발 착수
-https://www.etnews.com/20261028000219
 
 ◾ 엔비디아, 삼성전기·앰코 등 6개사와 AI 반도체 공급망 대폭 확장
 https://www.etnews.com/20261028000182
@@ -65,6 +47,9 @@ https://www.etnews.com/20261028000173
 ◾ 해수부, 〃AI로 바다 산업 바꾼다〃... 세계 자율운항선박 시장 수주 1위 목표 등 ＇해양수산 AI 전환 5대 전략＇ 발표
 https://www.aitimes.kr/news/articleView.html?idxno=42467
 
+◾ 구미 7개 기업, 25조원 투자계획…정부, 제조 AI 혁신거점 육성 본격화
+https://www.aitimes.kr/news/articleView.html?idxno=42466
+
 ◾ AI로 이룬 공공혁신, 국민이 누리는 변화 「2026 공공기관 AI 혁신 성과대회」 개최
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187898&searchOpt=ALL&searchTxt=
 
@@ -73,9 +58,6 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 
 ◾ [2026 K-오픈소스 AX] 과기정통부 “AI 인프라·모델·활용 경쟁력 강화로 3강 도약”
 https://www.etnews.com/20261028000031
-
-◾ [2026 K-오픈소스 AX] 데브스택 “AI 시대 제로데이 위협, 멀티 에이전트 협업으로 대응해야”
-https://www.etnews.com/20261028000045
 
 ◾ ＇K-팔란티어＇ 육성 본격화…AI·우주항공·드론 등 538곳 혁신기업풀 첫 구축
 https://www.etnews.com/20261028000103
@@ -86,20 +68,11 @@ https://www.etnews.com/20261028000332
 ◾ 공공기관 AI 혁신 본격화…공항 안전관리부터 고독사 예방까지
 https://www.etnews.com/20261028000331
 
-◾ 질병청·과기정통부, 500만건 건강데이터 활용 ＇AI 건강도우미＇ 개방
-https://www.etnews.com/20261028000321
-
-◾ 차세대융합기술산업협회,＇NCIA X 피지컬AI 밋업＇ 개최
-https://www.etnews.com/20261028000223
+◾ 오픈AI, 국내 기업 AI 활용 지원 ＇빌더 부트캠프＇ 개최
+https://www.etnews.com/20261028000286
 
 ◾ 李대통령 “첨단기술산업 육성 위해 정부가 선도구매 나설 것”
 https://www.etnews.com/20261028000189
-
-◾ 부산시, 시민이 체감하고 기업이 성장하는 ＇AI 미래도시 비전＇ 선포
-https://www.etnews.com/20261028000183
-
-◾ 고려대 세종캠퍼스, 공공혁신 이끌 AI 인재 키운다… 전 학과 AI 전환과 ＇GovTech＇ 특화 교육 추진
-https://www.etnews.com/20261028000131
 
 [해외]
 ◾ 스페인 4위 은행, AI 에이전트 전사 도입…도이치텔레콤과 손잡고 기술 종속 없는 금융 AI 구축
@@ -114,20 +87,20 @@ https://www.aitimes.kr/news/articleView.html?idxno=42469
 ◾ AMD, “AI가 물리 세계로 진입한다”…로봇·산업용 AI 위한 맞춤형 반도체 전략 강화
 https://www.aitimes.kr/news/articleView.html?idxno=42463
 
+◾ “말 한마디에 세상이 바뀐다”...구글, 현실세계 시뮬레이션하는 월드모델 ‘제니 4’ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42458
+
 ◾ 〃명령만 따르던 로봇은 끝났다〃... 구글, 로봇 AI 두뇌 ＇제미나이 로보틱스 ER 2＇ 기업용 프리뷰 공개
 https://www.aitimes.kr/news/articleView.html?idxno=42457
 
 ◾ 안두릴·퀄컴, 미 국방·정부 겨냥 ＇미국산 노트북＇ 만든다
 https://www.aitimes.com/news/articleView.html?idxno=216764
 
-◾ ＇딥시크-V4.1 플래시＇, 독립 테스트서 통제 상실·안전성 허점 드러내
-https://www.aitimes.com/news/articleView.html?idxno=216738
+◾ 엔비디아·오라클, ＇베라 루빈＇ 대규모 동맹…GPU 유휴 한계 넘는다
+https://www.aitimes.com/news/articleView.html?idxno=216747
 
 ◾ [오라클 AI 월드 2026] 샘 올트먼 오픈AI CEO “기업 AI 활용, 당장 생산성보다 보안 대응 우선”
 https://www.etnews.com/20261028000285
-
-◾ 주한중국대사관, ＇한중 피지컬 AI 기술산업협력포럼＇ 11월 3일 개최
-https://www.etnews.com/20261028000259
 
 ◾ [오라클 AI 월드 2026] 오라클, 오픈AI와 협력 확대…AI 칩 공급망도 다변화
 https://www.etnews.com/20261028000249
