@@ -34436,5 +34436,283 @@
       ]
     },
     "briefing": "- 지오멕스소프트가 AI 스마트관제 기술을 국방 분야 등으로 확장하며 사업 구조를 재편하고 있습니다.\n- 방위사업청과 특허청이 방산 수출과 국방 연구개발(R&D) 과정에서의 지식재산 보호를 위해 협력을 강화하기로 했습니다.\n- 사이버 위협이 현실화됨에 따라 국방 분야에서도 AI를 활용한 보안 자동화와 체계적인 대응책 마련의 필요성이 제기되고 있습니다."
+  },
+  "26.10.29": {
+    "categorized": {
+      "육군": [
+        {
+          "title": "드론·로봇 운용능력 뽐내고 실전성 강화",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261029/13/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=DgKEV4tB5WYNSumYZc8wgqRVdMunLFnb2ebBGMFI9mAZmL3GJ4iG!1681223396",
+          "category": "육군",
+          "score": 3
+        },
+        {
+          "title": "드론·로봇 운용능력 뽐내고 실전성 강화",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMzY4NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "육군",
+          "score": 3
+        }
+      ],
+      "국방": [
+        {
+          "title": "민간 기술 접목 ‘공군 AX 거점’ 만든다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261029/2/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=DgKEV4tB5WYNSumYZc8wgqRVdMunLFnb2ebBGMFI9mAZmL3GJ4iG!1681223396",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "[첨단 기술이 바꾸는 전장 지형] ④전문가 인터뷰",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261029/1/ATCE_CTGR_0020060011/view.do;JSESSIONID_kookbnagWEB=DgKEV4tB5WYNSumYZc8wgqRVdMunLFnb2ebBGMFI9mAZmL3GJ4iG!1681223396",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "AI 시대, 정보분석관은 무엇을 준비해야 하는가",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261029/2/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=DgKEV4tB5WYNSumYZc8wgqRVdMunLFnb2ebBGMFI9mAZmL3GJ4iG!1681223396",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "민간 기술 접목 ‘공군 AX 거점’ 만든다",
+          "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyMzcwMSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "서울시, 공군 AX 거점 본격 가동…“군 AI 수요와 스타트업 기술 연결”",
+          "link": "https://www.etnews.com/20261028000184",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "해외": [
+        {
+          "title": "스페인 4위 은행, AI 에이전트 전사 도입…도이치텔레콤과 손잡고 기술 종속 없는 금융 AI 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42472",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "애플, AI 성능 최대 13배 높인 M6 맥북 프로 공개…온디바이스 AI 성능 강화, LLM도 직접 실행",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42470",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 신약 개발에 직접 뛰어들었다…클로드, 항체 3만5000개 설계·암 치료 기술까지 개선",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42469",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "AMD, “AI가 물리 세계로 진입한다”…로봇·산업용 AI 위한 맞춤형 반도체 전략 강화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42463",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "〃명령만 따르던 로봇은 끝났다〃... 구글, 로봇 AI 두뇌 ＇제미나이 로보틱스 ER 2＇ 기업용 프리뷰 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42457",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "안두릴·퀄컴, 미 국방·정부 겨냥 ＇미국산 노트북＇ 만든다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216764",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "＇딥시크-V4.1 플래시＇, 독립 테스트서 통제 상실·안전성 허점 드러내",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216738",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "[오라클 AI 월드 2026] 샘 올트먼 오픈AI CEO “기업 AI 활용, 당장 생산성보다 보안 대응 우선”",
+          "link": "https://www.etnews.com/20261028000285",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "주한중국대사관, ＇한중 피지컬 AI 기술산업협력포럼＇ 11월 3일 개최",
+          "link": "https://www.etnews.com/20261028000259",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "[오라클 AI 월드 2026] 오라클, 오픈AI와 협력 확대…AI 칩 공급망도 다변화",
+          "link": "https://www.etnews.com/20261028000249",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글 딥마인드, ＇피지컬 AI 두뇌＇ 월드모델 지니4 프리뷰 공개",
+          "link": "https://www.etnews.com/20261028000224",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "옴디아, “2027년 산업 테마는 AI 수익화·공급망 변동·디지털 주권·피지컬 AI”",
+          "link": "https://www.etnews.com/20261028000164",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "해수부, 〃AI로 바다 산업 바꾼다〃... 세계 자율운항선박 시장 수주 1위 목표 등 ＇해양수산 AI 전환 5대 전략＇ 발표",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42467",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "AI로 이룬 공공혁신, 국민이 누리는 변화 「2026 공공기관 AI 혁신 성과대회」 개최",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187898&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "과학수도 대전에 한국형 혁신 AI･SW 인재양성 거점 ‘이노베이션아카데미’ 개소",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187897&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[2026 K-오픈소스 AX] 과기정통부 “AI 인프라·모델·활용 경쟁력 강화로 3강 도약”",
+          "link": "https://www.etnews.com/20261028000031",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[2026 K-오픈소스 AX] 데브스택 “AI 시대 제로데이 위협, 멀티 에이전트 협업으로 대응해야”",
+          "link": "https://www.etnews.com/20261028000045",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "＇K-팔란티어＇ 육성 본격화…AI·우주항공·드론 등 538곳 혁신기업풀 첫 구축",
+          "link": "https://www.etnews.com/20261028000103",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "산업부, AI 로봇 공공 보급 준비 본격화",
+          "link": "https://www.etnews.com/20261028000332",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "공공기관 AI 혁신 본격화…공항 안전관리부터 고독사 예방까지",
+          "link": "https://www.etnews.com/20261028000331",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "질병청·과기정통부, 500만건 건강데이터 활용 ＇AI 건강도우미＇ 개방",
+          "link": "https://www.etnews.com/20261028000321",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "차세대융합기술산업협회,＇NCIA X 피지컬AI 밋업＇ 개최",
+          "link": "https://www.etnews.com/20261028000223",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "李대통령 “첨단기술산업 육성 위해 정부가 선도구매 나설 것”",
+          "link": "https://www.etnews.com/20261028000189",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "부산시, 시민이 체감하고 기업이 성장하는 ＇AI 미래도시 비전＇ 선포",
+          "link": "https://www.etnews.com/20261028000183",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "고려대 세종캠퍼스, 공공혁신 이끌 AI 인재 키운다… 전 학과 AI 전환과 ＇GovTech＇ 특화 교육 추진",
+          "link": "https://www.etnews.com/20261028000131",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "민간": [
+        {
+          "title": "MS, 비용 효율 20% 높인 차세대 보안 모델 ＇MAI 사이버 1.1 플래시＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216757",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "MS, 정교함 강화한 ＇MAI 이미지 2.7＇ 공개...AA 2위·아레나 3위 등극",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216755",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "챗GPT, 이제 애플 아이클라우드 메일·캘린더까지 연동",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216753",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[테크서밋 2026]시높시스, “에이전틱 AI로 반도체·시스템 설계의 완전 자율화 시대 개척”",
+          "link": "https://www.etnews.com/20261028000215",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "[테크서밋 2026]인텔코리아, “에이전틱 AI 시대, CPU가 핵심 인프라로 부상”",
+          "link": "https://www.etnews.com/20261028000281",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[테크서밋 2026]모빌린트 “피지컬 AI, 서버-온디바이스 칩 ＇공통 설계＇로 도입 가속”",
+          "link": "https://www.etnews.com/20261028000328",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "“오픈 AI 데이터 유출 원천 차단”…밸류엑스, 중견기업 전용 폐쇄망 AI 인프라 ＇벙커 코어＇ 출시",
+          "link": "https://www.etnews.com/20261028000388",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, 국내 기업 AI 활용 지원 ＇빌더 부트캠프＇ 개최",
+          "link": "https://www.etnews.com/20261028000286",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[오라클 AI 월드 2026] 래리 엘리슨 “AI로 산업별 SW 완성”…SaaS 종말론 반박",
+          "link": "https://www.etnews.com/20261028000241",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "한자연, 국내 10개 기업과 ＇AI 커넥티드카＇ 기술 개발 착수",
+          "link": "https://www.etnews.com/20261028000219",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "엔비디아, 삼성전기·앰코 등 6개사와 AI 반도체 공급망 대폭 확장",
+          "link": "https://www.etnews.com/20261028000182",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "KT, 6G 네트워크 보안 자문위원회 출범…AI·위성통신 위협 대응",
+          "link": "https://www.etnews.com/20261028000173",
+          "category": "민간",
+          "score": 3
+        }
+      ]
+    }
   }
 }
