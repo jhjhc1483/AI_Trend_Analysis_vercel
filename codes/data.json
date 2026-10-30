@@ -35070,5 +35070,169 @@
       ]
     },
     "briefing": "- 육군 내 AI·데이터 활용 업무개선 프로그램 도입 및 AI 기반의 전술 교류를 통해 디지털 지휘 역량 강화를 추진합니다.\n- 안두릴과 퀄컴이 협력하여 국방 및 공공 분야에서 활용 가능한 미국산 AI 노트북 개발을 통해 안보 기술 주권 확보에 나섭니다.\n- 미래 전장을 대비하여 AI 파일럿을 직접 설계하고 검증하는 등 공중전 분야의 AI 기술 도입 준비가 본격화되고 있습니다."
+  },
+  "26.10.31": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42516",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "T4 로보틱스, 우크라이나서 AI 자율 드론 요격기 개발 착수…실전 환경 기반 방공 기술 확보 나서",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42504",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "오픈AI, AI 행동 원칙 전면 개편…지시 따르는 AI 넘어 인간 의도 이해하는 AI로",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42515",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "아마존 앤디 재시 CEO, “AWS, 향후 2년간 40% 이상 성장”…AI 인프라 투자 성과 본격화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42511",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216835",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "오픈AI·앤트로픽·구글 “AI 에이전트 확산에 보안·권한 관리 문제 커져”",
+          "link": "https://www.etnews.com/20261030000002",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "현대차그룹, 새만금 9조 AI 밸리 본격화…데이터센터 착수·현장사무소 개소",
+          "link": "https://www.etnews.com/20261030000197",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "인스타 사진으로 만드는 ＇AI 가상 옷장＇…메타, ＇스타일 스케치＇ 출시",
+          "link": "https://www.etnews.com/20261030000022",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "클립아트코리아, 챗GPT·클로드 연동 AI 이미지 검색 서비스 출시",
+          "link": "https://www.etnews.com/20261030000021",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "이노테나-모티프테크놀로지스, 폐쇄망 AI 문서중앙화 솔루션 공동 개발",
+          "link": "https://www.etnews.com/20261030000014",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "위세아이텍-아이노션, AI 플랫폼 해외 시장 진출 협력",
+          "link": "https://www.etnews.com/20261030000016",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "기관": [
+        {
+          "title": "한국-독일, 산업용 AI·반도체·로봇 협력 본격화…메르츠 총리, 첨단기술 동맹 강조",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42507",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "국방·미래산업의 핵심 화합물반도체, 국내 기술이 양산까지 닿도록...산학연과 밑그림",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187904&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "제5차 한-캐나다 과학기술혁신공동위 개최…“AI·양자 협력 강화”",
+          "link": "https://www.etnews.com/20261030000153",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42498",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, ＇클로드＇ 자기 대화 감시 기술 도입…유해 사용 78% 탐지",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216824",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216822",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "코히어, 캐나다 정부 1.5조원 투자 유치…시리즈E 마감 수순",
+          "link": "https://www.etnews.com/20261030000358",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "젠슨 황과 긴밀한 관계…“곁에 있던 그녀, 엔비디아 정보 노린 中 스파이였다”",
+          "link": "https://www.etnews.com/20261030000011",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "아마존, AWS 매출 39% 급증…현금흐름은 악화",
+          "link": "https://www.etnews.com/20261030000006",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "MS, AI 투자 확대로 9년 만에 회사채 33조원 발행",
+          "link": "https://www.etnews.com/20261030000005",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "인텔, 3분기 매출 21% 증가…PC 둔화로 4분기 전망은 하향",
+          "link": "https://www.etnews.com/20261030000003",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "간행물": [
+        {
+          "title": "[26-29] 독일, 「EU 사이버복원력법 이행법」(안) 연방하원 통과 ('26.10.15)",
+          "link": "https://www.kisa.or.kr/20201/form?postSeq=299&page=1",
+          "category": "간행물",
+          "score": 5
+        },
+        {
+          "title": "2026 개인정보 이슈 심층 분석 보고서(VOL.4) - 의료데이터 보호 및 활용",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=490&page=1",
+          "category": "간행물",
+          "score": 3
+        },
+        {
+          "title": "[디지털서비스 이슈리포트2026-10] EU와 일본의 새로운 소버린 클라우드 정책",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=30148&parentSeq=30148",
+          "category": "간행물",
+          "score": 4
+        }
+      ]
+    }
   }
 }
