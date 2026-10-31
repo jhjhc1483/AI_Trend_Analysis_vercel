@@ -35235,5 +35235,89 @@
       ]
     },
     "briefing": "- 칭화대 연구진이 사람의 눈과 AI 탐지기를 동시에 교란할 수 있는 문어 모방형 AI 위장 기술을 구현했습니다.\n- T4 로보틱스가 실전 환경에서의 방공 기술 확보를 목표로 AI 자율 드론 요격기 개발에 착수했습니다.\n- 이노테나와 모티프테크놀로지스가 군 보안 등급을 고려한 폐쇄망 전용 AI 문서중앙화 솔루션 개발을 추진합니다."
+  },
+  "26.11.01": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42523",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "AI 에이전트가 사이버공격 속도 바꿨다…구글, 계정 탈취 후 최단 15분 만에 내부 침투 확인",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42518",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216837",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216847",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216844",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 ＇피지컬 AI 감각＇ 확장",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42522",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "샘 올트먼, 삼성 사장단 50여 명과 전격 회동…AI가 바꿀 10년, 미래 경영 전략 논의",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42520",
+          "category": "민간",
+          "score": 5
+        },
+        {
+          "title": "AI 보안 경쟁 축 ＇탐지→자동 대응＇…시장 성장도 가속",
+          "link": "https://www.etnews.com/20261031000030",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 논의",
+          "link": "https://www.etnews.com/20261031000037",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "“AI 모델 고르는 고민 없앤다”…깃허브가 ＇퓨전＇ 만든 이유",
+          "link": "https://www.etnews.com/20261031000001",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "기관": [
+        {
+          "title": "[의정 브리프] AI 데이터센터 전력망 정비·산업용 전기요금 개선 필요",
+          "link": "https://www.etnews.com/20261031000029",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "기타": [
+        {
+          "title": "“AI 때문에 인류 멸종할 수도”… 퇴직연금 저축 멈췄다는 구글 출신 연구자",
+          "link": "https://www.etnews.com/20261031000012",
+          "category": "기타",
+          "score": 3
+        }
+      ]
+    }
   }
 }

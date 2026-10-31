@@ -1,85 +1,45 @@
-📢26.10.31 AI 일일 동향📢
+📢26.11.01 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 문어처럼 색 바꾸는 AI 위장 기술, 사람 눈·AI 탐지기 동시 교란…칭화대, 0.4초 환경 적응 구현
-https://www.aitimes.kr/news/articleView.html?idxno=42516
-
-◾ T4 로보틱스, 우크라이나서 AI 자율 드론 요격기 개발 착수…실전 환경 기반 방공 기술 확보 나서
-https://www.aitimes.kr/news/articleView.html?idxno=42504
-
 [민간]
-◾ 오픈AI, AI 행동 원칙 전면 개편…지시 따르는 AI 넘어 인간 의도 이해하는 AI로
-https://www.aitimes.kr/news/articleView.html?idxno=42515
+◾ “AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 ＇피지컬 AI 감각＇ 확장
+https://www.aitimes.kr/news/articleView.html?idxno=42522
 
-◾ 아마존 앤디 재시 CEO, “AWS, 향후 2년간 40% 이상 성장”…AI 인프라 투자 성과 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=42511
+◾ 샘 올트먼, 삼성 사장단 50여 명과 전격 회동…AI가 바꿀 10년, 미래 경영 전략 논의
+https://www.aitimes.kr/news/articleView.html?idxno=42520
 
-◾ 엔비디아, 네이버 3대 주주로…1.3조 다음 달 6일 납입
-https://www.aitimes.com/news/articleView.html?idxno=216835
+◾ AI 보안 경쟁 축 ＇탐지→자동 대응＇…시장 성장도 가속
+https://www.etnews.com/20261031000030
 
-◾ 오픈AI·앤트로픽·구글 “AI 에이전트 확산에 보안·권한 관리 문제 커져”
-https://www.etnews.com/20261030000002
+◾ 최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 논의
+https://www.etnews.com/20261031000037
 
-◾ 현대차그룹, 새만금 9조 AI 밸리 본격화…데이터센터 착수·현장사무소 개소
-https://www.etnews.com/20261030000197
-
-◾ 인스타 사진으로 만드는 ＇AI 가상 옷장＇…메타, ＇스타일 스케치＇ 출시
-https://www.etnews.com/20261030000022
-
-◾ 클립아트코리아, 챗GPT·클로드 연동 AI 이미지 검색 서비스 출시
-https://www.etnews.com/20261030000021
-
-◾ 이노테나-모티프테크놀로지스, 폐쇄망 AI 문서중앙화 솔루션 공동 개발
-https://www.etnews.com/20261030000014
-
-◾ 위세아이텍-아이노션, AI 플랫폼 해외 시장 진출 협력
-https://www.etnews.com/20261030000016
+◾ “AI 모델 고르는 고민 없앤다”…깃허브가 ＇퓨전＇ 만든 이유
+https://www.etnews.com/20261031000001
 
 [기관]
-◾ 한국-독일, 산업용 AI·반도체·로봇 협력 본격화…메르츠 총리, 첨단기술 동맹 강조
-https://www.aitimes.kr/news/articleView.html?idxno=42507
-
-◾ 국방·미래산업의 핵심 화합물반도체, 국내 기술이 양산까지 닿도록...산학연과 밑그림
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187904&searchOpt=ALL&searchTxt=
-
-◾ 제5차 한-캐나다 과학기술혁신공동위 개최…“AI·양자 협력 강화”
-https://www.etnews.com/20261030000153
+◾ [의정 브리프] AI 데이터센터 전력망 정비·산업용 전기요금 개선 필요
+https://www.etnews.com/20261031000029
 
 [해외]
-◾ 캐나다, 국가 AI 주권 확보에 승부수...코히어에 최대 1.5조원 지분 투자
-https://www.aitimes.kr/news/articleView.html?idxno=42498
+◾ “AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화
+https://www.aitimes.kr/news/articleView.html?idxno=42523
 
-◾ 앤트로픽, ＇클로드＇ 자기 대화 감시 기술 도입…유해 사용 78% 탐지
-https://www.aitimes.com/news/articleView.html?idxno=216824
+◾ AI 에이전트가 사이버공격 속도 바꿨다…구글, 계정 탈취 후 최단 15분 만에 내부 침투 확인
+https://www.aitimes.kr/news/articleView.html?idxno=42518
 
-◾ 앤트로픽, 스페이스X 매출 34.5% 차지…미 정부 넘어 최대 고객
-https://www.aitimes.com/news/articleView.html?idxno=216822
+◾ 구글, 우주 데이터센터 위성에서 첫 AI 추론 성공…시 생성해 지구 전송
+https://www.aitimes.com/news/articleView.html?idxno=216837
 
-◾ 코히어, 캐나다 정부 1.5조원 투자 유치…시리즈E 마감 수순
-https://www.etnews.com/20261030000358
+◾ 오픈AI, 청소년 챗GPT 무기 정보 제한...폭력 징후 땐 대화 중단
+https://www.aitimes.com/news/articleView.html?idxno=216847
 
-◾ 젠슨 황과 긴밀한 관계…“곁에 있던 그녀, 엔비디아 정보 노린 中 스파이였다”
-https://www.etnews.com/20261030000011
+◾ 중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서
+https://www.aitimes.com/news/articleView.html?idxno=216844
 
-◾ 아마존, AWS 매출 39% 급증…현금흐름은 악화
-https://www.etnews.com/20261030000006
-
-◾ MS, AI 투자 확대로 9년 만에 회사채 33조원 발행
-https://www.etnews.com/20261030000005
-
-◾ 인텔, 3분기 매출 21% 증가…PC 둔화로 4분기 전망은 하향
-https://www.etnews.com/20261030000003
-
-📚 간행물
-◾ [26-29] 독일, 「EU 사이버복원력법 이행법」(안) 연방하원 통과 ('26.10.15)
-https://www.kisa.or.kr/20201/form?postSeq=299&page=1
-
-◾ 2026 개인정보 이슈 심층 분석 보고서(VOL.4) - 의료데이터 보호 및 활용
-https://www.kisa.or.kr/20202/form?postSeq=490&page=1
-
-◾ [디지털서비스 이슈리포트2026-10] EU와 일본의 새로운 소버린 클라우드 정책
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99863&bcIdx=30148&parentSeq=30148
+[기타]
+◾ “AI 때문에 인류 멸종할 수도”… 퇴직연금 저축 멈췄다는 구글 출신 연구자
+https://www.etnews.com/20261031000012
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
