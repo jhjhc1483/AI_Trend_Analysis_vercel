@@ -35238,13 +35238,51 @@
   },
   "26.11.01": {
     "categorized": {
-      "해외": [
+      "민간": [
         {
           "title": "“AI 에이전트가 저지른 잘못도 기업 책임이다”…영국 규제기관 4곳, 자율 AI 법적 책임 명확화",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42523",
-          "category": "해외",
+          "category": "민간",
           "score": 4
         },
+        {
+          "title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 ＇피지컬 AI 감각＇ 확장",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42522",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "샘 올트먼, 삼성 사장단 50여 명과 전격 회동…AI가 바꿀 10년, 미래 경영 전략 논의",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42520",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "AI 보안 경쟁 축 ＇탐지→자동 대응＇…시장 성장도 가속",
+          "link": "https://www.etnews.com/20261031000030",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 논의",
+          "link": "https://www.etnews.com/20261031000037",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "깃허브 부사장 “AI가 개발자 대체? 오히려 늘어날 것”",
+          "link": "https://www.etnews.com/20261031000002",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "“AI 모델 고르는 고민 없앤다”…깃허브가 ＇퓨전＇ 만든 이유",
+          "link": "https://www.etnews.com/20261031000001",
+          "category": "민간",
+          "score": 3
+        }
+      ],
+      "해외": [
         {
           "title": "AI 에이전트가 사이버공격 속도 바꿨다…구글, 계정 탈취 후 최단 15분 만에 내부 침투 확인",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42518",
@@ -35267,38 +35305,6 @@
           "title": "중국 GPU, 엔비디아 H200과 성능 대등 주장…AI 추론서 일부 앞서",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216844",
           "category": "해외",
-          "score": 4
-        }
-      ],
-      "민간": [
-        {
-          "title": "“AI 로봇에 후각까지 장착한다”…에이노스, 화학 데이터 30억 건 확보 ＇피지컬 AI 감각＇ 확장",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42522",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "샘 올트먼, 삼성 사장단 50여 명과 전격 회동…AI가 바꿀 10년, 미래 경영 전략 논의",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42520",
-          "category": "민간",
-          "score": 5
-        },
-        {
-          "title": "AI 보안 경쟁 축 ＇탐지→자동 대응＇…시장 성장도 가속",
-          "link": "https://www.etnews.com/20261031000030",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "최태원 SK그룹 회장, 샘 올트먼과 오찬 회동…AI 협력 논의",
-          "link": "https://www.etnews.com/20261031000037",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "“AI 모델 고르는 고민 없앤다”…깃허브가 ＇퓨전＇ 만든 이유",
-          "link": "https://www.etnews.com/20261031000001",
-          "category": "민간",
           "score": 3
         }
       ],
@@ -35309,16 +35315,7 @@
           "category": "기관",
           "score": 4
         }
-      ],
-      "기타": [
-        {
-          "title": "“AI 때문에 인류 멸종할 수도”… 퇴직연금 저축 멈췄다는 구글 출신 연구자",
-          "link": "https://www.etnews.com/20261031000012",
-          "category": "기타",
-          "score": 3
-        }
       ]
-    },
-    "briefing": "- 구글은 AI 에이전트가 단 15분 만에 계정을 탈취해 내부망에 침투하는 등 사이버 공격의 속도를 극도로 높이고 있다고 경고했습니다.\n- 영국 규제기관들은 AI 에이전트가 초래한 피해에 대해 해당 기업이 법적 책임을 져야 한다는 원칙을 명확히 할 필요성을 제기했습니다.\n- 오픈AI는 청소년 사용자가 챗GPT를 통해 무기 제조 정보를 얻지 못하도록 차단하고, 폭력적 징후 탐지 시 대화를 중단하는 보호 조치를 강화했습니다."
+    }
   }
 }
