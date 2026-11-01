@@ -35318,5 +35318,207 @@
       ]
     },
     "briefing": "- 영국 규제기관이 AI 에이전트의 잘못에 대해 기업이 법적 책임을 져야 한다는 입장을 명확히 했습니다.\n- 구글의 조사 결과, AI 에이전트를 활용한 사이버 공격 시 내부 침투까지 걸리는 시간이 15분으로 단축된 것이 확인되었습니다.\n- 중국 측이 자국산 GPU가 엔비디아의 H200과 대등한 성능을 보이며 일부 추론 영역에서는 앞선다고 주장했습니다."
+  },
+  "26.11.02": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "국방 AI 활용 아이디어 왕중왕 가렸다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261102/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=wE2Yw6jNxpztBCP2aRKsm9LQR2rwFSqEUsf7mLPAck6CZAGcl3Uv!-825262916",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "AI 일상화 시대, 미래 인재 양성 논의",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261102/7/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=wE2Yw6jNxpztBCP2aRKsm9LQR2rwFSqEUsf7mLPAck6CZAGcl3Uv!-825262916",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "체이널리시스, “올해 가상자산 해킹 피해액 89% 北 연계 추정”",
+          "link": "https://www.etnews.com/20261101000094",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "北 사이버 인해전술, AI 만나 공격력 증폭",
+          "link": "https://www.etnews.com/20261101000070",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "육군": [
+        {
+          "title": "육군, 단순·반복 업무 자동화 속도 높인다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261102/10/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=wE2Yw6jNxpztBCP2aRKsm9LQR2rwFSqEUsf7mLPAck6CZAGcl3Uv!-825262916",
+          "category": "육군",
+          "score": 4
+        },
+        {
+          "title": "육군교육사, 무인체계 효과적 운용 방안 논의",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261102/11/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=wE2Yw6jNxpztBCP2aRKsm9LQR2rwFSqEUsf7mLPAck6CZAGcl3Uv!-825262916",
+          "category": "육군",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "AI가 과거 대화의 의미까지 찾아낸다…카카오, 한국어 특화 임베딩 모델 2종 오픈소스 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42530",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "SK텔레콤, AI 에이전트 1500개 실무 투입…조직 전체 바꾸는 ＇AX 혁신 2.0＇ 본격화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42526",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "삼성 사장단 50명 만난 알트먼 〃AI 활용 속도가 기업 경쟁력 결정〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216852",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "[정유신의 핀테크스토리]AI 에이전트가 여는 금융의 ＇생산성 혁명＇",
+          "link": "https://www.etnews.com/20261101000068",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "깃허브, 韓 반도체·자동차 산업 AI 개발 수요 정조준",
+          "link": "https://www.etnews.com/20261101000002",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "399달러 오리 로봇만이 아니다…저가형 피지컬AI 로봇 잇단 등장",
+          "link": "https://www.etnews.com/20261101000058",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "HD현대로보틱스, 팔란티어와 ＇피지컬 AI 솔루션＇ 고도화",
+          "link": "https://www.etnews.com/20261101000054",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "SKT ＇AX 2.0＇ 선언…“AI 에이전트, 조직 성과 중심으로 재편”",
+          "link": "https://www.etnews.com/20261031000044",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "[르포] AI가 전력 관리하고 장애 예측…KT클라우드 AI 데이터센터 시동",
+          "link": "https://www.etnews.com/20261101000005",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "샘 올트먼 오픈AI CEO, 삼성·SK 회동…AI·반도체 협력 강화",
+          "link": "https://www.etnews.com/20261031000056",
+          "category": "민간",
+          "score": 5
+        }
+      ],
+      "기관": [
+        {
+          "title": "서울시·서울대, 피지컬 AI 생활로봇 실증 본격화…서울 AI 허브에 전용 거점 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42529",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "김세웅 전 카카오 AI 부사장 ＇국민AI서비스혁신추진단장＇ 선임...과기정통부, 공공 AI 개발 본격화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42528",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "한국은행, 직원 PC 장악·정보유출 가정한 모의해킹…AI 업무망 시험대",
+          "link": "https://www.etnews.com/20261030000198",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "국세청, 11월 자체 인프라 기반 AI 서비스 개시…24시간 세무상담",
+          "link": "https://www.etnews.com/20261101000041",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "정부 ＇온AI＇ 기능 확대…업무망서 검색·보고서 작성 지원",
+          "link": "https://www.etnews.com/20261101000083",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "과기정통부, 김세웅 카카오 부사장 ＇국민AI서비스혁신추진단장＇ 선임",
+          "link": "https://www.etnews.com/20261030000362",
+          "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "금오공대, AI 지능혁신대학원사업단 발대식…AX 이끌 석·박사급 인재 양성 본격 착수",
+          "link": "https://www.etnews.com/20261101000014",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "구글, 인터넷 없이 작동하는 ＇제미나이 라이브＇ 개발 중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216841",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "딥시크, 코딩 ＇슈퍼 에이전트＇ 공개…6개월 만에 추격 기반 구축",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216865",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "MIT, AI 모델끼리 글 없이 소통하는 ‘스웜 텔레파시’ 개발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216860",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "메타, 중국 푸리에와 휴머노이드 로봇 개발...가정용 시장 진출 추진",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216857",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "〃AI 뉴런 2개 조작했더니 인간 증오하는 악당으로〃…내부 구조 해독 활발",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216861",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽 〃AI가 안전 감시 피하는 학습 데이터 스스로 발견〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216859",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글 〃AI 경제 혁명, 똑똑한 모델보다 협력하는 에이전트가 이끈다〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216855",
+          "category": "해외",
+          "score": 3
+        }
+      ],
+      "기타": [
+        {
+          "title": "[사설] 피지컬AI로봇 대중화 빨리 가자",
+          "link": "https://www.etnews.com/20261030000322",
+          "category": "기타",
+          "score": 3
+        }
+      ]
+    }
   }
 }
