@@ -9,37 +9,13 @@
     "title": "AI 시대 전장환경 변화 맞춰…정예장교 양성 방안을 찾다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20261103/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=A06ek63xovof9JxpuyjzybzymqZS1D4A5igabEo7m8vhsSKdyRUE!-825262916",
     "category": "국방",
-    "score": 5
+    "score": 4
   },
   {
     "title": "AI 값어치, 얼마나 알맞게 믿느냐에 달렸다",
     "link": "https://kookbang.dema.mil.kr/newsWeb/20261103/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=A06ek63xovof9JxpuyjzybzymqZS1D4A5igabEo7m8vhsSKdyRUE!-825262916",
     "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "국가 드론 산업 통합·조정 기구 출범",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261103/8/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=A06ek63xovof9JxpuyjzybzymqZS1D4A5igabEo7m8vhsSKdyRUE!-825262916",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "세계 10위권 성능 갖춘 국산 슈퍼컴 12월 가동",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261103/7/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=A06ek63xovof9JxpuyjzybzymqZS1D4A5igabEo7m8vhsSKdyRUE!-825262916",
-    "category": "기관",
     "score": 3
-  },
-  {
-    "title": "식음료 제조기업 90% AI 도입 추진하지만 데이터 활용은 45%…로크웰, 전사 확산 과제 제시",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42552",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "5G 기지국이 드론 잡는 레이더로 변신…에릭슨, 통신망의 상식 뒤집었다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42550",
-    "category": "민간",
-    "score": 4
   },
   {
     "title": "아마존 자체 AI 반도체 수요 폭증…그라비톤·트레이니움 계약 규모 20배 이상 증가",
@@ -54,16 +30,10 @@
     "score": 4
   },
   {
-    "title": "美 중간선거 “AI가 누구를 찍으라고 답할까”…MIT, 챗봇의 선거 정보 편향 실시간 추적",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42545",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "구자균 LS일렉트릭 회장 “AI 데이터센터 전력난, 지능형 직류 배전이 해법”",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42544",
+    "title": "LG CNS, 인도네시아에 30MW ＇AI 데이터센터＇ 완공…400MW 확장 추진",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42546",
     "category": "민간",
-    "score": 3
+    "score": 4
   },
   {
     "title": "보험설계사 상담 훈련도 AI 고객이 맡는다…딥브레인AI, 삼성화재에 실전 교육 시스템 구축",
@@ -75,12 +45,6 @@
     "title": "네이버 최수연 대표, “산업 AI의 진짜 승부는 중소기업 확산”…지멘스와 피지컬 AI 협력 모색",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42536",
     "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "마이크로소프트 AI 최고책임자 술레이만, “의식 가진 초지능 만들지 말라”…의식 나타나면 AI 개발 중단 촉구",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42535",
-    "category": "해외",
     "score": 4
   },
   {
@@ -99,7 +63,7 @@
     "title": "AI 시대 전장환경 변화 맞춰…정예장교 양성 방안을 찾다",
     "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMzk5MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
     "category": "국방",
-    "score": 5
+    "score": 4
   },
   {
     "title": "국방부, 「2026 국방AI 활용 아이디어 챔피언십」 개최",
@@ -120,6 +84,12 @@
     "score": 5
   },
   {
+    "title": "[이슈플러스] 北 사이버 인해전술에 AI 가세…해킹 전 과정 고도화",
+    "link": "https://www.etnews.com/20261102000368",
+    "category": "국방",
+    "score": 4
+  },
+  {
     "title": "표준과 지식재산(특허)으로 여는 피지컬 AI 시대, 글로벌 주도권 확보 나선다",
     "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187912&searchOpt=ALL&searchTxt=",
     "category": "기관",
@@ -132,10 +102,10 @@
     "score": 4
   },
   {
-    "title": "과기정통부, 국민 AI 서비스 혁신추진단장에 김세웅 전 카카오 부사장 선임",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216898",
+    "title": "국가 슈퍼컴 6호기 ＇한강＇ 가동…AI 기반 과학기술 혁신 지원",
+    "link": "https://www.etnews.com/20261102000300",
     "category": "기관",
-    "score": 3
+    "score": 4
   },
   {
     "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”",
@@ -144,32 +114,14 @@
     "score": 4
   },
   {
-    "title": "국가 슈퍼컴 6호기 ＇한강＇ 가동…AI 기반 과학기술 혁신 지원",
-    "link": "https://www.etnews.com/20261102000300",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "靑, AI비서관 교체…이지수 전 삼성전자 상무 영입",
-    "link": "https://www.etnews.com/20261102000267",
-    "category": "기관",
-    "score": 3
-  },
-  {
     "title": "李, 첨단산업 성장 시대 연다…반도체·AI ＇21.3조＇ R&D ＇39.5조＇ 투자",
     "link": "https://www.etnews.com/20261102000209",
     "category": "기관",
     "score": 4
   },
   {
-    "title": "앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216891",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216915",
+    "title": "뉴럴링크, 실명 치료용 뇌 임플란트 ‘블라인드사이트’ 규제 승인 대기 중",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216903",
     "category": "해외",
     "score": 4
   },
@@ -180,20 +132,8 @@
     "score": 3
   },
   {
-    "title": "뉴럴링크, 실명 치료용 뇌 임플란트 ‘블라인드사이트’ 규제 승인 대기 중",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216903",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "[이슈플러스] 北 사이버 인해전술에 AI 가세…해킹 전 과정 고도화",
-    "link": "https://www.etnews.com/20261102000368",
-    "category": "해외",
-    "score": 5
-  },
-  {
-    "title": "〃AI를 통제하라〃…국내 솔루션 기업, AI 가드레일 시장 잰걸음",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216914",
+    "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216915",
     "category": "민간",
     "score": 3
   },
@@ -201,7 +141,7 @@
     "title": "한화오션, AI로 생산관리 혁신…자회사 스마트 생산 체계 구축",
     "link": "https://www.etnews.com/20261102000288",
     "category": "민간",
-    "score": 4
+    "score": 3
   },
   {
     "title": "이수페타시스, AI가속기용 고성능 PCB 제조시설 5000억 원 투자",
@@ -213,11 +153,11 @@
     "title": "삼성, 영남권 60조원 투자 첫발…구미 60㎿ AI 데이터센터 착공",
     "link": "https://www.etnews.com/20261102000077",
     "category": "민간",
-    "score": 4
+    "score": 3
   },
   {
-    "title": "류재철 LG전자 대표 “AI 홈 다음 표준은 ＇돌봄＇…고객 시간과 노력 아껴야”",
-    "link": "https://www.etnews.com/20261102000268",
+    "title": "자율제조 핵심은 ＇상호운용성＇…GISC 10주년, 피지컬 AI 표준화 논의 이끈다",
+    "link": "https://www.etnews.com/20261102000343",
     "category": "민간",
     "score": 3
   },
