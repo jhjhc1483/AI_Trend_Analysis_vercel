@@ -20,6 +20,9 @@ https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTM
 ◾ 국방부, 「2026 국방AI 활용 아이디어 챔피언십」 개최
 https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyMzk1NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
+◾ [이슈플러스] 北 사이버 인해전술에 AI 가세…해킹 전 과정 고도화
+https://www.etnews.com/20261102000368
+
 ◾ 스페이스뱅크, 공군 AX 거점 개소식에서 ＇국방 AX를 위한 피지컬 AI 발전 전략＇ 제시
 https://www.etnews.com/20261102000185
 
@@ -34,20 +37,14 @@ https://www.aitimes.com/news/articleView.html?idxno=216917
 https://www.etnews.com/20261102000316
 
 [민간]
-◾ 식음료 제조기업 90% AI 도입 추진하지만 데이터 활용은 45%…로크웰, 전사 확산 과제 제시
-https://www.aitimes.kr/news/articleView.html?idxno=42552
-
-◾ 5G 기지국이 드론 잡는 레이더로 변신…에릭슨, 통신망의 상식 뒤집었다
-https://www.aitimes.kr/news/articleView.html?idxno=42550
-
 ◾ 아마존 자체 AI 반도체 수요 폭증…그라비톤·트레이니움 계약 규모 20배 이상 증가
 https://www.aitimes.kr/news/articleView.html?idxno=42549
 
 ◾ 삼성SDS, 구미에 120MW급 ＇AI 데이터센터＇ 착공...4,273억원 투자해 2028년 말 준공
 https://www.aitimes.kr/news/articleView.html?idxno=42547
 
-◾ 구자균 LS일렉트릭 회장 “AI 데이터센터 전력난, 지능형 직류 배전이 해법”
-https://www.aitimes.kr/news/articleView.html?idxno=42544
+◾ LG CNS, 인도네시아에 30MW ＇AI 데이터센터＇ 완공…400MW 확장 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42546
 
 ◾ 보험설계사 상담 훈련도 AI 고객이 맡는다…딥브레인AI, 삼성화재에 실전 교육 시스템 구축
 https://www.aitimes.kr/news/articleView.html?idxno=42539
@@ -55,8 +52,8 @@ https://www.aitimes.kr/news/articleView.html?idxno=42539
 ◾ 네이버 최수연 대표, “산업 AI의 진짜 승부는 중소기업 확산”…지멘스와 피지컬 AI 협력 모색
 https://www.aitimes.kr/news/articleView.html?idxno=42536
 
-◾ 〃AI를 통제하라〃…국내 솔루션 기업, AI 가드레일 시장 잰걸음
-https://www.aitimes.com/news/articleView.html?idxno=216914
+◾ MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지
+https://www.aitimes.com/news/articleView.html?idxno=216915
 
 ◾ 한화오션, AI로 생산관리 혁신…자회사 스마트 생산 체계 구축
 https://www.etnews.com/20261102000288
@@ -67,8 +64,8 @@ https://www.etnews.com/20261102000386
 ◾ 삼성, 영남권 60조원 투자 첫발…구미 60㎿ AI 데이터센터 착공
 https://www.etnews.com/20261102000077
 
-◾ 류재철 LG전자 대표 “AI 홈 다음 표준은 ＇돌봄＇…고객 시간과 노력 아껴야”
-https://www.etnews.com/20261102000268
+◾ 자율제조 핵심은 ＇상호운용성＇…GISC 10주년, 피지컬 AI 표준화 논의 이끈다
+https://www.etnews.com/20261102000343
 
 ◾ 크래프톤, 사회적 지능 갖춘 로봇 AI ＇루디 0.2＇ 공개…게임 AI 현실로 확장
 https://www.etnews.com/20261102000143
@@ -77,12 +74,6 @@ https://www.etnews.com/20261102000143
 https://www.etnews.com/20261102000106
 
 [기관]
-◾ 국가 드론 산업 통합·조정 기구 출범
-https://kookbang.dema.mil.kr/newsWeb/20261103/8/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=A06ek63xovof9JxpuyjzybzymqZS1D4A5igabEo7m8vhsSKdyRUE!-825262916
-
-◾ 세계 10위권 성능 갖춘 국산 슈퍼컴 12월 가동
-https://kookbang.dema.mil.kr/newsWeb/20261103/7/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=A06ek63xovof9JxpuyjzybzymqZS1D4A5igabEo7m8vhsSKdyRUE!-825262916
-
 ◾ 공무원 업무망에 AI 웹검색·보고서 작성 도입…정부, 행정업무 AI 전환 본격화
 https://www.aitimes.kr/news/articleView.html?idxno=42533
 
@@ -92,17 +83,11 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 국가 슈퍼컴퓨터 6호기 ‘한강’ 본격 가동
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187910&searchOpt=ALL&searchTxt=
 
-◾ 과기정통부, 국민 AI 서비스 혁신추진단장에 김세웅 전 카카오 부사장 선임
-https://www.aitimes.com/news/articleView.html?idxno=216898
-
-◾ 김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”
-https://www.etnews.com/20261102000387
-
 ◾ 국가 슈퍼컴 6호기 ＇한강＇ 가동…AI 기반 과학기술 혁신 지원
 https://www.etnews.com/20261102000300
 
-◾ 靑, AI비서관 교체…이지수 전 삼성전자 상무 영입
-https://www.etnews.com/20261102000267
+◾ 김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”
+https://www.etnews.com/20261102000387
 
 ◾ 李, 첨단산업 성장 시대 연다…반도체·AI ＇21.3조＇ R&D ＇39.5조＇ 투자
 https://www.etnews.com/20261102000209
@@ -111,26 +96,11 @@ https://www.etnews.com/20261102000209
 https://www.etnews.com/20261102000148
 
 [해외]
-◾ 美 중간선거 “AI가 누구를 찍으라고 답할까”…MIT, 챗봇의 선거 정보 편향 실시간 추적
-https://www.aitimes.kr/news/articleView.html?idxno=42545
-
-◾ 마이크로소프트 AI 최고책임자 술레이만, “의식 가진 초지능 만들지 말라”…의식 나타나면 AI 개발 중단 촉구
-https://www.aitimes.kr/news/articleView.html?idxno=42535
-
-◾ 앤트로픽, 내부 AI 토큰 비용이 직원 급여 추월…9개월 새 사용량 250배 급증
-https://www.aitimes.com/news/articleView.html?idxno=216891
-
-◾ MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지
-https://www.aitimes.com/news/articleView.html?idxno=216915
-
-◾ 시스코, 27세 엔지니어에게 AI 토큰 무제한 제공…2년 내 기존 코드 98% 재작성
-https://www.aitimes.com/news/articleView.html?idxno=216918
-
 ◾ 뉴럴링크, 실명 치료용 뇌 임플란트 ‘블라인드사이트’ 규제 승인 대기 중
 https://www.aitimes.com/news/articleView.html?idxno=216903
 
-◾ [이슈플러스] 北 사이버 인해전술에 AI 가세…해킹 전 과정 고도화
-https://www.etnews.com/20261102000368
+◾ 시스코, 27세 엔지니어에게 AI 토큰 무제한 제공…2년 내 기존 코드 98% 재작성
+https://www.aitimes.com/news/articleView.html?idxno=216918
 
 ◾ 65개국 중앙은행, AI 활용 확대…보안·비용은 과제
 https://www.etnews.com/20261030000192
