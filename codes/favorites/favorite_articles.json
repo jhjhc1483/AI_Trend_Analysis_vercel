@@ -1,206 +1,356 @@
 [
   {
-    "title": "국방드론본부 첫발…전력·기술혁신 주도",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261103/10/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=A06ek63xovof9JxpuyjzybzymqZS1D4A5igabEo7m8vhsSKdyRUE!-825262916",
-    "category": "국방",
-    "score": 5
-  },
-  {
-    "title": "AI 시대 전장환경 변화 맞춰…정예장교 양성 방안을 찾다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261103/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=A06ek63xovof9JxpuyjzybzymqZS1D4A5igabEo7m8vhsSKdyRUE!-825262916",
-    "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "AI 값어치, 얼마나 알맞게 믿느냐에 달렸다",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261103/1/ATCE_CTGR_0020010031/view.do;JSESSIONID_kookbnagWEB=A06ek63xovof9JxpuyjzybzymqZS1D4A5igabEo7m8vhsSKdyRUE!-825262916",
-    "category": "국방",
-    "score": 3
-  },
-  {
-    "title": "아마존 자체 AI 반도체 수요 폭증…그라비톤·트레이니움 계약 규모 20배 이상 증가",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42549",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "삼성SDS, 구미에 120MW급 ＇AI 데이터센터＇ 착공...4,273억원 투자해 2028년 말 준공",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42547",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "LG CNS, 인도네시아에 30MW ＇AI 데이터센터＇ 완공…400MW 확장 추진",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42546",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "보험설계사 상담 훈련도 AI 고객이 맡는다…딥브레인AI, 삼성화재에 실전 교육 시스템 구축",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42539",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "네이버 최수연 대표, “산업 AI의 진짜 승부는 중소기업 확산”…지멘스와 피지컬 AI 협력 모색",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42536",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "공무원 업무망에 AI 웹검색·보고서 작성 도입…정부, 행정업무 AI 전환 본격화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42533",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "국방드론본부 첫발…전력·기술혁신 주도",
-    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyMzk3OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방",
-    "score": 5
-  },
-  {
-    "title": "AI 시대 전장환경 변화 맞춰…정예장교 양성 방안을 찾다",
-    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyMzk5MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방",
-    "score": 4
-  },
-  {
-    "title": "국방부, 「2026 국방AI 활용 아이디어 챔피언십」 개최",
-    "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyMzk1NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "category": "국방",
-    "score": 5
-  },
-  {
-    "title": "[게시판] 네이버클라우드, 육군 군수사령부와 ‘실전용 AI 에이전트‘ 개발 등 단신",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216917",
+    "title": "사격자세 교정·잔반 분석 AI가 한다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261104/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916",
     "category": "육군",
     "score": 5
   },
   {
-    "title": "네이버클라우드, 육군 군수사령부와 맞손…＇실전형 AI 군수＇ 구축",
-    "link": "https://www.etnews.com/20261102000316",
+    "title": "육군·카카오 손잡고 미래 전투체계 고도화",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261104/12/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916",
     "category": "육군",
     "score": 5
   },
   {
-    "title": "[이슈플러스] 北 사이버 인해전술에 AI 가세…해킹 전 과정 고도화",
-    "link": "https://www.etnews.com/20261102000368",
+    "title": "“데이터 분석·예측으로 과학화군 도약”",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261104/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916",
     "category": "국방",
     "score": 4
   },
   {
-    "title": "표준과 지식재산(특허)으로 여는 피지컬 AI 시대, 글로벌 주도권 확보 나선다",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187912&searchOpt=ALL&searchTxt=",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "국가 슈퍼컴퓨터 6호기 ‘한강’ 본격 가동",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187910&searchOpt=ALL&searchTxt=",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "국가 슈퍼컴 6호기 ＇한강＇ 가동…AI 기반 과학기술 혁신 지원",
-    "link": "https://www.etnews.com/20261102000300",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "김정관 산업부 장관 “3대 메가프로젝트로 저성장 끊어내고 AI 강국으로 도약”",
-    "link": "https://www.etnews.com/20261102000387",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "李, 첨단산업 성장 시대 연다…반도체·AI ＇21.3조＇ R&D ＇39.5조＇ 투자",
-    "link": "https://www.etnews.com/20261102000209",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "뉴럴링크, 실명 치료용 뇌 임플란트 ‘블라인드사이트’ 규제 승인 대기 중",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216903",
-    "category": "해외",
-    "score": 4
-  },
-  {
-    "title": "시스코, 27세 엔지니어에게 AI 토큰 무제한 제공…2년 내 기존 코드 98% 재작성",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216918",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "MS, AI 코딩 비용 최대 31% 줄이는 도구 공개…작업 성공률은 유지",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=216915",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "한화오션, AI로 생산관리 혁신…자회사 스마트 생산 체계 구축",
-    "link": "https://www.etnews.com/20261102000288",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "이수페타시스, AI가속기용 고성능 PCB 제조시설 5000억 원 투자",
-    "link": "https://www.etnews.com/20261102000386",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "삼성, 영남권 60조원 투자 첫발…구미 60㎿ AI 데이터센터 착공",
-    "link": "https://www.etnews.com/20261102000077",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "자율제조 핵심은 ＇상호운용성＇…GISC 10주년, 피지컬 AI 표준화 논의 이끈다",
-    "link": "https://www.etnews.com/20261102000343",
-    "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "스페이스뱅크, 공군 AX 거점 개소식에서 ＇국방 AX를 위한 피지컬 AI 발전 전략＇ 제시",
-    "link": "https://www.etnews.com/20261102000185",
-    "category": "국방",
+    "title": "AI·네트워크 등 최신 민간 IT 육군 적용 방안 모색",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261104/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916",
+    "category": "육군",
     "score": 5
   },
   {
-    "title": "65개국 중앙은행, AI 활용 확대…보안·비용은 과제",
-    "link": "https://www.etnews.com/20261030000192",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "KAIST, AI 추가 학습 약 70% 단축...AI 개발 시간·비용 절감 기대",
-    "link": "https://www.etnews.com/20261102000148",
-    "category": "기관",
-    "score": 4
-  },
-  {
-    "title": "크래프톤, 사회적 지능 갖춘 로봇 AI ＇루디 0.2＇ 공개…게임 AI 현실로 확장",
-    "link": "https://www.etnews.com/20261102000143",
-    "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "라즈베리파이, AI 생태계 확장…“뇌 구조 닮은 뉴로모픽 AI 지원”",
-    "link": "https://www.etnews.com/20261102000117",
-    "category": "해외",
-    "score": 3
-  },
-  {
-    "title": "전북대, ＇방산AI 아이디어 경진대회＇ 개최…미래 방산 핵심인재 양성",
-    "link": "https://www.etnews.com/20261102000108",
+    "title": "참모부 기능·전술 편제 보강…드론작전 역량 강화한다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261104/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916",
     "category": "국방",
     "score": 4
   },
   {
-    "title": "구자균 LS일렉 회장, “AI 전력난 해법은 DC 기반의 지능형 전력망”",
-    "link": "https://www.etnews.com/20261102000106",
+    "title": "심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42570",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "로봇의 눈, 최대 5배 빨라졌다…펜실베이니아대, 초당 440회 시각 정보 처리하는 AI 개발",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42568",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "몬드리안AI, 검색부터 업무 배분까지 대신하는 개인 AI 비서 ‘런유어봇’ 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42567",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "산업부, 제조 AI 혁신 전국 산업현장으로 확산…245개 AI 팩토리 성과 기반 4단계 전략 가동",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42566",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "기계연, 휴머노이드에 ‘일하는 법’ 가르친다…국내 첫 AI 로봇 데이터 생산기지 구축",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42565",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "“AI가 오래 추론할수록 오진도 늘어난다”…칭화대, 의료 AI의 정확도·안전성 충돌 규명",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42564",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "팔란티어, AI 사업 폭발적 성장…3분기 매출 96% 급증, 미국 기업 매출 정부 부문 첫 추월",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42562",
+    "category": "해외",
+    "score": 5
+  },
+  {
+    "title": "앤트로픽, AI 인프라 지출 약정 8954억달러 공개…매출 12배 성장에도 비용 부담 급증",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42561",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "샘 올트먼 CEO, “AI 성장 최대 걸림돌은 전력이며, AI는 인간을 위해 존재해야”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42560",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "“유전 개발계획 수개월에서 수시간으로”…아드녹, 오픈AI·G42와 에너지 산업 AI 혁신 착수",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42559",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "“AI 에이전트도 신원 확인한다”…홍콩 금융당국, 자율 금융거래 감독체계 구축 착수",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42556",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "“회계감사도 AI 직원이 맡는다”…미국 클라크, 자율 감사 에이전트 출시",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42555",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "NC AI, 로봇의 ‘눈’ 될 초경량 피지컬 AI 모델 ‘배키 비전 3B’ 개발…글로벌 대형 모델 6종 제쳤다",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42554",
+    "category": "민간",
+    "score": 5
+  },
+  {
+    "title": "업스테이지 솔라 프로 4, 범정부 AI 공통기반 정식 탑재…행정망에서 국산 AI 활용 본격화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42553",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "“데이터 분석·예측으로 과학화군 도약”",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA4MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방",
+    "score": 4
+  },
+  {
+    "title": "AI·네트워크 등 최신 민간 IT 육군 적용 방안 모색",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA3OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군",
+    "score": 5
+  },
+  {
+    "title": "사격자세 교정·잔반 분석 AI가 한다",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA3NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군",
+    "score": 5
+  },
+  {
+    "title": "육군·카카오 손잡고 미래 전투체계 고도화",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA3NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군",
+    "score": 5
+  },
+  {
+    "title": "참모부 기능·전술 편제 보강…드론작전 역량 강화한다",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA3NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방",
+    "score": 4
+  },
+  {
+    "title": "휴머노이드가 ‘일하는 법’ 배우는 데이터 생산기지 문 연다",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187916&searchOpt=ALL&searchTxt=",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "“연결을 넘어, 인공지능 만드는 새로운 가치” 「2026 대한민국 지능형 사물인터넷 주간(2026 AIoT Week Korea)」 개막",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187914&searchOpt=ALL&searchTxt=",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 시동",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216906",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "머스크 〃그록 봇 운영 비용 감당 어려워〃...AI 에이전트 사용량 제한",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216942",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "딥시크, 자연어로 AI 에이전트 기능 확장…플러그인 제작까지 자동화",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216958",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "〃AI 도시, 현실이 되다!”… 화성시, AI엑스포 ＇MARS 2026＇ 팡파르",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216966",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "메이투안, 중국산 칩으로 학습한 1.6조 매개변수 ＇롱캣-2.5＇ 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216961",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216969",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "국가 슈퍼컴 6호기 ‘한강’ 가동…칩 1.8만개 탑재 세계 10위권 기대",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216948",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "SDT, AIDC ＇발열 해결사＇ 100kW 액침냉각 시스템 공개",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=216955",
     "category": "민간",
     "score": 3
+  },
+  {
+    "title": "팔란티어, 기업 AI 성장에 연매출 11조원대 전망…5000억 상향",
+    "link": "https://www.etnews.com/20261103000006",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "앤트로픽, 3분기 매출 24조원…전년비 12배 성장·영업적자 전환",
+    "link": "https://www.etnews.com/20261103000004",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "현대차 “당분간 외부 AI 사용마라”…해킹 우려에 ＇자율주행·로봇＇ 핵심부서 금지령",
+    "link": "https://www.etnews.com/20261103000455",
+    "category": "민간",
+    "score": 5
+  },
+  {
+    "title": "메가존클라우드, KAIST와 맞손…＇피지컬 AI＇ 표준화·글로벌 진출 협력",
+    "link": "https://www.etnews.com/20261103000403",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "기계연, ＇AI 휴머노이드 데이터 팩토리＇ 구축...휴머노이드 전용 데이터 생산",
+    "link": "https://www.etnews.com/20261103000377",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "한국성우협회-지음에이아이, AI 시대 성우 음성 권리 보호·상생 협력 맞손",
+    "link": "https://www.etnews.com/20261103000363",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "한중 피지컬 AI협력 시동… “조작 지능·범용성 필수”",
+    "link": "https://www.etnews.com/20261103000344",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "센티넬원, ＇클로드 코워크＇ 연동…AI 에이전트 활동 직접 감시",
+    "link": "https://www.etnews.com/20261103000335",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "휴머노이드가 ＇일하는 법＇ 배우는 데이터 팩토리 국내 첫 개소",
+    "link": "https://www.etnews.com/20261103000184",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "업스테이지 ＇솔라 프로 4＇ 범정부 AI 공통기반 탑재…행정망 국산 AI 활용",
+    "link": "https://www.etnews.com/20261103000312",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "NC AI, 경량 VLM ＇배키 비전 3B＇ 공개…피지컬 AI 시각 확보",
+    "link": "https://www.etnews.com/20261103000309",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "크라우드스트라이크-델, 엔비디아 AI 팩토리에 보안 플랫폼 통합",
+    "link": "https://www.etnews.com/20261103000304",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "산업부, ＇제조AI 4단계 확산전략＇ 발표",
+    "link": "https://www.etnews.com/20261103000241",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "건보공단, 113억원 규모 AX 고도화 사업 추진…AI 상담·업무비서 개선",
+    "link": "https://www.etnews.com/20261103000289",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "“상담 효율 30% 개선”… KT, AI 고객센터로 업무혁신 이끈다",
+    "link": "https://www.etnews.com/20261103000273",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "AI 홍수예보·＇숨은 물그릇＇ 10.4억톤…인명·재산 피해 최소화했다",
+    "link": "https://www.etnews.com/20261103000271",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "AIoT 혁신대상에 12개 기업·기관…아바드·둠둠 장관 표창",
+    "link": "https://www.etnews.com/20261103000268",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "국정원, 공공기관 2100여곳 긴급 보안점검 요청…핵심시설 직접 조사",
+    "link": "https://www.etnews.com/20261103000260",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "정재헌 SKT 대표 “AI로 생산성·경쟁력 제고”…사내 에이전트 우수작 발굴",
+    "link": "https://www.etnews.com/20261103000215",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "잇단 해킹에 李 “보안 체계 근본 혁신”…＇사이버 보안 차르＇ 검토 지시",
+    "link": "https://www.etnews.com/20261103000210",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "인사혁신처, 인사업무 특화 AI 시스템 첫 개발…업무 혁신 속도",
+    "link": "https://www.etnews.com/20261103000092",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "[AIoT 어워드2026] 세종대, AI 모델·데이터 관리 국제표준 개발",
+    "link": "https://www.etnews.com/20261103000177",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "[AIoT 어워드2026] 엔투엠, 온센서 AI 최적화 플랫폼 ＇오토옵 넥서스＇",
+    "link": "https://www.etnews.com/20261103000175",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "[AIoT 어워드2026] 윌콘에이아이, 멀티에이전트 기반 AI 플랫폼 ＇윙잉 빌더＇",
+    "link": "https://www.etnews.com/20261103000146",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "유라클, 기업 AI 서비스 통합 관리 플랫폼 ＇오르다 API 게이트웨이＇ 출시",
+    "link": "https://www.etnews.com/20261103000123",
+    "category": "민간",
+    "score": 4
   }
 ]
