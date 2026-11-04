@@ -1,191 +1,155 @@
-📢26.11.04 AI 일일 동향📢
+📢26.11.05 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ “데이터 분석·예측으로 과학화군 도약”
-https://kookbang.dema.mil.kr/newsWeb/20261104/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916
+◾ 군사 AI와 국제인도법적 책임 집중 조명
+https://kookbang.dema.mil.kr/newsWeb/20261105/17/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=JxSohhV9u9Jp_CTHREKviCcbFgebjYYioiwI9QIwh8PlZkfe6g8e!-825262916
 
-◾ 참모부 기능·전술 편제 보강…드론작전 역량 강화한다
-https://kookbang.dema.mil.kr/newsWeb/20261104/6/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916
+◾ AI로 무기체계 운용·정비 관리한다
+https://kookbang.dema.mil.kr/newsWeb/20261105/14/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=JxSohhV9u9Jp_CTHREKviCcbFgebjYYioiwI9QIwh8PlZkfe6g8e!-825262916
 
-◾ “데이터 분석·예측으로 과학화군 도약”
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA4MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ K2 전차·FA-50 정비에 ＇AI 에이전트＇ 투입…정부, 300억원 규모 군수 AI 개발 착수
+https://www.aitimes.kr/news/articleView.html?idxno=42586
 
-◾ 참모부 기능·전술 편제 보강…드론작전 역량 강화한다
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA3NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 국방부·산업통상부, 군수 빅데이터 기반 「RAM-C AI 에이전트」 기술개발
+https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNDE1MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 오픈AI, 전 미 육군 장관 영입...미군 AI 도입 확대에 국방 사업 강화
+https://www.aitimes.com/news/articleView.html?idxno=217001
 
 [육군]
-◾ 사격자세 교정·잔반 분석 AI가 한다
-https://kookbang.dema.mil.kr/newsWeb/20261104/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916
+◾ “AI 활용해 미래 첨단 육군 건설 속도”
+https://kookbang.dema.mil.kr/newsWeb/20261105/3/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=JxSohhV9u9Jp_CTHREKviCcbFgebjYYioiwI9QIwh8PlZkfe6g8e!-825262916
 
-◾ 육군·카카오 손잡고 미래 전투체계 고도화
-https://kookbang.dema.mil.kr/newsWeb/20261104/12/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916
-
-◾ AI·네트워크 등 최신 민간 IT 육군 적용 방안 모색
-https://kookbang.dema.mil.kr/newsWeb/20261104/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=J1CjUsPH-hw6a-njVgXf6bxOXD7gMi5E7pbJKgILKwMDjCNieCKs!-825262916
-
-◾ AI·네트워크 등 최신 민간 IT 육군 적용 방안 모색
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA3OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 사격자세 교정·잔반 분석 AI가 한다
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA3NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 육군·카카오 손잡고 미래 전투체계 고도화
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDA3NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 엘에스웨어, 육군 ＇IAMSEC 2026＇ 참가…“공급망 보안 강조”
+https://www.etnews.com/20261104000340
 
 [민간]
-◾ 몬드리안AI, 검색부터 업무 배분까지 대신하는 개인 AI 비서 ‘런유어봇’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42567
+◾ AI 데이터센터·반도체에 글로벌 자본 몰린다…외국기업 7곳, 한국에 20억달러 투자
+https://www.aitimes.kr/news/articleView.html?idxno=42591
 
-◾ NC AI, 로봇의 ‘눈’ 될 초경량 피지컬 AI 모델 ‘배키 비전 3B’ 개발…글로벌 대형 모델 6종 제쳤다
-https://www.aitimes.kr/news/articleView.html?idxno=42554
+◾ 수일 걸리던 플라스마 예측 밀리초로 단축....엔비디아, AI로 반도체 제조 시뮬레이션 최대 35배 가속
+https://www.aitimes.kr/news/articleView.html?idxno=42590
 
-◾ 삼성SDS, 구미 AI 데이터센터 착공…삼성 영남권 60조 투자 시동
-https://www.aitimes.com/news/articleView.html?idxno=216906
+◾ AI로 업무 생산성 높아졌지만 조직 성과는 제자리…기업 직원 83% 생산성 향상, 품질 개선은 56%
+https://www.aitimes.kr/news/articleView.html?idxno=42589
 
-◾ SDT, AIDC ＇발열 해결사＇ 100kW 액침냉각 시스템 공개
-https://www.aitimes.com/news/articleView.html?idxno=216955
+◾ 〃AI 초장문 처리 속도 최대 35배 높인다〃…자이프라, 새 어텐션 기술 공개
+https://www.aitimes.com/news/articleView.html?idxno=217008
 
-◾ 현대차 “당분간 외부 AI 사용마라”…해킹 우려에 ＇자율주행·로봇＇ 핵심부서 금지령
-https://www.etnews.com/20261103000455
+◾ 〃AI 현장 엔지니어 연봉 최대 19억원〃...기업들 FDE 확보 총력
+https://www.aitimes.com/news/articleView.html?idxno=217007
 
-◾ 한국성우협회-지음에이아이, AI 시대 성우 음성 권리 보호·상생 협력 맞손
-https://www.etnews.com/20261103000363
+◾ 오픈AI, 일상 업무 AI 평가 ＇라이프밸＇ 공개...개인 비서 성능 1년 새 49%→81%
+https://www.aitimes.com/news/articleView.html?idxno=216996
 
-◾ NC AI, 경량 VLM ＇배키 비전 3B＇ 공개…피지컬 AI 시각 확보
-https://www.etnews.com/20261103000309
+◾ AMD, 퓨리오사AI·망고부스트와 개방형 이기종 AI 인프라 MoU 체결
+https://www.etnews.com/20261104000464
 
-◾ “상담 효율 30% 개선”… KT, AI 고객센터로 업무혁신 이끈다
-https://www.etnews.com/20261103000273
+◾ SK하이닉스, 美 AI 투자·솔루션 사업 법인명 ＇HYAICO＇으로 결정
+https://www.etnews.com/20261104000422
 
-◾ 정재헌 SKT 대표 “AI로 생산성·경쟁력 제고”…사내 에이전트 우수작 발굴
-https://www.etnews.com/20261103000215
+◾ 온세미, 페릭 인수 계약 체결…＇AI 전력＇에 현금 6억달러를 투자
+https://www.etnews.com/20261104000407
 
-◾ [AIoT 어워드2026] 엔투엠, 온센서 AI 최적화 플랫폼 ＇오토옵 넥서스＇
-https://www.etnews.com/20261103000175
+◾ AMD, 개방형·이기종 AI 인프라 위해 한국 AI 반도체 스타트업과 협업
+https://www.etnews.com/20261104000394
 
-◾ [AIoT 어워드2026] 윌콘에이아이, 멀티에이전트 기반 AI 플랫폼 ＇윙잉 빌더＇
-https://www.etnews.com/20261103000146
+◾ 스노우플레이크, 자율형 AI 에이전트 공개…기업 업무 자동화 확대
+https://www.etnews.com/20261104000371
 
-◾ 유라클, 기업 AI 서비스 통합 관리 플랫폼 ＇오르다 API 게이트웨이＇ 출시
-https://www.etnews.com/20261103000123
+◾ [ISMP 2026]AMD, “AI 병목은 데이터 이동…패키징·소재 해법 집중”
+https://www.etnews.com/20261104000290
+
+◾ [M.AX 풀스택 진화]<1> AI팩토리 245곳 가동…韓 제조, 데이터부터 로봇까지 AI로 다시 짠다
+https://www.etnews.com/20261104000288
+
+◾ 기업 AI 모델 재킹 공격 주의보…10만달러 요금 폭탄 발생
+https://www.etnews.com/20261104000243
+
+◾ LGU+, 3분기 영업익 2976억원…AIDC 사업 28% 성장
+https://www.etnews.com/20261104000138
+
+◾ 영림원소프트랩·싱크트루, 로펌 업무 통합·법률 AI 도입 전략 제시
+https://www.etnews.com/20261104000118
+
+◾ 현대제철, 전사 AX 혁신 속도…생성형 AI 통합 플랫폼 오픈
+https://www.etnews.com/20261104000117
+
+◾ 디트리움, 디지털트윈 혁신 도전…AI로 공장 바꾸고 로봇 미래를 설계한다
+https://www.etnews.com/20261104000092
+
+◾ 버즈니, 삼육대에 숏폼AI 기술 제공…교육 콘텐츠 제작 지원
+https://www.etnews.com/20261104000089
+
+◾ 비상교육, 유아 기관용 스마트 교육 맞춤형 AI 전자칠판 공급
+https://www.etnews.com/20261104000077
+
+◾ 모니터랩, AI 위협 인텔리전스 플랫폼 ＇AILabs 6.0＇ 출시
+https://www.etnews.com/20261104000073
 
 [기관]
-◾ 심심이, 24년 대화형 AI 기술 공공 돌봄으로 확장…1인 가구 고립·위기 징후 선제 감지
-https://www.aitimes.kr/news/articleView.html?idxno=42570
+◾ 국가인공지능전략위원회 제3차 전체회의 개최
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000010&num=1086
 
-◾ 산업부, 제조 AI 혁신 전국 산업현장으로 확산…245개 AI 팩토리 성과 기반 4단계 전략 가동
-https://www.aitimes.kr/news/articleView.html?idxno=42566
+◾ AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42587
 
-◾ 기계연, 휴머노이드에 ‘일하는 법’ 가르친다…국내 첫 AI 로봇 데이터 생산기지 구축
-https://www.aitimes.kr/news/articleView.html?idxno=42565
+◾ 20kg 들고 걷는 한국형 AI 휴머노이드 개발…KIST 이종원 단장, 대한민국 과학기술인상 수상
+https://www.aitimes.kr/news/articleView.html?idxno=42585
 
-◾ 업스테이지 솔라 프로 4, 범정부 AI 공통기반 정식 탑재…행정망에서 국산 AI 활용 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=42553
+◾ [관계부처 합동] 이 땅에 집 지을 수 있나요? 복잡한 토지개발 인허가, 인공지능(AI)으로 쉽게
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187925&searchOpt=ALL&searchTxt=
 
-◾ 휴머노이드가 ‘일하는 법’ 배우는 데이터 생산기지 문 연다
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187916&searchOpt=ALL&searchTxt=
+◾ 과기정통부-AMD, 인공지능 반도체 협력 본격 가동... AMD 대표 인공지능 행사도 한국서 첫 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187921&searchOpt=ALL&searchTxt=
 
-◾ “연결을 넘어, 인공지능 만드는 새로운 가치” 「2026 대한민국 지능형 사물인터넷 주간(2026 AIoT Week Korea)」 개막
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187914&searchOpt=ALL&searchTxt=
+◾ 인텔리빅스, 안전AI 플랫폼 ＇GenAMS＇ 국정원 보안기능 확인서 획득
+https://www.etnews.com/20261104000431
 
-◾ 〃AI 도시, 현실이 되다!”… 화성시, AI엑스포 ＇MARS 2026＇ 팡파르
-https://www.aitimes.com/news/articleView.html?idxno=216966
+◾ KISTI ＇미래연구정보포럼＇ 성료...데이터·AI 융합 및 국가 R&D 혁신 모색
+https://www.etnews.com/20261104000415
 
-◾ 국가 슈퍼컴 6호기 ‘한강’ 가동…칩 1.8만개 탑재 세계 10위권 기대
-https://www.aitimes.com/news/articleView.html?idxno=216948
+◾ 과기정통부 AI 예산 70% 차지한 미래대응기금…국회 “지속성·일관성 고려해야”
+https://www.etnews.com/20261104000325
 
-◾ 메가존클라우드, KAIST와 맞손…＇피지컬 AI＇ 표준화·글로벌 진출 협력
-https://www.etnews.com/20261103000403
+◾ ETRI, 5일 킨텍스서 ＇피지컬 AI＇ 기술 10개 소개
+https://www.etnews.com/20261104000219
 
-◾ 기계연, ＇AI 휴머노이드 데이터 팩토리＇ 구축...휴머노이드 전용 데이터 생산
-https://www.etnews.com/20261103000377
-
-◾ 휴머노이드가 ＇일하는 법＇ 배우는 데이터 팩토리 국내 첫 개소
-https://www.etnews.com/20261103000184
-
-◾ 업스테이지 ＇솔라 프로 4＇ 범정부 AI 공통기반 탑재…행정망 국산 AI 활용
-https://www.etnews.com/20261103000312
-
-◾ 산업부, ＇제조AI 4단계 확산전략＇ 발표
-https://www.etnews.com/20261103000241
-
-◾ 건보공단, 113억원 규모 AX 고도화 사업 추진…AI 상담·업무비서 개선
-https://www.etnews.com/20261103000289
-
-◾ AI 홍수예보·＇숨은 물그릇＇ 10.4억톤…인명·재산 피해 최소화했다
-https://www.etnews.com/20261103000271
-
-◾ AIoT 혁신대상에 12개 기업·기관…아바드·둠둠 장관 표창
-https://www.etnews.com/20261103000268
-
-◾ 국정원, 공공기관 2100여곳 긴급 보안점검 요청…핵심시설 직접 조사
-https://www.etnews.com/20261103000260
-
-◾ 잇단 해킹에 李 “보안 체계 근본 혁신”…＇사이버 보안 차르＇ 검토 지시
-https://www.etnews.com/20261103000210
-
-◾ 인사혁신처, 인사업무 특화 AI 시스템 첫 개발…업무 혁신 속도
-https://www.etnews.com/20261103000092
-
-◾ [AIoT 어워드2026] 세종대, AI 모델·데이터 관리 국제표준 개발
-https://www.etnews.com/20261103000177
+◾ 전북도, 피지컬AI·로봇 국가거점 조성 본격 시동…국회서 대토론회
+https://www.etnews.com/20261104000082
 
 [해외]
-◾ 로봇의 눈, 최대 5배 빨라졌다…펜실베이니아대, 초당 440회 시각 정보 처리하는 AI 개발
-https://www.aitimes.kr/news/articleView.html?idxno=42568
+◾ 탈취한 AI 계정으로 하루 10만달러 ‘요금 폭탄’…구글, LLM재킹 공격 확산 경고
+https://www.aitimes.kr/news/articleView.html?idxno=42583
 
-◾ “AI가 오래 추론할수록 오진도 늘어난다”…칭화대, 의료 AI의 정확도·안전성 충돌 규명
-https://www.aitimes.kr/news/articleView.html?idxno=42564
+◾ 영국 발전소가 초대형 ＇AI 데이터센터＇로…드랙스·브룩필드, 3.6조원 이상 투자 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42577
 
-◾ 팔란티어, AI 사업 폭발적 성장…3분기 매출 96% 급증, 미국 기업 매출 정부 부문 첫 추월
-https://www.aitimes.kr/news/articleView.html?idxno=42562
+◾ 앤트로픽 〃RSI 가속에 AI 안전 대책 뒤처질 수도〃…통제 강화 검토
+https://www.aitimes.com/news/articleView.html?idxno=216984
 
-◾ 앤트로픽, AI 인프라 지출 약정 8954억달러 공개…매출 12배 성장에도 비용 부담 급증
-https://www.aitimes.kr/news/articleView.html?idxno=42561
+◾ 오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작
+https://www.aitimes.com/news/articleView.html?idxno=216989
 
-◾ 샘 올트먼 CEO, “AI 성장 최대 걸림돌은 전력이며, AI는 인간을 위해 존재해야”
-https://www.aitimes.kr/news/articleView.html?idxno=42560
+◾ 〃AI에 일 맡길수록 감독 능력도 퇴화〃…앤트로픽 엔지니어 경고
+https://www.aitimes.com/news/articleView.html?idxno=217019
 
-◾ “유전 개발계획 수개월에서 수시간으로”…아드녹, 오픈AI·G42와 에너지 산업 AI 혁신 착수
-https://www.aitimes.kr/news/articleView.html?idxno=42559
+◾ 〃엔비디아 심기 거스를라〃...오픈AI도 중국 칩 수출 규제에 발언 자제
+https://www.aitimes.com/news/articleView.html?idxno=216992
 
-◾ “AI 에이전트도 신원 확인한다”…홍콩 금융당국, 자율 금융거래 감독체계 구축 착수
-https://www.aitimes.kr/news/articleView.html?idxno=42556
+◾ 〃오픈AI, 수년간 내부 보안 취약점 경고 무시〃...개발 속도 우선에 기밀 유출 위험
+https://www.aitimes.com/news/articleView.html?idxno=217011
 
-◾ “회계감사도 AI 직원이 맡는다”…미국 클라크, 자율 감사 에이전트 출시
-https://www.aitimes.kr/news/articleView.html?idxno=42555
+◾ 中 해커, 세계 200여개 기관 AI 공격…美 반도체·방산도 표적
+https://www.etnews.com/20261104000220
 
-◾ 머스크 〃그록 봇 운영 비용 감당 어려워〃...AI 에이전트 사용량 제한
-https://www.aitimes.com/news/articleView.html?idxno=216942
-
-◾ 딥시크, 자연어로 AI 에이전트 기능 확장…플러그인 제작까지 자동화
-https://www.aitimes.com/news/articleView.html?idxno=216958
-
-◾ 메이투안, 중국산 칩으로 학습한 1.6조 매개변수 ＇롱캣-2.5＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=216961
-
-◾ 엔비디아, 클라우드 고객에 중국 기업 서비스 비중 49% 이하 요구
-https://www.aitimes.com/news/articleView.html?idxno=216969
-
-◾ 팔란티어, 기업 AI 성장에 연매출 11조원대 전망…5000억 상향
-https://www.etnews.com/20261103000006
-
-◾ 앤트로픽, 3분기 매출 24조원…전년비 12배 성장·영업적자 전환
-https://www.etnews.com/20261103000004
-
-◾ 한중 피지컬 AI협력 시동… “조작 지능·범용성 필수”
-https://www.etnews.com/20261103000344
-
-◾ 센티넬원, ＇클로드 코워크＇ 연동…AI 에이전트 활동 직접 감시
-https://www.etnews.com/20261103000335
-
-◾ 크라우드스트라이크-델, 엔비디아 AI 팩토리에 보안 플랫폼 통합
-https://www.etnews.com/20261103000304
+◾ 볼보, 엔비디아 차세대 자율주행 기술 탑재…아이즈 오프·마인드 오프 도입
+https://www.etnews.com/20261104000183
 
 📚 간행물
-◾ [The LENS 2026-13] 피지컬 AI 경쟁력 확보를 위한 주요국 정책 동향 : 미국·중국·EU의 로봇 분야 정책 비교 분석
-https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30155&parentSeq=30155
+◾ 장거리 양자통신의 전송률 한계와 극복 기술 [주간기술동향 2224호]
+https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1409&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
