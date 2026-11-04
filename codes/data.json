@@ -36160,12 +36160,6 @@
           "score": 4
         },
         {
-          "title": "AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42587",
-          "category": "기관",
-          "score": 4
-        },
-        {
           "title": "20kg 들고 걷는 한국형 AI 휴머노이드 개발…KIST 이종원 단장, 대한민국 과학기술인상 수상",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42585",
           "category": "기관",
@@ -36175,25 +36169,19 @@
           "title": "[관계부처 합동] 이 땅에 집 지을 수 있나요? 복잡한 토지개발 인허가, 인공지능(AI)으로 쉽게",
           "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187925&searchOpt=ALL&searchTxt=",
           "category": "기관",
-          "score": 3
+          "score": 4
         },
         {
           "title": "과기정통부-AMD, 인공지능 반도체 협력 본격 가동... AMD 대표 인공지능 행사도 한국서 첫 개최",
           "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187921&searchOpt=ALL&searchTxt=",
           "category": "기관",
+          "score": 5
+        },
+        {
+          "title": "ETRI, 5일 킨텍스서 ＇피지컬 AI＇ 기술 10개 소개",
+          "link": "https://www.etnews.com/20261104000219",
+          "category": "기관",
           "score": 4
-        },
-        {
-          "title": "인텔리빅스, 안전AI 플랫폼 ＇GenAMS＇ 국정원 보안기능 확인서 획득",
-          "link": "https://www.etnews.com/20261104000431",
-          "category": "기관",
-          "score": 3
-        },
-        {
-          "title": "KISTI ＇미래연구정보포럼＇ 성료...데이터·AI 융합 및 국가 R&D 혁신 모색",
-          "link": "https://www.etnews.com/20261104000415",
-          "category": "기관",
-          "score": 3
         },
         {
           "title": "과기정통부 AI 예산 70% 차지한 미래대응기금…국회 “지속성·일관성 고려해야”",
@@ -36202,10 +36190,16 @@
           "score": 4
         },
         {
-          "title": "ETRI, 5일 킨텍스서 ＇피지컬 AI＇ 기술 10개 소개",
-          "link": "https://www.etnews.com/20261104000219",
+          "title": "과기정통부, SW마이스터고 연합해커톤 개최…AI 과제 공동 대응",
+          "link": "https://www.etnews.com/20261104000252",
           "category": "기관",
-          "score": 4
+          "score": 3
+        },
+        {
+          "title": "국립목포대 AI·정보보호영재교육원, 미래 사이버보안 인재 양성 민·관 협력 확대",
+          "link": "https://www.etnews.com/20261104000142",
+          "category": "기관",
+          "score": 3
         },
         {
           "title": "전북도, 피지컬AI·로봇 국가거점 조성 본격 시동…국회서 대토론회",
@@ -36225,7 +36219,7 @@
           "title": "AI로 무기체계 운용·정비 관리한다",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20261105/14/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=JxSohhV9u9Jp_CTHREKviCcbFgebjYYioiwI9QIwh8PlZkfe6g8e!-825262916",
           "category": "국방",
-          "score": 5
+          "score": 4
         },
         {
           "title": "K2 전차·FA-50 정비에 ＇AI 에이전트＇ 투입…정부, 300억원 규모 군수 AI 개발 착수",
@@ -36271,11 +36265,23 @@
           "title": "수일 걸리던 플라스마 예측 밀리초로 단축....엔비디아, AI로 반도체 제조 시뮬레이션 최대 35배 가속",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42590",
           "category": "민간",
-          "score": 3
+          "score": 4
         },
         {
-          "title": "AI로 업무 생산성 높아졌지만 조직 성과는 제자리…기업 직원 83% 생산성 향상, 품질 개선은 56%",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42589",
+          "title": "AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42587",
+          "category": "민간",
+          "score": 5
+        },
+        {
+          "title": "오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=216989",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "〃AI에 일 맡길수록 감독 능력도 퇴화〃…앤트로픽 엔지니어 경고",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217019",
           "category": "민간",
           "score": 3
         },
@@ -36286,16 +36292,10 @@
           "score": 3
         },
         {
-          "title": "〃AI 현장 엔지니어 연봉 최대 19억원〃...기업들 FDE 확보 총력",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217007",
-          "category": "민간",
-          "score": 3
-        },
-        {
           "title": "오픈AI, 일상 업무 AI 평가 ＇라이프밸＇ 공개...개인 비서 성능 1년 새 49%→81%",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=216996",
           "category": "민간",
-          "score": 3
+          "score": 4
         },
         {
           "title": "AMD, 퓨리오사AI·망고부스트와 개방형 이기종 AI 인프라 MoU 체결",
@@ -36304,50 +36304,8 @@
           "score": 4
         },
         {
-          "title": "SK하이닉스, 美 AI 투자·솔루션 사업 법인명 ＇HYAICO＇으로 결정",
-          "link": "https://www.etnews.com/20261104000422",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "온세미, 페릭 인수 계약 체결…＇AI 전력＇에 현금 6억달러를 투자",
-          "link": "https://www.etnews.com/20261104000407",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "AMD, 개방형·이기종 AI 인프라 위해 한국 AI 반도체 스타트업과 협업",
-          "link": "https://www.etnews.com/20261104000394",
-          "category": "민간",
-          "score": 3
-        },
-        {
           "title": "스노우플레이크, 자율형 AI 에이전트 공개…기업 업무 자동화 확대",
           "link": "https://www.etnews.com/20261104000371",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "[ISMP 2026]AMD, “AI 병목은 데이터 이동…패키징·소재 해법 집중”",
-          "link": "https://www.etnews.com/20261104000290",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "[M.AX 풀스택 진화]<1> AI팩토리 245곳 가동…韓 제조, 데이터부터 로봇까지 AI로 다시 짠다",
-          "link": "https://www.etnews.com/20261104000288",
-          "category": "민간",
-          "score": 4
-        },
-        {
-          "title": "기업 AI 모델 재킹 공격 주의보…10만달러 요금 폭탄 발생",
-          "link": "https://www.etnews.com/20261104000243",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "LGU+, 3분기 영업익 2976억원…AIDC 사업 28% 성장",
-          "link": "https://www.etnews.com/20261104000138",
           "category": "민간",
           "score": 3
         },
@@ -36370,22 +36328,10 @@
           "score": 3
         },
         {
-          "title": "버즈니, 삼육대에 숏폼AI 기술 제공…교육 콘텐츠 제작 지원",
-          "link": "https://www.etnews.com/20261104000089",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "비상교육, 유아 기관용 스마트 교육 맞춤형 AI 전자칠판 공급",
-          "link": "https://www.etnews.com/20261104000077",
-          "category": "민간",
-          "score": 3
-        },
-        {
           "title": "모니터랩, AI 위협 인텔리전스 플랫폼 ＇AILabs 6.0＇ 출시",
           "link": "https://www.etnews.com/20261104000073",
           "category": "민간",
-          "score": 4
+          "score": 3
         }
       ],
       "해외": [
@@ -36396,10 +36342,16 @@
           "score": 4
         },
         {
+          "title": "〃AI로 아마존 산림파괴 막는다〃... 유네스코·ITU·브라질, 글로벌 AI 기후연구소 설립",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42582",
+          "category": "해외",
+          "score": 3
+        },
+        {
           "title": "영국 발전소가 초대형 ＇AI 데이터센터＇로…드랙스·브룩필드, 3.6조원 이상 투자 추진",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42577",
           "category": "해외",
-          "score": 3
+          "score": 4
         },
         {
           "title": "앤트로픽 〃RSI 가속에 AI 안전 대책 뒤처질 수도〃…통제 강화 검토",
@@ -36408,40 +36360,16 @@
           "score": 4
         },
         {
-          "title": "오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216989",
-          "category": "해외",
-          "score": 4
-        },
-        {
-          "title": "〃AI에 일 맡길수록 감독 능력도 퇴화〃…앤트로픽 엔지니어 경고",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217019",
-          "category": "해외",
-          "score": 3
-        },
-        {
-          "title": "〃엔비디아 심기 거스를라〃...오픈AI도 중국 칩 수출 규제에 발언 자제",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=216992",
-          "category": "해외",
-          "score": 4
-        },
-        {
-          "title": "〃오픈AI, 수년간 내부 보안 취약점 경고 무시〃...개발 속도 우선에 기밀 유출 위험",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217011",
-          "category": "해외",
-          "score": 3
-        },
-        {
           "title": "中 해커, 세계 200여개 기관 AI 공격…美 반도체·방산도 표적",
           "link": "https://www.etnews.com/20261104000220",
           "category": "해외",
           "score": 5
         },
         {
-          "title": "볼보, 엔비디아 차세대 자율주행 기술 탑재…아이즈 오프·마인드 오프 도입",
-          "link": "https://www.etnews.com/20261104000183",
+          "title": "앤트로픽, 일본 이어 호주서도 IPO 개인 공모…글로벌 투자자 결집",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217005",
           "category": "해외",
-          "score": 3
+          "score": 4
         }
       ],
       "간행물": [
@@ -36452,7 +36380,6 @@
           "score": 4
         }
       ]
-    },
-    "briefing": "- 정부가 K2 전차 및 FA-50 등 주요 무기체계의 정비 효율화를 위해 300억 원 규모의 군수 AI 에이전트 기술 개발에 착수했습니다.\n- 미래 첨단 육군 건설을 위해 AI 활용을 가속화하고, 육군 주최 IAMSEC 2026에서 AI 공급망 보안의 중요성이 강조되었습니다.\n- 오픈AI가 전 미 육군 장관을 영입하며 미군의 AI 도입 확대와 관련된 국방 분야 사업 강화에 나섰습니다."
+    }
   }
 }
