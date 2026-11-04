@@ -31,14 +31,17 @@ https://www.aitimes.kr/news/articleView.html?idxno=42591
 ◾ 수일 걸리던 플라스마 예측 밀리초로 단축....엔비디아, AI로 반도체 제조 시뮬레이션 최대 35배 가속
 https://www.aitimes.kr/news/articleView.html?idxno=42590
 
-◾ AI로 업무 생산성 높아졌지만 조직 성과는 제자리…기업 직원 83% 생산성 향상, 품질 개선은 56%
-https://www.aitimes.kr/news/articleView.html?idxno=42589
+◾ AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42587
+
+◾ 오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작
+https://www.aitimes.com/news/articleView.html?idxno=216989
+
+◾ 〃AI에 일 맡길수록 감독 능력도 퇴화〃…앤트로픽 엔지니어 경고
+https://www.aitimes.com/news/articleView.html?idxno=217019
 
 ◾ 〃AI 초장문 처리 속도 최대 35배 높인다〃…자이프라, 새 어텐션 기술 공개
 https://www.aitimes.com/news/articleView.html?idxno=217008
-
-◾ 〃AI 현장 엔지니어 연봉 최대 19억원〃...기업들 FDE 확보 총력
-https://www.aitimes.com/news/articleView.html?idxno=217007
 
 ◾ 오픈AI, 일상 업무 AI 평가 ＇라이프밸＇ 공개...개인 비서 성능 1년 새 49%→81%
 https://www.aitimes.com/news/articleView.html?idxno=216996
@@ -46,29 +49,8 @@ https://www.aitimes.com/news/articleView.html?idxno=216996
 ◾ AMD, 퓨리오사AI·망고부스트와 개방형 이기종 AI 인프라 MoU 체결
 https://www.etnews.com/20261104000464
 
-◾ SK하이닉스, 美 AI 투자·솔루션 사업 법인명 ＇HYAICO＇으로 결정
-https://www.etnews.com/20261104000422
-
-◾ 온세미, 페릭 인수 계약 체결…＇AI 전력＇에 현금 6억달러를 투자
-https://www.etnews.com/20261104000407
-
-◾ AMD, 개방형·이기종 AI 인프라 위해 한국 AI 반도체 스타트업과 협업
-https://www.etnews.com/20261104000394
-
 ◾ 스노우플레이크, 자율형 AI 에이전트 공개…기업 업무 자동화 확대
 https://www.etnews.com/20261104000371
-
-◾ [ISMP 2026]AMD, “AI 병목은 데이터 이동…패키징·소재 해법 집중”
-https://www.etnews.com/20261104000290
-
-◾ [M.AX 풀스택 진화]<1> AI팩토리 245곳 가동…韓 제조, 데이터부터 로봇까지 AI로 다시 짠다
-https://www.etnews.com/20261104000288
-
-◾ 기업 AI 모델 재킹 공격 주의보…10만달러 요금 폭탄 발생
-https://www.etnews.com/20261104000243
-
-◾ LGU+, 3분기 영업익 2976억원…AIDC 사업 28% 성장
-https://www.etnews.com/20261104000138
 
 ◾ 영림원소프트랩·싱크트루, 로펌 업무 통합·법률 AI 도입 전략 제시
 https://www.etnews.com/20261104000118
@@ -79,21 +61,12 @@ https://www.etnews.com/20261104000117
 ◾ 디트리움, 디지털트윈 혁신 도전…AI로 공장 바꾸고 로봇 미래를 설계한다
 https://www.etnews.com/20261104000092
 
-◾ 버즈니, 삼육대에 숏폼AI 기술 제공…교육 콘텐츠 제작 지원
-https://www.etnews.com/20261104000089
-
-◾ 비상교육, 유아 기관용 스마트 교육 맞춤형 AI 전자칠판 공급
-https://www.etnews.com/20261104000077
-
 ◾ 모니터랩, AI 위협 인텔리전스 플랫폼 ＇AILabs 6.0＇ 출시
 https://www.etnews.com/20261104000073
 
 [기관]
 ◾ 국가인공지능전략위원회 제3차 전체회의 개최
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000010&num=1086
-
-◾ AMD, 퓨리오사AI·망고부스트와 손잡고 한국형 AI 인프라 구축…CPU·GPU·NPU·DPU 통합 추진
-https://www.aitimes.kr/news/articleView.html?idxno=42587
 
 ◾ 20kg 들고 걷는 한국형 AI 휴머노이드 개발…KIST 이종원 단장, 대한민국 과학기술인상 수상
 https://www.aitimes.kr/news/articleView.html?idxno=42585
@@ -104,17 +77,17 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 과기정통부-AMD, 인공지능 반도체 협력 본격 가동... AMD 대표 인공지능 행사도 한국서 첫 개최
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187921&searchOpt=ALL&searchTxt=
 
-◾ 인텔리빅스, 안전AI 플랫폼 ＇GenAMS＇ 국정원 보안기능 확인서 획득
-https://www.etnews.com/20261104000431
-
-◾ KISTI ＇미래연구정보포럼＇ 성료...데이터·AI 융합 및 국가 R&D 혁신 모색
-https://www.etnews.com/20261104000415
+◾ ETRI, 5일 킨텍스서 ＇피지컬 AI＇ 기술 10개 소개
+https://www.etnews.com/20261104000219
 
 ◾ 과기정통부 AI 예산 70% 차지한 미래대응기금…국회 “지속성·일관성 고려해야”
 https://www.etnews.com/20261104000325
 
-◾ ETRI, 5일 킨텍스서 ＇피지컬 AI＇ 기술 10개 소개
-https://www.etnews.com/20261104000219
+◾ 과기정통부, SW마이스터고 연합해커톤 개최…AI 과제 공동 대응
+https://www.etnews.com/20261104000252
+
+◾ 국립목포대 AI·정보보호영재교육원, 미래 사이버보안 인재 양성 민·관 협력 확대
+https://www.etnews.com/20261104000142
 
 ◾ 전북도, 피지컬AI·로봇 국가거점 조성 본격 시동…국회서 대토론회
 https://www.etnews.com/20261104000082
@@ -123,29 +96,20 @@ https://www.etnews.com/20261104000082
 ◾ 탈취한 AI 계정으로 하루 10만달러 ‘요금 폭탄’…구글, LLM재킹 공격 확산 경고
 https://www.aitimes.kr/news/articleView.html?idxno=42583
 
+◾ 〃AI로 아마존 산림파괴 막는다〃... 유네스코·ITU·브라질, 글로벌 AI 기후연구소 설립
+https://www.aitimes.kr/news/articleView.html?idxno=42582
+
 ◾ 영국 발전소가 초대형 ＇AI 데이터센터＇로…드랙스·브룩필드, 3.6조원 이상 투자 추진
 https://www.aitimes.kr/news/articleView.html?idxno=42577
 
 ◾ 앤트로픽 〃RSI 가속에 AI 안전 대책 뒤처질 수도〃…통제 강화 검토
 https://www.aitimes.com/news/articleView.html?idxno=216984
 
-◾ 오픈AI, AI로 하드웨어 설계 일주일 만에 완료…실제 시제품 제작
-https://www.aitimes.com/news/articleView.html?idxno=216989
-
-◾ 〃AI에 일 맡길수록 감독 능력도 퇴화〃…앤트로픽 엔지니어 경고
-https://www.aitimes.com/news/articleView.html?idxno=217019
-
-◾ 〃엔비디아 심기 거스를라〃...오픈AI도 중국 칩 수출 규제에 발언 자제
-https://www.aitimes.com/news/articleView.html?idxno=216992
-
-◾ 〃오픈AI, 수년간 내부 보안 취약점 경고 무시〃...개발 속도 우선에 기밀 유출 위험
-https://www.aitimes.com/news/articleView.html?idxno=217011
-
 ◾ 中 해커, 세계 200여개 기관 AI 공격…美 반도체·방산도 표적
 https://www.etnews.com/20261104000220
 
-◾ 볼보, 엔비디아 차세대 자율주행 기술 탑재…아이즈 오프·마인드 오프 도입
-https://www.etnews.com/20261104000183
+◾ 앤트로픽, 일본 이어 호주서도 IPO 개인 공모…글로벌 투자자 결집
+https://www.aitimes.com/news/articleView.html?idxno=217005
 
 📚 간행물
 ◾ 장거리 양자통신의 전송률 한계와 극복 기술 [주간기술동향 2224호]
