@@ -1,1 +1,272 @@
-[]
+[
+  {
+    "title": "발로 뛰던 국유재산관리 AI로 한다",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261106/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=SZituO3vh7ZV9uI0Y1OPahsRNSaDqOFSZB_0SKH4A613hEDnHRlp!1681223396",
+    "category": "국방",
+    "score": 4
+  },
+  {
+    "title": "가상 전장서 전투 진두지휘",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261106/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=SZituO3vh7ZV9uI0Y1OPahsRNSaDqOFSZB_0SKH4A613hEDnHRlp!1681223396",
+    "category": "육군",
+    "score": 4
+  },
+  {
+    "title": "플렉스컴퓨트, 우주선 도킹·급유 위험 예측하는 ‘피지컬 월드모델’ 공개…기존 시뮬레이션 대비 최대 200배 가속",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42611",
+    "category": "해외",
+    "score": 5
+  },
+  {
+    "title": "록히드마틴, 차세대 핵미사일 재진입체 ‘Mk21A’ 비행시험 완료…디지털 엔지니어링으로 개발 가속",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42610",
+    "category": "해외",
+    "score": 5
+  },
+  {
+    "title": "엑스와이지, 음성·표정·동작 결합한 AI 로봇 ‘듀스’ 공개…1만 가지 표현으로 사람과 소통",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42605",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "AI가 광고 성과 진단하고 개선까지 제안…네이버, ‘네이버애즈’로 광고 플랫폼 전면 개편",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42601",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "퀄컴, 스마트폰 넘어 AI 인프라 시장 본격 공략...AI 데이터센터 매출 50억달러 정조준",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42598",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "오픈AI, AI로 리눅스 권한 상승 취약점 948건 식별…공격 가능성 검증하고 패치 후보까지 생성",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42595",
+    "category": "해외",
+    "score": 5
+  },
+  {
+    "title": "가상 전장서 전투 진두지휘",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDI0MyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "육군",
+    "score": 4
+  },
+  {
+    "title": "발로 뛰던 국유재산관리 AI로 한다",
+    "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDI0MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방",
+    "score": 4
+  },
+  {
+    "title": "국방부·국방과학연구소, K-MOSA 성과공유회 개최",
+    "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNDIyOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "category": "국방",
+    "score": 5
+  },
+  {
+    "title": "앤트로픽, AI 모델 ＇신원 확인＇ 기술 공개...클로드가 개발 과정 주도",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217043",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "문샷 AI, ‘키미 K3.1 프로’ 가중치 공개…〃딥시크 희소 어텐션 결합〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217051",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "메타, AI 코딩 스타트업 컨덕터 인수...병렬 에이전트 조율 기술 확보",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217045",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "일본, 미국 AI 기업에 미공개 소프트웨어 취약점 정보 공유 요청",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217064",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "오픈AI, 코드 저장 스타트업 피에르 인수...코덱스로 깃허브에 도전",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217046",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "과기정통부, AI반도체·양자AI 등 ICT 고급인재 양성센터 5곳 개소",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217062",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "KT·서울대, AI 융합보안 인재 양성 맞손...‘융합보안 계약학과’ 설립 협약",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217057",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "[인터뷰] 정명철 에티버스 회장 “올해 2.5조 매출 넘어 피지컬AI까지 내달리겠다”",
+    "link": "https://www.etnews.com/20261105000476",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "에이아이웍스, 中 과학포럼 ＇GEF 2026＇서 피지컬 AI 검증 기술 선보여",
+    "link": "https://www.etnews.com/20261105000472",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "李 “韓 기업 AI 풀스택 해외 진출…정부가 안정성 보증해야”",
+    "link": "https://www.etnews.com/20261105000465",
+    "category": "기관",
+    "score": 5
+  },
+  {
+    "title": "[BeSTCon 2026] ＇잘 만드는 AI＇에서 ＇믿고 쓰는 AI＇로…정확도 넘어 신뢰 검증해야",
+    "link": "https://www.etnews.com/20261105000192",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "[BeSTCon 2026] STA테스팅컨설팅, 의료 AI 안전성 레드팀 플랫폼 실증 결과 발표",
+    "link": "https://www.etnews.com/20261105000190",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "개인정보위, AI 에이전트·피지컬 AI 개인정보 보호 기술 논의",
+    "link": "https://www.etnews.com/20261105000340",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "[ET시론]AI에이전트 대중화 시대, AI 3중 안전망이 경쟁력이다",
+    "link": "https://www.etnews.com/20261105000104",
+    "category": "기타",
+    "score": 3
+  },
+  {
+    "title": "HP “클라우드 AI 절반 로컬 PC로 옮겨 비용 45% 절감”…국내 반도체·의료·방송 현장 공략",
+    "link": "https://www.etnews.com/20261105000029",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "오픈AI, 빠르게 생성하고 편집 강화한 ＇이미지 2.6＇ 출시",
+    "link": "https://www.etnews.com/20261105000333",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "한화오션, ABB와 부유식 데이터센터 핵심 기술 고도화 ＇맞손＇",
+    "link": "https://www.etnews.com/20261105000323",
+    "category": "국방",
+    "score": 4
+  },
+  {
+    "title": "네이버, 광고 플랫폼 ＇네이버애즈＇로 개편…AI 기능 확대",
+    "link": "https://www.etnews.com/20261105000310",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "카카오, 영업이익률 두 자릿수 굳혔다…내달 신규 AI 서비스 4종 출격",
+    "link": "https://www.etnews.com/20261105000308",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "수은, 탄자니아에 1억7000만달러 지원…EDCF 첫 AI 사업 착수",
+    "link": "https://www.etnews.com/20261105000253",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "KAIST 테라랩, HBM·HBF 설계에 AI 에이전트 접목 연구 성과 공유",
+    "link": "https://www.etnews.com/20261105000252",
+    "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "우리은행, 해외송금 서류 심사·입력 자동화…＇외환 AI 스마트 컴플라이언스＇ 도입",
+    "link": "https://www.etnews.com/20261105000251",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "NH농협은행, ＇10대 AI 에이전트＇ 구현...핵심 업무 AX 가속",
+    "link": "https://www.etnews.com/20261105000249",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "교육부, 로봇 기업 현직자와 대학생 취업 상담 지원…피지컬 AI 인재 양성",
+    "link": "https://www.etnews.com/20261105000120",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "[BIXPO 2026] 한전, 전력데이터 개방 확대…에너지 AI 신산업 육성",
+    "link": "https://www.etnews.com/20261105000238",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "[BIXPO 2026] 한전, AI 전력설비 진단기술 LS일렉트릭에 이전…연 370억원 절감 효과",
+    "link": "https://www.etnews.com/20261105000237",
+    "category": "국방",
+    "score": 4
+  },
+  {
+    "title": "서부발전, AI로 유연탄 수입 관리시간 95% 감축…체선료 15.4% 절감",
+    "link": "https://www.etnews.com/20261105000231",
+    "category": "국방",
+    "score": 3
+  },
+  {
+    "title": "NC AI, 지스타 2026서 ＇바르코＇ 체험 카페 운영···3D·사운드 AI 기술 선보인다",
+    "link": "https://www.etnews.com/20261105000225",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "HSAD, 넷플릭스 광고 도달률 AI로 예측…공식 API 연동",
+    "link": "https://www.etnews.com/20261105000207",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "김동철 한전 사장 “호남 반도체 전력 2028년 말 공급”…AI 가상 전력망 2032년 상용화",
+    "link": "https://www.etnews.com/20261105000032",
+    "category": "기관",
+    "score": 3
+  },
+  {
+    "title": "HP, 제약사 출신 왐슬리 CEO 선임…AI 사업 전환 속도",
+    "link": "https://www.etnews.com/20261105000175",
+    "category": "해외",
+    "score": 3
+  },
+  {
+    "title": "전북, 1조3000억원 투입해 피지컬 AI 국가거점 도전···제조·농생명·로봇 잇는 산업생태계 구축",
+    "link": "https://www.etnews.com/20261105000168",
+    "category": "기관",
+    "score": 4
+  },
+  {
+    "title": "유안타증권, 임직원 AI 심화교육…AX ＇사내강사＇ 육성",
+    "link": "https://www.etnews.com/20261105000149",
+    "category": "민간",
+    "score": 3
+  },
+  {
+    "title": "＇마이크로 LED 광 인터커넥트＇ 속도 빨라지나…美 팔로미노, AI 인프라용 첫 상업 수주",
+    "link": "https://www.etnews.com/20261105000095",
+    "category": "해외",
+    "score": 4
+  }
+]
