@@ -5,6 +5,7 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 import os
+import sys
 import json
 import time
 import urllib.parse
@@ -12,6 +13,14 @@ import base64
 
 import itertools
 from dotenv import load_dotenv
+
+# Windows 터미널(cp949) 출력 인코딩 방어
+if sys.platform == "win32":
+    try:
+        sys.stdout.reconfigure(encoding="utf-8", errors="replace")
+        sys.stderr.reconfigure(encoding="utf-8", errors="replace")
+    except Exception:
+        pass
 
 load_dotenv()
 
