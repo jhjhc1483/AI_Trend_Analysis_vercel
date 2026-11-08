@@ -176,6 +176,8 @@ def run_single_crawler(script_name, display_name):
 
     env = os.environ.copy()
     env["PYTHONUNBUFFERED"] = "1"
+    env["PYTHONIOENCODING"] = "utf-8"
+    env["PYTHONUTF8"] = "1"
     if "SCRAPER_API_KEY" in os.environ:
         env["SCRAPER_API_KEY"] = os.environ["SCRAPER_API_KEY"]
 
