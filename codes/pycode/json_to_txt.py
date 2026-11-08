@@ -20,6 +20,14 @@ FIXED_CATEGORIES = ["국방", "육군", "민간", "기관", "해외", "기타"]
 LAST_CATEGORY = "간행물"
 
 
+def report_date():
+    """REPORT_DATE(YYYY-MM-DD) 환경변수가 있으면 그 날짜, 없으면 오늘(KST)."""
+    env = os.environ.get("REPORT_DATE", "").strip()
+    if env:
+        return datetime.strptime(env, "%Y-%m-%d")
+    return datetime.now(ZoneInfo("Asia/Seoul"))
+
+
 def load_articles(files):
     articles = []
     for file_path in files:
@@ -40,7 +48,7 @@ def categorize_articles(articles):
 
 def generate_report_text(categorized):
     # "%Y-%m-%d" 형식을 "%y.%m.%d" 형식으로 수정
-    today = datetime.now(ZoneInfo("Asia/Seoul")).strftime("%y.%m.%d")
+    today = report_date().strftime("%y.%m.%d")
     # today = datetime.now(ZoneInfo("Asia/Seoul")).strftime("%Y-%m-%d")
     lines = [f"📢{today} AI 일일 동향📢\n"]
     lines.append("📰 오늘의 기사")
@@ -112,7 +120,7 @@ def main():
         except json.JSONDecodeError:
             print("기존 JSON 파일 파싱 실패. 새로 생성합니다.")
 
-    today_key = datetime.now(ZoneInfo("Asia/Seoul")).strftime("%y.%m.%d")
+    today_key = report_date().strftime("%y.%m.%d")
     history_data[today_key] = {
         "categorized": categorized
     }

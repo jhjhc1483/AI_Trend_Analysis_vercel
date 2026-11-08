@@ -8,7 +8,10 @@ from google.genai import types
 
 
 KST = timezone(timedelta(hours=9))
-YESTERDAY = (datetime.now(KST) - timedelta(days=1)).strftime('%Y%m%d')
+# REPORT_DATE(YYYY-MM-DD)를 주면 그날의 동향(=전날 기사)을 다시 만든다. 없으면 오늘 기준.
+_report_env = os.environ.get("REPORT_DATE", "").strip()
+REPORT_DATE = datetime.strptime(_report_env, "%Y-%m-%d").replace(tzinfo=KST) if _report_env else datetime.now(KST)
+YESTERDAY = (REPORT_DATE - timedelta(days=1)).strftime('%Y%m%d')
 
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__)) # codes/pycode
 BASE_DIR = os.path.dirname(PROJECT_ROOT) # codes
@@ -228,9 +231,12 @@ Format:
                 if ("429" in error_msg or "503" in error_msg) and attempt < max_retries - 1:
                     print(f"API Error ({error_msg[:10]}). 60초 대기 후 재시도합니다... ({attempt+1}/{max_retries})")
                     time.sleep(60)
+                elif isinstance(e, json.JSONDecodeError) and attempt < max_retries - 1:
+                    print(f"JSON 파싱 실패. 5초 후 재시도합니다... ({attempt+1}/{max_retries})")
+                    time.sleep(5)
                 else:
-                    print(f"Error during LLM processing ({item_type}, batch {i//batch_size}): {e}")
-                    break
+                    # 빈 결과로 즐겨찾기를 덮어쓰지 않도록 작업 전체를 실패시킨다 (402 크레딧 소진 등)
+                    raise RuntimeError(f"LLM processing failed ({item_type}, batch {i//batch_size}): {e}") from e
 
         # 다음 배치가 남아있다면 API 한도 초과 방지를 위해 30초 대기
         if i + batch_size < len(items):
@@ -244,7 +250,9 @@ def main():
     
     articles, pubs, excluded_data = load_json_files()
     print(f"Found {len(articles)} articles and {len(pubs)} publications for {YESTERDAY}")
-    
+    if not articles and not pubs:
+        raise RuntimeError(f"{YESTERDAY} 날짜의 수집 기사가 없습니다. 크롤링 데이터를 확인하세요. (기존 즐겨찾기는 유지)")
+
     # 1. 기사 처리
     fav_articles = select_and_classify(articles, 'ARTICLE', excluded_reasons=excluded_data)
     print(f"Selected {len(fav_articles)} articles")
@@ -265,4 +273,8 @@ def main():
     print("Done. Files overwritten.")
 
 if __name__ == "__main__":
-    main()
+    try:
+        main()
+    except Exception as e:
+        print(f"오류 발생: {e}")
+        raise SystemExit(1)
