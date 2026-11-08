@@ -36977,5 +36977,113 @@
       ]
     },
     "briefing": "- 수능을 앞두고 AI 안경을 활용한 부정행위 우려가 커지면서 관련 보안 및 관리 대책의 필요성이 제기되었습니다.\n- EU 당국이 틱톡의 AI 추천 알고리즘이 정신건강을 위협한다고 판단하여 디지털서비스법 위반 예비 조사를 진행했습니다.\n- 미국 중간선거 이후 민주당을 중심으로 빅테크 기업에 대한 대대적인 조사와 AI 규제 추진 움직임이 나타나고 있습니다."
+  },
+  "26.11.09": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "‘국방 물류체계 스마트화’ 산·학·연 전문가 자문",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDM2NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "서울 작전 환경에 맞는 드론·대드론 체계 발전 모색",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDM1OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "민·군 AI 공동 연구·실증의 장 마련",
+          "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyNDM2OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "KT, 국방 AI 플랫폼 구축…박윤영 대표 체제 AX 성과",
+          "link": "https://www.etnews.com/20261106000286",
+          "category": "국방",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "AI 추천이 다시 AI 학습 데이터로…UNIST, 반복 추천 속 편향 증폭 위험 확인",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42634",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "어드밴텍, 엣지 AI에서 피지컬 AI·자율제조까지…산업 지능화 핵심 기술과 전략 공유",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42633",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "AWS, 여러 AI 에이전트 지휘하는 ＇키로 봇＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217141",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "KT ＇마이AI＇, 내년 실행형 에이전트로…최적요금제 연계 검토",
+          "link": "https://www.etnews.com/20261106000258",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "로보로드, ＇도로파손 피지컬 AI＇ 시대 연다…탐측부터 복구까지 전 과정 자동화",
+          "link": "https://www.etnews.com/20261106000139",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "새만금·구미·완주·울산 등 피지컬 AI 공공사업 지역 확산",
+          "link": "https://www.etnews.com/20261106000207",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[인터뷰]박세웅 ETRI 원장 “AI 기반 국가 임무 수행으로 따뜻한 기술 구현...국민의 삶 제고에 힘쓸 것”",
+          "link": "https://www.etnews.com/20261105000479",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "농식품부, 연말 조직 정비 본격화…농업 AX 전담체계 재편 주목",
+          "link": "https://www.etnews.com/20261108000050",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "과학자들은 AI를 어떻게 쓸까…앤트로픽 〃데이터 분석 1위, 가설 생성 4%〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217147",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트그룹, ＇링 3.2 플래시＇ 공개…시각 이해 평가서 클로드 오퍼스 5 앞서",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217146",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글, 퀄컴 지분 7400억원 확보…AI 반도체 기업 인수로 주식 취득",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217144",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "로봇 넘어 학습 데이터까지…中 칭무, 한국 피지컬AI 시장 공략",
+          "link": "https://www.etnews.com/20261106000180",
+          "category": "해외",
+          "score": 4
+        }
+      ]
+    }
   }
 }
