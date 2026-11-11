@@ -37656,5 +37656,341 @@
       ]
     },
     "briefing": "- 한남대가 전국 5개 국방 AX 거점에 고성능 GPU와 보안형 AI 플랫폼 운영 인프라 구축을 완료했습니다.\n- 알티베이스가 미래 전장 환경 변화에 대응하기 위한 실시간 국방 데이터 통합 기술을 제시했습니다.\n- 바른정보기술이 국방벤처센터 협약기업으로 선정되며 국방 출입보안 시장에 본격적인 진출을 추진합니다."
+  },
+  "26.11.12": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "AI전환 시대 전략적 소통 발전 모색",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNDU3OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "아주대, 국방혁신기술보안협회·한국국방기술학회와 국방 피지컬 AI 협력",
+          "link": "https://www.etnews.com/20261111000457",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "[DQ마크 인증 기업을 가다] 미래 국방 신경망 현대화 든든한 파트너",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261112/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Jn_MqZMuXNgeS2OzwlosU1upQJa3V8X2pBXgqdeJ6xW8B7h4tfjW!2065592669",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "AI전환 시대 전략적 소통 발전 모색",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261112/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Jn_MqZMuXNgeS2OzwlosU1upQJa3V8X2pBXgqdeJ6xW8B7h4tfjW!2065592669",
+          "category": "국방",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "세계적 인공지능바이오 강국 도약을 위한 소버린 바이오 전략 모색",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187946&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "인공지능·정보통신기술, 성장의 공식을 바꾸다!",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187945&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "[보도참고] 디지털·인공지능 경쟁력, 전년대비 8단계 상승한 10위 기록",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187948&searchOpt=ALL&searchTxt=",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "중기부, 2030년까지 ‘AI 유니콘 20곳·데카콘 1곳＇ 키운다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217284",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[M.AX 풀스택 진화]〈2〉암묵지 AI, 내년 2900억 본사업…휴머노이드 전수·성능검증까지",
+          "link": "https://www.etnews.com/20261111000383",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "이형일 “AI 시대 새 성장동력 확보”…그래핀·SMR·피지컬 AI 육성",
+          "link": "https://www.etnews.com/20261111000339",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "정부, 2030년 AI 유니콘 20곳·데카콘 1곳 육성…목표 달성 기업 ＇자동 지원＇ 체계 구축",
+          "link": "https://www.etnews.com/20261111000307",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "과기정통부, 내년 5차 생명공학기본계획 수립…“AI 접목해 다음 10년 준비”",
+          "link": "https://www.etnews.com/20261111000303",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "KTC, 의료 AI 보안·안전성 검증기술 성과 공개",
+          "link": "https://www.etnews.com/20261111000281",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "AI부터 보안·양자까지...과기정통부·IITP 지원 ＇AI·ICT R&D＇ 우수 성과 공개",
+          "link": "https://www.etnews.com/20261111000222",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "한국탄소산업진흥원, 직원 주도 AI 활용으로 행정업무 개선 추진",
+          "link": "https://www.etnews.com/20261111000192",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "韓 디지털·AI 경쟁력 세계 10위…전년 대비 8단계 상승",
+          "link": "https://www.etnews.com/20261111000097",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "더픽트, 중기부 딥테크 팁스 선정…공간 AI 운영체제 개발",
+          "link": "https://www.etnews.com/20261111000075",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "화학연·LG AI연구원, 엑사원 디스커버리로 신물질 개발 가속…화학·AI 공동연구 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42694",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "〃AI가 답해도 판단은 인간이 한다〃…유네스코, 생성형 AI 시대 새로운 교육 지침 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42692",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "ETRI, 〃AI·6G 미래기술 전략 강화〃…KAIST 정송·최성현 교수 특임고문 위촉",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42681",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "저장장치 데이터 처리 성능 최대 3배 향상…KAIST, AI 추론 병목 줄이는 파일시스템 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42680",
+          "category": "기관",
+          "score": 3
+        }
+      ],
+      "해외": [
+        {
+          "title": "구글, ＇제미나이 로보틱스 2.5＇ 공개…공장 작업 성공률 96%",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217274",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "TSMC, 자체 칩 개발 나선 오픈AI·앤트로픽에 최대 1.3조원 투자",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217289",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "오픈AI, 분기 매출 13조에도 손실 14조…앤트로픽에 밀려",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217263",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, 챗GPT에 기업 프로필·AI 에이전트 도입…고객 접점 확대",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217253",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽, 클로드 오피스 출시…IPO 앞두고 MS·구글과 경쟁",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217251",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "아타드, 알리바바 클라우드와 전략적 협력 MOU 체결...글로벌 AI 인프라 사업 확대",
+          "link": "https://www.etnews.com/20261111000289",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, 기업 소개·상품 정보 제공 ＇비즈니스 인 챗GPT＇ 공개",
+          "link": "https://www.etnews.com/20261111000082",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "화웨이, AI가 가정 전력 생산·저장·소비 최적화하는 에너지 시스템 ‘루테라 S2’ 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42698",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "바이두, 초당 200토큰 생성하는 ‘어니 5.5 플래시’ 공개…코딩·3D 모델링·AI 에이전트 겨냥",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42696",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "엔비디아, AI 에이전트 보안 기술 ‘오픈셸’ CNCF에 기증…오픈소스로 자율형 AI 실행 환경 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42689",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "〃AI 에이전트가 직접 편집한다〃…어도비, 포토샵·프리미어 등 창작 소프트웨어 전면 개편",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42688",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "알리바바, 차세대 AI 모델 ‘큐웬4’ 공개 예고…＇큐웬4 맥스’ 프리뷰 제공, 코딩·에이전틱 AI·세계 이해 능력 강화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42687",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "메타, 100만 토큰 처리하는 초경량 AI ‘뮤즈 엠버’ 공개…앱 넘나들며 코딩·업무 자동화 수행",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42686",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "AMD, AI 인프라 경쟁 확대...6세대 에픽 서버 CPU 출시, 엔비디아 베라 대비 최대 3.7배↑",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42684",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "휴머노이드 로봇에 ‘제미나이 로보틱스 2.5’ 탑재…구글, 벤츠 생산라인서 작업 성공률 96% 달성",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42683",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "구글, 최강 프론티어 AI ‘제미나이 4 카본’ 공개…복잡한 장기 작업 수행하는 에이전틱 AI 강화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42682",
+          "category": "해외",
+          "score": 5
+        }
+      ],
+      "민간": [
+        {
+          "title": "“소비쿠폰 효과, GPT로 검증”…오픈AI, 韓 정책 연구 공개",
+          "link": "https://www.etnews.com/20261111000340",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "GS·포스코, 초대형 AI 데이터센터 사업 협력…운영 경쟁력 강화",
+          "link": "https://www.etnews.com/20261111000419",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "더존비즈온, AI 경영시스템 국제표준 ＇ISO/IEC 42001＇ 인증 획득",
+          "link": "https://www.etnews.com/20261111000418",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[미리보는 소부장 테크페어]〈4〉테스, AI 반도체·전력반도체 겨냥 고선택비 식각·증착 장비 국산화",
+          "link": "https://www.etnews.com/20261111000333",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "[시스코 라이브2026] 웹엑스 확인부터 메일 초안까지…시스코 9만명 ＇AI 동료＇와 일한다",
+          "link": "https://www.etnews.com/20261111000317",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "[시스코 라이브2026] 시스코 “韓 AI 모델, 고객 수요 있으면 통합”",
+          "link": "https://www.etnews.com/20261111000308",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "“AI가 공정 보고 설비까지 제어”…CJ제일제당, F&B 피지컬 AI 개발",
+          "link": "https://www.etnews.com/20261111000234",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "KT텔레캅, AI 응급안전안심 서비스 개시…디지털케어 플랫폼 기업 도약",
+          "link": "https://www.etnews.com/20261111000170",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "CJ올리브영, AI 쇼핑 어시스턴트 ＇올영 티키＇ 내달 출시",
+          "link": "https://www.etnews.com/20261111000142",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "롯데이노베이트, 탈레스와 손잡고 AI 보안사업 확대…신규 고객 확보 추진",
+          "link": "https://www.etnews.com/20261111000130",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "YH데이타베이스, AI 기반 신종 보이스피싱 조기탐지 R&D ＇속도＇",
+          "link": "https://www.etnews.com/20261111000127",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "GS리테일, AI 스타트업과 현장 혁신…GS샵 상품 검색 노출 3.9배↑",
+          "link": "https://www.etnews.com/20261111000098",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "카카오벤처스, ＇KV 인사이트풀데이＇ 개최…＇AI 네이티브＇ 시대 조명",
+          "link": "https://www.etnews.com/20261111000077",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "셀바스AI, 한국어·영어를 하나의 목소리로 읽는 AI 음성합성 상용화…예스24 전자책에 적용",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42697",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오픈AI·MS·AWS 등 7개 기업, 국내 AI 스타트업과 21건 사업 협력 논의",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42693",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "IBM·마이크로소프트, 6000개 AI 에이전트 결합한 기업용 플랫폼 공개…산업별 업무 자동화 본격화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42691",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "현대제철, AI로 원료 배합·물류 최적화…제조·업무 혁신 사례 198건 발굴",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42685",
+          "category": "민간",
+          "score": 3
+        }
+      ]
+    }
   }
 }
