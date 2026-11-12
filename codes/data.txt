@@ -1,171 +1,122 @@
-📢26.11.12 AI 일일 동향📢
+📢26.11.13 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ AI전환 시대 전략적 소통 발전 모색
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNDU3OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 민간 첨단기술과 국방의 연결, 제4회 미래 국방 기술교류회 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187957&searchOpt=ALL&searchTxt=
 
-◾ 아주대, 국방혁신기술보안협회·한국국방기술학회와 국방 피지컬 AI 협력
-https://www.etnews.com/20261111000457
+◾ 국방 분야 혁신제품 6개 첫 지정
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNDY0NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ [DQ마크 인증 기업을 가다] 미래 국방 신경망 현대화 든든한 파트너
-https://kookbang.dema.mil.kr/newsWeb/20261112/1/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Jn_MqZMuXNgeS2OzwlosU1upQJa3V8X2pBXgqdeJ6xW8B7h4tfjW!2065592669
+◾ ‘국방 AI’ 미래 전장 미리 그리다
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDY1NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ AI전환 시대 전략적 소통 발전 모색
-https://kookbang.dema.mil.kr/newsWeb/20261112/7/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Jn_MqZMuXNgeS2OzwlosU1upQJa3V8X2pBXgqdeJ6xW8B7h4tfjW!2065592669
+◾ 국방 분야 혁신제품 최초 지정, 민간 혁신기술의 군 활용 확대
+https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNDYzMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 국방혁신기술보안협회·아주대, 국방 피지컬 AI 기술개발·실증 협력
+https://www.etnews.com/20261112000196
+
+◾ 마음AI, ‘국방AX 100+ 협의체’ 정식 참여…온디바이스·자율로봇 등 국방 피지컬 AI 협력 확대
+https://www.aitimes.kr/news/articleView.html?idxno=42708
+
+◾ ‘국방 AI’ 미래 전장 미리 그리다
+https://kookbang.dema.mil.kr/newsWeb/20261113/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
+
+◾ 광속의 기술혁명과 군사보안정책 변화
+https://kookbang.dema.mil.kr/newsWeb/20261113/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
+
+◾ AI 시대, 미래 공군 군수의 새로운 도전
+https://kookbang.dema.mil.kr/newsWeb/20261113/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
+
+[육군]
+◾ 전북대, 5개 대학과 AI 방산·우주항공 기술개발 ＇맞손＇
+https://www.etnews.com/20261112000255
+
+◾ 드론 전문가 또 한 번 입증한 육군 간부들
+https://kookbang.dema.mil.kr/newsWeb/20261113/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
 
 [민간]
-◾ “소비쿠폰 효과, GPT로 검증”…오픈AI, 韓 정책 연구 공개
-https://www.etnews.com/20261111000340
+◾ 메타, AI 데이터 처리 최대 45배 빠르게 하는 ＇e-민즈＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=217327
 
-◾ GS·포스코, 초대형 AI 데이터센터 사업 협력…운영 경쟁력 강화
-https://www.etnews.com/20261111000419
+◾ 한컴, AI 매출 전체 30% 돌파…노마디안 등 미국 시장 공략 가속
+https://www.aitimes.com/news/articleView.html?idxno=217328
 
-◾ 더존비즈온, AI 경영시스템 국제표준 ＇ISO/IEC 42001＇ 인증 획득
-https://www.etnews.com/20261111000418
+◾ 롯데온, 플래티어와 손잡고 AI 기반 브랜드 자사몰 사업 확대
+https://www.etnews.com/20261111000450
 
-◾ [미리보는 소부장 테크페어]〈4〉테스, AI 반도체·전력반도체 겨냥 고선택비 식각·증착 장비 국산화
-https://www.etnews.com/20261111000333
+◾ [22회 스마트금융 컨퍼런스]신원근 카카오페이 대표 “AI 에이전트, 마이데이터·스테이블코인에 달렸다”
+https://www.etnews.com/20261112000268
 
-◾ [시스코 라이브2026] 웹엑스 확인부터 메일 초안까지…시스코 9만명 ＇AI 동료＇와 일한다
-https://www.etnews.com/20261111000317
+◾ 네이버, 3분기 역대 최대 매출에도 영업익↓…＇AI 팩토리·에이전트＇로 성장 동력 재점화
+https://www.etnews.com/20261112000214
 
-◾ [시스코 라이브2026] 시스코 “韓 AI 모델, 고객 수요 있으면 통합”
-https://www.etnews.com/20261111000308
+◾ [시스코 라이브2026] “AI DC, GPU 중심서 네트워크·스토리지까지 재설계”
+https://www.etnews.com/20261112000308
 
-◾ “AI가 공정 보고 설비까지 제어”…CJ제일제당, F&B 피지컬 AI 개발
-https://www.etnews.com/20261111000234
+◾ 인텔, 韓 기업과 AI 생태계 구축…＇K-AI 풀스택 얼라이언스＇ 출범
+https://www.etnews.com/20261112000262
 
-◾ KT텔레캅, AI 응급안전안심 서비스 개시…디지털케어 플랫폼 기업 도약
-https://www.etnews.com/20261111000170
+◾ KT·마이크로소프트, 네트워크 문제 감지하는 AI 에이전트 개발…장애 탐지 10분에서 2~3분으로 단축
+https://www.aitimes.kr/news/articleView.html?idxno=42705
 
-◾ CJ올리브영, AI 쇼핑 어시스턴트 ＇올영 티키＇ 내달 출시
-https://www.etnews.com/20261111000142
-
-◾ 롯데이노베이트, 탈레스와 손잡고 AI 보안사업 확대…신규 고객 확보 추진
-https://www.etnews.com/20261111000130
-
-◾ YH데이타베이스, AI 기반 신종 보이스피싱 조기탐지 R&D ＇속도＇
-https://www.etnews.com/20261111000127
-
-◾ GS리테일, AI 스타트업과 현장 혁신…GS샵 상품 검색 노출 3.9배↑
-https://www.etnews.com/20261111000098
-
-◾ 카카오벤처스, ＇KV 인사이트풀데이＇ 개최…＇AI 네이티브＇ 시대 조명
-https://www.etnews.com/20261111000077
-
-◾ 셀바스AI, 한국어·영어를 하나의 목소리로 읽는 AI 음성합성 상용화…예스24 전자책에 적용
-https://www.aitimes.kr/news/articleView.html?idxno=42697
-
-◾ 오픈AI·MS·AWS 등 7개 기업, 국내 AI 스타트업과 21건 사업 협력 논의
-https://www.aitimes.kr/news/articleView.html?idxno=42693
-
-◾ IBM·마이크로소프트, 6000개 AI 에이전트 결합한 기업용 플랫폼 공개…산업별 업무 자동화 본격화
-https://www.aitimes.kr/news/articleView.html?idxno=42691
-
-◾ 현대제철, AI로 원료 배합·물류 최적화…제조·업무 혁신 사례 198건 발굴
-https://www.aitimes.kr/news/articleView.html?idxno=42685
+◾ AI, 〃1000개 질문을 0.25초 안에 판단한다!〃...구글 ‘제미나이 디시전 1’ 공개, 에이전트 의사결정 속도·비용 혁신
+https://www.aitimes.kr/news/articleView.html?idxno=42704
 
 [기관]
-◾ 세계적 인공지능바이오 강국 도약을 위한 소버린 바이오 전략 모색
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187946&searchOpt=ALL&searchTxt=
+◾ 인공지능 안전 국민 모니터링단 「인공지능 안전 지킴이」 출범
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187956&searchOpt=ALL&searchTxt=
 
-◾ 인공지능·정보통신기술, 성장의 공식을 바꾸다!
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187945&searchOpt=ALL&searchTxt=
+◾ 인공지능 시대의 사회적 쟁점, 국민과 함께 해법 찾는다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187950&searchOpt=ALL&searchTxt=
 
-◾ [보도참고] 디지털·인공지능 경쟁력, 전년대비 8단계 상승한 10위 기록
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187948&searchOpt=ALL&searchTxt=
+◾ 솔트룩스, 국가기록원 지능형 검색 AI 에이전트로 고도화
+https://www.etnews.com/20261112000470
 
-◾ 중기부, 2030년까지 ‘AI 유니콘 20곳·데카콘 1곳＇ 키운다
-https://www.aitimes.com/news/articleView.html?idxno=217284
+◾ K-온디바이스 AI반도체, 2030년까지 10종 개발한다
+https://www.etnews.com/20261112000402
 
-◾ [M.AX 풀스택 진화]〈2〉암묵지 AI, 내년 2900억 본사업…휴머노이드 전수·성능검증까지
-https://www.etnews.com/20261111000383
+◾ 국가AI전략위, 韓 사이버복원력 강화한다…신속 복구 목표
+https://www.etnews.com/20261112000265
 
-◾ 이형일 “AI 시대 새 성장동력 확보”…그래핀·SMR·피지컬 AI 육성
-https://www.etnews.com/20261111000339
+◾ 과기정통부, 제4회 미래국방 기술교류회 개최
+https://www.etnews.com/20261112000192
 
-◾ 정부, 2030년 AI 유니콘 20곳·데카콘 1곳 육성…목표 달성 기업 ＇자동 지원＇ 체계 구축
-https://www.etnews.com/20261111000307
-
-◾ 과기정통부, 내년 5차 생명공학기본계획 수립…“AI 접목해 다음 10년 준비”
-https://www.etnews.com/20261111000303
-
-◾ KTC, 의료 AI 보안·안전성 검증기술 성과 공개
-https://www.etnews.com/20261111000281
-
-◾ AI부터 보안·양자까지...과기정통부·IITP 지원 ＇AI·ICT R&D＇ 우수 성과 공개
-https://www.etnews.com/20261111000222
-
-◾ 한국탄소산업진흥원, 직원 주도 AI 활용으로 행정업무 개선 추진
-https://www.etnews.com/20261111000192
-
-◾ 韓 디지털·AI 경쟁력 세계 10위…전년 대비 8단계 상승
-https://www.etnews.com/20261111000097
-
-◾ 더픽트, 중기부 딥테크 팁스 선정…공간 AI 운영체제 개발
-https://www.etnews.com/20261111000075
-
-◾ 화학연·LG AI연구원, 엑사원 디스커버리로 신물질 개발 가속…화학·AI 공동연구 추진
-https://www.aitimes.kr/news/articleView.html?idxno=42694
-
-◾ 〃AI가 답해도 판단은 인간이 한다〃…유네스코, 생성형 AI 시대 새로운 교육 지침 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42692
-
-◾ ETRI, 〃AI·6G 미래기술 전략 강화〃…KAIST 정송·최성현 교수 특임고문 위촉
-https://www.aitimes.kr/news/articleView.html?idxno=42681
-
-◾ 저장장치 데이터 처리 성능 최대 3배 향상…KAIST, AI 추론 병목 줄이는 파일시스템 개발
-https://www.aitimes.kr/news/articleView.html?idxno=42680
+◾ ('26. 11. 12) 국가인공지능전략위원회 『국가 사이버복원력 강화 TF』 출범
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1126
 
 [해외]
-◾ 구글, ＇제미나이 로보틱스 2.5＇ 공개…공장 작업 성공률 96%
-https://www.aitimes.com/news/articleView.html?idxno=217274
+◾ 앤트로픽 ＇미소스＇, 미국 전력망 보안에 활용…듀크에너지 등 도입 시험
+https://www.aitimes.com/news/articleView.html?idxno=217329
 
-◾ TSMC, 자체 칩 개발 나선 오픈AI·앤트로픽에 최대 1.3조원 투자
-https://www.aitimes.com/news/articleView.html?idxno=217289
+◾ 독일 헬싱, 팔란티어 맞설 군사용 AI 공개…수백개 에이전트로 표적 분석
+https://www.aitimes.com/news/articleView.html?idxno=217331
 
-◾ 오픈AI, 분기 매출 13조에도 손실 14조…앤트로픽에 밀려
-https://www.aitimes.com/news/articleView.html?idxno=217263
+◾ 미 제재 중국 군 관련 대학, 엔비디아 H200 구매…서버 임대로도 확보
+https://www.aitimes.com/news/articleView.html?idxno=217339
 
-◾ 오픈AI, 챗GPT에 기업 프로필·AI 에이전트 도입…고객 접점 확대
-https://www.aitimes.com/news/articleView.html?idxno=217253
+◾ 젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 ＇크레스＇ 임시 CEO 선임
+https://www.aitimes.kr/news/articleView.html?idxno=42715
 
-◾ 앤트로픽, 클로드 오피스 출시…IPO 앞두고 MS·구글과 경쟁
-https://www.aitimes.com/news/articleView.html?idxno=217251
+◾ 인텔 아닐 난두리 부사장, “AI 에이전트 시대, GPU만으로는 부족”…차세대 추론 가속기 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42712
 
-◾ 아타드, 알리바바 클라우드와 전략적 협력 MOU 체결...글로벌 AI 인프라 사업 확대
-https://www.etnews.com/20261111000289
+◾ 인텔 댄 로드리게스 부사장, “PC는 AI 에이전트가 일하는 컴퓨터로 진화”…피지컬 AI·자율 공장 전략 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42711
 
-◾ 오픈AI, 기업 소개·상품 정보 제공 ＇비즈니스 인 챗GPT＇ 공개
-https://www.etnews.com/20261111000082
+◾ 엔비디아, 젠슨 황 해임 수순 밟나
+https://kookbang.dema.mil.kr/newsWeb/20261113/8/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
 
-◾ 화웨이, AI가 가정 전력 생산·저장·소비 최적화하는 에너지 시스템 ‘루테라 S2’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42698
+📚 간행물
+◾ NIA Digital & AI Insights #5 – AI in Korean Government (Vol. 1)
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=30186&parentSeq=30186
 
-◾ 바이두, 초당 200토큰 생성하는 ‘어니 5.5 플래시’ 공개…코딩·3D 모델링·AI 에이전트 겨냥
-https://www.aitimes.kr/news/articleView.html?idxno=42696
+◾ 2027 AI·ICT 10대 이슈, AI 국가 독일 2030, AI 활용 격차 [AI·ICT Brief 2026-39호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-261112-000003&cpage=1&rows=10&searchTarget=all
 
-◾ 엔비디아, AI 에이전트 보안 기술 ‘오픈셸’ CNCF에 기증…오픈소스로 자율형 AI 실행 환경 구축
-https://www.aitimes.kr/news/articleView.html?idxno=42689
-
-◾ 〃AI 에이전트가 직접 편집한다〃…어도비, 포토샵·프리미어 등 창작 소프트웨어 전면 개편
-https://www.aitimes.kr/news/articleView.html?idxno=42688
-
-◾ 알리바바, 차세대 AI 모델 ‘큐웬4’ 공개 예고…＇큐웬4 맥스’ 프리뷰 제공, 코딩·에이전틱 AI·세계 이해 능력 강화
-https://www.aitimes.kr/news/articleView.html?idxno=42687
-
-◾ 메타, 100만 토큰 처리하는 초경량 AI ‘뮤즈 엠버’ 공개…앱 넘나들며 코딩·업무 자동화 수행
-https://www.aitimes.kr/news/articleView.html?idxno=42686
-
-◾ AMD, AI 인프라 경쟁 확대...6세대 에픽 서버 CPU 출시, 엔비디아 베라 대비 최대 3.7배↑
-https://www.aitimes.kr/news/articleView.html?idxno=42684
-
-◾ 휴머노이드 로봇에 ‘제미나이 로보틱스 2.5’ 탑재…구글, 벤츠 생산라인서 작업 성공률 96% 달성
-https://www.aitimes.kr/news/articleView.html?idxno=42683
-
-◾ 구글, 최강 프론티어 AI ‘제미나이 4 카본’ 공개…복잡한 장기 작업 수행하는 에이전틱 AI 강화
-https://www.aitimes.kr/news/articleView.html?idxno=42682
+◾ KISTI DATA INSIGHT 제65호 : Global Competition for S...
+https://www.kisti.re.kr/post/data-insight/7152
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
