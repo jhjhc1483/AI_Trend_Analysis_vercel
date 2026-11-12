@@ -5,9 +5,6 @@
 ◾ 민간 첨단기술과 국방의 연결, 제4회 미래 국방 기술교류회 개최
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187957&searchOpt=ALL&searchTxt=
 
-◾ 국방 분야 혁신제품 6개 첫 지정
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNDY0NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
 ◾ ‘국방 AI’ 미래 전장 미리 그리다
 https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDY1NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
@@ -33,8 +30,11 @@ https://kookbang.dema.mil.kr/newsWeb/20261113/1/ATCE_CTGR_0050010000/view.do;JSE
 https://kookbang.dema.mil.kr/newsWeb/20261113/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
 
 [민간]
-◾ 롯데온, 플래티어와 손잡고 AI 기반 브랜드 자사몰 사업 확대
-https://www.etnews.com/20261111000450
+◾ AI, 프리랜서 업무 41.3% 전문가 수준 수행…1년 전 2.5%서 급상승
+https://www.aitimes.com/news/articleView.html?idxno=217332
+
+◾ 한컴, AI 매출 전체 30% 돌파…노마디안 등 미국 시장 공략 가속
+https://www.aitimes.com/news/articleView.html?idxno=217328
 
 ◾ 삼성, 첫 AI 안경 내달 10일 출시…판매가 65만원대
 https://www.etnews.com/20261112000321
@@ -45,17 +45,8 @@ https://www.etnews.com/20261112000268
 ◾ 네이버, 3분기 역대 최대 매출에도 영업익↓…＇AI 팩토리·에이전트＇로 성장 동력 재점화
 https://www.etnews.com/20261112000214
 
-◾ [시스코 라이브2026] “AI DC, GPU 중심서 네트워크·스토리지까지 재설계”
-https://www.etnews.com/20261112000308
-
-◾ 인텔, 韓 기업과 AI 생태계 구축…＇K-AI 풀스택 얼라이언스＇ 출범
-https://www.etnews.com/20261112000262
-
 ◾ 인텔코리아, 국내 23개 기업과 ‘K-AI 풀스택 얼라이언스’ 출범…소버린 AI·피지컬 AI 생태계 구축
 https://www.aitimes.kr/news/articleView.html?idxno=42713
-
-◾ AI, 〃1000개 질문을 0.25초 안에 판단한다!〃...구글 ‘제미나이 디시전 1’ 공개, 에이전트 의사결정 속도·비용 혁신
-https://www.aitimes.kr/news/articleView.html?idxno=42704
 
 [기관]
 ◾ 인공지능 안전 국민 모니터링단 「인공지능 안전 지킴이」 출범
@@ -80,8 +71,8 @@ https://www.etnews.com/20261112000192
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1126
 
 [해외]
-◾ 메타, AI 데이터 처리 최대 45배 빠르게 하는 ＇e-민즈＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=217327
+◾ 구글 ＇알파게놈 2＇, 유전자 변이 영향 세포별 예측…원인 변이 2배 찾아
+https://www.aitimes.com/news/articleView.html?idxno=217309
 
 ◾ 앤트로픽 ＇미소스＇, 미국 전력망 보안에 활용…듀크에너지 등 도입 시험
 https://www.aitimes.com/news/articleView.html?idxno=217329
@@ -89,14 +80,14 @@ https://www.aitimes.com/news/articleView.html?idxno=217329
 ◾ 독일 헬싱, 팔란티어 맞설 군사용 AI 공개…수백개 에이전트로 표적 분석
 https://www.aitimes.com/news/articleView.html?idxno=217331
 
-◾ 영국 AI 칩 스타트업 프랙타일, 9.3조 가치로 1조 투자 유치
-https://www.aitimes.com/news/articleView.html?idxno=217330
+◾ 젠슨 황 엔비디아 CEO 공식 사임…콜레트 크레스 CFO 임시 CEO로
+https://www.etnews.com/20261112000481
+
+◾ AI, 〃1000개 질문을 0.25초 안에 판단한다!〃...구글 ‘제미나이 디시전 1’ 공개, 에이전트 의사결정 속도·비용 혁신
+https://www.aitimes.kr/news/articleView.html?idxno=42704
 
 ◾ 젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 ＇크레스＇ 임시 CEO 선임
 https://www.aitimes.kr/news/articleView.html?idxno=42715
-
-◾ IBM, 양자컴퓨터 연산 속도 최대 19배 향상…2027년 1,000큐비트 시대 연다
-https://www.aitimes.kr/news/articleView.html?idxno=42700
 
 ◾ 엔비디아, 젠슨 황 해임 수순 밟나
 https://kookbang.dema.mil.kr/newsWeb/20261113/8/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
