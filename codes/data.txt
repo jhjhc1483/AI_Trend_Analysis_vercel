@@ -14,6 +14,9 @@ https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTM
 ◾ 국방 분야 혁신제품 최초 지정, 민간 혁신기술의 군 활용 확대
 https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNDYzMiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
+◾ 전북대, 5개 대학과 AI 방산·우주항공 기술개발 ＇맞손＇
+https://www.etnews.com/20261112000255
+
 ◾ 국방혁신기술보안협회·아주대, 국방 피지컬 AI 기술개발·실증 협력
 https://www.etnews.com/20261112000196
 
@@ -29,22 +32,12 @@ https://kookbang.dema.mil.kr/newsWeb/20261113/1/ATCE_CTGR_0050010000/view.do;JSE
 ◾ AI 시대, 미래 공군 군수의 새로운 도전
 https://kookbang.dema.mil.kr/newsWeb/20261113/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
 
-[육군]
-◾ 전북대, 5개 대학과 AI 방산·우주항공 기술개발 ＇맞손＇
-https://www.etnews.com/20261112000255
-
-◾ 드론 전문가 또 한 번 입증한 육군 간부들
-https://kookbang.dema.mil.kr/newsWeb/20261113/4/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
-
 [민간]
-◾ 메타, AI 데이터 처리 최대 45배 빠르게 하는 ＇e-민즈＇ 공개
-https://www.aitimes.com/news/articleView.html?idxno=217327
-
-◾ 한컴, AI 매출 전체 30% 돌파…노마디안 등 미국 시장 공략 가속
-https://www.aitimes.com/news/articleView.html?idxno=217328
-
 ◾ 롯데온, 플래티어와 손잡고 AI 기반 브랜드 자사몰 사업 확대
 https://www.etnews.com/20261111000450
+
+◾ 삼성, 첫 AI 안경 내달 10일 출시…판매가 65만원대
+https://www.etnews.com/20261112000321
 
 ◾ [22회 스마트금융 컨퍼런스]신원근 카카오페이 대표 “AI 에이전트, 마이데이터·스테이블코인에 달렸다”
 https://www.etnews.com/20261112000268
@@ -58,8 +51,8 @@ https://www.etnews.com/20261112000308
 ◾ 인텔, 韓 기업과 AI 생태계 구축…＇K-AI 풀스택 얼라이언스＇ 출범
 https://www.etnews.com/20261112000262
 
-◾ KT·마이크로소프트, 네트워크 문제 감지하는 AI 에이전트 개발…장애 탐지 10분에서 2~3분으로 단축
-https://www.aitimes.kr/news/articleView.html?idxno=42705
+◾ 인텔코리아, 국내 23개 기업과 ‘K-AI 풀스택 얼라이언스’ 출범…소버린 AI·피지컬 AI 생태계 구축
+https://www.aitimes.kr/news/articleView.html?idxno=42713
 
 ◾ AI, 〃1000개 질문을 0.25초 안에 판단한다!〃...구글 ‘제미나이 디시전 1’ 공개, 에이전트 의사결정 속도·비용 혁신
 https://www.aitimes.kr/news/articleView.html?idxno=42704
@@ -71,14 +64,14 @@ https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSe
 ◾ 인공지능 시대의 사회적 쟁점, 국민과 함께 해법 찾는다
 https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187950&searchOpt=ALL&searchTxt=
 
+◾ NIA “AI 포용 정책, 이용 접근성 넘어 판단·검증 역량 살펴야”
+https://www.etnews.com/20261112000471
+
 ◾ 솔트룩스, 국가기록원 지능형 검색 AI 에이전트로 고도화
 https://www.etnews.com/20261112000470
 
 ◾ K-온디바이스 AI반도체, 2030년까지 10종 개발한다
 https://www.etnews.com/20261112000402
-
-◾ 국가AI전략위, 韓 사이버복원력 강화한다…신속 복구 목표
-https://www.etnews.com/20261112000265
 
 ◾ 과기정통부, 제4회 미래국방 기술교류회 개최
 https://www.etnews.com/20261112000192
@@ -87,23 +80,23 @@ https://www.etnews.com/20261112000192
 https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1126
 
 [해외]
+◾ 메타, AI 데이터 처리 최대 45배 빠르게 하는 ＇e-민즈＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=217327
+
 ◾ 앤트로픽 ＇미소스＇, 미국 전력망 보안에 활용…듀크에너지 등 도입 시험
 https://www.aitimes.com/news/articleView.html?idxno=217329
 
 ◾ 독일 헬싱, 팔란티어 맞설 군사용 AI 공개…수백개 에이전트로 표적 분석
 https://www.aitimes.com/news/articleView.html?idxno=217331
 
-◾ 미 제재 중국 군 관련 대학, 엔비디아 H200 구매…서버 임대로도 확보
-https://www.aitimes.com/news/articleView.html?idxno=217339
+◾ 영국 AI 칩 스타트업 프랙타일, 9.3조 가치로 1조 투자 유치
+https://www.aitimes.com/news/articleView.html?idxno=217330
 
 ◾ 젠슨 황, 엔비디아 CEO 전격 사임… 최고재무책임자 ＇크레스＇ 임시 CEO 선임
 https://www.aitimes.kr/news/articleView.html?idxno=42715
 
-◾ 인텔 아닐 난두리 부사장, “AI 에이전트 시대, GPU만으로는 부족”…차세대 추론 가속기 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42712
-
-◾ 인텔 댄 로드리게스 부사장, “PC는 AI 에이전트가 일하는 컴퓨터로 진화”…피지컬 AI·자율 공장 전략 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42711
+◾ IBM, 양자컴퓨터 연산 속도 최대 19배 향상…2027년 1,000큐비트 시대 연다
+https://www.aitimes.kr/news/articleView.html?idxno=42700
 
 ◾ 엔비디아, 젠슨 황 해임 수순 밟나
 https://kookbang.dema.mil.kr/newsWeb/20261113/8/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=BbLRzC01-B_XUugLrT-GOrRN2uLGIxwnG8w9S3UQDZ2lPSJQVwCe!296806669
