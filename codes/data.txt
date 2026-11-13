@@ -14,6 +14,12 @@ https://www.aitimes.com/news/articleView.html?idxno=217361
 ◾ 엘리스그룹, ＇B300＇ 기반 AI 데이터센터 베타 서비스 개시
 https://www.aitimes.com/news/articleView.html?idxno=217366
 
+◾ 앤트로픽, AI 에이전트 관리 서버도 기업이 직접 운영하도록 지원
+https://www.aitimes.com/news/articleView.html?idxno=217365
+
+◾ 대웅제약, 세란병원에 AI 스마트 모니터링 ＇씽크＇ 구축…입원환자 안전망 강화
+https://www.etnews.com/20261113000135
+
 ◾ 딥엑스, 인텔 오픈비노에 NPU 연동 추진…AI 추론 생태계 확장
 https://www.etnews.com/20261113000100
 
@@ -23,11 +29,14 @@ https://www.etnews.com/20261113000097
 ◾ 연세대, AI-RAN 얼라이언스 서울 총회 개최…글로벌 AI 통신 협력 논의
 https://www.etnews.com/20261113000062
 
-◾ 삼성서울병원, 글로벌 의료AI 기업 하이디와 협력
-https://www.etnews.com/20261113000054
+◾ 배민, 외식업주 AI 전환 지원…＇AI플레이북＇ 공개
+https://www.etnews.com/20261113000029
 
-◾ 토마토시스템, ＇GIX 2026＇서 AI 기반 UI/UX 솔루션 ＇엑스빌더6 아이젠＇ 공개
-https://www.etnews.com/20261113000052
+◾ 마이크로소프트 프론티어 컴퍼니 리마 사장, “AI 시연만으론 부족하다…인상적인 AI를 실제 기업 운영 바꾸는 AI로 전환해야”
+https://www.aitimes.kr/news/articleView.html?idxno=42723
+
+◾ 구글, 제미나이 4 하이드로젠 공개…AI 에이전트 실행 속도 높이고 비용 낮춘다
+https://www.aitimes.kr/news/articleView.html?idxno=42719
 
 ◾ 〃눈으로 보고 말로 묻는 AI 시대 연다〃...삼성전자, 구글과 AI 안경 30종 공개
 https://www.aitimes.kr/news/articleView.html?idxno=42717
@@ -45,20 +54,14 @@ https://www.etnews.com/20261113000289
 ◾ KISTI 주관 ＇넷프라스트 2026＇ 개최…AI 시대 보안 거버넌스 논의
 https://www.etnews.com/20261113000280
 
-◾ 정부, 메가프로젝트 전력·용수 인프라에 ＇10년간 84조원＇ 투입
-https://www.etnews.com/20261113000202
-
 ◾ 한국AI의료헬스케어연구원, 성남시와 손잡고 ＇Physical AI 기반 의료로봇 기술통합센터 구축＇ 본격화
 https://www.etnews.com/20261113000129
 
 ◾ ETRI, 사람 특성 이해하는 로봇 AI 평가기술 ＇트리니티＇ 개발
 https://www.etnews.com/20261113000128
 
-◾ 강원테크노파크, AI 시대 사이버보안 대응 전략 논의
-https://www.etnews.com/20261113000039
-
-◾ 구글, 한국 정밀지도 국외반출 보안조건 이행…정부, 좌표표시 제거·군사시설 영상처리 확인
-https://www.aitimes.kr/news/articleView.html?idxno=42729
+◾ 강장묵 박사, 美 럿거스대서 형사사법 AI 판단 검증 과제 제시
+https://www.etnews.com/20261113000075
 
 ◾ KAIST, 입모양만 보고 대화 읽는 AI 정확도 높였다…단어 오류율 19.4% 달성
 https://www.aitimes.kr/news/articleView.html?idxno=42726
@@ -76,17 +79,23 @@ https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1130
 ◾ 미국, 중국의 해외 GPU 임대 규제 추진…중국 기업들 확보 서둘러
 https://www.aitimes.com/news/articleView.html?idxno=217351
 
+◾ 오픈AI, 아스트라 ＇노-CoT＇ 능력 향상 확인…AI 추론 감시 한계 드러나
+https://www.aitimes.com/news/articleView.html?idxno=217369
+
 ◾ AMD, 양자컴퓨터 오류 수정에 GPU·SW 투입…엔비디아와 경쟁
 https://www.aitimes.com/news/articleView.html?idxno=217381
 
 ◾ 소프트뱅크·엔비디아, 연 1만대 생산능력 갖춘 독일 휴머노이드 기업에 6600억 투자
 https://www.aitimes.com/news/articleView.html?idxno=217370
 
-◾ 중국, AI로 ＇1인 기업＇ 대량 육성…창업 문턱 낮췄지만 생존 경쟁도 치열
-https://www.aitimes.com/news/articleView.html?idxno=217378
-
 ◾ 스페이스X, 100조 규모 AI 데이터센터 투자…애리조나에 6GW 추가
 https://www.aitimes.com/news/articleView.html?idxno=217371
+
+◾ [옴니사 원 도쿄 2026]＇엘라라＇로 AI 위협 선제 차단…“파편화된 신호 엮어 방어”
+https://www.etnews.com/20261113000151
+
+◾ [옴니사 원 도쿄 2026] ＇에이전틱 엔드포인트＇ 보안 선언
+https://www.etnews.com/20261113000146
 
 ◾ 中 해커, AI로 각국 기관 공격
 https://www.etnews.com/20261112000438
@@ -94,20 +103,14 @@ https://www.etnews.com/20261112000438
 ◾ 美 국방부 “냉동고 해킹, 사회에 경종”…AI로 군 기반시설 점검
 https://www.etnews.com/20261113000005
 
+◾ 구글, 한국 정밀지도 국외반출 보안조건 이행…정부, 좌표표시 제거·군사시설 영상처리 확인
+https://www.aitimes.kr/news/articleView.html?idxno=42729
+
 ◾ 〃기후 예측 AI 학습 시뮬레이션 최대 8회에서 1회로 끝낸다〃…MIT, 새로운 배출 시나리오도 예측
 https://www.aitimes.kr/news/articleView.html?idxno=42724
 
-◾ 마이크로소프트 프론티어 컴퍼니 리마 사장, “AI 시연만으론 부족하다…인상적인 AI를 실제 기업 운영 바꾸는 AI로 전환해야”
-https://www.aitimes.kr/news/articleView.html?idxno=42723
-
-◾ 아마존 “AI 시대 직무 재교육이 경쟁력”…3.3조원 투입해 5000만명 미래 역량 지원
-https://www.aitimes.kr/news/articleView.html?idxno=42722
-
 ◾ 전장 검증된 자율 무인체계에 7억달러 투자…우크라이나계 ＇유포스＇, 영국서 생산 확대
 https://www.aitimes.kr/news/articleView.html?idxno=42721
-
-◾ 구글, 제미나이 4 하이드로젠 공개…AI 에이전트 실행 속도 높이고 비용 낮춘다
-https://www.aitimes.kr/news/articleView.html?idxno=42719
 
 [기타]
 ◾ 무인항공기 국제표준, 서울에서 논의한다… ISO/TC 20/SC 16 총회, 미·중 이어 세 번째 개최

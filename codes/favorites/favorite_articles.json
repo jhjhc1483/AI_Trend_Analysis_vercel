@@ -21,6 +21,12 @@
     "title": "앤트로픽, 제조업용 ＇클로드＇ 출시…오픈AI와 산업별 AI 시장 경쟁 확대",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=217361",
     "category": "민간",
+    "score": 4
+  },
+  {
+    "title": "오픈AI, 아스트라 ＇노-CoT＇ 능력 향상 확인…AI 추론 감시 한계 드러나",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217369",
+    "category": "해외",
     "score": 3
   },
   {
@@ -45,19 +51,19 @@
     "title": "소프트뱅크·엔비디아, 연 1만대 생산능력 갖춘 독일 휴머노이드 기업에 6600억 투자",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=217370",
     "category": "해외",
-    "score": 4
+    "score": 3
   },
   {
-    "title": "중국, AI로 ＇1인 기업＇ 대량 육성…창업 문턱 낮췄지만 생존 경쟁도 치열",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217378",
-    "category": "해외",
+    "title": "앤트로픽, AI 에이전트 관리 서버도 기업이 직접 운영하도록 지원",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217365",
+    "category": "민간",
     "score": 3
   },
   {
     "title": "스페이스X, 100조 규모 AI 데이터센터 투자…애리조나에 6GW 추가",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=217371",
     "category": "해외",
-    "score": 5
+    "score": 4
   },
   {
     "title": "KT, AI 기반 통신시설 안전관리로 총리상 수상",
@@ -75,7 +81,7 @@
     "title": "KISTI 주관 ＇넷프라스트 2026＇ 개최…AI 시대 보안 거버넌스 논의",
     "link": "https://www.etnews.com/20261113000280",
     "category": "기관",
-    "score": 3
+    "score": 4
   },
   {
     "title": "무인항공기 국제표준, 서울에서 논의한다… ISO/TC 20/SC 16 총회, 미·중 이어 세 번째 개최",
@@ -84,10 +90,22 @@
     "score": 3
   },
   {
-    "title": "정부, 메가프로젝트 전력·용수 인프라에 ＇10년간 84조원＇ 투입",
-    "link": "https://www.etnews.com/20261113000202",
-    "category": "기관",
-    "score": 5
+    "title": "[옴니사 원 도쿄 2026]＇엘라라＇로 AI 위협 선제 차단…“파편화된 신호 엮어 방어”",
+    "link": "https://www.etnews.com/20261113000151",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "[옴니사 원 도쿄 2026] ＇에이전틱 엔드포인트＇ 보안 선언",
+    "link": "https://www.etnews.com/20261113000146",
+    "category": "해외",
+    "score": 4
+  },
+  {
+    "title": "대웅제약, 세란병원에 AI 스마트 모니터링 ＇씽크＇ 구축…입원환자 안전망 강화",
+    "link": "https://www.etnews.com/20261113000135",
+    "category": "민간",
+    "score": 3
   },
   {
     "title": "한국AI의료헬스케어연구원, 성남시와 손잡고 ＇Physical AI 기반 의료로봇 기술통합센터 구축＇ 본격화",
@@ -120,27 +138,21 @@
     "score": 3
   },
   {
+    "title": "강장묵 박사, 美 럿거스대서 형사사법 AI 판단 검증 과제 제시",
+    "link": "https://www.etnews.com/20261113000075",
+    "category": "기관",
+    "score": 3
+  },
+  {
     "title": "연세대, AI-RAN 얼라이언스 서울 총회 개최…글로벌 AI 통신 협력 논의",
     "link": "https://www.etnews.com/20261113000062",
     "category": "민간",
-    "score": 4
-  },
-  {
-    "title": "삼성서울병원, 글로벌 의료AI 기업 하이디와 협력",
-    "link": "https://www.etnews.com/20261113000054",
-    "category": "민간",
     "score": 3
   },
   {
-    "title": "토마토시스템, ＇GIX 2026＇서 AI 기반 UI/UX 솔루션 ＇엑스빌더6 아이젠＇ 공개",
-    "link": "https://www.etnews.com/20261113000052",
+    "title": "배민, 외식업주 AI 전환 지원…＇AI플레이북＇ 공개",
+    "link": "https://www.etnews.com/20261113000029",
     "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "강원테크노파크, AI 시대 사이버보안 대응 전략 논의",
-    "link": "https://www.etnews.com/20261113000039",
-    "category": "기관",
     "score": 3
   },
   {
@@ -152,7 +164,7 @@
   {
     "title": "구글, 한국 정밀지도 국외반출 보안조건 이행…정부, 좌표표시 제거·군사시설 영상처리 확인",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42729",
-    "category": "기관",
+    "category": "해외",
     "score": 4
   },
   {
@@ -170,14 +182,8 @@
   {
     "title": "마이크로소프트 프론티어 컴퍼니 리마 사장, “AI 시연만으론 부족하다…인상적인 AI를 실제 기업 운영 바꾸는 AI로 전환해야”",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42723",
-    "category": "해외",
+    "category": "민간",
     "score": 4
-  },
-  {
-    "title": "아마존 “AI 시대 직무 재교육이 경쟁력”…3.3조원 투입해 5000만명 미래 역량 지원",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42722",
-    "category": "해외",
-    "score": 3
   },
   {
     "title": "전장 검증된 자율 무인체계에 7억달러 투자…우크라이나계 ＇유포스＇, 영국서 생산 확대",
@@ -188,7 +194,7 @@
   {
     "title": "구글, 제미나이 4 하이드로젠 공개…AI 에이전트 실행 속도 높이고 비용 낮춘다",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42719",
-    "category": "해외",
+    "category": "민간",
     "score": 4
   },
   {
