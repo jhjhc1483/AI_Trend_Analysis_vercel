@@ -38466,12 +38466,6 @@
           "score": 5
         },
         {
-          "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217405",
-          "category": "해외",
-          "score": 4
-        },
-        {
           "title": "딥시크·문샷 등 중국 4개사, 수출 통제 ＇블랙웰＇ 사용 흔적 발견",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217397",
           "category": "해외",
@@ -38481,7 +38475,7 @@
           "title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217402",
           "category": "해외",
-          "score": 4
+          "score": 5
         },
         {
           "title": "스페이스X, 영상 AI ＇그록 이매진＇ 개발팀 대부분 해고...AI 코딩에 집중",
@@ -38513,7 +38507,7 @@
           "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217412",
           "category": "민간",
-          "score": 3
+          "score": 4
         },
         {
           "title": "오픈AI, AI 에이전트가 대신 결제하는 ＇챗GPT 월렛＇ 출시",
@@ -38522,10 +38516,16 @@
           "score": 4
         },
         {
+          "title": "젠슨 황 퇴진에 670조원 AI 금융구상 이탈 움직임",
+          "link": "https://www.etnews.com/20261114000007",
+          "category": "민간",
+          "score": 4
+        },
+        {
           "title": "〃사람의 움직임, 휴머노이드 로봇에 이식한다〃…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
           "category": "민간",
-          "score": 4
+          "score": 5
         },
         {
           "title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행",
@@ -38539,16 +38539,15 @@
           "title": "오픈AI “유럽 중고생 80% AI로 숙제”…韓도 ＇공교육 AI 활용 기준＇ 실효성 높여야",
           "link": "https://www.etnews.com/20261113000219",
           "category": "기관",
-          "score": 3
+          "score": 4
         },
         {
           "title": "초당대, 산업부 ＇AI 자율제조 기반 조선용 알루미늄 절단시스템 개발 과제＇ 선정",
           "link": "https://www.etnews.com/20261113000021",
           "category": "기관",
-          "score": 3
+          "score": 4
         }
       ]
-    },
-    "briefing": "- 엔비디아는 사람의 움직임을 휴머노이드 로봇에 이식할 수 있는 피지컬 AI 동작 변환 기술을 오픈소스로 공개했습니다.\n- 중국 기업들이 미국의 수출 통제 대상인 '블랙웰' AI 칩을 사용한 흔적이 발견되어 관련 논란이 제기되었습니다.\n- 미국 정부의 안보 규제 강화에 따라 앤트로픽 IPO 과정에서 중국 및 홍콩 투자자의 공모주 배정이 제한될 가능성이 커졌습니다."
+    }
   }
 }

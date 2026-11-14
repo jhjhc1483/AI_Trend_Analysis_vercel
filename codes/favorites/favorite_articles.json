@@ -9,12 +9,6 @@
     "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=217412",
     "category": "민간",
-    "score": 3
-  },
-  {
-    "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217405",
-    "category": "해외",
     "score": 4
   },
   {
@@ -27,7 +21,7 @@
     "title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향",
     "link": "https://www.aitimes.com/news/articleView.html?idxno=217402",
     "category": "해외",
-    "score": 4
+    "score": 5
   },
   {
     "title": "오픈AI, AI 에이전트가 대신 결제하는 ＇챗GPT 월렛＇ 출시",
@@ -51,7 +45,7 @@
     "title": "오픈AI “유럽 중고생 80% AI로 숙제”…韓도 ＇공교육 AI 활용 기준＇ 실효성 높여야",
     "link": "https://www.etnews.com/20261113000219",
     "category": "기관",
-    "score": 3
+    "score": 4
   },
   {
     "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
@@ -63,7 +57,13 @@
     "title": "초당대, 산업부 ＇AI 자율제조 기반 조선용 알루미늄 절단시스템 개발 과제＇ 선정",
     "link": "https://www.etnews.com/20261113000021",
     "category": "기관",
-    "score": 3
+    "score": 4
+  },
+  {
+    "title": "젠슨 황 퇴진에 670조원 AI 금융구상 이탈 움직임",
+    "link": "https://www.etnews.com/20261114000007",
+    "category": "민간",
+    "score": 4
   },
   {
     "title": "대만 매체 “앨리스 황, 중국 국가안전부 반도체팀 소속”",
@@ -75,7 +75,7 @@
     "title": "〃사람의 움직임, 휴머노이드 로봇에 이식한다〃…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
     "link": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
     "category": "민간",
-    "score": 4
+    "score": 5
   },
   {
     "title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행",
