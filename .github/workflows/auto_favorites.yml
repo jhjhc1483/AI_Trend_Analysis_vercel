@@ -2,19 +2,26 @@ name: Auto Favorites Generation
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 17 * * *' # 매일 오전 2시
-    - cron: '0 18 * * *' # 매일 오전 3시
-    # - cron: '0 21 * * *' # 매일 오전 6시
-    # - cron: '30 20 * * *' #매일 오전 5시반    
+  # 크롤링(main.yml)이 끝나면 자동 실행 — 시간 예약 대신 체인 연결
+  workflow_run:
+    workflows: ["Run Python Scripts Daily"]
+    types: [completed]
+
+concurrency:
+  group: favorites-pipeline
+  cancel-in-progress: false
 
 jobs:
   build:
+    # 크롤링이 성공했을 때만 실행 (수동 실행은 항상 허용)
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: 저장소 체크아웃
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+      with:
+        ref: main  # 크롤링 결과가 반영된 최신 main
 
     - name: Python 설정
       uses: actions/setup-python@v4
@@ -44,6 +51,7 @@ jobs:
         git config --global user.email "action@github.com"
         git add codes/favorites/*.json codes/data.txt codes/data.json
         git commit -m "Update favorites & data.txt/json (Auto-generated)" || echo "No changes to commit"
+        git pull --rebase --autostash origin main
         git push
 
     # - name: Run send_kakao2.py
