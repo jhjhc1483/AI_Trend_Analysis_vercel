@@ -38455,5 +38455,99 @@
       ]
     },
     "briefing": "- 미 국방부가 냉동고 해킹 사례를 통해 군 기반시설에 대한 AI 활용 점검 및 보안 강화의 필요성을 제기했습니다.\n- ETRI가 사람의 특성을 이해하고 사용자 맞춤형 작업을 수행하는 로봇 AI 평가 기술인 '트리니티'를 개발했습니다.\n- 우크라이나계 방산 기업 유포스가 전장에서 검증된 자율 무인체계 생산 확대를 위해 7억 달러 투자를 유치했습니다."
+  },
+  "26.11.15": {
+    "categorized": {
+      "해외": [
+        {
+          "title": "[11월13일] ＇AI의 은행＇ 이끌던 젠슨 황 퇴임…AI 산업 판도 바뀌나",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217364",
+          "category": "해외",
+          "score": 5
+        },
+        {
+          "title": "말레이시아, 메가스피드 AI 칩 재수출 의혹 조사 착수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217405",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "딥시크·문샷 등 중국 4개사, 수출 통제 ＇블랙웰＇ 사용 흔적 발견",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217397",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217402",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "스페이스X, 영상 AI ＇그록 이매진＇ 개발팀 대부분 해고...AI 코딩에 집중",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217399",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "[ET시선] 1.4조달러 앤트로픽 IPO 뒤에 놓인 거대한 청구서",
+          "link": "https://www.etnews.com/20261113000193",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”",
+          "link": "https://www.etnews.com/20261114000015",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "대만 매체 “앨리스 황, 중국 국가안전부 반도체팀 소속”",
+          "link": "https://www.etnews.com/20261114000003",
+          "category": "해외",
+          "score": 4
+        }
+      ],
+      "민간": [
+        {
+          "title": "아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217412",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "오픈AI, AI 에이전트가 대신 결제하는 ＇챗GPT 월렛＇ 출시",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217400",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "〃사람의 움직임, 휴머노이드 로봇에 이식한다〃…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42732",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42731",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "오픈AI “유럽 중고생 80% AI로 숙제”…韓도 ＇공교육 AI 활용 기준＇ 실효성 높여야",
+          "link": "https://www.etnews.com/20261113000219",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "초당대, 산업부 ＇AI 자율제조 기반 조선용 알루미늄 절단시스템 개발 과제＇ 선정",
+          "link": "https://www.etnews.com/20261113000021",
+          "category": "기관",
+          "score": 3
+        }
+      ]
+    }
   }
 }
