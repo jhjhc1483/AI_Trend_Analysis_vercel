@@ -2,19 +2,26 @@ name: AI Audio Briefing Generator (Google Cloud TTS)
 
 on:
   workflow_dispatch:
-  schedule:
-    - cron: '0 18 * * *' # 매일 오전 3시
-    - cron: '0 19 * * *' # 매일 오전 4시
-    # - cron: '30 21 * * *' #매일 오전 6시반 
-    # - cron: '0 21 * * *' # 매일 오전 6시
+  # 즐겨찾기 생성(auto_favorites.yml)이 끝나면 자동 실행
+  workflow_run:
+    workflows: ["Auto Favorites Generation"]
+    types: [completed]
+
+concurrency:
+  group: audio-pipeline
+  cancel-in-progress: false
 
 jobs:
   build:
+    # 즐겨찾기 생성이 성공했을 때만 실행 (수동 실행은 항상 허용)
+    if: github.event_name == 'workflow_dispatch' || github.event.workflow_run.conclusion == 'success'
     runs-on: ubuntu-latest
-    
+
     steps:
     - name: 저장소 체크아웃
-      uses: actions/checkout@v3
+      uses: actions/checkout@v4
+      with:
+        ref: main  # 즐겨찾기 결과가 반영된 최신 main
 
     - name: Python 설정
       uses: actions/setup-python@v4
@@ -39,4 +46,5 @@ jobs:
         git add public/audio.mp3
         git add codes/data.json
         git commit -m "Update audio and briefing (Edge-TTS)" || echo "No changes to commit"
+        git pull --rebase --autostash origin main
         git push

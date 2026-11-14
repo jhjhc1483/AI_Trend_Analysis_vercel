@@ -1,10 +1,18 @@
 name: Run Python Scripts Daily
 
 on:
-  workflow_dispatch: # 수동 실행
+  workflow_dispatch: # 수동 실행 / cron-job.org 외부 트리거
+    inputs:
+      round:
+        description: '실행 회차 (1 = 오전 1시분 키, 2 = 오전 1시반분 키)'
+        required: false
+        default: '1'
+        type: choice
+        options: ['1', '2']
+  # ⚠️ cron-job.org 설정을 마치면 아래 schedule 블록은 삭제하세요 (중복 실행 방지)
   schedule:
-    - cron: '0 16 * * *' # 매일 오전 1시 (한국시간)
-    - cron: '30 16 * * *' # 매일 오전 1시반 (한국시간)
+    - cron: '7 16 * * *' # 매일 오전 1시 7분 (한국시간) — 정각 혼잡 회피
+    - cron: '37 16 * * *' # 매일 오전 1시 37분 (한국시간) — 정각 혼잡 회피
     # - cron: '0 20 * * *' # 매일 오전 5시
     # - cron: '30 20 * * 0-4' #매주 월~금 오전 5시반  
     # - cron: '0 21 * * *'  # 매일 오전 6시
@@ -27,10 +35,15 @@ on:
     # # 매주 월요일 오전 9시 (UTC 0시)
     # #- cron: '0 0 * * 1'
 
-jobs: 
+# 1회차/2회차가 겹쳐서 동시에 push 하지 않도록 순차 실행
+concurrency:
+  group: crawl-pipeline
+  cancel-in-progress: false
+
+jobs:
   build:
     runs-on: ubuntu-latest
-    
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
@@ -60,7 +73,13 @@ jobs:
           MOD=$(( DAY % 3 ))      # 3으로 나눈 나머지 (0, 1, 2)
           CRON="${{ github.event.schedule }}"
 
-          if [ "$CRON" = "30 16 * * *" ]; then
+          # 회차 결정: 수동/외부 트리거면 inputs.round, schedule이면 cron 문자열로 판단
+          ROUND="${{ inputs.round }}"
+          if [ -z "$ROUND" ]; then
+            if [ "$CRON" = "37 16 * * *" ]; then ROUND=2; else ROUND=1; fi
+          fi
+
+          if [ "$ROUND" = "2" ]; then
             # [2회차] 오전 1:30 실행
             if [ $MOD -eq 1 ]; then
               CHOSEN_KEY="$KEY_2"
@@ -95,7 +114,7 @@ jobs:
 
           echo "=========================================="
           echo " 실행 일시: $(date +'%Y-%m-%d %H:%M:%S KST')"
-          echo " 실행 모드: ${CRON:-수동 실행(workflow_dispatch)}"
+          echo " 실행 모드: ${CRON:-수동/외부 실행(workflow_dispatch)} / ${ROUND}회차"
           echo " 오늘 날짜 mod 3: $MOD"
           echo " 적용된 Scraper API 키: $KEY_NAME"
           echo "=========================================="
