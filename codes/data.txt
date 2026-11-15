@@ -2,38 +2,59 @@
 
 📰 오늘의 기사
 [국방]
-◾ 靑 국가안보실, 민·관·군 시스템 중간점검…사이버 보안 사각지대 줄인다
-https://www.etnews.com/20261115000127
-
 ◾ [르포]HD현대, 안두릴과 첫 무인수상함 건조…무인운항 시장 선점 ＇속도＇
 https://www.etnews.com/20261113000206
 
 ◾ [국방일보 62주년 창간기획] AI가 뽑은 독자기고 속 키워드
 https://kookbang.dema.mil.kr/newsWeb/20261116/4/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
 
+◾ [국방일보 62주년 창간기획] 새로운 성장동력 ‘디지털 플랫폼’
+https://kookbang.dema.mil.kr/newsWeb/20261116/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
+
 ◾ 인공지능 시대 군인의 핵심 덕목은 인성이다
 https://kookbang.dema.mil.kr/newsWeb/20261116/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
 
 [민간]
+◾ LGU+, 내년 B2B 토큰 사업 진출…〃업무당 AI 총비용 낮춘다〃
+https://www.aitimes.com/news/articleView.html?idxno=217408
+
+◾ 아이에스시, 인천 송도에 AI 반도체 검사 연구·생산 새 거점 구축
+https://www.etnews.com/20261115000179
+
+◾ KT텔레캅, 창립 20주년 비전 선포…“AI·돌봄 결합한 AX 보안기업 도약”
+https://www.etnews.com/20261115000120
+
 ◾ “AI 불확실 우려에도 수요 견고”…SK하이닉스, HBM4 생산능력 더 키운다
 https://www.etnews.com/20261113000212
 
 ◾ [시스코 라이브2026] “韓, AI·양자 적용 기반 갖춰”…CDA 협력 확대
 https://www.etnews.com/20261115000078
 
-◾ 젠슨 황 퇴진에 엔비디아 공급망 ＇재편＇…韓 반도체 수요처 다변화 ＇기회＇
-https://www.etnews.com/20261115000057
+◾ KT, AI 기반 화재 안전 ＇세이프메이트＇ 인천 남동공단에 적용
+https://www.etnews.com/20261115000082
+
+◾ 모호한 부분도 문맥 읽어 파악...KAIST, 소리 없이 알아듣는 고정확도 AI 개발
+https://www.etnews.com/20261113000113
+
+◾ 두산에너빌리티, 발전사 고객과 AI 기반 발전운영·정비 기술 공유
+https://www.etnews.com/20261115000061
+
+◾ LG에너지솔루션, 북미 RE+서 AI 데이터센터용 전력 솔루션 공개
+https://www.etnews.com/20261115000049
 
 ◾ 최태원 SK그룹 회장, “기존 사업의 틀 깨고 ＇AI 플라이휠＇ 구조 만들어야”
 https://www.etnews.com/20261115000033
 
-◾ 아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다
-https://www.aitimes.kr/news/articleView.html?idxno=42737
+◾ 현대홈쇼핑, 업계 최초 100% AI 방송 도입…쇼호스트·촬영 없이 상품 소개
+https://www.etnews.com/20261115000027
 
 ◾ 최태원 SK 회장, “AI 반도체 넘어 서비스·토큰 이코노미까지”…‘AI 플라이휠’ 성장 전략 제시
 https://www.aitimes.kr/news/articleView.html?idxno=42733
 
 [기관]
+◾ 靑 국가안보실, 민·관·군 시스템 중간점검…사이버 보안 사각지대 줄인다
+https://www.etnews.com/20261115000127
+
 ◾ “AI 기반 과학기술 강국으로”…과총, 내년 AI 얼라이언스 출범
 https://www.etnews.com/20261113000266
 
@@ -42,6 +63,12 @@ https://www.etnews.com/20261115000095
 
 ◾ 디지털정부학회, 추계학술대회 개최…AI 정부 해법 모색
 https://www.etnews.com/20261115000088
+
+◾ 마음AI, 피지컬 AI ＇데이터 팩토리＇ 대학으로 확대…산학협력 강화
+https://www.etnews.com/20261113000233
+
+◾ [AX 인재 키우는 대학]〈1〉 한양대, 반도체에 AI 접목…23개 기업과 현장형 융합인재 양성
+https://www.etnews.com/20261115000009
 
 ◾ KETI·해양교통안전공단, 해양교통 AI 기반 기술개발 및 AX 전환 협력
 https://www.etnews.com/20261115000002
@@ -56,13 +83,16 @@ https://www.aitimes.com/news/articleView.html?idxno=217419
 ◾ 젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회
 https://www.aitimes.com/news/articleView.html?idxno=217422
 
-◾ 엔비디아 투자자들 〃젠슨 황 복귀 검토해야〃…머스크 등 거물 가세
-https://www.aitimes.com/news/articleView.html?idxno=217413
-
 ◾ 구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개
 https://www.aitimes.kr/news/articleView.html?idxno=42738
 
+◾ 아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다
+https://www.aitimes.kr/news/articleView.html?idxno=42737
+
 [기타]
+◾ [정유신의 핀테크스토리]AI가 해킹하는 시대, 사이버보안의 패러다임이 바뀐다
+https://www.etnews.com/20261115000064
+
 ◾ 세무사 수석 합격자 부정 실토...초소형 카메라·AI로 문제 풀어
 https://kookbang.dema.mil.kr/newsWeb/20261116/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
 
