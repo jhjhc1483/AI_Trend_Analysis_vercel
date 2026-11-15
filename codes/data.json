@@ -38550,5 +38550,139 @@
       ]
     },
     "briefing": "- 엔비디아가 사람의 움직임을 휴머노이드 로봇에 즉시 이식할 수 있는 피지컬 AI 동작 변환 기술을 오픈소스로 공개했습니다.\n- 중국 기업들이 미국 정부의 수출 통제 대상인 엔비디아 블랙웰 칩을 우회적으로 사용하고 있는 정황이 포착되었습니다.\n- 미국 정부가 안보 규제를 강화함에 따라 앤트로픽 IPO 과정에서 중국 및 홍콩 투자자의 참여가 제한될 전망입니다."
+  },
+  "26.11.16": {
+    "categorized": {
+      "국방": [
+        {
+          "title": "靑 국가안보실, 민·관·군 시스템 중간점검…사이버 보안 사각지대 줄인다",
+          "link": "https://www.etnews.com/20261115000127",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "[르포]HD현대, 안두릴과 첫 무인수상함 건조…무인운항 시장 선점 ＇속도＇",
+          "link": "https://www.etnews.com/20261113000206",
+          "category": "국방",
+          "score": 5
+        },
+        {
+          "title": "[국방일보 62주년 창간기획] AI가 뽑은 독자기고 속 키워드",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261116/4/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293",
+          "category": "국방",
+          "score": 4
+        },
+        {
+          "title": "인공지능 시대 군인의 핵심 덕목은 인성이다",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261116/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293",
+          "category": "국방",
+          "score": 4
+        }
+      ],
+      "해외": [
+        {
+          "title": "중국, 젠슨 황 사임·미국 규제 강화에 4조원대 AI 데이터센터 사업 위기",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217419",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217422",
+          "category": "해외",
+          "score": 3
+        },
+        {
+          "title": "엔비디아 투자자들 〃젠슨 황 복귀 검토해야〃…머스크 등 거물 가세",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217413",
+          "category": "해외",
+          "score": 4
+        },
+        {
+          "title": "구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42738",
+          "category": "해외",
+          "score": 3
+        }
+      ],
+      "민간": [
+        {
+          "title": "“AI 불확실 우려에도 수요 견고”…SK하이닉스, HBM4 생산능력 더 키운다",
+          "link": "https://www.etnews.com/20261113000212",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "[시스코 라이브2026] “韓, AI·양자 적용 기반 갖춰”…CDA 협력 확대",
+          "link": "https://www.etnews.com/20261115000078",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "젠슨 황 퇴진에 엔비디아 공급망 ＇재편＇…韓 반도체 수요처 다변화 ＇기회＇",
+          "link": "https://www.etnews.com/20261115000057",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "최태원 SK그룹 회장, “기존 사업의 틀 깨고 ＇AI 플라이휠＇ 구조 만들어야”",
+          "link": "https://www.etnews.com/20261115000033",
+          "category": "민간",
+          "score": 4
+        },
+        {
+          "title": "아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42737",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "최태원 SK 회장, “AI 반도체 넘어 서비스·토큰 이코노미까지”…‘AI 플라이휠’ 성장 전략 제시",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42733",
+          "category": "민간",
+          "score": 4
+        }
+      ],
+      "기관": [
+        {
+          "title": "“AI 기반 과학기술 강국으로”…과총, 내년 AI 얼라이언스 출범",
+          "link": "https://www.etnews.com/20261113000266",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "인천시, 지역 AI 기업 12곳과 글로벌 AI 허브 유치 전략 논의",
+          "link": "https://www.etnews.com/20261115000095",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "디지털정부학회, 추계학술대회 개최…AI 정부 해법 모색",
+          "link": "https://www.etnews.com/20261115000088",
+          "category": "기관",
+          "score": 3
+        },
+        {
+          "title": "KETI·해양교통안전공단, 해양교통 AI 기반 기술개발 및 AX 전환 협력",
+          "link": "https://www.etnews.com/20261115000002",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "북극 해빙 30일 앞서 예측하는 AI…UNIST, 위성자료·생성형 AI 결합한 ‘아이스네스트’ 개발",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42734",
+          "category": "기관",
+          "score": 4
+        }
+      ],
+      "기타": [
+        {
+          "title": "세무사 수석 합격자 부정 실토...초소형 카메라·AI로 문제 풀어",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261116/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293",
+          "category": "기타",
+          "score": 3
+        }
+      ]
+    }
   }
 }

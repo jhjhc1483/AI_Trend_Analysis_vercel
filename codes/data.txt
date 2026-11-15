@@ -1,50 +1,70 @@
-📢26.11.15 AI 일일 동향📢
+📢26.11.16 AI 일일 동향📢
 
 📰 오늘의 기사
+[국방]
+◾ 靑 국가안보실, 민·관·군 시스템 중간점검…사이버 보안 사각지대 줄인다
+https://www.etnews.com/20261115000127
+
+◾ [르포]HD현대, 안두릴과 첫 무인수상함 건조…무인운항 시장 선점 ＇속도＇
+https://www.etnews.com/20261113000206
+
+◾ [국방일보 62주년 창간기획] AI가 뽑은 독자기고 속 키워드
+https://kookbang.dema.mil.kr/newsWeb/20261116/4/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
+
+◾ 인공지능 시대 군인의 핵심 덕목은 인성이다
+https://kookbang.dema.mil.kr/newsWeb/20261116/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
+
 [민간]
-◾ 아마존, 전 세계 상품 정보 통합 추진…AI 쇼핑 주도권 지킨다
-https://www.aitimes.com/news/articleView.html?idxno=217412
+◾ “AI 불확실 우려에도 수요 견고”…SK하이닉스, HBM4 생산능력 더 키운다
+https://www.etnews.com/20261113000212
 
-◾ 오픈AI, AI 에이전트가 대신 결제하는 ＇챗GPT 월렛＇ 출시
-https://www.aitimes.com/news/articleView.html?idxno=217400
+◾ [시스코 라이브2026] “韓, AI·양자 적용 기반 갖춰”…CDA 협력 확대
+https://www.etnews.com/20261115000078
 
-◾ 젠슨 황 퇴진에 670조원 AI 금융구상 이탈 움직임
-https://www.etnews.com/20261114000007
+◾ 젠슨 황 퇴진에 엔비디아 공급망 ＇재편＇…韓 반도체 수요처 다변화 ＇기회＇
+https://www.etnews.com/20261115000057
 
-◾ 〃사람의 움직임, 휴머노이드 로봇에 이식한다〃…엔비디아, 피지컬 AI 동작 변환 기술 오픈소스 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42732
+◾ 최태원 SK그룹 회장, “기존 사업의 틀 깨고 ＇AI 플라이휠＇ 구조 만들어야”
+https://www.etnews.com/20261115000033
 
-◾ 오픈AI, AI 에이전트가 구매·결제하는 ‘챗GPT 월렛’ 공개…실제 카드번호 노출 없이 결제 수행
-https://www.aitimes.kr/news/articleView.html?idxno=42731
+◾ 아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다
+https://www.aitimes.kr/news/articleView.html?idxno=42737
+
+◾ 최태원 SK 회장, “AI 반도체 넘어 서비스·토큰 이코노미까지”…‘AI 플라이휠’ 성장 전략 제시
+https://www.aitimes.kr/news/articleView.html?idxno=42733
 
 [기관]
-◾ 오픈AI “유럽 중고생 80% AI로 숙제”…韓도 ＇공교육 AI 활용 기준＇ 실효성 높여야
-https://www.etnews.com/20261113000219
+◾ “AI 기반 과학기술 강국으로”…과총, 내년 AI 얼라이언스 출범
+https://www.etnews.com/20261113000266
 
-◾ 초당대, 산업부 ＇AI 자율제조 기반 조선용 알루미늄 절단시스템 개발 과제＇ 선정
-https://www.etnews.com/20261113000021
+◾ 인천시, 지역 AI 기업 12곳과 글로벌 AI 허브 유치 전략 논의
+https://www.etnews.com/20261115000095
+
+◾ 디지털정부학회, 추계학술대회 개최…AI 정부 해법 모색
+https://www.etnews.com/20261115000088
+
+◾ KETI·해양교통안전공단, 해양교통 AI 기반 기술개발 및 AX 전환 협력
+https://www.etnews.com/20261115000002
+
+◾ 북극 해빙 30일 앞서 예측하는 AI…UNIST, 위성자료·생성형 AI 결합한 ‘아이스네스트’ 개발
+https://www.aitimes.kr/news/articleView.html?idxno=42734
 
 [해외]
-◾ [11월13일] ＇AI의 은행＇ 이끌던 젠슨 황 퇴임…AI 산업 판도 바뀌나
-https://www.aitimes.com/news/articleView.html?idxno=217364
+◾ 중국, 젠슨 황 사임·미국 규제 강화에 4조원대 AI 데이터센터 사업 위기
+https://www.aitimes.com/news/articleView.html?idxno=217419
 
-◾ 딥시크·문샷 등 중국 4개사, 수출 통제 ＇블랙웰＇ 사용 흔적 발견
-https://www.aitimes.com/news/articleView.html?idxno=217397
+◾ 젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회
+https://www.aitimes.com/news/articleView.html?idxno=217422
 
-◾ 앤트로픽 IPO, 중국·홍콩 투자자 공모주 배정 제한…미국 안보 규제 영향
-https://www.aitimes.com/news/articleView.html?idxno=217402
+◾ 엔비디아 투자자들 〃젠슨 황 복귀 검토해야〃…머스크 등 거물 가세
+https://www.aitimes.com/news/articleView.html?idxno=217413
 
-◾ 스페이스X, 영상 AI ＇그록 이매진＇ 개발팀 대부분 해고...AI 코딩에 집중
-https://www.aitimes.com/news/articleView.html?idxno=217399
+◾ 구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42738
 
-◾ [ET시선] 1.4조달러 앤트로픽 IPO 뒤에 놓인 거대한 청구서
-https://www.etnews.com/20261113000193
-
-◾ 로이터 “엔비디아 의존 中 AI 프로젝트 규모 4조6000억원 이상”
-https://www.etnews.com/20261114000015
-
-◾ 대만 매체 “앨리스 황, 중국 국가안전부 반도체팀 소속”
-https://www.etnews.com/20261114000003
+[기타]
+◾ 세무사 수석 합격자 부정 실토...초소형 카메라·AI로 문제 풀어
+https://kookbang.dema.mil.kr/newsWeb/20261116/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
