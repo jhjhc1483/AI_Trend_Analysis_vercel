@@ -1,100 +1,128 @@
-📢26.11.16 AI 일일 동향📢
+📢26.11.17 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ [르포]HD현대, 안두릴과 첫 무인수상함 건조…무인운항 시장 선점 ＇속도＇
-https://www.etnews.com/20261113000206
+◾ “한·아세안 AI·문화 이니셔티브 제안”
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNDgxMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ [국방일보 62주년 창간기획] AI가 뽑은 독자기고 속 키워드
-https://kookbang.dema.mil.kr/newsWeb/20261116/4/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
+◾ AI 아이디어 발굴 업무혁신 나선다
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDgyNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ [국방일보 62주년 창간기획] 새로운 성장동력 ‘디지털 플랫폼’
-https://kookbang.dema.mil.kr/newsWeb/20261116/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
+◾ 민간 SW/데이터, 국방 접목 방안 논의
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDgyMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 인공지능 시대 군인의 핵심 덕목은 인성이다
-https://kookbang.dema.mil.kr/newsWeb/20261116/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
+◾ ★ 품는 IT기업, 국방 AX 앞두고 軍 네트워크 확보 경쟁
+https://www.etnews.com/20261116000320
+
+◾ “한·아세안 AI·문화 이니셔티브 제안”
+https://kookbang.dema.mil.kr/newsWeb/20261117/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+
+◾ 민간 SW/데이터, 국방 접목 방안 논의
+https://kookbang.dema.mil.kr/newsWeb/20261117/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+
+◾ AI 전장, 상호운용성의 핵심은 API 표준화
+https://kookbang.dema.mil.kr/newsWeb/20261117/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+
+[육군]
+◾ AI 아이디어 발굴 업무혁신 나선다
+https://kookbang.dema.mil.kr/newsWeb/20261117/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+
+◾ 드론·대드론 기술 대학과 공동연구
+https://kookbang.dema.mil.kr/newsWeb/20261117/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
 
 [민간]
-◾ LGU+, 내년 B2B 토큰 사업 진출…〃업무당 AI 총비용 낮춘다〃
-https://www.aitimes.com/news/articleView.html?idxno=217408
+◾ [AIx소프트웨이브 2026] 지란지교소프트, 소프트웨이브 2026서 기업용 AI 에이전트 ＇오피스에이전트＇ 공개
+https://www.etnews.com/20261116000460
 
-◾ 아이에스시, 인천 송도에 AI 반도체 검사 연구·생산 새 거점 구축
-https://www.etnews.com/20261115000179
+◾ 새벽 3시 AI가 깨우는 삼성서울병원…데이터로 진료·수술 지연 ＇최소화＇
+https://www.etnews.com/20261116000314
 
-◾ KT텔레캅, 창립 20주년 비전 선포…“AI·돌봄 결합한 AX 보안기업 도약”
-https://www.etnews.com/20261115000120
+◾ 시스원, KDT ＇AI 캠퍼스＇ 선정… AI 인재양성 본격 나선다
+https://www.etnews.com/20261116000404
 
-◾ “AI 불확실 우려에도 수요 견고”…SK하이닉스, HBM4 생산능력 더 키운다
-https://www.etnews.com/20261113000212
+◾ ANYFIVE, AI 기반 지능형 전자연구노트 ＇ThinkCat ELN＇ 출시
+https://www.etnews.com/20261116000376
 
-◾ [시스코 라이브2026] “韓, AI·양자 적용 기반 갖춰”…CDA 협력 확대
-https://www.etnews.com/20261115000078
+◾ 외과의 손끝 움직임까지 AI 학습…로소타, 수술 데이터 오차 89% 줄였다
+https://www.etnews.com/20261116000364
 
-◾ KT, AI 기반 화재 안전 ＇세이프메이트＇ 인천 남동공단에 적용
-https://www.etnews.com/20261115000082
+◾ [AIx소프트웨이브 2026] 디밀리언, 소프트웨어대전 2026 참가... 제조 특화 AI 에이전트로 제조 AX 혁신 제시
+https://www.etnews.com/20261116000331
 
-◾ 모호한 부분도 문맥 읽어 파악...KAIST, 소리 없이 알아듣는 고정확도 AI 개발
-https://www.etnews.com/20261113000113
+◾ 신한은행, 글로벌 AI 학회 ＇ICAIF 2026＇서 은행 특화 LLM·에이전트 검증 성과 발표
+https://www.etnews.com/20261116000323
 
-◾ 두산에너빌리티, 발전사 고객과 AI 기반 발전운영·정비 기술 공유
-https://www.etnews.com/20261115000061
+◾ IBK기업은행, 자체 개발 AI 코딩 에이전트 도입…현업 주도 AX 본격화
+https://www.etnews.com/20261116000300
 
-◾ LG에너지솔루션, 북미 RE+서 AI 데이터센터용 전력 솔루션 공개
-https://www.etnews.com/20261115000049
+◾ 농협은행, 챗봇 넘은 ＇생활금융 AI＇…전세예산·상품추천 에이전트 구축
+https://www.etnews.com/20261116000228
 
-◾ 최태원 SK그룹 회장, “기존 사업의 틀 깨고 ＇AI 플라이휠＇ 구조 만들어야”
-https://www.etnews.com/20261115000033
-
-◾ 현대홈쇼핑, 업계 최초 100% AI 방송 도입…쇼호스트·촬영 없이 상품 소개
-https://www.etnews.com/20261115000027
-
-◾ 최태원 SK 회장, “AI 반도체 넘어 서비스·토큰 이코노미까지”…‘AI 플라이휠’ 성장 전략 제시
-https://www.aitimes.kr/news/articleView.html?idxno=42733
+◾ 운전대·페달 없는 테슬라 판매
+https://kookbang.dema.mil.kr/newsWeb/20261117/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
 
 [기관]
-◾ 靑 국가안보실, 민·관·군 시스템 중간점검…사이버 보안 사각지대 줄인다
-https://www.etnews.com/20261115000127
+◾ [기획] 정부 AX ＇원스톱 지원＇…공공 AX 10개 과제 밑그림
+https://www.etnews.com/20261116000407
 
-◾ “AI 기반 과학기술 강국으로”…과총, 내년 AI 얼라이언스 출범
-https://www.etnews.com/20261113000266
+◾ 지식재산위원회, 제4차 국가지식재산 기본계획 공청회 개최…AI 대전환·기술패권 경쟁 대응 전략 논의
+https://www.etnews.com/20261116000147
 
-◾ 인천시, 지역 AI 기업 12곳과 글로벌 AI 허브 유치 전략 논의
-https://www.etnews.com/20261115000095
+◾ 대전시, ＇글로벌 AI 허브＇ 유치 총력전…35개 기관과 손잡고 본격화
+https://www.etnews.com/20261116000108
 
-◾ 디지털정부학회, 추계학술대회 개최…AI 정부 해법 모색
-https://www.etnews.com/20261115000088
+◾ 수능 앞두고 AI 부정행위 범정부 긴급대응팀 구성…韓총리, 종합대책 마련 지시
+https://www.etnews.com/20261116000276
 
-◾ 마음AI, 피지컬 AI ＇데이터 팩토리＇ 대학으로 확대…산학협력 강화
-https://www.etnews.com/20261113000233
+◾ AI 의료기기, 허가 넘어 시장 진입까지…식약처, 규제·수가 연계 논의
+https://www.etnews.com/20261116000274
 
-◾ [AX 인재 키우는 대학]〈1〉 한양대, 반도체에 AI 접목…23개 기업과 현장형 융합인재 양성
-https://www.etnews.com/20261115000009
+◾ 차세대융합기술산업협회, ＇NCIA X 피지컬AI 밋업＇ 개최...업계가 한자리에 모여 나눈 현장의 이야기
+https://www.etnews.com/20261116000218
 
-◾ KETI·해양교통안전공단, 해양교통 AI 기반 기술개발 및 AX 전환 협력
-https://www.etnews.com/20261115000002
-
-◾ 북극 해빙 30일 앞서 예측하는 AI…UNIST, 위성자료·생성형 AI 결합한 ‘아이스네스트’ 개발
-https://www.aitimes.kr/news/articleView.html?idxno=42734
+◾ AI·피지컬 AI 로봇 혁신 퍼스트무버를 찾습니다
+https://www.etnews.com/20261116000197
 
 [해외]
-◾ 중국, 젠슨 황 사임·미국 규제 강화에 4조원대 AI 데이터센터 사업 위기
-https://www.aitimes.com/news/articleView.html?idxno=217419
+◾ 미국, 엔비디아·오픈AI 등 AI 기업 20여곳 ＇국가 대표기업＇ 지정 추진
+https://www.aitimes.com/news/articleView.html?idxno=217465
 
-◾ 젠슨 황, 자신이 키운 생성 AI에 풍자당해…딥페이크 밈 수백만 조회
-https://www.aitimes.com/news/articleView.html?idxno=217422
+◾ 영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악
+https://www.aitimes.com/news/articleView.html?idxno=217463
 
-◾ 구글 딥마인드, AI 강수 탐지 정확도 30% 이상 향상…전 세계 기상·위성 데이터셋 전면 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42738
+◾ 앤트그룹, 로봇에 ＇촉각＇ 더하는 AI 공개…물체 잡는 힘까지 판단
+https://www.aitimes.com/news/articleView.html?idxno=217455
 
-◾ 아마존, AI가 집 안을 날고 사업장을 순찰하는 자율 보안로봇 공개…고정형 CCTV 넘어 이동형 보안 시대 연다
-https://www.aitimes.kr/news/articleView.html?idxno=42737
+◾ 엔비디아 ＇그루트 2＇, 로봇 동작 넘어 미래 예측…시연 5회로 성공률 95%
+https://www.aitimes.com/news/articleView.html?idxno=217447
 
-[기타]
-◾ [정유신의 핀테크스토리]AI가 해킹하는 시대, 사이버보안의 패러다임이 바뀐다
-https://www.etnews.com/20261115000064
+◾ 美, 韓·日 등 9개 동맹국과 中 견제할 AI 공급망 보호 협정 체결
+https://www.etnews.com/20261116000527
 
-◾ 세무사 수석 합격자 부정 실토...초소형 카메라·AI로 문제 풀어
-https://kookbang.dema.mil.kr/newsWeb/20261116/4/ATCE_CTGR_0030010000/view.do;JSESSIONID_kookbnagWEB=WHnhCSSIWz-Hmeh-z76rbdsLu24ObG7WblT8thzr_pNHixQuGH4R!965578293
+◾ 아마존, 지상 640km에 우주 인터넷망 구축…인공지능 시대 글로벌 통신 인프라 확장
+https://www.aitimes.kr/news/articleView.html?idxno=42748
+
+◾ “AI가 연구하고, 설계하고, 검증한다”…알리바바, 신약 개발·제조 혁신할 ‘큐웬4 맥스’ 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42746
+
+◾ 애플, 최대 20만 명 대상 건강 AI 연구 착수…아이폰 건강 데이터와 의료 AI 결합
+https://www.aitimes.kr/news/articleView.html?idxno=42744
+
+◾ SKT·효성중공업, 기가와트급 AI 데이터센터 구축 협력…345kV 변전설비·800V 직류배전 공동 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42743
+
+◾ 휴머노이드 로봇 ‘LG 클로이드’ 국내 시범인증 추진…안전성·사용성 평가체계 및 국제표준 개발 참여
+https://www.aitimes.kr/news/articleView.html?idxno=42742
+
+◾ 서울대, 인간 신경계 모사한 피지컬 AI 개발…객체 인식 정확도 53.8%에서 88%로 향상
+https://www.aitimes.kr/news/articleView.html?idxno=42741
+
+📚 간행물
+◾ [제1316호] AI 지수(AI Index)로 살펴본 AI 국가 역량
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1316%ED%98%B8%5D%20AI%20%EC%A7%80%EC%88%98%28AI%20Index%29%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B8%20AI%20%EA%B5%AD%EA%B0%80%20%EC%97%AD%EB%9F%89
+
+◾ 2026년 10월 정보통신산업 수출입 동향
+https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-261116-000001&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
