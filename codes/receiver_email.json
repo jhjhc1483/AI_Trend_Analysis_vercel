@@ -1,20 +1,6 @@
 {
-  "emails": [
-    {
-      "email": "543family@naver.com",
-      "date": "2026-03-26"
-    },
-    {
-      "email": "jfchae1483@gmail.com",
-      "date": "2026-03-30"
-    },
-    {
-      "email": "s01098899449@gmail.com",
-      "date": "2026-03-30"
-    },
-    {
-      "email": "sikh3402@naver.com",
-      "date": "2026-04-09"
-    }
-  ]
+  "v": 1,
+  "enc": "aes-256-gcm",
+  "iv": "ZnWxEE6Tqvesu48A",
+  "data": "H44gX58uoPGP0K+lxrmpirBBmyIypfj9nqMzsOFtosqdJktIYmrbF3+pTGyv/C1onwV7r9H+25BiQQbETAmHUvyMpu5IRq8aqvKU9N4a3GTDi7WDYwlYIEQbUOXAamNggrXqK6cJal2Z9SguATDP3IX+MWW6etTG+XJPrgCCKlNHFfNsQ5MxrZ6vT+PwpS17EUpseOlkM3uNJfi+Q62H8reGe0xTSJ+aA/5NetvtoOcsSHh7AFpE6sarO6Y4A7MOhb+muryhF7wsyH6VSQ/J0a5XopnqN0MBv+s4cJXWJpRMTCzE4zhiprb40nno3hZCG0muZqkktnADyyKBx9Wm"
 }
