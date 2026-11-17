@@ -1,7 +1,17 @@
+# 로컬 실행용 전체 의존성 (GitHub Actions는 워크플로우마다 필요한 것만 설치)
+
+# 크롤링 (main.yml → run_crawlers.py)
 requests
-pandas
 beautifulsoup4
+pandas
+numpy
 selenium
-webdriver_manager
+webdriver-manager
+
+# AI 자동 선정 · 브리핑 · 오디오 (auto_favorites.yml, audio_gen.yml)
+google-genai
+edge-tts
+
+# 공통
 python-dotenv
-cryptography
+cryptography  # 구독자 목록 암호화 (kakao_or_gmail_send.yml)
