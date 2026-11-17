@@ -1,9 +1,9 @@
 import requests
 import pandas as pd
 import time
-import os
-import json
 import re  # 정규표현식 모듈
+
+from crawler_common import save_results
 
 # 1. 헤더 설정
 headers = {
@@ -82,38 +82,6 @@ for code, category_name in menu_map.items():
         print(f"Error on {category_name}: {e}")
 
 df17 = pd.DataFrame(data, columns=['기사명','분류','링크','년','월','일','시','분'])
+# 기존 데이터와 합쳐 중복 제거 후 저장 (crawler_common.save_results)
 full_path = 'codes/aikorea.json'
-
-# 폴더 생성
-os.makedirs(os.path.dirname(full_path), exist_ok=True)
-
-new_data = df17.to_dict('records')
-existing_data = []
-
-# 기존 데이터 로드
-if os.path.exists(full_path):
-    try:
-        with open(full_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            if content:
-                existing_data = json.loads(content)
-    except Exception as e:
-        print(f"기존 JSON 로드 에러: {e}")
-        existing_data = []
-
-# 데이터 병합 및 중복 제거
-combined_data = existing_data + new_data
-seen_links = set()
-final_data = []
-
-for item in combined_data:
-    link = item.get('링크') 
-    if link and link not in seen_links:
-        final_data.append(item)
-        seen_links.add(link)
-
-# 저장
-with open(full_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-print(f"[aikorea] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+save_results(df17.to_dict('records'), full_path, "aikorea")

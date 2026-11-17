@@ -1,10 +1,10 @@
 import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import json
-import os
 import re
 import datetime
+
+from crawler_common import save_results
 
 # 인공지능 신문 전체기사 3페이지까지 크롤링
 data = []
@@ -81,39 +81,6 @@ df12['기사명'] = df12['기사명'].fillna('')
 df12['기사명'] = df12['기사명'].str.replace('\\', '', regex=False)
 df12['기사명'] = df12['기사명'].str.replace('\'', '＇', regex=False)
 df12['기사명'] = df12['기사명'].str.replace('\"', '〃', regex=False)
-new_data = df12.to_dict('records')
-
-os.makedirs('codes', exist_ok=True)
+# 기존 데이터와 합쳐 중복 제거 후 저장 (crawler_common.save_results)
 full_path = 'codes/AInews.json'
-
-# ----------------- JSON 이어 붙이기 및 중복 제거 로직 -----------------
-
-existing_data = []
-
-if os.path.exists(full_path):
-    try:
-        with open(full_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            if content:
-                existing_data = json.loads(content)
-            else:
-                print("기존 JSON 파일은 존재하지만 비어 있습니다. 새 데이터만 저장합니다.")
-    except Exception as e:
-        print(f"기존 JSON 파일 로드 중 오류 발생 ({e}). 새 데이터만 저장합니다.")
-        existing_data = []
-
-combined_data = existing_data + new_data
-
-seen_links = set()
-final_data = []
-
-for item in combined_data:
-    link = item.get('링크') 
-    if link and link not in seen_links:
-        final_data.append(item)
-        seen_links.add(link)
-        
-with open(full_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-print(f"[AInews] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+save_results(df12.to_dict('records'), full_path, "AInews")

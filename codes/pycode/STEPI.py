@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
-import os
-import json
+
+from crawler_common import save_results
 url = ["https://www.stepi.re.kr/site/stepiko/ex/bbs/reportCateList.do?cateTypeCd=STEPI_REPORT","https://www.stepi.re.kr/site/stepiko/ex/bbs/reportCateList.do?cateTypeCd=A05"]
 
 data = []
@@ -41,44 +41,6 @@ for i in range(0,2):
         data.append([name,category,link,years,month,day])
       
 df6 = pd.DataFrame(data, columns=['제목','분류','링크','년','월','일'])
+# 기존 데이터와 합쳐 중복 제거 후 저장 (crawler_common.save_results)
 full_path = 'codes/STEPI.json'
-new_data = df6.to_dict('records')
-
-existing_data = []
-
-# 1. 기존 JSON 파일 로드
-if os.path.exists(full_path):
-    try:
-        with open(full_path, 'r', encoding='utf-8') as f:
-            # 파일이 비어있지 않은지 확인 후 로드
-            content = f.read()
-            if content:
-                existing_data = json.loads(content)
-            else:
-                print("기존 JSON 파일은 존재하지만 비어 있습니다. 새 데이터만 저장합니다.")
-    except Exception as e:
-        print(f"기존 JSON 파일 로드 중 오류 발생 ({e}). 새 데이터만 저장합니다.")
-        existing_data = []
-
-# 2. 새 데이터와 기존 데이터를 합치기
-combined_data = existing_data + new_data
-
-# 3. 중복 제거 (가장 중요한 단계)
-# '링크'를 기준으로 중복 제거를 위한 Set을 생성합니다.
-seen_links = set()
-final_data = []
-
-for item in combined_data:
-    link = item.get('링크') # '링크' 컬럼 값을 가져옵니다.
-    
-    # '링크'가 None이거나 비어있지 않고, 아직 처리하지 않은 링크인 경우에만 추가
-    if link and link not in seen_links:
-        final_data.append(item)
-        seen_links.add(link)
-        
-# 4. 최종 데이터를 JSON 파일로 저장 (덮어쓰기)
-# indent=4와 force_ascii=False 옵션을 유지하여 가독성 및 한글 보존
-with open(full_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-print(f"[STEPI] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+save_results(df6.to_dict('records'), full_path, "STEPI")

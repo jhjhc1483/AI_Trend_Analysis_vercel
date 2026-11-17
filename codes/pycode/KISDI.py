@@ -2,8 +2,8 @@ import requests
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
-import os
-import json
+
+from crawler_common import save_results
 
 url = ["https://www.kisdi.re.kr/report/list.do?key=m2101113024153&arrMasterId=3934560","https://www.kisdi.re.kr/report/list.do?key=m2101113024770&arrMasterId=3934580","https://www.kisdi.re.kr/report/list.do?key=m2101113024973&arrMasterId=3934581","https://www.kisdi.re.kr/report/list.do?key=m2104225467881&arrMasterId=3934586","https://www.kisdi.re.kr/report/list.do?key=m2101113025536&arrMasterId=3934550","https://www.kisdi.re.kr/report/list.do?key=m2102058837181&arrMasterId=4334696","https://www.kisdi.re.kr/report/list.do?key=m2101113025790&arrMasterId=4333447","https://www.kisdi.re.kr/report/list.do?key=m2101113025377&arrMasterId=4333446"]
 data = []
@@ -36,39 +36,6 @@ for i in range(0,8):
 
         
 df8 = pd.DataFrame(data, columns=['제목','분류','링크','년','월','일'])
+# 기존 데이터와 합쳐 중복 제거 후 저장 (crawler_common.save_results)
 full_path = 'codes/KISDI.json'
-new_data = df8.to_dict('records')
-
-existing_data = []
-
-# 1. 기존 JSON 파일 로드
-if os.path.exists(full_path):
-    try:
-        with open(full_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            if content:
-                existing_data = json.loads(content)
-            else:
-                print("기존 JSON 파일은 존재하지만 비어 있습니다. 새 데이터만 저장합니다.")
-    except Exception as e:
-        print(f"기존 JSON 파일 로드 중 오류 발생 ({e}). 새 데이터만 저장합니다.")
-        existing_data = []
-
-# 2. 새 데이터와 기존 데이터를 합치기
-combined_data = existing_data + new_data
-
-# 3. 중복 제거 (가장 중요한 단계)
-seen_links = set()
-final_data = []
-
-for item in combined_data:
-    link = item.get('링크') 
-    if link and link not in seen_links:
-        final_data.append(item)
-        seen_links.add(link)
-        
-# 4. 최종 데이터를 JSON 파일로 저장 (덮어쓰기)
-with open(full_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-print(f"[KISDI] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+save_results(df8.to_dict('records'), full_path, "KISDI")

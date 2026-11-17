@@ -168,6 +168,7 @@ def run_single_crawler(script_name, display_name):
             "status": "FAILED",
             "elapsed": 0,
             "new_count": 0,
+            "fetched_count": 0,
             "total_count": 0,
             "error_summary": f"파일을 찾을 수 없음: {script_path}",
             "logs": ""
@@ -222,6 +223,9 @@ def run_single_crawler(script_name, display_name):
 
     # 신규 건수 및 전체 건수 정규식 파싱
     # 예: 신규 15건 수집 | 기존 100건 병합 | 최종 115건 저장
+    # crawler_common.save_results 출력 예:
+    #   [국방부] 완료: 신규 3건 수집 (이번에 가져온 40건) | 기존 2817건 병합 | 최종 2820건 저장
+    # 신규 = 실제로 새로 추가된 건수, 가져온 = 사이트에서 읽어온 건수(이미 있던 기사 포함)
     new_count = 0
     total_count = 0
 
@@ -232,6 +236,9 @@ def run_single_crawler(script_name, display_name):
     total_match = re.search(r'최종\s*(\d+)\s*건', full_output)
     if total_match:
         total_count = int(total_match.group(1))
+
+    fetched_match = re.search(r'가져온\s*(\d+)\s*건', full_output)
+    fetched_count = int(fetched_match.group(1)) if fetched_match else new_count
 
     # 치명적 오류 감지 (403 Forbidden, Timeout, 전체 프로세스 에러 등)
     critical_error_keywords = [
@@ -251,10 +258,11 @@ def run_single_crawler(script_name, display_name):
         if any(kw in line for kw in critical_error_keywords):
             detected_errors.append(line.strip())
 
-    # [핵심] 종료 코드가 0이더라도, 치명적 오류가 출력되고 신규 수집이 0건이면 명백한 실패로 판정!
+    # [핵심] 종료 코드가 0이더라도, 치명적 오류가 출력되고 사이트에서 한 건도 못 가져왔으면 실패로 판정!
+    # (새 기사가 없는 조용한 날을 실패로 보지 않도록 '신규'가 아니라 '가져온' 건수로 판단)
     if return_code != 0:
         is_success = False
-    elif detected_errors and new_count == 0:
+    elif detected_errors and fetched_count == 0:
         is_success = False
         if not error_summary:
             error_summary = " | ".join(detected_errors[-2:])
@@ -286,6 +294,7 @@ def run_single_crawler(script_name, display_name):
         "status": "SUCCESS" if is_success else "FAILED",
         "elapsed": elapsed_time,
         "new_count": new_count,
+        "fetched_count": fetched_count,
         "total_count": total_count,
         "error_summary": error_summary,
         "logs": full_output[-2000:] if len(full_output) > 2000 else full_output
@@ -319,6 +328,7 @@ def save_crawl_status(results):
             "name": r["name"],
             "status": r["status"],
             "new_count": r["new_count"],
+            "fetched_count": r.get("fetched_count", 0),
             "elapsed": r["elapsed"],
         }
     status["updated_at"] = get_current_kst().isoformat(timespec="seconds")

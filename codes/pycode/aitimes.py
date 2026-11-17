@@ -3,13 +3,12 @@ from selenium.webdriver.common.by import By
 from selenium.webdriver.chrome.service import Service
 from selenium.webdriver.chrome.options import Options
 from webdriver_manager.chrome import ChromeDriverManager
-import time
 import requests
 from bs4 import BeautifulSoup
 import re
 import pandas as pd
-import os
-import json
+
+from crawler_common import save_results
 
 # 1. WebDriver 옵션 설정
 chrome_options = Options()
@@ -84,69 +83,12 @@ try:
     df1['기사명'] = df1['기사명'].str.replace('\"', '〃', regex=False)
 
 
-    full_path = 'codes/aitimes.json' 
-    new_data = df1.to_dict('records')
-
-    existing_data_dict = {}
-    total_existing = 0
-    total_new = len(new_data)
-    update_count = 0
-    skip_count = 0
-
-    # 1. 기존 JSON 파일 로드 및 딕셔너리로 변환 (link를 키로 사용)
-    if os.path.exists(full_path):
-        try:
-            with open(full_path, 'r', encoding='utf-8') as f:
-                content = f.read()
-                if content:
-                    existing_list = json.loads(content)
-                    total_existing = len(existing_list)
-               
-                    for item in existing_list:
-                        link = item.get('링크')
-                        if link:
-                            existing_data_dict[link] = item
-                else:
-                    print("기존 JSON 파일은 존재하지만 비어 있습니다.")
-        except Exception as e:
-            print(f"기존 JSON 파일 로드 중 오류 발생 ({e}). 새 데이터만 사용합니다.")
-            existing_data_dict = {}
-
-    # 2. 새 데이터를 순회하며 업데이트 또는 스킵 결정
-    for item in new_data:
-        link = item.get('링크')
-
-        new_time_tuple = (item.get('년'), item.get('월'), item.get('일'), item.get('시'), item.get('분'))
-
-        if link in existing_data_dict:
-
-            existing_item = existing_data_dict[link]
-            existing_time_tuple = (existing_item.get('년'), existing_item.get('월'), existing_item.get('일'), existing_item.get('시'), existing_item.get('분'))
-            if new_time_tuple != existing_time_tuple:
-                existing_data_dict[link] = item # 덮어쓰기
-                update_count += 1
-            else:
-                skip_count += 1
-        else:
-
-            existing_data_dict[link] = item
-
-    # 3. 딕셔너리 값을 리스트로 변환하여 최종 데이터 준비
-    final_data = list(existing_data_dict.values())
-            
-    print(f"\n--- 데이터 저장 요약 ---")
-    print(f"총 {total_existing}개의 기존 데이터와 {total_new}개의 새 데이터를 처리했습니다.")
-    print(f" - **업데이트(시간 변경)**된 항목: {update_count}개")
-    print(f" - **중복(링크+시간 동일)**되어 스킵된 항목: {skip_count}개")
-    print(f" - **새로 추가**된 항목: {len(final_data) - total_existing + skip_count}개") # 새로 추가 = 최종 - 기존 + 스킵
-    print(f"중복을 제거 및 업데이트한 후 최종 데이터는 총 {len(final_data)}개입니다.")
-
-    # 4. 최종 데이터를 JSON 파일로 저장
-    os.makedirs(os.path.dirname(full_path), exist_ok=True)
-    with open(full_path, 'w', encoding='utf-8') as f:
-        json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-    print(f"[aitimes] 완료: 신규 {total_new}건 수집 | 기존 {total_existing}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+    # 기존 데이터와 합쳐 저장 (crawler_common.save_results)
+    # AI타임스는 이미 있는 기사라도 시간이 바뀌었으면(수정된 기사) 새 정보로 갱신
+    full_path = 'codes/aitimes.json'
+    time_of = lambda item: tuple(item.get(k) for k in ('년', '월', '일', '시', '분'))
+    save_results(df1.to_dict('records'), full_path, "aitimes",
+                 update_if=lambda old, new: time_of(old) != time_of(new))
 
 except Exception as e:
     print(f"크롤링/스크래핑 중 치명적인 오류 발생: {e}")

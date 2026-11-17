@@ -7,9 +7,9 @@ from bs4 import BeautifulSoup
 import warnings
 import pandas as pd
 from urllib3.exceptions import InsecureRequestWarning
-import os
-import json
 import numpy as np
+
+from crawler_common import save_results
 
 url_list = [
     'https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/list.do?cpage=1&rows=10&searchTarget=all',
@@ -138,42 +138,6 @@ df11['제목'] = df11['제목'].fillna('').str.replace(r'\\', '', regex=True)
 df11['제목'] = df11['제목'].str.replace('\'', '＇', regex=False).str.replace('\"', '〃', regex=False)
 
 
+# 기존 데이터와 합쳐 중복 제거 후 저장 (crawler_common.save_results)
 full_path = 'codes/iitp.json'
-
-os.makedirs(os.path.dirname(full_path), exist_ok=True)
-
-new_data = df11.to_dict('records') 
-
-existing_data = []
-
-# 1. 기존 JSON 파일 로드
-if os.path.exists(full_path):
-    try:
-        with open(full_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            if content:
-                existing_data = json.loads(content)
-            else:
-                print("기존 JSON 파일이 비어 있습니다.")
-    except Exception as e:
-        print(f"기존 JSON 로드 오류 ({e}). 새 데이터만 저장합니다.")
-        existing_data = []
-
-# 2. 합치기
-combined_data = existing_data + new_data
-
-# 3. 중복 제거
-seen_links = set()
-final_data = []
-
-for item in combined_data:
-    link = item.get('링크')
-    if link and link not in seen_links:
-        final_data.append(item)
-        seen_links.add(link)
-
-# 4. 저장
-with open(full_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-print(f"[IITP] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+save_results(df11.to_dict('records'), full_path, "IITP")

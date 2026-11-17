@@ -6,13 +6,11 @@ import re
 import pandas as pd
 import os
 import sys
-import json
 import time
 import urllib.parse
 import base64
 
-import itertools
-from dotenv import load_dotenv
+from crawler_common import fetch_page, save_results
 
 # Windows 터미널(cp949) 출력 인코딩 방어
 if sys.platform == "win32":
@@ -21,17 +19,6 @@ if sys.platform == "win32":
         sys.stderr.reconfigure(encoding="utf-8", errors="replace")
     except Exception:
         pass
-
-load_dotenv()
-
-# 환경 변수에서 API 키 불러오기
-SCRAPER_API_KEY = os.environ.get('SCRAPER_API_KEY')
-
-if not SCRAPER_API_KEY:
-    raise ValueError("GitHub Secrets 또는 .env에 SCRAPER_API_KEY가 설정되지 않았습니다.")
-
-
-SCRAPER_URL = 'http://api.scraperapi.com'
 
 # 1. 재시도 로직을 포함한 세션 설정
 def get_safe_session():
@@ -67,16 +54,10 @@ for page_info in news_pages:
     target_url = page_info["url"]
     category = page_info["category"]
 
-    payload = {
-        'api_key': SCRAPER_API_KEY,
-        'url': target_url,
-        'country_code': 'kr'  # 한국 IP 지정
-    }
-
     try:
         print(f"--- {category} 수집 중 ({target_url}) ---")
         # 타겟 URL 대신 ScraperAPI 서버로 요청
-        response = session.get(SCRAPER_URL, params=payload, timeout=TIMEOUT_SEC)
+        response = fetch_page(target_url, session=session, timeout=TIMEOUT_SEC)
         response.raise_for_status()
 
         html = response.text
@@ -177,30 +158,6 @@ for page_info in news_pages:
 
 df5 = pd.DataFrame(data, columns=['기사명','분류','링크','년','월','일','시','분'])
 os.makedirs('codes', exist_ok=True)
+# 기존 데이터와 합쳐 중복 제거 후 저장 (crawler_common.save_results)
 full_path = 'codes/mnd.json'
-new_data = df5.to_dict('records')
-
-existing_data = []
-if os.path.exists(full_path):
-    try:
-        with open(full_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            if content:
-                existing_data = json.loads(content)
-    except Exception as e:
-        print(f"기존 파일 로드 실패: {e}")
-
-combined_data = existing_data + new_data
-seen_links = set()
-final_data = []
-
-for item in combined_data:
-    link = item.get('링크')
-    if link and link not in seen_links:
-        final_data.append(item)
-        seen_links.add(link)
-
-with open(full_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-print(f"[국방부] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+save_results(df5.to_dict('records'), full_path, "국방부")

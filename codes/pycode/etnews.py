@@ -1,13 +1,12 @@
-import requests
 from bs4 import BeautifulSoup
 import pandas as pd
-import json
-import os
 import re
 import time
 from requests import Session
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
+
+from crawler_common import save_results
 
 # 1. 세션 및 재시도 설정 (SSL 오류 및 연결 끊김 방지)
 session = Session()
@@ -73,32 +72,6 @@ df2 = pd.DataFrame(data, columns=['기사명', '링크', '년', '월', '일', '�
 df2['기사명'] = df2['기사명'].fillna('').str.replace(r'\\', '', regex=True)
 df2['기사명'] = df2['기사명'].str.replace('\'', '＇', regex=False).str.replace('\"', '〃', regex=False)
 
-# 3. JSON 저장 및 중복 제거 로직
+# 기존 데이터와 합쳐 중복 제거 후 저장 (crawler_common.save_results)
 full_path = 'codes/etnews.json'
-os.makedirs(os.path.dirname(full_path), exist_ok=True)
-
-existing_data = []
-if os.path.exists(full_path):
-    try:
-        with open(full_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            if content:
-                existing_data = json.loads(content)
-    except Exception as e:
-        print(f"기존 파일 로드 실패: {e}")
-
-new_data = df2.to_dict('records')
-combined_data = existing_data + new_data
-
-seen_links = set()
-final_data = []
-for item in combined_data:
-    link = item.get('링크')
-    if link and link not in seen_links:
-        final_data.append(item)
-        seen_links.add(link)
-
-with open(full_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-print(f"[etnews] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+save_results(df2.to_dict('records'), full_path, "etnews")

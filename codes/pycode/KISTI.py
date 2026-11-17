@@ -3,22 +3,14 @@ from bs4 import BeautifulSoup
 import re
 import pandas as pd
 import os
-import json
 import time
 from requests.adapters import HTTPAdapter
 from urllib3.util.retry import Retry
-import itertools
 
-# 환경 변수에서 API 키 불러오기 - KISTI가 bot을 차단하므로 ScraperAPI 사용
-SCRAPER_API_KEY = os.environ.get('SCRAPER_API_KEY')
+from crawler_common import fetch_page, save_results
 
-# ScraperAPI가 없는 경우에는 직접 접속을 시도
-USE_SCRAPER = bool(SCRAPER_API_KEY)
-
-if USE_SCRAPER:
-    SCRAPER_URL = 'http://api.scraperapi.com'
-    print("ScraperAPI 사용")
-else:
+# KISTI는 봇 접속을 차단하므로 ScraperAPI(JavaScript 렌더링)를 사용합니다.
+if not os.environ.get('SCRAPER_API_KEY'):
     print("경고: ScraperAPI 키가 없어 직접 접속을 시도합니다. KISTI 서버가 차단할 수 있습니다.")
 
 # 1. 세션 및 재시도(Retry) 설정
@@ -57,18 +49,9 @@ data = []
 for i in range(len(url)):
     print(f"--- {url[i]} 수집 중 ---")
     try:
-        if USE_SCRAPER:
-            # ScraperAPI를 통한 접속 (KISTI가 직접 접속 차단)
-            payload = {
-                'api_key': SCRAPER_API_KEY,
-                'url': url[i],
-                'country_code': 'kr',
-                'render': 'true'  # JavaScript 렌더링 활성화 (KISTI는 JS 기반 렌더링)
-            }
-            response = session.get(SCRAPER_URL, params=payload, timeout=60)
-        else:
-            # 직접 접속 시도
-            response = session.get(url[i], headers=headers, timeout=TIMEOUT_SEC)
+        # ScraperAPI(JS 렌더링, 60초) 또는 키가 없으면 직접 접속(30초)
+        response = fetch_page(url[i], session=session, timeout=60, render=True,
+                              headers=headers, direct_timeout=TIMEOUT_SEC)
         
         response.raise_for_status()
         
@@ -191,35 +174,6 @@ for i in range(len(url)):
 
 # 2. 데이터프레임 생성 및 정제
 df10 = pd.DataFrame(data, columns=['제목', '분류', '링크', '년', '월', '일'])
+# 기존 데이터와 합쳐 중복 제거 후 저장 (crawler_common.save_results)
 full_path = 'codes/KISTI.json'
-
-os.makedirs(os.path.dirname(full_path), exist_ok=True)
-
-new_data = df10.to_dict('records')
-
-# 3. 기존 데이터 로드 및 중복 제거 (기존 로직 유지)
-existing_data = []
-if os.path.exists(full_path):
-    try:
-        with open(full_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            if content:
-                existing_data = json.loads(content)
-    except Exception as e:
-        print(f"기존 JSON 로드 오류: {e}")
-
-combined_data = existing_data + new_data
-seen_links = set()
-final_data = []
-
-for item in combined_data:
-    link = item.get('링크')
-    if link and link not in seen_links:
-        final_data.append(item)
-        seen_links.add(link)
-
-# 4. 파일 저장
-with open(full_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-print(f"[KISTI] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+save_results(df10.to_dict('records'), full_path, "KISTI")

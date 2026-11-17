@@ -6,9 +6,9 @@ from webdriver_manager.chrome import ChromeDriverManager
 import time
 import re
 import pandas as pd
-import os
-import json
 from datetime import datetime
+
+from crawler_common import save_results
 
 # 1. 옵션 설정
 chrome_options = Options()
@@ -100,33 +100,6 @@ finally:
 print(f"\n총 {len(data)} 건 추출 완료")
 
 df15 = pd.DataFrame(data, columns=['기사명','분류', '링크','년','월','일'])
+# 기존 데이터와 합쳐 중복 제거 후 저장 (crawler_common.save_results)
 full_path = 'codes/msit.json'
-
-os.makedirs(os.path.dirname(full_path), exist_ok=True)
-
-new_data = df15.to_dict('records')
-
-existing_data = []
-if os.path.exists(full_path):
-    try:
-        with open(full_path, 'r', encoding='utf-8') as f:
-            content = f.read()
-            if content:
-                existing_data = json.loads(content)
-    except Exception as e:
-        print(f"JSON 로드 실패: {e}")
-
-combined_data = existing_data + new_data
-seen_links = set()
-final_data = []
-
-for item in combined_data:
-    link = item.get('링크')
-    if link and link not in seen_links:
-        final_data.append(item)
-        seen_links.add(link)
-
-with open(full_path, 'w', encoding='utf-8') as f:
-    json.dump(final_data, f, indent=4, ensure_ascii=False)
-
-print(f"[과기정통부] 완료: 신규 {len(new_data)}건 수집 | 기존 {len(existing_data)}건 병합 | 최종 {len(final_data)}건 저장 ({full_path})")
+save_results(df15.to_dict('records'), full_path, "과기정통부")
