@@ -33,13 +33,17 @@ jobs:
         pip install google-genai
         pip install python-dotenv
 
+    # 자동 실행(크롤링 완료)일 때는 오늘 이미 만든 일일 동향이 있으면 건너뜀. 대시보드 수동 실행은 항상 실행.
     - name: 즐겨찾기 자동 생성 스크립트 실행
+      id: select
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        PIPELINE_AUTO: ${{ github.event_name == 'workflow_run' }}
       run: |
         python codes/pycode/auto_favorites.py
 
     - name: 텍스트 변환 스크립트 실행 (JSON to TXT)
+      if: steps.select.outputs.generated == 'true'
       env:
         AUTO_MODE: 'true'
       run: |

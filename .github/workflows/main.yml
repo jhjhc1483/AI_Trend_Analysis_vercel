@@ -122,8 +122,11 @@ jobs:
           # 다음 단계에서 SCRAPER_API_KEY 및 키 명칭으로 사용할 수 있도록 GitHub 환경변수에 저장
           echo "SCRAPER_API_KEY=$CHOSEN_KEY" >> $GITHUB_ENV
           echo "SCRAPER_KEY_NAME=$KEY_NAME" >> $GITHUB_ENV
+          echo "CRAWL_ROUND=$ROUND" >> $GITHUB_ENV
 
+      # 2회차는 오늘 1회차에서 실패한 소스만 다시 수집 (모두 성공했으면 건너뜀)
       - name: Run All Python Scripts (Smart Isolated Runner & Alert)
+        id: crawl
         env:
           GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           SCRAPER_KEY_NAME: ${{ env.SCRAPER_KEY_NAME }}
@@ -132,10 +135,15 @@ jobs:
           KEY_2: ${{ secrets.SCRAPER_API_KEY_2 }}
           KEY_3: ${{ secrets.SCRAPER_API_KEY_3 }}
         run: |
-          python codes/pycode/run_crawlers.py
+          if [ "$CRAWL_ROUND" = "2" ]; then
+            python codes/pycode/run_crawlers.py --retry-failed
+          else
+            python codes/pycode/run_crawlers.py
+          fi
 
       # 현재 시간(KST)을 저장
       - name: Generate Last Updated Time
+        if: steps.crawl.outputs.ran != 'false'
         run: |
           # public 폴더가 없으면 생성
           mkdir -p public
@@ -152,7 +160,7 @@ jobs:
       - name: Commit and Push all changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          file_pattern: 'codes/*.json public/update_time.json'
+          file_pattern: 'codes/*.json codes/state/*.json public/update_time.json'
           commit_message: 'Automated data update: All sources [skip ci]'
           branch: main
 

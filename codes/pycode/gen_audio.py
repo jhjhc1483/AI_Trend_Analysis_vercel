@@ -5,6 +5,8 @@ from google import genai
 from google.genai import types
 import edge_tts # Edge-TTS 라이브러리
 
+from pipeline_state import file_sha256, is_auto_run, read_state, write_state
+
 # 1. 환경 변수 설정
 from dotenv import load_dotenv
 load_dotenv(os.path.join(os.path.dirname(os.path.abspath(__file__)), "../../.env"))
@@ -43,6 +45,12 @@ async def main():
             raise RuntimeError(f"data.txt가 {today_key} 날짜 데이터가 아닙니다. 즐겨찾기 생성 단계가 성공했는지 확인하세요.")
         if "◾" not in raw_text:
             raise RuntimeError(f"data.txt에 {today_key} 기사가 하나도 없습니다. 즐겨찾기 생성 단계가 성공했는지 확인하세요.")
+
+        # 같은 일일 동향으로 이미 오디오를 만들었다면 자동 실행에서는 건너뜀 (하루 여러 번 체인 실행 방지)
+        report_hash = file_sha256(data_path)
+        if is_auto_run() and read_state("audio").get("report_hash") == report_hash:
+            print(f">>> {today_key} 일일 동향으로 이미 오디오/브리핑을 만들었습니다. 건너뜁니다.")
+            return
 
         # URL 제거 (토큰 수 낭비 방지)
         import re
@@ -113,6 +121,14 @@ async def main():
             json.dump(history_data, f, ensure_ascii=False, indent=2)
 
         print(">>> data.json에 브리핑 내용 누적 저장 완료!")
+
+        # 이 일일 동향으로 오디오를 만들었다고 기록 (같은 날 자동 체인이 다시 돌면 건너뛰도록)
+        if is_today:
+            write_state("audio", {
+                "date": today_key,
+                "report_hash": report_hash,
+                "generated_at": now_kst.isoformat(timespec="seconds"),
+            })
 
     except Exception as e:
         print(f"오류 발생: {e}")

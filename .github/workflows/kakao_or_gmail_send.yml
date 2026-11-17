@@ -4,20 +4,35 @@ on:
   workflow_dispatch: # GitHub 웹에서 버튼 눌러서 직접 실행 가능
     inputs:
       mode:
-        description: 'send = 메일 발송, cleanup_only = 메일 없이 구독자 목록 정리/암호화만'
+        description: 'send = 오늘 아직 안 보냈으면 발송, resend = 이미 보냈어도 다시 발송, cleanup_only = 메일 없이 구독자 목록 정리/암호화만'
         required: false
         default: 'send'
         type: choice
-        options: ['send', 'cleanup_only']
+        options: ['send', 'resend', 'cleanup_only']
+  # 오디오 생성이 끝나면 바로 발송 (오디오가 실패해도 일일 동향이 준비됐으면 발송)
+  workflow_run:
+    workflows: ["AI Audio Briefing Generator (Google Cloud TTS)"]
+    types: [completed]
+  # 안전장치: 체인이 끊긴 날을 대비한 예약 실행. 이미 보냈으면 건너뛰고, 데이터가 없으면 관리자에게 경고.
+  # (GitHub 예약 실행은 수 시간 밀리므로 체인보다 늦은 시각으로 둠)
   schedule:
-   - cron: '53 20 * * *' # 매일 오전 5시 53분 (지연 감안해 6시 직전으로)    
+   - cron: '23 3 * * *' # 매일 낮 12시 23분 (KST)
+
+# 체인 실행과 예약 실행이 겹쳐도 순서대로 실행되도록 (뒤에 실행되는 쪽은 발송 기록을 보고 건너뜀)
+concurrency:
+  group: mail-send
+  cancel-in-progress: false
 
 jobs:
   build:
+    # 오디오 단계가 취소/건너뜀으로 끝난 경우는 제외
+    if: github.event_name != 'workflow_run' || contains(fromJSON('["success", "failure"]'), github.event.workflow_run.conclusion)
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          ref: main  # 앞 단계 결과와 최신 발송 기록이 반영된 main
 
       - name: Set up Python
         uses: actions/setup-python@v5
@@ -42,18 +57,20 @@ jobs:
           KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
           GMAIL_APP_PASSWORD : ${{ secrets.GMAIL_APP_PASSWORD }}
           SUBSCRIBER_ENCRYPTION_KEY: ${{ secrets.SUBSCRIBER_ENCRYPTION_KEY }}
+          MAIL_MODE: ${{ inputs.mode == 'resend' && 'resend' || 'send' }}
 
         run : python codes/pycode/gmail_send_visualizer.py
         # run : python codes/pycode/gmail_send.py
         # run: python codes/pycode/send_kakao2.py
 
-      # 메일 단계가 실패해도 정리/암호화된 구독자 목록은 저장
+      # 메일 단계가 실패해도 정리/암호화된 구독자 목록과 발송 기록은 저장
       - name: Commit cleaned receiver list
         if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add codes/receiver_email.json
-          git diff --cached --quiet || git commit -m "🧹 구독자 목록 자동 정리"
+          if [ -f codes/state/mail.json ]; then git add codes/state/mail.json; fi
+          git diff --cached --quiet || git commit -m "📧 메일 발송 기록 및 구독자 목록 업데이트"
           git pull --rebase --autostash origin main
           git push

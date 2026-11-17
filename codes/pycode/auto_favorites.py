@@ -6,6 +6,8 @@ from datetime import datetime, timedelta, timezone
 from google import genai
 from google.genai import types
 
+from pipeline_state import is_auto_run, report_date, set_output
+
 
 KST = timezone(timedelta(hours=9))
 # REPORT_DATE(YYYY-MM-DD)를 주면 그날의 동향(=전날 기사)을 다시 만든다. 없으면 오늘 기준.
@@ -246,8 +248,16 @@ Format:
     return all_results
 
 def main():
+    # 크롤링이 하루에 여러 번 끝나도 자동 선정은 한 번만 (사용자가 대시보드에서 손본 즐겨찾기를 덮어쓰지 않도록)
+    report_key = REPORT_DATE.strftime("%y.%m.%d")
+    if is_auto_run() and report_date(os.path.join(BASE_DIR, "data.txt")) == report_key:
+        print(f"⏭️ 오늘({report_key}) 일일 동향이 이미 있어 자동 선정을 건너뜁니다. "
+              "(다시 만들려면 대시보드의 'AI 자동 선정' 버튼을 사용하세요)")
+        set_output("generated", "false")
+        return
+
     print(f"Start Job. Target Date (Yesterday): {YESTERDAY}")
-    
+
     articles, pubs, excluded_data = load_json_files()
     print(f"Found {len(articles)} articles and {len(pubs)} publications for {YESTERDAY}")
     if not articles and not pubs:
@@ -271,6 +281,7 @@ def main():
         json.dump(fav_pubs, f, ensure_ascii=False, indent=2)
 
     print("Done. Files overwritten.")
+    set_output("generated", "true")
 
 if __name__ == "__main__":
     try:

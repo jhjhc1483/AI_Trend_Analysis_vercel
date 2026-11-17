@@ -5,18 +5,20 @@
 앞 단계(크롤링 → AI 자동 선정)가 실패하거나 늦어져 어제 내용이 남아 있으면
 구독자에게는 보내지 않고 관리자에게만 경고 메일을 보낸 뒤 실패(exit 1)로 끝냅니다.
 데이터가 준비되면 GitHub Actions에서 이 워크플로우를 수동 실행(mode: send)하면 됩니다.
+
+오디오 생성이 끝나면 자동으로 실행되고, 체인이 끊긴 경우를 대비해 예약 실행도 한 번 더 있습니다.
+같은 날 여러 번 실행돼도 구독자에게는 하루 한 번만 보냅니다. (codes/state/mail.json에 기록)
+다시 보내야 하면 MAIL_MODE=resend (워크플로우 mode: resend)로 실행하세요.
 """
 import os
-import re
 import smtplib
 import sys
-from datetime import datetime
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
-from zoneinfo import ZoneInfo
 
 from dotenv import load_dotenv
 
+from pipeline_state import REPORT_HEADER_REGEX, now_kst, read_state, write_state
 from subscribers import clean_subscribers, load_subscribers, mask_email, save_subscribers
 
 load_dotenv(override=True)
@@ -35,8 +37,6 @@ MAX_RECIPIENTS = 100  # api/subscribe.js 의 구독자 상한과 같게 유지
 
 VISUALIZER_URL = "https://ai-trend-analysis.vercel.app/visualizer.html"
 WORKFLOW_URL = "https://github.com/jhjhc1483/AI_Trend_Analysis_vercel/actions/workflows/kakao_or_gmail_send.yml"
-# json_to_txt.py 가 만드는 첫 줄 형식: "📢26.11.17 AI 일일 동향📢"
-REPORT_HEADER_REGEX = re.compile(r"📢(\d{2}\.\d{2}\.\d{2}) AI 일일 동향📢")
 # =============================================
 
 
@@ -156,8 +156,14 @@ def main():
         print("오류: 환경 변수 'GMAIL_APP_PASSWORD'를 찾을 수 없습니다.")
         return 1
 
-    now_kst = datetime.now(ZoneInfo("Asia/Seoul"))
-    today_key = now_kst.strftime("%y.%m.%d")
+    now = now_kst()
+    today_key = now.strftime("%y.%m.%d")
+
+    # 하루 한 번만 발송 (자동 체인 + 예약 안전장치가 겹쳐도 중복 발송하지 않음)
+    resend = os.environ.get("MAIL_MODE", "send").strip().lower() == "resend"
+    if not resend and read_state("mail").get("date") == today_key:
+        print(f"⏭️ 오늘({today_key}) 메일은 이미 발송했습니다. 건너뜁니다. (다시 보내려면 mode: resend)")
+        return 0
 
     report_text = None
     if os.path.exists(file_path):
@@ -173,8 +179,17 @@ def main():
             return 1
 
         receivers = load_receivers()
-        subject = f"{now_kst.strftime('%Y년 %m월 %d일')} AI 동향 브리핑"
+        subject = f"{now.strftime('%Y년 %m월 %d일')} AI 동향 브리핑"
         failed = send_messages([(r, build_briefing_message(r, subject, report_text)) for r in receivers])
+
+        # 한 명에게라도 보냈으면 '오늘 발송함'으로 기록 (재실행 시 받은 사람에게 중복 발송 방지)
+        if failed < len(receivers):
+            write_state("mail", {
+                "date": today_key,
+                "sent_at": now.isoformat(timespec="seconds"),
+                "sent": len(receivers) - failed,
+                "failed": failed,
+            })
         if failed:
             print(f"❌ {len(receivers)}명 중 {failed}명에게 발송하지 못했습니다.")
             return 1

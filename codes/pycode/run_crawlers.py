@@ -12,6 +12,8 @@ from datetime import datetime
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
 
+from pipeline_state import read_state, set_output, today_key, write_state
+
 # Windows 터미널(cp949) 이모지 출력 인코딩 방어
 if sys.platform == "win32":
     try:
@@ -290,6 +292,39 @@ def run_single_crawler(script_name, display_name):
     }
 
 
+def select_targets(retry_failed):
+    """
+    이번에 실행할 크롤러 목록을 정합니다.
+    --retry-failed(2회차)면 오늘 1회차에서 실패한 소스만 다시 실행합니다.
+    오늘 1회차 기록이 없으면(1회차가 아예 안 돈 경우) 전체를 실행합니다.
+    """
+    if not retry_failed:
+        return CRAWLER_SCRIPTS
+    status = read_state("crawl_status")
+    if status.get("date") != today_key():
+        print("ℹ️ 오늘 1회차 수집 기록이 없어 전체 소스를 수집합니다.")
+        return CRAWLER_SCRIPTS
+    results = status.get("results", {})
+    return [(script, name) for script, name in CRAWLER_SCRIPTS
+            if results.get(script, {}).get("status") != "SUCCESS"]
+
+
+def save_crawl_status(results):
+    """오늘 소스별 수집 결과를 기록합니다. (2회차는 재시도한 소스만 덮어씀)"""
+    status = read_state("crawl_status")
+    if status.get("date") != today_key():
+        status = {"date": today_key(), "results": {}}
+    for r in results:
+        status["results"][r["script"]] = {
+            "name": r["name"],
+            "status": r["status"],
+            "new_count": r["new_count"],
+            "elapsed": r["elapsed"],
+        }
+    status["updated_at"] = get_current_kst().isoformat(timespec="seconds")
+    write_state("crawl_status", status)
+
+
 def generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str):
     """크롤링 결과 리포트용 프리미엄 HTML 이메일 본문 생성 (성공/오류 맞춤형 디자인)"""
     failed_items = [r for r in results if r["status"] == "FAILED"]
@@ -482,6 +517,7 @@ def main():
     parser.add_argument("--alert-only", action="store_true", help="오류가 발생했을 때만 경고 메일 발송 (기본: 성공/오류 모두 발송)")
     parser.add_argument("--no-mail", action="store_true", help="이메일 발송 비활성화")
     parser.add_argument("--force-mail", action="store_true", help="항상 리포트 메일 발송 (하위 호환성 유지)")
+    parser.add_argument("--retry-failed", action="store_true", help="2회차: 오늘 1회차에서 실패한 소스만 다시 수집")
     parser.add_argument(
         "--test-mail",
         nargs="?",
@@ -494,6 +530,13 @@ def main():
     kst_now = get_current_kst()
     kst_now_str = kst_now.strftime("%Y-%m-%d %H:%M:%S")
 
+    targets = CRAWLER_SCRIPTS if args.test_mail else select_targets(args.retry_failed)
+    if not targets:
+        print("✅ 오늘 1회차에서 모든 소스가 정상 수집되어 2회차 재시도를 건너뜁니다.")
+        set_output("ran", "false")
+        return
+    round_label = " (2회차 재시도)" if args.retry_failed else ""
+
     # ScraperAPI 키 사전 점검 및 스마트 폴백 수행
     _, scraper_key_name = resolve_best_scraper_api_key()
 
@@ -501,7 +544,7 @@ def main():
     print(f"🚀 AI Trend 크롤링 통합 스마트 러너 시작")
     print(f"🕒 실행 시각(KST): {kst_now_str}")
     print(f"🔑 적용된 Scraper API 키: {scraper_key_name}")
-    print(f"📋 총 대상 크롤러 수: {len(CRAWLER_SCRIPTS)}개")
+    print(f"📋 이번 실행 대상 크롤러 수: {len(targets)}개{round_label}")
     print("=" * 60)
 
     # 테스트 메일 모드
@@ -537,10 +580,13 @@ def main():
     total_start = time.time()
     results = []
 
-    # 16개 크롤러 순차 실행 (오류 격리)
-    for script_name, display_name in CRAWLER_SCRIPTS:
+    # 크롤러 순차 실행 (오류 격리)
+    for script_name, display_name in targets:
         res = run_single_crawler(script_name, display_name)
         results.append(res)
+
+    save_crawl_status(results)
+    set_output("ran", "true")
 
     total_elapsed = round(time.time() - total_start, 2)
     failed_items = [r for r in results if r["status"] == "FAILED"]
@@ -555,7 +601,7 @@ def main():
     if failed_items:
         print(f" - ❌ 실패 목록: {', '.join(f['name'] for f in failed_items)}")
     else:
-        print(" - ✅ 16개 소스 모두 정상 수집 완료!")
+        print(f" - ✅ {len(results)}개 소스 모두 정상 수집 완료!")
     print("=" * 60)
 
     # [핵심] 이메일 발송 여부 결정
@@ -576,9 +622,9 @@ def main():
             failed_names_str = ", ".join(f["name"] for f in failed_items[:3])
             if len(failed_items) > 3:
                 failed_names_str += f" 외 {len(failed_items)-3}곳"
-            subject = f"[AI 트렌드 크롤링 경고] ⚠️ {len(failed_items)}개 소스 수집 실패 ({failed_names_str})"
+            subject = f"[AI 트렌드 크롤링 경고{round_label}] ⚠️ {len(failed_items)}개 소스 수집 실패 ({failed_names_str})"
         else:
-            subject = f"[AI 트렌드 크롤링 보고] ✅ {len(results)}개 소스 전체 정상 수집 완료 (+{total_new}건)"
+            subject = f"[AI 트렌드 크롤링 보고{round_label}] ✅ {len(results)}개 소스 전체 정상 수집 완료 (+{total_new}건)"
 
         html_body = generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str)
         send_alert_email(subject, html_body)

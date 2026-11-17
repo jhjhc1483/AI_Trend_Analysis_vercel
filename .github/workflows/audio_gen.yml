@@ -33,9 +33,11 @@ jobs:
       run: |
         pip install google-genai edge-tts python-dotenv
 
+    # 자동 실행일 때는 같은 일일 동향으로 이미 만든 오디오가 있으면 건너뜀. 대시보드 수동 실행은 항상 실행.
     - name: 오디오 생성 스크립트 실행
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+        PIPELINE_AUTO: ${{ github.event_name == 'workflow_run' }}
       run: |
         python codes/pycode/gen_audio.py
 
@@ -45,6 +47,7 @@ jobs:
         git config --global user.email "action@github.com"
         git add public/audio.mp3
         git add codes/data.json
+        if [ -f codes/state/audio.json ]; then git add codes/state/audio.json; fi
         git commit -m "Update audio and briefing (Edge-TTS)" || echo "No changes to commit"
         git pull --rebase --autostash origin main
         git push
