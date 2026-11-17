@@ -1,134 +1,149 @@
-📢26.11.17 AI 일일 동향📢
+📢26.11.18 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ “한·아세안 AI·문화 이니셔티브 제안”
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNDgxMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ AI·무인체계 표적처리 강화 방안 논의
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDkxMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ AI 아이디어 발굴 업무혁신 나선다
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDgyNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ “AI 기반 전자기스펙트럼 경쟁 진화”
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyNDkxOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 민간 SW/데이터, 국방 접목 방안 논의
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDgyMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ AI 활용 미래 화생방 전력 증강방향 모색
+https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyNDkxNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ ★ 품는 IT기업, 국방 AX 앞두고 軍 네트워크 확보 경쟁
-https://www.etnews.com/20261116000320
+◾ 국방부, NATO 우주발사협력체계(스타리프트(STARLIFT)) 양해각서(MOU) 서명
+https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNDg5NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ “한·아세안 AI·문화 이니셔티브 제안”
-https://kookbang.dema.mil.kr/newsWeb/20261117/18/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+◾ 상용AI·SW협회·육군본부, 국산 SW 국방 활용 확대 모색
+https://www.etnews.com/20261117000293
 
-◾ 민간 SW/데이터, 국방 접목 방안 논의
-https://kookbang.dema.mil.kr/newsWeb/20261117/9/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+◾ AI·무인체계 표적처리 강화 방안 논의
+https://kookbang.dema.mil.kr/newsWeb/20261118/10/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=jtjr3i6cHj7INkZQ2EZZ2hyajrTamUMMLLYQLvJDDlmi8f3CN5fo!296806669
 
-◾ AI 전장, 상호운용성의 핵심은 API 표준화
-https://kookbang.dema.mil.kr/newsWeb/20261117/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+◾ “AI 기반 전자기스펙트럼 경쟁 진화”
+https://kookbang.dema.mil.kr/newsWeb/20261118/1/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=jtjr3i6cHj7INkZQ2EZZ2hyajrTamUMMLLYQLvJDDlmi8f3CN5fo!296806669
+
+◾ AI 활용 미래 화생방 전력 증강방향 모색
+https://kookbang.dema.mil.kr/newsWeb/20261118/2/ATCE_CTGR_0010050000/view.do;JSESSIONID_kookbnagWEB=jtjr3i6cHj7INkZQ2EZZ2hyajrTamUMMLLYQLvJDDlmi8f3CN5fo!296806669
+
+◾ AI는 나의 참모가 될 수 있을까?
+https://kookbang.dema.mil.kr/newsWeb/20261118/1/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=jtjr3i6cHj7INkZQ2EZZ2hyajrTamUMMLLYQLvJDDlmi8f3CN5fo!296806669
 
 [육군]
-◾ AI 아이디어 발굴 업무혁신 나선다
-https://kookbang.dema.mil.kr/newsWeb/20261117/5/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+◾ [부대 탐방] 육군군수사 지상전력SW/데이터융합센터
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDkwOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 드론·대드론 기술 대학과 공동연구
-https://kookbang.dema.mil.kr/newsWeb/20261117/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+◾ 초연결 육군 구축 지혜 모았다
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDkwNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ 기술·전문성 허브 ‘드론공작소’ 개소
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDkwMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+◾ [부대 탐방] 육군군수사 지상전력SW/데이터융합센터
+https://kookbang.dema.mil.kr/newsWeb/20261118/2/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=jtjr3i6cHj7INkZQ2EZZ2hyajrTamUMMLLYQLvJDDlmi8f3CN5fo!296806669
+
+◾ 초연결 육군 구축 지혜 모았다
+https://kookbang.dema.mil.kr/newsWeb/20261118/11/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=jtjr3i6cHj7INkZQ2EZZ2hyajrTamUMMLLYQLvJDDlmi8f3CN5fo!296806669
+
+◾ 데이터 활용 아이디어 발굴·실무 적용성 확인
+https://kookbang.dema.mil.kr/newsWeb/20261118/3/ATCE_CTGR_0010040000/view.do;JSESSIONID_kookbnagWEB=jtjr3i6cHj7INkZQ2EZZ2hyajrTamUMMLLYQLvJDDlmi8f3CN5fo!296806669
 
 [민간]
-◾ 네이버 카페에 AI 에이전트 도입...3개 카페서 베타 테스트 진행
-https://www.aitimes.com/news/articleView.html?idxno=217453
+◾ 메타, AI로 코드 오류 사전 차단...개인정보 관련 심각한 버그 74건 발견
+https://www.aitimes.com/news/articleView.html?idxno=217492
 
-◾ 노타, 두베에 금융권 특화 AI 코딩 에이전트 기술 제공
-https://www.aitimes.com/news/articleView.html?idxno=217457
+◾ 구글, 보안 패치 분석·공격코드 생성 자동화한 AI 해킹 도구 발견
+https://www.aitimes.com/news/articleView.html?idxno=217493
 
-◾ 2027 UX·UI 키워드 3선...＇검증 설계·에이전트 팀·AI 네이티브＇
-https://www.etnews.com/20261116000462
+◾ 오픈AI, 아동 성착취물 탐지 AI 공개...챗GPT 경고·24시간 이용 정지 기능도 도입
+https://www.aitimes.com/news/articleView.html?idxno=217501
 
-◾ [AIx소프트웨이브 2026] 지란지교소프트, 소프트웨이브 2026서 기업용 AI 에이전트 ＇오피스에이전트＇ 공개
-https://www.etnews.com/20261116000460
+◾ 오픈AI, 외부 전문가에 내부 모델·학습 데이터 개방...AI 안전성 독립 검증
+https://www.aitimes.com/news/articleView.html?idxno=217479
 
-◾ [AIx소프트웨이브 2026] 디밀리언, 소프트웨어대전 2026 참가... 제조 특화 AI 에이전트로 제조 AX 혁신 제시
-https://www.etnews.com/20261116000331
+◾ 예측진단기술, 포터블 AI로 제조설비 150대 진단…현장 실증 확대
+https://www.etnews.com/20261116000534
 
-◾ 신한은행, 글로벌 AI 학회 ＇ICAIF 2026＇서 은행 특화 LLM·에이전트 검증 성과 발표
-https://www.etnews.com/20261116000323
+◾ 크라우드웍스, 제조 AX 데이터 구축 전략 담은 백서 발간
+https://www.etnews.com/20261117000402
 
-◾ 네이버, ＇AI 카페 에이전트＇ 시범 운영…AI로 회원 노하우 찾는다
-https://www.etnews.com/20261116000302
+◾ 이화의료원 ＇AI 의료기기 안전관리＇ 특허 획득
+https://www.etnews.com/20261117000365
 
-◾ IBK기업은행, 자체 개발 AI 코딩 에이전트 도입…현업 주도 AX 본격화
-https://www.etnews.com/20261116000300
+◾ “챗GPT부터 쇼핑·메일까지”… 카이스트 연구팀, 화면 보고 일하는 AI ＇KORMo-Web＇ 공개
+https://www.etnews.com/20261117000335
 
-◾ 차세대융합기술산업협회, ＇NCIA X 피지컬AI 밋업＇ 개최...업계가 한자리에 모여 나눈 현장의 이야기
-https://www.etnews.com/20261116000218
+◾ “사람 개입 없이 해킹”…AI 사이버 공격, 자율형 다중 에이전트 단계 진입
+https://www.etnews.com/20261117000246
 
-◾ SKT·효성중공업, 기가와트급 AI 데이터센터 구축 협력…345kV 변전설비·800V 직류배전 공동 추진
-https://www.aitimes.kr/news/articleView.html?idxno=42743
+◾ NH농협은행, 기업뱅킹 전면 개편…AI 에이전트 도입
+https://www.etnews.com/20261117000230
 
-◾ 휴머노이드 로봇 ‘LG 클로이드’ 국내 시범인증 추진…안전성·사용성 평가체계 및 국제표준 개발 참여
-https://www.aitimes.kr/news/articleView.html?idxno=42742
+◾ 델 테크놀로지스, 기업용 에이전틱 AI 인프라 확장…데이터 처리·운영 자동화 강화
+https://www.aitimes.kr/news/articleView.html?idxno=42751
+
+◾ 몰렉스, 2027년 AI·전자산업 10대 전망…휴머노이드 양산·AI 데이터센터 구조 대전환
+https://www.aitimes.kr/news/articleView.html?idxno=42768
 
 [기관]
-◾ KAIST, 입모양 읽는 AI로 시각적 음성인식 향상 기술 개발
-https://www.aitimes.com/news/articleView.html?idxno=217443
+◾ 과기정통부, AI 시대 최적화된 ＇국가지식정보＇ 고도화 추진
+https://www.etnews.com/20261117000458
 
-◾ 백악관 〃AI 보안 사고 자진 신고하면 처벌 완화〃
-https://www.aitimes.com/news/articleView.html?idxno=217450
+◾ KAIST GCC, 피지컬 AI 시대 로봇산업 경쟁력 강화 모색…실증·사업화 연계 확대
+https://www.etnews.com/20261117000421
 
-◾ [기획] 병원 찾기·다국어 상담…＇AX 원스톱＇으로 공공서비스 고도화
-https://www.etnews.com/20261116000410
+◾ 국가AI전략위, 대전 과학 AI 연구 현장서 R&D 혁신 논의
+https://www.etnews.com/20261117000400
 
-◾ [기획] 정부 AX ＇원스톱 지원＇…공공 AX 10개 과제 밑그림
-https://www.etnews.com/20261116000407
+◾ 피지컬AI 확산에 로봇법 정비 속도…상용화 걸림돌 해소 과제
+https://www.etnews.com/20261117000256
 
-◾ 지식재산위원회, 제4차 국가지식재산 기본계획 공청회 개최…AI 대전환·기술패권 경쟁 대응 전략 논의
-https://www.etnews.com/20261116000147
+◾ 한국ITS학회 추계학술대회 성료…피지컬 AI·자율주행 융합 논의
+https://www.etnews.com/20261117000385
 
-◾ 철도 차량정리 작업에 무선제어·AI CCTV 도입…연내 종합대책 마련
-https://www.etnews.com/20261116000198
+◾ ('26. 11. 17) 국가AI전략위, 대전서  ‘과학기술 AI·창업·인재’ 현장 소통
+https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1141
 
-◾ 대전시, ＇글로벌 AI 허브＇ 유치 총력전…35개 기관과 손잡고 본격화
-https://www.etnews.com/20261116000108
+◾ 정부, 글로벌 빅테크와 수능 AI 부정행위 사후조사 추진…입시제한도 10년으로 확대
+https://www.etnews.com/20261117000355
 
-◾ 수능 앞두고 AI 부정행위 범정부 긴급대응팀 구성…韓총리, 종합대책 마련 지시
-https://www.etnews.com/20261116000276
+◾ 하정우 부위원장, GPU·모두의 AI 등 민·관 풀스택 전략 논의 주도
+https://www.etnews.com/20261117000318
 
-◾ AI 의료기기, 허가 넘어 시장 진입까지…식약처, 규제·수가 연계 논의
-https://www.etnews.com/20261116000274
-
-◾ 교육부 “수능 연기 없다…내년 AI 전파탐지기 도입 검토”
-https://www.etnews.com/20261116000248
-
-◾ AI·피지컬 AI 로봇 혁신 퍼스트무버를 찾습니다
-https://www.etnews.com/20261116000197
-
-◾ 서울대, 인간 신경계 모사한 피지컬 AI 개발…객체 인식 정확도 53.8%에서 88%로 향상
-https://www.aitimes.kr/news/articleView.html?idxno=42741
+◾ AI가 댐 방류 시기·방류량 판단 돕는다…기후부, 2028년까지 구축
+https://www.etnews.com/20261117000192
 
 [해외]
-◾ 미국, 엔비디아·오픈AI 등 AI 기업 20여곳 ＇국가 대표기업＇ 지정 추진
-https://www.aitimes.com/news/articleView.html?idxno=217465
+◾ 미국, 중국의 해외 GPU 우회 이용 차단…새 수출 규제 발표
+https://www.aitimes.com/news/articleView.html?idxno=217467
 
-◾ 앤트그룹, 로봇에 ＇촉각＇ 더하는 AI 공개…물체 잡는 힘까지 판단
-https://www.aitimes.com/news/articleView.html?idxno=217455
+◾ 미 상무부, 중국의 ＇AI 칩 클라우드 우회 접속＇ 전면 차단
+https://www.etnews.com/20261117000010
 
-◾ 엔비디아 ＇그루트 2＇, 로봇 동작 넘어 미래 예측…시연 5회로 성공률 95%
-https://www.aitimes.com/news/articleView.html?idxno=217447
+◾ 美 캘리포니아, 안전장치 없이 AI 개발 이유로 오픈AI 상대 소송
+https://www.etnews.com/20261117000005
 
-◾ 美, 韓·日 등 9개 동맹국과 中 견제할 AI 공급망 보호 협정 체결
-https://www.etnews.com/20261116000527
+◾ 메이사, GPS 없이 조난자 찾는 드론 AI 개발…다중 드론 자율 수색 기술 확보 나서
+https://www.aitimes.kr/news/articleView.html?idxno=42755
 
-◾ 아마존, 지상 640km에 우주 인터넷망 구축…인공지능 시대 글로벌 통신 인프라 확장
-https://www.aitimes.kr/news/articleView.html?idxno=42748
+◾ AMD, 페이페이 리의 ＇월드랩스＇ 인수 완료…월드모델 확보해 차세대 AI 반도체 개발 가속
+https://www.aitimes.kr/news/articleView.html?idxno=42767
 
-◾ “AI가 연구하고, 설계하고, 검증한다”…알리바바, 신약 개발·제조 혁신할 ‘큐웬4 맥스’ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42746
+◾ 구글 지도의 진화, 장소 검색 넘어 AI가 예약까지 돕는다…애스크 맵스에 에이전틱 AI 탑재
+https://www.aitimes.kr/news/articleView.html?idxno=42763
 
-◾ 애플, 최대 20만 명 대상 건강 AI 연구 착수…아이폰 건강 데이터와 의료 AI 결합
-https://www.aitimes.kr/news/articleView.html?idxno=42744
+◾ 오픈AI, 의료 AI 에이전트 임상 안전성 99% 평가…보험 승인·진료 의뢰까지 업무 자동화
+https://www.aitimes.kr/news/articleView.html?idxno=42760
 
-◾ 운전대·페달 없는 테슬라 판매
-https://kookbang.dema.mil.kr/newsWeb/20261117/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669
+◾ 오픈AI 올트먼 “AI에 인간의 미래 통제권 넘겨선 안 돼”…초지능 시대 인간의 선택권 강조
+https://www.aitimes.kr/news/articleView.html?idxno=42756
+
+◾ “美 데이터센터, 국가만큼 이산화탄소 배출”
+https://kookbang.dema.mil.kr/newsWeb/20261118/1/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=jtjr3i6cHj7INkZQ2EZZ2hyajrTamUMMLLYQLvJDDlmi8f3CN5fo!296806669
 
 📚 간행물
-◾ [제1316호] AI 지수(AI Index)로 살펴본 AI 국가 역량
-https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1316%ED%98%B8%5D%20AI%20%EC%A7%80%EC%88%98%28AI%20Index%29%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B8%20AI%20%EA%B5%AD%EA%B0%80%20%EC%97%AD%EB%9F%89
+◾ NIA AI&DIgital Insight #5 – AI in Korean Government (Vol. 2)
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=30203&parentSeq=30203
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
