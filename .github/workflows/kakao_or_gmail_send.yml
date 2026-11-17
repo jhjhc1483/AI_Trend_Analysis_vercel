@@ -2,6 +2,13 @@ name: KakaoTalk or Gmail Auto Send
 
 on:
   workflow_dispatch: # GitHub 웹에서 버튼 눌러서 직접 실행 가능
+    inputs:
+      mode:
+        description: 'send = 메일 발송, cleanup_only = 메일 없이 구독자 목록 정리/암호화만'
+        required: false
+        default: 'send'
+        type: choice
+        options: ['send', 'cleanup_only']
   schedule:
    - cron: '53 20 * * *' # 매일 오전 5시 53분 (지연 감안해 6시 직전으로)    
 
@@ -28,6 +35,7 @@ jobs:
         run: python codes/pycode/cleanup_expired_emails.py
 
       - name: Run KakaoTalk or Gamil Script
+        if: ${{ inputs.mode != 'cleanup_only' }}  # 예약 실행 시에는 inputs가 비어 있으므로 항상 발송
         env:
           # GitHub Secrets에 저장된 키를 환경 변수로 매핑
           KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
@@ -39,11 +47,13 @@ jobs:
         # run : python codes/pycode/gmail_send.py
         # run: python codes/pycode/send_kakao2.py
 
+      # 메일 단계가 실패해도 정리/암호화된 구독자 목록은 저장
       - name: Commit cleaned receiver list
+        if: ${{ !cancelled() }}
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add codes/receiver_email.json
-          git diff --cached --quiet || git commit -m "🧹 만료된 구독자 자동 정리"
+          git diff --cached --quiet || git commit -m "🧹 구독자 목록 자동 정리"
           git pull --rebase --autostash origin main
           git push
