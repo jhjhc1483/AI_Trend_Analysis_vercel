@@ -57,10 +57,3 @@ jobs:
         git commit -m "Update favorites & data.txt/json (Auto-generated)" || echo "No changes to commit"
         git pull --rebase --autostash origin main
         git push
-
-    # - name: Run send_kakao2.py
-    #   env:
-    #     KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
-    #     KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
-    #   run: python codes/pycode/send_kakao2.py
-

@@ -60,8 +60,6 @@ jobs:
           MAIL_MODE: ${{ inputs.mode == 'resend' && 'resend' || 'send' }}
 
         run : python codes/pycode/gmail_send_visualizer.py
-        # run : python codes/pycode/gmail_send.py
-        # run: python codes/pycode/send_kakao2.py
 
       # 메일 단계가 실패해도 정리/암호화된 구독자 목록과 발송 기록은 저장
       - name: Commit cleaned receiver list
