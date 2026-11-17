@@ -38759,13 +38759,13 @@
           "title": "AI 아이디어 발굴 업무혁신 나선다",
           "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDgyNiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
           "category": "국방",
-          "score": 4
+          "score": 5
         },
         {
           "title": "민간 SW/데이터, 국방 접목 방안 논의",
           "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNDgyMyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
           "category": "국방",
-          "score": 4
+          "score": 5
         },
         {
           "title": "★ 품는 IT기업, 국방 AX 앞두고 軍 네트워크 확보 경쟁",
@@ -38797,13 +38797,7 @@
           "title": "미국, 엔비디아·오픈AI 등 AI 기업 20여곳 ＇국가 대표기업＇ 지정 추진",
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217465",
           "category": "해외",
-          "score": 5
-        },
-        {
-          "title": "영상 생성 AI, 1년 만에 판도 역전…중국 모델이 상위권 장악",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217463",
-          "category": "해외",
-          "score": 3
+          "score": 4
         },
         {
           "title": "앤트그룹, 로봇에 ＇촉각＇ 더하는 AI 공개…물체 잡는 힘까지 판단",
@@ -38818,18 +38812,6 @@
           "score": 4
         },
         {
-          "title": "전력난·주민 반발에 AI 데이터센터 바다로…파력 발전까지 추진",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217459",
-          "category": "해외",
-          "score": 3
-        },
-        {
-          "title": "백악관 〃AI 보안 사고 자진 신고하면 처벌 완화〃",
-          "link": "https://www.aitimes.com/news/articleView.html?idxno=217450",
-          "category": "해외",
-          "score": 4
-        },
-        {
           "title": "美, 韓·日 등 9개 동맹국과 中 견제할 AI 공급망 보호 협정 체결",
           "link": "https://www.etnews.com/20261116000527",
           "category": "해외",
@@ -38839,7 +38821,7 @@
           "title": "아마존, 지상 640km에 우주 인터넷망 구축…인공지능 시대 글로벌 통신 인프라 확장",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42748",
           "category": "해외",
-          "score": 4
+          "score": 3
         },
         {
           "title": "“AI가 연구하고, 설계하고, 검증한다”…알리바바, 신약 개발·제조 혁신할 ‘큐웬4 맥스’ 공개",
@@ -38851,13 +38833,13 @@
           "title": "애플, 최대 20만 명 대상 건강 AI 연구 착수…아이폰 건강 데이터와 의료 AI 결합",
           "link": "https://www.aitimes.kr/news/articleView.html?idxno=42744",
           "category": "해외",
-          "score": 4
+          "score": 3
         },
         {
-          "title": "서울대, 인간 신경계 모사한 피지컬 AI 개발…객체 인식 정확도 53.8%에서 88%로 향상",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42741",
+          "title": "운전대·페달 없는 테슬라 판매",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261117/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669",
           "category": "해외",
-          "score": 3
+          "score": 4
         }
       ],
       "기관": [
@@ -38866,6 +38848,18 @@
           "link": "https://www.aitimes.com/news/articleView.html?idxno=217443",
           "category": "기관",
           "score": 4
+        },
+        {
+          "title": "백악관 〃AI 보안 사고 자진 신고하면 처벌 완화〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217450",
+          "category": "기관",
+          "score": 4
+        },
+        {
+          "title": "[기획] 병원 찾기·다국어 상담…＇AX 원스톱＇으로 공공서비스 고도화",
+          "link": "https://www.etnews.com/20261116000410",
+          "category": "기관",
+          "score": 3
         },
         {
           "title": "[기획] 정부 AX ＇원스톱 지원＇…공공 AX 10개 과제 밑그림",
@@ -38880,6 +38874,12 @@
           "score": 4
         },
         {
+          "title": "철도 차량정리 작업에 무선제어·AI CCTV 도입…연내 종합대책 마련",
+          "link": "https://www.etnews.com/20261116000198",
+          "category": "기관",
+          "score": 3
+        },
+        {
           "title": "대전시, ＇글로벌 AI 허브＇ 유치 총력전…35개 기관과 손잡고 본격화",
           "link": "https://www.etnews.com/20261116000108",
           "category": "기관",
@@ -38889,22 +38889,52 @@
           "title": "수능 앞두고 AI 부정행위 범정부 긴급대응팀 구성…韓총리, 종합대책 마련 지시",
           "link": "https://www.etnews.com/20261116000276",
           "category": "기관",
-          "score": 5
+          "score": 4
         },
         {
           "title": "AI 의료기기, 허가 넘어 시장 진입까지…식약처, 규제·수가 연계 논의",
           "link": "https://www.etnews.com/20261116000274",
           "category": "기관",
-          "score": 4
+          "score": 3
+        },
+        {
+          "title": "교육부 “수능 연기 없다…내년 AI 전파탐지기 도입 검토”",
+          "link": "https://www.etnews.com/20261116000248",
+          "category": "기관",
+          "score": 3
         },
         {
           "title": "AI·피지컬 AI 로봇 혁신 퍼스트무버를 찾습니다",
           "link": "https://www.etnews.com/20261116000197",
           "category": "기관",
           "score": 3
+        },
+        {
+          "title": "서울대, 인간 신경계 모사한 피지컬 AI 개발…객체 인식 정확도 53.8%에서 88%로 향상",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42741",
+          "category": "기관",
+          "score": 4
         }
       ],
       "민간": [
+        {
+          "title": "네이버 카페에 AI 에이전트 도입...3개 카페서 베타 테스트 진행",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217453",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "노타, 두베에 금융권 특화 AI 코딩 에이전트 기술 제공",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217457",
+          "category": "민간",
+          "score": 3
+        },
+        {
+          "title": "2027 UX·UI 키워드 3선...＇검증 설계·에이전트 팀·AI 네이티브＇",
+          "link": "https://www.etnews.com/20261116000462",
+          "category": "민간",
+          "score": 3
+        },
         {
           "title": "[AIx소프트웨이브 2026] 지란지교소프트, 소프트웨이브 2026서 기업용 AI 에이전트 ＇오피스에이전트＇ 공개",
           "link": "https://www.etnews.com/20261116000460",
@@ -38912,14 +38942,8 @@
           "score": 3
         },
         {
-          "title": "새벽 3시 AI가 깨우는 삼성서울병원…데이터로 진료·수술 지연 ＇최소화＇",
-          "link": "https://www.etnews.com/20261116000314",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "ANYFIVE, AI 기반 지능형 전자연구노트 ＇ThinkCat ELN＇ 출시",
-          "link": "https://www.etnews.com/20261116000376",
+          "title": "[AIx소프트웨이브 2026] 디밀리언, 소프트웨어대전 2026 참가... 제조 특화 AI 에이전트로 제조 AX 혁신 제시",
+          "link": "https://www.etnews.com/20261116000331",
           "category": "민간",
           "score": 3
         },
@@ -38942,8 +38966,8 @@
           "score": 4
         },
         {
-          "title": "농협은행, 챗봇 넘은 ＇생활금융 AI＇…전세예산·상품추천 에이전트 구축",
-          "link": "https://www.etnews.com/20261116000228",
+          "title": "차세대융합기술산업협회, ＇NCIA X 피지컬AI 밋업＇ 개최...업계가 한자리에 모여 나눈 현장의 이야기",
+          "link": "https://www.etnews.com/20261116000218",
           "category": "민간",
           "score": 3
         },
@@ -38954,14 +38978,8 @@
           "score": 4
         },
         {
-          "title": "네이버, 카페 게시글·댓글 읽는 ‘AI 에이전트’ 도입…회원 등급 따라 답변 정보도 달라진다",
-          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42740",
-          "category": "민간",
-          "score": 3
-        },
-        {
-          "title": "운전대·페달 없는 테슬라 판매",
-          "link": "https://kookbang.dema.mil.kr/newsWeb/20261117/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669",
+          "title": "휴머노이드 로봇 ‘LG 클로이드’ 국내 시범인증 추진…안전성·사용성 평가체계 및 국제표준 개발 참여",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42742",
           "category": "민간",
           "score": 3
         }
@@ -38977,7 +38995,7 @@
           "title": "드론·대드론 기술 대학과 공동연구",
           "link": "https://kookbang.dema.mil.kr/newsWeb/20261117/1/ATCE_CTGR_0010030000/view.do;JSESSIONID_kookbnagWEB=FaTmcioBIQbwrTkFUVhlZW8xjxXbVCN4lP6G_fo4JiRDNNuWV5vg!296806669",
           "category": "육군",
-          "score": 4
+          "score": 3
         }
       ],
       "간행물": [
@@ -38986,15 +39004,8 @@
           "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1316%ED%98%B8%5D%20AI%20%EC%A7%80%EC%88%98%28AI%20Index%29%EB%A1%9C%20%EC%82%B4%ED%8E%B4%EB%B3%B8%20AI%20%EA%B5%AD%EA%B0%80%20%EC%97%AD%EB%9F%89",
           "category": "간행물",
           "score": 5
-        },
-        {
-          "title": "2026년 10월 정보통신산업 수출입 동향",
-          "link": "https://www.iitp.kr/web/lay1/program/S1T14C61/itfind/view.do?seq=02-008-261116-000001&cpage=1&rows=10&searchTarget=all",
-          "category": "간행물",
-          "score": 3
         }
       ]
-    },
-    "briefing": "- 육군이 AI를 활용한 업무 혁신 아이디어 발굴에 본격적으로 나섰습니다.\n- 민간의 우수한 소프트웨어와 데이터 기술을 국방 분야에 접목하기 위한 논의가 추진되었습니다.\n- 미래 전장 환경에 대비해 대학과 드론 및 대드론 기술 공동연구를 진행할 계획입니다."
+    }
   }
 }
