@@ -8,7 +8,12 @@
 //   {"v": 1, "enc": "aes-256-gcm", "iv": "<base64 12바이트>", "data": "<base64 암호문+인증태그 16바이트>"}
 //   키 = SHA-256(SUBSCRIBER_ENCRYPTION_KEY 앞뒤 공백 제거)
 // 키가 설정되지 않은 동안에는 기존과 같은 평문 형식({"emails": [...]})으로 저장합니다.
-import { createCipheriv, createDecipheriv, createHash, randomBytes } from 'node:crypto';
+//
+// 메일 속 '구독 해지' / '1년 연장' 링크에는 받은 사람만 가진 토큰이 들어갑니다.
+//   토큰 = base64url(HMAC-SHA256(SHA-256("token:" + 키), "<용도>:<이메일 소문자>"))   용도: unsubscribe | renew
+//   (codes/pycode/subscribers.py 의 make_token 과 같아야 함)
+// 메일 앱의 '구독 취소' 버튼(RFC 8058 원클릭)은 주소창의 쿼리로 같은 값을 보내므로 쿼리도 함께 읽습니다.
+import { createCipheriv, createDecipheriv, createHash, createHmac, randomBytes, timingSafeEqual } from 'node:crypto';
 
 const OWNER = process.env.GITHUB_OWNER || 'jhjhc1483';
 const REPO = process.env.GITHUB_REPO || 'AI_Trend_Analysis_vercel';
@@ -33,7 +38,9 @@ const MESSAGES = {
     full: "구독 정원이 가득 찼습니다. 관리자에게 문의해주세요.",
     unsubscribed: "구독이 해지되었습니다. 😢",
     not_found: "등록되지 않은 이메일입니다.",
+    bad_token: "링크가 올바르지 않거나 만료되었습니다. 메일에 있는 링크를 다시 눌러주세요.",
 };
+const ACTIONS = ['subscribe', 'unsubscribe', 'renew'];
 
 class HttpError extends Error {
     constructor(status, message) {
@@ -44,13 +51,34 @@ class HttpError extends Error {
 
 // ---------------- 암호화 ----------------
 
-function getKey() {
+function getPassphrase() {
     const passphrase = (process.env[KEY_ENV] || '').trim();
     if (!passphrase) return null;
     if (passphrase.length < MIN_KEY_LENGTH) {
         throw new HttpError(500, `서버 설정 오류: ${KEY_ENV}는 ${MIN_KEY_LENGTH}자 이상이어야 합니다.`);
     }
-    return createHash('sha256').update(passphrase, 'utf8').digest();
+    return passphrase;
+}
+
+function getKey() {
+    const passphrase = getPassphrase();
+    return passphrase ? createHash('sha256').update(passphrase, 'utf8').digest() : null;
+}
+
+// ---------------- 해지/연장 링크 토큰 ----------------
+
+function makeToken(purpose, email) {
+    const passphrase = getPassphrase();
+    if (!passphrase) throw new HttpError(500, `서버 설정 오류: 링크를 확인할 ${KEY_ENV}가 없습니다.`);
+    const tokenKey = createHash('sha256').update(`token:${passphrase}`, 'utf8').digest();
+    return createHmac('sha256', tokenKey).update(`${purpose}:${email}`, 'utf8').digest('base64url');
+}
+
+function isValidToken(purpose, email, token) {
+    if (typeof token !== 'string' || !token) return false;
+    const expected = Buffer.from(makeToken(purpose, email));
+    const received = Buffer.from(token);
+    return expected.length === received.length && timingSafeEqual(expected, received);
 }
 
 function encrypt(plaintext, key) {
@@ -94,6 +122,10 @@ function serializeSubscriberFile(subscribers) {
 
 function todayKST() {
     return new Date(Date.now() + 9 * 60 * 60 * 1000).toISOString().slice(0, 10);
+}
+
+function addDays(dateStr, days) {
+    return new Date(Date.parse(dateStr) + days * 86400000).toISOString().slice(0, 10);
 }
 
 // 옛 형식(문자열) 변환, 잘못된 주소와 만료된 구독 제거 (subscribers.py 의 clean_subscribers 와 같은 규칙)
@@ -157,13 +189,20 @@ export default async function handler(req, res) {
         return res.status(405).json({ error: "Method Not Allowed" });
     }
 
-    const token = process.env.GITHUB_TOKEN;
-    if (!token) {
+    const githubToken = process.env.GITHUB_TOKEN;
+    if (!githubToken) {
         return res.status(500).json({ error: "Server Configuration Error", message: "서버 설정 오류: GITHUB_TOKEN이 없습니다." });
     }
 
-    const { email, action } = req.body || {};
-    if (action !== 'subscribe' && action !== 'unsubscribe') {
+    // 본문(JSON) 또는 주소 쿼리(메일 앱의 원클릭 구독 취소)에서 값을 읽습니다.
+    const body = req.body && typeof req.body === 'object' ? req.body : {};
+    const query = req.query || {};
+    const pick = (key) => (typeof body[key] === 'string' ? body[key] : typeof query[key] === 'string' ? query[key] : undefined);
+    const email = pick('email');
+    const action = pick('action');
+    const token = pick('token');
+
+    if (!ACTIONS.includes(action)) {
         return res.status(400).json({ error: "Bad Request", message: "알 수 없는 요청입니다." });
     }
     const target = typeof email === 'string' ? email.trim().toLowerCase() : '';
@@ -172,26 +211,36 @@ export default async function handler(req, res) {
     }
 
     try {
+        // 연장은 메일 링크로만 가능, 해지는 링크(토큰)가 있으면 검증하고 없으면 기존처럼 이메일만으로 처리
+        if ((action === 'renew' || token !== undefined) && !isValidToken(action, target, token)) {
+            return res.status(403).json({ status: 'bad_token', message: MESSAGES.bad_token });
+        }
+
         for (let attempt = 1; attempt <= MAX_ATTEMPTS; attempt++) {
             const today = todayKST();
-            const { raw, sha } = await readSubscribers(token);
+            const { raw, sha } = await readSubscribers(githubToken);
             const subscribers = cleanSubscribers(raw, today);
             const exists = subscribers.some(s => s.email.toLowerCase() === target);
 
-            let next, status;
+            let next, status, message;
             if (action === 'subscribe') {
                 if (exists) return res.status(200).json({ status: 'already', message: MESSAGES.already });
                 if (subscribers.length >= MAX_SUBSCRIBERS) return res.status(409).json({ status: 'full', message: MESSAGES.full });
                 next = [...subscribers, { email: target, date: today }];
                 status = 'subscribed';
-            } else {
+            } else if (action === 'unsubscribe') {
                 if (!exists) return res.status(200).json({ status: 'not_found', message: MESSAGES.not_found });
                 next = subscribers.filter(s => s.email.toLowerCase() !== target);
                 status = 'unsubscribed';
+            } else {
+                if (!exists) return res.status(200).json({ status: 'not_found', message: "구독 정보가 없습니다. 이미 만료되었다면 다시 구독해주세요." });
+                next = subscribers.map(s => (s.email.toLowerCase() === target ? { email: s.email, date: today } : s));
+                status = 'renewed';
+                message = `구독이 1년 연장되었습니다. 🎉 (새 만료일: ${addDays(today, EXPIRE_DAYS)})`;
             }
 
-            if (await writeSubscribers(token, next, sha)) {
-                return res.status(200).json({ status, message: MESSAGES[status] });
+            if (await writeSubscribers(githubToken, next, sha)) {
+                return res.status(200).json({ status, message: message || MESSAGES[status] });
             }
         }
         return res.status(503).json({ error: "Conflict", message: "다른 요청과 겹쳤습니다. 잠시 후 다시 시도해주세요." });

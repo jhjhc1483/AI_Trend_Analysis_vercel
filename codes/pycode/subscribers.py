@@ -7,15 +7,19 @@
   키 = SHA-256(SUBSCRIBER_ENCRYPTION_KEY 앞뒤 공백 제거)
   복호화한 내용 = {"emails": [{"email": "...", "date": "YYYY-MM-DD"}, ...]}
 
+메일 속 '구독 해지' / '1년 연장' 링크의 토큰도 같은 키로 만듭니다. (api/subscribe.js 와 동일)
+  토큰 = base64url(HMAC-SHA256(SHA-256("token:" + 키), "<용도>:<이메일 소문자>"))   용도: unsubscribe | renew
+
 SUBSCRIBER_ENCRYPTION_KEY 가 설정되지 않은 동안에는 기존 평문 형식으로 읽고 씁니다.
 키가 설정되면 다음 저장 때(매일 cleanup_expired_emails.py 실행 시) 자동으로 암호화됩니다.
 """
 import base64
 import hashlib
+import hmac
 import json
 import os
 import re
-from datetime import datetime
+from datetime import datetime, timedelta
 
 RECEIVER_FILE = "codes/receiver_email.json"
 KEY_ENV = "SUBSCRIBER_ENCRYPTION_KEY"
@@ -31,13 +35,38 @@ class SubscriberFileError(Exception):
     """구독자 파일을 안전하게 읽거나 쓸 수 없을 때 (키 없음/불일치 등)."""
 
 
-def _get_key():
+def _get_passphrase():
     passphrase = os.environ.get(KEY_ENV, "").strip()
     if not passphrase:
         return None
     if len(passphrase) < MIN_KEY_LENGTH:
         raise SubscriberFileError(f"{KEY_ENV}는 {MIN_KEY_LENGTH}자 이상이어야 합니다.")
-    return hashlib.sha256(passphrase.encode("utf-8")).digest()
+    return passphrase
+
+
+def _get_key():
+    passphrase = _get_passphrase()
+    return hashlib.sha256(passphrase.encode("utf-8")).digest() if passphrase else None
+
+
+def make_token(purpose, email):
+    """메일 링크용 토큰. 키가 없으면 None (링크를 넣지 않음)."""
+    passphrase = _get_passphrase()
+    if not passphrase:
+        return None
+    token_key = hashlib.sha256(f"token:{passphrase}".encode("utf-8")).digest()
+    digest = hmac.new(token_key, f"{purpose}:{email.strip().lower()}".encode("utf-8"), hashlib.sha256).digest()
+    return base64.urlsafe_b64encode(digest).rstrip(b"=").decode("ascii")
+
+
+def days_until_expiry(date_str, today=None):
+    """등록일 기준 만료까지 남은 일수. 날짜 형식이 잘못되면 None."""
+    today = today or datetime.now()
+    try:
+        expires = datetime.strptime(date_str, "%Y-%m-%d") + timedelta(days=EXPIRE_DAYS)
+    except (TypeError, ValueError):
+        return None
+    return (expires.date() - today.date()).days
 
 
 def encryption_enabled():

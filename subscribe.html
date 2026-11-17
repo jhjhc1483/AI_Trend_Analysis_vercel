@@ -178,7 +178,7 @@
     <div class="subscribe-container">
         <p>AI 일일 동향 리포트를<br>이메일로 받아보세요. (무료)</p>
         <p style="font-size: 0.8rem; color: #888; margin-top: -20px; margin-bottom: 25px;">
-            * 개인정보 보호를 위해 구독 정보는 1년마다 초기화됩니다.<br>
+            * 개인정보 보호를 위해 구독은 1년간 유지되며, 만료 2주 전부터 메일로 연장 안내를 드립니다.<br>
             * 메일이 오지 않는 경우 스팸 메일함을 확인해 주세요.
         </p>
         
@@ -196,6 +196,11 @@
                 <span class="loader" id="unsubLoader"></span>
                 구독취소
             </button>
+            <!-- 메일 속 해지/연장 링크로 들어왔을 때만 보이는 확인 버튼 -->
+            <button id="linkActionBtn" class="btn-subscribe" style="display: none;">
+                <span class="loader" id="linkLoader"></span>
+                <span id="linkActionLabel"></span>
+            </button>
         </div>
 
         <div id="status-msg"></div>
@@ -209,11 +214,11 @@
 
     <script>
         // 구독자 목록은 서버(/api/subscribe)에서만 읽고 씁니다. 브라우저는 이메일 한 건만 보냅니다.
-        async function requestSubscription(email, action) {
+        async function requestSubscription(email, action, token) {
             const res = await fetch('/api/subscribe', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ email, action })
+                body: JSON.stringify({ email, action, ...(token && { token }) })
             });
             const data = await res.json().catch(() => ({}));
             if (!data.status) {
@@ -229,6 +234,8 @@
             full: "var(--danger-color)",
             unsubscribed: "var(--text-color)",
             not_found: "var(--danger-color)",
+            renewed: "var(--success-color)",
+            bad_token: "var(--danger-color)",
         };
 
         const emailInput = document.getElementById('email');
@@ -274,6 +281,49 @@
 
         subBtn.addEventListener('click', () => handleAction('Subscribe'));
         unsubBtn.addEventListener('click', () => handleAction('Unsubscribe'));
+
+        // ---- 메일 속 링크(?action=unsubscribe|renew&email=...&token=...)로 들어온 경우 ----
+        // 메일 보안 검사기가 링크를 미리 열어도 처리되지 않도록, 자동 실행하지 않고 확인 버튼을 누르게 합니다.
+        const params = new URLSearchParams(location.search);
+        const linkAction = params.get('action');
+        const linkEmail = params.get('email');
+        const linkToken = params.get('token');
+        const LINK_LABELS = {
+            unsubscribe: { button: '구독 해지 확인', prompt: '아래 버튼을 누르면 구독이 해지됩니다.', color: 'var(--danger-color)' },
+            renew: { button: '1년 연장하기', prompt: '아래 버튼을 누르면 구독이 오늘부터 1년 연장됩니다.', color: 'var(--secondary-color)' },
+        };
+        if (LINK_LABELS[linkAction] && linkEmail && linkToken) {
+            const label = LINK_LABELS[linkAction];
+            const linkBtn = document.getElementById('linkActionBtn');
+            const linkLoader = document.getElementById('linkLoader');
+            emailInput.value = linkEmail;
+            emailInput.readOnly = true;
+            subBtn.style.display = 'none';
+            unsubBtn.style.display = 'none';
+            linkBtn.style.display = '';
+            if (linkAction === 'unsubscribe') linkBtn.className = 'btn-unsubscribe';
+            document.getElementById('linkActionLabel').textContent = label.button;
+            setStatus(label.prompt, label.color);
+
+            linkBtn.addEventListener('click', async () => {
+                try {
+                    linkBtn.disabled = true;
+                    linkLoader.style.display = 'inline-block';
+                    setStatus('처리 중...', "var(--secondary-color)");
+                    const result = await requestSubscription(linkEmail, linkAction, linkToken);
+                    setStatus(result.message, STATUS_COLORS[result.status] || "var(--text-color)");
+                    if (result.status === 'unsubscribed' || result.status === 'renewed') {
+                        linkBtn.style.display = 'none';
+                    }
+                } catch (err) {
+                    console.error(err);
+                    setStatus("처리 중 오류가 발생했습니다: " + err.message, "var(--danger-color)");
+                } finally {
+                    linkBtn.disabled = false;
+                    linkLoader.style.display = 'none';
+                }
+            });
+        }
     </script>
 </body>
 </html>

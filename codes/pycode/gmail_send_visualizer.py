@@ -9,17 +9,28 @@
 오디오 생성이 끝나면 자동으로 실행되고, 체인이 끊긴 경우를 대비해 예약 실행도 한 번 더 있습니다.
 같은 날 여러 번 실행돼도 구독자에게는 하루 한 번만 보냅니다. (codes/state/mail.json에 기록)
 다시 보내야 하면 MAIL_MODE=resend (워크플로우 mode: resend)로 실행하세요.
+
+메일마다 받는 사람 전용 '구독 해지' 링크와 메일 앱의 원클릭 구독 취소 헤더(List-Unsubscribe)를 넣고,
+구독 만료 14일 전부터는 '1년 연장하기' 안내를 함께 보여줍니다.
 """
 import os
 import smtplib
 import sys
+from urllib.parse import urlencode
 from email.mime.multipart import MIMEMultipart
 from email.mime.text import MIMEText
 
 from dotenv import load_dotenv
 
 from pipeline_state import REPORT_HEADER_REGEX, now_kst, read_state, write_state
-from subscribers import clean_subscribers, load_subscribers, mask_email, save_subscribers
+from subscribers import (
+    clean_subscribers,
+    days_until_expiry,
+    load_subscribers,
+    make_token,
+    mask_email,
+    save_subscribers,
+)
 
 load_dotenv(override=True)
 
@@ -35,7 +46,9 @@ file_path = "codes/data.txt"
 receiver_file_path = "codes/receiver_email.json"
 MAX_RECIPIENTS = 100  # api/subscribe.js 의 구독자 상한과 같게 유지
 
-VISUALIZER_URL = "https://ai-trend-analysis.vercel.app/visualizer.html"
+SITE_URL = "https://ai-trend-analysis.vercel.app"
+VISUALIZER_URL = f"{SITE_URL}/visualizer.html"
+RENEW_NOTICE_DAYS = 14  # 만료 며칠 전부터 연장 안내를 보여줄지
 WORKFLOW_URL = "https://github.com/jhjhc1483/AI_Trend_Analysis_vercel/actions/workflows/kakao_or_gmail_send.yml"
 # =============================================
 
@@ -54,8 +67,8 @@ def check_report(report_text, today_key):
 
 
 def load_receivers():
-    """구독자 목록을 읽어 발송 대상 주소 리스트를 반환합니다. (암호화/평문 모두 subscribers.py에서 처리)"""
-    receivers = [default_receiver]
+    """구독자 목록을 읽어 발송 대상 [{"email", "date"}] 리스트를 반환합니다. (암호화/평문 모두 subscribers.py에서 처리)"""
+    receivers = [{"email": default_receiver, "date": None}]
     try:
         raw, _ = load_subscribers(receiver_file_path)
         valid, removed = clean_subscribers(raw)
@@ -64,7 +77,7 @@ def load_receivers():
             print(f"수신자 목록 정리 완료: {removed}건 삭제, {len(valid)}명 유지")
 
         if valid:
-            receivers = [item["email"] for item in valid[:MAX_RECIPIENTS]]
+            receivers = valid[:MAX_RECIPIENTS]
             print(f"수신자 목록 검증 및 만료 체크 완료: {len(receivers)}명")
         else:
             print("경고: 유효한 수신자가 없습니다. 기본 수신자를 사용합니다.")
@@ -73,12 +86,47 @@ def load_receivers():
     return receivers
 
 
+def subscription_links(email):
+    """받는 사람 전용 해지/연장 링크. 암호화 키가 없으면 None."""
+    unsubscribe_token = make_token("unsubscribe", email)
+    if not unsubscribe_token:
+        return None
+    unsubscribe_query = urlencode({"action": "unsubscribe", "email": email, "token": unsubscribe_token})
+    return {
+        "unsubscribe_page": f"{SITE_URL}/subscribe.html?{unsubscribe_query}",
+        "unsubscribe_one_click": f"{SITE_URL}/api/subscribe?{unsubscribe_query}",
+        "renew_page": f"{SITE_URL}/subscribe.html?" + urlencode(
+            {"action": "renew", "email": email, "token": make_token("renew", email)}),
+    }
+
+
 def build_briefing_message(receiver, subject, report_text):
+    """receiver: {"email", "date"} (date는 구독 등록일, 기본 수신자는 None)"""
+    email = receiver["email"]
+    links = subscription_links(email)
+    days_left = days_until_expiry(receiver.get("date")) if receiver.get("date") else None
+    show_renew = links is not None and days_left is not None and days_left <= RENEW_NOTICE_DAYS
+
     text_body = f"오늘의 AI 동향 브리핑이 도착했습니다.\n아래 링크에서 확인하실 수 있습니다.\n\n{VISUALIZER_URL}"
+    renew_html = ""
+    footer_html = ""
+    if show_renew:
+        text_body = (f"[안내] 구독이 {max(days_left, 0)}일 후 만료됩니다. 계속 받으시려면 연장해주세요:\n"
+                     f"{links['renew_page']}\n\n") + text_body
+        renew_html = f"""
+                <div style="background-color: #fff8e1; border: 1px solid #ffe082; border-radius: 10px; padding: 16px; margin-bottom: 20px;">
+                    <strong>⏰ 구독이 {max(days_left, 0)}일 후 만료됩니다.</strong><br>
+                    계속 받아보시려면 아래 버튼을 눌러 1년 연장해주세요.
+                    <div style="margin-top: 12px;"><a href="{links['renew_page']}" style="background-color: #f9a825; color: white; padding: 8px 18px; text-decoration: none; border-radius: 8px; font-weight: bold;">1년 연장하기</a></div>
+                </div>"""
+    if links:
+        text_body += f"\n\n더 이상 받지 않으려면: {links['unsubscribe_page']}"
+        footer_html = f"""
+                <p style="color: #999; font-size: 0.8em; text-align: center;">더 이상 메일을 받지 않으시려면 <a href="{links['unsubscribe_page']}" style="color: #999;">구독 해지</a>를 눌러주세요.</p>"""
     html_body = f"""
         <html>
         <body style="font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; line-height: 1.6; color: #333; padding: 20px;">
-            <div style="max-width: 600px; margin: 0 auto; border: 1px solid #eee; border-radius: 15px; padding: 30px; background-color: #ffffff;">
+            <div style="max-width: 600px; margin: 0 auto; border: 1px solid #eee; border-radius: 15px; padding: 30px; background-color: #ffffff;">{renew_html}
                 <h2 style="color: #2c5234; border-bottom: 2px solid #2c5234; padding-bottom: 10px;">오늘의 AI 동향 브리핑이 도착했어요! 📰</h2>
                 <p style="font-size: 1.1em;">오늘의 AI 주요 소식과 동향을 아래 시각화 페이지에서 쉽고 간편하게 확인해 보세요.</p>
                 <div style="text-align: center; margin: 40px 0;">
@@ -86,7 +134,7 @@ def build_briefing_message(receiver, subject, report_text):
                 </div>
                 <p style="color: #666; font-size: 0.9em;">링크가 클릭되지 않는다면 아래 주소를 복사해 브라우저에 붙여넣어 주세요:<br>
                 <a href="{VISUALIZER_URL}" style="color: #3498db;">{VISUALIZER_URL}</a></p>
-                <hr style="border: none; border-top: 1px solid #eee; margin: 30px 0;">
+                <hr style="border: none; border-top: 1px solid #eee; margin: 30px 0;">{footer_html}
             </div>
         </body>
         </html>
@@ -94,8 +142,12 @@ def build_briefing_message(receiver, subject, report_text):
 
     msg = MIMEMultipart('mixed')
     msg['From'] = sender_email
-    msg['To'] = receiver
+    msg['To'] = email
     msg['Subject'] = subject
+    if links:
+        # 메일 앱(Gmail 등)의 '구독 취소' 버튼 - RFC 8058 원클릭
+        msg['List-Unsubscribe'] = f"<{links['unsubscribe_one_click']}>"
+        msg['List-Unsubscribe-Post'] = "List-Unsubscribe=One-Click"
 
     # Alternative 파트로 HTML 카드와 기본 텍스트 요약 묶기
     msg_alt = MIMEMultipart('alternative')
@@ -180,7 +232,7 @@ def main():
 
         receivers = load_receivers()
         subject = f"{now.strftime('%Y년 %m월 %d일')} AI 동향 브리핑"
-        failed = send_messages([(r, build_briefing_message(r, subject, report_text)) for r in receivers])
+        failed = send_messages([(r["email"], build_briefing_message(r, subject, report_text)) for r in receivers])
 
         # 한 명에게라도 보냈으면 '오늘 발송함'으로 기록 (재실행 시 받은 사람에게 중복 발송 방지)
         if failed < len(receivers):
