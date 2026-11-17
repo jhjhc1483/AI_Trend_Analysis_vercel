@@ -200,11 +200,11 @@
                 <div class="controls-row" id="article-controls" style="display: none;">
                     <div class="search-controls">
                         <input type="text" id="search-term-article" placeholder="기사 검색 (제목, 사이트)"
-                            onkeyup="debounceSearchArticles()">
+                            oninput="debounceSearchArticles()">
                     </div>
                     <div class="sort-controls">
                         <label for="sort-by-article">정렬 기준:</label>
-                        <select id="sort-by-article" onchange="renderCurrentView()">
+                        <select id="sort-by-article" onchange="resetAndRender()">
                             <option value="date_desc">날짜 내림차순 (최신순)</option>
                             <option value="date_asc">날짜 오름차순 (오래된순)</option>
                             <option value="title_asc">제목 오름차순</option>
@@ -216,11 +216,11 @@
                 <div class="controls-row" id="publication-controls" style="display: none;">
                     <div class="search-controls">
                         <input type="text" id="search-term-publication" placeholder="간행물 검색 (제목, 분류)"
-                            onkeyup="debounceSearchPublications()">
+                            oninput="debounceSearchPublications()">
                     </div>
                     <div class="sort-controls">
                         <label for="sort-by-publication">정렬 기준:</label>
-                        <select id="sort-by-publication" onchange="renderCurrentView()">
+                        <select id="sort-by-publication" onchange="resetAndRender()">
                             <option value="date_desc">날짜 내림차순 (최신순)</option>
                             <option value="date_asc">날짜 오름차순 (오래된순)</option>
                             <option value="title_asc">제목 오름차순</option>
@@ -230,8 +230,14 @@
                 </div>
 
                 <div id="list-view" style="display: none;">
+                    <!-- 최근 N일 데이터만 불러온 상태일 때 표시 (script.js updateDataScopeNotice) -->
+                    <div id="data-scope-notice" class="data-scope-notice" style="display: none;">
+                        <span id="data-scope-text"></span>
+                        <button type="button" id="loadAllDataBtn">전체 기간 불러오기</button>
+                    </div>
                     <ul class="article-list" id="data-list-container">
                     </ul>
+                    <button type="button" id="showMoreBtn" class="show-more-btn" style="display: none;"></button>
                     <div id="no-data">데이터 로드 중...</div>
                 </div>
             </div>

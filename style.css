@@ -38,14 +38,19 @@ body {
     grid-template-columns: repeat(auto-fit, minmax(0px, 1fr));
     gap: 100px;
     border-collapse: collapse;
+    flex: 1;
+    min-width: 0; /* 사이드바 옆 남은 폭 안에서만 넓어지도록 */
 }
 
 .card {
     padding: 30px;
     border: 0px solid #ddd;
     border-radius: 8px;
+    /* 기존 width: 1100px 고정 → 1350px보다 좁은 화면에서 오른쪽(정렬 메뉴 등)이 잘리던 문제 수정 */
     width: 100%;
-    width: 1100px;
+    max-width: 1160px; /* 기존과 같은 크기: 내용 1100px + 좌우 여백 60px */
+    box-sizing: border-box;
+    min-width: 0;
 }
 
 .sidebar {
@@ -584,3 +589,44 @@ h1 {
         z-index: 1600;
     }
 }
+
+/* 최근 N일 데이터만 표시 중일 때 안내 + 전체 기간 불러오기 (script.js) */
+.data-scope-notice {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    gap: 8px;
+    padding: 10px 14px;
+    margin-bottom: 12px;
+    background-color: #eef6ff;
+    border: 1px solid #c8e1ff;
+    border-radius: 6px;
+    color: #2c3e50;
+    font-size: 0.9em;
+}
+
+.data-scope-notice button,
+.show-more-btn {
+    padding: 6px 14px;
+    border: 1px solid #3498db;
+    border-radius: 6px;
+    background-color: #fff;
+    color: #3498db;
+    font-weight: 600;
+    cursor: pointer;
+}
+
+.data-scope-notice button:hover,
+.show-more-btn:hover {
+    background-color: #3498db;
+    color: #fff;
+}
+
+.show-more-btn {
+    display: block;
+    width: 100%;
+    margin-top: 12px;
+    padding: 10px;
+}
+

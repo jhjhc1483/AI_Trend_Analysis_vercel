@@ -269,52 +269,108 @@ function loadData() {
         }
     }
 
-    const promises = [
-        ...FILES_TO_LOAD.map(file => {
-            // 데이터 파일은 public 접근 가능하므로 기존 fetch 유지
-            return fetch(file.url)
-                .then(response => {
-                    if (!response.ok) throw new Error(`Failed to load ${file.url}`);
-                    return response.json();
-                })
-                .then(data => {
-                    return data.map(item => ({
-                        ...item,
-                        site: file.site,
-                        isArticle: file.isArticle,
-                        displayName: file.displayName,
-                        title: item.기사명 || item.제목 || '제목 없음',
-                        link: item.링크 || item.link || '#',
-                        category: item.분류 || item.category || '',
-                    }));
-                })
-                .catch(error => {
-                    console.error(`Error loading ${file.url}:`, error);
-                    return [];
-                });
-        }),
-        loadFewshotExamples(),
-        loadExcludedArticles()
-    ];
-
-    Promise.all(promises)
-        .then(results => {
-            // 마지막 2개 결과(fewshotExamples, excludedArticles)는 이미 전역변수에 저장됨
-            const dataResults = results.slice(0, -2);
-            dataResults.forEach(siteData => {
-                if (siteData.length > 0) {
-                    if (siteData[0].isArticle) articleData = articleData.concat(siteData);
-                    else publicationData = publicationData.concat(siteData);
-                }
-            });
+    Promise.all([loadRecentOrAllData(), loadFewshotExamples(), loadExcludedArticles()])
+        .then(() => {
             allDataLoaded = true;
-            console.log(`Loaded ${articleData.length} articles, ${publicationData.length} publications.`);
             showTab('HOME');
         })
         .catch(error => {
             console.error("Critical error:", error);
             document.getElementById('no-data').textContent = "데이터 로드 중 치명적인 오류 발생.";
         });
+}
+
+// -----------------------------------------------------
+// 5-1. 기사/간행물 데이터 불러오기
+//   첫 화면은 최근 30일치만 담은 파일 하나(codes/dashboard/recent.json, 크롤링 때 생성)로 빠르게 그리고,
+//   검색하거나 '전체 기간 불러오기'를 누르면 그때 전체 파일(약 12MB)을 받습니다.
+// -----------------------------------------------------
+const RECENT_DATA_URL = 'codes/dashboard/recent.json' + cacheBuster;
+const PAGE_SIZE = 300;          // 목록을 한 번에 그리는 개수 ('더 보기'로 이어서 표시)
+let dataScope = 'none';         // 'recent' (최근 N일) | 'all' (전체 기간)
+let recentDays = 30;
+let fullDataPromise = null;
+let renderLimit = PAGE_SIZE;
+
+function fileNameOf(file) {
+    return file.url.split('?')[0].split('/').pop();
+}
+
+function toItems(file, rows) {
+    return rows.map(item => ({
+        ...item,
+        site: file.site,
+        isArticle: file.isArticle,
+        displayName: file.displayName,
+        title: item.기사명 || item.제목 || '제목 없음',
+        link: item.링크 || item.link || '#',
+        category: item.분류 || item.category || '',
+    }));
+}
+
+function setLoadedData(siteItemsList, scope) {
+    articleData = [];
+    publicationData = [];
+    FILES_TO_LOAD.forEach((file, i) => {
+        if (file.isArticle) articleData = articleData.concat(siteItemsList[i]);
+        else publicationData = publicationData.concat(siteItemsList[i]);
+    });
+    dataScope = scope;
+    console.log(`Loaded (${scope}) ${articleData.length} articles, ${publicationData.length} publications.`);
+}
+
+async function loadRecentOrAllData() {
+    try {
+        const res = await fetch(RECENT_DATA_URL);
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const recent = await res.json();
+        recentDays = recent.days || recentDays;
+        setLoadedData(FILES_TO_LOAD.map(file => toItems(file, (recent.files || {})[fileNameOf(file)] || [])), 'recent');
+    } catch (error) {
+        console.warn('최근 데이터 파일을 불러오지 못해 전체 데이터를 불러옵니다:', error);
+        await loadAllData();
+    }
+}
+
+// 전체 기간 데이터 (한 번만 받아서 재사용)
+function loadAllData() {
+    if (!fullDataPromise) {
+        fullDataPromise = Promise.all(FILES_TO_LOAD.map(file =>
+            fetch(file.url)
+                .then(response => {
+                    if (!response.ok) throw new Error(`Failed to load ${file.url}`);
+                    return response.json();
+                })
+                .then(rows => toItems(file, rows))
+                .catch(error => {
+                    console.error(`Error loading ${file.url}:`, error);
+                    return [];
+                })
+        )).then(siteItemsList => setLoadedData(siteItemsList, 'all'));
+    }
+    return fullDataPromise;
+}
+
+function updateDataScopeNotice(loadingMessage) {
+    const notice = document.getElementById('data-scope-notice');
+    if (!notice) return;
+    const btn = document.getElementById('loadAllDataBtn');
+    notice.style.display = dataScope === 'recent' ? 'flex' : 'none';
+    document.getElementById('data-scope-text').textContent = loadingMessage ||
+        `빠른 표시를 위해 최근 ${recentDays}일 데이터만 보여주고 있습니다.`;
+    btn.disabled = Boolean(loadingMessage);
+    btn.style.display = loadingMessage ? 'none' : '';
+}
+
+function loadAllDataAndRender(loadingMessage) {
+    updateDataScopeNotice(loadingMessage);
+    return loadAllData().then(renderCurrentView);
+}
+
+// 목록 첫 페이지부터 다시 그리기 (검색어/정렬/탭이 바뀔 때)
+function resetAndRender() {
+    renderLimit = PAGE_SIZE;
+    renderCurrentView();
 }
 
 // -----------------------------------------------------
@@ -339,6 +395,7 @@ function sortData(data, sortBy) {
 }
 
 function showTab(sourceName) {
+    if (sourceName !== currentView) renderLimit = PAGE_SIZE; // 다른 탭으로 가면 목록 처음부터
     currentView = sourceName;
     document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
     const activeTab = document.querySelector(`.tab-button[data-source="${sourceName}"]`);
@@ -404,18 +461,34 @@ function renderList(sourceName) {
         else data = publicationData.filter(p => p.site === sourceName);
     }
 
+    // 최근 데이터만 있는 상태에서 검색하면 전체 기간 데이터를 받아 다시 검색 (그동안은 최근 결과를 먼저 표시)
+    if (searchTerm && dataScope === 'recent') {
+        loadAllDataAndRender('전체 기간에서 검색하기 위해 데이터를 불러오는 중입니다...');
+    } else {
+        updateDataScopeNotice();
+    }
+
     if (searchTerm) data = data.filter(item => item.title.toLowerCase().includes(searchTerm));
     const filteredAndSortedData = sortData(data, sortBy);
     const listContainer = document.getElementById('data-list-container');
     const noDataMsg = document.getElementById('no-data');
+    const showMoreBtn = document.getElementById('showMoreBtn');
 
     if (filteredAndSortedData.length === 0) {
         listContainer.innerHTML = '';
         noDataMsg.style.display = 'block';
         noDataMsg.textContent = searchTerm ? `검색어 "${searchTerm}" 결과 없음` : `데이터가 없습니다.`;
+        if (showMoreBtn) showMoreBtn.style.display = 'none';
     } else {
-        listContainer.innerHTML = filteredAndSortedData.map(item => createListItem(item)).join('');
+        // 수천 건을 한 번에 그리면 느려지므로 PAGE_SIZE개씩 표시
+        const visible = filteredAndSortedData.slice(0, renderLimit);
+        listContainer.innerHTML = visible.map(item => createListItem(item)).join('');
         noDataMsg.style.display = 'none';
+        const remaining = filteredAndSortedData.length - visible.length;
+        if (showMoreBtn) {
+            showMoreBtn.style.display = remaining > 0 ? 'block' : 'none';
+            showMoreBtn.textContent = `더 보기 (${remaining.toLocaleString()}건 남음)`;
+        }
     }
 }
 
@@ -783,10 +856,15 @@ const debounce = (func, delay) => {
         debounceTimeout = setTimeout(() => func.apply(this, args), delay);
     };
 };
-const debounceSearchArticles = debounce(renderCurrentView, 300);
-const debounceSearchPublications = debounce(renderCurrentView, 300);
+const debounceSearchArticles = debounce(resetAndRender, 300);
+const debounceSearchPublications = debounce(resetAndRender, 300);
 
 document.addEventListener('DOMContentLoaded', () => {
+    document.getElementById('loadAllDataBtn').addEventListener('click', () => loadAllDataAndRender('전체 기간 데이터를 불러오는 중입니다...'));
+    document.getElementById('showMoreBtn').addEventListener('click', () => {
+        renderLimit += PAGE_SIZE;
+        renderCurrentView();
+    });
     document.querySelectorAll('.tab-button').forEach(button => {
         button.addEventListener('click', (e) => {
             e.preventDefault();
@@ -831,6 +909,12 @@ document.getElementById('autoSelectFavoritesBtn').addEventListener('click', asyn
 // -----------------------------------------------------
 document.getElementById('uploadFavoritesBtn').addEventListener('click', async function () {
     if (!(await verifyPassword())) return; // 권한 확인 추가
+
+    // 최근 30일만 불러온 상태라도 즐겨찾기 전체가 빠짐없이 올라가도록 전체 데이터를 먼저 불러옴
+    if (dataScope === 'recent') {
+        updateStatus("즐겨찾기 확인을 위해 전체 데이터를 불러오는 중...");
+        await loadAllData();
+    }
 
     const files = [
         {
