@@ -63,6 +63,7 @@
 - `ADMIN_PASSWORD`: 대시보드 관리자 기능 접근을 위한 비밀번호
 - `EMAIL_USER`: 메일 발송용 계정 (Gmail 등)
 - `EMAIL_PASS`: 메일 발송용 앱 비밀번호
+- `SUBSCRIBER_ENCRYPTION_KEY`: 구독자 목록(`codes/receiver_email.json`) 암호화 키. 32자 이상의 임의 문자열을 **Vercel 환경변수와 GitHub Secrets에 같은 값으로** 등록합니다. (저장소가 공개되어 있으므로 목록은 암호화해서 보관합니다)
 
 ### 설치 및 실행
 1. 저장소를 클론합니다.

@@ -19,9 +19,12 @@ jobs:
 
       - name: Install dependencies
         run: |
-          pip install requests python-dotenv
+          pip install requests python-dotenv cryptography
 
+      # 구독자 목록 정리 + (키가 있으면) 암호화 형식으로 변환
       - name: Cleanup expired emails
+        env:
+          SUBSCRIBER_ENCRYPTION_KEY: ${{ secrets.SUBSCRIBER_ENCRYPTION_KEY }}
         run: python codes/pycode/cleanup_expired_emails.py
 
       - name: Run KakaoTalk or Gamil Script
@@ -30,6 +33,7 @@ jobs:
           KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
           KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
           GMAIL_APP_PASSWORD : ${{ secrets.GMAIL_APP_PASSWORD }}
+          SUBSCRIBER_ENCRYPTION_KEY: ${{ secrets.SUBSCRIBER_ENCRYPTION_KEY }}
 
         run : python codes/pycode/gmail_send_visualizer.py
         # run : python codes/pycode/gmail_send.py
@@ -41,4 +45,5 @@ jobs:
           git config user.email "github-actions[bot]@users.noreply.github.com"
           git add codes/receiver_email.json
           git diff --cached --quiet || git commit -m "🧹 만료된 구독자 자동 정리"
+          git pull --rebase --autostash origin main
           git push

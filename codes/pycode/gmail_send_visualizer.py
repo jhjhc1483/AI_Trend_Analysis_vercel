@@ -1,12 +1,12 @@
 import smtplib
 import os
-import json
-import re
 from email.mime.text import MIMEText
 from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
+
+from subscribers import clean_subscribers, load_subscribers, mask_email, save_subscribers
 
 load_dotenv(override=True)
 
@@ -20,6 +20,7 @@ app_password = os.environ.get("GMAIL_APP_PASSWORD")
 # 파일 경로 설정
 file_path = "codes/data.txt"
 receiver_file_path = "codes/receiver_email.json"
+MAX_RECIPIENTS = 100  # api/subscribe.js 의 구독자 상한과 같게 유지
 # =============================================
 
 def send_email():
@@ -28,75 +29,23 @@ def send_email():
         print("오류: 환경 변수 'GMAIL_APP_PASSWORD'를 찾을 수 없습니다.")
         return
 
-    # 수신자 목록 가져오기
+    # 수신자 목록 가져오기 (암호화/평문 모두 subscribers.py에서 처리)
     receivers = [default_receiver]
-    if os.path.exists(receiver_file_path):
-        try:
-            with open(receiver_file_path, "r", encoding="utf-8") as f:
-                data = json.load(f)
-                
-                # ✅ 새 구조(객체)와 구 구조(리스트) 모두 대응
-                email_list = data if isinstance(data, list) else data.get("emails", [])
-                
-                # ✅ 개별 만료 체크 (365일)
-                today = datetime.now()
-                valid_receivers_all = [] # 저장을 위한 전체 유효 목록
-                email_regex = re.compile(r"^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$")
-                
-                was_modified = False
-                for item in email_list:
-                    email_addr = ""
-                    reg_date_str = ""
-                    
-                    if isinstance(item, dict):
-                        email_addr = item.get("email", "")
-                        reg_date_str = item.get("date", "")
-                    elif isinstance(item, str):
-                        email_addr = item
-                        was_modified = True # 문자열은 나중에 객체로 변환되어 저장됨
-                    
-                    if not email_addr: 
-                        was_modified = True
-                        continue
-                    
-                    # 제어 문자 제거 및 공백 제거
-                    clean_email = "".join(c for c in email_addr if ord(c) >= 32).strip()
-                    
-                    if email_regex.match(clean_email):
-                        # 날짜 체크 (있을 경우에만)
-                        if reg_date_str:
-                            try:
-                                reg_date = datetime.strptime(reg_date_str, "%Y-%m-%d")
-                                if (today - reg_date).days >= 365:
-                                    was_modified = True # 만료된 항목 발견
-                                    continue # 만료됨
-                            except:
-                                pass # 날짜 형식이 잘못된 경우 일단 포함
-                        
-                        # 유효한 항목 추가 (객체 형태 유지)
-                        valid_receivers_all.append({"email": clean_email, "date": reg_date_str or today.strftime("%Y-%m-%d")})
-                    else:
-                        was_modified = True # 유효하지 않은 메일 제거됨
+    try:
+        raw, _ = load_subscribers(receiver_file_path)
+        valid, removed = clean_subscribers(raw)
+        if removed:
+            save_subscribers(valid, receiver_file_path)
+            print(f"수신자 목록 정리 완료: {removed}건 삭제, {len(valid)}명 유지")
 
-                # 6. 변경사항이 있으면 파일에 다시 저장 (영구 삭제)
-                if was_modified:
-                    try:
-                        with open(receiver_file_path, "w", encoding="utf-8") as f:
-                            json.dump({"emails": valid_receivers_all}, f, ensure_ascii=False, indent=2)
-                        print(f"수신자 목록 정리 완료: {len(valid_receivers_all)}명 유지")
-                    except Exception as e:
-                        print(f"수신자 목록 파일 저장 중 오류: {e}")
-
-                # 7. 실제 발송을 위한 이메일 주소만 추출 (최대 100명)
-                receivers = [item["email"] for item in valid_receivers_all[:100]]
-                
-                if receivers:
-                    print(f"수신자 목록 검증 및 만료 체크 완료: {len(receivers)}명")
-                else:
-                    print("경고: 유효한 수신자가 없습니다. 기본 수신자를 사용합니다.")
-                    receivers = [default_receiver]
-        except Exception as e:
-            print(f"수신자 파일 읽기 오류: {e}. 기본 수신자를 사용합니다.")
+        # 실제 발송 대상 (최대 MAX_RECIPIENTS명)
+        if valid:
+            receivers = [item["email"] for item in valid[:MAX_RECIPIENTS]]
+            print(f"수신자 목록 검증 및 만료 체크 완료: {len(receivers)}명")
+        else:
+            print("경고: 유효한 수신자가 없습니다. 기본 수신자를 사용합니다.")
+    except Exception as e:
+        print(f"수신자 파일 읽기 오류: {e}. 기본 수신자를 사용합니다.")
 
     try:
         # 1. 정보 및 데이터 준비
@@ -159,7 +108,7 @@ def send_email():
             msg.attach(MIMEText(f"\n----------------\n[상세 내용]\n{report_text}", 'plain'))
 
             server.send_message(msg)                 # 개별 메일 전송
-            print(f" -> 발송 완료: {receiver}")
+            print(f" -> 발송 완료: {mask_email(receiver)}")  # 공개 로그에 주소를 남기지 않음
         
         print("모든 이메일 전송이 성공적으로 완료되었습니다!")
 

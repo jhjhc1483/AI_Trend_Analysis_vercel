@@ -208,98 +208,28 @@
     </div>
 
     <script>
-        const OWNER = "jhjhc1483";
-        const REPO = "AI_Trend_Analysis_vercel";
-        const BRANCH = "main";
-        const FILE_PATH = "codes/receiver_email.json";
-
-        async function callProxyAPI(endpoint, method = 'GET', body = null) {
-            const res = await fetch('/api/github', {
+        // 구독자 목록은 서버(/api/subscribe)에서만 읽고 씁니다. 브라우저는 이메일 한 건만 보냅니다.
+        async function requestSubscription(email, action) {
+            const res = await fetch('/api/subscribe', {
                 method: 'POST',
                 headers: { 'Content-Type': 'application/json' },
-                body: JSON.stringify({ endpoint, method, body })
+                body: JSON.stringify({ email, action })
             });
-            if (!res.ok && res.status !== 404) {
-                const errData = await res.json().catch(() => ({}));
-                throw new Error(errData.message || `HTTP Error ${res.status}`);
+            const data = await res.json().catch(() => ({}));
+            if (!data.status) {
+                throw new Error(data.message || `HTTP Error ${res.status}`);
             }
-            if (res.status === 204) return null;
-            if (res.status === 404) return null;
-            return await res.json();
+            return data; // { status, message }
         }
 
-        function base64ToUtf8(base64) {
-            const binary = atob(base64.replace(/\n/g, ""));
-            const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
-            return new TextDecoder("utf-8").decode(bytes);
-        }
-
-        function utf8ToBase64(str) {
-            return btoa(unescape(encodeURIComponent(str)));
-        }
-
-        async function getEmailList() {
-            const endpoint = `repos/${OWNER}/${REPO}/contents/${FILE_PATH}?ref=${BRANCH}`;
-            const data = await callProxyAPI(endpoint, 'GET');
-            const todayStr = getKSTDate();
-            
-            if (!data) return { emails: [], sha: null };
-            
-            const content = base64ToUtf8(data.content);
-            let parsed = JSON.parse(content);
-            let emailList = [];
-
-            // 구조 파싱 (기존 객체 구조/리스트 구조 모두 대응)
-            if (Array.isArray(parsed)) {
-                emailList = parsed;
-            } else if (parsed.emails) {
-                emailList = parsed.emails;
-            }
-
-            // 마이그레이션 및 1년 만료 체크
-            const today = new Date(todayStr);
-            const validEmails = emailList.map(item => {
-                // 문자열인 경우 객체로 변환 (마이그레이션)
-                if (typeof item === 'string') {
-                    return { email: item, date: todayStr };
-                }
-                return item;
-            }).filter(item => {
-                // 365일 경과 체크
-                const regDate = new Date(item.date);
-                const diffDays = (today - regDate) / (1000 * 60 * 60 * 24);
-                return diffDays < 365;
-            });
-
-            return {
-                emails: validEmails,
-                sha: data.sha
-            };
-        }
-
-        function getKSTDate() {
-            // 한국 시간(KST) 문자열 반환 (YYYY-MM-DD)
-            const now = new Date();
-            const utc = now.getTime() + (now.getTimezoneOffset() * 60000);
-            const kst = new Date(utc + (9 * 60 * 60000));
-            return kst.toISOString().split('T')[0];
-        }
-
-        async function updateEmailList(emails, sha, action) {
-            const endpoint = `repos/${OWNER}/${REPO}/contents/${FILE_PATH}`;
-            const dataToSave = {
-                emails: emails
-            };
-            const jsonString = JSON.stringify(dataToSave, null, 2);
-            const body = {
-                message: `${action} email: ${action === 'Add' ? emails[emails.length - 1].email : 'update'}`,
-                content: utf8ToBase64(jsonString),
-                branch: BRANCH
-            };
-            if (sha) body.sha = sha;
-
-            await callProxyAPI(endpoint, 'PUT', body);
-        }
+        // 응답 상태별 안내 문구 색상
+        const STATUS_COLORS = {
+            subscribed: "var(--success-color)",
+            already: "var(--secondary-color)",
+            full: "var(--danger-color)",
+            unsubscribed: "var(--text-color)",
+            not_found: "var(--danger-color)",
+        };
 
         const emailInput = document.getElementById('email');
         const statusMsg = document.getElementById('status-msg');
@@ -328,26 +258,10 @@
                 loader.style.display = 'inline-block';
                 setStatus(`${action === 'Subscribe' ? '구독' : '해지'} 처리 중...`, "var(--secondary-color)");
 
-                const { emails, sha } = await getEmailList();
-                
-                if (action === 'Subscribe') {
-                    if (emails.some(e => e.email === email)) {
-                        setStatus("이미 등록된 이메일입니다.", "var(--secondary-color)");
-                    } else {
-                        emails.push({ email: email, date: getKSTDate() });
-                        await updateEmailList(emails, sha, "Add");
-                        setStatus("성공적으로 구독되었습니다! 🎉", "var(--success-color)");
-                        emailInput.value = '';
-                    }
-                } else {
-                    if (!emails.some(e => e.email === email)) {
-                        setStatus("등록되지 않은 이메일입니다.", "var(--danger-color)");
-                    } else {
-                        const newList = emails.filter(e => e.email !== email);
-                        await updateEmailList(newList, sha, "Remove");
-                        setStatus("구독이 해지되었습니다. 😢", "var(--text-color)");
-                        emailInput.value = '';
-                    }
+                const result = await requestSubscription(email, action === 'Subscribe' ? 'subscribe' : 'unsubscribe');
+                setStatus(result.message, STATUS_COLORS[result.status] || "var(--text-color)");
+                if (result.status === 'subscribed' || result.status === 'unsubscribed') {
+                    emailInput.value = '';
                 }
             } catch (err) {
                 console.error(err);

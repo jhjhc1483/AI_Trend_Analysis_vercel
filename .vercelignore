@@ -1,0 +1,3 @@
+# Vercel 배포에서 제외할 파일 (GitHub 저장소에는 그대로 남습니다)
+# 구독자 목록: 사이트 주소로 직접 열람되지 않도록 제외 (서버 API는 GitHub API로 읽음)
+codes/receiver_email.json
