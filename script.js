@@ -915,8 +915,11 @@ document.getElementById('deleteCodesBtn').addEventListener('click', async functi
             throw new Error("파일 목록을 불러오지 못했습니다.");
         }
 
+        // 구독자 목록(receiver_email.json)은 데이터가 아니므로 삭제 대상에서 제외
         const targetFiles = files.filter(file =>
-            file.type === "file" && (file.name.endsWith(".json") || file.name.endsWith(".txt"))
+            file.type === "file" &&
+            file.name !== "receiver_email.json" &&
+            (file.name.endsWith(".json") || file.name.endsWith(".txt"))
         );
 
         if (targetFiles.length === 0) {
