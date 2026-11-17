@@ -22,6 +22,12 @@ FAV_ARTICLES_PATH = os.path.join(BASE_DIR, "favorites", "favorite_articles.json"
 FAV_PUBS_PATH = os.path.join(BASE_DIR, "favorites", "favorite_publications.json")
 FEWSHOT_EXAMPLES_PATH = os.path.join(BASE_DIR, "favorites", "fewshot_examples.json")
 EXCLUDED_ARTICLES_PATH = os.path.join(BASE_DIR, "favorites", "excluded_articles.json")
+DATA_HISTORY_PATH = os.path.join(BASE_DIR, "data.json")  # 날짜별 지난 일일 동향 (json_to_txt.py가 누적)
+
+# 프롬프트가 계속 길어지지 않도록 최근 것만 사용
+MAX_FEWSHOT_EXAMPLES = 80     # 분류 학습 예시 (대시보드 🧠 버튼으로 추가)
+MAX_EXCLUSION_RULES = 50      # 일일동향 제외 이유 (대시보드 제외 버튼으로 추가)
+RECENT_REPORT_DAYS = 3        # 같은 사건 반복 선정 방지용으로 보여줄 지난 브리핑 일수
 
 
 PUB_SITES = ['IITP', 'NIA', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA']
@@ -86,6 +92,25 @@ def load_json_files():
             
     return all_articles, all_pubs, excluded_data_full
 
+def load_recent_report_titles(days=RECENT_REPORT_DAYS):
+    """오늘 이전 최근 N일 일일 동향에 실린 기사 제목 [(날짜, 분류, 제목)] (간행물 제외)"""
+    try:
+        with open(DATA_HISTORY_PATH, 'r', encoding='utf-8') as f:
+            history = json.load(f)
+    except Exception as e:
+        print(f"지난 일일 동향(data.json)을 읽지 못했습니다: {e}")
+        return []
+    today_key = REPORT_DATE.strftime("%y.%m.%d")
+    past_keys = sorted(k for k in history if k < today_key)[-days:]
+    titles = []
+    for key in past_keys:
+        for category, items in (history[key].get("categorized") or {}).items():
+            if category == "간행물":
+                continue
+            titles.extend((key, category, item.get("title", "")) for item in items if item.get("title"))
+    return titles
+
+
 def select_and_classify(items, item_type='ARTICLE', excluded_reasons=None):
     if not items:
         return []
@@ -138,7 +163,7 @@ Format:
         try:
             if os.path.exists(FEWSHOT_EXAMPLES_PATH):
                 with open(FEWSHOT_EXAMPLES_PATH, 'r', encoding='utf-8') as f:
-                    examples = json.load(f)
+                    examples = json.load(f)[-MAX_FEWSHOT_EXAMPLES:]  # 최근에 추가한 것 우선
                 if examples:
                     fewshot_text = "\n\n[Classification Learning Examples (Few-Shot)]\nThe following are examples of articles and categories manually classified by the user. Prioritize learning these criteria and assign the same category when classifying articles with similar titles or sites:\n"
                     for ex in examples:
@@ -152,11 +177,24 @@ Format:
 
         # 제외 기사 이유 프롬프트 추가
         if excluded_reasons:
-            reasons_with_text = [ex for ex in excluded_reasons if ex.get('reason', '').strip()]
+            reasons_with_text = [ex for ex in excluded_reasons if ex.get('reason', '').strip()][-MAX_EXCLUSION_RULES:]
             if reasons_with_text:
                 system_instruction += "\n\n[Exclusion Rules (User-defined)]\nThe following articles have been permanently excluded from the daily briefing by the user. Learn the pattern of these titles and reasons, and NEVER select similar articles:\n"
                 for ex in reasons_with_text:
                     system_instruction += f"- [{ex.get('site', 'Unknown')}] {ex.get('title', '')} (Reason: {ex.get('reason', '')})\n"
+
+        # 지난 며칠 브리핑에 이미 실린 사건을 다시 고르지 않도록 (다른 언론사의 후속 보도 등)
+        recent_titles = load_recent_report_titles()
+        if recent_titles:
+            system_instruction += (
+                "\n\n[Recently Reported (previous days' briefings)]\n"
+                "The following articles were already included in the briefings of the previous days. "
+                "Do NOT select an article that covers the SAME event or announcement as any of these "
+                "(even from a different site), unless it reports a significant NEW development "
+                "(e.g., a decision made, a contract signed, results announced).\n"
+            )
+            for date_key, category, title in recent_titles:
+                system_instruction += f"- [{date_key}][{category}] {title}\n"
     else:
         # 간행물은 '간행물'로 통일
         system_instruction = """
