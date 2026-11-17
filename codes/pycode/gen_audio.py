@@ -1,11 +1,16 @@
 # gen_audio.py
 import os
+import json
 import asyncio
 from google import genai
 from google.genai import types
 import edge_tts # Edge-TTS 라이브러리
 
-from pipeline_state import file_sha256, is_auto_run, read_state, write_state
+from pipeline_state import file_sha256, is_auto_run, read_state, set_output, write_state
+
+AUDIO_FILE = "public/audio.mp3"
+AUDIO_INFO_FILE = "public/audio.json"      # 사이트가 읽는 오디오 주소 (public/audio-source.js)
+BLOB_PATHNAME = "audio/briefing.mp3"       # Vercel Blob 안의 고정 경로 (매일 덮어씀)
 
 # 1. 환경 변수 설정
 from dotenv import load_dotenv
@@ -31,7 +36,6 @@ async def main():
             return
 
         # 기준 날짜: REPORT_DATE(YYYY-MM-DD)가 있으면 그 날짜(과거 날짜는 브리핑 텍스트만 생성), 없으면 오늘
-        import json
         from datetime import datetime
         from zoneinfo import ZoneInfo
         now_kst = datetime.now(ZoneInfo("Asia/Seoul"))
@@ -59,6 +63,7 @@ async def main():
         max_retries = 5
         if is_today:
             await make_audio(text_without_urls, max_retries)
+            await publish_audio(now_kst.isoformat(timespec="seconds"))
         else:
             print(f">>> {today_key}는 지난 날짜라 오디오는 건너뛰고 브리핑 텍스트만 생성합니다.")
 
@@ -179,7 +184,7 @@ async def make_audio(text_without_urls, max_retries):
         print(">>> Edge-TTS(ko-KR-InJoonNeural)로 변환 시작...")
         
         voice = "ko-KR-InJoonNeural"
-        output_file = "public/audio.mp3"
+        output_file = AUDIO_FILE
         os.makedirs(os.path.dirname(output_file), exist_ok=True)
         
         # 임시 파일에 먼저 저장 → 변환 도중 실패해도 기존 audio.mp3가 0바이트로 망가지지 않음
@@ -193,6 +198,42 @@ async def make_audio(text_without_urls, max_retries):
                 os.remove(tmp_file)
 
         print(f">>> 오디오 파일 생성 완료! ({output_file})")
+
+
+
+async def publish_audio(updated_at):
+    """
+    mp3를 사이트에서 재생할 수 있게 공개합니다.
+    - BLOB_READ_WRITE_TOKEN 이 있으면 Vercel Blob(BLOB_PATHNAME)에 덮어써 올리고 주소를 public/audio.json 에 기록
+      → 매일 1MB mp3를 git에 커밋하지 않아 저장소 용량이 늘지 않음
+    - 토큰이 없거나 업로드에 실패하면 기존처럼 public/audio.mp3 를 git에 커밋 (워크플로우가 audio_storage 출력으로 판단)
+    """
+    info = {"updated_at": updated_at}
+    storage = "git"
+    if os.environ.get("BLOB_READ_WRITE_TOKEN"):
+        try:
+            from vercel import blob
+            with open(AUDIO_FILE, "rb") as f:
+                data = f.read()
+            uploaded = await blob.put_blob(
+                BLOB_PATHNAME, data,
+                access="public",
+                content_type="audio/mpeg",
+                allow_overwrite=True,
+                cache_control_max_age=300,  # 5분 (주소 뒤 ?v=갱신시각 으로도 새 파일을 받게 함)
+            )
+            info["url"] = uploaded.url
+            storage = "blob"
+            print(f">>> Vercel Blob에 오디오 업로드 완료: {uploaded.url}")
+        except Exception as e:
+            print(f">>> ⚠️ Vercel Blob 업로드 실패 ({e}) → 기존처럼 git에 저장합니다.")
+    else:
+        print(">>> BLOB_READ_WRITE_TOKEN이 없어 오디오를 git에 저장합니다.")
+
+    with open(AUDIO_INFO_FILE, "w", encoding="utf-8") as f:
+        json.dump(info, f, ensure_ascii=False, indent=2)
+    set_output("audio_storage", storage)
+    return storage
 
 
 if __name__ == "__main__":

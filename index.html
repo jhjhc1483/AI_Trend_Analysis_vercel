@@ -148,8 +148,8 @@
                         </div>
                         <div class="trend-section" style="margin-top: 20px;">
                             <h2>🎧 오늘의 AI 브리핑 듣기</h2>
+                            <!-- 오디오 주소는 public/audio-source.js 가 정함 -->
                             <audio id="audioPlayer" controls style="width: 100%;">
-                                <source src="public/audio.mp3" type="audio/mpeg">
                                 브라우저가 오디오 태그를 지원하지 않습니다.
                             </audio>
                             <p style="font-size: 0.8em; color: #666; margin-top: 5px;">* '브리핑 생성' 버튼을 누르고 약 1분 뒤 새로고침하면
@@ -250,6 +250,8 @@
     <button id="scrollTopBtn" title="맨 위로 이동">▲</button>
 
     <script src="script.js"></script>
+    <script src="public/audio-source.js"></script>
+    <script>loadBriefingAudio(document.getElementById('audioPlayer'), 'public/');</script>
 </body>
 
 </html>

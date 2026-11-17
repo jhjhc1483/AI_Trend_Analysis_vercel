@@ -230,8 +230,8 @@
         </div>
         
         <div id="audioContainer" class="audio-player-container">
+            <!-- 오디오 주소는 public/audio-source.js 가 정함 -->
             <audio id="audioPlayer" controls controlsList="nodownload">
-                <source src="public/audio.mp3" type="audio/mpeg">
                 브라우저가 오디오를 지원하지 않습니다.
             </audio>
         </div>
@@ -322,5 +322,7 @@
         // 페이지 로드 시 실행
         document.addEventListener('DOMContentLoaded', fetchBriefing);
     </script>
+    <script src="public/audio-source.js"></script>
+    <script>loadBriefingAudio(document.getElementById('audioPlayer'), 'public/');</script>
 </body>
 </html>

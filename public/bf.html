@@ -80,20 +80,15 @@
         <button onclick="location.reload()" class="reload-btn">🔄 새로고침</button>
     </div>
 
+    <script src="audio-source.js"></script>
     <script>
         // 1. 오늘 날짜 표시
         const now = new Date();
         const options = { year: 'numeric', month: 'long', day: 'numeric', weekday: 'long' };
         document.getElementById('todayDate').textContent = now.toLocaleDateString('ko-KR', options);
 
-        // 2. 오디오 캐시 방지 (핵심 기능)
-        // 브라우저는 같은 주소면 예전 파일을 들려주는 습성이 있습니다.
-        // 뒤에 ?t=시간을 붙여서 매번 새로운 파일인 것처럼 속여야 최신 뉴스가 나옵니다.
-        const audioPath = "audio.mp3"; 
-        const timestamp = new Date().getTime();
-        const player = document.getElementById('audioPlayer');
-        
-        player.src = `${audioPath}?t=${timestamp}`;
+        // 2. 오늘 브리핑 오디오 연결 (주소 결정과 캐시 방지는 audio-source.js)
+        loadBriefingAudio(document.getElementById('audioPlayer'), '');
         
         // 자동 재생 시도 (모바일 정책상 소리 끈 상태로 시작될 수 있음)
         // player.play().catch(e => console.log("자동 재생은 사용자 인터랙션 필요"));

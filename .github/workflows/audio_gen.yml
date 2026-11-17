@@ -31,13 +31,16 @@ jobs:
     - name: 필요 라이브러리 설치
       # edge-tts: Microsoft Edge 브라우저의 무료 Neural TTS
       run: |
-        pip install google-genai edge-tts python-dotenv
+        pip install google-genai edge-tts python-dotenv vercel
 
     # 자동 실행일 때는 같은 일일 동향으로 이미 만든 오디오가 있으면 건너뜀. 대시보드 수동 실행은 항상 실행.
+    # BLOB_READ_WRITE_TOKEN이 있으면 mp3를 Vercel Blob에 올림 (없으면 기존처럼 git에 커밋)
     - name: 오디오 생성 스크립트 실행
+      id: audio
       env:
         GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
         PIPELINE_AUTO: ${{ github.event_name == 'workflow_run' }}
+        BLOB_READ_WRITE_TOKEN: ${{ secrets.BLOB_READ_WRITE_TOKEN }}
       run: |
         python codes/pycode/gen_audio.py
 
@@ -45,7 +48,8 @@ jobs:
       run: |
         git config --global user.name "GitHub Action"
         git config --global user.email "action@github.com"
-        git add public/audio.mp3
+        if [ "${{ steps.audio.outputs.audio_storage }}" != "blob" ]; then git add public/audio.mp3; fi
+        if [ -f public/audio.json ]; then git add public/audio.json; fi
         git add codes/data.json
         if [ -f codes/state/audio.json ]; then git add codes/state/audio.json; fi
         git commit -m "Update audio and briefing (Edge-TTS)" || echo "No changes to commit"
