@@ -115,10 +115,11 @@ jobs:
           KEY_2: ${{ secrets.SCRAPER_API_KEY_2 }}
           KEY_3: ${{ secrets.SCRAPER_API_KEY_3 }}
         run: |
+          # --alert-only: 실패/의심 소스가 있을 때만 바로 알림 (평소 결과는 메일 발송 후 일일 요약에 포함)
           if [ "$CRAWL_ROUND" = "2" ]; then
-            python codes/pycode/run_crawlers.py --retry-failed
+            python codes/pycode/run_crawlers.py --retry-failed --alert-only
           else
-            python codes/pycode/run_crawlers.py
+            python codes/pycode/run_crawlers.py --alert-only
           fi
 
       # 현재 시간(KST)을 저장
@@ -143,4 +144,11 @@ jobs:
           file_pattern: 'codes/*.json codes/state/*.json public/update_time.json'
           commit_message: 'Automated data update: All sources [skip ci]'
           branch: main
+
+      # 실패하면 관리자에게 즉시 알림 (어느 단계에서 멈췄는지 상태 포함)
+      - name: 실패 알림
+        if: failure()
+        env:
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+        run: python codes/pycode/pipeline_report.py --failed "크롤링" --run-url "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
 

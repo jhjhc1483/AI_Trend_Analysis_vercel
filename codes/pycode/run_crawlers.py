@@ -4,14 +4,14 @@ import time
 import subprocess
 import re
 import argparse
-import smtplib
+from html import escape as html_escape  # generate_email_html 안의 html 변수와 겹치지 않도록
 import requests
-from email.mime.text import MIMEText
-from email.mime.multipart import MIMEMultipart
 from datetime import datetime
 from zoneinfo import ZoneInfo
 from dotenv import load_dotenv
 
+from notify import ADMIN_EMAIL, SENDER_EMAIL, send_admin_mail
+from pipeline_report import detect_suspicious
 from pipeline_state import read_state, set_output, today_key, write_state
 
 # Windows 터미널(cp949) 이모지 출력 인코딩 방어
@@ -26,8 +26,8 @@ load_dotenv(override=False)
 ORIGINAL_SCRAPER_API_KEY = os.environ.get("SCRAPER_API_KEY", "")
 
 # ================= 설정 부분 =================
-SENDER_EMAIL = "aiforarmy@gmail.com"
-ADMIN_RECEIVER = "jfchae1483@gmail.com"
+ADMIN_RECEIVER = ADMIN_EMAIL
+HISTORY_DAYS = 14  # 소스별 수집 이력 보관 일수 (사이트 구조 변경 감지용)
 
 # 크롤링 대상 스크립트 목록 (파일명, 소스 표시명)
 CRAWLER_SCRIPTS = [
@@ -319,8 +319,12 @@ def select_targets(retry_failed):
 
 
 def save_crawl_status(results):
-    """오늘 소스별 수집 결과를 기록합니다. (2회차는 재시도한 소스만 덮어씀)"""
+    """
+    오늘 소스별 수집 결과를 기록합니다. (2회차는 재시도한 소스만 덮어씀)
+    소스별 최근 HISTORY_DAYS일 이력도 남겨, 며칠째 0건인 소스를 찾는 데 씁니다. (pipeline_report.detect_suspicious)
+    """
     status = read_state("crawl_status")
+    history = status.get("history", {})
     if status.get("date") != today_key():
         status = {"date": today_key(), "results": {}}
     for r in results:
@@ -331,11 +335,17 @@ def save_crawl_status(results):
             "fetched_count": r.get("fetched_count", 0),
             "elapsed": r["elapsed"],
         }
+        entries = [h for h in history.get(r["script"], []) if h.get("date") != today_key()]
+        entries.append({"date": today_key(), "name": r["name"], "status": r["status"],
+                        "fetched": r.get("fetched_count", 0), "new": r["new_count"]})
+        history[r["script"]] = entries[-HISTORY_DAYS:]
+    status["history"] = history
     status["updated_at"] = get_current_kst().isoformat(timespec="seconds")
     write_state("crawl_status", status)
+    return status
 
 
-def generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str):
+def generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str, warnings=None):
     """크롤링 결과 리포트용 프리미엄 HTML 이메일 본문 생성 (성공/오류 맞춤형 디자인)"""
     failed_items = [r for r in results if r["status"] == "FAILED"]
     success_items = [r for r in results if r["status"] == "SUCCESS"]
@@ -358,6 +368,17 @@ def generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str):
         header_subtitle = "일부 사이트 수집 중 오류가 발생했습니다. (정상 수집된 데이터는 안전하게 보존 및 반영되었습니다)"
         status_summary_html = f'<strong style="font-size: 14px; color: #262626;">성공 {success_count} / <span style="color: #cf1322;">실패 {failed_count}</span> (총 {total_count}개)</strong>'
         footer_note = "본 메일은 GitHub Actions <code>Run Python Scripts Daily</code> 워크플로우에서 크롤링 오류 감지 시 자동으로 발송되는 관리자 전용 알림입니다."
+
+    # 며칠째 0건인 소스 (사이트 구조 변경 의심)
+    warnings_html = ""
+    if warnings:
+        items = "".join(f"<li style='margin-bottom:6px;'><b>{html_escape(w['name'])}</b>: {html_escape(w['reason'])}</li>" for w in warnings)
+        warnings_html = f"""
+        <div style="margin-top: 24px; background-color: #fff7e6; border-left: 4px solid #fa8c16; border-radius: 6px; padding: 14px 18px;">
+            <strong style="color: #d46b08; font-size: 15px;">⚠️ 확인이 필요한 소스 ({len(warnings)}개)</strong>
+            <ul style="margin: 10px 0 0 18px; padding: 0; font-size: 13px; color: #595959;">{items}</ul>
+        </div>
+        """
 
     # 실패한 항목 상세 블록
     failed_details_html = ""
@@ -448,6 +469,9 @@ def generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str):
                 <!-- 실패 상세 내역 -->
                 {failed_details_html}
 
+                <!-- 사이트 구조 변경 의심 -->
+                {warnings_html}
+
                 <!-- 전체 소스 실행 현황 테이블 -->
                 <div style="margin-top: 24px;">
                     <h3 style="color: #262626; font-size: 15px; margin-bottom: 12px;">
@@ -482,44 +506,9 @@ def generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str):
 
 
 def send_alert_email(subject, html_body):
-    """Gmail SMTP를 통해 크롤링 리포트/경고 메일 발송"""
-    app_password = os.environ.get("GMAIL_APP_PASSWORD")
-    if not app_password:
-        print("\n⚠️ 경고: 'GMAIL_APP_PASSWORD' 환경변수가 설정되지 않아 이메일을 발송할 수 없습니다.")
-        return False
-
-    print(f"\n📧 관리자({ADMIN_RECEIVER})에게 리포트 이메일 발송 중...")
-
-    msg = MIMEMultipart("alternative")
-    msg["From"] = SENDER_EMAIL
-    msg["To"] = ADMIN_RECEIVER
-    msg["Subject"] = subject
-
-    # 평문 대체 텍스트
-    plain_text = "AI 트렌드 크롤링 결과 리포트입니다. HTML 지원 메일 클라이언트에서 상세 내용을 확인해 주세요."
-    msg.attach(MIMEText(plain_text, "plain", "utf-8"))
-    msg.attach(MIMEText(html_body, "html", "utf-8"))
-
-    server = None
-    try:
-        server = smtplib.SMTP("smtp.gmail.com", 587)
-        server.starttls()
-        server.login(SENDER_EMAIL, app_password)
-        server.send_message(msg)
-        print("✅ 리포트 이메일이 성공적으로 발송되었습니다!")
-        return True
-    except smtplib.SMTPAuthenticationError:
-        print("❌ 이메일 발송 실패: SMTP 인증 오류 (Gmail 앱 비밀번호를 확인하세요)")
-        return False
-    except Exception as e:
-        print(f"❌ 이메일 발송 중 오류 발생: {e}")
-        return False
-    finally:
-        if server:
-            try:
-                server.quit()
-            except Exception:
-                pass
+    """크롤링 리포트/경고 메일을 관리자에게 발송 (notify.py)"""
+    return send_admin_mail(subject, html_body,
+                           "AI 트렌드 크롤링 결과 리포트입니다. HTML 지원 메일 클라이언트에서 상세 내용을 확인해 주세요.")
 
 
 def main():
@@ -595,7 +584,8 @@ def main():
         res = run_single_crawler(script_name, display_name)
         results.append(res)
 
-    save_crawl_status(results)
+    crawl_status = save_crawl_status(results)
+    warnings = detect_suspicious(crawl_status)
     set_output("ran", "true")
 
     total_elapsed = round(time.time() - total_start, 2)
@@ -612,6 +602,8 @@ def main():
         print(f" - ❌ 실패 목록: {', '.join(f['name'] for f in failed_items)}")
     else:
         print(f" - ✅ {len(results)}개 소스 모두 정상 수집 완료!")
+    for w in warnings:
+        print(f" - ⚠️ {w['name']}: {w['reason']}")
     print("=" * 60)
 
     # [핵심] 이메일 발송 여부 결정
@@ -620,9 +612,10 @@ def main():
         should_send_mail = False
         print("\nℹ️ [--no-mail] 옵션으로 인해 이메일을 발송하지 않습니다.")
     elif args.alert_only:
-        should_send_mail = (len(failed_items) > 0)
+        # 평소 결과는 메일 발송 후 일일 요약(pipeline_report.py)에 함께 담기므로, 문제가 있을 때만 바로 알림
+        should_send_mail = bool(failed_items or warnings)
         if not should_send_mail:
-            print("\n✨ [--alert-only] 모든 크롤러가 정상 완료되어 메일을 발송하지 않습니다.")
+            print("\n✨ [--alert-only] 실패/의심 소스가 없어 메일을 발송하지 않습니다. (일일 요약 메일에 포함)")
     else:
         # 정상 성공 시 및 오류 시 항상 메일 발송
         should_send_mail = True
@@ -633,10 +626,12 @@ def main():
             if len(failed_items) > 3:
                 failed_names_str += f" 외 {len(failed_items)-3}곳"
             subject = f"[AI 트렌드 크롤링 경고{round_label}] ⚠️ {len(failed_items)}개 소스 수집 실패 ({failed_names_str})"
+        elif warnings:
+            subject = f"[AI 트렌드 크롤링 경고{round_label}] ⚠️ 확인이 필요한 소스 {len(warnings)}개 ({', '.join(w['name'] for w in warnings[:3])})"
         else:
             subject = f"[AI 트렌드 크롤링 보고{round_label}] ✅ {len(results)}개 소스 전체 정상 수집 완료 (+{total_new}건)"
 
-        html_body = generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str)
+        html_body = generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str, warnings)
         send_alert_email(subject, html_body)
 
 

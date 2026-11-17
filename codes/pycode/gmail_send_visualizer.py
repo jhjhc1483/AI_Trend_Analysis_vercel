@@ -22,7 +22,9 @@ from email.mime.text import MIMEText
 
 from dotenv import load_dotenv
 
-from pipeline_state import REPORT_HEADER_REGEX, now_kst, read_state, write_state
+from notify import ADMIN_EMAIL, SENDER_EMAIL
+from pipeline_report import collect_status, render_text
+from pipeline_state import REPORT_HEADER_REGEX, now_kst, read_state, set_output, write_state
 from subscribers import (
     clean_subscribers,
     days_until_expiry,
@@ -35,8 +37,8 @@ from subscribers import (
 load_dotenv(override=True)
 
 # ================= 설정 부분 =================
-sender_email = "aiforarmy@gmail.com"      # 보내는 사람
-default_receiver = "jfchae1483@gmail.com"  # 관리자: 구독자가 없을 때 기본 수신자 + 경고 메일 수신자
+sender_email = SENDER_EMAIL        # 보내는 사람 (notify.py)
+default_receiver = ADMIN_EMAIL     # 관리자: 구독자가 없을 때 기본 수신자 + 경고 메일 수신자
 
 # GitHub Secrets에서 환경 변수로 전달된 값을 읽어옵니다.
 app_password = os.environ.get("GMAIL_APP_PASSWORD")
@@ -169,7 +171,9 @@ def build_alert_message(reason, today_key):
         "성공했는지 GitHub Actions에서 확인하세요.\n\n"
         "■ 다시 보내는 방법\n"
         "데이터가 준비되면 아래 페이지에서 'Run workflow'를 눌러 mode를 send로 실행하세요.\n"
-        f"{WORKFLOW_URL}\n"
+        f"{WORKFLOW_URL}\n\n"
+        "■ 오늘 단계별 상태\n"
+        f"{render_text(collect_status())}\n"
     )
     msg = MIMEText(body, 'plain', 'utf-8')
     msg['From'] = sender_email
@@ -242,6 +246,7 @@ def main():
                 "sent": len(receivers) - failed,
                 "failed": failed,
             })
+            set_output("sent", "true")  # 워크플로우가 이어서 관리자 일일 요약을 보냄
         if failed:
             print(f"❌ {len(receivers)}명 중 {failed}명에게 발송하지 못했습니다.")
             return 1

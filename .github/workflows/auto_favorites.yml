@@ -57,3 +57,10 @@ jobs:
         git commit -m "Update favorites & data.txt/json (Auto-generated)" || echo "No changes to commit"
         git pull --rebase --autostash origin main
         git push
+
+    # 실패하면 관리자에게 즉시 알림 (어느 단계에서 멈췄는지 상태 포함)
+    - name: 실패 알림
+      if: failure()
+      env:
+        GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
+      run: python codes/pycode/pipeline_report.py --failed "AI 자동 선정" --run-url "${{ github.server_url }}/${{ github.repository }}/actions/runs/${{ github.run_id }}"
