@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import hashlib
 import re
 import time
 from datetime import datetime, timedelta, timezone
@@ -24,6 +25,8 @@ FAV_PUBS_PATH = os.path.join(BASE_DIR, "favorites", "favorite_publications.json"
 FEWSHOT_EXAMPLES_PATH = os.path.join(BASE_DIR, "favorites", "fewshot_examples.json")
 EXCLUDED_ARTICLES_PATH = os.path.join(BASE_DIR, "favorites", "excluded_articles.json")
 DATA_HISTORY_PATH = os.path.join(BASE_DIR, "data.json")  # 날짜별 지난 일일 동향 (json_to_txt.py가 누적)
+
+MODEL = 'gemini-3.1-flash-lite'
 
 # 프롬프트가 계속 길어지지 않도록 최근 것만 사용
 MAX_FEWSHOT_EXAMPLES = 80     # 분류 학습 예시 (대시보드 🧠 버튼으로 추가)
@@ -59,6 +62,7 @@ def load_json_files():
             print(f"Error loading excluded_articles.json: {e}")
 
     seen_titles = set()  # 같은 제목 기사는 하나만 (국방부·국방일보 중복 게시 등)
+    skipped = {"excluded": 0, "duplicate": 0}  # 후보에서 뺀 건수 (data.json ai_meta에 기록)
     filepaths = sorted(glob.glob(FILES_PATTERN),
                        key=lambda path: (os.path.basename(path) not in PREFERRED_FILES, os.path.basename(path)))
     for filepath in filepaths:
@@ -87,6 +91,7 @@ def load_json_files():
                     # 제외 블랙리스트 필터링
                     if link in excluded_links:
                         print(f"[EXCLUDED] {item.get('기사명') or item.get('제목', '')[:40]}")
+                        skipped["excluded"] += 1
                         continue
 
                     item_data = {
@@ -99,6 +104,7 @@ def load_json_files():
                     key = title_key(item_data['title'])
                     if key in seen_titles:
                         print(f"[DUPLICATE] {item_data['title'][:40]} ({site_name}) - 같은 제목 기사가 이미 있어 제외")
+                        skipped["duplicate"] += 1
                         continue
                     if key:
                         seen_titles.add(key)
@@ -111,7 +117,7 @@ def load_json_files():
         except Exception as e:
             print(f"Error loading {filepath}: {e}")
             
-    return all_articles, all_pubs, excluded_data_full
+    return all_articles, all_pubs, excluded_data_full, skipped
 
 def load_recent_report_titles(days=RECENT_REPORT_DAYS):
     """오늘 이전 최근 N일 일일 동향에 실린 기사 제목 [(날짜, 분류, 제목)] (간행물 제외)"""
@@ -132,9 +138,29 @@ def load_recent_report_titles(days=RECENT_REPORT_DAYS):
     return titles
 
 
-def select_and_classify(items, item_type='ARTICLE', excluded_reasons=None):
-    if not items:
+def short_hash(text):
+    """프롬프트 버전 표시용 짧은 해시 (문구가 바뀌면 값이 바뀜)"""
+    return hashlib.sha256(text.encode("utf-8")).hexdigest()[:10]
+
+
+def clean_reason(value):
+    return value.strip()[:200] if isinstance(value, str) else ""
+
+
+def clean_keywords(value):
+    if not isinstance(value, list):
         return []
+    return [k.strip()[:40] for k in value if isinstance(k, str) and k.strip()][:5]
+
+
+def select_and_classify(items, item_type='ARTICLE', excluded_reasons=None):
+    """
+    반환: (선정 결과 리스트, 프롬프트 정보 dict)
+    프롬프트 정보는 그날 어떤 기준으로 골랐는지 data.json(ai_meta)에 남기는 데 씁니다.
+    """
+    info = {}
+    if not items:
+        return [], info
 
     from dotenv import load_dotenv
     load_dotenv(os.path.join(PROJECT_ROOT, "../../.env"))
@@ -172,19 +198,26 @@ Additionally, for each selected article, assign an importance score from 1 to 5:
 - 4 (Notable): Important industry developments or significant government announcements
 - 3 (Interesting): Relevant updates worthy of attention
 
+Also, for each selected article, write:
+- "reason": ONE short sentence in Korean (about 50 characters or less) explaining why this article matters.
+- "keywords": 2-3 core keywords in Korean (company, product, or technology names may keep their original spelling).
+
 The response format must be a valid JSON array. Return only pure JSON without markdown or code blocks.
 Format:
 [
-  { "index": 0, "category": "국방", "score": 5 },
+  { "index": 0, "category": "국방", "score": 5, "reason": "국방부가 AI 기반 지휘통제체계 도입 계획을 공식 발표", "keywords": ["국방부", "AI 지휘통제"] },
   ...
 ]
 """
+        info["prompt_version"] = short_hash(system_instruction)
         # Few-shot 예제 동적 로드
         fewshot_text = ""
         try:
             if os.path.exists(FEWSHOT_EXAMPLES_PATH):
                 with open(FEWSHOT_EXAMPLES_PATH, 'r', encoding='utf-8') as f:
                     examples = json.load(f)[-MAX_FEWSHOT_EXAMPLES:]  # 최근에 추가한 것 우선
+                info["fewshot_count"] = len(examples)
+                info["fewshot_version"] = short_hash(json.dumps(examples, ensure_ascii=False, sort_keys=True))
                 if examples:
                     fewshot_text = "\n\n[Classification Learning Examples (Few-Shot)]\nThe following are examples of articles and categories manually classified by the user. Prioritize learning these criteria and assign the same category when classifying articles with similar titles or sites:\n"
                     for ex in examples:
@@ -199,6 +232,7 @@ Format:
         # 제외 기사 이유 프롬프트 추가
         if excluded_reasons:
             reasons_with_text = [ex for ex in excluded_reasons if ex.get('reason', '').strip()][-MAX_EXCLUSION_RULES:]
+            info["exclusion_rule_count"] = len(reasons_with_text)
             if reasons_with_text:
                 system_instruction += "\n\n[Exclusion Rules (User-defined)]\nThe following articles have been permanently excluded from the daily briefing by the user. Learn the pattern of these titles and reasons, and NEVER select similar articles:\n"
                 for ex in reasons_with_text:
@@ -206,6 +240,7 @@ Format:
 
         # 지난 며칠 브리핑에 이미 실린 사건을 다시 고르지 않도록 (다른 언론사의 후속 보도 등)
         recent_titles = load_recent_report_titles()
+        info["recent_titles_count"] = len(recent_titles)
         if recent_titles:
             system_instruction += (
                 "\n\n[Recently Reported (previous days' briefings)]\n"
@@ -233,13 +268,18 @@ Additionally, for each selected publication, assign an importance score from 1 t
 - 4: Important policy or technology trend report
 - 3: General interest report
 
+Also, for each selected publication, write:
+- "reason": ONE short sentence in Korean (about 50 characters or less) explaining why this publication matters.
+- "keywords": 2-3 core keywords in Korean (technology or organization names may keep their original spelling).
+
 The response format must be a valid JSON array. Return only pure JSON without markdown or code blocks.
 Format:
 [
-  { "index": 0, "category": "간행물", "score": 4 },
+  { "index": 0, "category": "간행물", "score": 4, "reason": "생성형 AI의 국방 적용 사례와 과제를 정리한 보고서", "keywords": ["생성형 AI", "국방 적용"] },
   ...
 ]
 """
+        info["prompt_version"] = short_hash(system_instruction)
 
     batch_size = 100
     all_results = []
@@ -257,7 +297,7 @@ Format:
         for attempt in range(max_retries):
             try:
                 response = client.models.generate_content(
-                    model='gemini-3.1-flash-lite',
+                    model=MODEL,
                     contents=system_instruction + "\n\n" + user_prompt,
                     config=types.GenerateContentConfig(response_mime_type="application/json")
                 )
@@ -283,8 +323,11 @@ Format:
                         all_results.append({
                             'title': original['title'],
                             'link': original['link'],
+                            'site': original['site'],
                             'category': cat,
-                            'score': score
+                            'score': score,
+                            'reason': clean_reason(selection.get('reason')),
+                            'keywords': clean_keywords(selection.get('keywords')),
                         })
                 break  # 성공 시 재시도 루프 탈출
             except Exception as e:
@@ -304,7 +347,32 @@ Format:
             print(f"Waiting 30 seconds for API rate limit before next batch...")
             time.sleep(30)
 
-    return all_results
+    return all_results, info
+
+
+def record_ai_pick(report_key, fav_articles, fav_pubs, meta):
+    """
+    AI가 처음 고른 목록(원안)과 선정 조건을 data.json의 그날 기록에 따로 남깁니다.
+    - ai_pick: AI 원안. 대시보드에서 즐겨찾기를 고쳐도 바뀌지 않습니다. (최종본은 categorized)
+    - ai_meta: 모델, 프롬프트 버전, few-shot·제외 규칙 수, 후보·선정 건수
+    나중에 원안과 최종본을 비교하면 'AI가 틀려서 사람이 고친 기록'을 얻을 수 있습니다.
+    """
+    history = {}
+    if os.path.exists(DATA_HISTORY_PATH):
+        try:
+            with open(DATA_HISTORY_PATH, 'r', encoding='utf-8') as f:
+                history = json.load(f)
+        except Exception as e:
+            # 깨진 파일을 덮어써서 지난 기록을 잃지 않도록 기록만 건너뜀 (일일 동향 생성은 계속)
+            print(f"⚠️ data.json을 읽지 못해 AI 원안 기록을 건너뜁니다: {e}")
+            return
+    entry = history.get(report_key) or {}
+    entry["ai_pick"] = fav_articles + fav_pubs
+    entry["ai_meta"] = meta
+    history[report_key] = entry
+    with open(DATA_HISTORY_PATH, 'w', encoding='utf-8') as f:
+        json.dump(history, f, ensure_ascii=False, indent=2)
+    print(f"AI 원안 {len(entry['ai_pick'])}건과 선정 조건을 data.json[{report_key}]에 기록했습니다.")
 
 def main():
     # 크롤링이 하루에 여러 번 끝나도 자동 선정은 한 번만 (사용자가 대시보드에서 손본 즐겨찾기를 덮어쓰지 않도록)
@@ -317,17 +385,17 @@ def main():
 
     print(f"Start Job. Target Date (Yesterday): {YESTERDAY}")
 
-    articles, pubs, excluded_data = load_json_files()
+    articles, pubs, excluded_data, skipped = load_json_files()
     print(f"Found {len(articles)} articles and {len(pubs)} publications for {YESTERDAY}")
     if not articles and not pubs:
         raise RuntimeError(f"{YESTERDAY} 날짜의 수집 기사가 없습니다. 크롤링 데이터를 확인하세요. (기존 즐겨찾기는 유지)")
 
     # 1. 기사 처리
-    fav_articles = select_and_classify(articles, 'ARTICLE', excluded_reasons=excluded_data)
+    fav_articles, article_info = select_and_classify(articles, 'ARTICLE', excluded_reasons=excluded_data)
     print(f"Selected {len(fav_articles)} articles")
     
     # 2. 간행물 처리
-    fav_pubs = select_and_classify(pubs, 'PUBLICATION')
+    fav_pubs, pub_info = select_and_classify(pubs, 'PUBLICATION')
     print(f"Selected {len(fav_pubs)} publications")
     
     # 3. 저장 (덮어쓰기 - 매일 새로운 리스트 생성)
@@ -340,6 +408,19 @@ def main():
         json.dump(fav_pubs, f, ensure_ascii=False, indent=2)
 
     print("Done. Files overwritten.")
+
+    # 4. AI 원안과 선정 조건 기록 (data.json)
+    record_ai_pick(report_key, fav_articles, fav_pubs, {
+        "generated_at": datetime.now(KST).isoformat(timespec="seconds"),
+        "trigger": "auto" if is_auto_run() else "manual",  # manual = 대시보드 'AI 자동 선정' 버튼 등
+        "model": MODEL,
+        "target_date": f"{YESTERDAY[:4]}-{YESTERDAY[4:6]}-{YESTERDAY[6:]}",
+        "article_prompt": article_info,
+        "publication_prompt": pub_info,
+        "candidates": {"articles": len(articles), "publications": len(pubs)},
+        "skipped": skipped,
+        "selected": {"articles": len(fav_articles), "publications": len(fav_pubs)},
+    })
     set_output("generated", "true")
 
 if __name__ == "__main__":

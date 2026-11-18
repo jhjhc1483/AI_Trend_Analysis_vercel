@@ -28,6 +28,7 @@ ORIGINAL_SCRAPER_API_KEY = os.environ.get("SCRAPER_API_KEY", "")
 # ================= 설정 부분 =================
 ADMIN_RECEIVER = ADMIN_EMAIL
 HISTORY_DAYS = 14  # 소스별 수집 이력 보관 일수 (사이트 구조 변경 감지용)
+CRAWL_LOG_STATE = "crawl_log"  # codes/state/crawl_log.json: 날짜별·소스별 수집 결과 (지우지 않고 계속 누적)
 
 # 크롤링 대상 스크립트 목록 (파일명, 소스 표시명)
 CRAWLER_SCRIPTS = [
@@ -342,7 +343,40 @@ def save_crawl_status(results):
     status["history"] = history
     status["updated_at"] = get_current_kst().isoformat(timespec="seconds")
     write_state("crawl_status", status)
+    append_crawl_log(results, history)
     return status
+
+
+def append_crawl_log(results, history):
+    """
+    날짜별·소스별 수집 결과를 codes/state/crawl_log.json 에 계속 쌓습니다. (crawl_status 의 이력은 14일만 보관)
+    나중에 어떤 날 기사가 0건일 때 '기사가 없었던 날'인지 '수집에 실패한 날'인지 구분하는 근거가 됩니다.
+    날짜는 실행일(KST) 기준이며, 같은 날 여러 번 돌면 신규 건수는 더하고 한 번이라도 성공하면 SUCCESS로 남깁니다.
+    """
+    log = read_state(CRAWL_LOG_STATE)
+    day = log.setdefault(today_key(), {})
+    for r in results:
+        prev = day.get(r["script"], {})
+        entry = {
+            "name": r["name"],
+            "status": "SUCCESS" if r["status"] == "SUCCESS" or prev.get("status") == "SUCCESS" else r["status"],
+            "fetched": r.get("fetched_count", 0),
+            "new": prev.get("new", 0) + r["new_count"],
+            "total": r.get("total_count", 0),
+            "attempts": prev.get("attempts", 0) + 1,
+        }
+        if entry["status"] != "SUCCESS" and r.get("error_summary"):
+            entry["error"] = r["error_summary"][:200]
+        day[r["script"]] = entry
+    # 이 기록이 생기기 전 14일 이력도 옮겨 둠 (이미 있는 날짜·소스는 건드리지 않음)
+    for script, entries in history.items():
+        for h in entries:
+            if h.get("date"):
+                log.setdefault(h["date"], {}).setdefault(script, {
+                    "name": h.get("name", script), "status": h.get("status"),
+                    "fetched": h.get("fetched", 0), "new": h.get("new", 0),
+                })
+    write_state(CRAWL_LOG_STATE, {date: log[date] for date in sorted(log)})
 
 
 def generate_email_html(results, total_elapsed, scraper_key_name, kst_now_str, warnings=None):

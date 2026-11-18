@@ -19,6 +19,9 @@ JSON_OUTPUT_FILE = PROJECT_ROOT / "codes/data.json"
 FIXED_CATEGORIES = ["국방", "육군", "민간", "기관", "해외", "기타"]
 LAST_CATEGORY = "간행물"
 
+# 대시보드에서 즐겨찾기를 고쳐 올리면 이 값들이 빠지므로, 그날 AI 원안(ai_pick)에서 같은 링크의 값을 채움
+AI_FIELDS = ("site", "score", "reason", "keywords")
+
 
 def report_date():
     """REPORT_DATE(YYYY-MM-DD) 환경변수가 있으면 그 날짜, 없으면 오늘(KST)."""
@@ -117,13 +120,27 @@ def main():
                 old_date = history_data["date"]
                 old_cat = history_data["categorized"]
                 history_data = { old_date: { "categorized": old_cat } }
-        except json.JSONDecodeError:
-            print("기존 JSON 파일 파싱 실패. 새로 생성합니다.")
+        except json.JSONDecodeError as e:
+            # 새로 만들면 지난 일일 동향·AI 원안 기록이 모두 사라지므로 덮어쓰지 않고 멈춤
+            raise SystemExit(f"❌ data.json 파싱 실패 - 지난 기록을 지키기 위해 저장하지 않습니다: {e}")
 
     today_key = report_date().strftime("%y.%m.%d")
-    history_data[today_key] = {
-        "categorized": categorized
-    }
+    # 그날 기록의 다른 값(ai_pick, ai_meta, briefing)은 그대로 두고 최종본(categorized)만 바꿈
+    entry = history_data.get(today_key) or {}
+    ai_by_link = {item["link"]: item for item in entry.get("ai_pick", []) if item.get("link")}
+    for items in categorized.values():
+        for item in items:
+            ai_item = ai_by_link.get(item.get("link"))
+            if not ai_item:
+                continue
+            for field in AI_FIELDS:
+                if field not in item and field in ai_item:
+                    item[field] = ai_item[field]
+    entry["categorized"] = categorized
+    if os.environ.get('AUTO_MODE') != 'true':
+        # 대시보드에서 사람이 고쳐 저장한 시각 (없으면 AI 원안을 그대로 쓴 날)
+        entry["edited_at"] = datetime.now(ZoneInfo("Asia/Seoul")).isoformat(timespec="seconds")
+    history_data[today_key] = entry
 
     with open(JSON_OUTPUT_FILE, "w", encoding="utf-8") as f:
         json.dump(history_data, f, ensure_ascii=False, indent=2)
