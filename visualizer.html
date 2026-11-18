@@ -1559,7 +1559,7 @@
 
             // Audio
             const audioPlayer = document.getElementById('audioPlayer');
-            loadBriefingAudio(audioPlayer, 'public/');  // public/audio-source.js
+            if (audioPlayer) audioPlayer.src = `public/audio.mp3?t=${Date.now()}`;
 
             // Search
             initSearch();
@@ -1568,7 +1568,6 @@
             await loadInitialData();
         });
     </script>
-    <script src="public/audio-source.js"></script>
 </body>
 
 </html>

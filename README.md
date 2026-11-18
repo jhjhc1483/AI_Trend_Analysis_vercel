@@ -54,7 +54,7 @@
 │       ├── pipeline_state.py   #   파이프라인 상태 파일 읽기/쓰기
 │       ├── pipeline_report.py  #   단계별 상태 요약, 사이트 구조 변경 감지, 관리자 알림
 │       └── notify.py           #   관리자 알림 메일 발송
-├── public/                     # 오디오(audio.mp3 / audio.json), 오디오 재생 페이지(bf.html)
+├── public/                     # 오늘 브리핑 오디오(audio.mp3), 오디오 재생 페이지(bf.html)
 ├── .github/workflows/          # 자동화 워크플로우
 ├── index.html / script.js / style.css   # 메인 대시보드
 ├── subscribe.html              # 구독 신청/해지 (메일 속 해지·연장 링크도 처리)
@@ -109,7 +109,6 @@
 | `GEMINI_API_KEY` | | ✅ | AI 자동 선정·브리핑 |
 | `GMAIL_APP_PASSWORD` | | ✅ | 구독자 메일·관리자 알림 발송 (Gmail 앱 비밀번호) |
 | `SCRAPER_API_KEY`, `_2`, `_3` | | ✅ | 봇 차단 사이트(국방부·방사청·국방일보·KISTI) 우회 |
-| `BLOB_READ_WRITE_TOKEN` | | ✅ (선택) | 있으면 오디오를 Vercel Blob에 저장해 git 저장소 용량이 늘지 않음 (없으면 기존처럼 git에 커밋) |
 
 저장소가 공개되어 있으므로 구독자 목록(`codes/receiver_email.json`)은 암호화해서 보관합니다.
 
