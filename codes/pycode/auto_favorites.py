@@ -1,6 +1,7 @@
 import os
 import json
 import glob
+import re
 import time
 from datetime import datetime, timedelta, timezone
 from google import genai
@@ -31,6 +32,15 @@ RECENT_REPORT_DAYS = 3        # 같은 사건 반복 선정 방지용으로 보�
 
 
 PUB_SITES = ['IITP', 'NIA', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA']
+# 같은 제목 기사가 여러 출처에 있으면 이 순서로 앞선 출처의 것을 남김
+# (국방부 사이트는 국방일보 기사를 같은 제목으로 다시 게시함 → 공식 출처이자 링크가 깔끔한 국방부 우선)
+PREFERRED_FILES = ["mnd.json"]
+
+
+def title_key(title):
+    """제목 비교용 키: 따옴표·공백·문장부호 차이를 무시"""
+    return re.sub(r"[\W_]+", "", title or "").lower()
+
 
 def load_json_files():
     all_articles = []
@@ -48,7 +58,10 @@ def load_json_files():
         except Exception as e:
             print(f"Error loading excluded_articles.json: {e}")
 
-    for filepath in glob.glob(FILES_PATTERN):
+    seen_titles = set()  # 같은 제목 기사는 하나만 (국방부·국방일보 중복 게시 등)
+    filepaths = sorted(glob.glob(FILES_PATTERN),
+                       key=lambda path: (os.path.basename(path) not in PREFERRED_FILES, os.path.basename(path)))
+    for filepath in filepaths:
         filename = os.path.basename(filepath)
         if filename in ["update_time.json", "data.json", "receiver_email.json"]: continue
         
@@ -82,6 +95,14 @@ def load_json_files():
                         'date': date_str,
                         'site': site_name
                     }
+
+                    key = title_key(item_data['title'])
+                    if key in seen_titles:
+                        print(f"[DUPLICATE] {item_data['title'][:40]} ({site_name}) - 같은 제목 기사가 이미 있어 제외")
+                        continue
+                    if key:
+                        seen_titles.add(key)
+
                     if is_pub:
                         all_pubs.append(item_data)
                     else:
