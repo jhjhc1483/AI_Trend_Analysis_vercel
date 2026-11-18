@@ -1,8 +1,14 @@
 [
   {
-    "title": "NIA AI&DIgital Insight #5 – AI in Korean Government (Vol. 2)",
-    "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99984&bcIdx=30203&parentSeq=30203",
+    "title": "고체점결함 기반 양자센서 소재 기술 동향 [주간기술동향 2225호]",
+    "link": "https://www.iitp.kr/web/lay1/program/S1T62C66/itfind/view.do?seq=1410&cpage=1&rows=10&searchTarget=all",
+    "site": "IITP",
     "category": "간행물",
-    "score": 4
+    "score": 4,
+    "reason": "차세대 감시 정찰 및 정밀 타격의 핵심인 양자 센서 기술 동향을 분석함",
+    "keywords": [
+      "양자센서",
+      "국방기술"
+    ]
   }
 ]
