@@ -234,16 +234,16 @@
       "fetched": 0,
       "new": 0,
       "total": 2864,
-      "attempts": 1,
+      "attempts": 2,
       "error": "국방뉴스(공군) 크롤링 중 오류: 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=[3번 키]&url=https%3A%2F%2Fwww.mnd.go.kr%2Fmnd%2F162%2Fsubview.do&country_code=kr | 국"
     },
     "etnews.py": {
       "name": "전자신문",
       "status": "SUCCESS",
-      "fetched": 100,
+      "fetched": 0,
       "new": 100,
       "total": 16049,
-      "attempts": 1
+      "attempts": 2
     },
     "aitimes.py": {
       "name": "AI타임스",
@@ -251,7 +251,7 @@
       "fetched": 20,
       "new": 20,
       "total": 4598,
-      "attempts": 1
+      "attempts": 2
     },
     "NIA.py": {
       "name": "한국지능정보사회진흥원(NIA)",
@@ -259,7 +259,7 @@
       "fetched": 5,
       "new": 0,
       "total": 85,
-      "attempts": 1
+      "attempts": 2
     },
     "STEPI.py": {
       "name": "과학기술정책연구원(STEPI)",
@@ -267,7 +267,7 @@
       "fetched": 20,
       "new": 0,
       "total": 59,
-      "attempts": 1
+      "attempts": 2
     },
     "NIPA.py": {
       "name": "정보통신산업진흥원(NIPA)",
@@ -275,7 +275,7 @@
       "fetched": 20,
       "new": 0,
       "total": 21,
-      "attempts": 1
+      "attempts": 2
     },
     "KISDI.py": {
       "name": "정보통신정책연구원(KISDI)",
@@ -283,7 +283,7 @@
       "fetched": 80,
       "new": 0,
       "total": 175,
-      "attempts": 1
+      "attempts": 2
     },
     "dapa.py": {
       "name": "방위사업청",
@@ -291,7 +291,7 @@
       "fetched": 0,
       "new": 0,
       "total": 161,
-      "attempts": 1,
+      "attempts": 2,
       "error": "웹페이지 요청 중 오류 발생: 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=[3번 키]&url=https%3A%2F%2Fwww.dapa.go.kr%2Fdapa%2Fdoc%2FselectDocList.do%3FmenuSeq%3D3"
     },
     "KISTI.py": {
@@ -300,24 +300,24 @@
       "fetched": 0,
       "new": 0,
       "total": 128,
-      "attempts": 1,
+      "attempts": 2,
       "error": "URL 접속 중 오류 발생 (https://www.kisti.re.kr/post/asti-insight): 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=[3번 키]&url=https%3A%2F%2Fwww.kisti.re.kr%2"
     },
     "iitp.py": {
       "name": "정보통신기획평가원(IITP)",
       "status": "SUCCESS",
       "fetched": 61,
-      "new": 0,
-      "total": 238,
-      "attempts": 1
+      "new": 1,
+      "total": 239,
+      "attempts": 2
     },
     "AInews.py": {
       "name": "인공지능신문",
       "status": "SUCCESS",
       "fetched": 60,
-      "new": 18,
-      "total": 3237,
-      "attempts": 1
+      "new": 19,
+      "total": 3238,
+      "attempts": 2
     },
     "kookbang.py": {
       "name": "국방일보",
@@ -325,7 +325,7 @@
       "fetched": 0,
       "new": 0,
       "total": 8442,
-      "attempts": 1,
+      "attempts": 2,
       "error": "웹페이지 우회 요청 중 오류 발생: 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=[3번 키]&url=https%3A%2F%2Fkookbang.dema.mil.kr%2FnewsWeb%2FallToday.do&country_code"
     },
     "msit.py": {
@@ -334,7 +334,7 @@
       "fetched": 30,
       "new": 3,
       "total": 940,
-      "attempts": 1
+      "attempts": 2
     },
     "KISA.py": {
       "name": "한국인터넷진흥원(KISA)",
@@ -342,7 +342,7 @@
       "fetched": 30,
       "new": 0,
       "total": 107,
-      "attempts": 1
+      "attempts": 2
     },
     "tta.py": {
       "name": "한국정보통신기술협회(TTA)",
@@ -350,7 +350,7 @@
       "fetched": 10,
       "new": 0,
       "total": 46,
-      "attempts": 1
+      "attempts": 2
     },
     "aikorea.py": {
       "name": "한국인공지능협회",
@@ -358,7 +358,7 @@
       "fetched": 40,
       "new": 0,
       "total": 159,
-      "attempts": 1
+      "attempts": 2
     }
   }
 }
