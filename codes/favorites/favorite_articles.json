@@ -1,272 +1,260 @@
 [
   {
-    "title": "공군 20전비 ‘AI 교육·연구센터’ 문 열어",
-    "link": "https://www.mnd.go.kr/mnd/162/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDQlMkZEUElNXzEyNDk5MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "site": "MND",
+    "title": "씽크포비엘, “AI 무기 성능보다 전장 환경 반영한 신뢰성 검증이 중요”",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42801",
+    "site": "AINEWS",
     "category": "국방",
     "score": 5,
-    "reason": "공군 20전투비행단 내 AI 특화 교육 및 연구센터가 정식 개소함",
+    "reason": "AI 무기 체계에서 성능보다 신뢰성 검증의 중요성을 강조하는 기술적 접근이 매우 핵심적임.",
     "keywords": [
-      "공군",
-      "AI 교육센터",
-      "국방AI"
+      "씽크포비엘",
+      "신뢰성 검증",
+      "AI 무기"
     ]
   },
   {
-    "title": "정부, 피지컬 AI 실무인력 양성 본격화…전주·성남·청주·창원에 테스트베드 4곳 구축",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42790",
+    "title": "앤트로픽·오픈AI 모델, ‘게임’으로 속이자 민간인을 군사 표적으로 식별",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217523",
+    "site": "AITIMES",
+    "category": "해외",
+    "score": 5,
+    "reason": "AI 모델이 군사 표적을 잘못 식별할 수 있는 안보 위협 가능성을 다룬 중요한 보안 이슈임.",
+    "keywords": [
+      "앤트로픽",
+      "오픈AI",
+      "AI 군사 표적"
+    ]
+  },
+  {
+    "title": "미 의회 자문위 “중국군, AI 군사력 강화 위해 엔비디아 첨단 칩 확보 추진”",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217576",
+    "site": "AITIMES",
+    "category": "해외",
+    "score": 4,
+    "reason": "중국군이 엔비디아 AI 칩을 확보하려는 움직임에 대한 미 의회의 경계 및 안보 리스크임.",
+    "keywords": [
+      "엔비디아",
+      "중국군",
+      "AI 칩"
+    ]
+  },
+  {
+    "title": "LG그룹, 〃주요 계열사 CEO 대부분 유임, 2027년 임원 132명 승진〃…피지컬 AI·R&D 핵심인재 전진 배치",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42810",
     "site": "AINEWS",
+    "category": "민간",
+    "score": 4,
+    "reason": "LG그룹이 피지컬 AI와 R&D 핵심 인재를 전면에 배치하며 AI 전환을 가속화하고 있음.",
+    "keywords": [
+      "LG그룹",
+      "피지컬 AI",
+      "임원 인사"
+    ]
+  },
+  {
+    "title": "엔비디아, 1페타플롭 AI 성능 갖춘 소형 PC ‘RTX 스파크’ 출시…GPU 서버 없이 로컬 AI 에이전트 실행",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42802",
+    "site": "AINEWS",
+    "category": "민간",
+    "score": 4,
+    "reason": "서버 없이 로컬에서 고성능 AI 에이전트를 실행할 수 있는 소형 장비의 등장으로 활용 범위가 넓어짐.",
+    "keywords": [
+      "엔비디아",
+      "RTX 스파크",
+      "온디바이스 AI"
+    ]
+  },
+  {
+    "title": "앤트로픽, 기업공개 공모가 11만원 확정…108조원 규모 초대형 상장",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42797",
+    "site": "AINEWS",
+    "category": "해외",
+    "score": 4,
+    "reason": "앤트로픽의 역대 최대 규모 IPO는 글로벌 AI 시장의 투자심리와 거품론을 가를 중요한 지표임.",
+    "keywords": [
+      "앤트로픽",
+      "IPO",
+      "AI 시장"
+    ]
+  },
+  {
+    "title": "오픈AI, AI가 보안망 뚫자 훈련 중단…인터넷 격리·35초 긴급 정지 체계 공개",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42795",
+    "site": "AINEWS",
+    "category": "해외",
+    "score": 5,
+    "reason": "오픈AI가 AI의 보안 취약점을 발견하고 자발적으로 훈련을 긴급 정지한 사건은 AI 안전 정책의 중요한 선례임.",
+    "keywords": [
+      "오픈AI",
+      "AI 보안",
+      "긴급 정지"
+    ]
+  },
+  {
+    "title": "전남광주시-국가인공지능전략위, 국산NPU 실증·판로 확대 모색",
+    "link": "https://www.etnews.com/20261119000422",
+    "site": "ETNEWS",
     "category": "기관",
     "score": 4,
-    "reason": "정부가 피지컬 AI 실무 인력 양성을 위해 4대 거점 테스트베드 구축",
+    "reason": "국내 NPU 실증 및 판로 확대를 위해 지자체와 국가AI전략위가 협력하는 공공 정책 사례임.",
     "keywords": [
-      "과기정통부",
-      "피지컬 AI",
-      "테스트베드"
+      "국가인공지능전략위",
+      "NPU",
+      "공공 AI"
     ]
   },
   {
-    "title": "DGIST 이태훈 교수팀, 엔비디아 고성능 GPU 지원받아 에이전틱 AI 기반 신소재 탐색",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42786",
-    "site": "AINEWS",
-    "category": "민간",
-    "score": 3,
-    "reason": "DGIST와 엔비디아가 협력하여 에이전틱 AI를 통한 신소재 탐색 가속화",
-    "keywords": [
-      "DGIST",
-      "엔비디아",
-      "에이전틱 AI"
-    ]
-  },
-  {
-    "title": "마이크로소프트, 자체 AI 모델 ‘코드 2’ 공개…5천만 AI 에이전트 관리·데이터 인프라 혁신 가속",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42777",
-    "site": "AINEWS",
-    "category": "해외",
-    "score": 4,
-    "reason": "마이크로소프트가 대규모 에이전트 관리와 데이터 인프라 혁신을 위한 AI 모델 공개",
-    "keywords": [
-      "MS",
-      "코드 2",
-      "AI 에이전트"
-    ]
-  },
-  {
-    "title": "오픈AI, GPT-6.2 아스트라·솔 전격 공개…전문가급 AI 업무 수행에 비용 혁신까지",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42776",
-    "site": "AINEWS",
-    "category": "해외",
-    "score": 5,
-    "reason": "오픈AI의 차세대 모델 GPT-6.2 공개로 고성능 AI 업무 수행 및 비용 혁신 예고",
-    "keywords": [
-      "오픈AI",
-      "GPT-6.2",
-      "초지능"
-    ]
-  },
-  {
-    "title": "에브리봇, 피지컬 AI 사업본부 출범…중국 애지봇·DDT와 휴머노이드·사족보행 로봇사업 확대",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42775",
-    "site": "AINEWS",
-    "category": "민간",
-    "score": 3,
-    "reason": "에브리봇이 피지컬 AI 사업본부를 신설하고 로봇 사업 본격 확대",
-    "keywords": [
-      "에브리봇",
-      "피지컬 AI",
-      "휴머노이드"
-    ]
-  },
-  {
-    "title": "오픈AI, NATO에 사이버 보안 AI 공급…유럽 정부·기관으로 사업 확대",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217529",
-    "site": "AITIMES",
-    "category": "해외",
-    "score": 5,
-    "reason": "오픈AI가 NATO와 사이버 보안 AI 공급 계약을 맺고 방위 영역으로 사업 확장",
-    "keywords": [
-      "오픈AI",
-      "NATO",
-      "사이버 보안"
-    ]
-  },
-  {
-    "title": "노타, AI 에이전트 성능 높이는 풀스택 최적화 기술 공개...〃시간 47%·토큰 60% 절감〃",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217515",
-    "site": "AITIMES",
-    "category": "민간",
-    "score": 4,
-    "reason": "노타가 AI 에이전트 성능을 최적화하는 풀스택 기술을 공개하여 효율성 극대화",
-    "keywords": [
-      "노타",
-      "풀스택",
-      "AI 에이전트"
-    ]
-  },
-  {
-    "title": "[KB유니콘클럽, 기술을 사업으로⑤]드론 통신 차단 넘어 조종권 확보…본레이크 정밀 대응법",
-    "link": "https://www.etnews.com/20261115000177",
+    "title": "[사이버보안, 패러다임 전환] 〈2〉국가안보실 전담조직 격상…예산·정책 지휘해야",
+    "link": "https://www.etnews.com/20261119000114",
     "site": "ETNEWS",
-    "category": "국방",
+    "category": "기관",
     "score": 4,
-    "reason": "드론 통신을 차단하고 조종권을 탈취하는 등 미래 전장 대응 기술 확보",
+    "reason": "국가안보실의 사이버 보안 전담 조직 격상 논의는 AI 시대 국가 차원의 보안 거버넌스 강화를 시사함.",
     "keywords": [
-      "드론",
-      "대드론",
-      "본레이크"
+      "국가안보실",
+      "사이버 보안",
+      "정책"
     ]
   },
   {
-    "title": "그리드원, 한국부동산원 AI 에이전트 플랫폼 구축 완료",
-    "link": "https://www.etnews.com/20261118000411",
+    "title": "李대통령 “추진 중인 아태 AI센터…인공지능 협력·혁신 구심점될 것”",
+    "link": "https://www.etnews.com/20261119000373",
+    "site": "ETNEWS",
+    "category": "기관",
+    "score": 3,
+    "reason": "아태 AI 센터 구축을 통한 인공지능 협력 및 혁신 생태계 강화 의지를 밝힌 정책적 메시지임.",
+    "keywords": [
+      "아태 AI 센터",
+      "인공지능 협력",
+      "정부 정책"
+    ]
+  },
+  {
+    "title": "[AIx소프트웨이브 2026] 엔투에이아이 메디통, AI x 소프트웨이브 2026서 병원 AI 운영 플랫폼 공개",
+    "link": "https://www.etnews.com/20261119000332",
     "site": "ETNEWS",
     "category": "민간",
     "score": 3,
-    "reason": "그리드원이 공공분야인 한국부동산원에 AI 에이전트 플랫폼 구축 완료",
+    "reason": "병원 업무를 효율화하는 AI 운영 플랫폼 공개",
     "keywords": [
-      "그리드원",
-      "AI 에이전트",
-      "공공AX"
+      "메디통",
+      "병원 AI"
     ]
   },
   {
-    "title": "[전파진흥주간] 국방부, 국방 전파훈령 제정…“주파수는 미래 전투력”",
-    "link": "https://www.etnews.com/20261118000347",
-    "site": "ETNEWS",
-    "category": "국방",
-    "score": 4,
-    "reason": "국방 전파훈령 제정으로 주파수를 핵심 미래 전투력으로 규정",
-    "keywords": [
-      "국방부",
-      "전파훈령",
-      "전투력"
-    ]
-  },
-  {
-    "title": "K방산 45개사, 19개국 주한 무관에 미래 전장 기술 선보여",
-    "link": "https://www.etnews.com/20261118000343",
-    "site": "ETNEWS",
-    "category": "국방",
-    "score": 3,
-    "reason": "K방산 기업들이 주한 무관들에게 미래 전장 기술을 홍보함",
-    "keywords": [
-      "K방산",
-      "전장기술"
-    ]
-  },
-  {
-    "title": "전장이 바뀌었다…총성 없는 전쟁 ‘인지전’",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261119/2/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=oB_w5jV3-iWuMjgGrVf7QUUpy2n2Vb8HbitgQatxw3jfeNVLMpmg!965578293",
-    "site": "kookbang",
-    "category": "국방",
-    "score": 4,
-    "reason": "AI 기반 인지전 등 총성 없는 전쟁에 대한 군의 전략적 고민",
-    "keywords": [
-      "인지전",
-      "전장변화"
-    ]
-  },
-  {
-    "title": "삼성 스마트싱스도 챗GPT 연동…AI로 가전 제어 확산",
-    "link": "https://www.etnews.com/20261118000237",
+    "title": "파네시아, 글로벌 AI 데이터센터 시장 공략…CXL 차세대 칩 내년 공개",
+    "link": "https://www.etnews.com/20261119000263",
     "site": "ETNEWS",
     "category": "민간",
-    "score": 3,
-    "reason": "삼성 스마트싱스가 챗GPT와 연동되어 AI 가전 제어 확대",
+    "score": 4,
+    "reason": "AI 데이터센터용 CXL 차세대 칩 개발 및 공략",
+    "keywords": [
+      "파네시아",
+      "CXL",
+      "데이터센터"
+    ]
+  },
+  {
+    "title": "[수출 1조달러]수출 강국 이끈 메모리…삼성·SK하이닉스, AI 시대 성장축으로",
+    "link": "https://www.etnews.com/20261119000300",
+    "site": "ETNEWS",
+    "category": "민간",
+    "score": 4,
+    "reason": "삼성·SK하이닉스의 AI 시대 메모리 반도체 성장 전략",
     "keywords": [
       "삼성전자",
-      "스마트싱스",
-      "챗GPT"
+      "SK하이닉스",
+      "AI 반도체"
     ]
   },
   {
-    "title": "MS, AI 에이전트로 기업 혁신 가속…이그나이트서 ＇프런티어 생태계＇ 공개",
-    "link": "https://www.etnews.com/20261118000329",
+    "title": "한난, 에머슨과 집단에너지설비 AX 맞손…맞춤형 AI 현장 실증",
+    "link": "https://www.etnews.com/20261119000289",
     "site": "ETNEWS",
-    "category": "민간",
-    "score": 4,
-    "reason": "마이크로소프트가 이그나이트에서 AI 에이전트 생태계 공개",
+    "category": "기관",
+    "score": 3,
+    "reason": "공공 집단에너지 설비의 AI 기반 현장 실증 추진",
     "keywords": [
-      "MS",
-      "AI에이전트",
-      "이그나이트"
+      "한국지역난방공사",
+      "AX",
+      "AI 실증"
     ]
   },
   {
-    "title": "[M.AX 풀스택 진화]〈3〉내년 ＇AI 공장장＇까지…10대 업종으로 넓힌다",
-    "link": "https://www.etnews.com/20261118000290",
+    "title": "앤트로픽, 공모가 83달러 확정…813억달러 역대 최대 IPO",
+    "link": "https://www.etnews.com/20261119000288",
+    "site": "ETNEWS",
+    "category": "해외",
+    "score": 5,
+    "reason": "앤트로픽의 역대 최대 규모 IPO 상장",
+    "keywords": [
+      "앤트로픽",
+      "IPO"
+    ]
+  },
+  {
+    "title": "[AIx소프트웨이브 2026] 넥스트비즈, AI 에이전트 기반 AX 플랫폼 ＇올리사이트＇로 공공·교육시장 공략",
+    "link": "https://www.etnews.com/20261119000284",
     "site": "ETNEWS",
     "category": "민간",
-    "score": 4,
-    "reason": "제조업 현장에 특화된 AI 공장장 및 파운데이션 모델 확산",
+    "score": 3,
+    "reason": "AI 에이전트 기반 AX 플랫폼의 공공 시장 확대",
     "keywords": [
-      "제조AI",
-      "파운데이션모델",
+      "넥스트비즈",
+      "AI 에이전트",
       "AX"
     ]
   },
   {
-    "title": "NHN KCP, AI 에이전트 스테이블코인 결제·정산 검증",
-    "link": "https://www.etnews.com/20261118000209",
+    "title": "[AIx소프트웨이브 2026] YH데이타베이스, AI 기반 금융보안·생성형 AI 솔루션으로 산업 전반 공략",
+    "link": "https://www.etnews.com/20261119000279",
     "site": "ETNEWS",
     "category": "민간",
     "score": 3,
-    "reason": "NHN KCP, AI 에이전트 활용한 스테이블코인 결제 검증",
+    "reason": "AI 기반 금융보안 및 생성형 AI 솔루션 발표",
     "keywords": [
-      "NHN KCP",
-      "AI에이전트",
-      "스테이블코인"
+      "YH데이타베이스",
+      "금융보안",
+      "생성형 AI"
     ]
   },
   {
-    "title": "AI스페라, AI 기반 위협 노출 관리 플랫폼 ＇AITEM＇ 출시",
-    "link": "https://www.etnews.com/20261118000199",
-    "site": "ETNEWS",
-    "category": "민간",
-    "score": 3,
-    "reason": "AI스페라, AI 기반 보안 위협 노출 관리 플랫폼 출시",
-    "keywords": [
-      "AI스페라",
-      "보안",
-      "플랫폼"
-    ]
-  },
-  {
-    "title": "전파산업의 성과와 미래를 한자리에, 「2026 전파방송산업 진흥주간」 개최",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187975&searchOpt=ALL&searchTxt=",
-    "site": "MSIT",
-    "category": "기관",
-    "score": 4,
-    "reason": "2026 전파방송산업 진흥주간을 통해 AI·위성 핵심 기반 강조",
-    "keywords": [
-      "과기정통부",
-      "전파방송산업",
-      "AI기반"
-    ]
-  },
-  {
-    "title": "인공지능 시대의 불확실성, 시민이 묻고 답하다!",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187976&searchOpt=ALL&searchTxt=",
-    "site": "MSIT",
-    "category": "기관",
-    "score": 3,
-    "reason": "AI 시대 불확실성 논의를 위한 시민 토론회 개최",
-    "keywords": [
-      "과기정통부",
-      "AI시대",
-      "시민토론회"
-    ]
-  },
-  {
-    "title": "젠슨 황 “부름 있다면 복귀” vs 엔비디아 이사회 “불가”…호실적에도 ＇포스트 황＇ 리스크",
-    "link": "https://www.etnews.com/20261118000303",
+    "title": "젠슨 황 發 미국 수출 통제, 전력반도체 공급망도 영향권…“국산화·수요 연계 시급”",
+    "link": "https://www.etnews.com/20261119000251",
     "site": "ETNEWS",
     "category": "해외",
-    "score": 3,
-    "reason": "젠슨 황의 복귀 이슈와 엔비디아의 포스트 황 리스크 점검",
+    "score": 4,
+    "reason": "미국 수출 통제에 따른 전력반도체 공급망 대응 필요",
     "keywords": [
-      "엔비디아",
-      "젠슨황"
+      "수출 통제",
+      "전력반도체",
+      "공급망"
+    ]
+  },
+  {
+    "title": "[기술을 권리로, 혁신을 성장으로] 박병수 히트솔 공동대표 “스카이빙 국산화로 AI 데이터센터 냉각시장 공략”",
+    "link": "https://www.etnews.com/20261119000238",
+    "site": "ETNEWS",
+    "category": "민간",
+    "score": 3,
+    "reason": "AI 데이터센터 냉각시장 겨냥 국산화 기술",
+    "keywords": [
+      "히트솔",
+      "데이터센터",
+      "냉각"
+    ]
+  },
+  {
+    "title": "우주청, 천체물리 수치모형의 AI 활용 위한 워크숍 개최",
+    "link": "https://www.etnews.com/20261119000161",
+    "site": "ETNEWS",
+    "category": "기관",
+    "score": 3,
+    "reason": "천체물리 수치모형 연구에 AI 활용 본격화",
+    "keywords": [
+      "우주항공청",
+      "천체물리",
+      "AI"
     ]
   }
 ]
