@@ -12,8 +12,8 @@ on:
   # ⚠️ cron-job.org 설정을 마치면 아래 schedule 블록은 삭제하세요 (중복 실행 방지)
   schedule:
     # GitHub 예약 실행은 실제로 4~8시간 늦게 시작되는 경우가 많음 (2회차는 1회차 실패분만 재시도)
-    - cron: '7 16 * * *' # 매일 오전 1시 7분 (한국시간) — 1회차
-    - cron: '37 16 * * *' # 매일 오전 1시 37분 (한국시간) — 2회차
+    - cron: '5 15 * * *' # 매일 0시 5분 (한국시간) — 1회차 (자정 이전 불가: 생성기가 KST 어제 날짜 기사를 고름)
+    - cron: '35 15 * * *' # 매일 0시 35분 (한국시간) — 2회차
 
 # 1회차/2회차가 겹쳐서 동시에 push 하지 않도록 순차 실행
 concurrency:
@@ -56,7 +56,7 @@ jobs:
           # 회차 결정: 수동/외부 트리거면 inputs.round, schedule이면 cron 문자열로 판단
           ROUND="${{ inputs.round }}"
           if [ -z "$ROUND" ]; then
-            if [ "$CRON" = "37 16 * * *" ]; then ROUND=2; else ROUND=1; fi
+            if [ "$CRON" = "35 15 * * *" ]; then ROUND=2; else ROUND=1; fi
           fi
 
           if [ "$ROUND" = "2" ]; then
