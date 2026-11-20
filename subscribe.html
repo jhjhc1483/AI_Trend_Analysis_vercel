@@ -176,8 +176,8 @@
 </head>
 <body>
     <div class="subscribe-container">
-        <p>AI 일일 동향 리포트를<br>이메일로 받아보세요. (무료)</p>
-        <p style="font-size: 0.8rem; color: #888; margin-top: -20px; margin-bottom: 25px;">
+        <p id="intro-text">AI 일일 동향 리포트를<br>이메일로 받아보세요. (무료)</p>
+        <p id="intro-note" style="font-size: 0.8rem; color: #888; margin-top: -20px; margin-bottom: 25px;">
             * 개인정보 보호를 위해 구독은 1년간 유지되며, 만료 2주 전부터 메일로 연장 안내를 드립니다.<br>
             * 메일이 오지 않는 경우 스팸 메일함을 확인해 주세요.
         </p>
@@ -236,7 +236,18 @@
             not_found: "var(--danger-color)",
             renewed: "var(--success-color)",
             bad_token: "var(--danger-color)",
+            closed: "var(--danger-color)",
         };
+
+        // 신규 구독 신청 받기 여부 (api/subscribe.js 의 SUBSCRIBE_OPEN 과 같게 유지)
+        const SUBSCRIBE_OPEN = false;
+        // 메일 속 해지/연장 링크로 들어온 경우(?action=...)는 아래 링크 처리 화면을 그대로 사용
+        if (!SUBSCRIBE_OPEN && !new URLSearchParams(location.search).get('action')) {
+            document.getElementById('subscribeBtn').style.display = 'none';
+            document.getElementById('intro-text').innerHTML = '신규 구독 신청을<br>잠시 중단했습니다.';
+            document.getElementById('intro-note').textContent =
+                '* 기존 구독자는 아래에 이메일을 입력하고 [구독취소]를 누르거나, 메일 하단의 링크로 해지할 수 있습니다.';
+        }
 
         const emailInput = document.getElementById('email');
         const statusMsg = document.getElementById('status-msg');

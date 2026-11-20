@@ -143,7 +143,8 @@
                             <button id="loadFileBtn">텍스트추출</button>
                             <button id="createAudioBtn">🎙️ 브리핑 생성</button>
                             <button id="deleteCodesBtn">🗑️Reset</button>
-                            <button id="subscribeRedirectBtn" onclick="location.href='subscribe.html'">Subscribe</button>
+                            <!-- 신규 구독 일시 중단 중: 다시 열 때 style="display:none" 제거 (api/subscribe.js 의 SUBSCRIBE_OPEN 참고) -->
+                            <button id="subscribeRedirectBtn" onclick="location.href='subscribe.html'" style="display:none">Subscribe</button>
                         </div>
                         <div class="trend-section" style="margin-top: 20px;">
                             <h2>🎧 오늘의 AI 브리핑 듣기</h2>

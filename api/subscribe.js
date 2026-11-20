@@ -26,6 +26,10 @@ const EXPIRE_DAYS = 365;       // 등록 후 1년이 지나면 만료
 const EMAIL_REGEX = /^[a-zA-Z0-9_.+-]+@[a-zA-Z0-9-]+\.[a-zA-Z0-9-.]+$/;
 const MAX_ATTEMPTS = 3;        // 다른 요청과 동시에 저장이 겹쳤을 때 재시도 횟수
 
+// 신규 구독 신청 받기 여부. 다시 열려면 true로 바꾸고, subscribe.html 의 SUBSCRIBE_OPEN 과 index.html 의 Subscribe 버튼도 함께 되돌리세요.
+// 닫혀 있어도 기존 구독자의 해지·1년 연장과 메일 발송은 그대로 동작합니다.
+const SUBSCRIBE_OPEN = false;
+
 const KEY_ENV = 'SUBSCRIBER_ENCRYPTION_KEY';
 const MIN_KEY_LENGTH = 32;
 const ENC_ALG = 'aes-256-gcm';
@@ -39,6 +43,7 @@ const MESSAGES = {
     unsubscribed: "구독이 해지되었습니다. 😢",
     not_found: "등록되지 않은 이메일입니다.",
     bad_token: "링크가 올바르지 않거나 만료되었습니다. 메일에 있는 링크를 다시 눌러주세요.",
+    closed: "현재 신규 구독 신청을 잠시 중단했습니다. 기존 구독자의 구독 해지는 그대로 가능합니다.",
 };
 const ACTIONS = ['subscribe', 'unsubscribe', 'renew'];
 
@@ -204,6 +209,9 @@ export default async function handler(req, res) {
 
     if (!ACTIONS.includes(action)) {
         return res.status(400).json({ error: "Bad Request", message: "알 수 없는 요청입니다." });
+    }
+    if (action === 'subscribe' && !SUBSCRIBE_OPEN) {
+        return res.status(403).json({ status: 'closed', message: MESSAGES.closed });
     }
     const target = typeof email === 'string' ? email.trim().toLowerCase() : '';
     if (target.length > 254 || !EMAIL_REGEX.test(target)) {
