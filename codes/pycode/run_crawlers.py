@@ -4,6 +4,7 @@ import time
 import subprocess
 import re
 import argparse
+import functools
 from html import escape as html_escape  # generate_email_html 안의 html 변수와 겹치지 않도록
 import requests
 from datetime import datetime
@@ -52,6 +53,40 @@ CRAWLER_SCRIPTS = [
 
 TIMEOUT_PER_SCRIPT = 300  # 스크립트당 최대 5분 타임아웃
 # =============================================
+
+# 이미 '[N번 키]'로 바뀐 것은 건드리지 않음
+_API_KEY_PARAM_RE = re.compile(r"(api_key=)(?!\[)[^&\s'\"]+")
+
+
+@functools.lru_cache(maxsize=1)
+def _known_scraper_keys():
+    """마스킹용 (키 값, 키 이름) 목록 — GitHub Secrets와 .env 양쪽에서 수집"""
+    try:
+        from dotenv import dotenv_values
+        env_vals = dotenv_values()
+    except Exception:
+        env_vals = {}
+    pairs = [
+        ("1번 키", [os.environ.get("KEY_1"), os.environ.get("SCRAPER_API_KEY_1"), env_vals.get("SCRAPER_API_KEY")]),
+        ("2번 키", [os.environ.get("KEY_2"), os.environ.get("SCRAPER_API_KEY_2"), env_vals.get("SCRAPER_API_KEY_2")]),
+        ("3번 키", [os.environ.get("KEY_3"), os.environ.get("SCRAPER_API_KEY_3"), env_vals.get("SCRAPER_API_KEY_3")]),
+        ("여분 키", [os.environ.get("SCRAPER_API_KEY_Spare"), env_vals.get("SCRAPER_API_KEY_Spare")]),
+    ]
+    known = {}
+    for name, values in pairs:
+        for v in values:
+            if v and v.strip() and v.strip() not in known:
+                known[v.strip()] = name
+    return known
+
+
+def mask_secrets(text):
+    """오류 메시지/로그에 찍힌 ScraperAPI 키를 '[N번 키]'로 바꾸고, 모르는 키는 ***로 가림"""
+    if not text:
+        return text
+    for key, name in _known_scraper_keys().items():
+        text = text.replace(key, f"[{name}]")
+    return _API_KEY_PARAM_RE.sub(r"\1***", text)
 
 
 def get_current_kst():
@@ -203,6 +238,7 @@ def run_single_crawler(script_name, display_name):
 
         try:
             for line in proc.stdout:
+                line = mask_secrets(line)  # 메일·crawl_log·콘솔 어디에도 키 값이 남지 않도록
                 sys.stdout.write(line)
                 sys.stdout.flush()
                 output_lines.append(line)
@@ -216,7 +252,7 @@ def run_single_crawler(script_name, display_name):
 
     except Exception as e:
         return_code = 1
-        error_summary = f"프로세스 실행 예외: {str(e)}"
+        error_summary = mask_secrets(f"프로세스 실행 예외: {str(e)}")
         print(f"❌ {display_name} 실행 예외: {e}")
 
     elapsed_time = round(time.time() - start_time, 2)
