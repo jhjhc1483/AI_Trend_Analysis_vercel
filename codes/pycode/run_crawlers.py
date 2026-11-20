@@ -551,6 +551,7 @@ def main():
     parser.add_argument("--no-mail", action="store_true", help="이메일 발송 비활성화")
     parser.add_argument("--force-mail", action="store_true", help="항상 리포트 메일 발송 (하위 호환성 유지)")
     parser.add_argument("--retry-failed", action="store_true", help="2회차: 오늘 1회차에서 실패한 소스만 다시 수집")
+    parser.add_argument("--direct", action="store_true", help="ScraperAPI를 쓰지 않고 직접 접속 (로컬/한국 IP 실행용, 크레딧 소모 없음)")
     parser.add_argument(
         "--test-mail",
         nargs="?",
@@ -570,8 +571,13 @@ def main():
         return
     round_label = " (2회차 재시도)" if args.retry_failed else ""
 
-    # ScraperAPI 키 사전 점검 및 스마트 폴백 수행
-    _, scraper_key_name = resolve_best_scraper_api_key()
+    if args.direct:
+        # 빈 값으로 덮어두면 하위 크롤러의 load_dotenv()도 .env 키를 다시 읽지 않음 → fetch_page가 직접 접속
+        os.environ["SCRAPER_API_KEY"] = ""
+        scraper_key_name = "사용 안 함 (직접 접속)"
+    else:
+        # ScraperAPI 키 사전 점검 및 스마트 폴백 수행
+        _, scraper_key_name = resolve_best_scraper_api_key()
 
     print("=" * 60)
     print(f"🚀 AI Trend 크롤링 통합 스마트 러너 시작")

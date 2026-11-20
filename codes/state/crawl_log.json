@@ -230,20 +230,19 @@
   "26.11.20": {
     "mnd.py": {
       "name": "국방부",
-      "status": "FAILED",
-      "fetched": 0,
-      "new": 0,
-      "total": 2864,
-      "attempts": 2,
-      "error": "국방뉴스(공군) 크롤링 중 오류: 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=[3번 키]&url=https%3A%2F%2Fwww.mnd.go.kr%2Fmnd%2F162%2Fsubview.do&country_code=kr | 국"
+      "status": "SUCCESS",
+      "fetched": 50,
+      "new": 30,
+      "total": 2894,
+      "attempts": 3
     },
     "etnews.py": {
       "name": "전자신문",
       "status": "SUCCESS",
-      "fetched": 0,
+      "fetched": 100,
       "new": 100,
       "total": 16049,
-      "attempts": 2
+      "attempts": 3
     },
     "aitimes.py": {
       "name": "AI타임스",
@@ -251,7 +250,7 @@
       "fetched": 20,
       "new": 20,
       "total": 4598,
-      "attempts": 2
+      "attempts": 3
     },
     "NIA.py": {
       "name": "한국지능정보사회진흥원(NIA)",
@@ -259,7 +258,7 @@
       "fetched": 5,
       "new": 0,
       "total": 85,
-      "attempts": 2
+      "attempts": 3
     },
     "STEPI.py": {
       "name": "과학기술정책연구원(STEPI)",
@@ -267,7 +266,7 @@
       "fetched": 20,
       "new": 0,
       "total": 59,
-      "attempts": 2
+      "attempts": 3
     },
     "NIPA.py": {
       "name": "정보통신산업진흥원(NIPA)",
@@ -275,7 +274,7 @@
       "fetched": 20,
       "new": 0,
       "total": 21,
-      "attempts": 2
+      "attempts": 3
     },
     "KISDI.py": {
       "name": "정보통신정책연구원(KISDI)",
@@ -283,50 +282,47 @@
       "fetched": 80,
       "new": 0,
       "total": 175,
-      "attempts": 2
+      "attempts": 3
     },
     "dapa.py": {
       "name": "방위사업청",
-      "status": "FAILED",
-      "fetched": 0,
-      "new": 0,
-      "total": 161,
-      "attempts": 2,
-      "error": "웹페이지 요청 중 오류 발생: 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=[3번 키]&url=https%3A%2F%2Fwww.dapa.go.kr%2Fdapa%2Fdoc%2FselectDocList.do%3FmenuSeq%3D3"
+      "status": "SUCCESS",
+      "fetched": 10,
+      "new": 1,
+      "total": 162,
+      "attempts": 3
     },
     "KISTI.py": {
       "name": "한국과학기술정보연구원(KISTI)",
-      "status": "FAILED",
-      "fetched": 0,
+      "status": "SUCCESS",
+      "fetched": 40,
       "new": 0,
       "total": 128,
-      "attempts": 2,
-      "error": "URL 접속 중 오류 발생 (https://www.kisti.re.kr/post/asti-insight): 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=[3번 키]&url=https%3A%2F%2Fwww.kisti.re.kr%2"
+      "attempts": 3
     },
     "iitp.py": {
       "name": "정보통신기획평가원(IITP)",
       "status": "SUCCESS",
-      "fetched": 61,
+      "fetched": 81,
       "new": 1,
       "total": 239,
-      "attempts": 2
+      "attempts": 3
     },
     "AInews.py": {
       "name": "인공지능신문",
       "status": "SUCCESS",
       "fetched": 60,
-      "new": 19,
-      "total": 3238,
-      "attempts": 2
+      "new": 20,
+      "total": 3239,
+      "attempts": 3
     },
     "kookbang.py": {
       "name": "국방일보",
-      "status": "FAILED",
-      "fetched": 0,
-      "new": 0,
-      "total": 8442,
-      "attempts": 2,
-      "error": "웹페이지 우회 요청 중 오류 발생: 403 Client Error: Forbidden for url: http://api.scraperapi.com/?api_key=[3번 키]&url=https%3A%2F%2Fkookbang.dema.mil.kr%2FnewsWeb%2FallToday.do&country_code"
+      "status": "SUCCESS",
+      "fetched": 54,
+      "new": 51,
+      "total": 8493,
+      "attempts": 3
     },
     "msit.py": {
       "name": "과학기술정보통신부",
@@ -334,7 +330,7 @@
       "fetched": 30,
       "new": 3,
       "total": 940,
-      "attempts": 2
+      "attempts": 3
     },
     "KISA.py": {
       "name": "한국인터넷진흥원(KISA)",
@@ -342,7 +338,7 @@
       "fetched": 30,
       "new": 0,
       "total": 107,
-      "attempts": 2
+      "attempts": 3
     },
     "tta.py": {
       "name": "한국정보통신기술협회(TTA)",
@@ -350,7 +346,7 @@
       "fetched": 10,
       "new": 0,
       "total": 46,
-      "attempts": 2
+      "attempts": 3
     },
     "aikorea.py": {
       "name": "한국인공지능협회",
@@ -358,7 +354,7 @@
       "fetched": 40,
       "new": 0,
       "total": 159,
-      "attempts": 2
+      "attempts": 3
     }
   }
 }
