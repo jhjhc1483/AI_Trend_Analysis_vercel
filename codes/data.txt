@@ -2,8 +2,23 @@
 
 📰 오늘의 기사
 [국방]
+◾ 군·학 협력, AI 기반 군수혁신 속도
+https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTA2MyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
 ◾ 씽크포비엘, “AI 무기 성능보다 전장 환경 반영한 신뢰성 검증이 중요”
 https://www.aitimes.kr/news/articleView.html?idxno=42801
+
+◾ [사이버보안, 패러다임 전환] 〈2〉국가안보실 전담조직 격상…예산·정책 지휘해야
+https://www.etnews.com/20261119000114
+
+◾ 내년 화생방 사업 일정·무기체계 발전 로드맵 제시
+https://kookbang.dema.mil.kr/newsWeb/20261120/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=N-32QqqvILNpyt2KiybVMmOzADXqmQw3d61xaJLO8tOwB7Iborzs!965578293
+
+◾ 스마트폰으로 침투하는 인지전…인지 주권과 실시간 전략 대응 체계
+https://kookbang.dema.mil.kr/newsWeb/20261120/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=N-32QqqvILNpyt2KiybVMmOzADXqmQw3d61xaJLO8tOwB7Iborzs!965578293
+
+◾ 중동전쟁과 러·우 전쟁을 통해 본 화생방 전훈 분석
+https://kookbang.dema.mil.kr/newsWeb/20261120/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=N-32QqqvILNpyt2KiybVMmOzADXqmQw3d61xaJLO8tOwB7Iborzs!965578293
 
 [민간]
 ◾ LG그룹, 〃주요 계열사 CEO 대부분 유임, 2027년 임원 132명 승진〃…피지컬 AI·R&D 핵심인재 전진 배치
@@ -12,58 +27,53 @@ https://www.aitimes.kr/news/articleView.html?idxno=42810
 ◾ 엔비디아, 1페타플롭 AI 성능 갖춘 소형 PC ‘RTX 스파크’ 출시…GPU 서버 없이 로컬 AI 에이전트 실행
 https://www.aitimes.kr/news/articleView.html?idxno=42802
 
-◾ [AIx소프트웨이브 2026] 엔투에이아이 메디통, AI x 소프트웨이브 2026서 병원 AI 운영 플랫폼 공개
-https://www.etnews.com/20261119000332
-
 ◾ 파네시아, 글로벌 AI 데이터센터 시장 공략…CXL 차세대 칩 내년 공개
 https://www.etnews.com/20261119000263
 
-◾ [수출 1조달러]수출 강국 이끈 메모리…삼성·SK하이닉스, AI 시대 성장축으로
-https://www.etnews.com/20261119000300
-
-◾ [AIx소프트웨이브 2026] 넥스트비즈, AI 에이전트 기반 AX 플랫폼 ＇올리사이트＇로 공공·교육시장 공략
-https://www.etnews.com/20261119000284
-
-◾ [AIx소프트웨이브 2026] YH데이타베이스, AI 기반 금융보안·생성형 AI 솔루션으로 산업 전반 공략
-https://www.etnews.com/20261119000279
-
-◾ [기술을 권리로, 혁신을 성장으로] 박병수 히트솔 공동대표 “스카이빙 국산화로 AI 데이터센터 냉각시장 공략”
-https://www.etnews.com/20261119000238
+◾ 세일즈포스 코리아, ＇인더스트리 서밋 2026＇ 성료…산업별 AX 사례 공유
+https://www.etnews.com/20261119000174
 
 [기관]
+◾ UNIST, 산업 현장 문제 해결할 AI 융합인재 2000명 양성…조선해양·피지컬 AI 등 8개 전공 신설
+https://www.aitimes.kr/news/articleView.html?idxno=42808
+
 ◾ 전남광주시-국가인공지능전략위, 국산NPU 실증·판로 확대 모색
 https://www.etnews.com/20261119000422
 
-◾ [사이버보안, 패러다임 전환] 〈2〉국가안보실 전담조직 격상…예산·정책 지휘해야
-https://www.etnews.com/20261119000114
+◾ 전남광주시, 농업 AI 전환 비전 선포…＇국가 농업AX 플랫폼 구축사업＇ 추진
+https://www.etnews.com/20261119000410
+
+◾ 철강 제조현장 인공지능 전환(AX) 속도… ＇AI 융합 지원 협의체＇ 닻 올려
+https://www.etnews.com/20261119000383
 
 ◾ 李대통령 “추진 중인 아태 AI센터…인공지능 협력·혁신 구심점될 것”
 https://www.etnews.com/20261119000373
 
-◾ 한난, 에머슨과 집단에너지설비 AX 맞손…맞춤형 AI 현장 실증
-https://www.etnews.com/20261119000289
-
-◾ 우주청, 천체물리 수치모형의 AI 활용 위한 워크숍 개최
-https://www.etnews.com/20261119000161
-
 [해외]
+◾ 앤트로픽, 기업공개 공모가 11만원 확정…108조원 규모 초대형 상장
+https://www.aitimes.kr/news/articleView.html?idxno=42797
+
+◾ 엔비디아, 오픈소스 기반 피지컬 AI 데이터 제작 자동화…학습 데이터 생성 최대 60배 가속
+https://www.aitimes.kr/news/articleView.html?idxno=42796
+
+◾ 오픈AI, AI가 보안망 뚫자 훈련 중단…인터넷 격리·35초 긴급 정지 체계 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42795
+
 ◾ 앤트로픽·오픈AI 모델, ‘게임’으로 속이자 민간인을 군사 표적으로 식별
 https://www.aitimes.com/news/articleView.html?idxno=217523
 
 ◾ 미 의회 자문위 “중국군, AI 군사력 강화 위해 엔비디아 첨단 칩 확보 추진”
 https://www.aitimes.com/news/articleView.html?idxno=217576
 
-◾ 앤트로픽, 기업공개 공모가 11만원 확정…108조원 규모 초대형 상장
-https://www.aitimes.kr/news/articleView.html?idxno=42797
-
-◾ 오픈AI, AI가 보안망 뚫자 훈련 중단…인터넷 격리·35초 긴급 정지 체계 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42795
+◾ 日 특허청, AI 에이전트와 특허정보시스템 연계 추진…2027년 구축 목표
+https://www.etnews.com/20261119000402
 
 ◾ 앤트로픽, 공모가 83달러 확정…813억달러 역대 최대 IPO
 https://www.etnews.com/20261119000288
 
-◾ 젠슨 황 發 미국 수출 통제, 전력반도체 공급망도 영향권…“국산화·수요 연계 시급”
-https://www.etnews.com/20261119000251
+📚 간행물
+◾ Web Summit 2026, 제3국 경유 AI반도체 통제, 日 전략산업 집중투자 [AI·ICT Brief 2026-40호]
+https://www.iitp.kr/web/lay1/program/S1T62C65/itfind/view.do?seq=02-001-261119-000013&cpage=1&rows=10&searchTarget=all
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
