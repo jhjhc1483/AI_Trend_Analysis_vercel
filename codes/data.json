@@ -41034,5 +41034,251 @@
       ]
     },
     "briefing": "- 국방부, 제5회 국방 AI 경진대회를 개최하여 국방 분야 AI 역량 강화에 나섰습니다.\n- 전북대와 육군이 첨단 방산 및 군수 혁신과 전문 인력 양성을 위한 협력을 체결했습니다.\n- 미 공군이 AI와 자율무기 중심의 미래전 전환을 골자로 한 '포스 디자인 2026' 전략을 공개했습니다."
+  },
+  "26.11.22": {
+    "ai_pick": [
+      {
+        "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
+        "site": "AINEWS",
+        "category": "기관",
+        "score": 5,
+        "reason": "대통령이 직접 AI 고속도로 구축 및 데이터센터 현장을 점검하며 국가 정책 방향을 제시함",
+        "keywords": [
+          "대통령",
+          "AI 고속도로",
+          "SK데이터센터"
+        ]
+      },
+      {
+        "title": "휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42833",
+        "site": "AINEWS",
+        "category": "민간",
+        "score": 4,
+        "reason": "휴민랩스가 피지컬 AI에 대규모 투자를 유치하고 국내 로봇 인프라를 구축하기로 함",
+        "keywords": [
+          "휴민랩스",
+          "피지컬 AI",
+          "로봇 인프라"
+        ]
+      },
+      {
+        "title": "오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42831",
+        "site": "AINEWS",
+        "category": "해외",
+        "score": 4,
+        "reason": "오픈AI가 추론 탈취 공격 방어 기술을 강화하여 보안 성능을 획기적으로 개선함",
+        "keywords": [
+          "오픈AI",
+          "AI 보안",
+          "추론 탈취"
+        ]
+      },
+      {
+        "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217640",
+        "site": "AITIMES",
+        "category": "해외",
+        "score": 5,
+        "reason": "미·중 정상 간 군사 AI의 인간 통제 합의는 국방 AI 분야의 글로벌 표준과 정책에 중대한 영향",
+        "keywords": [
+          "군사 AI",
+          "미중 정상회담",
+          "인간 통제"
+        ]
+      },
+      {
+        "title": "앤트로픽 수학자 〃클로드로 167년 난제 리만 가설 증명〃...검증 착수",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217638",
+        "site": "AITIMES",
+        "category": "해외",
+        "score": 4,
+        "reason": "앤트로픽의 클로드 모델이 수학계 난제인 리만 가설 증명에 도전하며 AI의 학술적 잠재력을 입증",
+        "keywords": [
+          "앤트로픽",
+          "클로드",
+          "리만 가설"
+        ]
+      },
+      {
+        "title": "안랩 AI 플러스 섹옵스, ＇개방형 플랫폼＇으로…보안업체 간 장벽 허문다",
+        "link": "https://www.etnews.com/20261113000213",
+        "site": "ETNEWS",
+        "category": "민간",
+        "score": 3,
+        "reason": "안랩이 AI 보안 플랫폼을 개방형으로 전환하며 보안 산업 내 협력 생태계 확장을 도모함",
+        "keywords": [
+          "안랩",
+          "AI 보안",
+          "개방형 플랫폼"
+        ]
+      },
+      {
+        "title": "우리 사회의 인공지능을 생각하고 토론하는 축제의 장, ｢AI 인사이트 페스티벌 시상식｣ 개최",
+        "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187987&searchOpt=ALL&searchTxt=",
+        "site": "MSIT",
+        "category": "기관",
+        "score": 3,
+        "reason": "과기정통부가 AI 사회적 토론과 공감대 형성을 위한 인사이트 페스티벌 개최",
+        "keywords": [
+          "과기정통부",
+          "AI 인사이트",
+          "AI 정책"
+        ]
+      },
+      {
+        "title": "미래의 피지컬 AI 전문가 발굴! 「2026 청소년 로보틱스 챌린지」 결선 개최",
+        "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187986&searchOpt=ALL&searchTxt=",
+        "site": "MSIT",
+        "category": "기관",
+        "score": 3,
+        "reason": "피지컬 AI 산업을 이끌 미래 핵심 인재 발굴을 위해 청소년 로보틱스 챌린지를 개최함",
+        "keywords": [
+          "과기정통부",
+          "피지컬 AI",
+          "로보틱스"
+        ]
+      }
+    ],
+    "ai_meta": {
+      "generated_at": "2026-11-22T06:01:50+09:00",
+      "trigger": "auto",
+      "model": "gemini-3.1-flash-lite",
+      "target_date": "2026-11-21",
+      "article_prompt": {
+        "prompt_version": "1e60c7e808",
+        "fewshot_count": 68,
+        "fewshot_version": "61296da37b",
+        "exclusion_rule_count": 6,
+        "recent_titles_count": 59
+      },
+      "publication_prompt": {},
+      "candidates": {
+        "articles": 49,
+        "publications": 0
+      },
+      "skipped": {
+        "excluded": 0,
+        "duplicate": 0
+      },
+      "selected": {
+        "articles": 8,
+        "publications": 0
+      }
+    },
+    "categorized": {
+      "기관": [
+        {
+          "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
+          "site": "AINEWS",
+          "category": "기관",
+          "score": 5,
+          "reason": "대통령이 직접 AI 고속도로 구축 및 데이터센터 현장을 점검하며 국가 정책 방향을 제시함",
+          "keywords": [
+            "대통령",
+            "AI 고속도로",
+            "SK데이터센터"
+          ]
+        },
+        {
+          "title": "우리 사회의 인공지능을 생각하고 토론하는 축제의 장, ｢AI 인사이트 페스티벌 시상식｣ 개최",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187987&searchOpt=ALL&searchTxt=",
+          "site": "MSIT",
+          "category": "기관",
+          "score": 3,
+          "reason": "과기정통부가 AI 사회적 토론과 공감대 형성을 위한 인사이트 페스티벌 개최",
+          "keywords": [
+            "과기정통부",
+            "AI 인사이트",
+            "AI 정책"
+          ]
+        },
+        {
+          "title": "미래의 피지컬 AI 전문가 발굴! 「2026 청소년 로보틱스 챌린지」 결선 개최",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187986&searchOpt=ALL&searchTxt=",
+          "site": "MSIT",
+          "category": "기관",
+          "score": 3,
+          "reason": "피지컬 AI 산업을 이끌 미래 핵심 인재 발굴을 위해 청소년 로보틱스 챌린지를 개최함",
+          "keywords": [
+            "과기정통부",
+            "피지컬 AI",
+            "로보틱스"
+          ]
+        }
+      ],
+      "민간": [
+        {
+          "title": "휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42833",
+          "site": "AINEWS",
+          "category": "민간",
+          "score": 4,
+          "reason": "휴민랩스가 피지컬 AI에 대규모 투자를 유치하고 국내 로봇 인프라를 구축하기로 함",
+          "keywords": [
+            "휴민랩스",
+            "피지컬 AI",
+            "로봇 인프라"
+          ]
+        },
+        {
+          "title": "안랩 AI 플러스 섹옵스, ＇개방형 플랫폼＇으로…보안업체 간 장벽 허문다",
+          "link": "https://www.etnews.com/20261113000213",
+          "site": "ETNEWS",
+          "category": "민간",
+          "score": 3,
+          "reason": "안랩이 AI 보안 플랫폼을 개방형으로 전환하며 보안 산업 내 협력 생태계 확장을 도모함",
+          "keywords": [
+            "안랩",
+            "AI 보안",
+            "개방형 플랫폼"
+          ]
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42831",
+          "site": "AINEWS",
+          "category": "해외",
+          "score": 4,
+          "reason": "오픈AI가 추론 탈취 공격 방어 기술을 강화하여 보안 성능을 획기적으로 개선함",
+          "keywords": [
+            "오픈AI",
+            "AI 보안",
+            "추론 탈취"
+          ]
+        },
+        {
+          "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217640",
+          "site": "AITIMES",
+          "category": "해외",
+          "score": 5,
+          "reason": "미·중 정상 간 군사 AI의 인간 통제 합의는 국방 AI 분야의 글로벌 표준과 정책에 중대한 영향",
+          "keywords": [
+            "군사 AI",
+            "미중 정상회담",
+            "인간 통제"
+          ]
+        },
+        {
+          "title": "앤트로픽 수학자 〃클로드로 167년 난제 리만 가설 증명〃...검증 착수",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217638",
+          "site": "AITIMES",
+          "category": "해외",
+          "score": 4,
+          "reason": "앤트로픽의 클로드 모델이 수학계 난제인 리만 가설 증명에 도전하며 AI의 학술적 잠재력을 입증",
+          "keywords": [
+            "앤트로픽",
+            "클로드",
+            "리만 가설"
+          ]
+        }
+      ]
+    }
   }
 }

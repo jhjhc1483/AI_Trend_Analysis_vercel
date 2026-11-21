@@ -1,208 +1,106 @@
 [
   {
-    "title": "국방부, 제5회 국방 AI 경진대회 개최",
-    "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNTExMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
-    "site": "MND",
-    "category": "국방",
-    "score": 4,
-    "reason": "국방부 주최로 AI 기술 역량과 국방 분야 활용 아이디어를 겨루는 대회가 개최됨.",
-    "keywords": [
-      "국방부",
-      "국방 AI 경진대회"
-    ]
-  },
-  {
-    "title": "美 공군, AI·자율무기 중심 미래전 전환…차세대 전력 설계 전략 ＇포스 디자인 2026＇ 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42828",
+    "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
     "site": "AINEWS",
-    "category": "해외",
+    "category": "기관",
     "score": 5,
-    "reason": "미 공군이 AI 및 자율무기 중심의 차세대 전력 설계 전략을 공식 발표함.",
+    "reason": "대통령이 직접 AI 고속도로 구축 및 데이터센터 현장을 점검하며 국가 정책 방향을 제시함",
     "keywords": [
-      "미 공군",
-      "포스 디자인 2026",
-      "AI 자율무기"
+      "대통령",
+      "AI 고속도로",
+      "SK데이터센터"
     ]
   },
   {
-    "title": "본에이아이, 107억원 규모 피지컬 AI 국책사업 참여…국산 AI 반도체 탑재 산불 감지 드론 실증",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42826",
+    "title": "휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42833",
     "site": "AINEWS",
-    "category": "국방",
+    "category": "민간",
     "score": 4,
-    "reason": "피지컬 AI를 적용한 산불 감지 드론 실증 사업으로 국방 드론 기술 연계 가능성 높음.",
+    "reason": "휴민랩스가 피지컬 AI에 대규모 투자를 유치하고 국내 로봇 인프라를 구축하기로 함",
     "keywords": [
-      "본에이아이",
+      "휴민랩스",
       "피지컬 AI",
-      "드론"
+      "로봇 인프라"
     ]
   },
   {
-    "title": "전북대-육군, 첨단방산·군수혁신과 전문인력 양성 ＇맞손＇",
-    "link": "https://www.etnews.com/20261120000290",
-    "site": "ETNEWS",
-    "category": "육군",
-    "score": 4,
-    "reason": "전북대와 육군이 첨단 방산 및 군수 혁신과 AI 전문 인력 양성을 위해 협력함.",
-    "keywords": [
-      "육군",
-      "첨단방산",
-      "군수혁신"
-    ]
-  },
-  {
-    "title": "앤트로픽, 나스닥 상장 첫날 시가총액 2,337조원…AI 모델 기업 첫 증시 입성",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42812",
+    "title": "오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42831",
     "site": "AINEWS",
     "category": "해외",
+    "score": 4,
+    "reason": "오픈AI가 추론 탈취 공격 방어 기술을 강화하여 보안 성능을 획기적으로 개선함",
+    "keywords": [
+      "오픈AI",
+      "AI 보안",
+      "추론 탈취"
+    ]
+  },
+  {
+    "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217640",
+    "site": "AITIMES",
+    "category": "해외",
     "score": 5,
-    "reason": "앤트로픽의 성공적인 나스닥 상장은 AI 기업의 위상과 시장 규모를 대변함.",
+    "reason": "미·중 정상 간 군사 AI의 인간 통제 합의는 국방 AI 분야의 글로벌 표준과 정책에 중대한 영향",
+    "keywords": [
+      "군사 AI",
+      "미중 정상회담",
+      "인간 통제"
+    ]
+  },
+  {
+    "title": "앤트로픽 수학자 〃클로드로 167년 난제 리만 가설 증명〃...검증 착수",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217638",
+    "site": "AITIMES",
+    "category": "해외",
+    "score": 4,
+    "reason": "앤트로픽의 클로드 모델이 수학계 난제인 리만 가설 증명에 도전하며 AI의 학술적 잠재력을 입증",
     "keywords": [
       "앤트로픽",
-      "IPO",
-      "나스닥"
+      "클로드",
+      "리만 가설"
     ]
   },
   {
-    "title": "정부, AI 데이터센터 전력 규제 완화…비수도권 50MW 이하 영향평가 면제",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42823",
-    "site": "AINEWS",
-    "category": "기관",
-    "score": 4,
-    "reason": "정부가 비수도권 AI 데이터센터 전력 규제를 완화하여 인프라 확장을 지원함.",
-    "keywords": [
-      "AI 데이터센터",
-      "전력 규제",
-      "정부"
-    ]
-  },
-  {
-    "title": "('26. 11. 20) 국가AI전략위, 전남광주서 국산 NPU, 조선 AX, 국가AI컴퓨팅센터 정책현장 방문",
-    "link": "https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1154",
-    "site": "AIKOREA",
-    "category": "기관",
-    "score": 4,
-    "reason": "국가AI전략위원회가 국산 NPU 및 조선분야 AX 등 국가 AI 경쟁력 현장을 점검함.",
-    "keywords": [
-      "국가AI전략위",
-      "NPU",
-      "AI컴퓨팅센터"
-    ]
-  },
-  {
-    "title": "애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217602",
-    "site": "AITIMES",
-    "category": "민간",
-    "score": 4,
-    "reason": "애플이 시리를 넘어 앱 조작과 코딩이 가능한 범용 AI 에이전트를 개발 중임.",
-    "keywords": [
-      "애플",
-      "AI 에이전트"
-    ]
-  },
-  {
-    "title": "블룸버그 인텔리전스 “韓·日, 제조 분야에 강점…피지컬 AI 상용화 앞당길 것”",
-    "link": "https://www.etnews.com/20261120000161",
+    "title": "안랩 AI 플러스 섹옵스, ＇개방형 플랫폼＇으로…보안업체 간 장벽 허문다",
+    "link": "https://www.etnews.com/20261113000213",
     "site": "ETNEWS",
     "category": "민간",
     "score": 3,
-    "reason": "제조 분야 강점인 한·일이 피지컬 AI 상용화에 유리한 위치에 있다는 분석임.",
+    "reason": "안랩이 AI 보안 플랫폼을 개방형으로 전환하며 보안 산업 내 협력 생태계 확장을 도모함",
     "keywords": [
+      "안랩",
+      "AI 보안",
+      "개방형 플랫폼"
+    ]
+  },
+  {
+    "title": "우리 사회의 인공지능을 생각하고 토론하는 축제의 장, ｢AI 인사이트 페스티벌 시상식｣ 개최",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187987&searchOpt=ALL&searchTxt=",
+    "site": "MSIT",
+    "category": "기관",
+    "score": 3,
+    "reason": "과기정통부가 AI 사회적 토론과 공감대 형성을 위한 인사이트 페스티벌 개최",
+    "keywords": [
+      "과기정통부",
+      "AI 인사이트",
+      "AI 정책"
+    ]
+  },
+  {
+    "title": "미래의 피지컬 AI 전문가 발굴! 「2026 청소년 로보틱스 챌린지」 결선 개최",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187986&searchOpt=ALL&searchTxt=",
+    "site": "MSIT",
+    "category": "기관",
+    "score": 3,
+    "reason": "피지컬 AI 산업을 이끌 미래 핵심 인재 발굴을 위해 청소년 로보틱스 챌린지를 개최함",
+    "keywords": [
+      "과기정통부",
       "피지컬 AI",
-      "제조업",
-      "블룸버그"
-    ]
-  },
-  {
-    "title": "데이터스트림즈, IAMSEC 2026서 국방 AI 데이터 혁신 전략 제시",
-    "link": "https://www.etnews.com/20261120000042",
-    "site": "ETNEWS",
-    "category": "국방",
-    "score": 4,
-    "reason": "데이터스트림즈가 국방 AI 데이터 혁신을 위한 전략을 제시함",
-    "keywords": [
-      "데이터스트림즈",
-      "국방 AI",
-      "데이터 혁신"
-    ]
-  },
-  {
-    "title": "기보, 중소벤처기업 AX 혁신 포럼 개최…AI 활용 우수사례 공유",
-    "link": "https://www.etnews.com/20261120000052",
-    "site": "ETNEWS",
-    "category": "기관",
-    "score": 3,
-    "reason": "기술보증기금이 중소벤처기업의 AI 전환 확산 정책을 추진함",
-    "keywords": [
-      "기술보증기금",
-      "AX",
-      "중소벤처기업"
-    ]
-  },
-  {
-    "title": "KOIIA, 팁스 성과 교류회 개최…산업 AI·딥테크 투자·보육 전략 공유",
-    "link": "https://www.etnews.com/20261120000046",
-    "site": "ETNEWS",
-    "category": "기관",
-    "score": 3,
-    "reason": "KOIIA가 산업 AI 및 딥테크 분야의 투자 전략을 공유함",
-    "keywords": [
-      "KOIIA",
-      "산업 AI",
-      "딥테크"
-    ]
-  },
-  {
-    "title": "인젠트, 공공솔루션마켓서 공공기관 AI 보안 전략 제시",
-    "link": "https://www.etnews.com/20261120000041",
-    "site": "ETNEWS",
-    "category": "기관",
-    "score": 3,
-    "reason": "공공기관의 AI 보안 체계를 강화하기 위한 전략 제시",
-    "keywords": [
-      "인젠트",
-      "공공 AI",
-      "보안 전략"
-    ]
-  },
-  {
-    "title": "과기정통부-기후부, 인공지능 데이터센터 신속 구축을 위한 전력계통영향평가 제도 개선 추진",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187982&searchOpt=ALL&searchTxt=",
-    "site": "MSIT",
-    "category": "기관",
-    "score": 4,
-    "reason": "과기정통부와 기후부가 AI 데이터센터를 위한 전력 인프라 제도 개선 추진",
-    "keywords": [
-      "과기정통부",
-      "데이터센터",
-      "전력계통"
-    ]
-  },
-  {
-    "title": "인공지능 데이터센터 신속 구축을 위한 「인공지능 데이터센터 특별법」 하위법령 제정안 입법예고",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187983&searchOpt=ALL&searchTxt=",
-    "site": "MSIT",
-    "category": "기관",
-    "score": 5,
-    "reason": "인공지능 데이터센터 특별법 하위법령 제정안 입법 예고",
-    "keywords": [
-      "과기정통부",
-      "데이터센터특별법",
-      "입법예고"
-    ]
-  },
-  {
-    "title": "FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 ＇우회 수출 원천 봉쇄＇ 여파",
-    "link": "https://www.etnews.com/20261120000030",
-    "site": "ETNEWS",
-    "category": "해외",
-    "score": 4,
-    "reason": "미국 규제로 인한 TSMC의 대중국 첨단 칩 공급 중단 영향",
-    "keywords": [
-      "TSMC",
-      "미국 규제",
-      "AI 칩"
+      "로보틱스"
     ]
   }
 ]

@@ -1,62 +1,32 @@
-📢26.11.21 AI 일일 동향📢
+📢26.11.22 AI 일일 동향📢
 
 📰 오늘의 기사
-[국방]
-◾ 국방부, 제5회 국방 AI 경진대회 개최
-https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNTExMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-◾ 본에이아이, 107억원 규모 피지컬 AI 국책사업 참여…국산 AI 반도체 탑재 산불 감지 드론 실증
-https://www.aitimes.kr/news/articleView.html?idxno=42826
-
-◾ 데이터스트림즈, IAMSEC 2026서 국방 AI 데이터 혁신 전략 제시
-https://www.etnews.com/20261120000042
-
-[육군]
-◾ 전북대-육군, 첨단방산·군수혁신과 전문인력 양성 ＇맞손＇
-https://www.etnews.com/20261120000290
-
 [민간]
-◾ 애플, 시리 넘어서는 범용 AI 에이전트 개발...앱 조작·코딩까지
-https://www.aitimes.com/news/articleView.html?idxno=217602
+◾ 휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축
+https://www.aitimes.kr/news/articleView.html?idxno=42833
 
-◾ 블룸버그 인텔리전스 “韓·日, 제조 분야에 강점…피지컬 AI 상용화 앞당길 것”
-https://www.etnews.com/20261120000161
+◾ 안랩 AI 플러스 섹옵스, ＇개방형 플랫폼＇으로…보안업체 간 장벽 허문다
+https://www.etnews.com/20261113000213
 
 [기관]
-◾ 정부, AI 데이터센터 전력 규제 완화…비수도권 50MW 이하 영향평가 면제
-https://www.aitimes.kr/news/articleView.html?idxno=42823
+◾ 이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검
+https://www.aitimes.kr/news/articleView.html?idxno=42837
 
-◾ ('26. 11. 20) 국가AI전략위, 전남광주서 국산 NPU, 조선 AX, 국가AI컴퓨팅센터 정책현장 방문
-https://aikorea.go.kr/web/board/brdDetail.do?menu_cd=000012&num=1154
+◾ 우리 사회의 인공지능을 생각하고 토론하는 축제의 장, ｢AI 인사이트 페스티벌 시상식｣ 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187987&searchOpt=ALL&searchTxt=
 
-◾ 기보, 중소벤처기업 AX 혁신 포럼 개최…AI 활용 우수사례 공유
-https://www.etnews.com/20261120000052
-
-◾ KOIIA, 팁스 성과 교류회 개최…산업 AI·딥테크 투자·보육 전략 공유
-https://www.etnews.com/20261120000046
-
-◾ 인젠트, 공공솔루션마켓서 공공기관 AI 보안 전략 제시
-https://www.etnews.com/20261120000041
-
-◾ 과기정통부-기후부, 인공지능 데이터센터 신속 구축을 위한 전력계통영향평가 제도 개선 추진
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187982&searchOpt=ALL&searchTxt=
-
-◾ 인공지능 데이터센터 신속 구축을 위한 「인공지능 데이터센터 특별법」 하위법령 제정안 입법예고
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187983&searchOpt=ALL&searchTxt=
+◾ 미래의 피지컬 AI 전문가 발굴! 「2026 청소년 로보틱스 챌린지」 결선 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187986&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 美 공군, AI·자율무기 중심 미래전 전환…차세대 전력 설계 전략 ＇포스 디자인 2026＇ 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42828
+◾ 오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화
+https://www.aitimes.kr/news/articleView.html?idxno=42831
 
-◾ 앤트로픽, 나스닥 상장 첫날 시가총액 2,337조원…AI 모델 기업 첫 증시 입성
-https://www.aitimes.kr/news/articleView.html?idxno=42812
+◾ 트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용
+https://www.aitimes.com/news/articleView.html?idxno=217640
 
-◾ FT “TSMC, 中 첨단 칩 출하 중단 통보”…美 ＇우회 수출 원천 봉쇄＇ 여파
-https://www.etnews.com/20261120000030
-
-📚 간행물
-◾ 2026 개인정보 이슈 심층 분석 보고서(VOL.6) - 생체인식·CCTV와 개인정보
-https://www.kisa.or.kr/20202/form?postSeq=492&page=1
+◾ 앤트로픽 수학자 〃클로드로 167년 난제 리만 가설 증명〃...검증 착수
+https://www.aitimes.com/news/articleView.html?idxno=217638
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
