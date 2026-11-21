@@ -13,12 +13,9 @@ on:
   workflow_run:
     workflows: ["AI Audio Briefing Generator (Google Cloud TTS)"]
     types: [completed]
-  # 안전장치: 체인이 끊긴 날을 대비한 예약 실행. 이미 보냈으면 건너뛰고, 데이터가 없으면 관리자에게 경고.
-  # (GitHub 예약 실행은 수 시간 밀리므로 체인보다 늦은 시각으로 둠)
-  schedule:
-   - cron: '23 3 * * *' # 매일 낮 12시 23분 (KST)
+  # (예약 실행 없음: 체인이 끊긴 날은 Actions에서 mode=send로 수동 실행)
 
-# 체인 실행과 예약 실행이 겹쳐도 순서대로 실행되도록 (뒤에 실행되는 쪽은 발송 기록을 보고 건너뜀)
+# 체인 실행과 수동 실행이 겹쳐도 순서대로 실행되도록 (뒤에 실행되는 쪽은 발송 기록을 보고 건너뜀)
 concurrency:
   group: mail-send
   cancel-in-progress: false
@@ -51,7 +48,7 @@ jobs:
 
       - name: Send briefing mail
         id: mail
-        if: ${{ inputs.mode != 'cleanup_only' }}  # 예약 실행 시에는 inputs가 비어 있으므로 항상 발송
+        if: ${{ inputs.mode != 'cleanup_only' }}  # 체인 실행 시에는 inputs가 비어 있으므로 항상 발송
         env:
           # GitHub Secrets에 저장된 키를 환경 변수로 매핑
           KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}

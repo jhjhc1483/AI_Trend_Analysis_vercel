@@ -6,7 +6,7 @@
 구독자에게는 보내지 않고 관리자에게만 경고 메일을 보낸 뒤 실패(exit 1)로 끝냅니다.
 데이터가 준비되면 GitHub Actions에서 이 워크플로우를 수동 실행(mode: send)하면 됩니다.
 
-오디오 생성이 끝나면 자동으로 실행되고, 체인이 끊긴 경우를 대비해 예약 실행도 한 번 더 있습니다.
+오디오 생성(GitHub Actions)이 끝나면 자동으로 실행됩니다. (예약 실행은 없음)
 같은 날 여러 번 실행돼도 구독자에게는 하루 한 번만 보냅니다. (codes/state/mail.json에 기록)
 다시 보내야 하면 MAIL_MODE=resend (워크플로우 mode: resend)로 실행하세요.
 
@@ -215,7 +215,7 @@ def main():
     now = now_kst()
     today_key = now.strftime("%y.%m.%d")
 
-    # 하루 한 번만 발송 (자동 체인 + 예약 안전장치가 겹쳐도 중복 발송하지 않음)
+    # 하루 한 번만 발송 (체인이 같은 날 여러 번 돌거나 수동 실행이 겹쳐도 중복 발송하지 않음)
     resend = os.environ.get("MAIL_MODE", "send").strip().lower() == "resend"
     if not resend and read_state("mail").get("date") == today_key:
         print(f"⏭️ 오늘({today_key}) 메일은 이미 발송했습니다. 건너뜁니다. (다시 보내려면 mode: resend)")
