@@ -1,117 +1,117 @@
 {
-  "date": "26.11.21",
+  "date": "26.11.22",
   "results": {
     "mnd.py": {
       "name": "국방부",
       "status": "SUCCESS",
-      "new_count": 3,
+      "new_count": 0,
       "fetched_count": 50,
-      "elapsed": 15.23
+      "elapsed": 37.97
     },
     "etnews.py": {
       "name": "전자신문",
       "status": "SUCCESS",
-      "new_count": 64,
+      "new_count": 21,
       "fetched_count": 100,
-      "elapsed": 106.16
+      "elapsed": 95.51
     },
     "aitimes.py": {
       "name": "AI타임스",
       "status": "SUCCESS",
-      "new_count": 20,
+      "new_count": 19,
       "fetched_count": 20,
-      "elapsed": 33.83
+      "elapsed": 30.61
     },
     "NIA.py": {
       "name": "한국지능정보사회진흥원(NIA)",
       "status": "SUCCESS",
       "new_count": 0,
       "fetched_count": 5,
-      "elapsed": 6.25
+      "elapsed": 6.97
     },
     "STEPI.py": {
       "name": "과학기술정책연구원(STEPI)",
       "status": "SUCCESS",
       "new_count": 0,
       "fetched_count": 20,
-      "elapsed": 2.69
+      "elapsed": 3.66
     },
     "NIPA.py": {
       "name": "정보통신산업진흥원(NIPA)",
       "status": "SUCCESS",
       "new_count": 0,
       "fetched_count": 20,
-      "elapsed": 2.69
+      "elapsed": 3.01
     },
     "KISDI.py": {
       "name": "정보통신정책연구원(KISDI)",
       "status": "SUCCESS",
       "new_count": 0,
       "fetched_count": 80,
-      "elapsed": 8.23
+      "elapsed": 11.62
     },
     "dapa.py": {
       "name": "방위사업청",
       "status": "SUCCESS",
       "new_count": 0,
       "fetched_count": 10,
-      "elapsed": 2.51
+      "elapsed": 1.85
     },
     "KISTI.py": {
       "name": "한국과학기술정보연구원(KISTI)",
       "status": "SUCCESS",
       "new_count": 0,
       "fetched_count": 40,
-      "elapsed": 8.56
+      "elapsed": 102.31
     },
     "iitp.py": {
       "name": "정보통신기획평가원(IITP)",
       "status": "SUCCESS",
       "new_count": 0,
       "fetched_count": 91,
-      "elapsed": 57.82
+      "elapsed": 135.81
     },
     "AInews.py": {
       "name": "인공지능신문",
       "status": "SUCCESS",
-      "new_count": 15,
+      "new_count": 7,
       "fetched_count": 60,
-      "elapsed": 3.06
+      "elapsed": 3.01
     },
     "kookbang.py": {
       "name": "국방일보",
       "status": "SUCCESS",
       "new_count": 0,
       "fetched_count": 54,
-      "elapsed": 2.65
+      "elapsed": 4.08
     },
     "msit.py": {
       "name": "과학기술정보통신부",
       "status": "SUCCESS",
-      "new_count": 5,
+      "new_count": 2,
       "fetched_count": 30,
-      "elapsed": 18.0
+      "elapsed": 15.12
     },
     "KISA.py": {
       "name": "한국인터넷진흥원(KISA)",
       "status": "SUCCESS",
-      "new_count": 1,
+      "new_count": 0,
       "fetched_count": 30,
-      "elapsed": 17.64
+      "elapsed": 10.17
     },
     "tta.py": {
       "name": "한국정보통신기술협회(TTA)",
       "status": "SUCCESS",
       "new_count": 0,
       "fetched_count": 10,
-      "elapsed": 15.1
+      "elapsed": 13.98
     },
     "aikorea.py": {
       "name": "한국인공지능협회",
       "status": "SUCCESS",
-      "new_count": 1,
+      "new_count": 0,
       "fetched_count": 40,
-      "elapsed": 6.65
+      "elapsed": 14.38
     }
   },
   "history": {
@@ -143,6 +143,13 @@
         "status": "SUCCESS",
         "fetched": 50,
         "new": 3
+      },
+      {
+        "date": "26.11.22",
+        "name": "국방부",
+        "status": "SUCCESS",
+        "fetched": 50,
+        "new": 0
       }
     ],
     "etnews.py": [
@@ -173,6 +180,13 @@
         "status": "SUCCESS",
         "fetched": 100,
         "new": 64
+      },
+      {
+        "date": "26.11.22",
+        "name": "전자신문",
+        "status": "SUCCESS",
+        "fetched": 100,
+        "new": 21
       }
     ],
     "aitimes.py": [
@@ -203,6 +217,13 @@
         "status": "SUCCESS",
         "fetched": 20,
         "new": 20
+      },
+      {
+        "date": "26.11.22",
+        "name": "AI타임스",
+        "status": "SUCCESS",
+        "fetched": 20,
+        "new": 19
       }
     ],
     "NIA.py": [
@@ -229,6 +250,13 @@
       },
       {
         "date": "26.11.21",
+        "name": "한국지능정보사회진흥원(NIA)",
+        "status": "SUCCESS",
+        "fetched": 5,
+        "new": 0
+      },
+      {
+        "date": "26.11.22",
         "name": "한국지능정보사회진흥원(NIA)",
         "status": "SUCCESS",
         "fetched": 5,
@@ -263,6 +291,13 @@
         "status": "SUCCESS",
         "fetched": 20,
         "new": 0
+      },
+      {
+        "date": "26.11.22",
+        "name": "과학기술정책연구원(STEPI)",
+        "status": "SUCCESS",
+        "fetched": 20,
+        "new": 0
       }
     ],
     "NIPA.py": [
@@ -289,6 +324,13 @@
       },
       {
         "date": "26.11.21",
+        "name": "정보통신산업진흥원(NIPA)",
+        "status": "SUCCESS",
+        "fetched": 20,
+        "new": 0
+      },
+      {
+        "date": "26.11.22",
         "name": "정보통신산업진흥원(NIPA)",
         "status": "SUCCESS",
         "fetched": 20,
@@ -323,6 +365,13 @@
         "status": "SUCCESS",
         "fetched": 80,
         "new": 0
+      },
+      {
+        "date": "26.11.22",
+        "name": "정보통신정책연구원(KISDI)",
+        "status": "SUCCESS",
+        "fetched": 80,
+        "new": 0
       }
     ],
     "dapa.py": [
@@ -349,6 +398,13 @@
       },
       {
         "date": "26.11.21",
+        "name": "방위사업청",
+        "status": "SUCCESS",
+        "fetched": 10,
+        "new": 0
+      },
+      {
+        "date": "26.11.22",
         "name": "방위사업청",
         "status": "SUCCESS",
         "fetched": 10,
@@ -383,6 +439,13 @@
         "status": "SUCCESS",
         "fetched": 40,
         "new": 0
+      },
+      {
+        "date": "26.11.22",
+        "name": "한국과학기술정보연구원(KISTI)",
+        "status": "SUCCESS",
+        "fetched": 40,
+        "new": 0
       }
     ],
     "iitp.py": [
@@ -409,6 +472,13 @@
       },
       {
         "date": "26.11.21",
+        "name": "정보통신기획평가원(IITP)",
+        "status": "SUCCESS",
+        "fetched": 91,
+        "new": 0
+      },
+      {
+        "date": "26.11.22",
         "name": "정보통신기획평가원(IITP)",
         "status": "SUCCESS",
         "fetched": 91,
@@ -443,6 +513,13 @@
         "status": "SUCCESS",
         "fetched": 60,
         "new": 15
+      },
+      {
+        "date": "26.11.22",
+        "name": "인공지능신문",
+        "status": "SUCCESS",
+        "fetched": 60,
+        "new": 7
       }
     ],
     "kookbang.py": [
@@ -469,6 +546,13 @@
       },
       {
         "date": "26.11.21",
+        "name": "국방일보",
+        "status": "SUCCESS",
+        "fetched": 54,
+        "new": 0
+      },
+      {
+        "date": "26.11.22",
         "name": "국방일보",
         "status": "SUCCESS",
         "fetched": 54,
@@ -503,6 +587,13 @@
         "status": "SUCCESS",
         "fetched": 30,
         "new": 5
+      },
+      {
+        "date": "26.11.22",
+        "name": "과학기술정보통신부",
+        "status": "SUCCESS",
+        "fetched": 30,
+        "new": 2
       }
     ],
     "KISA.py": [
@@ -533,6 +624,13 @@
         "status": "SUCCESS",
         "fetched": 30,
         "new": 1
+      },
+      {
+        "date": "26.11.22",
+        "name": "한국인터넷진흥원(KISA)",
+        "status": "SUCCESS",
+        "fetched": 30,
+        "new": 0
       }
     ],
     "tta.py": [
@@ -559,6 +657,13 @@
       },
       {
         "date": "26.11.21",
+        "name": "한국정보통신기술협회(TTA)",
+        "status": "SUCCESS",
+        "fetched": 10,
+        "new": 0
+      },
+      {
+        "date": "26.11.22",
         "name": "한국정보통신기술협회(TTA)",
         "status": "SUCCESS",
         "fetched": 10,
@@ -593,8 +698,15 @@
         "status": "SUCCESS",
         "fetched": 40,
         "new": 1
+      },
+      {
+        "date": "26.11.22",
+        "name": "한국인공지능협회",
+        "status": "SUCCESS",
+        "fetched": 40,
+        "new": 0
       }
     ]
   },
-  "updated_at": "2026-11-21T00:49:07+09:00"
+  "updated_at": "2026-11-22T06:01:23+09:00"
 }
