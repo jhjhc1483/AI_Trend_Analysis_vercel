@@ -1,32 +1,43 @@
-📢26.11.22 AI 일일 동향📢
+📢26.11.23 AI 일일 동향📢
 
 📰 오늘의 기사
-[민간]
-◾ 휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축
-https://www.aitimes.kr/news/articleView.html?idxno=42833
+[국방]
+◾ 월드모델 기반 로봇기술 확보 모색
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTEyMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 안랩 AI 플러스 섹옵스, ＇개방형 플랫폼＇으로…보안업체 간 장벽 허문다
-https://www.etnews.com/20261113000213
+◾ 위험 임무 어디까지 해낼까? ‘피지컬 AI’ 야전 검증 나선다
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTExNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+
+[육군]
+◾ 전장객체 인식 탁월 ‘에어타이거’ 최우수상
+https://kookbang.dema.mil.kr/newsWeb/20261123/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Z38FF6DtleNS864U64sBr97g98c37Yykqicj6M1r-LVnwVlXOBmz!296806669
+
+[민간]
+◾ 제미나이, 산불 무전 30초 이내 감지…음성 인식 오류율 38%에서 22.34%로 낮춰
+https://www.aitimes.kr/news/articleView.html?idxno=42839
+
+◾ 챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에
+https://www.aitimes.com/news/articleView.html?idxno=217654
+
+◾ LGU+ 조직개편...〃AI 사업 성과 창출 가속〃
+https://www.aitimes.com/news/articleView.html?idxno=217651
+
+◾ SKT 에이닷을 ＇모두의 AI＇로 전환…＇에이닷올＇ 내달 출시
+https://www.etnews.com/20261120000272
+
+◾ 노타, 독일 ＇피지컬 AI 연구＇ 강화…로봇 최적화 시장 공략
+https://www.etnews.com/20261122000039
 
 [기관]
-◾ 이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검
-https://www.aitimes.kr/news/articleView.html?idxno=42837
+◾ 최태원 회장, “AI 네이티브 대학, 설계부터 바꿔야”...韓日 기업·대학 공동 AI 인재 육성 제안
+https://www.aitimes.kr/news/articleView.html?idxno=42838
 
-◾ 우리 사회의 인공지능을 생각하고 토론하는 축제의 장, ｢AI 인사이트 페스티벌 시상식｣ 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187987&searchOpt=ALL&searchTxt=
-
-◾ 미래의 피지컬 AI 전문가 발굴! 「2026 청소년 로보틱스 챌린지」 결선 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187986&searchOpt=ALL&searchTxt=
+◾ [부산 온디바이스 AI 서비스 실증·확산 사업] 〈상〉산불 감시에서 소방 관제까지…AI 에지 카메라에 맡겨라
+https://www.etnews.com/20261120000012
 
 [해외]
-◾ 오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화
-https://www.aitimes.kr/news/articleView.html?idxno=42831
-
-◾ 트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용
-https://www.aitimes.com/news/articleView.html?idxno=217640
-
-◾ 앤트로픽 수학자 〃클로드로 167년 난제 리만 가설 증명〃...검증 착수
-https://www.aitimes.com/news/articleView.html?idxno=217638
+◾ 오픈AI 〃AI가 연구 작업 절반 스스로 완료〃…7개월 만에 성공률 2배
+https://www.aitimes.com/news/articleView.html?idxno=217657
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

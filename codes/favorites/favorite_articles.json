@@ -1,106 +1,145 @@
 [
   {
-    "title": "이 대통령, “대한민국 AI 대전환, 인공지능 고속도로가 열 것”...울산 SK AI데이터센터 건설 현장 점검",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42837",
-    "site": "AINEWS",
-    "category": "기관",
-    "score": 5,
-    "reason": "대통령이 직접 AI 고속도로 구축 및 데이터센터 현장을 점검하며 국가 정책 방향을 제시함",
+    "title": "월드모델 기반 로봇기술 확보 모색",
+    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTEyMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "site": "MND",
+    "category": "국방",
+    "score": 4,
+    "reason": "월드모델 기반 로봇기술의 국방 활용 가능성을 모색하고 있음.",
     "keywords": [
-      "대통령",
-      "AI 고속도로",
-      "SK데이터센터"
+      "국방부",
+      "월드모델",
+      "로봇기술"
     ]
   },
   {
-    "title": "휴민랩스, 피지컬 AI에 4,700만달러 투자 유치…한국에 로봇 실증 인프라 구축",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42833",
+    "title": "위험 임무 어디까지 해낼까? ‘피지컬 AI’ 야전 검증 나선다",
+    "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTExNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "site": "MND",
+    "category": "국방",
+    "score": 5,
+    "reason": "위험 임무 수행을 위한 피지컬 AI 야전 검증 본격화.",
+    "keywords": [
+      "국방부",
+      "피지컬 AI",
+      "야전 검증"
+    ]
+  },
+  {
+    "title": "전장객체 인식 탁월 ‘에어타이거’ 최우수상",
+    "link": "https://kookbang.dema.mil.kr/newsWeb/20261123/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Z38FF6DtleNS864U64sBr97g98c37Yykqicj6M1r-LVnwVlXOBmz!296806669",
+    "site": "kookbang",
+    "category": "육군",
+    "score": 4,
+    "reason": "전장 객체 인식 성능이 탁월한 AI 기반 드론 기술 입증.",
+    "keywords": [
+      "에어타이거",
+      "전장 객체 인식",
+      "육군 AI"
+    ]
+  },
+  {
+    "title": "제미나이, 산불 무전 30초 이내 감지…음성 인식 오류율 38%에서 22.34%로 낮춰",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42839",
     "site": "AINEWS",
     "category": "민간",
-    "score": 4,
-    "reason": "휴민랩스가 피지컬 AI에 대규모 투자를 유치하고 국내 로봇 인프라를 구축하기로 함",
+    "score": 3,
+    "reason": "구글 제미나이의 산불 무전 감지 및 인식 정확도 개선.",
     "keywords": [
-      "휴민랩스",
-      "피지컬 AI",
-      "로봇 인프라"
+      "제미나이",
+      "구글",
+      "음성인식"
     ]
   },
   {
-    "title": "오픈AI, AI 내부 추론 탈취 공격 성공률 54%에서 0.2%로…모델 무단 복제 방어 강화",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42831",
+    "title": "최태원 회장, “AI 네이티브 대학, 설계부터 바꿔야”...韓日 기업·대학 공동 AI 인재 육성 제안",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42838",
     "site": "AINEWS",
+    "category": "기관",
+    "score": 4,
+    "reason": "AI 네이티브 인재 육성을 위한 대학 체계 개편 필요성 강조.",
+    "keywords": [
+      "최태원",
+      "AI 인재",
+      "대학 교육"
+    ]
+  },
+  {
+    "title": "오픈AI 〃AI가 연구 작업 절반 스스로 완료〃…7개월 만에 성공률 2배",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217657",
+    "site": "AITIMES",
     "category": "해외",
     "score": 4,
-    "reason": "오픈AI가 추론 탈취 공격 방어 기술을 강화하여 보안 성능을 획기적으로 개선함",
+    "reason": "오픈AI의 연구 작업 자동화 성공률 향상 및 성능 고도화.",
     "keywords": [
       "오픈AI",
-      "AI 보안",
-      "추론 탈취"
+      "연구 자동화",
+      "AI 모델"
     ]
   },
   {
-    "title": "트럼프·시진핑, 군사 AI에 인간 통제 합의…주요 군사작전까지 적용",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217640",
+    "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217654",
     "site": "AITIMES",
-    "category": "해외",
-    "score": 5,
-    "reason": "미·중 정상 간 군사 AI의 인간 통제 합의는 국방 AI 분야의 글로벌 표준과 정책에 중대한 영향",
+    "category": "민간",
+    "score": 3,
+    "reason": "주요 AI 서비스들의 모바일 앱 개편 및 에이전트 기능 강화.",
     "keywords": [
-      "군사 AI",
-      "미중 정상회담",
-      "인간 통제"
-    ]
-  },
-  {
-    "title": "앤트로픽 수학자 〃클로드로 167년 난제 리만 가설 증명〃...검증 착수",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217638",
-    "site": "AITIMES",
-    "category": "해외",
-    "score": 4,
-    "reason": "앤트로픽의 클로드 모델이 수학계 난제인 리만 가설 증명에 도전하며 AI의 학술적 잠재력을 입증",
-    "keywords": [
-      "앤트로픽",
+      "챗GPT",
       "클로드",
-      "리만 가설"
+      "AI 에이전트"
     ]
   },
   {
-    "title": "안랩 AI 플러스 섹옵스, ＇개방형 플랫폼＇으로…보안업체 간 장벽 허문다",
-    "link": "https://www.etnews.com/20261113000213",
+    "title": "LGU+ 조직개편...〃AI 사업 성과 창출 가속〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217651",
+    "site": "AITIMES",
+    "category": "민간",
+    "score": 3,
+    "reason": "LGU+의 AI 사업 실행력 강화를 위한 대규모 조직 개편.",
+    "keywords": [
+      "LGU+",
+      "조직개편",
+      "AI 사업"
+    ]
+  },
+  {
+    "title": "SKT 에이닷을 ＇모두의 AI＇로 전환…＇에이닷올＇ 내달 출시",
+    "link": "https://www.etnews.com/20261120000272",
     "site": "ETNEWS",
     "category": "민간",
     "score": 3,
-    "reason": "안랩이 AI 보안 플랫폼을 개방형으로 전환하며 보안 산업 내 협력 생태계 확장을 도모함",
+    "reason": "SKT의 AI 에이전트 '에이닷' 서비스 범용화 추진.",
     "keywords": [
-      "안랩",
-      "AI 보안",
-      "개방형 플랫폼"
+      "SKT",
+      "에이닷",
+      "범용 AI"
     ]
   },
   {
-    "title": "우리 사회의 인공지능을 생각하고 토론하는 축제의 장, ｢AI 인사이트 페스티벌 시상식｣ 개최",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187987&searchOpt=ALL&searchTxt=",
-    "site": "MSIT",
+    "title": "[부산 온디바이스 AI 서비스 실증·확산 사업] 〈상〉산불 감시에서 소방 관제까지…AI 에지 카메라에 맡겨라",
+    "link": "https://www.etnews.com/20261120000012",
+    "site": "ETNEWS",
     "category": "기관",
-    "score": 3,
-    "reason": "과기정통부가 AI 사회적 토론과 공감대 형성을 위한 인사이트 페스티벌 개최",
+    "score": 4,
+    "reason": "AI 엣지 카메라를 활용한 산불 및 소방 관제 실증 사업 추진.",
     "keywords": [
-      "과기정통부",
-      "AI 인사이트",
-      "AI 정책"
+      "온디바이스 AI",
+      "소방 관제",
+      "에지 카메라"
     ]
   },
   {
-    "title": "미래의 피지컬 AI 전문가 발굴! 「2026 청소년 로보틱스 챌린지」 결선 개최",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187986&searchOpt=ALL&searchTxt=",
-    "site": "MSIT",
-    "category": "기관",
-    "score": 3,
-    "reason": "피지컬 AI 산업을 이끌 미래 핵심 인재 발굴을 위해 청소년 로보틱스 챌린지를 개최함",
+    "title": "노타, 독일 ＇피지컬 AI 연구＇ 강화…로봇 최적화 시장 공략",
+    "link": "https://www.etnews.com/20261122000039",
+    "site": "ETNEWS",
+    "category": "민간",
+    "score": 4,
+    "reason": "노타, 독일 피지컬 AI 연구 강화 및 로봇 최적화 시장 진출.",
     "keywords": [
-      "과기정통부",
+      "노타",
       "피지컬 AI",
-      "로보틱스"
+      "로봇 최적화"
     ]
   }
 ]

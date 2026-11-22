@@ -41281,5 +41281,333 @@
       ]
     },
     "briefing": "- 트럼프 미 대통령과 시진핑 주석이 군사 AI 활용 시 인간의 통제를 유지하기로 합의했습니다.\n- 오픈AI가 AI 모델의 내부 추론 정보를 탈취하려는 공격 성공률을 54%에서 0.2%로 낮추는 방어 기술을 강화했습니다.\n- 휴민랩스가 피지컬 AI 분야에 4,700만 달러 규모의 투자를 유치하며 한국 내 로봇 실증 인프라 구축을 추진합니다."
+  },
+  "26.11.23": {
+    "ai_pick": [
+      {
+        "title": "월드모델 기반 로봇기술 확보 모색",
+        "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTEyMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "국방",
+        "score": 4,
+        "reason": "월드모델 기반 로봇기술의 국방 활용 가능성을 모색하고 있음.",
+        "keywords": [
+          "국방부",
+          "월드모델",
+          "로봇기술"
+        ]
+      },
+      {
+        "title": "위험 임무 어디까지 해낼까? ‘피지컬 AI’ 야전 검증 나선다",
+        "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTExNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "국방",
+        "score": 5,
+        "reason": "위험 임무 수행을 위한 피지컬 AI 야전 검증 본격화.",
+        "keywords": [
+          "국방부",
+          "피지컬 AI",
+          "야전 검증"
+        ]
+      },
+      {
+        "title": "전장객체 인식 탁월 ‘에어타이거’ 최우수상",
+        "link": "https://kookbang.dema.mil.kr/newsWeb/20261123/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Z38FF6DtleNS864U64sBr97g98c37Yykqicj6M1r-LVnwVlXOBmz!296806669",
+        "site": "kookbang",
+        "category": "육군",
+        "score": 4,
+        "reason": "전장 객체 인식 성능이 탁월한 AI 기반 드론 기술 입증.",
+        "keywords": [
+          "에어타이거",
+          "전장 객체 인식",
+          "육군 AI"
+        ]
+      },
+      {
+        "title": "제미나이, 산불 무전 30초 이내 감지…음성 인식 오류율 38%에서 22.34%로 낮춰",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42839",
+        "site": "AINEWS",
+        "category": "민간",
+        "score": 3,
+        "reason": "구글 제미나이의 산불 무전 감지 및 인식 정확도 개선.",
+        "keywords": [
+          "제미나이",
+          "구글",
+          "음성인식"
+        ]
+      },
+      {
+        "title": "최태원 회장, “AI 네이티브 대학, 설계부터 바꿔야”...韓日 기업·대학 공동 AI 인재 육성 제안",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42838",
+        "site": "AINEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "AI 네이티브 인재 육성을 위한 대학 체계 개편 필요성 강조.",
+        "keywords": [
+          "최태원",
+          "AI 인재",
+          "대학 교육"
+        ]
+      },
+      {
+        "title": "오픈AI 〃AI가 연구 작업 절반 스스로 완료〃…7개월 만에 성공률 2배",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217657",
+        "site": "AITIMES",
+        "category": "해외",
+        "score": 4,
+        "reason": "오픈AI의 연구 작업 자동화 성공률 향상 및 성능 고도화.",
+        "keywords": [
+          "오픈AI",
+          "연구 자동화",
+          "AI 모델"
+        ]
+      },
+      {
+        "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+        "site": "AITIMES",
+        "category": "민간",
+        "score": 3,
+        "reason": "주요 AI 서비스들의 모바일 앱 개편 및 에이전트 기능 강화.",
+        "keywords": [
+          "챗GPT",
+          "클로드",
+          "AI 에이전트"
+        ]
+      },
+      {
+        "title": "LGU+ 조직개편...〃AI 사업 성과 창출 가속〃",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217651",
+        "site": "AITIMES",
+        "category": "민간",
+        "score": 3,
+        "reason": "LGU+의 AI 사업 실행력 강화를 위한 대규모 조직 개편.",
+        "keywords": [
+          "LGU+",
+          "조직개편",
+          "AI 사업"
+        ]
+      },
+      {
+        "title": "SKT 에이닷을 ＇모두의 AI＇로 전환…＇에이닷올＇ 내달 출시",
+        "link": "https://www.etnews.com/20261120000272",
+        "site": "ETNEWS",
+        "category": "민간",
+        "score": 3,
+        "reason": "SKT의 AI 에이전트 '에이닷' 서비스 범용화 추진.",
+        "keywords": [
+          "SKT",
+          "에이닷",
+          "범용 AI"
+        ]
+      },
+      {
+        "title": "[부산 온디바이스 AI 서비스 실증·확산 사업] 〈상〉산불 감시에서 소방 관제까지…AI 에지 카메라에 맡겨라",
+        "link": "https://www.etnews.com/20261120000012",
+        "site": "ETNEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "AI 엣지 카메라를 활용한 산불 및 소방 관제 실증 사업 추진.",
+        "keywords": [
+          "온디바이스 AI",
+          "소방 관제",
+          "에지 카메라"
+        ]
+      },
+      {
+        "title": "노타, 독일 ＇피지컬 AI 연구＇ 강화…로봇 최적화 시장 공략",
+        "link": "https://www.etnews.com/20261122000039",
+        "site": "ETNEWS",
+        "category": "민간",
+        "score": 4,
+        "reason": "노타, 독일 피지컬 AI 연구 강화 및 로봇 최적화 시장 진출.",
+        "keywords": [
+          "노타",
+          "피지컬 AI",
+          "로봇 최적화"
+        ]
+      }
+    ],
+    "ai_meta": {
+      "generated_at": "2026-11-23T06:11:21+09:00",
+      "trigger": "auto",
+      "model": "gemini-3.1-flash-lite",
+      "target_date": "2026-11-22",
+      "article_prompt": {
+        "prompt_version": "1e60c7e808",
+        "fewshot_count": 68,
+        "fewshot_version": "61296da37b",
+        "exclusion_rule_count": 6,
+        "recent_titles_count": 46
+      },
+      "publication_prompt": {},
+      "candidates": {
+        "articles": 101,
+        "publications": 0
+      },
+      "skipped": {
+        "excluded": 0,
+        "duplicate": 7
+      },
+      "selected": {
+        "articles": 11,
+        "publications": 0
+      }
+    },
+    "categorized": {
+      "국방": [
+        {
+          "title": "월드모델 기반 로봇기술 확보 모색",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTEyMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "국방",
+          "score": 4,
+          "reason": "월드모델 기반 로봇기술의 국방 활용 가능성을 모색하고 있음.",
+          "keywords": [
+            "국방부",
+            "월드모델",
+            "로봇기술"
+          ]
+        },
+        {
+          "title": "위험 임무 어디까지 해낼까? ‘피지컬 AI’ 야전 검증 나선다",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTExNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "국방",
+          "score": 5,
+          "reason": "위험 임무 수행을 위한 피지컬 AI 야전 검증 본격화.",
+          "keywords": [
+            "국방부",
+            "피지컬 AI",
+            "야전 검증"
+          ]
+        }
+      ],
+      "육군": [
+        {
+          "title": "전장객체 인식 탁월 ‘에어타이거’ 최우수상",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261123/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Z38FF6DtleNS864U64sBr97g98c37Yykqicj6M1r-LVnwVlXOBmz!296806669",
+          "site": "kookbang",
+          "category": "육군",
+          "score": 4,
+          "reason": "전장 객체 인식 성능이 탁월한 AI 기반 드론 기술 입증.",
+          "keywords": [
+            "에어타이거",
+            "전장 객체 인식",
+            "육군 AI"
+          ]
+        }
+      ],
+      "민간": [
+        {
+          "title": "제미나이, 산불 무전 30초 이내 감지…음성 인식 오류율 38%에서 22.34%로 낮춰",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42839",
+          "site": "AINEWS",
+          "category": "민간",
+          "score": 3,
+          "reason": "구글 제미나이의 산불 무전 감지 및 인식 정확도 개선.",
+          "keywords": [
+            "제미나이",
+            "구글",
+            "음성인식"
+          ]
+        },
+        {
+          "title": "챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217654",
+          "site": "AITIMES",
+          "category": "민간",
+          "score": 3,
+          "reason": "주요 AI 서비스들의 모바일 앱 개편 및 에이전트 기능 강화.",
+          "keywords": [
+            "챗GPT",
+            "클로드",
+            "AI 에이전트"
+          ]
+        },
+        {
+          "title": "LGU+ 조직개편...〃AI 사업 성과 창출 가속〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217651",
+          "site": "AITIMES",
+          "category": "민간",
+          "score": 3,
+          "reason": "LGU+의 AI 사업 실행력 강화를 위한 대규모 조직 개편.",
+          "keywords": [
+            "LGU+",
+            "조직개편",
+            "AI 사업"
+          ]
+        },
+        {
+          "title": "SKT 에이닷을 ＇모두의 AI＇로 전환…＇에이닷올＇ 내달 출시",
+          "link": "https://www.etnews.com/20261120000272",
+          "site": "ETNEWS",
+          "category": "민간",
+          "score": 3,
+          "reason": "SKT의 AI 에이전트 '에이닷' 서비스 범용화 추진.",
+          "keywords": [
+            "SKT",
+            "에이닷",
+            "범용 AI"
+          ]
+        },
+        {
+          "title": "노타, 독일 ＇피지컬 AI 연구＇ 강화…로봇 최적화 시장 공략",
+          "link": "https://www.etnews.com/20261122000039",
+          "site": "ETNEWS",
+          "category": "민간",
+          "score": 4,
+          "reason": "노타, 독일 피지컬 AI 연구 강화 및 로봇 최적화 시장 진출.",
+          "keywords": [
+            "노타",
+            "피지컬 AI",
+            "로봇 최적화"
+          ]
+        }
+      ],
+      "기관": [
+        {
+          "title": "최태원 회장, “AI 네이티브 대학, 설계부터 바꿔야”...韓日 기업·대학 공동 AI 인재 육성 제안",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42838",
+          "site": "AINEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "AI 네이티브 인재 육성을 위한 대학 체계 개편 필요성 강조.",
+          "keywords": [
+            "최태원",
+            "AI 인재",
+            "대학 교육"
+          ]
+        },
+        {
+          "title": "[부산 온디바이스 AI 서비스 실증·확산 사업] 〈상〉산불 감시에서 소방 관제까지…AI 에지 카메라에 맡겨라",
+          "link": "https://www.etnews.com/20261120000012",
+          "site": "ETNEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "AI 엣지 카메라를 활용한 산불 및 소방 관제 실증 사업 추진.",
+          "keywords": [
+            "온디바이스 AI",
+            "소방 관제",
+            "에지 카메라"
+          ]
+        }
+      ],
+      "해외": [
+        {
+          "title": "오픈AI 〃AI가 연구 작업 절반 스스로 완료〃…7개월 만에 성공률 2배",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217657",
+          "site": "AITIMES",
+          "category": "해외",
+          "score": 4,
+          "reason": "오픈AI의 연구 작업 자동화 성공률 향상 및 성능 고도화.",
+          "keywords": [
+            "오픈AI",
+            "연구 자동화",
+            "AI 모델"
+          ]
+        }
+      ]
+    }
   }
 }
