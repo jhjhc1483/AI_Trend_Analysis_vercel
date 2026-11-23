@@ -1,7 +1,8 @@
 name: Run Python Scripts Daily
 
 on:
-  workflow_dispatch: # 수동 실행 / cron-job.org 외부 트리거
+  # 매일 시작 신호는 Vercel Cron(api/cron-crawl.js, KST 00시대)이 workflow_dispatch(round 1)로 보냄
+  workflow_dispatch: # Vercel Cron / 대시보드 '기사 업데이트' / 수동 실행
     inputs:
       round:
         description: '실행 회차 (1 = 오전 1시분 키, 2 = 오전 1시반분 키)'
@@ -9,9 +10,10 @@ on:
         default: '1'
         type: choice
         options: ['1', '2']
-  # ⚠️ cron-job.org 설정을 마치면 아래 schedule 블록은 삭제하세요 (중복 실행 방지)
+  # 예비용: GitHub 예약은 몇 시간씩 밀리거나 건너뛰는 일이 있어 시작 신호로 쓰지 않음.
+  # 예약으로 실행되면 항상 '실패한 출처만 재시도' 모드 → 그날 이미 수집했으면 거의 할 일 없이 끝나고,
+  # Vercel Cron이 실패해 아무것도 안 돈 날에만 전체 수집을 대신함.
   schedule:
-    # GitHub 예약 실행은 실제로 4~8시간 늦게 시작되는 경우가 많음 (2회차는 1회차 실패분만 재시도)
     - cron: '6 15 * * *' # 매일 0시 6분 (한국시간) — 1회차 (자정 이전 불가: 생성기가 KST 어제 날짜 기사를 고름)
     - cron: '37 15 * * *' # 매일 0시 37분 (한국시간) — 2회차
 
@@ -116,7 +118,8 @@ jobs:
           KEY_3: ${{ secrets.SCRAPER_API_KEY_3 }}
         run: |
           # --alert-only: 실패/의심 소스가 있을 때만 바로 알림 (평소 결과는 메일 발송 후 일일 요약에 포함)
-          if [ "$CRAWL_ROUND" = "2" ]; then
+          # 2회차이거나 GitHub 예약(예비용) 실행이면 오늘 실패한 출처만 재시도 (오늘 기록이 없으면 전체 수집)
+          if [ "$CRAWL_ROUND" = "2" ] || [ "${{ github.event_name }}" = "schedule" ]; then
             python codes/pycode/run_crawlers.py --retry-failed --alert-only
           else
             python codes/pycode/run_crawlers.py --alert-only
