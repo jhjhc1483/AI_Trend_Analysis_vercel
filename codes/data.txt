@@ -1,43 +1,82 @@
-📢26.11.23 AI 일일 동향📢
+📢26.11.24 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 월드모델 기반 로봇기술 확보 모색
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTEyMCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ ‘창이자 방패’ 해상 드론 전투실험
+https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyNTE5MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 위험 임무 어디까지 해낼까? ‘피지컬 AI’ 야전 검증 나선다
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTExNyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ [국기연] 「2026 국방 실물 인공지능 토론회」 개최
+https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59501&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10
 
-[육군]
-◾ 전장객체 인식 탁월 ‘에어타이거’ 최우수상
-https://kookbang.dema.mil.kr/newsWeb/20261123/8/ATCE_CTGR_0010010000/view.do;JSESSIONID_kookbnagWEB=Z38FF6DtleNS864U64sBr97g98c37Yykqicj6M1r-LVnwVlXOBmz!296806669
+◾ 국방인공지능법 심사 본격화…“민간 혁신기술 전력화 위한 입법 시급”
+https://www.etnews.com/20261123000391
+
+◾ 로봇 전쟁의 시대, 한국군은 준비돼 있는가
+https://kookbang.dema.mil.kr/newsWeb/20261124/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=mHkKqAeQ39Upnwzv1ol_7LiiI8P6XhPG5ncMCN5t5xrWqxYh7oKw!965578293
+
+◾ 생성형 AI 시대 신뢰가 곧 전투력
+https://kookbang.dema.mil.kr/newsWeb/20261124/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=mHkKqAeQ39Upnwzv1ol_7LiiI8P6XhPG5ncMCN5t5xrWqxYh7oKw!965578293
 
 [민간]
-◾ 제미나이, 산불 무전 30초 이내 감지…음성 인식 오류율 38%에서 22.34%로 낮춰
-https://www.aitimes.kr/news/articleView.html?idxno=42839
+◾ 애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연
+https://www.aitimes.com/news/articleView.html?idxno=217686
 
-◾ 챗GPT·클로드, 모바일 앱 나란히 개편…AI 에이전트 기능 전면에
-https://www.aitimes.com/news/articleView.html?idxno=217654
+◾ AI 에이전트가 CPU 아키텍처 직접 설계…전력 효율 4.59배 주장
+https://www.aitimes.com/news/articleView.html?idxno=217705
 
-◾ LGU+ 조직개편...〃AI 사업 성과 창출 가속〃
-https://www.aitimes.com/news/articleView.html?idxno=217651
+◾ 오픈AI “GPT가 건설 현장 통역사”…음성 AI로 다국어 소통 지원
+https://www.etnews.com/20261123000395
 
-◾ SKT 에이닷을 ＇모두의 AI＇로 전환…＇에이닷올＇ 내달 출시
-https://www.etnews.com/20261120000272
+◾ 네이버·카카오, AI 에이전트 내달 출격…API·CUA 병행해 안전성 강화
+https://www.etnews.com/20261123000279
 
-◾ 노타, 독일 ＇피지컬 AI 연구＇ 강화…로봇 최적화 시장 공략
-https://www.etnews.com/20261122000039
+◾ 전력반도체 시장 규모, 2031년 92조원…AI·로봇이 성장 이끌어
+https://www.etnews.com/20261123000330
 
 [기관]
-◾ 최태원 회장, “AI 네이티브 대학, 설계부터 바꿔야”...韓日 기업·대학 공동 AI 인재 육성 제안
-https://www.aitimes.kr/news/articleView.html?idxno=42838
+◾ KAIST, 피지컬 AI·제조 AI 에이전트 산업 적용 논의…휴머노이드부터 자율제조까지 제조혁신 전략 공유
+https://www.aitimes.kr/news/articleView.html?idxno=42861
 
-◾ [부산 온디바이스 AI 서비스 실증·확산 사업] 〈상〉산불 감시에서 소방 관제까지…AI 에지 카메라에 맡겨라
-https://www.etnews.com/20261120000012
+◾ 개인정보위, AI 개발에 개인정보 활용 허용…강화된 안전조치·위험평가 기준 마련
+https://www.aitimes.kr/news/articleView.html?idxno=42844
+
+◾ 국가 과학 인공지능 역량 결집해 초지능 과학 혁신을 선도한다
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187990&searchOpt=ALL&searchTxt=
+
+◾ 과기정통부, 인공지능 반도체 업계 현안 점검...국제 협력·공급망 대응 모색
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187984&searchOpt=ALL&searchTxt=
+
+◾ KISTI, 공공 AX 의사결정 지원 서비스＇AXIS＇… AI 신뢰성 인증 획득
+https://www.etnews.com/20261123000402
+
+◾ AI 개인정보 활용 특례 구체화…개인정보위, 시행령 개정안 입법예고
+https://www.etnews.com/20261123000316
 
 [해외]
-◾ 오픈AI 〃AI가 연구 작업 절반 스스로 완료〃…7개월 만에 성공률 2배
-https://www.aitimes.com/news/articleView.html?idxno=217657
+◾ 英 정부, 소버린 국방 AI 개발에 직접 투자…7,000만달러 유치한 ‘에이곤’ 지원
+https://www.aitimes.kr/news/articleView.html?idxno=42858
+
+◾ 오픈AI 수석과학자 “2027년 AI가 AI 개발 가속할 수도”…모델 개발 속도 제한하는 업계 공통 기준 제안
+https://www.aitimes.kr/news/articleView.html?idxno=42843
+
+◾ 오픈AI 연구책임자 〃AGI 달성까지 80% 진전…RSI는 25~50% 수준〃
+https://www.aitimes.com/news/articleView.html?idxno=217703
+
+◾ 엔비디아, 차량에서 직접 추론하는 자율주행 모델 ＇알파마요 2 엣지＇ 공개
+https://www.aitimes.com/news/articleView.html?idxno=217700
+
+◾ 이스트시큐리티, 앤트로픽 사이버 검증 프로그램 합류
+https://www.etnews.com/20261123000375
+
+📚 간행물
+◾ Market Insight 460 : 실험실 자동화 (Lab Automation)
+https://astinet.kr/reports/market-insights/750727
+
+◾ Market Insight 459 : 반도체 공정  핵심 소재
+https://astinet.kr/reports/market-insights/750726
+
+◾ [제1317호] 제37차 AWG 국제회의
+https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1317%ED%98%B8%5D%20%EC%A0%9C37%EC%B0%A8%20AWG%20%EA%B5%AD%EC%A0%9C%ED%9A%8C%EC%9D%98
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

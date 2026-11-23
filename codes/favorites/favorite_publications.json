@@ -1,1 +1,38 @@
-[]
+[
+  {
+    "title": "Market Insight 460 : 실험실 자동화 (Lab Automation)",
+    "link": "https://astinet.kr/reports/market-insights/750727",
+    "site": "KISTI",
+    "category": "간행물",
+    "score": 4,
+    "reason": "AI와 로봇을 활용한 연구 효율화 및 국방 R&D 혁신에 중요함",
+    "keywords": [
+      "실험실 자동화",
+      "연구 효율화"
+    ]
+  },
+  {
+    "title": "Market Insight 459 : 반도체 공정  핵심 소재",
+    "link": "https://astinet.kr/reports/market-insights/750726",
+    "site": "KISTI",
+    "category": "간행물",
+    "score": 5,
+    "reason": "국방 무기체계의 핵심인 반도체 공급망 및 기술 확보에 필수적",
+    "keywords": [
+      "반도체",
+      "핵심 소재"
+    ]
+  },
+  {
+    "title": "[제1317호] 제37차 AWG 국제회의",
+    "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1317%ED%98%B8%5D%20%EC%A0%9C37%EC%B0%A8%20AWG%20%EA%B5%AD%EC%A0%9C%ED%9A%8C%EC%9D%98",
+    "site": "TTA",
+    "category": "간행물",
+    "score": 4,
+    "reason": "글로벌 통신 및 전파 기술 표준화 동향 파악을 위한 필수 자료",
+    "keywords": [
+      "AWG",
+      "국제표준"
+    ]
+  }
+]

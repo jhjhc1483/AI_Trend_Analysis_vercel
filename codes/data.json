@@ -41610,5 +41610,639 @@
       ]
     },
     "briefing": "- 국방부, 전장 상황 파악을 위한 월드모델 기반 로봇 기술 확보 방안을 모색하고 있습니다.\n- 육군, 위험 임무 수행 능력을 검증하기 위해 피지컬 AI 기술의 야전 현장 검증을 추진합니다.\n- 육군 전장 객체 인식 경연에서 우수한 성과를 보인 ‘에어타이거’가 주목받고 있습니다."
+  },
+  "26.11.24": {
+    "ai_pick": [
+      {
+        "title": "‘창이자 방패’ 해상 드론 전투실험",
+        "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyNTE5MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "국방",
+        "score": 5,
+        "reason": "해상 무인체계의 전투 효용성을 검증하는 AI 실증 사업",
+        "keywords": [
+          "해군",
+          "해상 드론",
+          "전투실험"
+        ]
+      },
+      {
+        "title": "[국기연] 「2026 국방 실물 인공지능 토론회」 개최",
+        "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59501&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+        "site": "DAPA",
+        "category": "국방",
+        "score": 4,
+        "reason": "국방 분야 피지컬 AI의 발전 방향을 논의하는 토론회",
+        "keywords": [
+          "국기연",
+          "피지컬 AI"
+        ]
+      },
+      {
+        "title": "英 정부, 소버린 국방 AI 개발에 직접 투자…7,000만달러 유치한 ‘에이곤’ 지원",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42858",
+        "site": "AINEWS",
+        "category": "해외",
+        "score": 5,
+        "reason": "영국 정부가 소버린 국방 AI 확보를 위해 직접 투자 감행",
+        "keywords": [
+          "영국 정부",
+          "국방 AI",
+          "에이곤"
+        ]
+      },
+      {
+        "title": "KAIST, 피지컬 AI·제조 AI 에이전트 산업 적용 논의…휴머노이드부터 자율제조까지 제조혁신 전략 공유",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42861",
+        "site": "AINEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "KAIST가 제조 현장에 피지컬 AI 및 에이전트 적용 전략 제시",
+        "keywords": [
+          "KAIST",
+          "피지컬 AI",
+          "제조혁신"
+        ]
+      },
+      {
+        "title": "개인정보위, AI 개발에 개인정보 활용 허용…강화된 안전조치·위험평가 기준 마련",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42844",
+        "site": "AINEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "AI 개발을 위한 개인정보 활용 가이드라인 및 안전조치 마련",
+        "keywords": [
+          "개인정보위",
+          "AI 정책"
+        ]
+      },
+      {
+        "title": "오픈AI 수석과학자 “2027년 AI가 AI 개발 가속할 수도”…모델 개발 속도 제한하는 업계 공통 기준 제안",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42843",
+        "site": "AINEWS",
+        "category": "해외",
+        "score": 4,
+        "reason": "AI가 AI를 개발하는 시대를 대비한 업계 표준 논의 필요성",
+        "keywords": [
+          "오픈AI",
+          "AGI",
+          "AI 개발"
+        ]
+      },
+      {
+        "title": "오픈AI 연구책임자 〃AGI 달성까지 80% 진전…RSI는 25~50% 수준〃",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217703",
+        "site": "AITIMES",
+        "category": "해외",
+        "score": 4,
+        "reason": "오픈AI가 자율 개선 모델을 통해 AGI에 근접하고 있다고 발표",
+        "keywords": [
+          "오픈AI",
+          "AGI",
+          "RSI"
+        ]
+      },
+      {
+        "title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217686",
+        "site": "AITIMES",
+        "category": "민간",
+        "score": 3,
+        "reason": "애플의 초저지연 실시간 영상 생성 AI 기술 공개",
+        "keywords": [
+          "애플",
+          "패스트프레임"
+        ]
+      },
+      {
+        "title": "AI 에이전트가 CPU 아키텍처 직접 설계…전력 효율 4.59배 주장",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217705",
+        "site": "AITIMES",
+        "category": "민간",
+        "score": 3,
+        "reason": "AI 에이전트를 통한 CPU 아키텍처 설계로 효율성 극대화",
+        "keywords": [
+          "AI 에이전트",
+          "CPU 설계"
+        ]
+      },
+      {
+        "title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 ＇알파마요 2 엣지＇ 공개",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217700",
+        "site": "AITIMES",
+        "category": "해외",
+        "score": 3,
+        "reason": "차량 탑재형 온디바이스 자율주행 모델 공개",
+        "keywords": [
+          "엔비디아",
+          "자율주행",
+          "온디바이스 AI"
+        ]
+      },
+      {
+        "title": "국방인공지능법 심사 본격화…“민간 혁신기술 전력화 위한 입법 시급”",
+        "link": "https://www.etnews.com/20261123000391",
+        "site": "ETNEWS",
+        "category": "국방",
+        "score": 5,
+        "reason": "국방인공지능법 심사가 본격화되어 민간 AI 기술 전력화가 가속화될 전망입니다.",
+        "keywords": [
+          "국방인공지능법",
+          "전력화"
+        ]
+      },
+      {
+        "title": "로봇 전쟁의 시대, 한국군은 준비돼 있는가",
+        "link": "https://kookbang.dema.mil.kr/newsWeb/20261124/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=mHkKqAeQ39Upnwzv1ol_7LiiI8P6XhPG5ncMCN5t5xrWqxYh7oKw!965578293",
+        "site": "kookbang",
+        "category": "국방",
+        "score": 4,
+        "reason": "로봇 전쟁 시대에 대비한 한국군의 현 상태와 전략적 준비를 진단합니다.",
+        "keywords": [
+          "로봇 전쟁",
+          "한국군"
+        ]
+      },
+      {
+        "title": "생성형 AI 시대 신뢰가 곧 전투력",
+        "link": "https://kookbang.dema.mil.kr/newsWeb/20261124/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=mHkKqAeQ39Upnwzv1ol_7LiiI8P6XhPG5ncMCN5t5xrWqxYh7oKw!965578293",
+        "site": "kookbang",
+        "category": "국방",
+        "score": 4,
+        "reason": "생성형 AI의 군사적 활용에 있어 신뢰성 확보가 전투력임을 강조하고 있습니다.",
+        "keywords": [
+          "생성형 AI",
+          "전투력"
+        ]
+      },
+      {
+        "title": "오픈AI “GPT가 건설 현장 통역사”…음성 AI로 다국어 소통 지원",
+        "link": "https://www.etnews.com/20261123000395",
+        "site": "ETNEWS",
+        "category": "민간",
+        "score": 4,
+        "reason": "오픈AI의 음성 AI 기술이 건설 현장 등 다국어 소통 지원에 활용됩니다.",
+        "keywords": [
+          "오픈AI",
+          "음성 AI"
+        ]
+      },
+      {
+        "title": "네이버·카카오, AI 에이전트 내달 출격…API·CUA 병행해 안전성 강화",
+        "link": "https://www.etnews.com/20261123000279",
+        "site": "ETNEWS",
+        "category": "민간",
+        "score": 4,
+        "reason": "네이버와 카카오가 AI 에이전트 서비스를 출시하며 안전성 강화에 나섭니다.",
+        "keywords": [
+          "네이버",
+          "카카오",
+          "AI 에이전트"
+        ]
+      },
+      {
+        "title": "전력반도체 시장 규모, 2031년 92조원…AI·로봇이 성장 이끌어",
+        "link": "https://www.etnews.com/20261123000330",
+        "site": "ETNEWS",
+        "category": "민간",
+        "score": 3,
+        "reason": "AI와 로봇 수요 급증으로 전력반도체 시장의 동반 성장이 예고됩니다.",
+        "keywords": [
+          "전력반도체",
+          "AI"
+        ]
+      },
+      {
+        "title": "국가 과학 인공지능 역량 결집해 초지능 과학 혁신을 선도한다",
+        "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187990&searchOpt=ALL&searchTxt=",
+        "site": "MSIT",
+        "category": "기관",
+        "score": 5,
+        "reason": "과학 분야에 AI를 결합하여 초지능 혁신을 선도하겠다는 국가 차원의 계획입니다.",
+        "keywords": [
+          "과학 AI",
+          "초지능"
+        ]
+      },
+      {
+        "title": "과기정통부, 인공지능 반도체 업계 현안 점검...국제 협력·공급망 대응 모색",
+        "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187984&searchOpt=ALL&searchTxt=",
+        "site": "MSIT",
+        "category": "기관",
+        "score": 4,
+        "reason": "정부가 AI 반도체 현안을 점검하고 국제 공급망 대응 전략을 논의합니다.",
+        "keywords": [
+          "과기정통부",
+          "AI 반도체"
+        ]
+      },
+      {
+        "title": "KISTI, 공공 AX 의사결정 지원 서비스＇AXIS＇… AI 신뢰성 인증 획득",
+        "link": "https://www.etnews.com/20261123000402",
+        "site": "ETNEWS",
+        "category": "기관",
+        "score": 3,
+        "reason": "공공 의사결정 지원 AI 서비스가 신뢰성 인증을 통해 공공성 검증을 마쳤습니다.",
+        "keywords": [
+          "KISTI",
+          "AI 신뢰성"
+        ]
+      },
+      {
+        "title": "AI 개인정보 활용 특례 구체화…개인정보위, 시행령 개정안 입법예고",
+        "link": "https://www.etnews.com/20261123000316",
+        "site": "ETNEWS",
+        "category": "기관",
+        "score": 3,
+        "reason": "AI 기술 발전에 따른 개인정보 활용 기준을 구체화하는 입법이 예고되었습니다.",
+        "keywords": [
+          "개인정보위",
+          "AI 규제"
+        ]
+      },
+      {
+        "title": "이스트시큐리티, 앤트로픽 사이버 검증 프로그램 합류",
+        "link": "https://www.etnews.com/20261123000375",
+        "site": "ETNEWS",
+        "category": "해외",
+        "score": 4,
+        "reason": "이스트시큐리티가 앤트로픽의 사이버 보안 검증 프로그램에 참여합니다.",
+        "keywords": [
+          "앤트로픽",
+          "사이버 보안"
+        ]
+      },
+      {
+        "title": "Market Insight 460 : 실험실 자동화 (Lab Automation)",
+        "link": "https://astinet.kr/reports/market-insights/750727",
+        "site": "KISTI",
+        "category": "간행물",
+        "score": 4,
+        "reason": "AI와 로봇을 활용한 연구 효율화 및 국방 R&D 혁신에 중요함",
+        "keywords": [
+          "실험실 자동화",
+          "연구 효율화"
+        ]
+      },
+      {
+        "title": "Market Insight 459 : 반도체 공정  핵심 소재",
+        "link": "https://astinet.kr/reports/market-insights/750726",
+        "site": "KISTI",
+        "category": "간행물",
+        "score": 5,
+        "reason": "국방 무기체계의 핵심인 반도체 공급망 및 기술 확보에 필수적",
+        "keywords": [
+          "반도체",
+          "핵심 소재"
+        ]
+      },
+      {
+        "title": "[제1317호] 제37차 AWG 국제회의",
+        "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1317%ED%98%B8%5D%20%EC%A0%9C37%EC%B0%A8%20AWG%20%EA%B5%AD%EC%A0%9C%ED%9A%8C%EC%9D%98",
+        "site": "TTA",
+        "category": "간행물",
+        "score": 4,
+        "reason": "글로벌 통신 및 전파 기술 표준화 동향 파악을 위한 필수 자료",
+        "keywords": [
+          "AWG",
+          "국제표준"
+        ]
+      }
+    ],
+    "ai_meta": {
+      "generated_at": "2026-11-24T08:10:32+09:00",
+      "trigger": "auto",
+      "model": "gemini-3.1-flash-lite",
+      "target_date": "2026-11-23",
+      "article_prompt": {
+        "prompt_version": "1e60c7e808",
+        "fewshot_count": 68,
+        "fewshot_version": "61296da37b",
+        "exclusion_rule_count": 6,
+        "recent_titles_count": 35
+      },
+      "publication_prompt": {
+        "prompt_version": "c1d67fa48d"
+      },
+      "candidates": {
+        "articles": 189,
+        "publications": 6
+      },
+      "skipped": {
+        "excluded": 0,
+        "duplicate": 28
+      },
+      "selected": {
+        "articles": 21,
+        "publications": 3
+      }
+    },
+    "categorized": {
+      "국방": [
+        {
+          "title": "‘창이자 방패’ 해상 드론 전투실험",
+          "link": "https://www.mnd.go.kr/mnd/161/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDMlMkZEUElNXzEyNTE5MSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "국방",
+          "score": 5,
+          "reason": "해상 무인체계의 전투 효용성을 검증하는 AI 실증 사업",
+          "keywords": [
+            "해군",
+            "해상 드론",
+            "전투실험"
+          ]
+        },
+        {
+          "title": "[국기연] 「2026 국방 실물 인공지능 토론회」 개최",
+          "link": "https://www.dapa.go.kr/dapa/doc/selectDoc.do?docSeq=59501&menuSeq=3069&bbsSeq=326&currentPageNo=1&recordCountPerPage=10",
+          "site": "DAPA",
+          "category": "국방",
+          "score": 4,
+          "reason": "국방 분야 피지컬 AI의 발전 방향을 논의하는 토론회",
+          "keywords": [
+            "국기연",
+            "피지컬 AI"
+          ]
+        },
+        {
+          "title": "국방인공지능법 심사 본격화…“민간 혁신기술 전력화 위한 입법 시급”",
+          "link": "https://www.etnews.com/20261123000391",
+          "site": "ETNEWS",
+          "category": "국방",
+          "score": 5,
+          "reason": "국방인공지능법 심사가 본격화되어 민간 AI 기술 전력화가 가속화될 전망입니다.",
+          "keywords": [
+            "국방인공지능법",
+            "전력화"
+          ]
+        },
+        {
+          "title": "로봇 전쟁의 시대, 한국군은 준비돼 있는가",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261124/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=mHkKqAeQ39Upnwzv1ol_7LiiI8P6XhPG5ncMCN5t5xrWqxYh7oKw!965578293",
+          "site": "kookbang",
+          "category": "국방",
+          "score": 4,
+          "reason": "로봇 전쟁 시대에 대비한 한국군의 현 상태와 전략적 준비를 진단합니다.",
+          "keywords": [
+            "로봇 전쟁",
+            "한국군"
+          ]
+        },
+        {
+          "title": "생성형 AI 시대 신뢰가 곧 전투력",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261124/1/ATCE_CTGR_0050040000/view.do;JSESSIONID_kookbnagWEB=mHkKqAeQ39Upnwzv1ol_7LiiI8P6XhPG5ncMCN5t5xrWqxYh7oKw!965578293",
+          "site": "kookbang",
+          "category": "국방",
+          "score": 4,
+          "reason": "생성형 AI의 군사적 활용에 있어 신뢰성 확보가 전투력임을 강조하고 있습니다.",
+          "keywords": [
+            "생성형 AI",
+            "전투력"
+          ]
+        }
+      ],
+      "해외": [
+        {
+          "title": "英 정부, 소버린 국방 AI 개발에 직접 투자…7,000만달러 유치한 ‘에이곤’ 지원",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42858",
+          "site": "AINEWS",
+          "category": "해외",
+          "score": 5,
+          "reason": "영국 정부가 소버린 국방 AI 확보를 위해 직접 투자 감행",
+          "keywords": [
+            "영국 정부",
+            "국방 AI",
+            "에이곤"
+          ]
+        },
+        {
+          "title": "오픈AI 수석과학자 “2027년 AI가 AI 개발 가속할 수도”…모델 개발 속도 제한하는 업계 공통 기준 제안",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42843",
+          "site": "AINEWS",
+          "category": "해외",
+          "score": 4,
+          "reason": "AI가 AI를 개발하는 시대를 대비한 업계 표준 논의 필요성",
+          "keywords": [
+            "오픈AI",
+            "AGI",
+            "AI 개발"
+          ]
+        },
+        {
+          "title": "오픈AI 연구책임자 〃AGI 달성까지 80% 진전…RSI는 25~50% 수준〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217703",
+          "site": "AITIMES",
+          "category": "해외",
+          "score": 4,
+          "reason": "오픈AI가 자율 개선 모델을 통해 AGI에 근접하고 있다고 발표",
+          "keywords": [
+            "오픈AI",
+            "AGI",
+            "RSI"
+          ]
+        },
+        {
+          "title": "엔비디아, 차량에서 직접 추론하는 자율주행 모델 ＇알파마요 2 엣지＇ 공개",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217700",
+          "site": "AITIMES",
+          "category": "해외",
+          "score": 3,
+          "reason": "차량 탑재형 온디바이스 자율주행 모델 공개",
+          "keywords": [
+            "엔비디아",
+            "자율주행",
+            "온디바이스 AI"
+          ]
+        },
+        {
+          "title": "이스트시큐리티, 앤트로픽 사이버 검증 프로그램 합류",
+          "link": "https://www.etnews.com/20261123000375",
+          "site": "ETNEWS",
+          "category": "해외",
+          "score": 4,
+          "reason": "이스트시큐리티가 앤트로픽의 사이버 보안 검증 프로그램에 참여합니다.",
+          "keywords": [
+            "앤트로픽",
+            "사이버 보안"
+          ]
+        }
+      ],
+      "기관": [
+        {
+          "title": "KAIST, 피지컬 AI·제조 AI 에이전트 산업 적용 논의…휴머노이드부터 자율제조까지 제조혁신 전략 공유",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42861",
+          "site": "AINEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "KAIST가 제조 현장에 피지컬 AI 및 에이전트 적용 전략 제시",
+          "keywords": [
+            "KAIST",
+            "피지컬 AI",
+            "제조혁신"
+          ]
+        },
+        {
+          "title": "개인정보위, AI 개발에 개인정보 활용 허용…강화된 안전조치·위험평가 기준 마련",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42844",
+          "site": "AINEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "AI 개발을 위한 개인정보 활용 가이드라인 및 안전조치 마련",
+          "keywords": [
+            "개인정보위",
+            "AI 정책"
+          ]
+        },
+        {
+          "title": "국가 과학 인공지능 역량 결집해 초지능 과학 혁신을 선도한다",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187990&searchOpt=ALL&searchTxt=",
+          "site": "MSIT",
+          "category": "기관",
+          "score": 5,
+          "reason": "과학 분야에 AI를 결합하여 초지능 혁신을 선도하겠다는 국가 차원의 계획입니다.",
+          "keywords": [
+            "과학 AI",
+            "초지능"
+          ]
+        },
+        {
+          "title": "과기정통부, 인공지능 반도체 업계 현안 점검...국제 협력·공급망 대응 모색",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187984&searchOpt=ALL&searchTxt=",
+          "site": "MSIT",
+          "category": "기관",
+          "score": 4,
+          "reason": "정부가 AI 반도체 현안을 점검하고 국제 공급망 대응 전략을 논의합니다.",
+          "keywords": [
+            "과기정통부",
+            "AI 반도체"
+          ]
+        },
+        {
+          "title": "KISTI, 공공 AX 의사결정 지원 서비스＇AXIS＇… AI 신뢰성 인증 획득",
+          "link": "https://www.etnews.com/20261123000402",
+          "site": "ETNEWS",
+          "category": "기관",
+          "score": 3,
+          "reason": "공공 의사결정 지원 AI 서비스가 신뢰성 인증을 통해 공공성 검증을 마쳤습니다.",
+          "keywords": [
+            "KISTI",
+            "AI 신뢰성"
+          ]
+        },
+        {
+          "title": "AI 개인정보 활용 특례 구체화…개인정보위, 시행령 개정안 입법예고",
+          "link": "https://www.etnews.com/20261123000316",
+          "site": "ETNEWS",
+          "category": "기관",
+          "score": 3,
+          "reason": "AI 기술 발전에 따른 개인정보 활용 기준을 구체화하는 입법이 예고되었습니다.",
+          "keywords": [
+            "개인정보위",
+            "AI 규제"
+          ]
+        }
+      ],
+      "민간": [
+        {
+          "title": "애플, 실시간 영상 생성 AI ‘패스트프레임’ 공개...36ms 지연",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217686",
+          "site": "AITIMES",
+          "category": "민간",
+          "score": 3,
+          "reason": "애플의 초저지연 실시간 영상 생성 AI 기술 공개",
+          "keywords": [
+            "애플",
+            "패스트프레임"
+          ]
+        },
+        {
+          "title": "AI 에이전트가 CPU 아키텍처 직접 설계…전력 효율 4.59배 주장",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217705",
+          "site": "AITIMES",
+          "category": "민간",
+          "score": 3,
+          "reason": "AI 에이전트를 통한 CPU 아키텍처 설계로 효율성 극대화",
+          "keywords": [
+            "AI 에이전트",
+            "CPU 설계"
+          ]
+        },
+        {
+          "title": "오픈AI “GPT가 건설 현장 통역사”…음성 AI로 다국어 소통 지원",
+          "link": "https://www.etnews.com/20261123000395",
+          "site": "ETNEWS",
+          "category": "민간",
+          "score": 4,
+          "reason": "오픈AI의 음성 AI 기술이 건설 현장 등 다국어 소통 지원에 활용됩니다.",
+          "keywords": [
+            "오픈AI",
+            "음성 AI"
+          ]
+        },
+        {
+          "title": "네이버·카카오, AI 에이전트 내달 출격…API·CUA 병행해 안전성 강화",
+          "link": "https://www.etnews.com/20261123000279",
+          "site": "ETNEWS",
+          "category": "민간",
+          "score": 4,
+          "reason": "네이버와 카카오가 AI 에이전트 서비스를 출시하며 안전성 강화에 나섭니다.",
+          "keywords": [
+            "네이버",
+            "카카오",
+            "AI 에이전트"
+          ]
+        },
+        {
+          "title": "전력반도체 시장 규모, 2031년 92조원…AI·로봇이 성장 이끌어",
+          "link": "https://www.etnews.com/20261123000330",
+          "site": "ETNEWS",
+          "category": "민간",
+          "score": 3,
+          "reason": "AI와 로봇 수요 급증으로 전력반도체 시장의 동반 성장이 예고됩니다.",
+          "keywords": [
+            "전력반도체",
+            "AI"
+          ]
+        }
+      ],
+      "간행물": [
+        {
+          "title": "Market Insight 460 : 실험실 자동화 (Lab Automation)",
+          "link": "https://astinet.kr/reports/market-insights/750727",
+          "site": "KISTI",
+          "category": "간행물",
+          "score": 4,
+          "reason": "AI와 로봇을 활용한 연구 효율화 및 국방 R&D 혁신에 중요함",
+          "keywords": [
+            "실험실 자동화",
+            "연구 효율화"
+          ]
+        },
+        {
+          "title": "Market Insight 459 : 반도체 공정  핵심 소재",
+          "link": "https://astinet.kr/reports/market-insights/750726",
+          "site": "KISTI",
+          "category": "간행물",
+          "score": 5,
+          "reason": "국방 무기체계의 핵심인 반도체 공급망 및 기술 확보에 필수적",
+          "keywords": [
+            "반도체",
+            "핵심 소재"
+          ]
+        },
+        {
+          "title": "[제1317호] 제37차 AWG 국제회의",
+          "link": "https://www.tta.or.kr/tta/weeklyDataList?rep=1&key=310&title=%5B%EC%A0%9C1317%ED%98%B8%5D%20%EC%A0%9C37%EC%B0%A8%20AWG%20%EA%B5%AD%EC%A0%9C%ED%9A%8C%EC%9D%98",
+          "site": "TTA",
+          "category": "간행물",
+          "score": 4,
+          "reason": "글로벌 통신 및 전파 기술 표준화 동향 파악을 위한 필수 자료",
+          "keywords": [
+            "AWG",
+            "국제표준"
+          ]
+        }
+      ]
+    }
   }
 }
