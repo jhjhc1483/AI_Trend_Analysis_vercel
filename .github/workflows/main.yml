@@ -1,8 +1,9 @@
 name: Run Python Scripts Daily
 
 on:
-  # 매일 시작 신호는 Vercel Cron(api/cron-crawl.js, KST 00시대)이 workflow_dispatch(round 1)로 보냄
-  workflow_dispatch: # Vercel Cron / 대시보드 '기사 업데이트' / 수동 실행
+  # 매일 시작 신호는 Claude 예약 작업(매일 03:43 KST)이 workflow_dispatch(round 1)로 보냄
+  # (대안: Vercel Cron → api/cron-crawl.js, CRON_SECRET 등록 시 동작)
+  workflow_dispatch: # Claude 예약 작업 / 대시보드 '기사 업데이트' / 수동 실행
     inputs:
       round:
         description: '실행 회차 (1 = 오전 1시분 키, 2 = 오전 1시반분 키)'

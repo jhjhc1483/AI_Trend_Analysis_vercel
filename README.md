@@ -75,10 +75,13 @@
 ```
 
 - 앞 단계가 끝나면 다음 단계가 자동으로 이어서 실행됩니다. 메일은 오디오 생성이 끝나는 즉시 발송됩니다.
-- 매일 시작 신호는 **Vercel Cron**이 보냅니다. (`vercel.json`의 `crons` → `api/cron-crawl.js` → `main.yml` 실행)
-  - 실행 시각은 **KST 00시대**(00:00~00:59)입니다. Vercel Hobby 요금제는 지정한 시간대 안의 어느 시점에 실행합니다.
+- 매일 시작 신호는 **Claude 예약 작업**이 보냅니다. (매일 **03:43 KST**)
+  - 저장소 밖(claude.ai 계정의 예약 작업)에 설정되어 있습니다. 예약 작업 이름은 'AI 동향 매일 크롤링 시작 (03:43 KST)'입니다.
+  - 전용 세션이 오늘 `main.yml` 실행이 이미 있는지 확인한 뒤, 없을 때만 `main.yml`을 실행합니다(round 1).
   - 자정 전으로 옮기면 안 됩니다. AI 자동 선정이 KST 기준 '어제' 날짜 기사를 고르기 때문입니다.
-  - Vercel 환경변수 `CRON_SECRET`이 있어야 동작합니다. 없으면 이 주소를 누가 호출해도 거부합니다.
+- 대안(현재 꺼져 있음): **Vercel Cron**도 쓸 수 있습니다. (`vercel.json`의 `crons` → `api/cron-crawl.js`, KST 00시대)
+  - Vercel 환경변수 `CRON_SECRET`을 등록하면 동작합니다. 등록하지 않으면 모든 호출을 거부합니다.
+  - 둘 다 켜져 있어도 Claude 예약 작업은 그날 이미 실행된 크롤링이 있으면 새로 실행하지 않습니다.
 - `main.yml`의 GitHub 예약(00:06, 00:37 KST)은 **예비용**입니다. GitHub 예약은 몇 시간씩 밀리거나 건너뛰는 일이 있어 시작 신호로 쓰지 않습니다.
   - 예약으로 실행되면 항상 '오늘 실패한 출처만 재시도' 모드라, 그날 이미 수집했으면 거의 할 일 없이 끝납니다.
   - Vercel Cron이 실패해 그날 아무것도 안 돌았으면 전체 수집을 대신합니다.
@@ -127,7 +130,7 @@
   - `api/subscribe.js`의 `SUBSCRIBE_OPEN`을 `true`로
   - `subscribe.html`의 `SUBSCRIBE_OPEN`을 `true`로
   - `index.html`의 Subscribe 버튼(`subscribeRedirectBtn`)에서 `style="display:none"` 제거
-- 크롤링 시작 시각: `vercel.json`의 `crons` → `schedule` (UTC 기준, KST = UTC + 9시간). 예비용 GitHub 예약은 `.github/workflows/main.yml`의 `cron`
+- 크롤링 시작 시각: claude.ai의 예약 작업 'AI 동향 매일 크롤링 시작 (03:43 KST)'에서 변경. (대안인 Vercel Cron은 `vercel.json`의 `crons`, 예비용 GitHub 예약은 `.github/workflows/main.yml`의 `cron`. 둘 다 UTC 기준, KST = UTC + 9시간)
 
 ---
 
@@ -137,7 +140,7 @@
 |---|:---:|:---:|---|
 | `GITHUB_TOKEN` | ✅ | (자동) | 대시보드·구독 API가 저장소 파일을 읽고 쓰기 |
 | `ADMIN_PASSWORD` | ✅ | | 대시보드 관리자 기능 |
-| `CRON_SECRET` | ✅ | | 매일 크롤링 시작(Vercel Cron → `api/cron-crawl.js`) 인증. 16자 이상 임의 문자열 |
+| `CRON_SECRET` | ✅ (선택) | | Vercel Cron으로 크롤링을 시작할 때만 필요 (`api/cron-crawl.js` 인증). 16자 이상 임의 문자열 |
 | `SUBSCRIBER_ENCRYPTION_KEY` | ✅ | ✅ | 구독자 목록 암호화 + 메일 속 해지/연장 링크 서명 (**두 곳에 같은 값**, 32자 이상) |
 | `GEMINI_API_KEY` | | ✅ | AI 자동 선정·브리핑 |
 | `GMAIL_APP_PASSWORD` | | ✅ | 구독자 메일·관리자 알림 발송 (Gmail 앱 비밀번호) |
