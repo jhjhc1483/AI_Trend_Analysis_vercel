@@ -1,7 +1,9 @@
 import os
 import sys
 import time
+import signal
 import subprocess
+import threading
 import re
 import argparse
 import functools
@@ -191,6 +193,24 @@ def resolve_best_scraper_api_key():
     return current_key, f"{current_name} (크레딧 부족 주의)"
 
 
+def kill_process_tree(proc):
+    """크롤러와 그 하위 프로세스(Selenium 브라우저 등)를 함께 강제 종료합니다."""
+    try:
+        if os.name != "nt":
+            os.killpg(proc.pid, signal.SIGKILL)  # start_new_session=True 로 만든 프로세스 그룹 전체
+        else:
+            proc.kill()
+    except (ProcessLookupError, PermissionError, OSError):
+        try:
+            proc.kill()
+        except Exception:
+            pass
+    try:
+        proc.wait(timeout=10)
+    except Exception:
+        pass
+
+
 def run_single_crawler(script_name, display_name):
     """
     개별 크롤러 스크립트를 실행하고 결과를 집계합니다.
@@ -233,22 +253,30 @@ def run_single_crawler(script_name, display_name):
             bufsize=1,
             env=env,
             encoding="utf-8",
-            errors="replace"
+            errors="replace",
+            start_new_session=(os.name != "nt"),  # 시간 초과 시 하위 프로세스까지 함께 종료하기 위해
         )
 
-        try:
+        # 출력은 별도 스레드에서 읽고, 본 스레드는 시간 제한만 지킴
+        # (예전에는 출력이 계속 나오는 동안 시간 제한이 걸리지 않아, 사이트가 느리면 수십 분씩 멈췄음)
+        def pump_output():
             for line in proc.stdout:
                 line = mask_secrets(line)  # 메일·crawl_log·콘솔 어디에도 키 값이 남지 않도록
                 sys.stdout.write(line)
                 sys.stdout.flush()
                 output_lines.append(line)
+
+        reader = threading.Thread(target=pump_output, daemon=True)
+        reader.start()
+        try:
             proc.wait(timeout=TIMEOUT_PER_SCRIPT)
             return_code = proc.returncode
         except subprocess.TimeoutExpired:
-            proc.kill()
+            kill_process_tree(proc)
             return_code = -1
             error_summary = f"타임아웃 초과 ({TIMEOUT_PER_SCRIPT}초)"
             print(f"❌ {display_name} 실행 중 타임아웃 발생 (강제 종료)")
+        reader.join(timeout=10)
 
     except Exception as e:
         return_code = 1
