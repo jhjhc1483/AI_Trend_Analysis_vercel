@@ -1022,5 +1022,37 @@
         "년": "2026",
         "월": "11",
         "일": "12"
+    },
+    {
+        "제목": "KISTI DATA INSIGHT 제 70호 : 데이터로 살펴본 AX 시대 탄소중립과 에너...",
+        "분류": "데이터 인사이트",
+        "링크": "https://www.kisti.re.kr/post/data-insight/7167",
+        "년": "2026",
+        "월": "11",
+        "일": "24"
+    },
+    {
+        "제목": "Market Insight 461 : 해양 유래 바이오 소재",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750728",
+        "년": "2026",
+        "월": "11",
+        "일": "23"
+    },
+    {
+        "제목": "Market Insight 460 : 실험실 자동화 (Lab Automation)",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750727",
+        "년": "2026",
+        "월": "11",
+        "일": "23"
+    },
+    {
+        "제목": "Market Insight 459 : 반도체 공정  핵심 소재",
+        "분류": "ASTI 마켓 인사이트",
+        "링크": "https://astinet.kr/reports/market-insights/750726",
+        "년": "2026",
+        "월": "11",
+        "일": "23"
     }
 ]
