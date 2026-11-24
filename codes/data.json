@@ -42245,5 +42245,481 @@
       ]
     },
     "briefing": "- 국방인공지능법 심사가 본격화되면서 민간 혁신기술의 신속한 전력화를 위한 입법 필요성이 제기되었습니다.\n- 영국 정부가 소버린 국방 AI 자립을 위해 국방 AI 기업 '에이곤'에 대한 직접 투자를 결정했습니다.\n- 국기연이 2026 국방 실물 인공지능 토론회를 개최하여 미래 로봇 전쟁 시대의 우리 군 대비 태세를 논의했습니다."
+  },
+  "26.11.25": {
+    "ai_pick": [
+      {
+        "title": "병역의무자, 전자책 무료로 본다",
+        "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI1MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "국방",
+        "score": 5,
+        "reason": "한화에어로스페이스가 창원에 10조원 규모의 국방 AI 데이터센터를 구축합니다.",
+        "keywords": [
+          "한화에어로스페이스",
+          "국방AI데이터센터"
+        ]
+      },
+      {
+        "title": "러시아 군용기 KADIZ 진입…韓 강력 항의",
+        "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "국방",
+        "score": 4,
+        "reason": "KT가 육군교육사령부와 협력해 AI 기반 지휘통제체계를 고도화합니다.",
+        "keywords": [
+          "KT",
+          "육군교육사령부",
+          "지휘통제체계"
+        ]
+      },
+      {
+        "title": "“승리가 국방의 전략이고 정책”",
+        "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "국방",
+        "score": 4,
+        "reason": "국방정보통신협회에서 제로 트러스트 및 AI 기반 국방 보안 전략을 모색합니다.",
+        "keywords": [
+          "국방정보통신협회",
+          "국방보안",
+          "AI"
+        ]
+      },
+      {
+        "title": "민간 제품 활용 ‘군수품 업그레이드’",
+        "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "기관",
+        "score": 5,
+        "reason": "국가AI전략위가 창원 방위산업 현장을 찾아 AI 전환 가속화 방안을 논의했습니다.",
+        "keywords": [
+          "국가AI전략위원회",
+          "방위산업",
+          "AI전환"
+        ]
+      },
+      {
+        "title": "AI 산업육성·개인정보 보호 조화 방안 논의",
+        "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "기관",
+        "score": 4,
+        "reason": "정부가 내년 AI 예산을 1.6배 확대하고 풀스택 AI 수출을 적극 추진합니다.",
+        "keywords": [
+          "AI예산",
+          "풀스택AI",
+          "AX"
+        ]
+      },
+      {
+        "title": "‘녹화사업 주도·지휘’ 故 박준병 보국훈장 서훈 취소",
+        "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "민간",
+        "score": 4,
+        "reason": "삼성전자가 AI 메모리와 피지컬 AI 역량 강화를 위해 기술 인재를 전진 배치했습니다.",
+        "keywords": [
+          "삼성전자",
+          "AI메모리",
+          "피지컬AI"
+        ]
+      },
+      {
+        "title": "국가보훈부, 국가유공자 주거개선사업 올해 첫 헌정식 개최",
+        "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "민간",
+        "score": 3,
+        "reason": "삼성SDS가 임원 인사를 통해 AI 인프라 및 AX 사업 확대를 가속화합니다.",
+        "keywords": [
+          "삼성SDS",
+          "AX",
+          "AI인프라"
+        ]
+      },
+      {
+        "title": "육군, 연합작전 수행 역량 강화",
+        "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTI1NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "해외",
+        "score": 5,
+        "reason": "젠슨 황 CEO가 엔비디아에 복귀하며 AI 산업계의 지배구조 변화가 주목됩니다.",
+        "keywords": [
+          "엔비디아",
+          "젠슨황",
+          "AI"
+        ]
+      },
+      {
+        "title": "2배 늘린 실탄 사격 대공방어 ‘이상 무’",
+        "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTI1NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "해외",
+        "score": 4,
+        "reason": "앤트로픽이 AI의 코드 검토부터 수정까지 자동화하는 '클로드 십'을 출시했습니다.",
+        "keywords": [
+          "앤트로픽",
+          "클로드십",
+          "자동화"
+        ]
+      },
+      {
+        "title": "미래 전장 핵심기술 발전방안 모색",
+        "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTI1NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "해외",
+        "score": 3,
+        "reason": "미국 AITX가 교정시설 자율 순찰을 위한 AI 로봇 실증 사업에 착수했습니다.",
+        "keywords": [
+          "AITX",
+          "AI로봇",
+          "자율순찰"
+        ]
+      },
+      {
+        "title": "정부, 국가 대표 휴머노이드 뽑는다…10개팀 선발해 성장 지원",
+        "link": "https://www.etnews.com/20261124000347",
+        "site": "ETNEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "정부가 휴머노이드 국가대표 팀 선발 및 육성 지원 계획 발표",
+        "keywords": [
+          "과기정통부",
+          "휴머노이드"
+        ]
+      },
+      {
+        "title": "산업부, ＇가전 AX제품화지원센터＇ 개소…5년간 170억원 투입·AI가전 학습데이터 15종 구축",
+        "link": "https://www.etnews.com/20261124000346",
+        "site": "ETNEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "산업부 가전 AX제품화지원센터 개소로 AI 가전 생태계 강화",
+        "keywords": [
+          "산업부",
+          "AI가전",
+          "AX"
+        ]
+      },
+      {
+        "title": "AI가 읽을 수 있는 전술",
+        "link": "https://kookbang.dema.mil.kr/newsWeb/20261125/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=t3kO6BxX3ZMW7hR63CM35HgTKCSH6qKuNUxHdw06SwlLaY1v8Yii!296806669",
+        "site": "kookbang",
+        "category": "국방",
+        "score": 4,
+        "reason": "전술의 디지털화 및 AI 기반 전장 데이터 분석 효율성 강조",
+        "keywords": [
+          "국방 AI",
+          "전술체계"
+        ]
+      },
+      {
+        "title": "AI 안보시대, 북 핵·미사일 위기에 ‘이중적’ 장치 마련",
+        "link": "https://kookbang.dema.mil.kr/newsWeb/20261125/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=t3kO6BxX3ZMW7hR63CM35HgTKCSH6qKuNUxHdw06SwlLaY1v8Yii!296806669",
+        "site": "kookbang",
+        "category": "국방",
+        "score": 5,
+        "reason": "북한 핵·미사일 대응을 위한 AI 기반 이중적 안보체계 구축 필요성",
+        "keywords": [
+          "AI 안보",
+          "국방 AI"
+        ]
+      },
+      {
+        "title": "Next-X 휴머노이드 챌린지 대회 사전 설명회 개최",
+        "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187991&searchOpt=ALL&searchTxt=",
+        "site": "MSIT",
+        "category": "기관",
+        "score": 3,
+        "reason": "휴머노이드 기술 경쟁력 강화를 위한 챌린지 대회 사전 설명회 개최",
+        "keywords": [
+          "휴머노이드",
+          "Next-X"
+        ]
+      },
+      {
+        "title": "인공지능·인간형 로봇부터 전기차까지, 미래 일상을 움직일 ‘차세대 이차전지’ 핵심 성과 한자리에",
+        "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187993&searchOpt=ALL&searchTxt=",
+        "site": "MSIT",
+        "category": "기관",
+        "score": 3,
+        "reason": "차세대 배터리 기술 성과 공유를 통한 AI·로봇 산업의 에너지 기반 마련",
+        "keywords": [
+          "과기정통부",
+          "이차전지",
+          "피지컬AI"
+        ]
+      },
+      {
+        "title": "KISTI DATA INSIGHT 제 70호 : 데이터로 살펴본 AX 시대 탄소중립과 에너...",
+        "link": "https://www.kisti.re.kr/post/data-insight/7167",
+        "site": "KISTI",
+        "category": "간행물",
+        "score": 4,
+        "reason": "AI와 탄소중립의 융합을 통한 미래 기술 전략을 제시함",
+        "keywords": [
+          "AX",
+          "탄소중립",
+          "AI"
+        ]
+      }
+    ],
+    "ai_meta": {
+      "generated_at": "2026-11-25T07:01:40+09:00",
+      "trigger": "auto",
+      "model": "gemini-3.1-flash-lite",
+      "target_date": "2026-11-24",
+      "article_prompt": {
+        "prompt_version": "1e60c7e808",
+        "fewshot_count": 68,
+        "fewshot_version": "61296da37b",
+        "exclusion_rule_count": 6,
+        "recent_titles_count": 40
+      },
+      "publication_prompt": {
+        "prompt_version": "c1d67fa48d"
+      },
+      "candidates": {
+        "articles": 202,
+        "publications": 1
+      },
+      "skipped": {
+        "excluded": 0,
+        "duplicate": 20
+      },
+      "selected": {
+        "articles": 16,
+        "publications": 1
+      }
+    },
+    "categorized": {
+      "국방": [
+        {
+          "title": "병역의무자, 전자책 무료로 본다",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI1MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "국방",
+          "score": 5,
+          "reason": "한화에어로스페이스가 창원에 10조원 규모의 국방 AI 데이터센터를 구축합니다.",
+          "keywords": [
+            "한화에어로스페이스",
+            "국방AI데이터센터"
+          ]
+        },
+        {
+          "title": "러시아 군용기 KADIZ 진입…韓 강력 항의",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "국방",
+          "score": 4,
+          "reason": "KT가 육군교육사령부와 협력해 AI 기반 지휘통제체계를 고도화합니다.",
+          "keywords": [
+            "KT",
+            "육군교육사령부",
+            "지휘통제체계"
+          ]
+        },
+        {
+          "title": "“승리가 국방의 전략이고 정책”",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "국방",
+          "score": 4,
+          "reason": "국방정보통신협회에서 제로 트러스트 및 AI 기반 국방 보안 전략을 모색합니다.",
+          "keywords": [
+            "국방정보통신협회",
+            "국방보안",
+            "AI"
+          ]
+        },
+        {
+          "title": "AI가 읽을 수 있는 전술",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261125/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=t3kO6BxX3ZMW7hR63CM35HgTKCSH6qKuNUxHdw06SwlLaY1v8Yii!296806669",
+          "site": "kookbang",
+          "category": "국방",
+          "score": 4,
+          "reason": "전술의 디지털화 및 AI 기반 전장 데이터 분석 효율성 강조",
+          "keywords": [
+            "국방 AI",
+            "전술체계"
+          ]
+        },
+        {
+          "title": "AI 안보시대, 북 핵·미사일 위기에 ‘이중적’ 장치 마련",
+          "link": "https://kookbang.dema.mil.kr/newsWeb/20261125/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=t3kO6BxX3ZMW7hR63CM35HgTKCSH6qKuNUxHdw06SwlLaY1v8Yii!296806669",
+          "site": "kookbang",
+          "category": "국방",
+          "score": 5,
+          "reason": "북한 핵·미사일 대응을 위한 AI 기반 이중적 안보체계 구축 필요성",
+          "keywords": [
+            "AI 안보",
+            "국방 AI"
+          ]
+        }
+      ],
+      "기관": [
+        {
+          "title": "민간 제품 활용 ‘군수품 업그레이드’",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "기관",
+          "score": 5,
+          "reason": "국가AI전략위가 창원 방위산업 현장을 찾아 AI 전환 가속화 방안을 논의했습니다.",
+          "keywords": [
+            "국가AI전략위원회",
+            "방위산업",
+            "AI전환"
+          ]
+        },
+        {
+          "title": "AI 산업육성·개인정보 보호 조화 방안 논의",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "기관",
+          "score": 4,
+          "reason": "정부가 내년 AI 예산을 1.6배 확대하고 풀스택 AI 수출을 적극 추진합니다.",
+          "keywords": [
+            "AI예산",
+            "풀스택AI",
+            "AX"
+          ]
+        },
+        {
+          "title": "정부, 국가 대표 휴머노이드 뽑는다…10개팀 선발해 성장 지원",
+          "link": "https://www.etnews.com/20261124000347",
+          "site": "ETNEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "정부가 휴머노이드 국가대표 팀 선발 및 육성 지원 계획 발표",
+          "keywords": [
+            "과기정통부",
+            "휴머노이드"
+          ]
+        },
+        {
+          "title": "산업부, ＇가전 AX제품화지원센터＇ 개소…5년간 170억원 투입·AI가전 학습데이터 15종 구축",
+          "link": "https://www.etnews.com/20261124000346",
+          "site": "ETNEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "산업부 가전 AX제품화지원센터 개소로 AI 가전 생태계 강화",
+          "keywords": [
+            "산업부",
+            "AI가전",
+            "AX"
+          ]
+        },
+        {
+          "title": "Next-X 휴머노이드 챌린지 대회 사전 설명회 개최",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187991&searchOpt=ALL&searchTxt=",
+          "site": "MSIT",
+          "category": "기관",
+          "score": 3,
+          "reason": "휴머노이드 기술 경쟁력 강화를 위한 챌린지 대회 사전 설명회 개최",
+          "keywords": [
+            "휴머노이드",
+            "Next-X"
+          ]
+        },
+        {
+          "title": "인공지능·인간형 로봇부터 전기차까지, 미래 일상을 움직일 ‘차세대 이차전지’ 핵심 성과 한자리에",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187993&searchOpt=ALL&searchTxt=",
+          "site": "MSIT",
+          "category": "기관",
+          "score": 3,
+          "reason": "차세대 배터리 기술 성과 공유를 통한 AI·로봇 산업의 에너지 기반 마련",
+          "keywords": [
+            "과기정통부",
+            "이차전지",
+            "피지컬AI"
+          ]
+        }
+      ],
+      "민간": [
+        {
+          "title": "‘녹화사업 주도·지휘’ 故 박준병 보국훈장 서훈 취소",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "민간",
+          "score": 4,
+          "reason": "삼성전자가 AI 메모리와 피지컬 AI 역량 강화를 위해 기술 인재를 전진 배치했습니다.",
+          "keywords": [
+            "삼성전자",
+            "AI메모리",
+            "피지컬AI"
+          ]
+        },
+        {
+          "title": "국가보훈부, 국가유공자 주거개선사업 올해 첫 헌정식 개최",
+          "link": "https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "민간",
+          "score": 3,
+          "reason": "삼성SDS가 임원 인사를 통해 AI 인프라 및 AX 사업 확대를 가속화합니다.",
+          "keywords": [
+            "삼성SDS",
+            "AX",
+            "AI인프라"
+          ]
+        }
+      ],
+      "해외": [
+        {
+          "title": "육군, 연합작전 수행 역량 강화",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTI1NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "해외",
+          "score": 5,
+          "reason": "젠슨 황 CEO가 엔비디아에 복귀하며 AI 산업계의 지배구조 변화가 주목됩니다.",
+          "keywords": [
+            "엔비디아",
+            "젠슨황",
+            "AI"
+          ]
+        },
+        {
+          "title": "2배 늘린 실탄 사격 대공방어 ‘이상 무’",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTI1NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "해외",
+          "score": 4,
+          "reason": "앤트로픽이 AI의 코드 검토부터 수정까지 자동화하는 '클로드 십'을 출시했습니다.",
+          "keywords": [
+            "앤트로픽",
+            "클로드십",
+            "자동화"
+          ]
+        },
+        {
+          "title": "미래 전장 핵심기술 발전방안 모색",
+          "link": "https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTI1NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "해외",
+          "score": 3,
+          "reason": "미국 AITX가 교정시설 자율 순찰을 위한 AI 로봇 실증 사업에 착수했습니다.",
+          "keywords": [
+            "AITX",
+            "AI로봇",
+            "자율순찰"
+          ]
+        }
+      ],
+      "간행물": [
+        {
+          "title": "KISTI DATA INSIGHT 제 70호 : 데이터로 살펴본 AX 시대 탄소중립과 에너...",
+          "link": "https://www.kisti.re.kr/post/data-insight/7167",
+          "site": "KISTI",
+          "category": "간행물",
+          "score": 4,
+          "reason": "AI와 탄소중립의 융합을 통한 미래 기술 전략을 제시함",
+          "keywords": [
+            "AX",
+            "탄소중립",
+            "AI"
+          ]
+        }
+      ]
+    }
   }
 }
