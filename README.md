@@ -75,9 +75,9 @@
 ```
 
 - 앞 단계가 끝나면 다음 단계가 자동으로 이어서 실행됩니다. 메일은 오디오 생성이 끝나는 즉시 발송됩니다.
-- 매일 시작 신호는 **Claude 예약 작업**이 보냅니다. (매일 **04:00 KST**)
-  - 저장소 밖(claude.ai 계정의 예약 작업)에 설정되어 있습니다. 예약 작업 이름은 'AI 동향 매일 크롤링 시작 (04:00 KST)'입니다.
-  - 매일 **05:00 KST**에 예약 작업 'AI 동향 파이프라인 점검·복구 (05:00 KST)'가 크롤링 → AI 자동 선정 → 오디오 → 메일 중 실패한 단계를 찾아 그 단계만 한 번 다시 실행합니다. (진행 중이거나 메일까지 성공했으면 아무것도 안 함)
+- 매일 시작 신호는 **Claude 예약 작업**이 보냅니다. (매일 **04:03 KST**)
+  - 저장소 밖(claude.ai 계정의 예약 작업)에 설정되어 있습니다. 예약 작업 이름은 'AI 동향 매일 크롤링 시작 (04:03 KST)'입니다.
+  - 매일 **05:13 KST**에 예약 작업 'AI 동향 파이프라인 점검·복구 (05:13 KST)'가 크롤링 → AI 자동 선정 → 오디오 → 메일 중 실패한 단계를 찾아 그 단계만 한 번 다시 실행합니다. (진행 중이거나 메일까지 성공했으면 아무것도 안 함)
   - 전용 세션이 오늘 `main.yml` 실행이 이미 있는지 확인한 뒤, 없을 때만 `main.yml`을 실행합니다(round 1).
   - 자정 전으로 옮기면 안 됩니다. AI 자동 선정이 KST 기준 '어제' 날짜 기사를 고르기 때문입니다.
 - 대안(현재 꺼져 있음): **Vercel Cron**도 쓸 수 있습니다. (`vercel.json`의 `crons` → `api/cron-crawl.js`, KST 00시대)
@@ -131,7 +131,7 @@
   - `api/subscribe.js`의 `SUBSCRIBE_OPEN`을 `true`로
   - `subscribe.html`의 `SUBSCRIBE_OPEN`을 `true`로
   - `index.html`의 Subscribe 버튼(`subscribeRedirectBtn`)에서 `style="display:none"` 제거
-- 크롤링 시작 시각: claude.ai의 예약 작업 'AI 동향 매일 크롤링 시작 (04:00 KST)'에서 변경. (대안인 Vercel Cron은 `vercel.json`의 `crons`, 예비용 GitHub 예약은 `.github/workflows/main.yml`의 `cron`. 둘 다 UTC 기준, KST = UTC + 9시간)
+- 크롤링 시작 시각: claude.ai의 예약 작업 'AI 동향 매일 크롤링 시작 (04:03 KST)'에서 변경. (대안인 Vercel Cron은 `vercel.json`의 `crons`, 예비용 GitHub 예약은 `.github/workflows/main.yml`의 `cron`. 둘 다 UTC 기준, KST = UTC + 9시간)
 
 ---
 
