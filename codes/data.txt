@@ -1,61 +1,69 @@
-📢26.11.25 AI 일일 동향📢
+📢26.11.26 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ 병역의무자, 전자책 무료로 본다
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI1MCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ ‘국방 AI 현재와 미래 진단’…군·산·학·연 전문가 한자리에
+https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTMxNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 러시아 군용기 KADIZ 진입…韓 강력 항의
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0OSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 가상 환경에서 AI 학습하고 자율 시스템 검증한다…T3 디펜스, 센서 시뮬레이션·AI 개발 도구 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42878
 
-◾ “승리가 국방의 전략이고 정책”
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0OCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 가스공사, 국산 NPU 기반 AI CCTV 도입…내년 삼척·평택기지에서 시범운영
+https://www.etnews.com/20261125000441
 
-◾ AI가 읽을 수 있는 전술
-https://kookbang.dema.mil.kr/newsWeb/20261125/3/ATCE_CTGR_0050010000/view.do;JSESSIONID_kookbnagWEB=t3kO6BxX3ZMW7hR63CM35HgTKCSH6qKuNUxHdw06SwlLaY1v8Yii!296806669
+◾ “건설현장 위험 실시간 탐지”…인텔리빅스, AI 자율순찰로봇 시연
+https://www.etnews.com/20261125000389
 
-◾ AI 안보시대, 북 핵·미사일 위기에 ‘이중적’ 장치 마련
-https://kookbang.dema.mil.kr/newsWeb/20261125/1/ATCE_CTGR_0050020000/view.do;JSESSIONID_kookbnagWEB=t3kO6BxX3ZMW7hR63CM35HgTKCSH6qKuNUxHdw06SwlLaY1v8Yii!296806669
+◾ 국방혁신기술보안협회·방산기술보호보안협의회, 방산업체 기술보호·보안 역량 강화 맞손
+https://www.etnews.com/20261125000252
+
+◾ AI 해킹시대, 기본이 바로 선 사이버보안태세 확립 필요
+https://kookbang.dema.mil.kr/newsWeb/20261126/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=yPYUDnB3ASZc9Iup58DljAkJcbJ4AEPpNg6RAiUW3E8M4PkVlyEQ!965578293
 
 [민간]
-◾ ‘녹화사업 주도·지휘’ 故 박준병 보국훈장 서훈 취소
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 오픈AI, 기업용 AI 에이전트 정확도 높이는 데이터 도구 ＇아테나＇ 개발 중
+https://www.aitimes.com/news/articleView.html?idxno=217778
 
-◾ 국가보훈부, 국가유공자 주거개선사업 올해 첫 헌정식 개최
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ LG CNS, AI 공동 사업 판 키운다…피지컬 AI까지 협력 확대
+https://www.etnews.com/20261125000569
+
+◾ [제4회 글로벌 ACX 초월대상] 더존비즈온, ＇ONE AI＇ 다중 AI 에이전트·지식그래프 기술로 기업 업무 혁신
+https://www.etnews.com/20261124000398
+
+◾ 구글·KBO 맞손…야구 보며 AI로 선수·경기 정보 찾는다
+https://www.etnews.com/20261125000451
+
+◾ 카카오뱅크, 미스트랄 AI와 금융 특화 LLM 공동 개발
+https://www.etnews.com/20261125000339
+
+◾ [ET특징주]뉴로핏, 美 의료영상 AI 기업과 공급 계약에 상승세
+https://www.etnews.com/20261125000326
+
+◾ 시프트업 자체 AI 번역 ＇COZY＇, 국제 기계번역 대회 최상위 그룹 선정
+https://www.etnews.com/20261125000254
 
 [기관]
-◾ 민간 제품 활용 ‘군수품 업그레이드’
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NyUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 네이버클라우드·한수원·한전KDN, 원전 특화 AI 에이전트 개발 협력
+https://www.aitimes.kr/news/articleView.html?idxno=42879
 
-◾ AI 산업육성·개인정보 보호 조화 방안 논의
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTI0NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 에스이노베이션스, 72억 원 규모 엣지 AI 반도체 사업 참여…자율주행 로봇 적용·실증 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42876
 
-◾ 정부, 국가 대표 휴머노이드 뽑는다…10개팀 선발해 성장 지원
-https://www.etnews.com/20261124000347
+◾ 과기정통부, 인공지능 자율화가 바꿀 미래 산업·사회 질서 논의
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188002&searchOpt=ALL&searchTxt=
 
-◾ 산업부, ＇가전 AX제품화지원센터＇ 개소…5년간 170억원 투입·AI가전 학습데이터 15종 구축
-https://www.etnews.com/20261124000346
-
-◾ Next-X 휴머노이드 챌린지 대회 사전 설명회 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187991&searchOpt=ALL&searchTxt=
-
-◾ 인공지능·인간형 로봇부터 전기차까지, 미래 일상을 움직일 ‘차세대 이차전지’ 핵심 성과 한자리에
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187993&searchOpt=ALL&searchTxt=
+◾ 국가 연구개발 특허, 출원부터 성과 등록까지 정보 입력 자동으로
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187999&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 육군, 연합작전 수행 역량 강화
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTI1NiUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ 美 공군, AI·가상현실 기반 공중급유 훈련 확대…연료 270만 갤런 이상 절감
+https://www.aitimes.kr/news/articleView.html?idxno=42889
 
-◾ 2배 늘린 실탄 사격 대공방어 ‘이상 무’
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTI1NSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ xAI 창립 멤버들, 미래 예측 AI 개발 나서…30년치 인터넷 활용
+https://www.aitimes.com/news/articleView.html?idxno=217779
 
-◾ 미래 전장 핵심기술 발전방안 모색
-https://www.mnd.go.kr/mnd/160/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDIlMkZEUElNXzEyNTI1NCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
-
-📚 간행물
-◾ KISTI DATA INSIGHT 제 70호 : 데이터로 살펴본 AX 시대 탄소중립과 에너...
-https://www.kisti.re.kr/post/data-insight/7167
+◾ EU, 500억 유로 ‘소버린 기술 펀드’ 조성
+https://kookbang.dema.mil.kr/newsWeb/20261126/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=yPYUDnB3ASZc9Iup58DljAkJcbJ4AEPpNg6RAiUW3E8M4PkVlyEQ!965578293
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
