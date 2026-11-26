@@ -1,69 +1,66 @@
-📢26.11.26 AI 일일 동향📢
+📢26.11.27 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ ‘국방 AI 현재와 미래 진단’…군·산·학·연 전문가 한자리에
-https://www.mnd.go.kr/mnd/159/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDElMkZEUElNXzEyNTMxNSUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
+◾ [게시판] 인핸스, 국방정보본부 ＇AI 민간자문기업＇ 위촉 등 단신
+https://www.aitimes.com/news/articleView.html?idxno=217827
 
-◾ 가상 환경에서 AI 학습하고 자율 시스템 검증한다…T3 디펜스, 센서 시뮬레이션·AI 개발 도구 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42878
+◾ 국방AI리더스포럼, ＇2026 국방AI리더스포럼 어워드＇ 개최···우수기업·유공자 발굴
+https://www.etnews.com/20261126000278
 
-◾ 가스공사, 국산 NPU 기반 AI CCTV 도입…내년 삼척·평택기지에서 시범운영
-https://www.etnews.com/20261125000441
+◾ 데이터스트림즈, 국방 AI 데이터 혁신 기여 공로로 육군정보통신학교 감사장 수상
+https://www.etnews.com/20261126000208
 
-◾ “건설현장 위험 실시간 탐지”…인텔리빅스, AI 자율순찰로봇 시연
-https://www.etnews.com/20261125000389
-
-◾ 국방혁신기술보안협회·방산기술보호보안협의회, 방산업체 기술보호·보안 역량 강화 맞손
-https://www.etnews.com/20261125000252
-
-◾ AI 해킹시대, 기본이 바로 선 사이버보안태세 확립 필요
-https://kookbang.dema.mil.kr/newsWeb/20261126/1/ATCE_CTGR_0050030000/view.do;JSESSIONID_kookbnagWEB=yPYUDnB3ASZc9Iup58DljAkJcbJ4AEPpNg6RAiUW3E8M4PkVlyEQ!965578293
+◾ 첨단기술 대응 국방 표준화 발전 방향 모색
+https://kookbang.dema.mil.kr/newsWeb/20261127/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=UukZRS1iIlc18Hn_q7yLsFocRzoItmKfmVi7SLBL2hKsOT2Pudz1!965578293
 
 [민간]
-◾ 오픈AI, 기업용 AI 에이전트 정확도 높이는 데이터 도구 ＇아테나＇ 개발 중
-https://www.aitimes.com/news/articleView.html?idxno=217778
+◾ 대한항공, AI로 조종사·승무원 수면건강 관리…항공업계 최초 디지털 수면검사 도입
+https://www.aitimes.kr/news/articleView.html?idxno=42912
 
-◾ LG CNS, AI 공동 사업 판 키운다…피지컬 AI까지 협력 확대
-https://www.etnews.com/20261125000569
+◾ KB금융, AI 에이전트로 금융 업무 혁신 가속…전 계열사 AI 기술·개발 노하우 공유
+https://www.aitimes.kr/news/articleView.html?idxno=42903
 
-◾ [제4회 글로벌 ACX 초월대상] 더존비즈온, ＇ONE AI＇ 다중 AI 에이전트·지식그래프 기술로 기업 업무 혁신
-https://www.etnews.com/20261124000398
+◾ [단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다
+https://www.etnews.com/20261126000296
 
-◾ 구글·KBO 맞손…야구 보며 AI로 선수·경기 정보 찾는다
-https://www.etnews.com/20261125000451
+◾ AI 표준, 시장 속도 맞춘다…산업 AI 표준 포럼 ＇사실상 표준분과＇ 신설
+https://www.etnews.com/20261126000352
 
-◾ 카카오뱅크, 미스트랄 AI와 금융 특화 LLM 공동 개발
-https://www.etnews.com/20261125000339
+◾ 유베이스, AI 기술기업 ＇엑스베이스＇ 설립…한국형 AICC로 美·日 공략
+https://www.etnews.com/20261126000251
 
-◾ [ET특징주]뉴로핏, 美 의료영상 AI 기업과 공급 계약에 상승세
-https://www.etnews.com/20261125000326
-
-◾ 시프트업 자체 AI 번역 ＇COZY＇, 국제 기계번역 대회 최상위 그룹 선정
-https://www.etnews.com/20261125000254
+◾ 모디전스비전 CES 2027 최고혁신상 수상…피지컬 AI 비전 플랫폼 ＇MARU-Gen2＇로 글로벌 기술력 입증
+https://www.etnews.com/20261126000209
 
 [기관]
-◾ 네이버클라우드·한수원·한전KDN, 원전 특화 AI 에이전트 개발 협력
-https://www.aitimes.kr/news/articleView.html?idxno=42879
+◾ 세계 55개국·463개 기업과 기관 참여…역대 최대 ‘컴업 2026’, AI로 스타트업 투자·사업 협력 연결한다
+https://www.aitimes.kr/news/articleView.html?idxno=42906
 
-◾ 에스이노베이션스, 72억 원 규모 엣지 AI 반도체 사업 참여…자율주행 로봇 적용·실증 추진
-https://www.aitimes.kr/news/articleView.html?idxno=42876
+◾ 이형일 부총리, “전략산업 육성이 우리 경제의 가장 중요한 과제”…피지컬 AI 상용화·에이전틱 AI 제도 정비 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42902
 
-◾ 과기정통부, 인공지능 자율화가 바꿀 미래 산업·사회 질서 논의
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188002&searchOpt=ALL&searchTxt=
+◾ 연구 실패까지 기억하는 AI 과학자…ETRI-UST, 연구 설계부터 논문 작성까지 자율 수행하는 ‘유라’ 오픈소스 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42894
 
-◾ 국가 연구개발 특허, 출원부터 성과 등록까지 정보 입력 자동으로
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3187999&searchOpt=ALL&searchTxt=
+◾ 과기정통부, AI 해킹방어대회 개최…사이버위협 대응 역량 강화
+https://www.etnews.com/20261126000299
+
+◾ 인공지능 시대, 우리 사회가 마주한 쟁점을 논하는｢인공지능 사회정책포럼｣ 공개 발표회 개최
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188012&searchOpt=ALL&searchTxt=
+
+◾ 연구·논문작성 모든 과정 스스로...ETRI, 日보다 앞선 AI 에이전트 개발
+https://www.etnews.com/20261126000229
 
 [해외]
-◾ 美 공군, AI·가상현실 기반 공중급유 훈련 확대…연료 270만 갤런 이상 절감
-https://www.aitimes.kr/news/articleView.html?idxno=42889
+◾ 자동차와 휴머노이드, 하나의 AI 두뇌로 움직인다…샤오펑, 튜링 피지컬 AI 아키텍처 공개
+https://www.aitimes.kr/news/articleView.html?idxno=42898
 
-◾ xAI 창립 멤버들, 미래 예측 AI 개발 나서…30년치 인터넷 활용
-https://www.aitimes.com/news/articleView.html?idxno=217779
+◾ 코그니션, 코딩 모델 ＇SWE-2.1＇ 출시…장기 작업·사이버 보안 성능 강화
+https://www.aitimes.com/news/articleView.html?idxno=217826
 
-◾ EU, 500억 유로 ‘소버린 기술 펀드’ 조성
-https://kookbang.dema.mil.kr/newsWeb/20261126/3/ATCE_CTGR_0030020000/view.do;JSESSIONID_kookbnagWEB=yPYUDnB3ASZc9Iup58DljAkJcbJ4AEPpNg6RAiUW3E8M4PkVlyEQ!965578293
+◾ 스페이스X, 위성 100만기로 우주 AI 데이터센터 구축… 美 FCC 승인
+https://www.etnews.com/20261126000337
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html
