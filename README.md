@@ -39,7 +39,6 @@
 ├── api/                        # Vercel Serverless Functions
 │   ├── auth.js                 #   관리자 비밀번호 확인
 │   ├── github.js               #   대시보드 → GitHub API 프록시 (허용 목록에 있는 요청만 통과, 삭제 불가)
-│   ├── cron-crawl.js           #   매일 크롤링 시작 신호 (Vercel Cron이 호출 → main.yml 실행)
 │   └── subscribe.js            #   구독 신청/해지/연장 (구독자 목록 암호화 저장)
 ├── codes/
 │   ├── *.json                  # 출처별 수집 데이터
@@ -81,18 +80,19 @@
 ```
 
 - 앞 단계가 끝나면 다음 단계가 자동으로 이어서 실행됩니다. 메일은 오디오 생성이 끝나는 즉시 발송됩니다.
-- 매일 시작 신호는 **Claude 예약 작업**이 보냅니다. (매일 **04:03 KST**)
-  - 저장소 밖(claude.ai 계정의 예약 작업)에 설정되어 있습니다. 예약 작업 이름은 'AI 동향 매일 크롤링 시작 (04:03 KST)'입니다.
-  - 매일 **05:13 KST**에 예약 작업 'AI 동향 파이프라인 점검·복구 (05:13 KST)'가 크롤링 → AI 자동 선정 → 오디오 → 메일 중 실패한 단계를 찾아 그 단계만 한 번 다시 실행합니다. (진행 중이거나 메일까지 성공했으면 아무것도 안 함)
-  - 전용 세션이 오늘 `main.yml` 실행이 이미 있는지 확인한 뒤, 없을 때만 `main.yml`을 실행합니다(round 1).
-  - 자정 전으로 옮기면 안 됩니다. AI 자동 선정이 KST 기준 '어제' 날짜 기사를 고르기 때문입니다.
-- 대안(현재 꺼져 있음): **Vercel Cron**도 쓸 수 있습니다. (`vercel.json`의 `crons` → `api/cron-crawl.js`, KST 00시대)
-  - Vercel 환경변수 `CRON_SECRET`을 등록하면 동작합니다. 등록하지 않으면 모든 호출을 거부합니다.
-  - 둘 다 켜져 있어도 Claude 예약 작업은 그날 이미 실행된 크롤링이 있으면 새로 실행하지 않습니다.
-- `main.yml`의 GitHub 예약(00:06, 00:37 KST)은 **예비용**입니다. GitHub 예약은 몇 시간씩 밀리거나 건너뛰는 일이 있어 시작 신호로 쓰지 않습니다.
-  - 예약으로 실행되면 항상 '오늘 실패한 출처만 재시도' 모드라, 그날 이미 수집했으면 거의 할 일 없이 끝납니다.
-  - Vercel Cron이 실패해 그날 아무것도 안 돌았으면 전체 수집을 대신합니다.
-  - **2회차**는 1회차에서 실패한 출처만 다시 수집합니다. 모두 성공했으면 건너뜁니다.
+**매일 시작 순서** (KST)
+
+| 순위 | 시각 | 무엇이 | 하는 일 |
+|---|---|---|---|
+| 1순위 | 04:03 | Claude 예약 작업 'AI 동향 매일 크롤링 시작 (04:03 KST)' | 오늘 `main.yml` 실행이 없으면 크롤링 시작(round 1) → 이어서 AI 선정 → 오디오 → 메일 |
+| 1순위 | 05:13 | Claude 예약 작업 'AI 동향 파이프라인 점검·복구 (05:13 KST)' | 실패한 단계 하나만 한 번 다시 실행 (진행 중이거나 메일까지 성공했으면 아무것도 안 함) |
+| 2순위 | 05:47 | GitHub 예약 (`main.yml` schedule, 예비 1) | 오늘 수집 기록이 없으면 전체 수집, 있으면 실패한 출처만, 모두 성공했으면 건너뜀. 이어서 안 된 단계(AI 선정·오디오·메일)만 진행 |
+| 2순위 | 07:17 | GitHub 예약 (`main.yml` schedule, 예비 2) | 위와 같음 (다른 ScraperAPI 키 순번) |
+
+- Claude 예약 작업은 저장소 밖(claude.ai 계정의 예약 작업)에 있습니다.
+- GitHub 예약은 실제로 몇 시간씩 늦게 도는 일이 잦습니다. (예전 00:06 예약이 08~11시에 실행됨) 그래서 시작 신호로 쓰지 않고, Claude 쪽이 모두 실패한 날의 예비로만 씁니다.
+- GitHub 예약 시각을 자정~05:13 사이로 옮기면 안 됩니다. GitHub이 먼저 돌면 Claude 작업이 '이미 실행됨'으로 건너뛰어 순서가 뒤집힙니다. (`tests/test_workflows.py`가 확인)
+- 시작을 자정 전으로 옮기면 안 됩니다. AI 자동 선정이 KST 기준 '어제' 날짜 기사를 고르기 때문입니다.
 - 크롤링이 하루에 여러 번 끝나도 **AI 선정·오디오·메일은 하루 한 번씩만** 실행됩니다. 대시보드 버튼으로 직접 실행하면 항상 실행됩니다.
 - 각 단계는 결과를 main에 커밋하고, 사이트(Vercel)는 그 커밋으로 다시 배포됩니다. 사이트에 보이지 않는 파일(`codes/state/`, 구독자 목록, 파이썬 코드, 워크플로우, 문서)만 바뀐 커밋은 배포하지 않습니다. (`scripts/vercel-ignore-build.sh`)
 - 메일은 GitHub Actions의 오디오 생성이 끝날 때만 이어서 발송됩니다 (별도 예약 없음). 로컬에서 실행해 푸시한 경우에는 메일이 자동으로 나가지 않으니 Actions에서 `KakaoTalk or Gmail Auto Send`를 mode `send`로 실행하세요.
@@ -139,7 +139,7 @@
   - `subscribe.html`의 `SUBSCRIBE_OPEN`을 `true`로
   - `index.html`의 구독 버튼(`subscribeRedirectBtn`)에서 `hidden` 제거
 - 출처 추가: `codes/pycode/<이름>.py` 크롤러를 만들고(`crawler_common.save_results`로 `codes/<파일>.json`에 저장) `config/sources.json`에 한 줄 추가합니다. 크롤링·AI 선정·대시보드 메뉴에 모두 반영됩니다.
-- 크롤링 시작 시각: claude.ai의 예약 작업 'AI 동향 매일 크롤링 시작 (04:03 KST)'에서 변경. (대안인 Vercel Cron은 `vercel.json`의 `crons`, 예비용 GitHub 예약은 `.github/workflows/main.yml`의 `cron`. 둘 다 UTC 기준, KST = UTC + 9시간)
+- 크롤링 시작 시각: claude.ai의 예약 작업 'AI 동향 매일 크롤링 시작 (04:03 KST)'에서 변경. 예비용 GitHub 예약은 `.github/workflows/main.yml`의 `cron` (UTC 기준, KST = UTC + 9시간)이며, 항상 Claude 점검·복구(05:13 KST)보다 뒤여야 합니다.
 
 ---
 
@@ -149,7 +149,6 @@
 |---|:---:|:---:|---|
 | `GITHUB_TOKEN` | ✅ | (자동) | 대시보드·구독 API가 저장소 파일을 읽고 쓰기 |
 | `ADMIN_PASSWORD` | ✅ | | 대시보드 관리자 기능 |
-| `CRON_SECRET` | ✅ (선택) | | Vercel Cron으로 크롤링을 시작할 때만 필요 (`api/cron-crawl.js` 인증). 16자 이상 임의 문자열 |
 | `SUBSCRIBER_ENCRYPTION_KEY` | ✅ | ✅ | 구독자 목록 암호화 + 메일 속 해지/연장 링크 서명 (**두 곳에 같은 값**, 32자 이상) |
 | `GEMINI_API_KEY` | | ✅ | AI 자동 선정·브리핑 |
 | `GMAIL_APP_PASSWORD` | | ✅ | 구독자 메일·관리자 알림 발송 (Gmail 앱 비밀번호) |
