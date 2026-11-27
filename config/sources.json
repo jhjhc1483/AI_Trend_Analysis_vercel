@@ -1,0 +1,21 @@
+{
+  "_comment": "수집 출처 목록 (크롤러·AI 선정·대시보드가 모두 이 파일을 씁니다). 출처를 추가하면 codes/pycode/<crawler> 를 만들고 여기에 한 줄 추가하세요. 순서 = 대시보드 메뉴 순서. id 는 AI 선정 결과와 대시보드의 출처 키라 바꾸면 안 됩니다. name 은 목록의 '출처:' 표시와 Few-shot 학습 데이터에 쓰입니다. daily_news: 매일 새 기사가 올라오는 뉴스 (며칠 연속 새 기사 0건이면 관리자 경고).",
+  "sources": [
+    { "id": "AIKOREA",  "type": "article",     "file": "aikorea.json",  "crawler": "aikorea.py",  "name": "국가인공지능전략위원회", "full_name": "국가인공지능전략위원회" },
+    { "id": "MND",      "type": "article",     "file": "mnd.json",      "crawler": "mnd.py",      "name": "국방부",       "full_name": "국방부",           "daily_news": true },
+    { "id": "kookbang", "type": "article",     "file": "kookbang.json", "crawler": "kookbang.py", "name": "국방일보",     "full_name": "국방일보",         "daily_news": true },
+    { "id": "MSIT",     "type": "article",     "file": "msit.json",     "crawler": "msit.py",     "name": "과기정통부",   "full_name": "과학기술정보통신부" },
+    { "id": "AITIMES",  "type": "article",     "file": "aitimes.json",  "crawler": "aitimes.py",  "name": "AI Times",     "full_name": "AI타임스",         "daily_news": true },
+    { "id": "ETNEWS",   "type": "article",     "file": "etnews.json",   "crawler": "etnews.py",   "name": "전자신문",     "full_name": "전자신문",         "daily_news": true },
+    { "id": "AINEWS",   "type": "article",     "file": "AInews.json",   "crawler": "AInews.py",   "name": "인공지능신문", "full_name": "인공지능신문",     "daily_news": true },
+    { "id": "DAPA",     "type": "article",     "file": "dapa.json",     "crawler": "dapa.py",     "name": "방사청",       "full_name": "방위사업청" },
+    { "id": "NIA",      "type": "publication", "file": "nia.json",      "crawler": "NIA.py",      "name": "NIA",          "full_name": "한국지능정보사회진흥원" },
+    { "id": "IITP",     "type": "publication", "file": "iitp.json",     "crawler": "iitp.py",     "name": "IITP",         "full_name": "정보통신기획평가원" },
+    { "id": "STEPI",    "type": "publication", "file": "STEPI.json",    "crawler": "STEPI.py",    "name": "STEPI",        "full_name": "과학기술정책연구원" },
+    { "id": "NIPA",     "type": "publication", "file": "NIPA.json",     "crawler": "NIPA.py",     "name": "NIPA",         "full_name": "정보통신산업진흥원" },
+    { "id": "KISDI",    "type": "publication", "file": "KISDI.json",    "crawler": "KISDI.py",    "name": "KISDI",        "full_name": "정보통신정책연구원" },
+    { "id": "KISTI",    "type": "publication", "file": "KISTI.json",    "crawler": "KISTI.py",    "name": "KISTI",        "full_name": "한국과학기술정보연구원" },
+    { "id": "KISA",     "type": "publication", "file": "KISA.json",     "crawler": "KISA.py",     "name": "KISA",         "full_name": "한국인터넷진흥원" },
+    { "id": "TTA",      "type": "publication", "file": "tta.json",      "crawler": "tta.py",      "name": "TTA",          "full_name": "한국정보통신기술협회" }
+  ]
+}

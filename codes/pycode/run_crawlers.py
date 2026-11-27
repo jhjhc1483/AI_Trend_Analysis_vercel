@@ -16,6 +16,7 @@ from dotenv import load_dotenv
 from notify import ADMIN_EMAIL, SENDER_EMAIL, send_admin_mail
 from pipeline_report import detect_suspicious
 from pipeline_state import read_state, set_output, today_key, write_state
+from sources import crawler_scripts
 
 # Windows 터미널(cp949) 이모지 출력 인코딩 방어
 if sys.platform == "win32":
@@ -33,25 +34,8 @@ ADMIN_RECEIVER = ADMIN_EMAIL
 HISTORY_DAYS = 14  # 소스별 수집 이력 보관 일수 (사이트 구조 변경 감지용)
 CRAWL_LOG_STATE = "crawl_log"  # codes/state/crawl_log.json: 날짜별·소스별 수집 결과 (지우지 않고 계속 누적)
 
-# 크롤링 대상 스크립트 목록 (파일명, 소스 표시명)
-CRAWLER_SCRIPTS = [
-    ("mnd.py", "국방부"),
-    ("etnews.py", "전자신문"),
-    ("aitimes.py", "AI타임스"),
-    ("NIA.py", "한국지능정보사회진흥원(NIA)"),
-    ("STEPI.py", "과학기술정책연구원(STEPI)"),
-    ("NIPA.py", "정보통신산업진흥원(NIPA)"),
-    ("KISDI.py", "정보통신정책연구원(KISDI)"),
-    ("dapa.py", "방위사업청"),
-    ("KISTI.py", "한국과학기술정보연구원(KISTI)"),
-    ("iitp.py", "정보통신기획평가원(IITP)"),
-    ("AInews.py", "인공지능신문"),
-    ("kookbang.py", "국방일보"),
-    ("msit.py", "과학기술정보통신부"),
-    ("KISA.py", "한국인터넷진흥원(KISA)"),
-    ("tta.py", "한국정보통신기술협회(TTA)"),
-    ("aikorea.py", "한국인공지능협회"),
-]
+# 크롤링 대상 스크립트 목록 (파일명, 소스 표시명) — config/sources.json 순서대로 실행
+CRAWLER_SCRIPTS = crawler_scripts()
 
 TIMEOUT_PER_SCRIPT = 300  # 스크립트당 최대 5분 타임아웃
 # =============================================

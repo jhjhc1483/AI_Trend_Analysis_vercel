@@ -1,6 +1,5 @@
 import os
 import json
-import glob
 import hashlib
 import re
 import time
@@ -9,6 +8,7 @@ from google import genai
 from google.genai import types
 
 from pipeline_state import is_auto_run, report_date, set_output
+from sources import PUBLICATION, load_sources
 
 
 KST = timezone(timedelta(hours=9))
@@ -19,7 +19,6 @@ YESTERDAY = (REPORT_DATE - timedelta(days=1)).strftime('%Y%m%d')
 
 PROJECT_ROOT = os.path.dirname(os.path.abspath(__file__)) # codes/pycode
 BASE_DIR = os.path.dirname(PROJECT_ROOT) # codes
-FILES_PATTERN = os.path.join(BASE_DIR, "*.json")
 FAV_ARTICLES_PATH = os.path.join(BASE_DIR, "favorites", "favorite_articles.json")
 FAV_PUBS_PATH = os.path.join(BASE_DIR, "favorites", "favorite_publications.json")
 FEWSHOT_EXAMPLES_PATH = os.path.join(BASE_DIR, "favorites", "fewshot_examples.json")
@@ -39,7 +38,6 @@ MAX_EXCLUSION_RULES = 50      # 일일동향 제외 이유 (대시보드 제외 
 RECENT_REPORT_DAYS = 3        # 같은 사건 반복 선정 방지용으로 보여줄 지난 브리핑 일수
 
 
-PUB_SITES = ['IITP', 'NIA', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA']
 # 같은 제목 기사가 여러 출처에 있으면 이 순서로 앞선 출처의 것을 남김
 # (국방부 사이트는 국방일보 기사를 같은 제목으로 다시 게시함 → 공식 출처이자 링크가 깔끔한 국방부 우선)
 PREFERRED_FILES = ["mnd.json"]
@@ -68,20 +66,16 @@ def load_json_files():
 
     seen_titles = set()  # 같은 제목 기사는 하나만 (국방부·국방일보 중복 게시 등)
     skipped = {"excluded": 0, "duplicate": 0}  # 후보에서 뺀 건수 (data.json ai_meta에 기록)
-    filepaths = sorted(glob.glob(FILES_PATTERN),
-                       key=lambda path: (os.path.basename(path) not in PREFERRED_FILES, os.path.basename(path)))
-    for filepath in filepaths:
-        filename = os.path.basename(filepath)
-        if filename in ["update_time.json", "data.json", "receiver_email.json"]: continue
-        
-        site_name = os.path.splitext(filename)[0].upper()
-        if site_name == "KOOKBANG": site_name = "kookbang"
-        
+    # 출처 목록(config/sources.json)의 수집 파일. 같은 제목 중복은 PREFERRED_FILES → 파일명 순으로 앞선 것을 남김
+    sources = sorted(load_sources(), key=lambda s: (s["file"] not in PREFERRED_FILES, s["file"]))
+    for source in sources:
+        filepath = os.path.join(BASE_DIR, source["file"])
+        site_name = source["id"]
+        is_pub = source["type"] == PUBLICATION
+
         try:
             with open(filepath, 'r', encoding='utf-8') as f:
                 data = json.load(f)
-                
-            is_pub = site_name in PUB_SITES
             
             for item in data:
                 year = str(item.get('년', ''))

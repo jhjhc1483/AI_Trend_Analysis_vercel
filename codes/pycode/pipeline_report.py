@@ -17,9 +17,10 @@ import sys
 
 from notify import send_admin_mail
 from pipeline_state import read_state, report_date, today_key
+from sources import daily_news_scripts
 
-# 매일 새 기사가 올라오는 뉴스 소스: 며칠 연속 새 기사가 0건이면 의심
-DAILY_NEWS_SCRIPTS = {"mnd.py", "etnews.py", "aitimes.py", "AInews.py", "kookbang.py"}
+# 매일 새 기사가 올라오는 뉴스 소스: 며칠 연속 새 기사가 0건이면 의심 (config/sources.json 의 daily_news)
+DAILY_NEWS_SCRIPTS = daily_news_scripts()
 EMPTY_FETCH_DAYS = 2   # 사이트에서 한 건도 못 가져온 날이 이만큼 이어지면 경고 (구조 변경/차단 의심)
 NO_NEW_DAYS = 4        # 뉴스 소스의 새 기사 0건이 이만큼 이어지면 경고 (주말+공휴일 고려)
 

@@ -12,15 +12,12 @@ import os
 from datetime import timedelta
 
 from pipeline_state import now_kst
+from sources import data_files
 
 RECENT_DAYS = 30
 OUTPUT_PATH = os.path.join("codes", "dashboard", "recent.json")
-# script.js 의 FILES_TO_LOAD 와 같은 파일 목록
-SOURCE_FILES = [
-    "aikorea.json", "aitimes.json", "etnews.json", "AInews.json", "mnd.json", "kookbang.json",
-    "dapa.json", "msit.json", "iitp.json", "nia.json", "STEPI.json", "NIPA.json",
-    "KISDI.json", "KISTI.json", "KISA.json", "tta.json",
-]
+# 출처별 수집 파일 목록 (config/sources.json, 대시보드 script.js 와 같은 목록)
+SOURCE_FILES = data_files()
 
 
 def item_date(item):
