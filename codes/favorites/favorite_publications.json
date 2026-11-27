@@ -1,1 +1,67 @@
-[]
+[
+  {
+    "title": "2026 개인정보 이슈 심층 분석 보고서(VOL.7) - AI 거버넌스와 책임",
+    "link": "https://www.kisa.or.kr/20202/form?postSeq=493&page=1",
+    "site": "KISA",
+    "category": "간행물",
+    "score": 4,
+    "reason": "AI 기술의 안전한 국방 도입을 위한 거버넌스와 책임 범위를 제시함",
+    "keywords": [
+      "AI 거버넌스",
+      "개인정보",
+      "보안 정책"
+    ]
+  },
+  {
+    "title": "[KISA Insight 2026 Vol.01] 리더들이 전망하는 2027년 사이버보안 이슈",
+    "link": "https://www.kisa.or.kr/20301/form?postSeq=35&page=1",
+    "site": "KISA",
+    "category": "간행물",
+    "score": 5,
+    "reason": "차세대 사이버 위협 전망을 통해 국방 및 국가 보안 전략 수립에 기여함",
+    "keywords": [
+      "사이버보안",
+      "국방 보안",
+      "보안 전망"
+    ]
+  },
+  {
+    "title": "[AI Policy Insights 2026-7] 스마트안경과 생성형 AI는 어디까지 허용하는가",
+    "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30234&parentSeq=30234",
+    "site": "NIA",
+    "category": "간행물",
+    "score": 3,
+    "reason": "생성형 AI와 스마트 기기 결합에 따른 기술적 가이드라인 제공",
+    "keywords": [
+      "생성형 AI",
+      "스마트안경",
+      "AI 규제"
+    ]
+  },
+  {
+    "title": "[AI Policy Insights 2026-6] 미 스탠포드대 AI 경제지표 분석 및 시사점",
+    "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30230&parentSeq=30230",
+    "site": "NIA",
+    "category": "간행물",
+    "score": 4,
+    "reason": "AI 경제 지표 분석을 통해 미래 국방 기술 투자 방향을 가늠할 수 있음",
+    "keywords": [
+      "AI 경제",
+      "기술 지표",
+      "정책 시사점"
+    ]
+  },
+  {
+    "title": "익스트림 MIMO(Extreme-MIMO), 어디까지 진화했나? : Massive MIMO 기술 고도화 동향 및 시사점",
+    "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99959&bcIdx=30229&parentSeq=30229",
+    "site": "NIA",
+    "category": "간행물",
+    "score": 5,
+    "reason": "차세대 군 통신망 구축에 필수적인 초고속 무선 통신 기술 동향 분석",
+    "keywords": [
+      "Extreme-MIMO",
+      "국방 통신",
+      "무선 기술"
+    ]
+  }
+]

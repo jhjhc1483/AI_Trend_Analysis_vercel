@@ -1,66 +1,74 @@
-📢26.11.27 AI 일일 동향📢
+📢26.11.28 AI 일일 동향📢
 
 📰 오늘의 기사
 [국방]
-◾ [게시판] 인핸스, 국방정보본부 ＇AI 민간자문기업＇ 위촉 등 단신
-https://www.aitimes.com/news/articleView.html?idxno=217827
+◾ 코난테크놀로지, 경남 제조AX기술센터 연다…방산·제조 AX 지원
+https://www.etnews.com/20261127000327
 
-◾ 국방AI리더스포럼, ＇2026 국방AI리더스포럼 어워드＇ 개최···우수기업·유공자 발굴
-https://www.etnews.com/20261126000278
+[육군]
+◾ 국방부장관, 육군 동원사단 드론실증부대 현장점검
+https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNTQyOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2
 
-◾ 데이터스트림즈, 국방 AI 데이터 혁신 기여 공로로 육군정보통신학교 감사장 수상
-https://www.etnews.com/20261126000208
-
-◾ 첨단기술 대응 국방 표준화 발전 방향 모색
-https://kookbang.dema.mil.kr/newsWeb/20261127/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=UukZRS1iIlc18Hn_q7yLsFocRzoItmKfmVi7SLBL2hKsOT2Pudz1!965578293
+◾ 스페이스뱅크, 사족보행로봇·무인지상차량 활용한 통합 원격 임무 교육
+https://www.etnews.com/20261127000058
 
 [민간]
-◾ 대한항공, AI로 조종사·승무원 수면건강 관리…항공업계 최초 디지털 수면검사 도입
-https://www.aitimes.kr/news/articleView.html?idxno=42912
+◾ 포시에스, 전자문서에 AI 에이전트 결합…기업 지식 자산화 시장 공략
+https://www.etnews.com/20261127000355
 
-◾ KB금융, AI 에이전트로 금융 업무 혁신 가속…전 계열사 AI 기술·개발 노하우 공유
-https://www.aitimes.kr/news/articleView.html?idxno=42903
+◾ 어드밴텍, 로봇·피지컬 AI를 위한 통합 카메라 아키텍처 ＇UniCAM＇ 선보여
+https://www.etnews.com/20261127000036
 
-◾ [단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다
-https://www.etnews.com/20261126000296
-
-◾ AI 표준, 시장 속도 맞춘다…산업 AI 표준 포럼 ＇사실상 표준분과＇ 신설
-https://www.etnews.com/20261126000352
-
-◾ 유베이스, AI 기술기업 ＇엑스베이스＇ 설립…한국형 AICC로 美·日 공략
-https://www.etnews.com/20261126000251
-
-◾ 모디전스비전 CES 2027 최고혁신상 수상…피지컬 AI 비전 플랫폼 ＇MARU-Gen2＇로 글로벌 기술력 입증
-https://www.etnews.com/20261126000209
+◾ 디에스앤지, 차세대 AI 데이터센터 구축 전략 제시…글로벌 기술 협력 강화
+https://www.etnews.com/20261127000029
 
 [기관]
-◾ 세계 55개국·463개 기업과 기관 참여…역대 최대 ‘컴업 2026’, AI로 스타트업 투자·사업 협력 연결한다
-https://www.aitimes.kr/news/articleView.html?idxno=42906
+◾ 연합 디지털 트윈 프레임워크 ‘페딧’ 오픈소스 공개…ETRI, 개별 디지털 트윈 연결해 통합 분석·예측
+https://www.aitimes.kr/news/articleView.html?idxno=42928
 
-◾ 이형일 부총리, “전략산업 육성이 우리 경제의 가장 중요한 과제”…피지컬 AI 상용화·에이전틱 AI 제도 정비 추진
-https://www.aitimes.kr/news/articleView.html?idxno=42902
+◾ 산업부, 피지컬 AI 경쟁력 높인다…로봇 학습 데이터 국가표준 선제 제정 추진
+https://www.aitimes.kr/news/articleView.html?idxno=42920
 
-◾ 연구 실패까지 기억하는 AI 과학자…ETRI-UST, 연구 설계부터 논문 작성까지 자율 수행하는 ‘유라’ 오픈소스 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42894
+◾ 정부, 국가연구데이터를 AI 시대 전략자산으로…생산부터 개방·활용까지 전주기 관리체계 구축
+https://www.aitimes.kr/news/articleView.html?idxno=42919
 
-◾ 과기정통부, AI 해킹방어대회 개최…사이버위협 대응 역량 강화
-https://www.etnews.com/20261126000299
+◾ 피지컬 AI ＇공존의 법제＇ 모색…“로봇 진흥 규범도 진화해야”
+https://www.etnews.com/20261127000329
 
-◾ 인공지능 시대, 우리 사회가 마주한 쟁점을 논하는｢인공지능 사회정책포럼｣ 공개 발표회 개최
-https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188012&searchOpt=ALL&searchTxt=
+◾ 제5회 K-디지털 그랜드 챔피언십 개최… 대한민국 대표 인공지능 창업 초기 기업 발굴‧육성
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188024&searchOpt=ALL&searchTxt=
 
-◾ 연구·논문작성 모든 과정 스스로...ETRI, 日보다 앞선 AI 에이전트 개발
-https://www.etnews.com/20261126000229
+◾ 인공지능 시대 연구개발 경쟁력의 핵심, ‘국가연구데이터’ 생태계 기반 마련
+https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188016&searchOpt=ALL&searchTxt=
 
 [해외]
-◾ 자동차와 휴머노이드, 하나의 AI 두뇌로 움직인다…샤오펑, 튜링 피지컬 AI 아키텍처 공개
-https://www.aitimes.kr/news/articleView.html?idxno=42898
+◾ 뉴럴링크, 미 최초 BCI 핵심 임상시험 승인…상용화 검증 돌입
+https://www.aitimes.com/news/articleView.html?idxno=217875
 
-◾ 코그니션, 코딩 모델 ＇SWE-2.1＇ 출시…장기 작업·사이버 보안 성능 강화
-https://www.aitimes.com/news/articleView.html?idxno=217826
+◾ 앤트로픽, MCP 서버에 ＇스킬＇ 도입…에이전트에 업무 노하우 전달
+https://www.aitimes.com/news/articleView.html?idxno=217847
 
-◾ 스페이스X, 위성 100만기로 우주 AI 데이터센터 구축… 美 FCC 승인
-https://www.etnews.com/20261126000337
+◾ 스위스 정부 〃AI 에이전트 활용 사이버 공격 5건 확인…4건 침해 성공〃
+https://www.aitimes.com/news/articleView.html?idxno=217851
+
+◾ 엔비디아, 동남아 4개국 AI 서버 출하 중단…美 ＇中 우회 접근＇ 차단 여파
+https://www.etnews.com/20261127000010
+
+📚 간행물
+◾ 2026 개인정보 이슈 심층 분석 보고서(VOL.7) - AI 거버넌스와 책임
+https://www.kisa.or.kr/20202/form?postSeq=493&page=1
+
+◾ [KISA Insight 2026 Vol.01] 리더들이 전망하는 2027년 사이버보안 이슈
+https://www.kisa.or.kr/20301/form?postSeq=35&page=1
+
+◾ [AI Policy Insights 2026-7] 스마트안경과 생성형 AI는 어디까지 허용하는가
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30234&parentSeq=30234
+
+◾ [AI Policy Insights 2026-6] 미 스탠포드대 AI 경제지표 분석 및 시사점
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30230&parentSeq=30230
+
+◾ 익스트림 MIMO(Extreme-MIMO), 어디까지 진화했나? : Massive MIMO 기술 고도화 동향 및 시사점
+https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99959&bcIdx=30229&parentSeq=30229
 
 
 🎧오디오 듣기 https://ai-trend-analysis.vercel.app/public/bf.html

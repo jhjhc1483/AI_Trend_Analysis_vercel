@@ -43802,5 +43802,593 @@
       ]
     },
     "briefing": "- 국방정보본부가 인핸스를 AI 민간자문기업으로 위촉하는 등 국방 AI 발전을 위한 민관 협력을 확대했습니다.\n- 데이터스트림즈가 국방 AI 데이터 혁신에 기여한 공로를 인정받아 육군정보통신학교로부터 감사장을 수상했습니다.\n- ETRI가 연구 설계부터 논문 작성까지 자율 수행이 가능한 AI 에이전트 '유라'의 오픈소스를 공개했습니다."
+  },
+  "26.11.28": {
+    "ai_pick": [
+      {
+        "title": "국방부장관, 육군 동원사단 드론실증부대 현장점검",
+        "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNTQyOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+        "site": "MND",
+        "category": "육군",
+        "score": 3,
+        "reason": "국방부장관이 육군 드론 부대의 AI 기반 실증 현장을 점검함.",
+        "keywords": [
+          "국방부",
+          "드론 실증",
+          "AI"
+        ]
+      },
+      {
+        "title": "연합 디지털 트윈 프레임워크 ‘페딧’ 오픈소스 공개…ETRI, 개별 디지털 트윈 연결해 통합 분석·예측",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42928",
+        "site": "AINEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "ETRI가 개발한 디지털 트윈 프레임워크로 통합 분석 예측 지원.",
+        "keywords": [
+          "ETRI",
+          "디지털 트윈",
+          "AI"
+        ]
+      },
+      {
+        "title": "산업부, 피지컬 AI 경쟁력 높인다…로봇 학습 데이터 국가표준 선제 제정 추진",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42920",
+        "site": "AINEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "산업부가 피지컬 AI 로봇 학습 데이터 국가표준 제정을 추진함.",
+        "keywords": [
+          "산업부",
+          "피지컬 AI",
+          "국가표준"
+        ]
+      },
+      {
+        "title": "정부, 국가연구데이터를 AI 시대 전략자산으로…생산부터 개방·활용까지 전주기 관리체계 구축",
+        "link": "https://www.aitimes.kr/news/articleView.html?idxno=42919",
+        "site": "AINEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "정부가 국가연구데이터를 AI 전략자산으로 관리하는 체계 구축.",
+        "keywords": [
+          "과기정통부",
+          "연구데이터",
+          "AI 전략자산"
+        ]
+      },
+      {
+        "title": "피지컬 AI ＇공존의 법제＇ 모색…“로봇 진흥 규범도 진화해야”",
+        "link": "https://www.etnews.com/20261127000329",
+        "site": "ETNEWS",
+        "category": "기관",
+        "score": 4,
+        "reason": "피지컬 AI 확산에 따른 로봇 진흥 법제도 정비 논의 필요성.",
+        "keywords": [
+          "피지컬 AI",
+          "규제 혁신",
+          "법제"
+        ]
+      },
+      {
+        "title": "코난테크놀로지, 경남 제조AX기술센터 연다…방산·제조 AX 지원",
+        "link": "https://www.etnews.com/20261127000327",
+        "site": "ETNEWS",
+        "category": "국방",
+        "score": 4,
+        "reason": "코난테크놀로지가 경남 제조AX기술센터를 통해 방산 AI를 지원.",
+        "keywords": [
+          "코난테크놀로지",
+          "방산",
+          "제조AX"
+        ]
+      },
+      {
+        "title": "뉴럴링크, 미 최초 BCI 핵심 임상시험 승인…상용화 검증 돌입",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217875",
+        "site": "AITIMES",
+        "category": "해외",
+        "score": 5,
+        "reason": "뉴럴링크가 미 최초로 BCI 임상시험 승인을 획득해 상용화 착수.",
+        "keywords": [
+          "뉴럴링크",
+          "BCI",
+          "의료AI"
+        ]
+      },
+      {
+        "title": "앤트로픽, MCP 서버에 ＇스킬＇ 도입…에이전트에 업무 노하우 전달",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217847",
+        "site": "AITIMES",
+        "category": "해외",
+        "score": 4,
+        "reason": "앤트로픽이 AI 에이전트에 업무 노하우를 전달하는 스킬 기능 도입.",
+        "keywords": [
+          "앤트로픽",
+          "AI 에이전트",
+          "MCP"
+        ]
+      },
+      {
+        "title": "스위스 정부 〃AI 에이전트 활용 사이버 공격 5건 확인…4건 침해 성공〃",
+        "link": "https://www.aitimes.com/news/articleView.html?idxno=217851",
+        "site": "AITIMES",
+        "category": "해외",
+        "score": 5,
+        "reason": "스위스 정부가 AI 에이전트 기반 사이버 공격 피해 사례 공식 확인.",
+        "keywords": [
+          "사이버 공격",
+          "AI 에이전트",
+          "사이버 보안"
+        ]
+      },
+      {
+        "title": "포시에스, 전자문서에 AI 에이전트 결합…기업 지식 자산화 시장 공략",
+        "link": "https://www.etnews.com/20261127000355",
+        "site": "ETNEWS",
+        "category": "민간",
+        "score": 3,
+        "reason": "포시에스가 전자문서에 AI 에이전트를 결합하여 기업 자산화 지원.",
+        "keywords": [
+          "포시에스",
+          "AI 에이전트",
+          "전자문서"
+        ]
+      },
+      {
+        "title": "스페이스뱅크, 사족보행로봇·무인지상차량 활용한 통합 원격 임무 교육",
+        "link": "https://www.etnews.com/20261127000058",
+        "site": "ETNEWS",
+        "category": "육군",
+        "score": 4,
+        "reason": "사족보행로봇과 무인차량을 활용한 군의 통합 원격 임무 교육 사례",
+        "keywords": [
+          "스페이스뱅크",
+          "사족보행로봇",
+          "무인차량"
+        ]
+      },
+      {
+        "title": "어드밴텍, 로봇·피지컬 AI를 위한 통합 카메라 아키텍처 ＇UniCAM＇ 선보여",
+        "link": "https://www.etnews.com/20261127000036",
+        "site": "ETNEWS",
+        "category": "민간",
+        "score": 3,
+        "reason": "로봇 및 피지컬 AI 환경을 위한 통합 카메라 기술 아키텍처",
+        "keywords": [
+          "어드밴텍",
+          "피지컬 AI",
+          "UniCAM"
+        ]
+      },
+      {
+        "title": "디에스앤지, 차세대 AI 데이터센터 구축 전략 제시…글로벌 기술 협력 강화",
+        "link": "https://www.etnews.com/20261127000029",
+        "site": "ETNEWS",
+        "category": "민간",
+        "score": 3,
+        "reason": "차세대 AI 데이터센터 구축 및 글로벌 기술 협력 강화 전략",
+        "keywords": [
+          "디에스앤지",
+          "AI 데이터센터"
+        ]
+      },
+      {
+        "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…美 ＇中 우회 접근＇ 차단 여파",
+        "link": "https://www.etnews.com/20261127000010",
+        "site": "ETNEWS",
+        "category": "해외",
+        "score": 5,
+        "reason": "미국의 대중국 AI 칩 수출 규제 및 우회 접근 차단 조치 심화",
+        "keywords": [
+          "엔비디아",
+          "수출 규제",
+          "AI 서버"
+        ]
+      },
+      {
+        "title": "제5회 K-디지털 그랜드 챔피언십 개최… 대한민국 대표 인공지능 창업 초기 기업 발굴‧육성",
+        "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188024&searchOpt=ALL&searchTxt=",
+        "site": "MSIT",
+        "category": "기관",
+        "score": 4,
+        "reason": "대한민국 대표 AI 창업 초기 기업 발굴 및 육성 프로그램 개최",
+        "keywords": [
+          "과기정통부",
+          "K-디지털",
+          "AI 창업"
+        ]
+      },
+      {
+        "title": "인공지능 시대 연구개발 경쟁력의 핵심, ‘국가연구데이터’ 생태계 기반 마련",
+        "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188016&searchOpt=ALL&searchTxt=",
+        "site": "MSIT",
+        "category": "기관",
+        "score": 4,
+        "reason": "AI 시대 연구개발 경쟁력 확보를 위한 국가 연구데이터 생태계 조성",
+        "keywords": [
+          "국가연구데이터",
+          "AI 생태계"
+        ]
+      },
+      {
+        "title": "2026 개인정보 이슈 심층 분석 보고서(VOL.7) - AI 거버넌스와 책임",
+        "link": "https://www.kisa.or.kr/20202/form?postSeq=493&page=1",
+        "site": "KISA",
+        "category": "간행물",
+        "score": 4,
+        "reason": "AI 기술의 안전한 국방 도입을 위한 거버넌스와 책임 범위를 제시함",
+        "keywords": [
+          "AI 거버넌스",
+          "개인정보",
+          "보안 정책"
+        ]
+      },
+      {
+        "title": "[KISA Insight 2026 Vol.01] 리더들이 전망하는 2027년 사이버보안 이슈",
+        "link": "https://www.kisa.or.kr/20301/form?postSeq=35&page=1",
+        "site": "KISA",
+        "category": "간행물",
+        "score": 5,
+        "reason": "차세대 사이버 위협 전망을 통해 국방 및 국가 보안 전략 수립에 기여함",
+        "keywords": [
+          "사이버보안",
+          "국방 보안",
+          "보안 전망"
+        ]
+      },
+      {
+        "title": "[AI Policy Insights 2026-7] 스마트안경과 생성형 AI는 어디까지 허용하는가",
+        "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30234&parentSeq=30234",
+        "site": "NIA",
+        "category": "간행물",
+        "score": 3,
+        "reason": "생성형 AI와 스마트 기기 결합에 따른 기술적 가이드라인 제공",
+        "keywords": [
+          "생성형 AI",
+          "스마트안경",
+          "AI 규제"
+        ]
+      },
+      {
+        "title": "[AI Policy Insights 2026-6] 미 스탠포드대 AI 경제지표 분석 및 시사점",
+        "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30230&parentSeq=30230",
+        "site": "NIA",
+        "category": "간행물",
+        "score": 4,
+        "reason": "AI 경제 지표 분석을 통해 미래 국방 기술 투자 방향을 가늠할 수 있음",
+        "keywords": [
+          "AI 경제",
+          "기술 지표",
+          "정책 시사점"
+        ]
+      },
+      {
+        "title": "익스트림 MIMO(Extreme-MIMO), 어디까지 진화했나? : Massive MIMO 기술 고도화 동향 및 시사점",
+        "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99959&bcIdx=30229&parentSeq=30229",
+        "site": "NIA",
+        "category": "간행물",
+        "score": 5,
+        "reason": "차세대 군 통신망 구축에 필수적인 초고속 무선 통신 기술 동향 분석",
+        "keywords": [
+          "Extreme-MIMO",
+          "국방 통신",
+          "무선 기술"
+        ]
+      }
+    ],
+    "ai_meta": {
+      "generated_at": "2026-11-28T04:14:31+09:00",
+      "trigger": "auto",
+      "model": "gemini-3.1-flash-lite",
+      "target_date": "2026-11-27",
+      "article_prompt": {
+        "prompt_version": "1e60c7e808",
+        "fewshot_count": 68,
+        "fewshot_version": "61296da37b",
+        "exclusion_rule_count": 6,
+        "recent_titles_count": 55
+      },
+      "publication_prompt": {
+        "prompt_version": "c1d67fa48d"
+      },
+      "candidates": {
+        "articles": 122,
+        "publications": 6
+      },
+      "skipped": {
+        "excluded": 0,
+        "duplicate": 0
+      },
+      "selected": {
+        "articles": 16,
+        "publications": 5
+      }
+    },
+    "categorized": {
+      "육군": [
+        {
+          "title": "국방부장관, 육군 동원사단 드론실증부대 현장점검",
+          "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNTQyOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+          "site": "MND",
+          "category": "육군",
+          "score": 3,
+          "reason": "국방부장관이 육군 드론 부대의 AI 기반 실증 현장을 점검함.",
+          "keywords": [
+            "국방부",
+            "드론 실증",
+            "AI"
+          ]
+        },
+        {
+          "title": "스페이스뱅크, 사족보행로봇·무인지상차량 활용한 통합 원격 임무 교육",
+          "link": "https://www.etnews.com/20261127000058",
+          "site": "ETNEWS",
+          "category": "육군",
+          "score": 4,
+          "reason": "사족보행로봇과 무인차량을 활용한 군의 통합 원격 임무 교육 사례",
+          "keywords": [
+            "스페이스뱅크",
+            "사족보행로봇",
+            "무인차량"
+          ]
+        }
+      ],
+      "기관": [
+        {
+          "title": "연합 디지털 트윈 프레임워크 ‘페딧’ 오픈소스 공개…ETRI, 개별 디지털 트윈 연결해 통합 분석·예측",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42928",
+          "site": "AINEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "ETRI가 개발한 디지털 트윈 프레임워크로 통합 분석 예측 지원.",
+          "keywords": [
+            "ETRI",
+            "디지털 트윈",
+            "AI"
+          ]
+        },
+        {
+          "title": "산업부, 피지컬 AI 경쟁력 높인다…로봇 학습 데이터 국가표준 선제 제정 추진",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42920",
+          "site": "AINEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "산업부가 피지컬 AI 로봇 학습 데이터 국가표준 제정을 추진함.",
+          "keywords": [
+            "산업부",
+            "피지컬 AI",
+            "국가표준"
+          ]
+        },
+        {
+          "title": "정부, 국가연구데이터를 AI 시대 전략자산으로…생산부터 개방·활용까지 전주기 관리체계 구축",
+          "link": "https://www.aitimes.kr/news/articleView.html?idxno=42919",
+          "site": "AINEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "정부가 국가연구데이터를 AI 전략자산으로 관리하는 체계 구축.",
+          "keywords": [
+            "과기정통부",
+            "연구데이터",
+            "AI 전략자산"
+          ]
+        },
+        {
+          "title": "피지컬 AI ＇공존의 법제＇ 모색…“로봇 진흥 규범도 진화해야”",
+          "link": "https://www.etnews.com/20261127000329",
+          "site": "ETNEWS",
+          "category": "기관",
+          "score": 4,
+          "reason": "피지컬 AI 확산에 따른 로봇 진흥 법제도 정비 논의 필요성.",
+          "keywords": [
+            "피지컬 AI",
+            "규제 혁신",
+            "법제"
+          ]
+        },
+        {
+          "title": "제5회 K-디지털 그랜드 챔피언십 개최… 대한민국 대표 인공지능 창업 초기 기업 발굴‧육성",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188024&searchOpt=ALL&searchTxt=",
+          "site": "MSIT",
+          "category": "기관",
+          "score": 4,
+          "reason": "대한민국 대표 AI 창업 초기 기업 발굴 및 육성 프로그램 개최",
+          "keywords": [
+            "과기정통부",
+            "K-디지털",
+            "AI 창업"
+          ]
+        },
+        {
+          "title": "인공지능 시대 연구개발 경쟁력의 핵심, ‘국가연구데이터’ 생태계 기반 마련",
+          "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188016&searchOpt=ALL&searchTxt=",
+          "site": "MSIT",
+          "category": "기관",
+          "score": 4,
+          "reason": "AI 시대 연구개발 경쟁력 확보를 위한 국가 연구데이터 생태계 조성",
+          "keywords": [
+            "국가연구데이터",
+            "AI 생태계"
+          ]
+        }
+      ],
+      "국방": [
+        {
+          "title": "코난테크놀로지, 경남 제조AX기술센터 연다…방산·제조 AX 지원",
+          "link": "https://www.etnews.com/20261127000327",
+          "site": "ETNEWS",
+          "category": "국방",
+          "score": 4,
+          "reason": "코난테크놀로지가 경남 제조AX기술센터를 통해 방산 AI를 지원.",
+          "keywords": [
+            "코난테크놀로지",
+            "방산",
+            "제조AX"
+          ]
+        }
+      ],
+      "해외": [
+        {
+          "title": "뉴럴링크, 미 최초 BCI 핵심 임상시험 승인…상용화 검증 돌입",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217875",
+          "site": "AITIMES",
+          "category": "해외",
+          "score": 5,
+          "reason": "뉴럴링크가 미 최초로 BCI 임상시험 승인을 획득해 상용화 착수.",
+          "keywords": [
+            "뉴럴링크",
+            "BCI",
+            "의료AI"
+          ]
+        },
+        {
+          "title": "앤트로픽, MCP 서버에 ＇스킬＇ 도입…에이전트에 업무 노하우 전달",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217847",
+          "site": "AITIMES",
+          "category": "해외",
+          "score": 4,
+          "reason": "앤트로픽이 AI 에이전트에 업무 노하우를 전달하는 스킬 기능 도입.",
+          "keywords": [
+            "앤트로픽",
+            "AI 에이전트",
+            "MCP"
+          ]
+        },
+        {
+          "title": "스위스 정부 〃AI 에이전트 활용 사이버 공격 5건 확인…4건 침해 성공〃",
+          "link": "https://www.aitimes.com/news/articleView.html?idxno=217851",
+          "site": "AITIMES",
+          "category": "해외",
+          "score": 5,
+          "reason": "스위스 정부가 AI 에이전트 기반 사이버 공격 피해 사례 공식 확인.",
+          "keywords": [
+            "사이버 공격",
+            "AI 에이전트",
+            "사이버 보안"
+          ]
+        },
+        {
+          "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…美 ＇中 우회 접근＇ 차단 여파",
+          "link": "https://www.etnews.com/20261127000010",
+          "site": "ETNEWS",
+          "category": "해외",
+          "score": 5,
+          "reason": "미국의 대중국 AI 칩 수출 규제 및 우회 접근 차단 조치 심화",
+          "keywords": [
+            "엔비디아",
+            "수출 규제",
+            "AI 서버"
+          ]
+        }
+      ],
+      "민간": [
+        {
+          "title": "포시에스, 전자문서에 AI 에이전트 결합…기업 지식 자산화 시장 공략",
+          "link": "https://www.etnews.com/20261127000355",
+          "site": "ETNEWS",
+          "category": "민간",
+          "score": 3,
+          "reason": "포시에스가 전자문서에 AI 에이전트를 결합하여 기업 자산화 지원.",
+          "keywords": [
+            "포시에스",
+            "AI 에이전트",
+            "전자문서"
+          ]
+        },
+        {
+          "title": "어드밴텍, 로봇·피지컬 AI를 위한 통합 카메라 아키텍처 ＇UniCAM＇ 선보여",
+          "link": "https://www.etnews.com/20261127000036",
+          "site": "ETNEWS",
+          "category": "민간",
+          "score": 3,
+          "reason": "로봇 및 피지컬 AI 환경을 위한 통합 카메라 기술 아키텍처",
+          "keywords": [
+            "어드밴텍",
+            "피지컬 AI",
+            "UniCAM"
+          ]
+        },
+        {
+          "title": "디에스앤지, 차세대 AI 데이터센터 구축 전략 제시…글로벌 기술 협력 강화",
+          "link": "https://www.etnews.com/20261127000029",
+          "site": "ETNEWS",
+          "category": "민간",
+          "score": 3,
+          "reason": "차세대 AI 데이터센터 구축 및 글로벌 기술 협력 강화 전략",
+          "keywords": [
+            "디에스앤지",
+            "AI 데이터센터"
+          ]
+        }
+      ],
+      "간행물": [
+        {
+          "title": "2026 개인정보 이슈 심층 분석 보고서(VOL.7) - AI 거버넌스와 책임",
+          "link": "https://www.kisa.or.kr/20202/form?postSeq=493&page=1",
+          "site": "KISA",
+          "category": "간행물",
+          "score": 4,
+          "reason": "AI 기술의 안전한 국방 도입을 위한 거버넌스와 책임 범위를 제시함",
+          "keywords": [
+            "AI 거버넌스",
+            "개인정보",
+            "보안 정책"
+          ]
+        },
+        {
+          "title": "[KISA Insight 2026 Vol.01] 리더들이 전망하는 2027년 사이버보안 이슈",
+          "link": "https://www.kisa.or.kr/20301/form?postSeq=35&page=1",
+          "site": "KISA",
+          "category": "간행물",
+          "score": 5,
+          "reason": "차세대 사이버 위협 전망을 통해 국방 및 국가 보안 전략 수립에 기여함",
+          "keywords": [
+            "사이버보안",
+            "국방 보안",
+            "보안 전망"
+          ]
+        },
+        {
+          "title": "[AI Policy Insights 2026-7] 스마트안경과 생성형 AI는 어디까지 허용하는가",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30234&parentSeq=30234",
+          "site": "NIA",
+          "category": "간행물",
+          "score": 3,
+          "reason": "생성형 AI와 스마트 기기 결합에 따른 기술적 가이드라인 제공",
+          "keywords": [
+            "생성형 AI",
+            "스마트안경",
+            "AI 규제"
+          ]
+        },
+        {
+          "title": "[AI Policy Insights 2026-6] 미 스탠포드대 AI 경제지표 분석 및 시사점",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=66361&bcIdx=30230&parentSeq=30230",
+          "site": "NIA",
+          "category": "간행물",
+          "score": 4,
+          "reason": "AI 경제 지표 분석을 통해 미래 국방 기술 투자 방향을 가늠할 수 있음",
+          "keywords": [
+            "AI 경제",
+            "기술 지표",
+            "정책 시사점"
+          ]
+        },
+        {
+          "title": "익스트림 MIMO(Extreme-MIMO), 어디까지 진화했나? : Massive MIMO 기술 고도화 동향 및 시사점",
+          "link": "https://nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=99959&bcIdx=30229&parentSeq=30229",
+          "site": "NIA",
+          "category": "간행물",
+          "score": 5,
+          "reason": "차세대 군 통신망 구축에 필수적인 초고속 무선 통신 기술 동향 분석",
+          "keywords": [
+            "Extreme-MIMO",
+            "국방 통신",
+            "무선 기술"
+          ]
+        }
+      ]
+    }
   }
 }

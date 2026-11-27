@@ -1,241 +1,208 @@
 [
   {
-    "title": "[게시판] 인핸스, 국방정보본부 ＇AI 민간자문기업＇ 위촉 등 단신",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217827",
-    "site": "AITIMES",
-    "category": "국방",
-    "score": 5,
-    "reason": "인핸스, 국방정보본부 AI 민간 자문기업으로 위촉",
-    "keywords": [
-      "인핸스",
-      "국방정보본부",
-      "AI 자문"
-    ]
-  },
-  {
-    "title": "대한항공, AI로 조종사·승무원 수면건강 관리…항공업계 최초 디지털 수면검사 도입",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42912",
-    "site": "AINEWS",
-    "category": "민간",
+    "title": "국방부장관, 육군 동원사단 드론실증부대 현장점검",
+    "link": "https://www.mnd.go.kr/mnd/167/subview.do?enc=Zm5jdDF8QEB8JTJGYmJzJTJGbW5kJTJGMTMwMDAwMDUlMkZEUElNXzEyNTQyOCUyRmFydGNsVmlldy5kbyUzRnBhZ2UlM0QxJTI2",
+    "site": "MND",
+    "category": "육군",
     "score": 3,
-    "reason": "대한항공이 항공업계 최초로 AI 활용 수면 건강관리 도입",
+    "reason": "국방부장관이 육군 드론 부대의 AI 기반 실증 현장을 점검함.",
     "keywords": [
-      "대한항공",
-      "AI",
-      "수면검사"
+      "국방부",
+      "드론 실증",
+      "AI"
     ]
   },
   {
-    "title": "세계 55개국·463개 기업과 기관 참여…역대 최대 ‘컴업 2026’, AI로 스타트업 투자·사업 협력 연결한다",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42906",
-    "site": "AINEWS",
-    "category": "기관",
-    "score": 3,
-    "reason": "컴업 2026 개최, AI 기반 스타트업 투자 및 사업 협력 강화",
-    "keywords": [
-      "컴업2026",
-      "AI",
-      "스타트업"
-    ]
-  },
-  {
-    "title": "KB금융, AI 에이전트로 금융 업무 혁신 가속…전 계열사 AI 기술·개발 노하우 공유",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42903",
-    "site": "AINEWS",
-    "category": "민간",
-    "score": 4,
-    "reason": "KB금융, 전 계열사 AI 에이전트 도입 및 기술 노하우 공유",
-    "keywords": [
-      "KB금융",
-      "AI 에이전트"
-    ]
-  },
-  {
-    "title": "이형일 부총리, “전략산업 육성이 우리 경제의 가장 중요한 과제”…피지컬 AI 상용화·에이전틱 AI 제도 정비 추진",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42902",
+    "title": "연합 디지털 트윈 프레임워크 ‘페딧’ 오픈소스 공개…ETRI, 개별 디지털 트윈 연결해 통합 분석·예측",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42928",
     "site": "AINEWS",
     "category": "기관",
     "score": 4,
-    "reason": "정부, 피지컬 AI 상용화 및 에이전틱 AI 제도 정비 본격 추진",
-    "keywords": [
-      "피지컬 AI",
-      "에이전틱 AI",
-      "전략산업"
-    ]
-  },
-  {
-    "title": "자동차와 휴머노이드, 하나의 AI 두뇌로 움직인다…샤오펑, 튜링 피지컬 AI 아키텍처 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42898",
-    "site": "AINEWS",
-    "category": "해외",
-    "score": 3,
-    "reason": "샤오펑, 자동차와 휴머노이드 결합한 튜링 아키텍처 공개",
-    "keywords": [
-      "샤오펑",
-      "피지컬 AI",
-      "휴머노이드"
-    ]
-  },
-  {
-    "title": "연구 실패까지 기억하는 AI 과학자…ETRI-UST, 연구 설계부터 논문 작성까지 자율 수행하는 ‘유라’ 오픈소스 공개",
-    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42894",
-    "site": "AINEWS",
-    "category": "기관",
-    "score": 4,
-    "reason": "ETRI-UST, 연구 설계부터 논문 작성까지 자율 수행 AI '유라' 공개",
+    "reason": "ETRI가 개발한 디지털 트윈 프레임워크로 통합 분석 예측 지원.",
     "keywords": [
       "ETRI",
-      "AI 과학자",
-      "유라"
+      "디지털 트윈",
+      "AI"
     ]
   },
   {
-    "title": "코그니션, 코딩 모델 ＇SWE-2.1＇ 출시…장기 작업·사이버 보안 성능 강화",
-    "link": "https://www.aitimes.com/news/articleView.html?idxno=217826",
+    "title": "산업부, 피지컬 AI 경쟁력 높인다…로봇 학습 데이터 국가표준 선제 제정 추진",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42920",
+    "site": "AINEWS",
+    "category": "기관",
+    "score": 4,
+    "reason": "산업부가 피지컬 AI 로봇 학습 데이터 국가표준 제정을 추진함.",
+    "keywords": [
+      "산업부",
+      "피지컬 AI",
+      "국가표준"
+    ]
+  },
+  {
+    "title": "정부, 국가연구데이터를 AI 시대 전략자산으로…생산부터 개방·활용까지 전주기 관리체계 구축",
+    "link": "https://www.aitimes.kr/news/articleView.html?idxno=42919",
+    "site": "AINEWS",
+    "category": "기관",
+    "score": 4,
+    "reason": "정부가 국가연구데이터를 AI 전략자산으로 관리하는 체계 구축.",
+    "keywords": [
+      "과기정통부",
+      "연구데이터",
+      "AI 전략자산"
+    ]
+  },
+  {
+    "title": "피지컬 AI ＇공존의 법제＇ 모색…“로봇 진흥 규범도 진화해야”",
+    "link": "https://www.etnews.com/20261127000329",
+    "site": "ETNEWS",
+    "category": "기관",
+    "score": 4,
+    "reason": "피지컬 AI 확산에 따른 로봇 진흥 법제도 정비 논의 필요성.",
+    "keywords": [
+      "피지컬 AI",
+      "규제 혁신",
+      "법제"
+    ]
+  },
+  {
+    "title": "코난테크놀로지, 경남 제조AX기술센터 연다…방산·제조 AX 지원",
+    "link": "https://www.etnews.com/20261127000327",
+    "site": "ETNEWS",
+    "category": "국방",
+    "score": 4,
+    "reason": "코난테크놀로지가 경남 제조AX기술센터를 통해 방산 AI를 지원.",
+    "keywords": [
+      "코난테크놀로지",
+      "방산",
+      "제조AX"
+    ]
+  },
+  {
+    "title": "뉴럴링크, 미 최초 BCI 핵심 임상시험 승인…상용화 검증 돌입",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217875",
+    "site": "AITIMES",
+    "category": "해외",
+    "score": 5,
+    "reason": "뉴럴링크가 미 최초로 BCI 임상시험 승인을 획득해 상용화 착수.",
+    "keywords": [
+      "뉴럴링크",
+      "BCI",
+      "의료AI"
+    ]
+  },
+  {
+    "title": "앤트로픽, MCP 서버에 ＇스킬＇ 도입…에이전트에 업무 노하우 전달",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217847",
     "site": "AITIMES",
     "category": "해외",
     "score": 4,
-    "reason": "코그니션, 보안 성능 강화된 코딩 모델 SWE-2.1 출시",
+    "reason": "앤트로픽이 AI 에이전트에 업무 노하우를 전달하는 스킬 기능 도입.",
     "keywords": [
-      "코그니션",
-      "SWE-2.1",
-      "사이버보안"
+      "앤트로픽",
+      "AI 에이전트",
+      "MCP"
     ]
   },
   {
-    "title": "[단독] 삼성 “반도체 공장 무인화”… 로봇팀 꾸렸다",
-    "link": "https://www.etnews.com/20261126000296",
+    "title": "스위스 정부 〃AI 에이전트 활용 사이버 공격 5건 확인…4건 침해 성공〃",
+    "link": "https://www.aitimes.com/news/articleView.html?idxno=217851",
+    "site": "AITIMES",
+    "category": "해외",
+    "score": 5,
+    "reason": "스위스 정부가 AI 에이전트 기반 사이버 공격 피해 사례 공식 확인.",
+    "keywords": [
+      "사이버 공격",
+      "AI 에이전트",
+      "사이버 보안"
+    ]
+  },
+  {
+    "title": "포시에스, 전자문서에 AI 에이전트 결합…기업 지식 자산화 시장 공략",
+    "link": "https://www.etnews.com/20261127000355",
     "site": "ETNEWS",
     "category": "민간",
-    "score": 4,
-    "reason": "삼성전자, 반도체 공장 무인화를 위한 전담 로봇팀 구성",
+    "score": 3,
+    "reason": "포시에스가 전자문서에 AI 에이전트를 결합하여 기업 자산화 지원.",
     "keywords": [
-      "삼성전자",
-      "공장 무인화",
-      "로봇팀"
+      "포시에스",
+      "AI 에이전트",
+      "전자문서"
     ]
   },
   {
-    "title": "국방AI리더스포럼, ＇2026 국방AI리더스포럼 어워드＇ 개최···우수기업·유공자 발굴",
-    "link": "https://www.etnews.com/20261126000278",
+    "title": "스페이스뱅크, 사족보행로봇·무인지상차량 활용한 통합 원격 임무 교육",
+    "link": "https://www.etnews.com/20261127000058",
     "site": "ETNEWS",
-    "category": "국방",
+    "category": "육군",
     "score": 4,
-    "reason": "국방 AI 우수 기업과 유공자를 발굴하는 포럼 및 어워드 개최",
+    "reason": "사족보행로봇과 무인차량을 활용한 군의 통합 원격 임무 교육 사례",
     "keywords": [
-      "국방AI리더스포럼",
-      "국방AI"
+      "스페이스뱅크",
+      "사족보행로봇",
+      "무인차량"
     ]
   },
   {
-    "title": "데이터스트림즈, 국방 AI 데이터 혁신 기여 공로로 육군정보통신학교 감사장 수상",
-    "link": "https://www.etnews.com/20261126000208",
+    "title": "어드밴텍, 로봇·피지컬 AI를 위한 통합 카메라 아키텍처 ＇UniCAM＇ 선보여",
+    "link": "https://www.etnews.com/20261127000036",
     "site": "ETNEWS",
-    "category": "국방",
-    "score": 4,
-    "reason": "데이터스트림즈, 육군정보통신학교로부터 국방 AI 데이터 혁신 공로 인정",
+    "category": "민간",
+    "score": 3,
+    "reason": "로봇 및 피지컬 AI 환경을 위한 통합 카메라 기술 아키텍처",
     "keywords": [
-      "데이터스트림즈",
-      "육군정보통신학교",
-      "국방AI"
+      "어드밴텍",
+      "피지컬 AI",
+      "UniCAM"
     ]
   },
   {
-    "title": "첨단기술 대응 국방 표준화 발전 방향 모색",
-    "link": "https://kookbang.dema.mil.kr/newsWeb/20261127/1/ATCE_CTGR_0010020000/view.do;JSESSIONID_kookbnagWEB=UukZRS1iIlc18Hn_q7yLsFocRzoItmKfmVi7SLBL2hKsOT2Pudz1!965578293",
-    "site": "kookbang",
-    "category": "국방",
-    "score": 4,
-    "reason": "첨단 국방 기술 대응을 위한 국방 표준화 발전 방안 모색",
-    "keywords": [
-      "국방표준화",
-      "첨단기술"
-    ]
-  },
-  {
-    "title": "스페이스X, 위성 100만기로 우주 AI 데이터센터 구축… 美 FCC 승인",
-    "link": "https://www.etnews.com/20261126000337",
+    "title": "디에스앤지, 차세대 AI 데이터센터 구축 전략 제시…글로벌 기술 협력 강화",
+    "link": "https://www.etnews.com/20261127000029",
     "site": "ETNEWS",
-    "category": "해외",
-    "score": 4,
-    "reason": "스페이스X, 위성 100만기를 활용한 우주 기반 AI 데이터센터 구축 FCC 승인",
+    "category": "민간",
+    "score": 3,
+    "reason": "차세대 AI 데이터센터 구축 및 글로벌 기술 협력 강화 전략",
     "keywords": [
-      "스페이스X",
+      "디에스앤지",
       "AI 데이터센터"
     ]
   },
   {
-    "title": "과기정통부, AI 해킹방어대회 개최…사이버위협 대응 역량 강화",
-    "link": "https://www.etnews.com/20261126000299",
+    "title": "엔비디아, 동남아 4개국 AI 서버 출하 중단…美 ＇中 우회 접근＇ 차단 여파",
+    "link": "https://www.etnews.com/20261127000010",
     "site": "ETNEWS",
-    "category": "기관",
-    "score": 4,
-    "reason": "과기정통부, 국가 차원의 AI 해킹 방어 역량 강화 대회 개최",
+    "category": "해외",
+    "score": 5,
+    "reason": "미국의 대중국 AI 칩 수출 규제 및 우회 접근 차단 조치 심화",
     "keywords": [
-      "과기정통부",
-      "AI 해킹방어대회"
+      "엔비디아",
+      "수출 규제",
+      "AI 서버"
     ]
   },
   {
-    "title": "인공지능 시대, 우리 사회가 마주한 쟁점을 논하는｢인공지능 사회정책포럼｣ 공개 발표회 개최",
-    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188012&searchOpt=ALL&searchTxt=",
+    "title": "제5회 K-디지털 그랜드 챔피언십 개최… 대한민국 대표 인공지능 창업 초기 기업 발굴‧육성",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188024&searchOpt=ALL&searchTxt=",
     "site": "MSIT",
     "category": "기관",
-    "score": 3,
-    "reason": "인공지능 시대 사회적 쟁점과 정책 방향을 논의하는 포럼 발표",
+    "score": 4,
+    "reason": "대한민국 대표 AI 창업 초기 기업 발굴 및 육성 프로그램 개최",
     "keywords": [
-      "인공지능",
-      "사회정책포럼"
+      "과기정통부",
+      "K-디지털",
+      "AI 창업"
     ]
   },
   {
-    "title": "AI 표준, 시장 속도 맞춘다…산업 AI 표준 포럼 ＇사실상 표준분과＇ 신설",
-    "link": "https://www.etnews.com/20261126000352",
-    "site": "ETNEWS",
-    "category": "민간",
-    "score": 3,
-    "reason": "시장 속도에 맞춘 산업 AI 표준 마련을 위한 사실상 표준분과 신설",
-    "keywords": [
-      "산업AI",
-      "표준포럼"
-    ]
-  },
-  {
-    "title": "유베이스, AI 기술기업 ＇엑스베이스＇ 설립…한국형 AICC로 美·日 공략",
-    "link": "https://www.etnews.com/20261126000251",
-    "site": "ETNEWS",
-    "category": "민간",
-    "score": 3,
-    "reason": "유베이스, AI 기술 자회사 설립 통해 한국형 AICC 글로벌 시장 공략",
-    "keywords": [
-      "유베이스",
-      "AICC",
-      "엑스베이스"
-    ]
-  },
-  {
-    "title": "연구·논문작성 모든 과정 스스로...ETRI, 日보다 앞선 AI 에이전트 개발",
-    "link": "https://www.etnews.com/20261126000229",
-    "site": "ETNEWS",
+    "title": "인공지능 시대 연구개발 경쟁력의 핵심, ‘국가연구데이터’ 생태계 기반 마련",
+    "link": "https://www.msit.go.kr/bbs/view.do?sCode=user&mId=307&mPid=208&pageIndex=1&bbsSeqNo=94&nttSeqNo=3188016&searchOpt=ALL&searchTxt=",
+    "site": "MSIT",
     "category": "기관",
     "score": 4,
-    "reason": "ETRI, 연구 및 논문 작성 전 과정을 스스로 수행하는 AI 에이전트 개발",
+    "reason": "AI 시대 연구개발 경쟁력 확보를 위한 국가 연구데이터 생태계 조성",
     "keywords": [
-      "ETRI",
-      "AI 에이전트"
-    ]
-  },
-  {
-    "title": "모디전스비전 CES 2027 최고혁신상 수상…피지컬 AI 비전 플랫폼 ＇MARU-Gen2＇로 글로벌 기술력 입증",
-    "link": "https://www.etnews.com/20261126000209",
-    "site": "ETNEWS",
-    "category": "민간",
-    "score": 4,
-    "reason": "모디전스비전, CES 2027 최고혁신상 수상한 피지컬 AI 플랫폼 공개",
-    "keywords": [
-      "모디전스비전",
-      "피지컬AI",
-      "CES2027"
+      "국가연구데이터",
+      "AI 생태계"
     ]
   }
 ]
