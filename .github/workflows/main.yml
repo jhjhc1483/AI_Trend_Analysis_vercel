@@ -34,12 +34,15 @@ jobs:
       - name: Set up Python
         uses: actions/setup-python@v6
         with:
-          python-version: '3.11' 
+          python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
         run: |
           python -m pip install --upgrade pip
-          pip install selenium requests beautifulsoup4 pandas webdriver-manager numpy python-dotenv
+          # 버전은 requirements.txt 에 고정 (numpy 는 pandas 가 설치)
+          pip install -c requirements.txt selenium requests beautifulsoup4 pandas webdriver-manager python-dotenv
 
       - name: Set up Chrome for Selenium
         run: |

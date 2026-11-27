@@ -1,0 +1,21 @@
+# 고정한 의존성(requirements.txt)과 Actions 버전을 한 달에 한 번 묶어서 올리는 PR 을 만듭니다.
+# PR 의 CI(ci.yml)가 통과하면 병합하면 됩니다. 필요 없으면 이 파일을 지우세요.
+version: 2
+updates:
+  - package-ecosystem: pip
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      python:
+        patterns: ["*"]
+    open-pull-requests-limit: 2
+
+  - package-ecosystem: github-actions
+    directory: /
+    schedule:
+      interval: monthly
+    groups:
+      actions:
+        patterns: ["*"]
+    open-pull-requests-limit: 1

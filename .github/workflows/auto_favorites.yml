@@ -27,11 +27,12 @@ jobs:
       uses: actions/setup-python@v6
       with:
         python-version: '3.11'
+        cache: pip
+        cache-dependency-path: requirements.txt
 
     - name: 필요 라이브러리 설치
       run: |
-        pip install google-genai
-        pip install python-dotenv
+        pip install -c requirements.txt google-genai python-dotenv
 
     # 자동 실행(크롤링 완료)일 때는 오늘 이미 만든 일일 동향이 있으면 건너뜀. 대시보드 수동 실행은 항상 실행.
     - name: 즐겨찾기 자동 생성 스크립트 실행

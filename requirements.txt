@@ -1,17 +1,23 @@
-# 로컬 실행용 전체 의존성 (GitHub Actions는 워크플로우마다 필요한 것만 설치)
+# 파이썬 의존성 (버전 고정)
+# - 로컬: pip install -r requirements.txt
+# - GitHub Actions: 워크플로우마다 필요한 것만 'pip install -c requirements.txt <패키지>' 로 설치 → 이 파일의 버전을 그대로 씀
+# - 버전은 Actions 와 같은 Python 3.11 기준으로 확인했습니다. (예: numpy 2.5 이상은 3.11 미지원)
+#   올릴 때는 Dependabot PR 또는 직접 수정 → PR 의 CI 통과 확인 후 병합
 
-# 크롤링 (main.yml → run_crawlers.py)
-requests
-beautifulsoup4
-pandas
-numpy
-selenium
-webdriver-manager
+# 크롤링 (main.yml → run_crawlers.py)  ※ numpy 는 pandas 가 설치
+requests==2.34.2
+beautifulsoup4==4.15.0
+pandas==3.1.1
+selenium==4.54.0
+webdriver-manager==4.1.2
 
 # AI 자동 선정 · 브리핑 · 오디오 (auto_favorites.yml, audio_gen.yml)
-google-genai
-edge-tts
+google-genai==3.6.1
+edge-tts==7.3.1
 
 # 공통
-python-dotenv
-cryptography  # 구독자 목록 암호화 (kakao_or_gmail_send.yml)
+python-dotenv==1.2.4
+cryptography==50.0.2  # 구독자 목록 암호화 (kakao_or_gmail_send.yml)
+
+# 테스트 (ci.yml)
+pytest==9.2.0
