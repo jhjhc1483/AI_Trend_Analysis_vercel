@@ -9,7 +9,8 @@ const REPO = process.env.GITHUB_REPO || 'AI_Trend_Analysis_vercel';
 const REPO_PREFIX = `repos/${OWNER}/${REPO}/`;
 
 // access: 'public' = 누구나 가능, 'admin' = 관리자 비밀번호 필요
-const ROUTES = [
+// 파일 삭제(DELETE)는 허용하지 않습니다. (예전 'Reset' 버튼은 지난 일일 동향 기록까지 지울 수 있어 없앴습니다)
+export const ROUTES = [
     {
         // 즐겨찾기 / Few-shot 학습 데이터 / 일일동향 제외 목록
         pattern: /^contents\/codes\/favorites\/(favorite_articles|favorite_publications|fewshot_examples|excluded_articles)\.json(\?ref=main)?$/,
@@ -21,19 +22,19 @@ const ROUTES = [
         methods: { POST: 'admin' },
     },
     {
-        // 데이터 전체 삭제 - 파일 목록 조회
-        pattern: /^contents\/codes(\?ref=main)?$/,
-        methods: { GET: 'admin' },
+        // 대시보드 '오늘 자동 처리 현황': 단계별 최근 실행 결과 (공개 저장소의 공개 정보, 읽기 전용)
+        pattern: /^actions\/workflows\/(main|auto_favorites|json_to_txt|audio_gen|kakao_or_gmail_send)\.yml\/runs\?per_page=[1-5]$/,
+        methods: { GET: 'public' },
     },
     {
-        // 데이터 전체 삭제 - 개별 파일 삭제 (구독자 목록은 삭제 불가)
-        pattern: /^contents\/codes\/(?!receiver_email\.json$)[A-Za-z0-9_-]+\.(json|txt)$/,
-        methods: { DELETE: 'admin' },
+        // 실패한 실행이 어느 단계에서 멈췄는지 (읽기 전용)
+        pattern: /^actions\/runs\/\d+\/jobs$/,
+        methods: { GET: 'public' },
     },
 ];
 
 // 요청이 허용 목록에 있으면 'public' 또는 'admin'을, 없으면 null을 반환합니다.
-function findAccess(endpoint, method) {
+export function findAccess(endpoint, method) {
     if (typeof endpoint !== 'string' || !endpoint.startsWith(REPO_PREFIX)) return null;
     const path = endpoint.slice(REPO_PREFIX.length);
     const route = ROUTES.find(r => r.pattern.test(path));

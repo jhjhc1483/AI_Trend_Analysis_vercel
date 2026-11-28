@@ -1,0 +1,60 @@
+# 코드 검사 (데이터 파이프라인과 별개)
+# PR 과 main 이 아닌 브랜치 push 때 실행합니다. main 에는 매일 데이터 커밋이 여러 번 쌓이므로 실행하지 않습니다.
+name: CI
+
+on:
+  pull_request:
+  push:
+    branches-ignore: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+concurrency:
+  group: ci-${{ github.ref }}
+  cancel-in-progress: true
+
+jobs:
+  python:
+    name: Python (테스트·문법)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-python@v6
+        with:
+          python-version: '3.11'   # 데이터 파이프라인 워크플로우와 같은 버전
+          cache: pip
+          cache-dependency-path: requirements.txt
+
+      # requirements.txt 의 고정 버전이 3.11 에서 설치되는지도 함께 확인
+      - name: 의존성 설치
+        run: pip install -r requirements.txt
+
+      - name: 문법 검사
+        run: python -m compileall -q codes/pycode tests
+
+      - name: 테스트
+        run: python -m pytest -q tests
+
+  javascript:
+    name: JavaScript (문법·API 허용 목록)
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: '22'
+
+      - name: 문법 검사
+        run: |
+          for f in script.js api/*.js; do
+            node --check "$f"
+          done
+          python3 -m json.tool config/sources.json > /dev/null
+          python3 -m json.tool vercel.json > /dev/null
+
+      - name: 테스트
+        run: node --test "tests/js/*.test.mjs"

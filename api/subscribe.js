@@ -260,3 +260,6 @@ export default async function handler(req, res) {
         return res.status(500).json({ error: "Internal Server Error", message: "처리 중 오류가 발생했습니다." });
     }
 }
+
+// 테스트용 (tests/test_subscriber_compat.py 가 codes/pycode/subscribers.py 와 형식이 같은지 확인)
+export { makeToken, encrypt, decrypt, getKey, cleanSubscribers };

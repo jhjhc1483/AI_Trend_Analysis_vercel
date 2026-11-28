@@ -27,11 +27,13 @@ jobs:
       uses: actions/setup-python@v6
       with:
         python-version: '3.11'
+        cache: pip
+        cache-dependency-path: requirements.txt
 
     - name: 필요 라이브러리 설치
       # edge-tts: Microsoft Edge 브라우저의 무료 Neural TTS
       run: |
-        pip install google-genai edge-tts python-dotenv
+        pip install -c requirements.txt google-genai edge-tts python-dotenv
 
     # 자동 실행일 때는 같은 일일 동향으로 이미 만든 오디오가 있으면 건너뜀. 대시보드 수동 실행은 항상 실행.
     - name: 오디오 생성 스크립트 실행

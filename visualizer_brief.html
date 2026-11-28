@@ -9,8 +9,10 @@
     <meta property="og:type" content="website">
     <meta property="og:title" content="📰 오늘의 AI 동향 브리핑이 도착했어요">
     <meta property="og:description" content="매일 아침 업데이트되는 최신 AI 트렌드 3줄 요약과 음성 브리핑을 지금 바로 확인해 보세요!">
-    <meta property="og:url" content="https://ai-trend-analysis.vercel.app/visualizer_brief.html">
-    <meta property="og:image" content="https://ai-trend-analysis.vercel.app/public/thumbnail.png">
+    <meta property="og:url" content="https://ai-trend-analysis.vercel.app/brief">
+    <meta property="og:image" content="https://ai-trend-analysis.vercel.app/public/thumbnail.jpg">
+    <meta property="og:image:width" content="1200">
+    <meta property="og:image:height" content="630">
 
     <!-- Modern Fonts -->
     <link href="https://fonts.googleapis.com/css2?family=Outfit:wght@400;700;800&family=Noto+Sans+KR:wght@300;400;500;700;900&display=swap" rel="stylesheet">
@@ -231,7 +233,7 @@
         
         <div id="audioContainer" class="audio-player-container">
             <audio id="audioPlayer" controls controlsList="nodownload">
-                <source src="public/audio.mp3" type="audio/mpeg">
+                <source src="/public/audio.mp3" type="audio/mpeg">
                 브라우저가 오디오를 지원하지 않습니다.
             </audio>
         </div>
@@ -240,7 +242,7 @@
             <button id="playBtn" class="btn btn-audio">
                 <span class="icon">🎧</span> 브리핑 음성으로 바로 듣기
             </button>
-            <a href="visualizer.html" class="btn btn-detail">
+            <a href="/report" class="btn btn-detail">
                 <span class="icon">🧾</span> 전체 상세 기사 보기
             </a>
         </div>
@@ -249,7 +251,7 @@
     <script>
         async function fetchBriefing() {
             try {
-                const response = await fetch(`codes/data.json?t=${new Date().getTime()}`);
+                const response = await fetch(`/codes/data.json?t=${new Date().getTime()}`);
                 if (!response.ok) throw new Error('네트워크 오류');
                 
                 const historyData = await response.json();

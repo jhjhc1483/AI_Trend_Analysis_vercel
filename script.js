@@ -1,109 +1,110 @@
+'use strict';
+// =====================================================
+// 대시보드 (index.html)
+//
+//  - 출처 목록: config/sources.json (크롤러·AI 선정과 같은 파일)
+//  - 기사/간행물: 첫 화면은 codes/dashboard/recent.json (배포 때 생성: 기사 최근 30일 + 간행물 전체),
+//    기사 검색·'전체 기간'은 출처별 전체 파일
+//  - ⭐ 오늘 일일 동향: codes/favorites/favorite_*.json 이 기준.
+//    고친 내용은 '일일 동향 저장' 전까지 이 브라우저(localStorage)에만 임시로 남고,
+//    서버 목록이 바뀌면(새 AI 선정 등) 새 목록으로 바뀝니다.
+//  - 관리자 작업은 /api/github(허용 목록 프록시)로 GitHub에 저장하거나 워크플로우를 실행합니다.
+// =====================================================
+
 // -----------------------------------------------------
-// 1. 설정 및 공통 함수
+// 1. 설정
 // -----------------------------------------------------
 const OWNER = "jhjhc1483";
 const REPO = "AI_Trend_Analysis_vercel";
 const BRANCH = "main";
-let adminPassword = ""; // 세션 스토리지 대신 사용할 전역 변수
+const REPO_API = `repos/${OWNER}/${REPO}`;
 
-//Vercel Serverless Function을 호출하는 함수
-async function callProxyAPI(endpoint, method = 'GET', body = null) {
-    try {
-        const res = await fetch('/api/github', {
-            method: 'POST', // 프록시에는 항상 POST로 데이터 전달
-            headers: {
-                'Content-Type': 'application/json',
-                'x-admin-password': adminPassword // 세션 대신 전역 변수 사용
-            },
-            body: JSON.stringify({
-                endpoint: endpoint, // 예: repos/owner/repo/...
-                method: method,     // 실제 GitHub에 보낼 method (GET, POST, PUT 등)
-                body: body          // 실제 GitHub에 보낼 데이터
-            })
-        });
+const SOURCES_URL = 'config/sources.json';
+const RECENT_DATA_URL = 'codes/dashboard/recent.json';
+const REPORT_URL = 'codes/data.txt';
+const UPDATE_TIME_URL = 'public/update_time.json';
+const AUDIO_URL = 'public/audio.mp3';
+const FAVORITE_FILES = {
+    article: 'codes/favorites/favorite_articles.json',
+    publication: 'codes/favorites/favorite_publications.json',
+};
+const FEWSHOT_FILE = 'codes/favorites/fewshot_examples.json';
+const EXCLUDED_FILE = 'codes/favorites/excluded_articles.json';
 
-        if (!res.ok) {
-            const errData = await res.json().catch(() => ({}));
-            throw new Error(errData.message || `HTTP Error ${res.status}`);
-        }
+const ARTICLE = 'article';
+const PUBLICATION = 'publication';
+const TYPES = [ARTICLE, PUBLICATION];
+const CATEGORIES = ["국방", "육군", "민간", "기관", "해외", "기타"];
+const PUBLICATION_CATEGORY = "간행물";
+const CATEGORY_CLASS = { 국방: 'cat-defense', 육군: 'cat-army', 민간: 'cat-civil', 기관: 'cat-pub', 해외: 'cat-foreign', 기타: 'cat-etc' };
 
-        // 204 No Content 처리
-        if (res.status === 204) return null;
+const PAGE_SIZE = 300;          // 목록을 한 번에 그리는 개수 ('더 보기'로 이어서 표시)
+const DRAFT_KEY = 'favoritesDraft.v2';
+const LEGACY_FAVORITE_KEYS = ['favoriteArticles', 'favoritePublications'];  // 예전 형식 (브라우저별 즐겨찾기)
+const THEME_KEY = 'ai-trend-theme';  // visualizer.html 과 같은 키
 
-        return await res.json();
-    } catch (error) {
-        throw error;
-    }
-}
+// 대시보드 '오늘 자동 처리 현황'에 보여줄 단계 (.github/workflows/<workflow>.yml)
+const PIPELINE = [
+    { workflow: 'main', label: '기사 수집' },
+    { workflow: 'auto_favorites', label: 'AI 선정' },
+    { workflow: 'audio_gen', label: '브리핑 오디오' },
+    { workflow: 'kakao_or_gmail_send', label: '구독자 메일' },
+];
+// 관리자가 직접 실행할 수 있는 워크플로우 (api/github.js 허용 목록과 같아야 함)
+const WORKFLOWS = {
+    main: {
+        label: '기사 수집',
+        confirm: '기사를 다시 수집할까요? (5분 이상 걸립니다)\n\n오늘 일일 동향이 아직 없으면 AI 선정 → 오디오 → 메일까지 이어서 자동으로 진행됩니다.',
+    },
+    auto_favorites: {
+        label: 'AI 일일 동향 선정',
+        confirm: 'AI가 어제 기사로 오늘 일일 동향을 다시 고릅니다. (약 2~5분)\n\n지금 ⭐ 목록(사람이 고친 내용 포함)은 새 결과로 바뀌고, 브리핑 오디오도 다시 만들어집니다.',
+    },
+    json_to_txt: {
+        label: '일일 동향 텍스트 만들기',
+        confirm: '지금 ⭐ 목록으로 일일 동향 텍스트를 다시 만듭니다. (약 30초)',
+    },
+    audio_gen: {
+        label: '브리핑 오디오 만들기',
+        confirm: '지금 일일 동향으로 브리핑 대본과 오디오를 다시 만듭니다. (약 1~2분)',
+    },
+};
+const POLL_ACTIVE_MS = 15000;   // 진행 중인 단계가 있을 때 상태 확인 간격
+const WATCH_AFTER_MS = 90000;   // 실행 요청·완료 후 이어지는 단계를 기다리는 시간
 
-// 비밀번호 확인 함수
-async function verifyPassword() {
-    if (adminPassword) return true; // 메모리에 저장된 비밀번호가 있으면 패스
-
-    const pw = prompt("관리자 비밀번호를 입력하세요:");
-    if (!pw) return false;
-
-    try {
-        const res = await fetch('/api/auth', {
-            method: 'POST',
-            headers: { 'Content-Type': 'application/json' },
-            body: JSON.stringify({ password: pw })
-        });
-        const data = await res.json();
-        if (data.success) {
-            adminPassword = pw; // 성공 시 전역 변수에 저장 (새로고침 시 초기화)
-            return true;
-        } else {
-            alert("비밀번호가 틀렸습니다.");
-            return false;
-        }
-    } catch (e) {
-        alert("비밀번호 확인 중 오류가 발생했습니다.");
-        return false;
-    }
-}
-
-// -----------------------------------------------------
-// 2. 기사 업데이트 실행 (runActionBtn)
-// -----------------------------------------------------
-document.getElementById('runActionBtn').addEventListener('click', async function () {
-    const message = "⚠️기사 업데이트를 진행하시겠습니까?⚠️\n\n" +
-        "✅기사는 지정된 시간에 맞춰 자동으로 업데이트 됩니다.\n" +
-        "✅수동으로 기사 업데이트 시 최소 5분 이상의 시간이 소요 됩니다.";
-
-    if (!confirm(message)) return;
-
-    if (!(await verifyPassword())) return; // 권한 확인 추가
-
-    const WORKFLOW_ID = "main.yml";
-    const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
-
-    updateStatus("기사 업데이트 요청 중...");
-    try {
-        await callProxyAPI(endpoint, 'POST', { ref: "main" });
-        alert("✅ 실행 성공! 최소 5분의 시간이 소요 됩니다.\n페이지를 새로고침 하세요.");
-        updateStatus("기사 업데이트 진행 중... (최소 5분 소요)");
-    } catch (error) {
-        console.error('Error:', error);
-        alert(`❌ 실패: ${error.message}`);
-        updateStatus("");
-    }
-});
+const state = {
+    sources: [],
+    sourceById: new Map(),
+    items: { article: [], publication: [] },
+    linkIndex: new Map(),       // 링크 → 기사/간행물
+    dataScope: { article: 'none', publication: 'none' },   // 종류별 'recent' (최근 N일) | 'all' (전체 기간)
+    recentDays: 30,
+    dataUpdatedAt: null,        // 출처 데이터가 마지막으로 바뀐 커밋 시각 (recent.json)
+    fullDataPromise: null,
+    view: 'HOME',
+    renderLimit: PAGE_SIZE,
+    renderedItems: new Map(),   // 지금 화면 목록의 링크 → 항목 (버튼 처리용)
+    search: { article: '', publication: '' },
+    sort: { article: 'date_desc', publication: 'date_desc' },
+    favorites: { article: new Map(), publication: new Map() },   // 지금 ⭐ 목록 (링크 → 항목)
+    serverFavorites: { article: [], publication: [] },           // 기준이 되는 서버 목록
+    draftMeta: { base: '', saved: null, savedKey: '' },
+    fewshot: [],
+    excluded: new Set(),
+    admin: { enabled: false, password: '' },
+    pipeline: {},               // workflow → 최근 실행 (null = 기록 없음, undefined = 확인 실패)
+    failedSteps: new Map(),     // 실패한 실행 id → 멈춘 단계 이름
+    watches: new Map(),         // 실행을 요청한 workflow → { since }
+    watchUntil: 0,
+    pollTimer: null,
+};
 
 // -----------------------------------------------------
-// 3. 텍스트 추출 (loadFileBtn) - 오늘 일일 동향(codes/data.txt)을 클립보드에 복사하고 시각화 페이지로 이동
+// 2. 공통 함수
 // -----------------------------------------------------
-
-function base64ToUtf8(base64) {
-    const binary = atob(base64.replace(/\n/g, ""));
-    const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
-    return new TextDecoder("utf-8").decode(bytes);
-}
-
-// XSS 방어를 위한 HTML 이스케이프 함수
-function escapeHTML(str) {
-    if (!str) return "";
-    return String(str)
+function escapeHTML(value) {
+    if (value === null || value === undefined) return "";
+    return String(value)
         .replace(/&/g, '&amp;')
         .replace(/</g, '&lt;')
         .replace(/>/g, '&gt;')
@@ -111,185 +112,370 @@ function escapeHTML(str) {
         .replace(/'/g, '&#39;');
 }
 
-// 각 상태 요소에 메시지를 표시하는 공통 함수
-function updateStatus(message) {
-    const ids = ['status-sidebar', 'status-sidebar-bottom', 'status-dashboard'];
-    ids.forEach(id => {
-        const el = document.getElementById(id);
-        if (el) el.textContent = message;
+// 수집한 링크는 외부 사이트 값이므로 http(s) 주소만 링크로 씁니다.
+function safeUrl(url) {
+    return typeof url === 'string' && /^https?:\/\//i.test(url.trim()) ? url.trim() : '#';
+}
+
+function withCacheBust(url) {
+    return `${url}${url.includes('?') ? '&' : '?'}t=${Date.now()}`;
+}
+
+async function fetchJSON(url, fallback) {
+    try {
+        const res = await fetch(withCacheBust(url));
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        return await res.json();
+    } catch (error) {
+        if (fallback !== undefined) {
+            console.warn(`${url} 을(를) 불러오지 못했습니다:`, error);
+            return fallback;
+        }
+        throw error;
+    }
+}
+
+function storageGet(key) {
+    try { return localStorage.getItem(key); } catch (e) { return null; }
+}
+function storageSet(key, value) {
+    try { localStorage.setItem(key, value); } catch (e) { /* 사생활 보호 모드 등 */ }
+}
+function storageRemove(key) {
+    try { localStorage.removeItem(key); } catch (e) { /* 무시 */ }
+}
+
+function base64ToUtf8(base64) {
+    const binary = atob(base64.replace(/\n/g, ""));
+    const bytes = Uint8Array.from(binary, c => c.charCodeAt(0));
+    return new TextDecoder("utf-8").decode(bytes);
+}
+function utf8ToBase64(text) {
+    const bytes = new TextEncoder().encode(text);
+    let binary = '';
+    for (let i = 0; i < bytes.length; i += 0x8000) {
+        binary += String.fromCharCode.apply(null, bytes.subarray(i, i + 0x8000));
+    }
+    return btoa(binary);
+}
+
+// 짧은 문자열 해시 (FNV-1a) — ⭐ 목록 버전 비교용
+function hashString(text) {
+    let hash = 0x811c9dc5;
+    for (let i = 0; i < text.length; i++) {
+        hash ^= text.charCodeAt(i);
+        hash = Math.imul(hash, 0x01000193);
+    }
+    return (hash >>> 0).toString(36);
+}
+
+function pad2(value) {
+    return String(value ?? '').trim().padStart(2, '0');
+}
+
+const KST_PARTS = new Intl.DateTimeFormat('en-CA', {
+    timeZone: 'Asia/Seoul', year: 'numeric', month: '2-digit', day: '2-digit',
+    hour: '2-digit', minute: '2-digit', hourCycle: 'h23',
+});
+function kstParts(date) {
+    const parts = {};
+    KST_PARTS.formatToParts(date).forEach(p => { parts[p.type] = p.value; });
+    return parts;
+}
+function todayKstKey() {
+    const p = kstParts(new Date());
+    return `${p.year.slice(2)}.${p.month}.${p.day}`;  // data.txt 날짜 형식 (예: 26.11.28)
+}
+
+async function copyText(text) {
+    if (navigator.clipboard && window.isSecureContext) {
+        await navigator.clipboard.writeText(text);
+        return;
+    }
+    const area = document.createElement('textarea');
+    area.value = text;
+    area.setAttribute('readonly', '');
+    area.style.position = 'fixed';
+    area.style.opacity = '0';
+    document.body.appendChild(area);
+    area.select();
+    const ok = document.execCommand('copy');
+    area.remove();
+    if (!ok) throw new Error('클립보드에 복사할 수 없습니다.');
+}
+
+function debounce(func, delay) {
+    let timer;
+    return (...args) => {
+        clearTimeout(timer);
+        timer = setTimeout(() => func(...args), delay);
+    };
+}
+
+// -----------------------------------------------------
+// 3. 알림(토스트) · 대화상자
+// -----------------------------------------------------
+function toast(message, { type = 'info', timeout = 5000, action } = {}) {
+    const root = document.getElementById('toast-root');
+    const el = document.createElement('div');
+    el.className = `toast toast-${type}`;
+    el.setAttribute('role', type === 'error' ? 'alert' : 'status');
+
+    const text = document.createElement('span');
+    text.className = 'toast-text';
+    text.textContent = message;
+    el.appendChild(text);
+
+    let timer = null;
+    const dismiss = () => {
+        clearTimeout(timer);
+        el.classList.add('leaving');
+        setTimeout(() => el.remove(), 200);
+    };
+    if (action) {
+        const btn = document.createElement('button');
+        btn.type = 'button';
+        btn.className = 'toast-action';
+        btn.textContent = action.label;
+        btn.addEventListener('click', () => { dismiss(); action.onClick(); });
+        el.appendChild(btn);
+    }
+    const close = document.createElement('button');
+    close.type = 'button';
+    close.className = 'toast-close';
+    close.setAttribute('aria-label', '닫기');
+    close.textContent = '×';
+    close.addEventListener('click', dismiss);
+    el.appendChild(close);
+
+    root.appendChild(el);
+    if (timeout) timer = setTimeout(dismiss, timeout);
+    return dismiss;
+}
+
+// <dialog> 기반 입력창. 확인하면 FormData, 취소하면 null 을 돌려줍니다.
+// body 는 HTML 문자열이므로 넣는 값은 반드시 escapeHTML 을 거쳐야 합니다.
+function openDialog({ title, body = '', confirmText = '확인', cancelText = '취소', danger = false }) {
+    const dialog = document.getElementById('dialog');
+    if (typeof dialog.showModal !== 'function') {
+        // <dialog> 를 지원하지 않는 아주 오래된 브라우저
+        return Promise.resolve(window.confirm(title) ? new FormData() : null);
+    }
+    // 확인 버튼을 먼저 두어 Enter 키가 확인으로 동작하게 함 (화면에는 CSS로 오른쪽에 배치)
+    dialog.innerHTML = `
+        <form method="dialog" class="dialog-form">
+            <h3 class="dialog-title">${escapeHTML(title)}</h3>
+            <div class="dialog-body">${body}</div>
+            <div class="dialog-actions">
+                <button type="submit" value="ok" class="btn ${danger ? 'danger' : 'primary'}">${escapeHTML(confirmText)}</button>
+                ${cancelText ? `<button type="submit" value="cancel" class="btn" formnovalidate>${escapeHTML(cancelText)}</button>` : ''}
+            </div>
+        </form>`;
+    const form = dialog.querySelector('form');
+    return new Promise(resolve => {
+        dialog.addEventListener('close', () => {
+            resolve(dialog.returnValue === 'ok' ? new FormData(form) : null);
+        }, { once: true });
+        dialog.returnValue = '';
+        dialog.showModal();
+        const focusTarget = dialog.querySelector('input[type=password], input[type=text], textarea, input[type=radio]');
+        if (focusTarget) focusTarget.focus();
     });
 }
 
-document.getElementById('loadFileBtn').addEventListener('click', async () => {
+async function confirmDialog(title, message, options = {}) {
+    const body = `<p class="dialog-message">${escapeHTML(message)}</p>`;
+    return (await openDialog({ title, body, ...options })) !== null;
+}
+
+function categoryChips(selected) {
+    return `<div class="chip-group" role="radiogroup" aria-label="분류">${CATEGORIES.map(category => `
+        <label class="chip ${CATEGORY_CLASS[category]}">
+            <input type="radio" name="category" value="${escapeHTML(category)}" ${category === selected ? 'checked' : ''} required>
+            <span>${escapeHTML(category)}</span>
+        </label>`).join('')}</div>`;
+}
+
+function itemSummaryHTML(item) {
+    return `<p class="dialog-item"><strong>${escapeHTML(item.title)}</strong><br><span>${escapeHTML(item.displayName || '')}</span></p>`;
+}
+
+async function pickCategory(item, title, selected = '') {
+    const data = await openDialog({
+        title,
+        body: `${itemSummaryHTML(item)}<div class="field-label">분류</div>${categoryChips(selected)}`,
+        confirmText: '확인',
+    });
+    return data ? String(data.get('category') || '') : null;
+}
+
+// 버튼을 잠시 비활성화하고 작업 중 표시
+async function withBusy(button, task) {
+    if (!button) return task();
+    const original = button.textContent;
+    button.disabled = true;
+    button.classList.add('is-busy');
     try {
-        const response = await fetch('codes/data.txt?t=' + new Date().getTime());
-        if (!response.ok) throw new Error('파일을 불러오는데 실패했습니다.');
-        const text = await response.text();
-        
-        await navigator.clipboard.writeText(text);
-        alert("복사되었습니다. 이제 메신저로 공유하세요");
-        window.location.href = 'https://ai-trend-analysis.vercel.app/visualizer.html';
+        return await task();
+    } finally {
+        button.disabled = false;
+        button.classList.remove('is-busy');
+        if (button.isConnected) button.textContent = original;
+    }
+}
+
+// -----------------------------------------------------
+// 4. 서버 API (관리자 인증, GitHub 프록시)
+// -----------------------------------------------------
+async function callProxyAPI(endpoint, method = 'GET', body = null) {
+    const headers = { 'Content-Type': 'application/json' };
+    if (state.admin.password) headers['x-admin-password'] = state.admin.password;
+    const res = await fetch('/api/github', {
+        method: 'POST',  // 프록시에는 항상 POST로 전달하고, 실제 GitHub 메서드는 body에 담음
+        headers,
+        body: JSON.stringify({ endpoint, method, body }),
+    });
+    if (!res.ok) {
+        const errData = await res.json().catch(() => ({}));
+        const error = new Error(errData.message || `HTTP Error ${res.status}`);
+        error.status = res.status;
+        throw error;
+    }
+    if (res.status === 204) return null;
+    return res.json();
+}
+
+async function ensureAdmin() {
+    if (state.admin.enabled) return true;
+    const data = await openDialog({
+        title: '🔒 관리자 로그인',
+        body: `<label class="field">비밀번호
+            <input type="password" name="password" required autocomplete="current-password">
+        </label>`,
+        confirmText: '로그인',
+    });
+    if (!data) return false;
+    const password = String(data.get('password') || '');
+    try {
+        const res = await fetch('/api/auth', {
+            method: 'POST',
+            headers: { 'Content-Type': 'application/json' },
+            body: JSON.stringify({ password }),
+        });
+        const result = await res.json().catch(() => ({}));
+        if (res.ok && result.success) {
+            setAdmin(true, password);
+            toast('관리자 모드가 켜졌습니다. 🧠·🚫 버튼과 관리자 작업을 쓸 수 있습니다.', { type: 'success' });
+            return true;
+        }
+        toast(result.message || '비밀번호가 틀렸습니다.', { type: 'error' });
     } catch (error) {
-        console.error(error);
-        alert("데이터를 처리하는 중 오류가 발생했습니다: " + error.message);
+        toast('비밀번호 확인 중 오류가 발생했습니다.', { type: 'error' });
     }
-});
-
-document.getElementById('closeBtn').addEventListener('click', () => {
-    popup.style.display = 'none';
-    overlay.style.display = 'none';
-});
-document.getElementById('copyBtn2').addEventListener('click', () => {
-    navigator.clipboard.writeText(contentDiv.textContent)
-        .then(() => alert("복사 완료!"))
-        .catch(err => alert("복사 실패: " + err));
-});
-
-// -----------------------------------------------------
-// 5. 전역 변수 및 데이터 로드
-// -----------------------------------------------------
-let articleData = [];
-let publicationData = [];
-let allDataLoaded;
-let debounceTimeout;
-let currentView = 'HOME';
-let favoriteArticles = new Map();
-let favoritePublications = new Map();
-let fewshotExamples = [];
-let excludedArticles = new Set(); // 일일동향 제외 블랙리스트 (링크 기준)
-let isAdminMode = false; // 관리자 인증 후 true로 변경
-const cacheBuster = `?t=${new Date().getTime()}`;
-
-const FILES_TO_LOAD = [
-    { url: 'codes/aikorea.json' + cacheBuster, site: 'AIKOREA', isArticle: true, displayName: '국가인공지능전략위원회' },
-    { url: 'codes/aitimes.json' + cacheBuster, site: 'AITIMES', isArticle: true, displayName: 'AI Times' },
-    { url: 'codes/etnews.json' + cacheBuster, site: 'ETNEWS', isArticle: true, displayName: '전자신문' },
-    { url: 'codes/AInews.json' + cacheBuster, site: 'AINEWS', isArticle: true, displayName: '인공지능신문' },
-    { url: 'codes/mnd.json' + cacheBuster, site: 'MND', isArticle: true, displayName: '국방부' },
-    { url: 'codes/kookbang.json' + cacheBuster, site: 'kookbang', isArticle: true, displayName: '국방일보' },
-    { url: 'codes/dapa.json' + cacheBuster, site: 'DAPA', isArticle: true, displayName: '방사청' },
-    { url: 'codes/msit.json' + cacheBuster, site: 'MSIT', isArticle: true, displayName: '과기정통부' },
-    { url: 'codes/iitp.json' + cacheBuster, site: 'IITP', isArticle: false, displayName: 'IITP' },
-    { url: 'codes/nia.json' + cacheBuster, site: 'NIA', isArticle: false, displayName: 'NIA' },
-    { url: 'codes/STEPI.json' + cacheBuster, site: 'STEPI', isArticle: false, displayName: 'STEPI' },
-    { url: 'codes/NIPA.json' + cacheBuster, site: 'NIPA', isArticle: false, displayName: 'NIPA' },
-    { url: 'codes/KISDI.json' + cacheBuster, site: 'KISDI', isArticle: false, displayName: 'KISDI' },
-    { url: 'codes/KISTI.json' + cacheBuster, site: 'KISTI', isArticle: false, displayName: 'KISTI' },
-    { url: 'codes/KISA.json' + cacheBuster, site: 'KISA', isArticle: false, displayName: 'KISA' },
-    { url: 'codes/tta.json' + cacheBuster, site: 'TTA', isArticle: false, displayName: 'TTA' }
-];
-
-function loadFewshotExamples() {
-    return fetch('codes/favorites/fewshot_examples.json' + cacheBuster)
-        .then(response => {
-            if (!response.ok) return [];
-            return response.json();
-        })
-        .then(data => {
-            fewshotExamples = data;
-            return data;
-        })
-        .catch(error => {
-            console.error("Error loading fewshot examples:", error);
-            return [];
-        });
+    return false;
 }
 
-function loadExcludedArticles() {
-    return fetch('codes/favorites/excluded_articles.json' + cacheBuster)
-        .then(response => {
-            if (!response.ok) return [];
-            return response.json();
-        })
-        .then(data => {
-            excludedArticles = new Set(data.map(item => item.link));
-            return data;
-        })
-        .catch(error => {
-            console.error("Error loading excluded articles:", error);
-            return [];
-        });
+function setAdmin(enabled, password = '') {
+    state.admin = { enabled, password: enabled ? password : '' };
+    document.body.classList.toggle('is-admin', enabled);
+    const btn = document.getElementById('adminModeBtn');
+    btn.textContent = enabled ? '🔓 관리자' : '🔒 관리자';
+    btn.title = enabled ? '관리자 모드 켜짐 (누르면 잠금)' : '관리자 모드 (비밀번호 필요)';
+    btn.setAttribute('aria-pressed', String(enabled));
+    renderCurrentView();
 }
 
-function loadData() {
-    const favArticlesStr = localStorage.getItem('favoriteArticles');
-    const favPublicationsStr = localStorage.getItem('favoritePublications');
-
-    if (favArticlesStr) {
-        const parsed = JSON.parse(favArticlesStr);
-        if (Array.isArray(parsed) && parsed.length > 0 && Array.isArray(parsed[0])) {
-            favoriteArticles = new Map(parsed);
-        } else if (Array.isArray(parsed)) {
-            favoriteArticles = new Map(parsed.map(link => [link, '기타']));
-        }
+// GitHub 저장소의 JSON 목록 파일을 읽고 고쳐서 저장합니다. (sha 로 다른 저장과의 충돌 방지)
+// mutate(현재 목록) 가 null 을 돌려주면 저장하지 않습니다.
+async function readRepoJSON(path) {
+    try {
+        const res = await callProxyAPI(`${REPO_API}/contents/${path}?ref=${BRANCH}`, 'GET');
+        const parsed = res && res.content ? JSON.parse(base64ToUtf8(res.content)) : [];
+        return { data: Array.isArray(parsed) ? parsed : [], sha: res ? res.sha : null };
+    } catch (error) {
+        if (error.status === 404) return { data: [], sha: null };  // 아직 파일이 없음
+        throw error;
     }
+}
 
-    if (favPublicationsStr) {
-        const parsed = JSON.parse(favPublicationsStr);
-        if (Array.isArray(parsed) && parsed.length > 0 && Array.isArray(parsed[0])) {
-            favoritePublications = new Map(parsed);
-        } else if (Array.isArray(parsed)) {
-            favoritePublications = new Map(parsed.map(link => [link, '기타']));
-        }
-    }
+async function writeRepoJSON(path, data, sha, message) {
+    await callProxyAPI(`${REPO_API}/contents/${path}`, 'PUT', {
+        message,
+        content: utf8ToBase64(JSON.stringify(data, null, 2)),
+        branch: BRANCH,
+        ...(sha && { sha }),
+    });
+}
 
-    Promise.all([loadRecentOrAllData(), loadFewshotExamples(), loadExcludedArticles()])
-        .then(() => {
-            allDataLoaded = true;
-            showTab('HOME');
-        })
-        .catch(error => {
-            console.error("Critical error:", error);
-            document.getElementById('no-data').textContent = "데이터 로드 중 치명적인 오류 발생.";
-        });
+async function updateRepoJSON(path, mutate, message) {
+    const { data, sha } = await readRepoJSON(path);
+    const next = mutate(data);
+    if (next === null) return null;
+    await writeRepoJSON(path, next, sha, message);
+    return next;
 }
 
 // -----------------------------------------------------
-// 5-1. 기사/간행물 데이터 불러오기
-//   첫 화면은 최근 30일치만 담은 파일 하나(codes/dashboard/recent.json, 크롤링 때 생성)로 빠르게 그리고,
-//   검색하거나 '전체 기간 불러오기'를 누르면 그때 전체 파일(약 12MB)을 받습니다.
+// 5. 출처 · 기사/간행물 데이터
 // -----------------------------------------------------
-const RECENT_DATA_URL = 'codes/dashboard/recent.json' + cacheBuster;
-const PAGE_SIZE = 300;          // 목록을 한 번에 그리는 개수 ('더 보기'로 이어서 표시)
-let dataScope = 'none';         // 'recent' (최근 N일) | 'all' (전체 기간)
-let recentDays = 30;
-let fullDataPromise = null;
-let renderLimit = PAGE_SIZE;
-
-function fileNameOf(file) {
-    return file.url.split('?')[0].split('/').pop();
+function navLabel(source) {
+    return source.type === PUBLICATION ? `${source.name}(${source.full_name})` : source.name;
 }
 
-function toItems(file, rows) {
-    return rows.map(item => ({
-        ...item,
-        site: file.site,
-        isArticle: file.isArticle,
-        displayName: file.displayName,
-        title: item.기사명 || item.제목 || '제목 없음',
-        link: item.링크 || item.link || '#',
-        category: item.분류 || item.category || '',
+async function loadSources() {
+    const data = await fetchJSON(SOURCES_URL);
+    state.sources = data.sources || [];
+    state.sourceById = new Map(state.sources.map(source => [source.id, source]));
+    TYPES.forEach(type => {
+        document.getElementById(`nav-${type}-sources`).innerHTML = state.sources
+            .filter(source => source.type === type)
+            .map(source => `<a href="#${encodeURIComponent(source.id)}" class="nav-link" data-view="${escapeHTML(source.id)}">${escapeHTML(navLabel(source))}</a>`)
+            .join('');
+    });
+}
+
+function dateKeyOf(row) {
+    return `${row.년 || '0000'}${pad2(row.월 || '00')}${pad2(row.일 || '00')}${pad2(row.시 || '00')}${pad2(row.분 || '00')}`;
+}
+
+function toItems(source, rows) {
+    return (Array.isArray(rows) ? rows : []).map(row => ({
+        ...row,
+        site: source.id,
+        type: source.type,
+        displayName: source.name,
+        title: row.기사명 || row.제목 || '제목 없음',
+        link: row.링크 || row.link || '#',
+        category: row.분류 || row.category || '',
+        dateKey: dateKeyOf(row),
     }));
 }
 
-function setLoadedData(siteItemsList, scope) {
-    articleData = [];
-    publicationData = [];
-    FILES_TO_LOAD.forEach((file, i) => {
-        if (file.isArticle) articleData = articleData.concat(siteItemsList[i]);
-        else publicationData = publicationData.concat(siteItemsList[i]);
+function setLoadedData(itemsPerSource, scope) {
+    state.items = { article: [], publication: [] };
+    state.linkIndex = new Map();
+    state.sources.forEach((source, i) => {
+        const list = itemsPerSource[i] || [];
+        state.items[source.type] = state.items[source.type].concat(list);
+        list.forEach(item => {
+            if (item.link && item.link !== '#' && !state.linkIndex.has(item.link)) state.linkIndex.set(item.link, item);
+        });
     });
-    dataScope = scope;
-    console.log(`Loaded (${scope}) ${articleData.length} articles, ${publicationData.length} publications.`);
+    state.dataScope = scope;
 }
 
 async function loadRecentOrAllData() {
     try {
-        const res = await fetch(RECENT_DATA_URL);
+        const res = await fetch(withCacheBust(RECENT_DATA_URL));
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const recent = await res.json();
-        recentDays = recent.days || recentDays;
-        setLoadedData(FILES_TO_LOAD.map(file => toItems(file, (recent.files || {})[fileNameOf(file)] || [])), 'recent');
+        state.recentDays = recent.days || state.recentDays;
+        state.dataUpdatedAt = recent.data_updated_at || null;
+        const complete = new Set(recent.complete_types || []);  // 기간 제한 없이 전부 담긴 종류 (간행물)
+        setLoadedData(state.sources.map(source => toItems(source, (recent.files || {})[source.file])), {
+            article: complete.has(ARTICLE) ? 'all' : 'recent',
+            publication: complete.has(PUBLICATION) ? 'all' : 'recent',
+        });
     } catch (error) {
         console.warn('최근 데이터 파일을 불러오지 못해 전체 데이터를 불러옵니다:', error);
         await loadAllData();
@@ -298,32 +484,12 @@ async function loadRecentOrAllData() {
 
 // 전체 기간 데이터 (한 번만 받아서 재사용)
 function loadAllData() {
-    if (!fullDataPromise) {
-        fullDataPromise = Promise.all(FILES_TO_LOAD.map(file =>
-            fetch(file.url)
-                .then(response => {
-                    if (!response.ok) throw new Error(`Failed to load ${file.url}`);
-                    return response.json();
-                })
-                .then(rows => toItems(file, rows))
-                .catch(error => {
-                    console.error(`Error loading ${file.url}:`, error);
-                    return [];
-                })
-        )).then(siteItemsList => setLoadedData(siteItemsList, 'all'));
+    if (!state.fullDataPromise) {
+        state.fullDataPromise = Promise.all(state.sources.map(source =>
+            fetchJSON(`codes/${source.file}`, []).then(rows => toItems(source, rows))
+        )).then(lists => setLoadedData(lists, { article: 'all', publication: 'all' }));
     }
-    return fullDataPromise;
-}
-
-function updateDataScopeNotice(loadingMessage) {
-    const notice = document.getElementById('data-scope-notice');
-    if (!notice) return;
-    const btn = document.getElementById('loadAllDataBtn');
-    notice.style.display = dataScope === 'recent' ? 'flex' : 'none';
-    document.getElementById('data-scope-text').textContent = loadingMessage ||
-        `빠른 표시를 위해 최근 ${recentDays}일 데이터만 보여주고 있습니다.`;
-    btn.disabled = Boolean(loadingMessage);
-    btn.style.display = loadingMessage ? 'none' : '';
+    return state.fullDataPromise;
 }
 
 function loadAllDataAndRender(loadingMessage) {
@@ -331,750 +497,874 @@ function loadAllDataAndRender(loadingMessage) {
     return loadAllData().then(renderCurrentView);
 }
 
-// 목록 첫 페이지부터 다시 그리기 (검색어/정렬/탭이 바뀔 때)
-function resetAndRender() {
-    renderLimit = PAGE_SIZE;
+// -----------------------------------------------------
+// 6. ⭐ 오늘 일일 동향 (서버 목록 + 저장 전 임시 변경)
+// -----------------------------------------------------
+function normalizeFavoriteList(list, type) {
+    return (Array.isArray(list) ? list : [])
+        .filter(item => item && item.link)
+        .map(item => ({ ...item, category: item.category || (type === PUBLICATION ? PUBLICATION_CATEGORY : '기타') }));
+}
+
+function currentLists() {
+    return {
+        article: Array.from(state.favorites.article.values()),
+        publication: Array.from(state.favorites.publication.values()),
+    };
+}
+
+function listSignature(list) {
+    return list.map(item => `${item.link}\u0001${item.category}`).sort().join('\u0002');
+}
+function favoritesKey(lists) {
+    return hashString(TYPES.map(type => listSignature(lists[type] || [])).join('\u0003'));
+}
+
+function setFavoriteMaps(lists) {
+    TYPES.forEach(type => {
+        state.favorites[type] = new Map((lists[type] || []).map(item => [item.link, { ...item }]));
+    });
+}
+
+function cloneLists(lists) {
+    return { article: (lists.article || []).map(i => ({ ...i })), publication: (lists.publication || []).map(i => ({ ...i })) };
+}
+
+function readDraft() {
+    try {
+        const draft = JSON.parse(storageGet(DRAFT_KEY) || 'null');
+        return draft && draft.v === 2 && draft.lists ? draft : null;
+    } catch (e) {
+        return null;
+    }
+}
+
+function favoritesChanges() {
+    const changes = { added: 0, removed: 0, changed: 0, total: 0 };
+    TYPES.forEach(type => {
+        const server = new Map(state.serverFavorites[type].map(item => [item.link, item]));
+        state.favorites[type].forEach((item, link) => {
+            if (!server.has(link)) changes.added++;
+            else if (server.get(link).category !== item.category) changes.changed++;
+        });
+        server.forEach((item, link) => { if (!state.favorites[type].has(link)) changes.removed++; });
+    });
+    changes.total = changes.added + changes.removed + changes.changed;
+    return changes;
+}
+
+// 저장 전 변경(또는 저장했지만 아직 사이트에 반영되지 않은 목록)을 브라우저에 남김
+function persistDraft() {
+    const { saved, savedKey, base } = state.draftMeta;
+    if (favoritesChanges().total === 0 && !saved) {
+        storageRemove(DRAFT_KEY);
+        return;
+    }
+    storageSet(DRAFT_KEY, JSON.stringify({ v: 2, base, saved, savedKey, lists: currentLists(), updatedAt: Date.now() }));
+}
+
+async function loadFavorites() {
+    LEGACY_FAVORITE_KEYS.forEach(storageRemove);
+    const [articles, publications] = await Promise.all([
+        fetchJSON(FAVORITE_FILES.article, []),
+        fetchJSON(FAVORITE_FILES.publication, []),
+    ]);
+    const server = { article: normalizeFavoriteList(articles, ARTICLE), publication: normalizeFavoriteList(publications, PUBLICATION) };
+    const serverKey = favoritesKey(server);
+    const draft = readDraft();
+
+    state.serverFavorites = server;
+    state.draftMeta = { base: serverKey, saved: null, savedKey: '' };
+    setFavoriteMaps(server);
+    if (!draft) return;
+
+    if (draft.savedKey && draft.savedKey === serverKey) {
+        // 저장한 목록이 사이트에 반영됨 → 그 뒤에 고친 내용만 이어서 유지
+        setFavoriteMaps(draft.lists);
+    } else if (draft.base === serverKey) {
+        // 아직 같은 서버 목록 기준 (저장했다면 반영 대기 중)
+        if (draft.saved) {
+            state.serverFavorites = cloneLists(draft.saved);
+            state.draftMeta = { base: serverKey, saved: draft.saved, savedKey: draft.savedKey };
+        }
+        setFavoriteMaps(draft.lists);
+    } else {
+        // 그 사이 서버 목록이 바뀜 (새 AI 선정 등) → 임시 변경은 버림
+        storageRemove(DRAFT_KEY);
+        const hadChanges = draft.lists && favoritesKey(draft.lists) !== (draft.savedKey || draft.base);
+        if (hadChanges) toast('새 일일 동향이 나와서, 저장하지 않았던 ⭐ 변경은 지웠습니다.', { timeout: 8000 });
+        return;
+    }
+    persistDraft();
+}
+
+function updateFavoriteCounts() {
+    TYPES.forEach(type => {
+        const el = document.getElementById(`fav-count-${type}`);
+        if (el) el.textContent = state.favorites[type].size ? String(state.favorites[type].size) : '';
+    });
+}
+
+function renderFavoritesBar() {
+    const bar = document.getElementById('favorites-bar');
+    const changes = favoritesChanges();
+    bar.hidden = changes.total === 0;
+    if (changes.total === 0) return;
+    const parts = [];
+    if (changes.added) parts.push(`추가 ${changes.added}`);
+    if (changes.removed) parts.push(`빼기 ${changes.removed}`);
+    if (changes.changed) parts.push(`분류 변경 ${changes.changed}`);
+    document.getElementById('favorites-bar-text').textContent =
+        `저장하지 않은 일일 동향 변경: ${parts.join(' · ')}`;
+}
+
+function afterFavoritesChange() {
+    persistDraft();
+    updateFavoriteCounts();
+    renderFavoritesBar();
+    renderCurrentView();
+}
+
+async function toggleFavorite(item) {
+    const map = state.favorites[item.type];
+    if (map.has(item.link)) {
+        map.delete(item.link);
+    } else {
+        let category = PUBLICATION_CATEGORY;
+        if (item.type === ARTICLE) {
+            category = await pickCategory(item, '⭐ 오늘 일일 동향에 넣기');
+            if (!category) return;
+        }
+        map.set(item.link, { title: item.title, link: item.link, category, site: item.site });
+    }
+    afterFavoritesChange();
+}
+
+async function changeFavoriteCategory(item) {
+    const current = state.favorites[item.type].get(item.link);
+    if (!current || item.type !== ARTICLE) return;
+    const category = await pickCategory(item, '분류 바꾸기', current.category);
+    if (!category || category === current.category) return;
+    state.favorites[item.type].set(item.link, { ...current, category });
+    afterFavoritesChange();
+}
+
+function revertFavorites() {
+    setFavoriteMaps(state.serverFavorites);
+    afterFavoritesChange();
+    toast('저장된 일일 동향으로 되돌렸습니다.');
+}
+
+async function clearFavorites(type) {
+    const label = type === ARTICLE ? '기사' : '간행물';
+    const ok = await confirmDialog('모두 빼기', `오늘 일일 동향에서 ${label} ${state.favorites[type].size}건을 모두 뺄까요?\n('일일 동향 저장'을 눌러야 실제로 반영됩니다)`, { confirmText: '모두 빼기', danger: true });
+    if (!ok) return;
+    state.favorites[type].clear();
+    afterFavoritesChange();
+}
+
+// ⭐ 목록을 저장소에 올리고 일일 동향 텍스트(json_to_txt)를 다시 만듭니다.
+async function saveFavorites(button) {
+    if (!(await ensureAdmin())) return false;
+    return withBusy(button, async () => {
+        const lists = currentLists();
+        try {
+            const remote = {};
+            for (const type of TYPES) remote[type] = await readRepoJSON(FAVORITE_FILES[type]);
+
+            // 이 페이지를 연 뒤 서버 목록이 바뀌었으면(새 AI 선정, 다른 관리자 저장) 덮어쓰기 전에 확인
+            const changedRemotely = TYPES.some(type =>
+                listSignature(normalizeFavoriteList(remote[type].data, type)) !== listSignature(state.serverFavorites[type]));
+            if (changedRemotely) {
+                const ok = await confirmDialog('서버 목록이 바뀌었습니다',
+                    '이 페이지를 연 뒤 저장소의 일일 동향이 바뀌었습니다. (새 AI 선정 또는 다른 관리자의 저장)\n\n그래도 지금 화면의 ⭐ 목록으로 덮어쓸까요?',
+                    { confirmText: '덮어쓰기', danger: true });
+                if (!ok) return false;
+            }
+
+            for (const type of TYPES) {
+                if (listSignature(normalizeFavoriteList(remote[type].data, type)) === listSignature(lists[type])) continue;
+                await writeRepoJSON(FAVORITE_FILES[type], lists[type], remote[type].sha, `update ${FAVORITE_FILES[type]}`);
+            }
+        } catch (error) {
+            console.error(error);
+            toast(`일일 동향 저장 실패: ${error.message}`, { type: 'error', timeout: 8000 });
+            return false;
+        }
+
+        state.serverFavorites = cloneLists(lists);
+        state.draftMeta = { ...state.draftMeta, saved: cloneLists(lists), savedKey: favoritesKey(lists) };
+        afterFavoritesChange();
+        return dispatchWorkflow('json_to_txt', '⭐ 목록을 저장했습니다. 일일 동향 텍스트를 만드는 중입니다. (약 1분 뒤 반영)');
+    });
+}
+
+// -----------------------------------------------------
+// 7. Few-shot 학습 데이터 · 일일동향 제외 (관리자)
+// -----------------------------------------------------
+async function loadFewshotAndExcluded() {
+    const [fewshot, excluded] = await Promise.all([fetchJSON(FEWSHOT_FILE, []), fetchJSON(EXCLUDED_FILE, [])]);
+    state.fewshot = Array.isArray(fewshot) ? fewshot : [];
+    state.excluded = new Set((Array.isArray(excluded) ? excluded : []).map(item => item.link).filter(Boolean));
+}
+
+// 학습 데이터는 출처를 표시 이름(displayName)으로 저장합니다.
+function sameFewshot(example, item) {
+    return example.title === item.title && example.site === item.displayName;
+}
+
+async function toggleFewshot(item, button) {
+    if (!(await ensureAdmin())) return;
+    const learned = state.fewshot.some(example => sameFewshot(example, item));
+    if (learned) {
+        const ok = await confirmDialog('🧠 학습 데이터에서 빼기', `${item.title}\n(${item.displayName})\n\n이 기사를 AI 분류 학습 데이터에서 뺄까요?`, { confirmText: '빼기', danger: true });
+        if (!ok) return;
+    }
+    let example = null;
+    if (!learned) {
+        const data = await openDialog({
+            title: '🧠 AI 분류 학습 데이터 추가',
+            body: `${itemSummaryHTML(item)}
+                <div class="field-label">올바른 분류</div>${categoryChips('')}
+                <label class="field">이유 (선택)
+                    <textarea name="reason" rows="2" maxlength="300" placeholder="AI가 이 분류로 판단해야 하는 이유"></textarea>
+                </label>`,
+            confirmText: '추가',
+        });
+        if (!data) return;
+        const reason = String(data.get('reason') || '').trim();
+        example = { site: item.displayName, title: item.title, category: String(data.get('category')), ...(reason && { reason }) };
+    }
+
+    await withBusy(button, async () => {
+        try {
+            const next = await updateRepoJSON(FEWSHOT_FILE, list => {
+                if (learned) {
+                    const filtered = list.filter(d => !sameFewshot(d, item));
+                    return filtered.length === list.length ? null : filtered;
+                }
+                return list.some(d => sameFewshot(d, item)) ? null : [...list, example];
+            }, `${learned ? 'Remove' : 'Add'} few-shot example: ${item.title}`);
+            if (next) state.fewshot = next;
+            toast(learned ? '학습 데이터에서 뺐습니다.' : '학습 데이터에 추가했습니다. 다음 AI 선정부터 반영됩니다.', { type: 'success' });
+        } catch (error) {
+            console.error(error);
+            toast(`학습 데이터 저장 실패: ${error.message}`, { type: 'error' });
+        }
+    });
+    renderCurrentView();
+}
+
+async function toggleExclude(item, button) {
+    if (!(await ensureAdmin())) return;
+    const isExcluded = state.excluded.has(item.link);
+    let reason = '';
+    if (isExcluded) {
+        const ok = await confirmDialog('🚫 제외 해제', `${item.title}\n(${item.displayName})\n\n이 기사를 다시 일일 동향 후보에 넣을까요?`, { confirmText: '해제' });
+        if (!ok) return;
+    } else {
+        const data = await openDialog({
+            title: '🚫 일일 동향에서 제외',
+            body: `${itemSummaryHTML(item)}
+                <p class="dialog-message">AI가 이 기사를 일일 동향에 고르지 않도록 합니다.</p>
+                <label class="field">이유 (선택)
+                    <textarea name="reason" rows="2" maxlength="300" placeholder="AI가 이런 기사를 고르지 말아야 하는 이유"></textarea>
+                </label>`,
+            confirmText: '제외',
+            danger: true,
+        });
+        if (!data) return;
+        reason = String(data.get('reason') || '').trim();
+    }
+
+    await withBusy(button, async () => {
+        try {
+            await updateRepoJSON(EXCLUDED_FILE, list => {
+                if (isExcluded) {
+                    const filtered = list.filter(d => d.link !== item.link);
+                    return filtered.length === list.length ? null : filtered;
+                }
+                if (list.some(d => d.link === item.link)) return null;
+                return [...list, { title: item.title, link: item.link, site: item.displayName, ...(reason && { reason }) }];
+            }, `${isExcluded ? 'Remove' : 'Add'} excluded article: ${item.title}`);
+            if (isExcluded) state.excluded.delete(item.link);
+            else state.excluded.add(item.link);
+            toast(isExcluded ? '제외를 해제했습니다.' : '제외했습니다. AI가 이 기사를 고르지 않습니다.', { type: 'success' });
+        } catch (error) {
+            console.error(error);
+            toast(`제외 목록 저장 실패: ${error.message}`, { type: 'error' });
+        }
+    });
     renderCurrentView();
 }
 
 // -----------------------------------------------------
-// 6. UI/UX 렌더링 및 헬퍼 함수들
+// 8. 화면 그리기
 // -----------------------------------------------------
-function sortData(data, sortBy) {
-    const sortedData = [...data];
-    sortedData.sort((a, b) => {
-        const getDateString = (item) => `${item.년 || '0000'}${item.월 || '00'}${item.일 || '00'}${item.시 || '00'}${item.분 || '00'}`;
-        const dateA = getDateString(a);
-        const dateB = getDateString(b);
+function viewType(view) {
+    if (view.startsWith('ARTICLE_')) return ARTICLE;
+    if (view.startsWith('PUBLICATION_')) return PUBLICATION;
+    const source = state.sourceById.get(view);
+    return source ? source.type : null;
+}
+
+function isValidView(view) {
+    return view === 'HOME' || ['ARTICLE_ALL', 'ARTICLE_FAV', 'PUBLICATION_ALL', 'PUBLICATION_FAV'].includes(view) || state.sourceById.has(view);
+}
+
+function viewTitle(view) {
+    const titles = {
+        HOME: '대시보드',
+        ARTICLE_ALL: '기사 전체',
+        ARTICLE_FAV: '⭐ 오늘 일일 동향 · 기사',
+        PUBLICATION_ALL: '간행물 전체',
+        PUBLICATION_FAV: '⭐ 오늘 일일 동향 · 간행물',
+    };
+    if (titles[view]) return titles[view];
+    const source = state.sourceById.get(view);
+    return source ? navLabel(source) : 'AI 동향 분석';
+}
+
+const SORT_OPTIONS = {
+    article: [['date_desc', '최신순'], ['date_asc', '오래된순'], ['title_asc', '제목순'], ['site_asc', '출처순']],
+    publication: [['date_desc', '최신순'], ['date_asc', '오래된순'], ['title_asc', '제목순'], ['category_asc', '분류순']],
+};
+
+function sortItems(items, sortBy) {
+    const sorted = [...items];
+    sorted.sort((a, b) => {
         switch (sortBy) {
-            case 'date_asc': return dateA.localeCompare(dateB);
-            case 'date_desc': return dateB.localeCompare(dateA);
+            case 'date_asc': return a.dateKey.localeCompare(b.dateKey);
             case 'title_asc': return a.title.localeCompare(b.title);
-            case 'site_asc': return a.site !== b.site ? a.site.localeCompare(b.site) : dateB.localeCompare(dateA);
-            case 'category_asc': return a.category !== b.category ? a.category.localeCompare(b.category) : dateB.localeCompare(dateA);
-            default: return 0;
+            case 'site_asc': return (a.displayName || '').localeCompare(b.displayName || '') || b.dateKey.localeCompare(a.dateKey);
+            case 'category_asc': return (a.category || '').localeCompare(b.category || '') || b.dateKey.localeCompare(a.dateKey);
+            case 'date_desc':
+            default: return b.dateKey.localeCompare(a.dateKey);
         }
     });
-    return sortedData;
+    return sorted;
 }
 
-function showTab(sourceName) {
-    if (sourceName !== currentView) renderLimit = PAGE_SIZE; // 다른 탭으로 가면 목록 처음부터
-    currentView = sourceName;
-    document.querySelectorAll('.tab-button').forEach(btn => btn.classList.remove('active'));
-    const activeTab = document.querySelector(`.tab-button[data-source="${sourceName}"]`);
-    if (activeTab) activeTab.classList.add('active');
-
-    const isHome = sourceName === 'HOME';
-    const isArticleView = sourceName.includes('ARTICLE') || ['AIKOREA', 'AITIMES', 'ETNEWS', 'AINEWS', 'MND', 'kookbang', 'DAPA', 'MSIT'].includes(sourceName);
-    const isPublicationView = sourceName.includes('PUBLICATION') || ['NIA', 'IITP', 'STEPI', 'NIPA', 'KISDI', 'KISTI', 'KISA', 'TTA'].includes(sourceName);
-
-    document.getElementById('dashboard-view').style.display = isHome ? 'block' : 'none';
-    document.getElementById('list-view').style.display = isHome ? 'none' : 'block';
-    document.getElementById('article-controls').style.display = isArticleView ? 'flex' : 'none';
-    document.getElementById('publication-controls').style.display = isPublicationView ? 'flex' : 'none';
-
-    document.getElementById('main-content-title').textContent = activeTab ? activeTab.textContent.replace(/^(🏠|📰|⭐️|📚) /, '') : 'AI 동향 분석';
-
-    if (isHome) renderDashboard();
-    else renderList(sourceName);
+function formatItemDate(item) {
+    if (!item.년) return '';
+    const time = (item.시 && item.분) ? ` ${pad2(item.시)}:${pad2(item.분)}` : '';
+    return `${item.년}.${pad2(item.월)}.${pad2(item.일)}${time}`;
 }
 
-function renderCurrentView() { showTab(currentView); }
-
-function renderDashboard() {
-    // Stats removed
-
-    const latestArticles = sortData(articleData, 'date_desc').slice(0, 5);
-    document.getElementById('latest-articles').innerHTML = latestArticles.map(item => `
-        <li class="latest-item">
-            <a href="#" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML((item.title || '').replace(/'/g, "\\'"))}'); return false;">${escapeHTML(item.title)}</a>
-            <span>${escapeHTML(item.displayName)} | ${escapeHTML(item.년)}.${escapeHTML(item.월)}.${escapeHTML(item.일)}</span>
-        </li>
-    `).join('');
-
-    const latestPublications = sortData(publicationData, 'date_desc').slice(0, 5);
-    document.getElementById('latest-publications').innerHTML = latestPublications.map(item => `
-        <li class="latest-item">
-            <a href="#" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML((item.title || '').replace(/'/g, "\\'"))}'); return false;">${escapeHTML(item.title)}</a>
-            <span>${escapeHTML(item.displayName)} | ${escapeHTML(item.년)}.${escapeHTML(item.월)}.${escapeHTML(item.일)}</span>
-        </li>
-    `).join('');
+function categoryBadge(category, editable) {
+    const cls = CATEGORY_CLASS[category] || 'cat-default';
+    if (!editable) return `<span class="badge ${cls}">${escapeHTML(category)}</span>`;
+    return `<button type="button" class="badge ${cls}" data-action="category" title="분류 바꾸기">${escapeHTML(category)}</button>`;
 }
 
-function renderList(sourceName) {
-    let data = [];
-    let sortBy, searchTerm, dataLabel;
-    const isArticle = sourceName.includes('ARTICLE') || ['AIKOREA', 'AITIMES', 'ETNEWS', 'AINEWS', 'MND', 'kookbang', 'DAPA', 'MSIT'].includes(sourceName);
-    const isAll = sourceName.includes('_ALL');
-    const isFav = sourceName.includes('_FAV');
+function renderItem(item) {
+    const favorite = state.favorites[item.type].get(item.link);
+    const admin = state.admin.enabled;
+    const isArticle = item.type === ARTICLE;
+    const excluded = admin && isArticle && state.excluded.has(item.link);
 
-    if (isArticle) {
-        sortBy = document.getElementById('sort-by-article').value;
-        searchTerm = document.getElementById('search-term-article').value.toLowerCase();
-        dataLabel = '기사';
-        if (isFav) data = articleData.filter(a => favoriteArticles.has(a.link));
-        else if (isAll) data = articleData;
-        else data = articleData.filter(a => a.site === sourceName);
-    } else {
-        sortBy = document.getElementById('sort-by-publication').value;
-        searchTerm = document.getElementById('search-term-publication').value.toLowerCase();
-        dataLabel = '간행물';
-        if (isFav) data = publicationData.filter(p => favoritePublications.has(p.link));
-        else if (isAll) data = publicationData;
-        else data = publicationData.filter(p => p.site === sourceName);
+    let adminButtons = '';
+    if (admin && isArticle) {
+        const learned = state.fewshot.some(example => sameFewshot(example, item));
+        adminButtons = `
+            <button type="button" class="tool-btn${learned ? ' is-on' : ''}" data-action="fewshot" title="${learned ? 'AI 분류 학습 데이터에서 빼기' : 'AI 분류 학습 데이터로 추가'}" aria-pressed="${learned}">🧠</button>
+            <button type="button" class="tool-btn${excluded ? ' is-on danger' : ''}" data-action="exclude" title="${excluded ? '제외 해제 (일일 동향 후보에 다시 포함)' : '일일 동향에서 제외 (AI가 고르지 않음)'}" aria-pressed="${excluded}">🚫</button>`;
     }
 
+    const badges = [];
+    if (favorite) badges.push(categoryBadge(favorite.category, isArticle));
+    if (excluded) badges.push('<span class="badge badge-excluded">일일 동향 제외</span>');
+    const meta = [item.displayName, item.category, formatItemDate(item)].filter(Boolean)
+        .map(text => `<span>${escapeHTML(text)}</span>`).join('');
+
+    return `
+        <li class="article-item${excluded ? ' is-excluded' : ''}" data-link="${escapeHTML(item.link)}">
+            <div class="article-actions">
+                <button type="button" class="favorite-btn${favorite ? ' is-favorite' : ''}" data-action="favorite"
+                    aria-pressed="${Boolean(favorite)}" title="${favorite ? '오늘 일일 동향에서 빼기' : '오늘 일일 동향에 넣기'}">${favorite ? '★' : '☆'}</button>
+                ${adminButtons}
+            </div>
+            <div class="article-body">
+                <div class="article-title-row">
+                    <a class="article-title" href="${escapeHTML(safeUrl(item.link))}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.title)}</a>
+                    ${badges.join('')}
+                </div>
+                <div class="article-meta">${meta}</div>
+            </div>
+        </li>`;
+}
+
+// ⭐ 목록 항목: 불러온 기사 데이터에 있으면 그 정보(날짜 등)를, 없으면 저장된 값만으로 표시
+function favoriteItems(type) {
+    return Array.from(state.favorites[type].values()).map(fav => {
+        const found = state.linkIndex.get(fav.link);
+        if (found) return found;
+        const source = state.sourceById.get(fav.site) || state.sources.find(s => s.name === fav.site);
+        return {
+            title: fav.title || '제목 없음', link: fav.link, type, site: source ? source.id : fav.site,
+            displayName: source ? source.name : (fav.site || ''), category: '', dateKey: '',
+        };
+    });
+}
+
+function renderList(view) {
+    const type = viewType(view);
+    const isFav = view.endsWith('_FAV');
+    const isAll = view.endsWith('_ALL');
+    const searchTerm = state.search[type].trim().toLowerCase();
+
+    let items;
+    if (isFav) items = favoriteItems(type);
+    else if (isAll) items = state.items[type];
+    else items = state.items[type].filter(item => item.site === view);
+
     // 최근 데이터만 있는 상태에서 검색하면 전체 기간 데이터를 받아 다시 검색 (그동안은 최근 결과를 먼저 표시)
-    if (searchTerm && dataScope === 'recent') {
+    if (searchTerm && state.dataScope[type] === 'recent' && !isFav) {
         loadAllDataAndRender('전체 기간에서 검색하기 위해 데이터를 불러오는 중입니다...');
     } else {
         updateDataScopeNotice();
     }
 
-    if (searchTerm) data = data.filter(item => item.title.toLowerCase().includes(searchTerm));
-    const filteredAndSortedData = sortData(data, sortBy);
-    const listContainer = document.getElementById('data-list-container');
-    const noDataMsg = document.getElementById('no-data');
+    if (searchTerm) items = items.filter(item => item.title.toLowerCase().includes(searchTerm));
+    const sorted = sortItems(items, state.sort[type]);
+    const container = document.getElementById('data-list-container');
+    const noData = document.getElementById('no-data');
     const showMoreBtn = document.getElementById('showMoreBtn');
 
-    if (filteredAndSortedData.length === 0) {
-        listContainer.innerHTML = '';
-        noDataMsg.style.display = 'block';
-        noDataMsg.textContent = searchTerm ? `검색어 "${searchTerm}" 결과 없음` : `데이터가 없습니다.`;
-        if (showMoreBtn) showMoreBtn.style.display = 'none';
+    const visible = sorted.slice(0, state.renderLimit);
+    state.renderedItems = new Map(visible.map(item => [item.link, item]));
+    container.innerHTML = visible.map(renderItem).join('');
+
+    noData.hidden = sorted.length > 0;
+    if (!sorted.length) {
+        noData.textContent = searchTerm ? `"${state.search[type].trim()}" 검색 결과가 없습니다.`
+            : isFav ? '오늘 일일 동향에 넣은 항목이 없습니다. 목록에서 ☆를 눌러 넣을 수 있습니다.'
+                : '데이터가 없습니다.';
+    }
+    const remaining = sorted.length - visible.length;
+    showMoreBtn.hidden = remaining <= 0;
+    showMoreBtn.textContent = `더 보기 (${remaining.toLocaleString()}건 남음)`;
+}
+
+function updateDataScopeNotice(loadingMessage) {
+    const notice = document.getElementById('data-scope-notice');
+    const type = viewType(state.view);
+    notice.hidden = !type || state.dataScope[type] !== 'recent' || state.view.endsWith('_FAV');
+    document.getElementById('data-scope-text').textContent = loadingMessage ||
+        `빠른 표시를 위해 최근 ${state.recentDays}일 기사만 보여주고 있습니다.`;
+    const btn = document.getElementById('loadAllDataBtn');
+    btn.disabled = Boolean(loadingMessage);
+    btn.hidden = Boolean(loadingMessage);
+}
+
+function renderLatest(elementId, items) {
+    document.getElementById(elementId).innerHTML = sortItems(items, 'date_desc').slice(0, 5).map(item => `
+        <li class="latest-item">
+            <a href="${escapeHTML(safeUrl(item.link))}" target="_blank" rel="noopener noreferrer">${escapeHTML(item.title)}</a>
+            <span>${escapeHTML(item.displayName)} · ${escapeHTML(formatItemDate(item).slice(0, 10))}</span>
+        </li>`).join('') || '<li class="latest-item empty">데이터가 없습니다.</li>';
+}
+
+function renderDashboard() {
+    renderLatest('latest-articles', state.items.article);
+    renderLatest('latest-publications', state.items.publication);
+}
+
+function showView(view) {
+    if (!isValidView(view)) view = 'HOME';
+    const changed = view !== state.view;
+    if (changed) state.renderLimit = PAGE_SIZE;
+    state.view = view;
+
+    document.querySelectorAll('.nav-link[data-view]').forEach(link => {
+        const active = link.dataset.view === view;
+        link.classList.toggle('active', active);
+        if (active) link.setAttribute('aria-current', 'page');
+        else link.removeAttribute('aria-current');
+    });
+    document.getElementById('main-content-title').textContent = viewTitle(view);
+
+    const isHome = view === 'HOME';
+    document.getElementById('dashboard-view').hidden = !isHome;
+    document.getElementById('list-view').hidden = isHome;
+
+    if (isHome) {
+        renderDashboard();
     } else {
-        // 수천 건을 한 번에 그리면 느려지므로 PAGE_SIZE개씩 표시
-        const visible = filteredAndSortedData.slice(0, renderLimit);
-        listContainer.innerHTML = visible.map(item => createListItem(item)).join('');
-        noDataMsg.style.display = 'none';
-        const remaining = filteredAndSortedData.length - visible.length;
-        if (showMoreBtn) {
-            showMoreBtn.style.display = remaining > 0 ? 'block' : 'none';
-            showMoreBtn.textContent = `더 보기 (${remaining.toLocaleString()}건 남음)`;
-        }
+        const type = viewType(view);
+        const search = document.getElementById('search-term');
+        if (search.value !== state.search[type]) search.value = state.search[type];
+        search.placeholder = type === ARTICLE ? '기사 제목 검색' : '간행물 제목 검색';
+        const select = document.getElementById('sort-by');
+        select.innerHTML = SORT_OPTIONS[type].map(([value, label]) =>
+            `<option value="${value}"${value === state.sort[type] ? ' selected' : ''}>${label}</option>`).join('');
+        document.getElementById('clearFavoritesBtn').hidden = !(view.endsWith('_FAV') && state.favorites[type].size);
+        renderList(view);
     }
+    if (changed) window.scrollTo({ top: 0 });
 }
 
-function createListItem(item) {
-    const timeInfo = (item.시 && item.분) ? `${item.시.padStart(2, '0')}:${item.분.padStart(2, '0')}` : '';
-    const fullDate = `${item.년}.${item.월}.${item.일} ${timeInfo}`;
-    let isFavorite = item.isArticle ? favoriteArticles.has(item.link) : favoritePublications.has(item.link);
-    let categoryBadge = '';
-    let colorClass = 'cat-default';
-
-    if (isFavorite) {
-        const savedCat = item.isArticle ? favoriteArticles.get(item.link) : favoritePublications.get(item.link);
-        if (item.isArticle) {
-            if (savedCat === '국방') colorClass = 'cat-defense';
-            else if (savedCat === '육군') colorClass = 'cat-army';
-            else if (savedCat === '민간') colorClass = 'cat-civil';
-            else if (savedCat === '기관') colorClass = 'cat-pub';
-            else if (savedCat === '해외') colorClass = 'cat-foreign';
-            else if (savedCat === '기타') colorClass = 'cat-etc';
-        } else {
-            colorClass = 'cat-default';
-        }
-        categoryBadge = `<span class="category-badge ${colorClass}">${savedCat}</span>`;
-    }
-
-    // 관리자 모드에서만 표시되는 버튼들 (관리자 인증된 경우에만)
-    let fewshotButtons = '';
-    if (item.isArticle && isAdminMode) {
-        const isLearned = fewshotExamples.some(ex => ex.title === item.title && ex.site === item.displayName);
-        const learnBtn = isLearned
-            ? `<button class="learn-btn" onclick="removeFewshotExample(event, '${item.link}')" title="FewShot 학습에서 제거" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🧠✕</button>`
-            : `<button class="learn-btn" onclick="addFewshotExample(event, '${item.link}')" title="FewShot 학습 데이터로 추가" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🧠</button>`;
-
-        const isExcluded = excludedArticles.has(item.link);
-        const excludeBtn = isExcluded
-            ? `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="제외 해제 클릭 → 일일동향에 다시 포함" style="background:#e74c3c;color:white;border:none;border-radius:4px;cursor:pointer;font-size:0.9em;padding:2px 6px;font-weight:bold;">🚫</button>`
-            : `<button class="learn-btn" onclick="toggleExcludeArticle(event, '${item.link}')" title="일일동향에서 제외 (AI가 이 기사를 선택하지 않음)" style="background:none;border:none;cursor:pointer;font-size:1.1em;padding:0 3px;">🚫</button>`;
-
-        fewshotButtons = learnBtn + excludeBtn;
-    }
-
-    const isExcluded = excludedArticles.has(item.link);
-    // 관리자 모드일 때만 음영/뱃지 표시
-    const excludeStyle = (isExcluded && isAdminMode) ? 'opacity:0.45;' : '';
-    const excludeBadge = (isExcluded && isAdminMode) ? '<span style="font-size:0.75em;color:#e74c3c;font-weight:bold;margin-left:6px;">[ 일일동향 제외 ]</span>' : '';
-
-    return `
-        <li class="article-item" style="${excludeStyle}">
-            <div class="article-actions">
-                <button class="favorite-btn ${isFavorite ? 'is-favorite' : ''}" onclick="toggleFavorite(event, '${escapeHTML(item.link)}', ${item.isArticle})">${isFavorite ? '★' : '☆'}</button>
-                ${fewshotButtons}
-            </div>
-            <div class="article-title-group">
-                <a href="#" class="article-title" onclick="openPopup('${escapeHTML(item.link)}', '${escapeHTML((item.title || '').replace(/'/g, "\\'"))}'); return false;">${escapeHTML(item.title)}</a>
-                ${excludeBadge}
-                ${categoryBadge}
-                <div class="article-meta">
-                    <span>출처: ${escapeHTML(item.displayName)}</span>
-                    <span>분류: ${escapeHTML(item.category || '-')}</span>
-                </div>
-            </div>
-            <div class="article-date">${escapeHTML(fullDate)}</div>
-        </li>
-    `;
+function renderCurrentView() {
+    showView(state.view);
 }
 
-
-function toggleFavorite(event, link, isArticle) {
-    event.stopPropagation();
-    if (isArticle) {
-        if (favoriteArticles.has(link)) favoriteArticles.delete(link);
-        else {
-            let cat = prompt("카테고리 (국방, 육군, 민간, 기관, 해외, 기타)", "");
-            if (cat === null) return;
-            favoriteArticles.set(link, cat.trim() || "기타");
-        }
-        localStorage.setItem('favoriteArticles', JSON.stringify(Array.from(favoriteArticles.entries())));
-    } else {
-        if (favoritePublications.has(link)) favoritePublications.delete(link);
-        else favoritePublications.set(link, "간행물");
-        localStorage.setItem('favoritePublications', JSON.stringify(Array.from(favoritePublications.entries())));
-    }
-    renderCurrentView();
-    // Stats removed
-}
-
-function clearFavorites(type) {
-    if (!confirm("정말 모두 삭제하시겠습니까?")) return;
-    if (type === 'ARTICLE') {
-        favoriteArticles.clear();
-        localStorage.setItem('favoriteArticles', JSON.stringify([]));
-    } else {
-        favoritePublications.clear();
-        localStorage.setItem('favoritePublications', JSON.stringify([]));
-    }
-    renderCurrentView();
-}
-
-function openPopup(link, title) {
-    if (link && link !== '#') window.open(link, '_blank');
-    else alert(`"${title}" 링크가 없습니다.`);
-}
-
-async function addFewshotExample(event, link) {
-    event.stopPropagation();
-
-    // Find the item
-    const item = articleData.find(a => a.link === link);
-    if (!item) return;
-
-    // Prompt user for category
-    const cat = prompt(`[AI 분류 학습 데이터 추가]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\n이 기사의 올바른 카테고리를 입력하세요.\n(국방, 육군, 민간, 기관, 해외, 기타 중 하나)`, "국방");
-    if (!cat) return;
-
-    const category = cat.trim();
-    if (!["국방", "육군", "민간", "기관", "해외", "기타"].includes(category)) {
-        alert("❌ 알맞은 카테고리(국방, 육군, 민간, 기관, 해외, 기타)를 입력해주세요.");
-        return;
-    }
-
-    // 선택적 이유 입력
-    const reasonInput = prompt(`[학습 이유 입력 - 선택사항]\n\n카테고리: ${category}\n\nAI가 이 기사를 "${category}"로 분류해야 하는 이유를 간략히 입력하세요.\n(이유를 입력하지 않아도 됩니다. 취소 또는 빈 칸으로 건너뜀)`, "");
-    const reason = reasonInput !== null ? reasonInput.trim() : '';
-
-    const filePath = "codes/favorites/fewshot_examples.json";
-    const getEndpoint = `repos/${OWNER}/${REPO}/contents/${filePath}`;
-
-    let fewshotData = [];
-    let sha = null;
-
+function viewFromHash() {
     try {
-        // Show loading status safely
-        const originalText = event.target.textContent;
-        event.target.textContent = "⏳";
+        return decodeURIComponent(location.hash.replace(/^#/, '')) || 'HOME';
+    } catch (e) {
+        return 'HOME';
+    }
+}
 
-        // Try to get existing file
+// -----------------------------------------------------
+// 9. 오늘 일일 동향 카드 (data.txt) · 업데이트 시각
+// -----------------------------------------------------
+async function loadReportPreview() {
+    const title = document.getElementById('report-date');
+    const summary = document.getElementById('report-summary');
+    try {
+        const res = await fetch(withCacheBust(REPORT_URL));
+        if (!res.ok) throw new Error(`HTTP ${res.status}`);
+        const text = await res.text();
+        const match = text.match(/📢(\d{2}\.\d{2}\.\d{2}) AI 일일 동향📢/);
+        const dateKey = match ? match[1] : '';
+        const pubIndex = text.indexOf('📚');
+        const before = pubIndex >= 0 ? text.slice(0, pubIndex) : text;
+        const articleCount = (before.match(/^◾/gm) || []).length;
+        const publicationCount = pubIndex >= 0 ? (text.slice(pubIndex).match(/^◾/gm) || []).length : 0;
+
+        title.textContent = dateKey ? `${dateKey} AI 일일 동향` : 'AI 일일 동향';
+        const isToday = dateKey === todayKstKey();
+        summary.textContent = `기사 ${articleCount}건 · 간행물 ${publicationCount}건` +
+            (isToday ? '' : ' — 아직 오늘 일일 동향이 만들어지지 않았습니다. (매일 새벽 4시경 생성)');
+        summary.classList.toggle('is-stale', !isToday);
+    } catch (error) {
+        console.error(error);
+        title.textContent = 'AI 일일 동향';
+        summary.textContent = '일일 동향을 불러오지 못했습니다.';
+    }
+}
+
+async function copyReport(button) {
+    await withBusy(button, async () => {
         try {
-            const getResData = await callProxyAPI(`${getEndpoint}?ref=${BRANCH}`, 'GET');
-            if (getResData) {
-                sha = getResData.sha; // Capture SHA first
-                if (getResData.content) {
-                    const decodedContent = base64ToUtf8(getResData.content);
-                    fewshotData = JSON.parse(decodedContent);
-                }
-            }
-        } catch (e) {
-            // File might not exist (404), which is fine
-            console.log("Few-shot examples file not found or empty. Using empty array.");
-        }
-
-        // Check for duplicates
-        const exists = fewshotData.some(d => d.title === item.title && d.site === item.site);
-        if (exists) {
-            alert("⚠️ 이미 학습 데이터에 존재하는 기사입니다.");
-            event.target.textContent = originalText;
-            return;
-        }
-
-        fewshotData.push({
-            site: item.displayName,
-            title: item.title,
-            category: category,
-            ...(reason && { reason }) // 이유가 입력된 경우만 포함
-        });
-
-        const jsonString = JSON.stringify(fewshotData, null, 2);
-        const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
-
-        const putBody = {
-            message: `Add few-shot example: ${item.title}`,
-            content: encodedContent,
-            branch: BRANCH,
-            ...(sha && { sha })
-        };
-
-        await callProxyAPI(getEndpoint, 'PUT', putBody);
-
-        // 로컬 데이터 업데이트 및 UI 갱신
-        fewshotExamples = fewshotData;
-        renderCurrentView();
-
-        alert("✅ 올바른 카테고리 학습 데이터(Few-Shot)에 성공적으로 추가되었습니다.");
-
-    } catch (err) {
-        console.error("Error saving few-shot example:", err);
-        alert("❌ 학습 데이터 저장 실패: " + err.message);
-    } finally {
-        // Restore button icon
-        event.target.textContent = "🧠";
-    }
-}
-
-// FewShot 제외 함수 (학습 데이터에서 삭제)
-async function removeFewshotExample(event, link) {
-    event.stopPropagation();
-
-    const item = articleData.find(a => a.link === link);
-    if (!item) return;
-
-    if (!confirm(`[FewShot 제외]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\n이 기사를 FewShot 학습 데이터에서 제외하시겠습니까?`)) return;
-
-    const filePath = "codes/favorites/fewshot_examples.json";
-    const getEndpoint = `repos/${OWNER}/${REPO}/contents/${filePath}`;
-
-    try {
-        const originalText = event.target.textContent;
-        event.target.textContent = "⏳";
-
-        const getResData = await callProxyAPI(`${getEndpoint}?ref=${BRANCH}`, 'GET');
-        if (!getResData || !getResData.content) {
-            alert("⚠️ FewShot 데이터 파일을 찾을 수 없습니다.");
-            event.target.textContent = originalText;
-            return;
-        }
-
-        let fewshotData = JSON.parse(base64ToUtf8(getResData.content));
-        const sha = getResData.sha;
-
-        const prevLen = fewshotData.length;
-        fewshotData = fewshotData.filter(d => !(d.title === item.title && d.site === item.displayName));
-
-        if (fewshotData.length === prevLen) {
-            alert("⚠️ 해당 기사가 학습 데이터에 없습니다.");
-            event.target.textContent = originalText;
-            return;
-        }
-
-        const jsonString = JSON.stringify(fewshotData, null, 2);
-        const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
-
-        await callProxyAPI(getEndpoint, 'PUT', {
-            message: `Remove few-shot example: ${item.title}`,
-            content: encodedContent,
-            branch: BRANCH,
-            sha
-        });
-
-        fewshotExamples = fewshotData;
-        renderCurrentView();
-        alert("✅ FewShot 학습 데이터에서 제외되었습니다.");
-
-    } catch (err) {
-        console.error("Error removing few-shot example:", err);
-        alert("❌ 제거 실패: " + err.message);
-    } finally {
-        event.target.textContent = "🚫";
-    }
-}
-
-// 일일동향 제외 토글 (excluded_articles.json에 저장)
-async function toggleExcludeArticle(event, link) {
-    event.stopPropagation();
-
-    const item = articleData.find(a => a.link === link);
-    if (!item) return;
-
-    const isCurrentlyExcluded = excludedArticles.has(link);
-    const confirmMsg = isCurrentlyExcluded
-        ? `[제외 해제]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\n이 기사를 일일동향에 다시 포함시키겠습니까?`
-        : `[일일동향 제외]\n\n기사 제목: ${item.title}\n출처: ${item.displayName}\n\nAI가 이 기사를 일일동향에 절대 포함하지 않도록 설정합니다.\n계속하시겠습니까?`;
-
-    if (!confirm(confirmMsg)) return;
-
-    const originalText = event.target.textContent;
-    event.target.textContent = '⏳';
-
-    const filePath = 'codes/favorites/excluded_articles.json';
-    const getEndpoint = `repos/${OWNER}/${REPO}/contents/${filePath}`;
-
-    try {
-        let excludedData = [];
-        let sha = null;
-
-        // sha는 반드시 먼저 추출 (파일 존재 여부 확인)
-        try {
-            const getResData = await callProxyAPI(`${getEndpoint}?ref=${BRANCH}`, 'GET');
-            if (getResData) {
-                sha = getResData.sha; // 파일이 존재하면 sha 즉시 저장
-                if (getResData.content) {
-                    try {
-                        excludedData = JSON.parse(base64ToUtf8(getResData.content));
-                    } catch (parseErr) {
-                        console.warn('excluded_articles.json 파싱 실패, 빈 배열로 초기화');
-                        excludedData = [];
-                    }
-                }
-            }
-        } catch (e) {
-            // 404: 파일이 없음 → sha=null로 새 파일 생성
-            console.log('excluded_articles.json not found. Creating new one.');
-        }
-
-        if (isCurrentlyExcluded) {
-            excludedData = excludedData.filter(d => d.link !== link);
-            excludedArticles.delete(link);
-        } else {
-            // 제외 시 선택적 이유 입력
-            const reasonInput = prompt(`[제외 이유 입력 - 선택사항]\n\n기사 제목: ${item.title}\n\nAI가 이 기사를 일일동향에 절대 포함하지 말아야 하는 이유를 간략히 입력하세요.\n(입력하지 않아도 됩니다. 취소 또는 빈 칸으로 건너뜀)`, '');
-            const reason = reasonInput !== null ? reasonInput.trim() : '';
-            excludedData.push({
-                title: item.title,
-                link: item.link,
-                site: item.displayName,
-                ...(reason && { reason })
+            const res = await fetch(withCacheBust(REPORT_URL));
+            if (!res.ok) throw new Error('일일 동향 파일을 불러오지 못했습니다.');
+            await copyText(await res.text());
+            toast('일일 동향을 복사했습니다. 메신저에 붙여 넣어 공유하세요.', {
+                type: 'success',
+                action: { label: '동향 리포트 열기', onClick: () => { location.href = '/report'; } },
             });
-            excludedArticles.add(link);
+        } catch (error) {
+            console.error(error);
+            toast(`복사하지 못했습니다: ${error.message}`, { type: 'error' });
         }
-
-        const jsonString = JSON.stringify(excludedData, null, 2);
-        const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
-
-        const putBody = {
-            message: `${isCurrentlyExcluded ? 'Remove' : 'Add'} excluded article: ${item.title}`,
-            content: encodedContent,
-            branch: BRANCH
-        };
-        if (sha) putBody.sha = sha; // 파일이 존재하는 경우만 sha 포함
-
-        await callProxyAPI(getEndpoint, 'PUT', putBody);
-
-        renderCurrentView();
-        alert(isCurrentlyExcluded
-            ? '✅ 제외가 해제되었습니다. 이 기사는 이제 일일동향 선정 대상에 포함됩니다.'
-            : '✅ 제외 완료! AI가 이 기사를 일일동향에 포함하지 않습니다.');
-
-    } catch (err) {
-        console.error('Error toggling excluded article:', err);
-        alert('❌ 실패: ' + err.message);
-        // 롤백
-        if (isCurrentlyExcluded) excludedArticles.add(link);
-        else excludedArticles.delete(link);
-    } finally {
-        event.target.textContent = originalText;
-    }
+    });
 }
 
-// 관리자 모드 토글 (사이드바 버튼)
-async function toggleAdminMode() {
-    if (isAdminMode) {
-        // 이미 잠금 해제 상태 → 다시 잠금
-        isAdminMode = false;
-        adminPassword = ""; // 로그아웃 시 비밀번호 초기화
-        document.getElementById('adminModeBtn').style.background = '#555';
-        document.getElementById('adminModeBtn').innerText = '🔒 Admin';
-        document.getElementById('adminModeBtn').title = '관리자 모드 (인증 필요)';
-        renderCurrentView();
+// 기사 데이터가 마지막으로 바뀐 시각: 배포 때 기록한 데이터 커밋 시각 (로컬 실행 후 push 한 경우도 반영),
+// 없으면 크롤링 워크플로우가 남긴 public/update_time.json
+async function loadCompletionTime() {
+    const el = document.getElementById('workflow-completed-time');
+    if (state.dataUpdatedAt) {
+        const p = kstParts(new Date(state.dataUpdatedAt));
+        el.textContent = `${p.month}.${p.day} ${p.hour}:${p.minute}`;
         return;
     }
-
-    // 비밀번호 인증
-    const isVerified = await verifyPassword();
-    if (!isVerified) return;
-
-    isAdminMode = true;
-    document.getElementById('adminModeBtn').style.background = '#e67e22';
-    document.getElementById('adminModeBtn').innerText = '🔓 Admin';
-    document.getElementById('adminModeBtn').title = '관리자 모드 활성화됨 (클릭하여 잠금)';
-    renderCurrentView();
-    alert("✅ 관리자 모드가 활성화되었습니다.\n전체 관리자 기능 및 FewShot/제외 관리가 가능합니다.");
+    try {
+        const data = await fetchJSON(UPDATE_TIME_URL);
+        const match = String(data.completed_at || '').match(/^\d{4}-(\d{2})-(\d{2}) (\d{2}):(\d{2})/);
+        el.textContent = match ? `${match[1]}.${match[2]} ${match[3]}:${match[4]}` : (data.completed_at || '정보 없음');
+    } catch (error) {
+        el.textContent = '정보 없음';
+    }
 }
 
-const debounce = (func, delay) => {
-    return function (...args) {
-        clearTimeout(debounceTimeout);
-        debounceTimeout = setTimeout(() => func.apply(this, args), delay);
-    };
-};
-const debounceSearchArticles = debounce(resetAndRender, 300);
-const debounceSearchPublications = debounce(resetAndRender, 300);
+// -----------------------------------------------------
+// 10. 자동 처리 현황 · 워크플로우 실행 (GitHub Actions)
+// -----------------------------------------------------
+function formatRunTime(isoString) {
+    if (!isoString) return '';
+    const p = kstParts(new Date(isoString));
+    const key = `${p.year.slice(2)}.${p.month}.${p.day}`;
+    return key === todayKstKey() ? `오늘 ${p.hour}:${p.minute}` : `${p.month}.${p.day} ${p.hour}:${p.minute}`;
+}
 
-document.addEventListener('DOMContentLoaded', () => {
+function runStatus(run) {
+    if (run === undefined) return { key: 'unknown', icon: '⚪', text: '확인 불가' };
+    if (run === null) return { key: 'none', icon: '⚪', text: '기록 없음' };
+    if (run.status !== 'completed') return { key: 'running', icon: '⏳', text: run.status === 'queued' ? '대기 중' : '진행 중' };
+    const map = {
+        success: { key: 'success', icon: '✅', text: '완료' },
+        failure: { key: 'failure', icon: '❌', text: '실패' },
+        cancelled: { key: 'cancelled', icon: '⏹️', text: '취소됨' },
+        skipped: { key: 'skipped', icon: '⏭️', text: '건너뜀' },
+        timed_out: { key: 'failure', icon: '⌛', text: '시간 초과' },
+    };
+    return map[run.conclusion] || { key: 'unknown', icon: '⚪', text: run.conclusion || '알 수 없음' };
+}
+
+function formatDuration(run) {
+    const start = Date.parse(run.run_started_at || run.created_at);
+    const end = run.status === 'completed' ? Date.parse(run.updated_at) : Date.now();
+    if (!start || !end || end < start) return '';
+    const seconds = Math.round((end - start) / 1000);
+    const text = seconds < 60 ? `${seconds}초` : `${Math.round(seconds / 60)}분`;
+    return run.status === 'completed' ? text : `${text}째`;
+}
+
+// 실패한 실행이 어느 단계(step)에서 멈췄는지 (워크플로우의 한국어 단계 이름)
+async function fetchFailedStep(run) {
+    if (!Number.isInteger(run.id) || state.failedSteps.has(run.id)) return;
+    try {
+        const data = await callProxyAPI(`${REPO_API}/actions/runs/${run.id}/jobs`, 'GET');
+        const jobs = (data && data.jobs) || [];
+        const job = jobs.find(j => j.conclusion === 'failure' || j.conclusion === 'timed_out') || jobs[0];
+        const step = job && (job.steps || []).find(s => s.conclusion === 'failure' || s.conclusion === 'timed_out');
+        state.failedSteps.set(run.id, step ? step.name : '');
+    } catch (error) {
+        console.warn('실패 단계를 불러오지 못했습니다:', error);
+    }
+}
+
+async function fetchLatestRun(workflow) {
+    try {
+        const data = await callProxyAPI(`${REPO_API}/actions/workflows/${workflow}.yml/runs?per_page=1`, 'GET');
+        return (data && data.workflow_runs && data.workflow_runs[0]) || null;
+    } catch (error) {
+        console.warn(`${workflow} 실행 기록을 불러오지 못했습니다:`, error);
+        return undefined;
+    }
+}
+
+function renderPipeline() {
+    document.getElementById('pipeline').innerHTML = PIPELINE.map(stage => {
+        const run = state.pipeline[stage.workflow];
+        const status = runStatus(run);
+        const time = run ? formatRunTime(run.run_started_at || run.created_at) : '';
+        const stale = run && run.status === 'completed' && !time.startsWith('오늘');  // 오늘 실행 기록이 아님
+        const duration = run ? formatDuration(run) : '';
+        const details = [status.text, time, duration].filter(Boolean).join(' · ');
+        const failedStep = run && state.failedSteps.get(run.id);
+        return `
+            <li class="stage stage-${status.key}${stale ? ' is-stale' : ''}">
+                <span class="stage-icon" aria-hidden="true">${status.icon}</span>
+                <span class="stage-text">
+                    <span class="stage-label">${escapeHTML(stage.label)}</span>
+                    <span class="stage-status">${escapeHTML(details)}</span>
+                    ${failedStep ? `<span class="stage-detail">'${escapeHTML(failedStep)}' 단계에서 멈춤</span>` : ''}
+                </span>
+            </li>`;
+    }).join('');
+}
+
+async function refreshPipeline() {
+    const workflows = new Set(PIPELINE.map(stage => stage.workflow));
+    state.watches.forEach((_, workflow) => workflows.add(workflow));
+    const results = await Promise.all(Array.from(workflows).map(async workflow => [workflow, await fetchLatestRun(workflow)]));
+    results.forEach(([workflow, run]) => { state.pipeline[workflow] = run; });
+    await Promise.all(results
+        .filter(([, run]) => run && ['failure', 'timed_out'].includes(run.conclusion))
+        .map(([, run]) => fetchFailedStep(run)));
+    renderPipeline();
+    checkWatches();
+}
+
+// 실행을 요청한 워크플로우가 끝나면 알림
+function checkWatches() {
+    state.watches.forEach((watch, workflow) => {
+        const run = state.pipeline[workflow];
+        if (!run || Date.parse(run.created_at) < watch.since) return;  // 아직 새 실행이 시작되지 않음
+        if (run.status !== 'completed') return;
+        state.watches.delete(workflow);
+        state.watchUntil = Math.max(state.watchUntil, Date.now() + WATCH_AFTER_MS);  // 이어지는 단계 대기
+        const label = (WORKFLOWS[workflow] || {}).label || workflow;
+        if (run.conclusion === 'success') {
+            toast(`${label}이(가) 끝났습니다. 사이트 반영까지 1~2분 걸릴 수 있습니다.`, {
+                type: 'success', timeout: 0,
+                action: { label: '새로고침', onClick: () => location.reload() },
+            });
+        } else {
+            const step = state.failedSteps.get(run.id);
+            toast(`${label}이(가) ${runStatus(run).text} 상태로 끝났습니다.${step ? ` ('${step}' 단계)` : ''}\n관리자에게 실패 알림 메일이 발송됩니다.`, {
+                type: 'error', timeout: 0,
+            });
+        }
+    });
+}
+
+function schedulePoll(delay) {
+    clearTimeout(state.pollTimer);
+    state.pollTimer = setTimeout(pollPipeline, delay);
+}
+
+async function pollPipeline() {
+    if (document.hidden) {  // 탭이 안 보일 때는 쉬었다가 다시 보이면 이어서 확인
+        document.addEventListener('visibilitychange', pollPipeline, { once: true });
+        return;
+    }
+    await refreshPipeline();
+    const running = Object.values(state.pipeline).some(run => run && run.status !== 'completed');
+    if (running) state.watchUntil = Math.max(state.watchUntil, Date.now() + WATCH_AFTER_MS);
+    if (running || state.watches.size || Date.now() < state.watchUntil) schedulePoll(POLL_ACTIVE_MS);
+}
+
+async function dispatchWorkflow(workflow, successMessage) {
+    try {
+        await callProxyAPI(`${REPO_API}/actions/workflows/${workflow}.yml/dispatches`, 'POST', { ref: BRANCH });
+    } catch (error) {
+        console.error(error);
+        toast(`실행 요청 실패: ${error.message}`, { type: 'error', timeout: 8000 });
+        return false;
+    }
+    toast(successMessage || `${WORKFLOWS[workflow].label} 실행을 요청했습니다. 진행 상황은 '오늘 자동 처리 현황'에 표시됩니다.`, { type: 'success' });
+    state.watches.set(workflow, { since: Date.now() - 15000 });  // 서버 시각 차이 여유
+    state.watchUntil = Date.now() + WATCH_AFTER_MS;
+    schedulePoll(5000);
+    return true;
+}
+
+async function runWorkflow(workflow, button) {
+    if (!(await ensureAdmin())) return;
+    // ⭐ 목록으로 텍스트를 만들 때 저장하지 않은 변경이 있으면 먼저 저장
+    if (workflow === 'json_to_txt' && favoritesChanges().total > 0) {
+        await saveFavorites(button);
+        return;
+    }
+    const config = WORKFLOWS[workflow];
+    const ok = await confirmDialog(config.label, config.confirm, { confirmText: '실행' });
+    if (!ok) return;
+    await withBusy(button, () => dispatchWorkflow(workflow));
+}
+
+// -----------------------------------------------------
+// 11. 테마 · 사이드바 · 기타 UI
+// -----------------------------------------------------
+function applyTheme(theme) {
+    document.documentElement.setAttribute('data-theme', theme);
+    document.getElementById('themeToggle').textContent = theme === 'dark' ? '🌙' : '☀️';
+}
+
+function toggleTheme() {
+    const next = document.documentElement.getAttribute('data-theme') === 'dark' ? 'light' : 'dark';
+    storageSet(THEME_KEY, next);
+    applyTheme(next);
+}
+
+function isMobileLayout() {
+    return window.matchMedia('(max-width: 900px)').matches;
+}
+
+function setSidebarOpen(open) {
+    document.body.classList.toggle('sidebar-open', open);
+    document.getElementById('sidebarBackdrop').hidden = !open;
+    document.getElementById('sidebarToggle').setAttribute('aria-expanded', String(open));
+}
+
+function bindEvents() {
+    document.getElementById('themeToggle').addEventListener('click', toggleTheme);
+    document.getElementById('adminModeBtn').addEventListener('click', async () => {
+        if (state.admin.enabled) {
+            setAdmin(false);
+            toast('관리자 모드를 잠갔습니다.');
+        } else {
+            await ensureAdmin();
+        }
+    });
+
+    document.getElementById('sidebarToggle').addEventListener('click', () => {
+        if (isMobileLayout()) setSidebarOpen(!document.body.classList.contains('sidebar-open'));
+        else document.body.classList.toggle('sidebar-collapsed');
+    });
+    document.getElementById('sidebarBackdrop').addEventListener('click', () => setSidebarOpen(false));
+    document.getElementById('main-nav').addEventListener('click', event => {
+        if (event.target.closest('a') && isMobileLayout()) setSidebarOpen(false);
+    });
+    window.addEventListener('hashchange', () => showView(viewFromHash()));
+
+    document.getElementById('search-term').addEventListener('input', debounce(event => {
+        const type = viewType(state.view);
+        if (!type) return;
+        state.search[type] = event.target.value;
+        state.renderLimit = PAGE_SIZE;
+        renderCurrentView();
+    }, 250));
+    document.getElementById('sort-by').addEventListener('change', event => {
+        const type = viewType(state.view);
+        if (!type) return;
+        state.sort[type] = event.target.value;
+        state.renderLimit = PAGE_SIZE;
+        renderCurrentView();
+    });
     document.getElementById('loadAllDataBtn').addEventListener('click', () => loadAllDataAndRender('전체 기간 데이터를 불러오는 중입니다...'));
     document.getElementById('showMoreBtn').addEventListener('click', () => {
-        renderLimit += PAGE_SIZE;
+        state.renderLimit += PAGE_SIZE;
         renderCurrentView();
     });
-    document.querySelectorAll('.tab-button').forEach(button => {
-        button.addEventListener('click', (e) => {
-            e.preventDefault();
-            showTab(e.target.getAttribute('data-source'));
-        });
+    document.getElementById('clearFavoritesBtn').addEventListener('click', () => clearFavorites(viewType(state.view)));
+
+    // 목록 버튼 (⭐, 분류, 🧠, 🚫) — 항목마다 onclick 을 넣지 않고 한 곳에서 처리
+    document.getElementById('data-list-container').addEventListener('click', event => {
+        const button = event.target.closest('[data-action]');
+        if (!button) return;
+        const li = button.closest('[data-link]');
+        const item = li && state.renderedItems.get(li.dataset.link);
+        if (!item) return;
+        event.preventDefault();
+        const actions = {
+            favorite: () => toggleFavorite(item),
+            category: () => changeFavoriteCategory(item),
+            fewshot: () => toggleFewshot(item, button),
+            exclude: () => toggleExclude(item, button),
+        };
+        if (actions[button.dataset.action]) actions[button.dataset.action]();
     });
-    loadData();
-});
 
-// -----------------------------------------------------
-// 7. AI 자동 선정 (autoSelectFavoritesBtn)
-// -----------------------------------------------------
-document.getElementById('autoSelectFavoritesBtn').addEventListener('click', async function () {
-    const message = "🤖 AI(Gemini) 자동 즐겨찾기 생성을 시작하시겠습니까?\n\n" +
-        "✅ 어제(KST) 기사/간행물을 분석하여 자동 선정하고 분류합니다.\n" +
-        "✅ 약 4분 이상 소요.(별도 알람❌) 이후 대시보드에서 바로 '텍스트추출'을 눌러 일일동향을 활용하세요.\n" +
-        "⚠️ 수동 실행하지 않아도 매일 오전 6시경 자동 생성 합니다."
+    document.getElementById('saveFavoritesBtn').addEventListener('click', event => saveFavorites(event.currentTarget));
+    document.getElementById('revertFavoritesBtn').addEventListener('click', revertFavorites);
+    document.getElementById('copyReportBtn').addEventListener('click', event => copyReport(event.currentTarget));
+    document.getElementById('refreshPipelineBtn').addEventListener('click', event => withBusy(event.currentTarget, refreshPipeline));
+    document.querySelectorAll('[data-workflow]').forEach(button => {
+        button.addEventListener('click', () => runWorkflow(button.dataset.workflow, button));
+    });
 
-    if (!confirm(message)) return;
-
-    // 비밀번호 확인 추가
-    const isVerified = await verifyPassword();
-    if (!isVerified) return;
-
-    updateStatus("AI 자동 선정 요청 중...");
-    const WORKFLOW_ID = "auto_favorites.yml";
-    const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
-
-    try {
-        await callProxyAPI(endpoint, 'POST', { ref: "main" });
-        alert("✅ 실행 요청 완료! 약 2분 뒤 데이터가 자동 업데이트됩니다.\n(새로고침 불필요)");
-        updateStatus("AI 자동 선정이 진행 중입니다... (약 2~4분 소요)");
-    } catch (error) {
-        console.error('Error:', error);
-        alert(`❌ 실행 실패: ${error.message}`);
-        updateStatus("");
-    }
-});
-
-// -----------------------------------------------------
-// 8. 즐겨찾기 JSON 업로드 (uploadFavoritesBtn)
-// -----------------------------------------------------
-document.getElementById('uploadFavoritesBtn').addEventListener('click', async function () {
-    if (!(await verifyPassword())) return; // 권한 확인 추가
-
-    // 최근 30일만 불러온 상태라도 즐겨찾기 전체가 빠짐없이 올라가도록 전체 데이터를 먼저 불러옴
-    if (dataScope === 'recent') {
-        updateStatus("즐겨찾기 확인을 위해 전체 데이터를 불러오는 중...");
-        await loadAllData();
-    }
-
-    const files = [
-        {
-            type: "ARTICLE",
-            path: "codes/favorites/favorite_articles.json",
-            data: articleData.filter(item => favoriteArticles.has(item.link)).map(item => ({
-                title: item.title, link: item.link, category: favoriteArticles.get(item.link)
-            }))
-        },
-        {
-            type: "PUBLICATION",
-            path: "codes/favorites/favorite_publications.json",
-            data: publicationData.filter(item => favoritePublications.has(item.link)).map(item => ({
-                title: item.title, link: item.link, category: favoritePublications.get(item.link)
-            }))
-        }
-    ];
-
-    for (const file of files) {
-        if (file.data.length === 0) continue;
-        const jsonString = JSON.stringify(file.data, null, 2);
-        const encodedContent = btoa(unescape(encodeURIComponent(jsonString)));
-
-        try {
-            let sha = null;
-            const getEndpoint = `repos/${OWNER}/${REPO}/contents/${file.path}`;
-            const getResData = await callProxyAPI(getEndpoint, 'GET').catch(() => null);
-            if (getResData && getResData.sha) sha = getResData.sha;
-
-            const putBody = {
-                message: `update ${file.path}`,
-                content: encodedContent,
-                branch: BRANCH,
-                ...(sha && { sha })
-            };
-
-            await callProxyAPI(getEndpoint, 'PUT', putBody);
-            console.log(`✅ ${file.type} 저장 완료`);
-        } catch (err) {
-            console.error(`❌ ${file.type} 실패: ${err.message}`);
-            alert(`${file.type} 저장 실패`);
-        }
-    }
-
-    updateStatus("데이터 텍스트 변환 요청 중...");
-    const WORKFLOW_ID = "json_to_txt.yml";
-    const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
-
-    try {
-        await callProxyAPI(endpoint, 'POST', { ref: "main" });
-        alert("✅ 즐겨찾기에 있는 목록을 일일 동향 텍스트로 만듭니다.\n\n✅️ 약 30초 후 대시보드에서 '텍스트추출'을 누르세요.");
-        updateStatus("텍스트 변환 작업이 진행 중입니다... (약 30초 소요)");
-    } catch (error) {
-        console.error('Error:', error);
-        alert(`❌ 실패: ${error.message}`);
-        updateStatus("");
-    }
-});
-
-// 사이드바 토글
-document.getElementById('sidebarToggle').addEventListener('click', () => {
-    const container = document.querySelector('.container');
-    if (window.innerWidth <= 768) container.classList.toggle('sidebar-open');
-    else container.classList.toggle('sidebar-collapsed');
-});
-
-// -----------------------------------------------------
-// 9. 데이터 전체 삭제 (deleteCodesBtn)
-// -----------------------------------------------------
-document.getElementById('deleteCodesBtn').addEventListener('click', async function () {
-    const confirmMsg = "⚠️ 경고 ⚠️\n모든 데이터를 삭제합니다.\n이 작업은 되돌릴 수 없습니다.\n정말 삭제하시겠습니까?";
-    if (!confirm(confirmMsg)) return;
-
-    if (!(await verifyPassword())) return; // 권한 확인 추가
-
-    try {
-        const listEndpoint = `repos/${OWNER}/${REPO}/contents/codes`;
-        const files = await callProxyAPI(listEndpoint, 'GET');
-
-        if (!Array.isArray(files)) {
-            throw new Error("파일 목록을 불러오지 못했습니다.");
-        }
-
-        // 구독자 목록(receiver_email.json)은 데이터가 아니므로 삭제 대상에서 제외
-        const targetFiles = files.filter(file =>
-            file.type === "file" &&
-            file.name !== "receiver_email.json" &&
-            (file.name.endsWith(".json") || file.name.endsWith(".txt"))
-        );
-
-        if (targetFiles.length === 0) {
-            alert("삭제할 데이터가 없습니다.");
-            return;
-        }
-
-        for (const file of targetFiles) {
-            const deleteBody = {
-                message: `delete ${file.path}`,
-                sha: file.sha,
-                branch: BRANCH
-            };
-            const endpoint = `repos/${OWNER}/${REPO}/contents/${file.path}`;
-            await callProxyAPI(endpoint, 'DELETE', deleteBody);
-            console.log(`🗑 삭제 완료: ${file.name}`);
-        }
-
-        alert(`✅ 데이터 초기화 완료\n잠시후 페이지를 새로고침하세요.`);
-    } catch (error) {
-        console.error(error);
-        alert("❌ 삭제 중 오류 발생: " + error.message);
-    }
-});
-// -----------------------------------------------------
-// 10. 오디오 생성 실행 (createAudioBtn) - Vercel Proxy 적용
-// -----------------------------------------------------
-document.getElementById('createAudioBtn').addEventListener('click', async function () {
-    // 1. 사용자 확인 (토큰 검사는 Proxy가 처리하므로 제거)
-    const message = "🎙️ AI 뉴스 브리핑 오디오를 생성하시겠습니까?\n(약 1~2분 소요됩니다)";
-    if (!confirm(message)) return;
-
-    // 비밀번호 확인 추가
-    const isVerified = await verifyPassword();
-    if (!isVerified) return;
-
-    // 2. API 호출 준비
-    const WORKFLOW_ID = "audio_gen.yml";
-    const endpoint = `repos/${OWNER}/${REPO}/actions/workflows/${WORKFLOW_ID}/dispatches`;
-
-    updateStatus("AI 오디오 브리핑 생성 요청 중...");
-    try {
-        // 3. callProxyAPI를 통해 안전하게 요청 전송
-        await callProxyAPI(endpoint, 'POST', { ref: "main" });
-
-        alert("✅ 브리핑 생성 요청 성공!\nGemini가 대본을 쓰고 녹음 중입니다.\n약 1분 뒤 페이지를 새로고침하여 들어보세요.");
-        updateStatus("오디오 브리핑 생성 중... (약 1~2분 소요)");
-    } catch (error) {
-        console.error('Error:', error);
-        alert(`❌ 실패: ${error.message}`);
-        updateStatus("");
-    }
-});
-
-
-// 11. 최근업데이트 불러오기
-
-async function loadCompletionTime() {
-    try {
-        const response = await fetch('public/update_time.json?t=' + new Date().getTime());
-
-        if (!response.ok) {
-            throw new Error('시간 정보를 불러올 수 없습니다.');
-        }
-
-        const data = await response.json();
-        const timeElement = document.getElementById('workflow-completed-time');
-        if (timeElement) {
-            timeElement.innerText = data.completed_at;
-        }
-    } catch (error) {
-        console.error(error);
-        const timeElement = document.getElementById('workflow-completed-time');
-        if (timeElement) {
-            timeElement.innerText = "시간 정보 없음";
-        }
-    }
+    const scrollTopBtn = document.getElementById('scrollTopBtn');
+    window.addEventListener('scroll', () => { scrollTopBtn.hidden = window.scrollY < 400; }, { passive: true });
+    scrollTopBtn.addEventListener('click', () => window.scrollTo({ top: 0, behavior: 'smooth' }));
 }
 
-document.addEventListener('DOMContentLoaded', () => {
+// -----------------------------------------------------
+// 12. 시작
+// -----------------------------------------------------
+async function init() {
+    applyTheme(document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light');
+    bindEvents();
+    document.getElementById('audioPlayer').src = withCacheBust(AUDIO_URL);
+    loadReportPreview();
+    refreshPipeline().then(() => {
+        if (Object.values(state.pipeline).some(run => run && run.status !== 'completed')) schedulePoll(POLL_ACTIVE_MS);
+    });
+
+    try {
+        await loadSources();
+    } catch (error) {
+        console.error('출처 목록(config/sources.json)을 불러오지 못했습니다:', error);
+        document.getElementById('no-data').textContent = '출처 목록을 불러오지 못했습니다. 잠시 후 새로고침해 주세요.';
+        toast('출처 목록을 불러오지 못했습니다. 잠시 후 새로고침해 주세요.', { type: 'error', timeout: 0 });
+        return;
+    }
+
+    try {
+        await Promise.all([loadRecentOrAllData(), loadFavorites(), loadFewshotAndExcluded()]);
+    } catch (error) {
+        console.error('데이터 로드 중 오류:', error);
+        document.getElementById('no-data').textContent = '데이터를 불러오는 중 오류가 발생했습니다.';
+    }
     loadCompletionTime();
-});
-
-
-// -----------------------------------------------------
-// 12. 맨 위로 가기 (Top) 버튼 및 모바일 사이드바 제어
-// -----------------------------------------------------
-const scrollTopBtn = document.getElementById("scrollTopBtn");
-
-window.onscroll = function () {
-    if (document.body.scrollTop > 200 || document.documentElement.scrollTop > 200) {
-        scrollTopBtn.style.display = "block";
-    } else {
-        scrollTopBtn.style.display = "none";
-    }
-};
-
-
-if (scrollTopBtn) {
-    scrollTopBtn.addEventListener('click', function () {
-        window.scrollTo({ top: 0, behavior: 'smooth' });
-    });
+    updateFavoriteCounts();
+    renderFavoritesBar();
+    state.view = '';  // 첫 화면 강제 그리기
+    showView(viewFromHash());
 }
 
-document.querySelectorAll('.tab-button').forEach(button => {
-    button.addEventListener('click', () => {
-        if (window.innerWidth <= 768) {
-            document.querySelector('.container').classList.remove('sidebar-open');
-        }
-    });
-});
+document.addEventListener('DOMContentLoaded', init);

@@ -35,10 +35,12 @@ jobs:
         uses: actions/setup-python@v6
         with:
           python-version: '3.11'
+          cache: pip
+          cache-dependency-path: requirements.txt
 
       - name: Install dependencies
         run: |
-          pip install requests python-dotenv cryptography
+          pip install -c requirements.txt requests python-dotenv cryptography
 
       # 구독자 목록 정리 + (키가 있으면) 암호화 형식으로 변환
       - name: Cleanup expired emails
@@ -50,14 +52,12 @@ jobs:
         id: mail
         if: ${{ inputs.mode != 'cleanup_only' }}  # 체인 실행 시에는 inputs가 비어 있으므로 항상 발송
         env:
-          # GitHub Secrets에 저장된 키를 환경 변수로 매핑
-          KAKAO_REST_API_KEY: ${{ secrets.KAKAO_REST_API_KEY }}
-          KAKAO_REFRESH_TOKEN: ${{ secrets.KAKAO_REFRESH_TOKEN }}
-          GMAIL_APP_PASSWORD : ${{ secrets.GMAIL_APP_PASSWORD }}
+          # GitHub Secrets에 저장된 키를 환경 변수로 매핑 (카카오톡 발송은 쓰지 않음)
+          GMAIL_APP_PASSWORD: ${{ secrets.GMAIL_APP_PASSWORD }}
           SUBSCRIBER_ENCRYPTION_KEY: ${{ secrets.SUBSCRIBER_ENCRYPTION_KEY }}
           MAIL_MODE: ${{ inputs.mode == 'resend' && 'resend' || 'send' }}
 
-        run : python codes/pycode/gmail_send_visualizer.py
+        run: python codes/pycode/gmail_send_visualizer.py
 
       # 오늘 처음 발송했을 때만 관리자에게 일일 요약 (크롤링·AI 선정·오디오·메일 결과 한 통으로)
       - name: 관리자 일일 요약 메일
