@@ -11,7 +11,7 @@
   - 여러 출처에 같은 제목으로 올라온 기사(예: 국방부가 다시 게시한 국방일보 기사)는 하나만 남깁니다. (국방부 쪽 우선)
   - 최근 3일 브리핑과 같은 사건은 새로운 진전이 있을 때만 다시 고릅니다.
 - **🎙️ AI 오디오 브리핑 생성**: 선정된 뉴스로 브리핑 대본을 쓰고 오디오(`.mp3`)를 만듭니다.
-- **📧 이메일 구독 서비스**: `subscribe.html`에서 구독하면 매일 브리핑 메일을 받습니다. 구독은 1년간 유지되며, 만료 2주 전부터 메일에 '1년 연장하기' 안내가 붙습니다. 메일마다 본인 전용 '구독 해지' 링크가 있습니다.
+- **📧 이메일 구독 서비스**: `/subscribe`에서 구독하면 매일 브리핑 메일을 받습니다. 구독은 1년간 유지되며, 만료 2주 전부터 메일에 '1년 연장하기' 안내가 붙습니다. 메일마다 본인 전용 '구독 해지' 링크가 있습니다.
   - ⏸️ **현재 신규 구독 신청은 일시 중단** 상태입니다. 기존 구독자의 메일 발송·해지·연장은 그대로 동작합니다. (다시 여는 방법은 아래 '자주 쓰는 설정 변경' 참고)
 - **🖥️ 대시보드**: 첫 화면은 기사 최근 30일 + 간행물 전체를 빠르게 불러오고, 기사를 검색하거나 '전체 기간 불러오기'를 누르면 전체 기사를 받습니다. 다크 모드·모바일 메뉴 지원.
   - 첫 화면 데이터(`codes/dashboard/recent.json`)는 Vercel 배포 때마다 그 커밋의 데이터로 새로 만듭니다(`scripts/build-dashboard-data.mjs`). 크롤러를 로컬에서 돌려 데이터만 push 해도 바로 맞게 보입니다.
@@ -21,7 +21,21 @@
   - 저장 전 변경은 그 브라우저에만 임시로 남고, 새 AI 선정이 나오면 새 목록으로 바뀝니다.
   - 관리자 모드에서는 AI 분류 학습 데이터(🧠 Few-shot)·일일 동향 제외(🚫) 목록을 고칠 수 있습니다.
 - **📋 일일 동향 복사**: 오늘 일일 동향 텍스트(`codes/data.txt`)를 바로 복사해 공유합니다.
-- **📊 동향 리포트**: `visualizer.html`에서 오늘 일일 동향의 통계·추이를 보고, 날짜를 골라 지난 동향을 봅니다.
+- **📊 동향 리포트**: `/report`에서 오늘 일일 동향의 통계·추이를 보고, 날짜를 골라 지난 동향을 봅니다. 날짜를 고르면 주소가 `/report#26.11.27`처럼 바뀌어 그 날 리포트를 링크로 공유할 수 있습니다.
+
+### 🔗 사이트 주소
+
+| 주소 | 페이지 (파일) |
+|---|---|
+| `/` | 대시보드 (`index.html`). 화면은 `#ARTICLE_ALL`, `#IITP`처럼 해시로 바뀜 |
+| `/report` | 동향 리포트 (`visualizer.html`) |
+| `/brief` | 공유용 브리핑 (`visualizer_brief.html`) |
+| `/listen` | 오디오 브리핑 (`public/bf.html`) |
+| `/subscribe` | 구독·해지·연장 (`subscribe.html`) |
+
+- 주소와 파일은 `vercel.json`의 `rewrites`로 연결합니다. 파일 이름을 바꿔도 주소는 그대로 둘 수 있습니다.
+- 예전 주소(`/visualizer.html`, `/public/bf.html`, `/subscribe.html` 등)는 새 주소로 자동 이동합니다. 이미 보낸 메일·카톡 링크도 계속 동작합니다.
+- 사이트에는 `scripts/build-site.mjs`의 허용 목록에 있는 파일만 배포됩니다(`dist/`). 파이썬 코드, `codes/state/`, 구독자 목록, 워크플로우, 테스트, 문서는 공개되지 않습니다. 새 페이지나 데이터 파일을 사이트에 내보내려면 그 목록에 추가하세요.
 
 ---
 
@@ -63,15 +77,16 @@
 │       ├── pipeline_state.py   #   파이프라인 상태 파일 읽기/쓰기
 │       ├── pipeline_report.py  #   단계별 상태 요약, 사이트 구조 변경 감지, 관리자 알림
 │       └── notify.py           #   관리자 알림 메일 발송
-├── public/                     # 오늘 브리핑 오디오(audio.mp3), 오디오 재생 페이지(bf.html), 공유 썸네일
+├── public/                     # 오늘 브리핑 오디오(audio.mp3), 오디오 재생 페이지(bf.html → /listen), 공유 썸네일
 ├── scripts/
-│   ├── build-dashboard-data.mjs     # 배포 때 대시보드 첫 화면 데이터 생성 (vercel.json buildCommand)
+│   ├── build-site.mjs               # 배포 빌드: 사이트 파일만 dist/ 로 모음 (vercel.json buildCommand)
+│   ├── build-dashboard-data.mjs     # 대시보드 첫 화면 데이터 생성 (build-site 가 사용)
 │   └── vercel-ignore-build.sh       # 사이트와 무관한 커밋은 Vercel 배포를 건너뜀 (vercel.json ignoreCommand)
 ├── tests/                      # 테스트 (CI에서 실행, 네트워크·AI·메일 호출 없음)
 ├── .github/workflows/          # 자동화 워크플로우 + ci.yml(코드 검사)
 ├── index.html / script.js / style.css   # 메인 대시보드
-├── subscribe.html              # 구독 신청/해지 (메일 속 해지·연장 링크도 처리)
-└── visualizer.html / visualizer_brief.html  # 시각화 / 브리핑 페이지
+├── subscribe.html              # /subscribe 구독 신청/해지 (메일 속 해지·연장 링크도 처리)
+└── visualizer.html / visualizer_brief.html  # /report 동향 리포트 / /brief 공유용 브리핑
 ```
 
 ---
@@ -97,7 +112,7 @@
 - GitHub 예약 시각을 자정~05:13 사이로 옮기면 안 됩니다. GitHub이 먼저 돌면 Claude 작업이 '이미 실행됨'으로 건너뛰어 순서가 뒤집힙니다. (`tests/test_workflows.py`가 확인)
 - 시작을 자정 전으로 옮기면 안 됩니다. AI 자동 선정이 KST 기준 '어제' 날짜 기사를 고르기 때문입니다.
 - 크롤링이 하루에 여러 번 끝나도 **AI 선정·오디오·메일은 하루 한 번씩만** 실행됩니다. 대시보드 버튼으로 직접 실행하면 항상 실행됩니다.
-- 각 단계는 결과를 main에 커밋하고, 사이트(Vercel)는 그 커밋으로 다시 배포됩니다. 사이트에 보이지 않는 파일(`codes/state/`, 구독자 목록, 파이썬 코드, 워크플로우, 문서)만 바뀐 커밋은 배포하지 않습니다. (`scripts/vercel-ignore-build.sh`)
+- 각 단계는 결과를 main에 커밋하고, 사이트(Vercel)는 그 커밋으로 다시 배포됩니다. 사이트에 배포되지 않는 파일(`codes/state/`, 구독자 목록, 파이썬 코드, 워크플로우, 문서)만 바뀐 커밋은 배포하지 않습니다. (`scripts/vercel-ignore-build.sh`)
 - 메일은 GitHub Actions의 오디오 생성이 끝날 때만 이어서 발송됩니다 (별도 예약 없음). 로컬에서 실행해 푸시한 경우에는 메일이 자동으로 나가지 않으니 Actions에서 `KakaoTalk or Gmail Auto Send`를 mode `send`로 실행하세요.
 
 **상태 기록 (`codes/state/`)**
@@ -167,6 +182,8 @@
 2. 파이썬 패키지를 설치합니다: `pip install -r requirements.txt`
 3. 필요한 값을 `.env`에 넣습니다. (위 표 참고)
 4. 저장소 루트에서 실행합니다. 예: `python codes/pycode/run_crawlers.py --no-mail`
+
+사이트를 로컬에서 볼 때는 `node scripts/build-site.mjs`로 `dist/`를 만든 뒤 `npx vercel dev`로 열면 `/report` 같은 주소까지 운영과 똑같이 동작합니다. (Live Server로 저장소 루트를 열면 대시보드는 되지만 `/report` 등 짧은 주소는 연결되지 않으니 `visualizer.html`을 직접 여세요.)
 
 > 로컬에서 크롤링·AI 선정·오디오를 실행해 푸시하면 구독자 메일은 자동으로 나가지 않습니다. 메일은 GitHub Actions의 오디오 단계가 끝날 때만 이어서 발송되므로, 푸시 후 Actions에서 `KakaoTalk or Gmail Auto Send`를 mode `send`로 실행하세요.
 

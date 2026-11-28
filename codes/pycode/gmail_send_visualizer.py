@@ -49,7 +49,7 @@ receiver_file_path = "codes/receiver_email.json"
 MAX_RECIPIENTS = 100  # api/subscribe.js 의 구독자 상한과 같게 유지
 
 SITE_URL = "https://ai-trend-analysis.vercel.app"
-VISUALIZER_URL = f"{SITE_URL}/visualizer.html"
+VISUALIZER_URL = f"{SITE_URL}/report"  # 동향 리포트 (visualizer.html, vercel.json 에서 연결)
 RENEW_NOTICE_DAYS = 14  # 만료 며칠 전부터 연장 안내를 보여줄지
 WORKFLOW_URL = "https://github.com/jhjhc1483/AI_Trend_Analysis_vercel/actions/workflows/kakao_or_gmail_send.yml"
 # =============================================
@@ -95,9 +95,9 @@ def subscription_links(email):
         return None
     unsubscribe_query = urlencode({"action": "unsubscribe", "email": email, "token": unsubscribe_token})
     return {
-        "unsubscribe_page": f"{SITE_URL}/subscribe.html?{unsubscribe_query}",
+        "unsubscribe_page": f"{SITE_URL}/subscribe?{unsubscribe_query}",
         "unsubscribe_one_click": f"{SITE_URL}/api/subscribe?{unsubscribe_query}",
-        "renew_page": f"{SITE_URL}/subscribe.html?" + urlencode(
+        "renew_page": f"{SITE_URL}/subscribe?" + urlencode(
             {"action": "renew", "email": email, "token": make_token("renew", email)}),
     }
 

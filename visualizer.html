@@ -860,7 +860,7 @@
         // ========================================
         async function fetchBriefing() {
             try {
-                const response = await fetch(`codes/data.json?t=${Date.now()}`);
+                const response = await fetch(`/codes/data.json?t=${Date.now()}`);
                 if (!response.ok) throw new Error('data.json 로드 실패');
                 const historyData = await response.json();
                 const dates = Object.keys(historyData).sort((a, b) => b.localeCompare(a));
@@ -899,7 +899,7 @@
         // ========================================
         async function fetchLatestText() {
             try {
-                const response = await fetch('codes/data.txt?t=' + Date.now());
+                const response = await fetch('/codes/data.txt?t=' + Date.now());
                 if (!response.ok) throw new Error('Failed to fetch data.txt');
                 const text = await response.text();
                 parseAndRender(text);
@@ -1504,7 +1504,7 @@
         // ========================================
         async function loadInitialData() {
             try {
-                const response = await fetch('codes/data.json?t=' + Date.now());
+                const response = await fetch('/codes/data.json?t=' + Date.now());
                 if (!response.ok) throw new Error('data.json 로드 실패');
                 allHistoryData = await response.json();
 
@@ -1531,13 +1531,25 @@
                         historyDateInput.addEventListener('change', (e) => {
                             const selectedDate = e.target.value;
                             const key = selectedDate.substring(2).replace(/-/g, '.');
-                            if (allHistoryData[key]) renderHistoryDate(key);
+                            if (allHistoryData[key]) {
+                                // 주소에 날짜를 남겨 그 날 리포트를 링크로 공유할 수 있게 함 (/report#26.11.27)
+                                history.replaceState(null, '', key === dates[0] ? location.pathname : '#' + key);
+                                renderHistoryDate(key);
+                            }
                             else alert('해당 날짜의 데이터가 없습니다.');
                         });
                     }
 
-                    // 최신 날짜로 즉시 렌더링 (score 및 필독/주목 뱃지 포함!)
-                    renderHistoryDate(dates[0]);
+                    // 주소의 날짜(#26.11.27)가 있으면 그 날, 없으면 최신 날짜로 렌더링 (score 및 필독/주목 뱃지 포함!)
+                    const showDateFromHash = () => {
+                        let key = '';
+                        try { key = decodeURIComponent(location.hash.slice(1)); } catch (e) { key = ''; }
+                        const target = allHistoryData[key] ? key : dates[0];
+                        if (historyDateInput) historyDateInput.value = '20' + target.replace(/\./g, '-');
+                        renderHistoryDate(target);
+                    };
+                    window.addEventListener('hashchange', showDateFromHash);
+                    showDateFromHash();
 
                     // Render time series charts
                     renderTimeSeriesCharts();
@@ -1559,7 +1571,7 @@
 
             // Audio
             const audioPlayer = document.getElementById('audioPlayer');
-            if (audioPlayer) audioPlayer.src = `public/audio.mp3?t=${Date.now()}`;
+            if (audioPlayer) audioPlayer.src = `/public/audio.mp3?t=${Date.now()}`;
 
             // Search
             initSearch();

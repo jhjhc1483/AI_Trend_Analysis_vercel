@@ -6,3 +6,6 @@ node_modules/
 
 # 대시보드 첫 화면 데이터: Vercel 배포 때 scripts/build-dashboard-data.mjs 가 만듦 (커밋하지 않음)
 codes/dashboard/recent.json
+
+# Vercel 배포 빌드 결과 (scripts/build-site.mjs)
+dist/

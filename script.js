@@ -1053,7 +1053,7 @@ async function copyReport(button) {
             await copyText(await res.text());
             toast('일일 동향을 복사했습니다. 메신저에 붙여 넣어 공유하세요.', {
                 type: 'success',
-                action: { label: '동향 리포트 열기', onClick: () => { location.href = 'visualizer.html'; } },
+                action: { label: '동향 리포트 열기', onClick: () => { location.href = '/report'; } },
             });
         } catch (error) {
             console.error(error);

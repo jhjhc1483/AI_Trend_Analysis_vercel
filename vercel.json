@@ -1,13 +1,62 @@
 {
   "version": 2,
   "installCommand": "",
-  "buildCommand": "node scripts/build-dashboard-data.mjs",
-  "outputDirectory": ".",
+  "buildCommand": "node scripts/build-site.mjs",
+  "outputDirectory": "dist",
   "ignoreCommand": "bash scripts/vercel-ignore-build.sh",
+  "trailingSlash": false,
   "rewrites": [
     {
       "source": "/api/(.*)",
       "destination": "/api/$1"
+    },
+    {
+      "source": "/report",
+      "destination": "/visualizer.html"
+    },
+    {
+      "source": "/brief",
+      "destination": "/visualizer_brief.html"
+    },
+    {
+      "source": "/listen",
+      "destination": "/public/bf.html"
+    },
+    {
+      "source": "/subscribe",
+      "destination": "/subscribe.html"
+    }
+  ],
+  "redirects": [
+    {
+      "source": "/index.html",
+      "destination": "/",
+      "permanent": true
+    },
+    {
+      "source": "/visualizer.html",
+      "destination": "/report",
+      "permanent": true
+    },
+    {
+      "source": "/visualizer",
+      "destination": "/report",
+      "permanent": true
+    },
+    {
+      "source": "/visualizer_brief.html",
+      "destination": "/brief",
+      "permanent": true
+    },
+    {
+      "source": "/public/bf.html",
+      "destination": "/listen",
+      "permanent": true
+    },
+    {
+      "source": "/subscribe.html",
+      "destination": "/subscribe",
+      "permanent": true
     }
   ]
 }

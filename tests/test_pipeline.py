@@ -124,3 +124,25 @@ def test_candidates_prefer_mnd_and_skip_excluded(monkeypatch, tmp_path):
     assert [(a["site"], a["link"]) for a in articles] == [("MND", "https://mnd/1")], "같은 제목은 국방부 것을 남김"
     assert [(p["site"], p["title"]) for p in pubs] == [("NIA", "보고서")]
     assert skipped == {"excluded": 1, "duplicate": 1}
+
+
+# ---------------- 메일·공유 텍스트의 사이트 주소 ----------------
+
+def test_links_use_short_addresses_defined_in_vercel_json(monkeypatch, json_to_txt):
+    """메일·일일 동향 텍스트에 넣는 주소가 vercel.json 에 연결된 주소인지 (파일 이름 주소를 쓰면 이동 한 번을 더 거침)"""
+    import gmail_send_visualizer as gsv
+    from conftest import ROOT
+
+    rewrites = {r["source"] for r in json.loads((ROOT / "vercel.json").read_text(encoding="utf-8"))["rewrites"]}
+    monkeypatch.setenv("SUBSCRIBER_ENCRYPTION_KEY", "test-key-for-ci-only-0123456789abcdef")
+    links = gsv.subscription_links("user@example.com")
+    paths = [gsv.VISUALIZER_URL, links["unsubscribe_page"], links["renew_page"]]
+
+    module, tmp = json_to_txt
+    module.main()
+    listen = [line.split()[-1] for line in (tmp / "data.txt").read_text(encoding="utf-8").splitlines() if "오디오 듣기" in line]
+    assert listen, "일일 동향 텍스트에 오디오 링크가 없습니다"
+
+    for url in paths + listen:
+        path = url.replace(gsv.SITE_URL, "").split("?")[0]
+        assert path in rewrites, f"{url} 의 경로 {path} 가 vercel.json 에 없습니다"
