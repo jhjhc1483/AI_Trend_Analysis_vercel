@@ -12,10 +12,10 @@ jobs:
     # 작업 환경 설정
     steps:
       - name: Checkout repository
-        uses: actions/checkout@v5
+        uses: actions/checkout@v7
 
       - name: Set up Python
-        uses: actions/setup-python@v6
+        uses: actions/setup-python@v7
         with:
           python-version: '3.11'
 
@@ -24,7 +24,7 @@ jobs:
         run: python codes/pycode/json_to_txt.py
 
       - name: Commit and Push changes
-        uses: stefanzweifel/git-auto-commit-action@v5
+        uses: stefanzweifel/git-auto-commit-action@v7
         with:
           file_pattern: 'codes/data.*'
           commit_message: 'Automated data.txt & data.json update [skip ci]'

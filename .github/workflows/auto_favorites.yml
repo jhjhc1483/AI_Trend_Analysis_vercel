@@ -19,12 +19,12 @@ jobs:
 
     steps:
     - name: 저장소 체크아웃
-      uses: actions/checkout@v5
+      uses: actions/checkout@v7
       with:
         ref: main  # 크롤링 결과가 반영된 최신 main
 
     - name: Python 설정
-      uses: actions/setup-python@v6
+      uses: actions/setup-python@v7
       with:
         python-version: '3.11'
         cache: pip

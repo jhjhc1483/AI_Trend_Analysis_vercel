@@ -20,9 +20,9 @@ jobs:
     name: Python (테스트·문법)
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-python@v6
+      - uses: actions/setup-python@v7
         with:
           python-version: '3.11'   # 데이터 파이프라인 워크플로우와 같은 버전
           cache: pip
@@ -42,9 +42,9 @@ jobs:
     name: JavaScript (문법·API 허용 목록)
     runs-on: ubuntu-latest
     steps:
-      - uses: actions/checkout@v5
+      - uses: actions/checkout@v7
 
-      - uses: actions/setup-node@v5
+      - uses: actions/setup-node@v7
         with:
           node-version: '22'
 
