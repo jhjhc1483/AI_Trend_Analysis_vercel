@@ -109,7 +109,7 @@ def build_briefing_message(receiver, subject, report_text):
     days_left = days_until_expiry(receiver.get("date")) if receiver.get("date") else None
     show_renew = links is not None and days_left is not None and days_left <= RENEW_NOTICE_DAYS
 
-    text_body = f"오늘의 AI 동향 브리핑이 도착했습니다.\n아래 링크에서 확인하실 수 있습니다.\n\n{VISUALIZER_URL}"
+    text_body = f"오늘의 AI 동향 브리핑이 도착했습니다.\n아래 동향 리포트 링크에서 확인하실 수 있습니다.\n\n{VISUALIZER_URL}"
     renew_html = ""
     footer_html = ""
     if show_renew:
@@ -130,9 +130,9 @@ def build_briefing_message(receiver, subject, report_text):
         <body style="font-family: 'Apple SD Gothic Neo', 'Malgun Gothic', sans-serif; line-height: 1.6; color: #333; padding: 20px;">
             <div style="max-width: 600px; margin: 0 auto; border: 1px solid #eee; border-radius: 15px; padding: 30px; background-color: #ffffff;">{renew_html}
                 <h2 style="color: #2c5234; border-bottom: 2px solid #2c5234; padding-bottom: 10px;">오늘의 AI 동향 브리핑이 도착했어요! 📰</h2>
-                <p style="font-size: 1.1em;">오늘의 AI 주요 소식과 동향을 아래 시각화 페이지에서 쉽고 간편하게 확인해 보세요.</p>
+                <p style="font-size: 1.1em;">오늘의 AI 주요 소식과 동향을 아래 동향 리포트에서 쉽고 간편하게 확인해 보세요.</p>
                 <div style="text-align: center; margin: 40px 0;">
-                    <a href="{VISUALIZER_URL}" style="background-color: #2c5234; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">동향 브리핑 확인하기</a>
+                    <a href="{VISUALIZER_URL}" style="background-color: #2c5234; color: white; padding: 15px 30px; text-decoration: none; border-radius: 10px; font-weight: bold; font-size: 1.1em; box-shadow: 0 4px 6px rgba(0,0,0,0.1);">동향 리포트 보기</a>
                 </div>
                 <p style="color: #666; font-size: 0.9em;">링크가 클릭되지 않는다면 아래 주소를 복사해 브라우저에 붙여넣어 주세요:<br>
                 <a href="{VISUALIZER_URL}" style="color: #3498db;">{VISUALIZER_URL}</a></p>
