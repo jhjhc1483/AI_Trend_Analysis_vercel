@@ -133,11 +133,6 @@ jobs:
             python codes/pycode/run_crawlers.py --alert-only
           fi
 
-      # 대시보드 첫 화면용 최근 30일 데이터 (codes/dashboard/recent.json)
-      - name: Build dashboard recent data
-        if: steps.crawl.outputs.ran != 'false'
-        run: python codes/pycode/build_dashboard_data.py
-
       # 현재 시간(KST)을 저장
       - name: Generate Last Updated Time
         if: steps.crawl.outputs.ran != 'false'
@@ -157,7 +152,7 @@ jobs:
       - name: Commit and Push all changes
         uses: stefanzweifel/git-auto-commit-action@v5
         with:
-          file_pattern: 'codes/*.json codes/state/*.json codes/dashboard/*.json public/update_time.json'
+          file_pattern: 'codes/*.json codes/state/*.json public/update_time.json'
           commit_message: 'Automated data update: All sources [skip ci]'
           branch: main
 

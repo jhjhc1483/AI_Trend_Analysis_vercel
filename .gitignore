@@ -3,3 +3,6 @@
 __pycache__/
 node_modules/
 .DS_Store
+
+# 대시보드 첫 화면 데이터: Vercel 배포 때 scripts/build-dashboard-data.mjs 가 만듦 (커밋하지 않음)
+codes/dashboard/recent.json

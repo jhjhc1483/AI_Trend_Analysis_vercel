@@ -3,7 +3,8 @@
 // 대시보드 (index.html)
 //
 //  - 출처 목록: config/sources.json (크롤러·AI 선정과 같은 파일)
-//  - 기사/간행물: 첫 화면은 codes/dashboard/recent.json(최근 30일), 검색·'전체 기간'은 출처별 전체 파일
+//  - 기사/간행물: 첫 화면은 codes/dashboard/recent.json (배포 때 생성: 기사 최근 30일 + 간행물 전체),
+//    기사 검색·'전체 기간'은 출처별 전체 파일
 //  - ⭐ 오늘 일일 동향: codes/favorites/favorite_*.json 이 기준.
 //    고친 내용은 '일일 동향 저장' 전까지 이 브라우저(localStorage)에만 임시로 남고,
 //    서버 목록이 바뀌면(새 AI 선정 등) 새 목록으로 바뀝니다.
@@ -76,8 +77,9 @@ const state = {
     sourceById: new Map(),
     items: { article: [], publication: [] },
     linkIndex: new Map(),       // 링크 → 기사/간행물
-    dataScope: 'none',          // 'recent' (최근 N일) | 'all' (전체 기간)
+    dataScope: { article: 'none', publication: 'none' },   // 종류별 'recent' (최근 N일) | 'all' (전체 기간)
     recentDays: 30,
+    dataUpdatedAt: null,        // 출처 데이터가 마지막으로 바뀐 커밋 시각 (recent.json)
     fullDataPromise: null,
     view: 'HOME',
     renderLimit: PAGE_SIZE,
@@ -91,6 +93,7 @@ const state = {
     excluded: new Set(),
     admin: { enabled: false, password: '' },
     pipeline: {},               // workflow → 최근 실행 (null = 기록 없음, undefined = 확인 실패)
+    failedSteps: new Map(),     // 실패한 실행 id → 멈춘 단계 이름
     watches: new Map(),         // 실행을 요청한 workflow → { since }
     watchUntil: 0,
     pollTimer: null,
@@ -467,7 +470,12 @@ async function loadRecentOrAllData() {
         if (!res.ok) throw new Error(`HTTP ${res.status}`);
         const recent = await res.json();
         state.recentDays = recent.days || state.recentDays;
-        setLoadedData(state.sources.map(source => toItems(source, (recent.files || {})[source.file])), 'recent');
+        state.dataUpdatedAt = recent.data_updated_at || null;
+        const complete = new Set(recent.complete_types || []);  // 기간 제한 없이 전부 담긴 종류 (간행물)
+        setLoadedData(state.sources.map(source => toItems(source, (recent.files || {})[source.file])), {
+            article: complete.has(ARTICLE) ? 'all' : 'recent',
+            publication: complete.has(PUBLICATION) ? 'all' : 'recent',
+        });
     } catch (error) {
         console.warn('최근 데이터 파일을 불러오지 못해 전체 데이터를 불러옵니다:', error);
         await loadAllData();
@@ -479,7 +487,7 @@ function loadAllData() {
     if (!state.fullDataPromise) {
         state.fullDataPromise = Promise.all(state.sources.map(source =>
             fetchJSON(`codes/${source.file}`, []).then(rows => toItems(source, rows))
-        )).then(lists => setLoadedData(lists, 'all'));
+        )).then(lists => setLoadedData(lists, { article: 'all', publication: 'all' }));
     }
     return state.fullDataPromise;
 }
@@ -911,7 +919,7 @@ function renderList(view) {
     else items = state.items[type].filter(item => item.site === view);
 
     // 최근 데이터만 있는 상태에서 검색하면 전체 기간 데이터를 받아 다시 검색 (그동안은 최근 결과를 먼저 표시)
-    if (searchTerm && state.dataScope === 'recent' && !isFav) {
+    if (searchTerm && state.dataScope[type] === 'recent' && !isFav) {
         loadAllDataAndRender('전체 기간에서 검색하기 위해 데이터를 불러오는 중입니다...');
     } else {
         updateDataScopeNotice();
@@ -940,10 +948,10 @@ function renderList(view) {
 
 function updateDataScopeNotice(loadingMessage) {
     const notice = document.getElementById('data-scope-notice');
-    const isFav = state.view.endsWith('_FAV');
-    notice.hidden = state.dataScope !== 'recent' || state.view === 'HOME' || isFav;
+    const type = viewType(state.view);
+    notice.hidden = !type || state.dataScope[type] !== 'recent' || state.view.endsWith('_FAV');
     document.getElementById('data-scope-text').textContent = loadingMessage ||
-        `빠른 표시를 위해 최근 ${state.recentDays}일 데이터만 보여주고 있습니다.`;
+        `빠른 표시를 위해 최근 ${state.recentDays}일 기사만 보여주고 있습니다.`;
     const btn = document.getElementById('loadAllDataBtn');
     btn.disabled = Boolean(loadingMessage);
     btn.hidden = Boolean(loadingMessage);
@@ -1045,7 +1053,7 @@ async function copyReport(button) {
             await copyText(await res.text());
             toast('일일 동향을 복사했습니다. 메신저에 붙여 넣어 공유하세요.', {
                 type: 'success',
-                action: { label: '시각화 보기', onClick: () => { location.href = 'visualizer.html'; } },
+                action: { label: '동향 리포트 열기', onClick: () => { location.href = 'visualizer.html'; } },
             });
         } catch (error) {
             console.error(error);
@@ -1054,8 +1062,15 @@ async function copyReport(button) {
     });
 }
 
+// 기사 데이터가 마지막으로 바뀐 시각: 배포 때 기록한 데이터 커밋 시각 (로컬 실행 후 push 한 경우도 반영),
+// 없으면 크롤링 워크플로우가 남긴 public/update_time.json
 async function loadCompletionTime() {
     const el = document.getElementById('workflow-completed-time');
+    if (state.dataUpdatedAt) {
+        const p = kstParts(new Date(state.dataUpdatedAt));
+        el.textContent = `${p.month}.${p.day} ${p.hour}:${p.minute}`;
+        return;
+    }
     try {
         const data = await fetchJSON(UPDATE_TIME_URL);
         const match = String(data.completed_at || '').match(/^\d{4}-(\d{2})-(\d{2}) (\d{2}):(\d{2})/);
@@ -1076,8 +1091,8 @@ function formatRunTime(isoString) {
 }
 
 function runStatus(run) {
-    if (run === undefined) return { key: 'unknown', icon: '·', text: '확인 불가' };
-    if (run === null) return { key: 'none', icon: '·', text: '기록 없음' };
+    if (run === undefined) return { key: 'unknown', icon: '⚪', text: '확인 불가' };
+    if (run === null) return { key: 'none', icon: '⚪', text: '기록 없음' };
     if (run.status !== 'completed') return { key: 'running', icon: '⏳', text: run.status === 'queued' ? '대기 중' : '진행 중' };
     const map = {
         success: { key: 'success', icon: '✅', text: '완료' },
@@ -1086,7 +1101,30 @@ function runStatus(run) {
         skipped: { key: 'skipped', icon: '⏭️', text: '건너뜀' },
         timed_out: { key: 'failure', icon: '⌛', text: '시간 초과' },
     };
-    return map[run.conclusion] || { key: 'unknown', icon: '·', text: run.conclusion || '알 수 없음' };
+    return map[run.conclusion] || { key: 'unknown', icon: '⚪', text: run.conclusion || '알 수 없음' };
+}
+
+function formatDuration(run) {
+    const start = Date.parse(run.run_started_at || run.created_at);
+    const end = run.status === 'completed' ? Date.parse(run.updated_at) : Date.now();
+    if (!start || !end || end < start) return '';
+    const seconds = Math.round((end - start) / 1000);
+    const text = seconds < 60 ? `${seconds}초` : `${Math.round(seconds / 60)}분`;
+    return run.status === 'completed' ? text : `${text}째`;
+}
+
+// 실패한 실행이 어느 단계(step)에서 멈췄는지 (워크플로우의 한국어 단계 이름)
+async function fetchFailedStep(run) {
+    if (!Number.isInteger(run.id) || state.failedSteps.has(run.id)) return;
+    try {
+        const data = await callProxyAPI(`${REPO_API}/actions/runs/${run.id}/jobs`, 'GET');
+        const jobs = (data && data.jobs) || [];
+        const job = jobs.find(j => j.conclusion === 'failure' || j.conclusion === 'timed_out') || jobs[0];
+        const step = job && (job.steps || []).find(s => s.conclusion === 'failure' || s.conclusion === 'timed_out');
+        state.failedSteps.set(run.id, step ? step.name : '');
+    } catch (error) {
+        console.warn('실패 단계를 불러오지 못했습니다:', error);
+    }
 }
 
 async function fetchLatestRun(workflow) {
@@ -1105,16 +1143,17 @@ function renderPipeline() {
         const status = runStatus(run);
         const time = run ? formatRunTime(run.run_started_at || run.created_at) : '';
         const stale = run && run.status === 'completed' && !time.startsWith('오늘');  // 오늘 실행 기록이 아님
-        const link = run && run.html_url
-            ? `<a class="stage-link" href="${escapeHTML(safeUrl(run.html_url))}" target="_blank" rel="noopener noreferrer">실행 기록</a>` : '';
+        const duration = run ? formatDuration(run) : '';
+        const details = [status.text, time, duration].filter(Boolean).join(' · ');
+        const failedStep = run && state.failedSteps.get(run.id);
         return `
             <li class="stage stage-${status.key}${stale ? ' is-stale' : ''}">
                 <span class="stage-icon" aria-hidden="true">${status.icon}</span>
                 <span class="stage-text">
                     <span class="stage-label">${escapeHTML(stage.label)}</span>
-                    <span class="stage-status">${escapeHTML(status.text)}${time ? ` · ${escapeHTML(time)}` : ''}</span>
+                    <span class="stage-status">${escapeHTML(details)}</span>
+                    ${failedStep ? `<span class="stage-detail">'${escapeHTML(failedStep)}' 단계에서 멈춤</span>` : ''}
                 </span>
-                ${link}
             </li>`;
     }).join('');
 }
@@ -1124,6 +1163,9 @@ async function refreshPipeline() {
     state.watches.forEach((_, workflow) => workflows.add(workflow));
     const results = await Promise.all(Array.from(workflows).map(async workflow => [workflow, await fetchLatestRun(workflow)]));
     results.forEach(([workflow, run]) => { state.pipeline[workflow] = run; });
+    await Promise.all(results
+        .filter(([, run]) => run && ['failure', 'timed_out'].includes(run.conclusion))
+        .map(([, run]) => fetchFailedStep(run)));
     renderPipeline();
     checkWatches();
 }
@@ -1143,9 +1185,9 @@ function checkWatches() {
                 action: { label: '새로고침', onClick: () => location.reload() },
             });
         } else {
-            toast(`${label}이(가) ${runStatus(run).text} 상태로 끝났습니다. 실행 기록을 확인하세요.`, {
+            const step = state.failedSteps.get(run.id);
+            toast(`${label}이(가) ${runStatus(run).text} 상태로 끝났습니다.${step ? ` ('${step}' 단계)` : ''}\n관리자에게 실패 알림 메일이 발송됩니다.`, {
                 type: 'error', timeout: 0,
-                action: { label: '실행 기록', onClick: () => window.open(safeUrl(run.html_url), '_blank', 'noopener') },
             });
         }
     });
@@ -1298,7 +1340,6 @@ async function init() {
     applyTheme(document.documentElement.getAttribute('data-theme') === 'dark' ? 'dark' : 'light');
     bindEvents();
     document.getElementById('audioPlayer').src = withCacheBust(AUDIO_URL);
-    loadCompletionTime();
     loadReportPreview();
     refreshPipeline().then(() => {
         if (Object.values(state.pipeline).some(run => run && run.status !== 'completed')) schedulePoll(POLL_ACTIVE_MS);
@@ -1319,6 +1360,7 @@ async function init() {
         console.error('데이터 로드 중 오류:', error);
         document.getElementById('no-data').textContent = '데이터를 불러오는 중 오류가 발생했습니다.';
     }
+    loadCompletionTime();
     updateFavoriteCounts();
     renderFavoritesBar();
     state.view = '';  // 첫 화면 강제 그리기

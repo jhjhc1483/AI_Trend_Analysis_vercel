@@ -26,6 +26,11 @@ export const ROUTES = [
         pattern: /^actions\/workflows\/(main|auto_favorites|json_to_txt|audio_gen|kakao_or_gmail_send)\.yml\/runs\?per_page=[1-5]$/,
         methods: { GET: 'public' },
     },
+    {
+        // 실패한 실행이 어느 단계에서 멈췄는지 (읽기 전용)
+        pattern: /^actions\/runs\/\d+\/jobs$/,
+        methods: { GET: 'public' },
+    },
 ];
 
 // 요청이 허용 목록에 있으면 'public' 또는 'admin'을, 없으면 null을 반환합니다.

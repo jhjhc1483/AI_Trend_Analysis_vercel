@@ -46,6 +46,8 @@ def repo(tmp_path):
     ({"codes/mnd.json": "[1]"}, 1),        # 수집 데이터
     ({"public/audio.mp3": "mp3"}, 1),      # 오디오
     ({"index.html": "v2"}, 1),             # 사이트 코드
+    ({"scripts/build-dashboard-data.mjs": "x"}, 1),  # 배포 때 실행하는 빌드 스크립트
+    ({"scripts/vercel-ignore-build.sh": "x", "tests/t.py": "x"}, 0),
     ({"codes/state/audio.json": "{}", "codes/data.txt": "today"}, 1),
 ])
 def test_decides_by_changed_paths(repo, files, expected):

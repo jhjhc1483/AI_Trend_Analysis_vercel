@@ -381,12 +381,7 @@ body:not(.is-admin) .admin-only { display: none; }
 .stage-text { display: flex; flex-direction: column; min-width: 0; }
 .stage-label { font-size: 0.9rem; font-weight: 700; }
 .stage-status { font-size: 0.78rem; color: var(--text-secondary); }
-.stage-link {
-    margin-left: auto;
-    font-size: 0.72rem;
-    color: var(--text-tertiary);
-    white-space: nowrap;
-}
+.stage-detail { margin-top: 2px; font-size: 0.75rem; color: var(--danger); word-break: keep-all; overflow-wrap: anywhere; }
 .stage-success { border-color: color-mix(in srgb, var(--accent) 35%, transparent); }
 .stage-failure { border-color: var(--danger); background: var(--danger-light); }
 .stage-running { border-color: var(--warning); background: var(--warning-light); }

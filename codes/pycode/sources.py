@@ -1,8 +1,8 @@
 """
 수집 출처 목록 (config/sources.json) 읽기.
 
-크롤러 실행(run_crawlers.py), AI 자동 선정(auto_favorites.py), 대시보드용 데이터(build_dashboard_data.py),
-구조 변경 감지(pipeline_report.py)와 대시보드(script.js)가 모두 같은 파일을 씁니다.
+크롤러 실행(run_crawlers.py), AI 자동 선정(auto_favorites.py), 구조 변경 감지(pipeline_report.py),
+대시보드(script.js)와 대시보드 데이터 빌드(scripts/build-dashboard-data.mjs)가 모두 같은 파일을 씁니다.
 출처를 추가하거나 이름을 바꿀 때는 config/sources.json 만 고치면 됩니다.
 """
 import json
@@ -34,16 +34,7 @@ def crawler_scripts():
     return [(s["crawler"], report_name(s)) for s in load_sources()]
 
 
-def data_files():
-    """codes/ 아래 출처별 수집 데이터 파일명 목록"""
-    return [s["file"] for s in load_sources()]
-
-
 def daily_news_scripts():
     """매일 새 기사가 올라오는 뉴스 출처의 크롤러 파일명 (며칠 연속 0건이면 경고)"""
     return {s["crawler"] for s in load_sources() if s.get("daily_news")}
 
-
-def by_file():
-    """수집 데이터 파일명 → 출처 정보"""
-    return {s["file"]: s for s in load_sources()}

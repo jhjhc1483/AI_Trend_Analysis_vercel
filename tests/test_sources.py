@@ -30,10 +30,8 @@ def test_report_names():
 
 
 def test_pipeline_modules_use_registry():
-    import build_dashboard_data
     import pipeline_report
     import run_crawlers
 
     assert [script for script, _ in run_crawlers.CRAWLER_SCRIPTS] == [s["crawler"] for s in sources.load_sources()]
-    assert build_dashboard_data.SOURCE_FILES == sources.data_files()
     assert pipeline_report.DAILY_NEWS_SCRIPTS == {"mnd.py", "etnews.py", "aitimes.py", "AInews.py", "kookbang.py"}

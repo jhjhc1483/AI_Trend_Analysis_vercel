@@ -17,6 +17,9 @@ test('workflows: admin dispatch, public run status, mail cannot be dispatched', 
     assert.equal(findAccess(`${R}actions/workflows/audio_gen.yml/runs?per_page=1`, 'GET'), 'public');
     assert.equal(findAccess(`${R}actions/workflows/audio_gen.yml/runs?per_page=100`, 'GET'), null);
     assert.equal(findAccess(`${R}actions/workflows/audio_gen.yml/runs?per_page=1&branch=x`, 'GET'), null);
+    assert.equal(findAccess(`${R}actions/runs/46085067120/jobs`, 'GET'), 'public');
+    assert.equal(findAccess(`${R}actions/runs/46085067120/rerun`, 'POST'), null);
+    assert.equal(findAccess(`${R}actions/runs/46085067120/jobs`, 'POST'), null);
 });
 
 test('no file deletion, no other repos, no path tricks', () => {

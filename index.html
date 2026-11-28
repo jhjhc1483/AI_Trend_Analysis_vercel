@@ -23,7 +23,7 @@
     <header class="topbar">
         <button id="sidebarToggle" class="icon-btn topbar-menu" type="button" aria-label="메뉴 열기" aria-controls="sidebar" aria-expanded="false">☰</button>
         <a class="brand" href="#HOME">AI 일일동향 <span>분석</span></a>
-        <div class="topbar-meta" title="마지막으로 기사를 수집한 시각 (KST)">
+        <div class="topbar-meta" title="기사 데이터가 마지막으로 바뀐 시각 (KST)">
             <span class="live-dot" aria-hidden="true"></span>
             <span class="topbar-meta-label">기사 업데이트</span>
             <strong id="workflow-completed-time">불러오는 중…</strong>
@@ -54,7 +54,7 @@
                 </div>
 
                 <div class="nav-group">
-                    <a href="visualizer.html" class="nav-link">📊 일일 동향 시각화</a>
+                    <a href="visualizer.html" class="nav-link">📊 일일 동향 리포트</a>
                 </div>
             </nav>
         </aside>
@@ -82,7 +82,7 @@
                         </div>
                         <div class="hero-actions">
                             <button type="button" class="btn primary" id="copyReportBtn">📋 일일 동향 복사</button>
-                            <a class="btn" href="visualizer.html">📊 시각화 보기</a>
+                            <a class="btn" href="visualizer.html">📊 동향 리포트</a>
                             <!-- 신규 구독 일시 중단 중: 다시 열 때 hidden 제거 (api/subscribe.js 의 SUBSCRIBE_OPEN 참고) -->
                             <a class="btn" href="subscribe.html" id="subscribeRedirectBtn" hidden>📧 구독</a>
                         </div>

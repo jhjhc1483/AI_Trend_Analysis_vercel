@@ -1,5 +1,7 @@
 {
   "version": 2,
+  "buildCommand": "node scripts/build-dashboard-data.mjs",
+  "outputDirectory": ".",
   "ignoreCommand": "bash scripts/vercel-ignore-build.sh",
   "rewrites": [
     {

@@ -3,7 +3,7 @@
 #   exit 0 → 이번 배포를 건너뜀
 #   exit 1 → 배포 진행
 #
-# 사이트(정적 파일 + api/)가 읽지 않는 파일만 바뀐 커밋이면 배포하지 않습니다.
+# 사이트(정적 파일 + api/ + 배포 때 실행하는 scripts/build-dashboard-data.mjs)가 쓰지 않는 파일만 바뀐 커밋이면 배포하지 않습니다.
 #   예) 메일 발송 기록 커밋(codes/state/mail.json, codes/receiver_email.json),
 #       파이썬 코드·워크플로우·문서·테스트만 바꾼 커밋
 # 기사 데이터·일일 동향·오디오처럼 사이트에 보이는 파일이 바뀌면 지금처럼 배포됩니다.
@@ -18,7 +18,7 @@ IGNORED_PATHS=(
   ':(exclude)codes/receiver_email.json'
   ':(exclude).github'
   ':(exclude)tests'
-  ':(exclude)scripts'
+  ':(exclude)scripts/vercel-ignore-build.sh'
   ':(exclude).vscode'
   ':(exclude)*.md'
   ':(exclude)requirements*.txt'
